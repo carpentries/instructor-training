@@ -1,9 +1,12 @@
 ---
-layout: lesson
-root: ..
-title: Motivation and Demotivation
+layout: page
+title: Instructor Training
+subtitle: Relevance and Empowerment
+minutes: 10
 ---
-## Relevance and Empowerment
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
 
 Discussion of the practical implications of learning concepts
 brings us to our next big idea:
@@ -66,6 +69,7 @@ If people need to run shell commands on the files they've edited,
 a substantial fraction won't be able to navigate to the right directory without help.
 
 ###Techniques for Motivating Content
+
 As discussed above, it's crucial that students believe in the value of the material,
 and their ability to master it. But, reciting impressive technical specifications of
 a tool often falls flat with beginners, and unsubstantiated cheerleading

@@ -1,9 +1,12 @@
 ---
-layout: lesson
-root: ..
-title: Collaborative Lesson Development
+layout: page
+title: Instructor Training
+subtitle: Improving Instruction
+minutes: 10
 ---
-## Improving Instruction
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
 
 Teaching is a performing art.
 As in music or athletics,

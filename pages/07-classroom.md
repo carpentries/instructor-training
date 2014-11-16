@@ -1,9 +1,12 @@
 ---
-layout: lesson
-root: ..
-title: In the Classroom
+layout: page
+title: Instructor Training
+subtitle: Scaling Instruction
+minutes: 10
 ---
-## Scaling Instruction
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
 
 We said earlier that clearing up novices' misconceptions is more important than imparting "mere information".
 However,
@@ -18,12 +21,16 @@ including programming.
 When it is used,
 the basic learning cycle is typically something like this:
 
-1. The instructor presents a multiple-choice question.
-2. Learners choose an answer
-   (typically using clickers or by holding up multi-colored cards).
-3. Learners discuss their answers in small groups (typically 3-4 people) and re-vote.
-4. The instructor presents and explains the correct answer.
-5. Learners re-group to discuss the solution.
+1.  The instructor presents a multiple-choice question.
+
+2.  Learners choose an answer
+    (typically using clickers or by holding up multi-colored cards).
+
+3.  Learners discuss their answers in small groups (typically 3-4 people) and re-vote.
+
+4.  The instructor presents and explains the correct answer.
+
+5.  Learners re-group to discuss the solution.
 
 The second discussion stage is crucial,
 because that's where group members clear up each other's misconceptions.

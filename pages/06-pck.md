@@ -1,17 +1,24 @@
 ---
-layout: lesson
-root: ..
-title: Pedagogical Content Knowledge and Cognitive Load
+layout: page
+title: Instructor Training
+subtitle: Pedagogical Content Knowledge and Cognitive Load
+minutes: 10
 ---
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
+
 Another way of looking at what teachers (ought to) know
 divides knowledge into three parts:
 
-- *content knowledge*, such as the "what" of programming;
-- *general pedagogical knowledge*, i.e., an understanding of the
-  psychology of learning; and
-- the *pedagogical content knowledge* (PCK) that connects the two,
-  which is things like when to teach the notion of a call stack
-  and what examples to use when doing so.
+*   *content knowledge*, such as the "what" of programming;
+
+*   *general pedagogical knowledge*, i.e., an understanding of the
+    psychology of learning; and
+
+*   the *pedagogical content knowledge* (PCK) that connects the two,
+    which is things like when to teach the notion of a call stack
+    and what examples to use when doing so.
 
 This training course will focus on general pedagogical knowledge,
 and will assume you know as much as you need to about basic programming (our content knowledge).
@@ -20,8 +27,6 @@ but computing education lags 20-30 years behind fields like mathematics
 when it comes to assembling and organizing that.
 What Software Carpentry has is in [our teaching guide]({{page.root}}/novice/teaching/index.html);
 additions and corrections would be very welcome.
-
-## Cognitive Load
 
 Another psychological theory that we use in our teaching is that of cognitive load.
 The theory behind it is sometimes criticized,

@@ -1,8 +1,13 @@
 ---
-layout: lesson
-root: ..
-title: Next Steps
+layout: page
+title: Instructor Training
+subtitle: Next Steps
+minutes: 10
 ---
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
+
 This training course only a shadow of what it needs to be.
 If you'd like to help us make it better,
 we would welcome additions discussing:
