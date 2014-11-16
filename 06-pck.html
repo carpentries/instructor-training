@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="pandoc">
+    <title>Software Carpentry: Instructor Training</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap-responsive.css" />
+    <link rel="stylesheet" type="text/css" href="css/swc.css" />
+    <link rel="alternate" type="application/rss+xml" title="Software Carpentry Blog" href="http://software-carpentry.org/feed.xml"/>
+    <meta charset="UTF-8" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="banner">
+        <a href="http://software-carpentry.org" title="Software Carpentry">
+          <img alt="Software Carpentry banner" src="img/software-carpentry-banner.png" />
+        </a>
+      </div>
+      <div class="row-fluid">
+        <div class="span10 offset1">
+          <h1 class="title">Instructor Training</h1>
+          <h2 class="subtitle">Pedagogical Content Knowledge and Cognitive Load</h2>
+          <div id="learning-objectives" class="objectives">
+          <h2>Learning Objectives</h2>
+          <ul>
+          <li>FIXME</li>
+          </ul>
+          </div>
+          <p>Another way of looking at what teachers (ought to) know divides knowledge into three parts:</p>
+          <ul>
+          <li><p><em>content knowledge</em>, such as the &quot;what&quot; of programming;</p></li>
+          <li><p><em>general pedagogical knowledge</em>, i.e., an understanding of the psychology of learning; and</p></li>
+          <li><p>the <em>pedagogical content knowledge</em> (PCK) that connects the two, which is things like when to teach the notion of a call stack and what examples to use when doing so.</p></li>
+          </ul>
+          <p>This training course will focus on general pedagogical knowledge, and will assume you know as much as you need to about basic programming (our content knowledge). We <em>wish</em> the course could include a lot more material on PCK than it does, but computing education lags 20-30 years behind fields like mathematics when it comes to assembling and organizing that. What Software Carpentry has is in <a href="{{page.root}}/novice/teaching/index.html">our teaching guide</a>; additions and corrections would be very welcome.</p>
+          <p>Another psychological theory that we use in our teaching is that of cognitive load. The theory behind it is sometimes criticized, but instruction based on it has been proven effective, and it's a good framework for tying together several other ideas about learning.</p>
+          <p>In brief, cognitive load theory holds that people's brains are dealing with three kinds of load when they're learning:</p>
+          <ul>
+          <li><em>Intrinsic</em> load is what they have to keep in mind in order to carry out a learning task.</li>
+          <li><em>Germane</em> load is the (desirable) mental effort required to create linkages between new information and old (which is one of the things that distinguishes learning from memorization).</li>
+          <li><em>Extraneous</em> load is everything else that distracts or gets in the way.</li>
+          </ul>
+          <p>The key idea is pretty simple: eliminating extraneous cognitive load accelerates learning. The hard part is to figure out what's extraneous (which is why the theory is often called unfalsifiable), but research over the last three decades has identified a few factors. One example is the work by Richard Mayer and others on the split-attention effect. Correlating linguistic, auditory, and visual streams of information takes cognitive effort: the brain can't help but check that it's getting the same information from those channels. Learning is therefore more effective when the same information is <em>not</em> being presented simultaneously in two different channels. For example, audio narration with on-screen captions is harder to learn from than either on its own; speech and images is more effective <em>without</em> captions, at least for native speakers of the language.</p>
+          <p>Second, searching for a solution strategy is itself a large cognitive load. This load can be reduced by giving learners worked examples, i.e., by showing them a problem and a detailed step-by-step solution. To maximize their impact, worked examples should immediately be followed by a series of faded examples: exercises in which learners are presented with a problem and a solution in which some parts are left blank for them to fill in. For example, after having had this code explained to them:</p>
+          <pre><code>def get_word_lengths(words):
+              word_lengths = []
+              for item in words:
+                  word_lengths.append(len(item))
+              return word_lengths
+          
+          print word_lengths([&#39;hello&#39;, &#39;world&#39;])</code></pre>
+          <p>learners could be asked to fill in the blanks in:</p>
+          <pre><code>def word_lengths(words):
+              word_lengths = ____
+              for item in range(len(____)):
+                  word_lengths.append(len(____))
+              return word_lengths</code></pre>
+          <p>After being shown:</p>
+          <pre><code>doubles = [2 * x for x in items]</code></pre>
+          <p>learners could be asked to get a list of lengths:</p>
+          <pre><code>lengths = [____ for ____ in words]</code></pre>
+          <p>and then put the ideas together in this template:</p>
+          <pre><code>def word_lengths(____):
+              return [____]</code></pre>
+          <p>Faded examples are less intimidating than a blank screen. In particular, learners are much less likely to feel that they don't even know where to start. They also encourage learners to think about the similarities and differences between various approaches, which helps shape the conceptual categories we want them to form.</p>
+        </div>
+      </div>
+      <div class="footer">
+        <a class="label swc-blue-bg" href="mailto:admin@software-carpentry.org">Email</a>
+        <a class="label swc-blue-bg" href="http://github.com/swcarpentry">GitHub</a>
+        <a class="label swc-blue-bg" href="LICENSE.html">License</a>
+        <a class="bugreport label swc-blue-bg" href="mailto:admin@software-carpentry.org?subject=bug%20in%20{{page.path}}">Bug Report</a>
+      </div>
+    </div>
+    <!-- Javascript placed at the end of the document so the pages load faster -->
+    <script src="http://software-carpentry.org/v5/js/jquery-1.9.1.min.js"></script>
+    <script src="http://software-carpentry.org/v5/js/bootstrap/bootstrap.min.js"></script>
+  </body>
+</html>
