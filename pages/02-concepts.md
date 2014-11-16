@@ -1,9 +1,12 @@
 ---
-layout: lesson
-root: ..
-title: Cognitive Development and Concept Mapping
+layout: page
+title: Instructor Training
+subtitle: What Does It Mean to Understand Computing?
+minutes: 10
 ---
-## What Does It Mean to Understand Computing?
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
 
 Our next problem is to figure out
 what we want people to understand when we're finished teaching.

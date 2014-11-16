@@ -1,8 +1,14 @@
 ---
-layout: lesson
-root: ..
-title: Introduction
+layout: page
+title: Instructor Training
+subtitle: Introduction
+minutes: 10
 ---
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
+> * FIXME
+
 Let's start by defining a few terms.
 The first is *educational psychology*,
 which is the study of how people learn.
@@ -12,7 +18,7 @@ and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond
 the standardized Western classroom).
 
-> ### What We Leave Out
+> ## What We Leave Out {.callout}
 > 
 > This training takes a narrow "cognitivist" perspective on education.
 > We can afford to do that because most of our learners are privileged:
@@ -76,7 +82,7 @@ but when those techniques are deployed more widely
 to teachers who have seen one bandwagon after another roll by,
 results will regress to the mean.
 
-> #### The Song Remains the Same
+> ## The Song Remains the Same {.callout}
 >
 > This same debate between advocates of a bottom-up "principles first" approach
 > and people who emphasize early rewards and motivation
@@ -147,7 +153,7 @@ most people will remember seeing five spots,
 rather than six,
 because their brain has learned that the 'X' pattern contains five pieces.
 
-> #### Helping People Form Chunks
+> ## Helping People Form Chunks {.callout}
 >
 > Telling people, "This is a pattern," isn't enough to form a chunk:
 > they need to see it repeatedly for the pattern to sink in.
@@ -196,7 +202,7 @@ but is instantly familiar from music lessons and other "performance" subjects.
 The former may give instructors (the illusion of) more control,
 but the latter produces better results.
 
-> #### Live Coding
+> ## Live Coding {.callout}
 >
 > Software Carpentry workshops don't use slides to teach programming.
 > Instead,
@@ -325,7 +331,7 @@ or form them early on
 are able to progress through such instruction,
 but most others are not.
 
-> #### The Documentation Is Useless
+> ## The Documentation Is Useless {.callout}
 > 
 > This is also one of the reasons software documentation is so often frustrating.
 > Reference material is opaque to someone who doesn't know what they're looking for,
