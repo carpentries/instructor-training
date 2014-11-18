@@ -1,5 +1,12 @@
-Software Carpentry Instructors Training Workshops
-=================================================
+---
+layout: page
+title: Instructor Training
+subtitle: Running a Training Workshop
+minutes: 10
+---
+> ## Learning Objectives {.objectives}
+>
+> * FIXME
 
 1. Make a Screencast Before the Workshop
 ----------------------------------------
@@ -226,4 +233,6 @@ a) Get the smart ones to be helpers. Occassionally, in collaboration
 
 b) Manage expectations (see 7.d).
 
-
+> ## FIXME {.challenge}
+>
+> FIXME

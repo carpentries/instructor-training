@@ -341,3 +341,7 @@ but most others are not.
 > are too slow and too diffuse for people who already have one.
 > It is possible to craft something that serves both communities,
 > but it's often simpler to address their needs separately.
+
+> ## FIXME {.challenge}
+>
+> FIXME

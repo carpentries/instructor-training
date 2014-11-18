@@ -115,3 +115,7 @@ In particular,
 learners are much less likely to feel that they don't even know where to start.
 They also encourage learners to think about the similarities and differences between various approaches,
 which helps shape the conceptual categories we want them to form.
+
+> ## FIXME {.challenge}
+>
+> FIXME
