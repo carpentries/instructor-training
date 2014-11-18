@@ -182,3 +182,7 @@ but our instructors only teach a couple of times a year as a sideline to their r
 Outside the days they're actually teaching,
 they're scattered across six continents,
 trying to catch up on all the work they pushed aside to go run a bootcamp.
+
+> ## FIXME {.challenge}
+>
+> FIXME

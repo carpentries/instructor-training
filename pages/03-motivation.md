@@ -151,3 +151,7 @@ they can work together after the bootcamp to implement what they've learned.
 ## Media-First Computation
 
 FIXME: Guzdial and Ericson's work
+
+> ## FIXME {.challenge}
+>
+> FIXME

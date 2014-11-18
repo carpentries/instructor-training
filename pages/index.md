@@ -30,12 +30,14 @@ learners.
 1.  [Introduction](01-intro.html)
 2.  [Cognitive Development and Concept Mapping](02-concepts.html)
 3.  [Motivation and Demotivation](03-motivation.html)
-4.  [Assessment and Reverse Instructional Design](04-assessment.html)
+4.  [Assessment and Adaptaton](04-assessment.html)
 5.  [Collaborative Lesson Development](05-collab.html)
 6.  [Pedagogical Content Knowledge and Cognitive Load](06-pck.html)
 7.  [In the Classroom](07-classroom.html)
 8.  [Next Steps](08-onward.html)
 9.  [Readings](09-reading.html)
+10. [Running a Training Workshop](10-workshop.html)
+11. [Reverse Instructional Design](11-design.html)
 
 ## Other Resources
 
