@@ -19,7 +19,7 @@ and the philosophical question of what we actually mean by "learning"
 the standardized Western classroom).
 
 > ## What We Leave Out {.callout}
-> 
+>
 > This training takes a narrow "cognitivist" perspective on education.
 > We can afford to do that because most of our learners are privileged:
 > well-fed, physically safe, already well-educated, highly motivated, etc.
@@ -31,7 +31,7 @@ the standardized Western classroom).
 > from wealthy suburban homes on standardized tests,
 > is anyone naive enough to believe that we would still insist on using these tests
 >  as indicators of success?"
-> 
+>
 > --- Kenneth Wesson, in Littky and Grabelle's *The Big Picture*
 
 What we know about educational psychology constrains teaching,
@@ -93,6 +93,10 @@ results will regress to the mean.
 > Our position is bolstered by research by people like Mark Guzdial and Barbara Ericson
 > on media-first computation,
 > which we will discuss later.
+
+<!---
+
+COMMENT: all the rest of this material has been refactored into the relevant sections
 
 ## The Most Important Number in Teaching (and Programming)
 
@@ -331,8 +335,10 @@ or form them early on
 are able to progress through such instruction,
 but most others are not.
 
+--->
+
 > ## The Documentation Is Useless {.callout}
-> 
+>
 > This is also one of the reasons software documentation is so often frustrating.
 > Reference material is opaque to someone who doesn't know what they're looking for,
 > such as a novice who doesn't yet have a mental map of the domain.
@@ -341,6 +347,32 @@ but most others are not.
 > are too slow and too diffuse for people who already have one.
 > It is possible to craft something that serves both communities,
 > but it's often simpler to address their needs separately.
+
+## Goals & Questions
+
+Traditionally, software development skills are aquired somewhat tangentially by many scientists;
+mandatory formal training in coding is often minimal,
+and we as scientists accumulate a personal culture and practice of coding via day-to-day interactions with code,
+centered around mission-critical needs as they arise.
+But as software becomes a more and more integral tool for doing science,
+it behooves us to develop a familiarity with some of the foundational methods of software developers that go beyond the immediate and apparent;
+the use of version control, proficiency with databases, scripting, modularity, and building for reuse.
+A thoughtful discussion of goals can be found in [Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745).
+
+These goals require the introduction of some new tools to the scientific toolbelt.
+What's more, they involve a level of proficiency that is essentially impossible to achieve in a short workshop;
+further practice is required on the part of the learner,
+and that practice represents an up-front investment that must be well motivated.
+They do not, however, require us to become master software developers.
+Just as every scientist need not be a publishing statistician but should have a firm grasp of the statistical methods used to analyze data in their field,
+we want to introduce the skills and ideas that support our goal, without abandoning pragmatism.
+
+So - a few questions fall to us as instructors:
+
+ - How can we introduce new ideas in a systematic way, that makes them usable as quickly as possible?
+ - What do we have to do to build competent fluency in these ideas, and how does that differ from mastery?
+ - How can we build and manage motivation to keep students engaged while they invest in practicing with these new ideas?
+
 
 > ## FIXME {.challenge}
 >
