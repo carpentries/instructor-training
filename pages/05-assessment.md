@@ -8,6 +8,8 @@ minutes: 10
 >
 > * FIXME
 
+### Assessment
+
 Any adaptive process requires observations to adapt to - so, we need
 effective tools to observe & assess student understanding. Student
 assessment is commonly grouped into two gross categories: *summative*,
@@ -59,6 +61,8 @@ balancing time investment with depth of scrutiny; [the following
 exercise](http://mozillascience.github.io/instructorTraining/designAndAdaptation/assessment_01.html)
 goes through their construction and use.
 
+### Adaptation
+
 So - you've just administered a quick formative multiple choice
 question, and the majority of your students are quite convinced that
 37+25 = 512; what now? Formative assessment has zeroed in on a
@@ -83,7 +87,8 @@ reasserting the confusion that lead to misconception in the first
 place, thus potentially cementing it even further. The trouble being,
 that even the most creative instructor eventually runs out of ways to
 explain the same idea. How can we create a learning environment that's
-even more adaptive than we are?
+even more adaptive than we are? We'll explore this in the next lesson,
+on *Peer Instruction*.
 
 > ## FIXME {.challenge}
 >

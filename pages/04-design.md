@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructor Training
-subtitle: Reverse Instructional Design
+subtitle: Designing Lessons
 minutes: 10
 ---
 > ## Learning Objectives {.objectives}
@@ -44,13 +44,12 @@ instruction to be better *targeted*, more *constructive*, more
 
 A couple of tools will let us reach for our ambition. In this unit,
 we'll learn about *reverse instructional design*, which will help with
-targeting and reliability, and about *summative vs. formative
+targeting and reliability.
+In the next section, we'll discuss *summative vs. formative
 assessment*, which will help our lessons be more constructive and
 adaptable.
 
-FIXME: SUB-HEADINGS USUALLY IMPLY WE SHOULD SPLIT THE TOPIC.
-
-## Reverse Instructional Design
+### Reverse Instructional Design
 
 Two of the characteristics we want for our lessons are better
 reliability and better targeting, compared to what we get by stepping
@@ -96,9 +95,7 @@ Sketch a concept map.
     and scope can be controlled. Here's my quickie concept map
     surrounding some ideas in the bash shell:
 
-    FIXME: import images
-
-    ![rid0](https://github.com/mozillascience/instructorTraining/blob/master/pilotingLearning/notes/rid0.jpg)
+    ![](img/rid0.jpg)
 
 Identify Goals
 :   Reverse instructional design is all about starting from where you
@@ -107,7 +104,7 @@ Identify Goals
     lesson. Come up with some exercises or activities that will allow
     students to prove that they have mastered the target concept.
 
-    ![rid1](https://github.com/mozillascience/instructorTraining/blob/master/pilotingLearning/notes/rid1.jpg)
+    ![](img/rid1.jpg)
 
 Characterize learners.
 :   When we think about concepts at the level of nodes on a concept map,
@@ -128,7 +125,7 @@ Characterize learners.
     with similar experiences to Jennifer, I might choose a few
     concepts from my map as starting knowledge:
 
-    ![rid2](https://github.com/mozillascience/instructorTraining/blob/master/pilotingLearning/notes/rid2.jpg)
+    ![](img/rid2.jpg)
 
 Follow a path from back to front.
 :   At this point, the lesson plan pretty much writes itself. Choose a
@@ -136,7 +133,7 @@ Follow a path from back to front.
     (Note that it's not necessary to touch on every node in the map
     right away!)
 
-    ![rid3](https://github.com/mozillascience/instructorTraining/blob/master/pilotingLearning/notes/rid3.jpg)
+    ![](img/rid3.jpg)
 
     Have a go at reverse instructional design in
     [this activity](http://mozillascience.github.io/instructorTraining/designAndAdaptation/RID_01.html).
