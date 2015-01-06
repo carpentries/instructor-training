@@ -158,18 +158,13 @@ Let students know about any logistics for the days - lunch times, breaks, access
 
 ---
 
----
-
 ### Exercise on introducing yourself
 
 **Objectives for exercise:**
 - practice introducing yourself
 - serves as an icebreaker - an opportunity to meet other people in the workshop
 
-#### Exercise
-
 Get in a group of three with two other people you haven't met before.
-
 Each person do a video introducing themselves and get feedback from the
 other two in the group. Your introduction should be just around a minute or two.
 
