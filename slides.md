@@ -96,3 +96,24 @@ To meet these objectives an introduction should have 8 components
 ---
 
 ### Inform students of workshop requirements
+
+---
+
+### Introducing yourself effectively
+
+**What characteristics do you want to convey about yourself?**  
+
+**What will you need to say to convey those characteristics?**  
+
+**Why are you teaching a Software or Data Carpentry workshop?**  
+
+**What should you be careful not to say?**  
+
+---
+
+### Exercise
+
+Get in a group of three with two other people you haven't met before.
+
+Each person do a video introducing themselves and get feedback from the
+other two in the group.
