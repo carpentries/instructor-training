@@ -79,7 +79,7 @@ First impressions can be long-lasting, and they are usually based on a thin slic
 
 **The physical environment**. Students can make decisions about what kind of course yours will be by the way the chairs are arranged. Rows signify a more formal environment, while circles or u-shapes imply a more informal atmosphere, with more expectations of student participation. The words on the board also indicate how interesting the course is likely to be. In addition to the course information, consider having a thought-provoking question displayed as they arrive.
 
-**Your use of the few minutes before class.** Greeting the students as they enter the classroom communicates approachability. Franticly arriving right on time or even late communicates disorganization, and so on.
+**Your use of the few minutes before class.** Greeting the students as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganization, and so on.
 
 #### 2. Introduce yourself effectively
 
@@ -163,4 +163,4 @@ but it is a great chance to stimulate interest about the workshop and to activat
 
 #### 8. Inform students of logistics
 
-Let them know about any logistics for the days - lunch times, breaks, accessibility, etc. 
+Let them know about any logistics for the days - lunch times, breaks, accessibility, etc.
