@@ -11,7 +11,7 @@ minutes: 10
 We said earlier that clearing up novices' misconceptions is more important than imparting "mere information".
 However,
 we also said that when novices misunderstand something,
-they can all misunderstand it differently.
+they can each misunderstand it differently.
 How can one instructor clear up the different misconceptions of forty or four hundred people at a time?
 
 No matter how good a teacher you are, you can only pitch a lesson at
