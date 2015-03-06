@@ -62,24 +62,13 @@ up.  More importantly, they learn how to give feedback on teaching.
 
 3. Multiple Choice Questions With Distractors
 ---------------------------------------------
+The main goal of this task is to develop ways of analyzing the potential misconceptions students may have about a given topic. This task will also teach instructors to become more aware of how they themselves may induce such misconceptions.
 
-The goal of this task is to develop way of analysing of the potential
-misconceptions which students may have. The instructors need to also
-become aware how they themselves may induce such misconceptions.
+a) Trainees are divided into groups of three. Each group comes up with three questions and four answers to each question. The incorrect answers should be ones that students may arrive at as the result of specific misunderstandings or misconceptions about the material. Trainees should be able to explain how students would arrive at these incorrect answers.
 
-a) In groups of 3 the trainees come up with 3 questions and 4 answers
-   to each, and explanations for the wrong answers ("why the student
-   could choose one of the wrong answers");
+b) The groups then exchange questions and answers, without revealing the correct answer or how they anticipate students would arrive at the incorrect answers. The group reading the question must then determine the correct answer and explain how students would arrive at the incorrect answers. 
 
-b) the groups exchange the questions with answers between them (but
-   not reveal the explanation). The other group has to come up with
-   the explanations for the wrong answers. This exercise will allow
-   the group that came up with the wrong answers to see whether they
-   can "simulate" student's mind and understand possible
-   misconceptions. Also, trying to understand what could be the
-   explanation behind the wrong that the other group created is a more
-   realistic exercise --- as if they actually tried to guess the
-   reason behind the wrong answer.
+This exercise will allow the group that wrote the question to see whether they were able to accurately "simulate" a hypothetical student's mind and anticipate possible misconceptions and misunderstandings. Having groups attempt to explain how a student would arrive at an incorrect answer written by another group results in a more realistic exercise.
 
 4. Strategies for Preparing to Teach Unfamiliar Material
 --------------------------------------------------------
