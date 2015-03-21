@@ -2,7 +2,7 @@
 layout: page
 title: Instructor Training
 subtitle: Cognative Development & Concept Mapping
-minutes: 10
+minutes: 180
 ---
 > ## Learning Objectives {.objectives}
 >
@@ -148,27 +148,7 @@ The novel problems that scientists encounter will almost entirely be in their fi
 It therefore serves scientists best to be able to solve common problems in familiar circumstances -
 the trademark of a competent practitioner.
 
-Teaching, however, is in some sense always a novel problem.
-Students will always come up with new ways to misunderstand things,
-and so the flexibility afforded by mastery in teaching is always valuable.
-How does one go about becoming a master?
-
-The popular ten thousand hours number is certainly a myth.
-Many people have driven for more than ten thousand hours,
-and are little closer to mastery than after their driver's exam.
-Something more than mere repetition is required.
-
-Positing additional linkages between ideas is necessary but also not sufficient;
-there needs to be some mechanism to scrutinize and validate those new links and the strategies that come out of them.
-
-Musicians, athletes, actors and politicians have been doing it for years -
-the key is simple feedback. By having a teacher or even a colleague observe and give constructive criticism that is specific and actionable,
-we can iterate on our practice and get that invaluable second perspective on whether what we're doing is working,
-and where it's falling short. In time, with enough criticism, we can begin to usefully criticise our own practice,
-and this self-reflective criticism greatly accelerates the process of gaining mastery.
-But to begin with, getting feedback from our colleagues starts the process.
-
-[Exercise 3: Feedback Pt. 1](http://mozillascience.github.io/instructorTraining/knowledgeAndExpertise/feedback.html)
+[Exercise 3: Targeting Novices](http://mozillascience.github.io/instructorTraining/knowledgeAndExpertise/targetingNovices.html)
 
 > ## FIXME {.challenge}
 >
