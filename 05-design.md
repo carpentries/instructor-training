@@ -89,16 +89,14 @@ between fixed points in a text.
 A typical implementation of reverse instructional design may go
 something like this:
 
-Sketch a concept map.
-:   As discussed in previous lessons, concept maps are always helpful
+ - **Sketch a concept map.** As discussed in previous lessons, concept maps are always helpful
     for laying out a large topic so that connections can be tracked
     and scope can be controlled. Here's my quickie concept map
     surrounding some ideas in the bash shell:
 
 ![](img/rid0.jpg)
 
-Identify Goals
-:   Reverse instructional design is all about starting from where you
+ - **Identify Goals.** Reverse instructional design is all about starting from where you
     want to get to. Choose the node or nodes on your concept map that
     you want students to have a clear understanding of after your
     lesson. Come up with some exercises or activities that will allow
@@ -106,8 +104,7 @@ Identify Goals
 
 ![](img/rid1.jpg)
 
-Characterize learners.
-:   When we think about concepts at the level of nodes on a concept map,
+ - **Characterize learners.** When we think about concepts at the level of nodes on a concept map,
     we've got the flexibility to better match where our students are
     coming from. It can often be helpful to imagine a character that
     you think represents your student's experience and knowledge; in
@@ -127,15 +124,14 @@ Characterize learners.
 
 ![](img/rid2.jpg)
 
-Follow a path from back to front.
-:   At this point, the lesson plan pretty much writes itself. Choose a
+ - **Follow a path from back to front.** At this point, the lesson plan pretty much writes itself. Choose a
     path to get learners from where they are, to where they need to be.
     (Note that it's not necessary to touch on every node in the map
     right away!)
 
 ![](img/rid3.jpg)
 
-Have a go at reverse instructional design in[this activity](http://mozillascience.github.io/instructorTraining/designAndAdaptation/RID_01.html).
+Have a go at reverse instructional design in [this activity](http://mozillascience.github.io/instructorTraining/designAndAdaptation/RID_01.html).
 
 Reverse instructional design has great strengths in efficiently
 guiding students from where they are to where we want them to be - but
