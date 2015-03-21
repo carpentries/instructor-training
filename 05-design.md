@@ -95,7 +95,7 @@ Sketch a concept map.
     and scope can be controlled. Here's my quickie concept map
     surrounding some ideas in the bash shell:
 
-    ![](img/rid0.jpg)
+![](img/rid0.jpg)
 
 Identify Goals
 :   Reverse instructional design is all about starting from where you
@@ -104,7 +104,7 @@ Identify Goals
     lesson. Come up with some exercises or activities that will allow
     students to prove that they have mastered the target concept.
 
-    ![](img/rid1.jpg)
+![](img/rid1.jpg)
 
 Characterize learners.
 :   When we think about concepts at the level of nodes on a concept map,
@@ -125,7 +125,7 @@ Characterize learners.
     with similar experiences to Jennifer, I might choose a few
     concepts from my map as starting knowledge:
 
-    ![](img/rid2.jpg)
+![](img/rid2.jpg)
 
 Follow a path from back to front.
 :   At this point, the lesson plan pretty much writes itself. Choose a
@@ -133,10 +133,9 @@ Follow a path from back to front.
     (Note that it's not necessary to touch on every node in the map
     right away!)
 
-    ![](img/rid3.jpg)
+![](img/rid3.jpg)
 
-    Have a go at reverse instructional design in
-    [this activity](http://mozillascience.github.io/instructorTraining/designAndAdaptation/RID_01.html).
+Have a go at reverse instructional design in[this activity](http://mozillascience.github.io/instructorTraining/designAndAdaptation/RID_01.html).
 
 Reverse instructional design has great strengths in efficiently
 guiding students from where they are to where we want them to be - but
