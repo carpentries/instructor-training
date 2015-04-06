@@ -10,7 +10,7 @@ minutes: 180
 
 ##Introduction
 
-In our discussion of our three-stage model of expertise, we concluded that most scientists don't need to be expert software developers; it's enough for them to be able to solve a recurring cast of coding problems in more-or-less familiar circumstances, which is the halmark of a competent practitioner. Teaching, however, is in some sense always a novel problem. Students will always come up with new ways to misunderstand things, and so the flexibility afforded by mastery in teaching is always valuable. How does one go about becoming a master instructor?
+In our discussion of our three-stage model of expertise, we concluded that most scientists don't need to be expert software developers; it's enough for them to be able to solve a recurring cast of coding problems in more-or-less familiar circumstances, which is the mark of a competent practitioner. Teaching, however, is in some sense always a novel problem. Students will always come up with new ways to misunderstand things, and so the flexibility afforded by mastery in teaching is always valuable. How does one go about becoming a master instructor?
 
 The popular ten thousand hours number is certainly a myth. Many people have driven for more than ten thousand hours, and are little closer to mastery than after their driver's exam. Something more than mere repetition is required.
 
@@ -20,7 +20,7 @@ Musicians, athletes, actors and politicians have been doing it for years - the k
 
 ##Anatomy of Feedback
 
-The practice of giving feedback can be incredibly powerful in its ability to expose things we couldn't perceive in ourselves in the intensity of the stage, but it can also be a very fraught process. Criticism can challenge our self image, and chafe on our insecurities and doubts; receiving criticism can feel like a place of powerlessness. If we are to successfully critique each other, we must find a way to speak our minds in a way each other can hear - how do we criticize each other in a way designed to empower and not to tear down? Giving good criticism consists of three cardinal rules:
+The practice of giving feedback can be incredibly powerful in its ability to expose things we couldn't perceive in ourselves in the intensity of the stage, but it can also be a very fraught process. Criticism can challenge our self image, and chafe on our insecurities and doubts; receiving criticism can feel like a place of powerlessness. If we are to successfully critique each other, we must find a way to speak our minds in a way each other can hear - how do we criticize each other in a way designed to empower and not to tear down? Here are a few techniques that may help you give constructive criticism:
 
  - **Be specific.** By keeping our feedback specific, we circumscribe its scope, which accomplishes two things. First, it gives the subject a clear idea of exactly where problems lie; if feedback is too nebulous, it becomes impossible to address. Second, articulating exactly what needs attention helps the subject to separate the thing being critiqued from their practice as a whole, and adds distance between the criticism and the individual's identity. Broad, vague criticisms feel like they are about us; specific criticisms feel like they are about our practice.
 
@@ -34,7 +34,7 @@ The practice of giving feedback can be incredibly powerful in its ability to exp
 
 ##Structured Feedback
 
-Trying to articulate exactly where your fellow instructor should turn her attention to in order to improve can be a nebulous and difficult task in practice. Things can go much more smoothly with a bit of structure to the process.
+Trying to articulate exactly where your fellow instructor should turn her attention in order to improve can be a nebulous and difficult task. Things can go much more smoothly with a bit of structure to the process.
 
 ###Outside-In
 
@@ -44,7 +44,7 @@ Trying to articulate exactly where your fellow instructor should turn her attent
 
  - **Presentation feedback** focuses on the manner of delivery of the lesson; is the presenter effectively commanding the attention of the room? Common mistakes are mumbling and speaking too quietly, growing impatient with mistakes or questions, and speaking too fast to follow.
 
- - **Content feedback** focuses on the actual material and its layout in the lesson; is the lesson planned and constructed as well as possible? Common mistakes include skipping 'obvious' steps, making forward references to things that haven't been explained yet, and dwelling on minuta when the basics haven't yet been clarified.
+ - **Content feedback** focuses on the actual material and its layout in the lesson; is the lesson planned and constructed as well as possible? Common mistakes include skipping 'obvious' steps, making forward references to things that haven't been explained yet, and dwelling on minutia when the basics haven't yet been clarified.
 
 Outside-In feedback's great strength is to narrow the scope of the question posed to us as reviewer; rather than a nebulous 'what's wrong with this picture?', we have three smaller and more specific categories of things to look for. This technique can be used in two main ways; first, try composing a list for each category of common mistakes you have seen before, and refer to that list when reviewing a colleague - do they repeat any of those classic mistakes? By laying out the greatest hits of bad presenting beforehand, we turn the previously nebulous exercise of giving feedback into a series of yes/no questions. Second, Outside-In can be used in a more open ended sense, to watch for quirks unique to the presenter at hand; by parsing the question along the three main components of presenting, even open-ended feedback becomes easier to generate.
 
