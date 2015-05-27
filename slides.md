@@ -74,7 +74,7 @@ To meet these objectives an introduction should have 8 components
   - how the chairs and desks are set up conveys more formal or informal setting
   (you might not have options for this in your classroom)
   - you can write some words on the board for people to see as they come in, like
-  'Welcome!' or 'Yay, softare!' or even a question for people to think about.
+  'Welcome!' or 'Yay, data' or even a question for people to think about.
 
 - **Your use of the few minutes before class.**  
 Greeting the students as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganization, and so on.
