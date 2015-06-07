@@ -19,7 +19,8 @@ one level at a time, and phrase your oration one way at a time. In any
 class (but in open-signup workshops especially), students will come
 with a very broad distribution of skills and knowledge; the best we
 can hope to do with lecture alone is to hit the center of that
-distribution. But what about the tails?
+distribution. But what about the tails? To explore this, have a go at
+[this exercise](http://mozillascience.github.io/instructorTraining/designAndAdaptation/assessment_02.html).
 
 The best solution we have so far is called *peer instruction*.
 Originally developed by Eric Mazur,
@@ -67,9 +68,10 @@ be taught to someone else. By infusing peer instruction into our
 lessons, we have used those hard-to-reach tails of the skill
 distribution to help each other.
 
-Using the content you've built up so far, try out peer instruction in
-the [this exercise](http://mozillascience.github.io/instructorTraining/designAndAdaptation/assessment_02.html).
+###Putting it All Together
 
+Now that you've had exposure to a range of pedagogical techniques, try putting
+them all together in the following [exercise](http://mozillascience.github.io/instructorTraining/designAndAdaptation/project.html).
 > ## FIXME {.challenge}
 >
 > FIXME
