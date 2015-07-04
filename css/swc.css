@@ -26,17 +26,7 @@ h2 code, h3 code, h4 code, h5 code, h6 code {
     font-size: inherit;
 }
 
-/* Objectives, Callout Box, Challenges and prerequisites are now rendered as
-Bootstrap panels.  There's a pandoc error with rendering headers nested under
-blockquote: these headers don't preserve attributes.  It means we have to
-manually set styles for these headers to look like Bootstrap's "panel-title"
-class. */
-.panel-heading h1,
-.panel-heading h2,
-.panel-heading h3,
-.panel-heading h4,
-.panel-heading h5,
-.panel-heading h6 {
+.callout {
     margin-top: 0px;
     margin-bottom: 0px;
     color: inherit;
@@ -44,32 +34,75 @@ class. */
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
+    border: 1px solid transparent;
+    border-radius: 4px;
 }
-
-/* Make space between the glyphicon and the rest of the header */
-.panel-heading h1 span,
-.panel-heading h2 span,
-.panel-heading h3 span,
-.panel-heading h4 span,
-.panel-heading h5 span,
-.panel-heading h6 span {
-    padding-right: 10px;
-}
-
-/* Make the CSS compatible with Pandoc <= 1.13.2 and Pandoc > 1.14. */
-h1.panel,
-h2.panel,
-h3.panel,
-h4.panel,
-h5.panel,
-h6.panel {
+.challenge {
     margin-top: 0px;
     margin-bottom: 0px;
-    border: 0px;
     color: inherit;
-    background-color: inherit;
-    background-image: inherit;
-    box-shadow: none;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.getready {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    
+}
+.objectives {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+   
+}
+.prereq {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+   
+}
+
+.objectives {
+  border-color: #faebcc;
+}
+
+.callout h2 {
+  font-size: 16px;
+}
+.challenge h2 {
+  font-size: 16px;
+}
+.getready h2 {
+  font-size: 16px;
+}
+.objectives h2 {
+  font-size: 16px;
+}
+.prereq h2 {
+  font-size: 16px;
 }
 
 /* Comments in code. */
@@ -125,6 +158,194 @@ blockquote {
     width: 90%;
     font-size: inherit;
 }
+/*Styling for Block Quotes*/
+/*blockquote{
+    width:943px;
+}*/
+.objectives{
+    border:none;
+}
+
+blockquote h2{
+    background-image: linear-gradient(to bottom, #fcf8e3 0%, #faf2cc 100%);
+    border:1px solid #faebcc;
+    background-repeat: repeat-x;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    display: inline-block;
+    width: 100%;
+}
+
+blockquote p{
+    padding:15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+     border:1px solid #faebcc;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+blockquote ul{
+    padding:15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+     border:1px solid #faebcc;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+
+blockquote.callout h2 {
+    background-image: linear-gradient(to bottom, #d9edf7 0%, #c4e3f3 100%);
+    background-repeat: repeat-x;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+blockquote.challenge h2{
+    background-image: linear-gradient(to bottom, #dff0d8 0%, #d0e9c6 100%);
+    background-repeat: repeat-x;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+blockquote.challenge p{
+    border:1px solid #d6e9c6;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding:15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+blockquote.callout p{
+    padding:15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border:1px solid #bce8f1;;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+blockquote h2{
+    color: #8a6d3b;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+}
+h2#prerequisites:before { 
+    font-family: 'Glyphicons Halflings'; 
+    content: "\e233"; 
+    float: left;
+    padding-right:10px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased; 
+      } 
+h2#getting-ready:before{
+    font-family: 'Glyphicons Halflings'; 
+    content: "\e067";
+    float: left;
+    padding-right:10px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+h2#learning-objectives:before{
+    font-family: 'Glyphicons Halflings';
+    content: "\e124";
+    float: left;
+    padding-right:10px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+h2#callout-box{
+    color: #31708f;
+}
+h2#callout-box:before{
+    font-family: 'Glyphicons Halflings';
+    content: "\e146";
+    float: left;
+    padding-right:10px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+h2#challenge-title{
+    color: #3c763d;
+}
+h2#challenge-title:before{
+    ont-family: 'Glyphicons Halflings';
+    content: "\270f";
+    float: left;
+    padding-right:10px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+blockquote{
+    border:none;
+    margin-left:0;
+    padding-left:0;
+    margin-top:1px;
+    
+}
+pre.python{
+    color:ForestGreen;
+}
+pre{
+    display:inline-block;
+    margin:0;
+    padding: 1em 1em .5em 1em;
+    width: 88.5%;
+    font-size: inherit;
+}
+/*/////// Arrow Styling////////////*/
+
+/*h1.title:before{
+    font-family: 'Glyphicons Halflings';
+    content:"\e079";
+    color:#3E51CF;
+    padding-right:10px;
+}
+h1.title:after{
+    font-family: 'Glyphicons Halflings';
+    content:"\e080";
+    padding-left:600px;
+    color:#3E51CF;
+}*/
 
 /* Citation for testimonial quote. */
 blockquote.testimonial cite {
@@ -280,7 +501,7 @@ blockquote p {
     line-height: inherit;
 }
 
-blockquote h2{
+blockquote h2 {
    margin-top: 0px;
 }
 
@@ -638,14 +859,12 @@ div.footer {
     text-align: right;
 }
 
-
 /* doesn't seem to be used on site, workshop or lesson */
 /* Chapter titles. */
 div.chapter h2 {
     text-align: center;
     font-style: italic;
 }
-
 
 /* For the Request a Workshop form */
 #ss-form .ss-q-title {
@@ -693,7 +912,6 @@ div.chapter h2 {
 #ss-form .ss-choice-item-control {
   padding-right: 4px;
 }
-
 
 /* GitHub Ribbon */
 #github-ribbon a {
