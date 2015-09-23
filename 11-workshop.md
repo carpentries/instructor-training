@@ -8,6 +8,33 @@ minutes: 10
 >
 > * FIXME
 
+0. Schedule
+-----------
+
+*   day 1
+    *   09:00 introductions
+    *   09:15 basic concepts
+    *   09:45 exercise 1 - lightning lectures
+    *   10:30 summative and formative assessment
+    *   11:00 exercise 2 - reverse instructional design
+    *   12:00 lunch
+    *   13:00 cognitive development (from novice to expert)
+    *   13:30 exercise 3 - concept mapping
+    *   14:30 factors influencing learning
+    *   15:30 exercise 4 - motivation and demotivation
+    *   16:00 wrap up
+*   day 2
+    *   09:00 review exercise 4
+    *   09:30 live coding demo
+    *   10:00 exercise 5 - live coding
+    *   11:00 mechanics of setting up and running a workshop
+    *   11:30 exercise 6 - create a workshop website
+    *   12:00 lunch
+    *   13:00 overview of existing lessons
+    *   14:00 what's worked, what hasn't, and what we want to try next
+    *   15:00 Q&A / overrun time
+    *   16:00 wrap up
+
 1. Make a Screencast Before the Workshop
 ----------------------------------------
 
@@ -62,13 +89,31 @@ up.  More importantly, they learn how to give feedback on teaching.
 
 3. Multiple Choice Questions With Distractors
 ---------------------------------------------
-The main goal of this task is to develop ways of analyzing the potential misconceptions students may have about a given topic. This task will also teach instructors to become more aware of how they themselves may induce such misconceptions.
 
-a) Trainees are divided into groups of three. Each group comes up with three questions and four answers to each question. The incorrect answers should be ones that students may arrive at as the result of specific misunderstandings or misconceptions about the material. Trainees should be able to explain how students would arrive at these incorrect answers.
+The main goal of this task is to develop ways of analyzing the
+potential misconceptions students may have about a given topic. This
+task will also teach instructors to become more aware of how they
+themselves may induce such misconceptions.
 
-b) The groups then exchange questions and answers, without revealing the correct answer or how they anticipate students would arrive at the incorrect answers. The group reading the question must then determine the correct answer and explain how students would arrive at the incorrect answers. 
+a) Trainees are divided into groups of three. Each group comes up with
+three questions and four answers to each question. The incorrect
+answers should be ones that students may arrive at as the result of
+specific misunderstandings or misconceptions about the
+material. Trainees should be able to explain how students would arrive
+at these incorrect answers.
 
-This exercise will allow the group that wrote the question to see whether they were able to accurately "simulate" a hypothetical student's mind and anticipate possible misconceptions and misunderstandings. Having groups attempt to explain how a student would arrive at an incorrect answer written by another group results in a more realistic exercise.
+b) The groups then exchange questions and answers, without revealing
+the correct answer or how they anticipate students would arrive at the
+incorrect answers. The group reading the question must then determine
+the correct answer and explain how students would arrive at the
+incorrect answers.
+
+This exercise will allow the group that wrote the question to see
+whether they were able to accurately "simulate" a hypothetical
+student's mind and anticipate possible misconceptions and
+misunderstandings. Having groups attempt to explain how a student
+would arrive at an incorrect answer written by another group results
+in a more realistic exercise.
 
 4. Strategies for Preparing to Teach Unfamiliar Material
 --------------------------------------------------------
