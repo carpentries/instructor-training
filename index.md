@@ -38,7 +38,8 @@ learners.
 9.  [Next Steps](09-onward.html)
 10. [Readings](10-reading.html)
 11. [Running a Training Workshop](11-workshop.html)
-
+12. [What Does It Mean to Understand Computing?](12-understanding.html)
+13. [Diversity](13-diversity.html)
 
 ## Other Resources
 
