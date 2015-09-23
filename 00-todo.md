@@ -3,6 +3,11 @@ layout: lesson
 root: ..
 title: To Do
 ---
+
+*   the GitHub version of the WordPress blog used in the class: git@github.com:swcarpentry/training-course.git
+*   a very old version of the instructor's guide: https://github.com/gvwilson/guide.git
+*   Bill Mills' partial rewrite and extension of the training course notes: git@github.com:mozillascience/instructorTraining.git
+
 This summary needs to be framed as the main learnings from the lesson
 as they apply to instructing at a bootcamp. In other words, the
 summaries are the thing they can flick back to weeks after completing
