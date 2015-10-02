@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
-subtitle: Cognative Development & Concept Mapping
-minutes: 10
+subtitle: Cognitive Development and Concept Mapping
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 ## A Cartoon of Knowledge
 
@@ -170,6 +169,7 @@ But to begin with, getting feedback from our colleagues starts the process.
 
 [Exercise 3: Feedback Pt. 1](http://mozillascience.github.io/instructorTraining/knowledgeAndExpertise/feedback.html)
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: What Does It Mean to Understand Computing?
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 Our next problem is to figure out
 what we want people to understand when we're finished teaching.
@@ -69,6 +68,7 @@ Coming at it from another direction,
 if someone has a robust mental model of a notional machine,
 they can debug problems systematically rather than simply making random changes until it appears to work.
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

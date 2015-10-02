@@ -1,7 +1,6 @@
 ---
-layout: lesson
-root: ..
-title: Readings
+layout: page
+subtitle: Readings
 ---
 Students are required to read:
 
