@@ -32,7 +32,7 @@ learners.
 3.  [Motivation and Demotivation](03-motivation.html)
 4.  [Designing Lessons](04-design.html)
 5.  [Assessment and Adaptaton](05-assessment.html)
-6.  [Peer Instruction](06-peerInstruction.html)
+6.  [Peer Instruction](06-peer-instruction.html)
 7.  [Collaborative Lesson Development](07-collab.html)
 8.  [Pedagogical Content Knowledge and Cognitive Load](08-pck.html)
 9.  [Next Steps](09-onward.html)
