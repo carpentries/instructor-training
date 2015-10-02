@@ -1,29 +1,25 @@
+---
+---
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="generator" content="pandoc">
-    <title>Software Carpentry: $pagetitle$</title>
-    $header$
+    <title>Software Carpentry: {{site.title}}{% if page.title %} / {{page.title}}{% endif %}</title>
+    {% include header.html %}
   </head>
   <body class="lesson">
     <div class="container card">
-      $banner$
-      <article>
+      {% include banner.html %}
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          $if(subtitle)$
-          <a href="index.html"><h1 class="title">$title$</h1></a>
-          <h2 class="subtitle">$subtitle$</h2>
-          $else$
-          <h1 class="title">$title$</h1>
-          $endif$
-$body$
+          <h1 class="title">{{site.title}}</h1>
+          {% if page.subtitle %}<h2 class="subtitle">{{page.subtitle}}</h2>{% endif %}
+          {{content}}
         </div>
       </div>
-      </article>
-      $footer$
+      {% include footer.html %}
     </div>
-    $javascript$
+    {% include javascript.html %}
   </body>
 </html>
