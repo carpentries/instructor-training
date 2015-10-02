@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Relevance and Empowerment
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 Discussion of the practical implications of learning concepts
 brings us to our next big idea:
@@ -152,6 +151,7 @@ they can work together after the bootcamp to implement what they've learned.
 
 FIXME: Guzdial and Ericson's work
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

@@ -1,9 +1,7 @@
 ---
-layout: lesson
-root: ..
+layout: page
 title: To Do
 ---
-
 *   the GitHub version of the WordPress blog used in the class: git@github.com:swcarpentry/training-course.git
 *   a very old version of the instructor's guide: https://github.com/gvwilson/guide.git
 *   Bill Mills' partial rewrite and extension of the training course notes: git@github.com:mozillascience/instructorTraining.git

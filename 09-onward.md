@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Next Steps
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 This training course only a shadow of what it needs to be.
 If you'd like to help us make it better,
@@ -35,4 +34,3 @@ we would welcome additions discussing:
 * setting expectations in the classroom/promoting effective study habits
 * more on stereotype threat
 * writing effective multiple choice questions
-

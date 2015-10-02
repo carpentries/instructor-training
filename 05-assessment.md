@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Assessment and Adaptation
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 ### Assessment
 
@@ -90,6 +89,7 @@ explain the same idea. How can we create a learning environment that's
 even more adaptive than we are? We'll explore this in the next lesson,
 on *Peer Instruction*.
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

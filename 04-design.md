@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Designing Lessons
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 There's a fairly intuitive way to design a course:
 
@@ -180,6 +179,7 @@ misconceptions and gaps in knowledge in situ, and gives them multiple
 distinct opportunities to construct knowledge and understanding
 accurately and for themselves.
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

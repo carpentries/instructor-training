@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Pedagogical Content Knowledge and Cognitive Load
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 Another way of looking at what teachers (ought to) know
 divides knowledge into three parts:
@@ -25,7 +24,7 @@ and will assume you know as much as you need to about basic programming (our con
 We *wish* the course could include a lot more material on PCK than it does,
 but computing education lags 20-30 years behind fields like mathematics
 when it comes to assembling and organizing that.
-What Software Carpentry has is in [our teaching guide]({{page.root}}/novice/teaching/index.html);
+What Software Carpentry has is in our teaching guide;
 additions and corrections would be very welcome.
 
 Another psychological theory that we use in our teaching is that of cognitive load.
@@ -116,6 +115,7 @@ learners are much less likely to feel that they don't even know where to start.
 They also encourage learners to think about the similarities and differences between various approaches,
 which helps shape the conceptual categories we want them to form.
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

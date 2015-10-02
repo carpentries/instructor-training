@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Introduction
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
-> * FIXME
+{: .objectives}
 
 Let's start by defining a few terms.
 The first is *educational psychology*,
@@ -18,7 +16,7 @@ and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond
 the standardized Western classroom).
 
-> ## What We Leave Out {.callout}
+> ## What We Leave Out
 >
 > This training takes a narrow "cognitivist" perspective on education.
 > We can afford to do that because most of our learners are privileged:
@@ -33,6 +31,7 @@ the standardized Western classroom).
 >  as indicators of success?"
 >
 > --- Kenneth Wesson, in Littky and Grabelle's *The Big Picture*
+{: .callout}
 
 What we know about educational psychology constrains teaching,
 but doesn't dictate it.
@@ -82,7 +81,7 @@ but when those techniques are deployed more widely
 to teachers who have seen one bandwagon after another roll by,
 results will regress to the mean.
 
-> ## The Song Remains the Same {.callout}
+> ## The Song Remains the Same
 >
 > This same debate between advocates of a bottom-up "principles first" approach
 > and people who emphasize early rewards and motivation
@@ -93,6 +92,7 @@ results will regress to the mean.
 > Our position is bolstered by research by people like Mark Guzdial and Barbara Ericson
 > on media-first computation,
 > which we will discuss later.
+{: .callout}
 
 <!---
 
@@ -157,7 +157,7 @@ most people will remember seeing five spots,
 rather than six,
 because their brain has learned that the 'X' pattern contains five pieces.
 
-> ## Helping People Form Chunks {.callout}
+> ## Helping People Form Chunks
 >
 > Telling people, "This is a pattern," isn't enough to form a chunk:
 > they need to see it repeatedly for the pattern to sink in.
@@ -183,6 +183,7 @@ because their brain has learned that the 'X' pattern contains five pieces.
 > ~~~
 >
 > but a novice's pattern-forming will be disrupted by the "superficial" difference.
+{: .callout}
 
 Another sign of our brains' limitations is the fact that
 all sports teams have about half a dozen members.
@@ -206,7 +207,7 @@ but is instantly familiar from music lessons and other "performance" subjects.
 The former may give instructors (the illusion of) more control,
 but the latter produces better results.
 
-> ## Live Coding {.callout}
+> ## Live Coding
 >
 > Software Carpentry workshops don't use slides to teach programming.
 > Instead,
@@ -238,6 +239,7 @@ but the latter produces better results.
 >    If learners see an instructor making mistakes,
 >    they're likely to be more forviging of their own,
 >    and less likely to become discouraged.
+{: .callout}
 
 ## Stages of Cognitive Development
 
@@ -337,7 +339,7 @@ but most others are not.
 
 --->
 
-> ## The Documentation Is Useless {.callout}
+> ## The Documentation Is Useless
 >
 > This is also one of the reasons software documentation is so often frustrating.
 > Reference material is opaque to someone who doesn't know what they're looking for,
@@ -347,6 +349,7 @@ but most others are not.
 > are too slow and too diffuse for people who already have one.
 > It is possible to craft something that serves both communities,
 > but it's often simpler to address their needs separately.
+{: .callout}
 
 ## Goals & Questions
 
@@ -369,11 +372,11 @@ we want to introduce the skills and ideas that support our goal, without abandon
 
 So - a few questions fall to us as instructors:
 
- - How can we introduce new ideas in a systematic way, that makes them usable as quickly as possible?
- - What do we have to do to build competent fluency in these ideas, and how does that differ from mastery?
- - How can we build and manage motivation to keep students engaged while they invest in practicing with these new ideas?
+*   How can we introduce new ideas in a systematic way, that makes them usable as quickly as possible?
+*   What do we have to do to build competent fluency in these ideas, and how does that differ from mastery?
+*   How can we build and manage motivation to keep students engaged while they invest in practicing with these new ideas?
 
-
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Peer Instruction
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 We said earlier that clearing up novices' misconceptions is more important than imparting "mere information".
 However,
@@ -70,6 +69,7 @@ distribution to help each other.
 Using the content you've built up so far, try out peer instruction in
 the [this exercise](http://mozillascience.github.io/instructorTraining/designAndAdaptation/assessment_02.html).
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

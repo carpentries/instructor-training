@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Running a Training Workshop
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 0. Schedule
 -----------
@@ -267,6 +266,7 @@ a) Get the smart ones to be helpers. Occassionally, in collaboration
 
 b) Manage expectations (see 7.d).
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}

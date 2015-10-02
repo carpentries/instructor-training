@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Instructor Training
 subtitle: Improving Instruction
-minutes: 10
 ---
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 > * FIXME
+{: .objectives}
 
 Teaching is a performing art.
 As in music or athletics,
@@ -183,6 +182,7 @@ Outside the days they're actually teaching,
 they're scattered across six continents,
 trying to catch up on all the work they pushed aside to go run a bootcamp.
 
-> ## FIXME {.challenge}
+> ## FIXME
 >
 > FIXME
+{: .challenge}
