@@ -24,13 +24,11 @@ the standardized Western classroom).
 > There are many other perspectives ---
 > see [this site](http://www.learning-theories.com/) for summaries ---
 > and it's worth exploring them for insights like this:
->
-> > "If poor inner-city children consistently outscored children
-> > from wealthy suburban homes on standardized tests,
-> > is anyone naive enough to believe that we would still insist on using these tests
-> > as indicators of success?"
-> >
-> > --- Kenneth Wesson, in Littky and Grabelle's *The Big Picture*
+> "If poor inner-city children consistently outscored children
+> from wealthy suburban homes on standardized tests,
+> is anyone naive enough to believe that we would still insist on using these tests
+> as indicators of success?"
+> (Kenneth Wesson, in Littky and Grabelle's *The Big Picture*)
 {: .callout}
 
 What we know about educational psychology constrains teaching,
