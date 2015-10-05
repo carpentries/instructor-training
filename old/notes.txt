@@ -1,0 +1,111 @@
+## Misconceptions
+
+three levels
+- simple factual knowledge (Vancouver is the capital of BC)
+- broken models ("force and motion must be in the same direction"): address by confronting with contradiction
+- fundamental beliefs (the climate isn't changing)
+
+people are good at compartmentalizing knowledge
+- "what do I think, or what's going to get me the grade?"
+
+## Activating Prior Knowledge
+
+problem: cards have A, 6, M, 7, rule is "if there's a vowel on one side, there must be an even number on the other"
+Q: smallest set of cards to turn over to check that this is true?
+A: A & 7, but hard
+
+problem: 16, Coke, beer, 23, rule is "must be over 21 to drink alcohol"
+- isomorphic, but higher success rate
+- more tangible and more familiar
+
+*transference* requires *activation*
+
+peer instruction gives two opportunities to activate prior knowledge (initial thinking & during discussion)
+
+example: relate what we're doing with shell or Python to what they did with GUI or spreadsheet
+
+Schwartz & Bransford (1998) demo then explanation creates "a time for telling"
+- generating student interest
+
+problem with computing: we don't have physical experience to activate
+- nothing equivalent to "throw a ball in the air and then it drops"
+
+good problem: iron block on block of ice in bathtub
+
+## Big Picture in Genetics
+
+concept mapping exercise: give the learners the concepts on sticky notes, have them draw the connections on a whiteboard
+
+- low-performing students tend to use absolutes on connections ("A _therefore_ B")
+- high-performing tend to use nuanced connections ("A _can sometimes_ B")
+
+## Building Adaptive Expertise
+
+graph axes are efficiency and innovation (Bransford et al 2000)
+novice is low in both
+"routine expert" is high efficiency, low innovation (maybe "competent practitioner"?)
+"adaptive expert" is high both
+- routine: know the solution strategy, "just" need to apply it
+- adaptive: need to figure out the solution strategy
+- routine doesn't tend to work in real world (context lacking)
+- Q: can someone be low efficiency but high innovation? (good Q for instructor training course)
+
+- distinguish between exercises and problems
+  - exercise is application of bounded solution strategy
+  - problem requires meta thinking
+  - open-ended questions needed to develop skill with the latter
+  - want questions that permit multiple solution strategies
+
+## Role of Knowledge Organization
+
+- complete newcomer: a few nodes, very few connections, things aren't all joined up (disjoint sub-graphs)
+- others may have a sequential organization of "knowledge" (just one workflow - if they get stuck, they're stuck)
+- hierarchical is good, but dense graph is better
+
+- hierarchical study aids recall: chunking
+
+deep patterns
+- novices recognize superficial features ("this is an inclined plane problem")
+- experts recognize deep structure/solution method ("this is a conservation of energy problem")
+
+- knowledge organization formed by novices may not be helpful (since it's unguided)
+- we need to guide their organization, as well as giving them things to organizing
+  - i.e., give one level of meta
+
+- Warren Code's number-to-shape example
+  - without organizing principle, have to memorize
+  - with organizing principle, remember one *pattern* and everything else makes sense
+- Mendelian genetics ratios
+  - if you understand meiosis and probability, the numbers are "obvious"
+
+- find reference to Ashley Cetnar's work
+- # of connections in concept map to key concepts correlated well with performance on tests
+
+- give them the diagram *beforehand*: http://www.futurity.org/diagrams-learning-939352/
+
+## Miscellaneous
+
+From Mel Chua http://blog.melchua.com/2013/10/07/edupsych-for-hacker-schoolers-v-1-1-presentation-slides/
+- content (goal)
+- then assessment
+- then pedagogy (activity)
+- http://www.scribd.com/doc/106526138/Edpsych-50-years-on-one-page
+- http://www.scribd.com/doc/110026725/Behaviorist-Cognitive-and-Situative-Perspectives-on-Design-Learning
+
+- Willingham: principles are useless and unlearnable without facts to connect and push around
+  - not just a matter of examples: principles are connections, and you can't connect things if you don't have things
+
+- mention Scanlan 1989 when talking about concept maps and other graphical representations of knowledge
+- also mention disabilities
+
+- try to incorporate PeerWise https://peerwise.cs.auckland.ac.nz/
+
+- from http://www.upworthy.com/she-turned-code-into-spells-and-the-results-are-very-harry-potter-in-the-best-way
+  - "chocolate covered broccoli"
+  - you shouldn't have to stop learning to play the game, or stop playing the game to learn
+  - similarly, you shouldn't have to stop doing science to code, or stop coding to do science
+
+- see http://mitadmissions.org/blogs/entry/picture-yourself-as-a-stereotypical-male
+
+- make sure everyone understands Meyer-Briggs is crap
+
