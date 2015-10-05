@@ -109,3 +109,19 @@ From Mel Chua http://blog.melchua.com/2013/10/07/edupsych-for-hacker-schoolers-v
 
 - make sure everyone understands Meyer-Briggs is crap
 
+*   bridge
+    *   we don't (yet) do summative in SWC/DC
+    *   but we need formative's feedback to control pace
+    *   and we can use both to design lessons
+*   understanding by design
+    1.  goals: what do we want people to understand?
+    2.  design the summative assessment: how will learners demonstrate learning?
+    3.  design the formative assessments: how will they practice *and* how will instructors tell if they're making progress?
+    4.  close the gap between what they know and what they need to know for each formative assessment
+    *   comment: having a shared method is more important than what the method is...
+*   "But isn't this teaching to the test?"
+    *   James Scott's "Seeing Like a State": large organizations prefer uniformity to productivity
+        *   Centralization isn't always bad: cf. segregation in the South
+    *   Who has the power and how is it used?
+        *   Teachers using it to design lessons *or* central organization using it to rate teachers?
+	*   Are teachers just being measured, or helped to improve?  We'll return to this later...
