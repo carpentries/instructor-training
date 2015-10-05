@@ -1,11 +1,13 @@
 ---
 layout: page
-subtitle: Introduction
+subtitle: Mental Models
 ---
 > ## Learning Objectives
 >
 > * FIXME
 {: .objectives}
+
+## Terminology
 
 Let's start by defining a few terms.
 The first is *educational psychology*,
@@ -79,36 +81,38 @@ results will regress to the mean.
 
 FIXME: ID requires large studies
 
-FIXME: novice-competent-expert and how we help novices (build workable mental model)
-*   Patricia Benner
-*   skip discussion of expertise for now
+## Cognitive Development
 
-*   define *summative assessment*
-    *   socially necessary because we have to batch people (driver's license)
-*   contrast with *formative assessment*
-    *   school system trains people to treat formative as summative (every test is a test)
-*   bridge
-    *   we don't (yet) do summative in SWC/DC
-    *   but we need formative's feedback to control pace
-    *   and we can use both to design lessons
-*   reverse instructional design (understanding by design)
-    1.  design the summative assessment: how will learners demonstrate learning?
-    2.  design the formative assessments: how will they practice *and* how will instructors tell if they're making progress?
-    3.  close the gap between what they know and what they need to know for each formative assessment
-    *   comment: having a shared method is more important than what the method is...
+*   novice-competent-expert and how we help novices (build workable mental model)
+    *   Patricia Benner
+    *   skip discussion of expertise for now
+*   misconceptions guide lesson
+    *   simple *factual knowledge* (Vancouver is the capital of BC)
+    *   *broken models* ("force and motion must be in the same direction")
+        *   address by confronting contradiction
+    *   *fundamental beliefs* (the climate isn't changing)
+    *   We focus on the middle layer when teaching novices.
+*   instructors need insight into learners' mental models to know what to fix and how quickly to proceed
+    *   *formative assessment*: happens during learning to guide teacher and learner
+    *   contrast with *summative assessment*: happens at the end to check that learning occurred
+        *   socially necessary because we have to batch people (driver's license)
+    *   problem: school trains people to treat formative as summative (every test is a test)
 *   example of formative assessment: 27 + 15
     *   plausible distractors with diagnostic power
-    *   requires the instructor to model the learner's mental models
-    *   give good and bad examples (e.g., "just typos" is a bad MCQ)
-*   "But isn't this teaching to the test?"
-    *   Who has the power?
+    *   choosing distractors requires the instructor to model the learner's mental models
+    *   if there aren't diagnostic distractors, use a different MCQ
 
 > ## Modeling Novice Mental Models
 >
-> FIXME: create MCQ and explicitly describe misconceptions of each
+> FIXME: create MCQ and explicitly describe misconceptions of each.
+{: .challenge}
+
+> ## Confronting the Contradiction
+>
+> FIXME: explain a misconception and how to get learner to confront it.
 {: .challenge}
 
 > ## Other Kinds of Formative Assessment
 >
-> FIXME: describe other formative assessments you have seen
+> FIXME: describe another kind of formative assessment you have seen and explain it in psychological terms.
 {: .challenge}
