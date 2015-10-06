@@ -1,10 +1,5 @@
 ## Misconceptions
 
-three levels
-- simple factual knowledge (Vancouver is the capital of BC)
-- broken models ("force and motion must be in the same direction"): address by confronting with contradiction
-- fundamental beliefs (the climate isn't changing)
-
 people are good at compartmentalizing knowledge
 - "what do I think, or what's going to get me the grade?"
 
@@ -32,13 +27,6 @@ problem with computing: we don't have physical experience to activate
 
 good problem: iron block on block of ice in bathtub
 
-## Big Picture in Genetics
-
-concept mapping exercise: give the learners the concepts on sticky notes, have them draw the connections on a whiteboard
-
-- low-performing students tend to use absolutes on connections ("A _therefore_ B")
-- high-performing tend to use nuanced connections ("A _can sometimes_ B")
-
 ## Building Adaptive Expertise
 
 graph axes are efficiency and innovation (Bransford et al 2000)
@@ -57,10 +45,6 @@ novice is low in both
   - want questions that permit multiple solution strategies
 
 ## Role of Knowledge Organization
-
-- complete newcomer: a few nodes, very few connections, things aren't all joined up (disjoint sub-graphs)
-- others may have a sequential organization of "knowledge" (just one workflow - if they get stuck, they're stuck)
-- hierarchical is good, but dense graph is better
 
 - hierarchical study aids recall: chunking
 
