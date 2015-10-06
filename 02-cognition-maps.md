@@ -7,18 +7,21 @@ subtitle: Cognition and Concept Maps
 > * FIXME
 {: .objectives}
 
-## Concept Mapping
+## Connectivity
 
-- explain long-term vs short-term memory
-- learning: load short-term, reinforce while transferred to long-term
-- so we need a way to scope what's put into short-term
+- we explained the difference between novice and competent: what's the difference between competent and expert?
+- experts have more densely connected knowledge graphs
+  - which explains *expert blind spot*
 
-- connections are as important as nodes
-- refer back to Benner: experts have densely connected knowledge graphs
-- explain implications
+- helping learners make connections is as important as introducing facts
+  - analogy with social networks: more connections => more likely to stay connected
 
-- draw concept maps
-- explain uses
+- but we can't just shovel facts into heads
+  - long-term vs short-term memory
+  - learning requires us to load up short-term and reinforce so that it's transferred to long-term
+  - we need a way to scope what we're trying to put into short-term memory
+
+- concept maps
 
 - complete newcomer: a few nodes, very few connections, things aren't all joined up (disjoint sub-graphs)
 - others may have a sequential organization of "knowledge" (just one workflow - if they get stuck, they're stuck)

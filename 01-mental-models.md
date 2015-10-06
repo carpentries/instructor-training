@@ -109,9 +109,11 @@ FIXME: example
 *   mental models
     *   ball and spring model of molecules
     *   computer memory is a lot more complex than my usual mental model
-*   novice-competent-expert and how we help novices (build workable mental model)
-    *   Patricia Benner
-    *   skip discussion of expertise for now
+*   novice-competent-expert (Patricia Benner)
+    *   defer discussion of expertise to next lesson
+    *   our goal is to help novices build workable mental model
+    *   too many facts too early is counter-productive: reinforces incorrect mental model (weight in boxes analogy)
+    *   we have to clear up misconceptions
 *   misconceptions guide lesson
     *   simple *factual knowledge* (Vancouver is the capital of BC)
     *   *broken models* ("force and motion must be in the same direction")
