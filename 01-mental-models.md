@@ -81,8 +81,34 @@ results will regress to the mean.
 
 FIXME: ID requires large studies
 
+## Pedagogical Content Knowledge
+
+The things teachers know can be divided into:
+
+*   *content knowledge*, such as the "what" of programming;
+
+*   *general pedagogical knowledge*, i.e., an understanding of the
+    psychology of learning; and
+
+*   the *pedagogical content knowledge* (PCK) that connects the two,
+    which is things like when to teach the notion of a call stack
+    and what examples to use when doing so.
+
+This training course focuses on general pedagogical knowledge,
+and assumes you know as much as you need to about basic programming (our content knowledge).
+We *wish* the course could include a lot more material on PCK than it does,
+but computing education lags 20-30 years behind fields like mathematics
+when it comes to assembling and organizing that.
+
+What Software Carpentry has is in the teaching guides that come with each lesson.
+
+FIXME: example
+
 ## Cognitive Development
 
+*   mental models
+    *   ball and spring model of molecules
+    *   computer memory is a lot more complex than my usual mental model
 *   novice-competent-expert and how we help novices (build workable mental model)
     *   Patricia Benner
     *   skip discussion of expertise for now
