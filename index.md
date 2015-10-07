@@ -16,8 +16,8 @@ but we hope it will convince you that it's worth learning more.
 
 ## Topics
 
-1.  [Mental Models](01-mental-models.html)
-2.  [Cognition and Concept Maps](02-cognition-maps.html)
+1.  [Mental Models](01-models.html)
+2.  [Connections and Cognitive Load](02-cognition.html)
 
 ## Other Resources
 
