@@ -106,6 +106,10 @@ FIXME: example
 
 ## Cognitive Development
 
+> It ain't what you don't know that gets you into trouble.
+> It's what you know for sure that just ain't so.  
+> - Mark Twain
+
 *   mental models
     *   ball and spring model of molecules
     *   computer memory is a lot more complex than my usual mental model
