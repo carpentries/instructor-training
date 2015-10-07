@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Cognition and Concept Maps
+subtitle: Connections and Cognitive Load
 ---
 > ## Learning Objectives
 >
@@ -29,6 +29,8 @@ subtitle: Cognition and Concept Maps
 
 - low-performing students tend to use absolutes on connections ("A _therefore_ B")
 - high-performing tend to use nuanced connections ("A _can sometimes_ B")
+
+FIXME: can give the learners the concepts on sticky notes, have them draw the connections on a whiteboard (scaffolding)
 
 ## Cognitive Load
 
@@ -117,5 +119,3 @@ In particular,
 learners are much less likely to feel that they don't even know where to start.
 They also encourage learners to think about the similarities and differences between various approaches,
 which helps shape the conceptual categories we want them to form.
-
-FIXME: can give the learners the concepts on sticky notes, have them draw the connections on a whiteboard (scaffolding)
