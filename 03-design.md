@@ -9,7 +9,7 @@ subtitle: Designing Lessons for Learners
 
 ## Reverse Instructional Design
 
-*   *Test-driven development* (TDD) in software development
+*   *[Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)* (TDD) in software development
     *   Conventional approach is:
         1.  Decide what to build
         2.  Build it
@@ -19,22 +19,28 @@ subtitle: Designing Lessons for Learners
         2.  Write some tests that fail now but will pass when the feature is added or the bug is fixed
         3.  Write just enough software to make those tests pass
         4.  Clean up
-        *   Sometimes called "red-green-refactor"
     *   Works because:
         *   Defining requirements as tests helps us clarify our thinking (externalize cognition)
         *   Having goalposts reduces risk of endless polishing
             *   Most of us would rather program for a week than test for an hour
         *   Writing tests *before* writing software reduces risk of confirmation bias
             *   We never test our own software as fairly as someone else does
-*   Wiggins & McTighe: *Understanding by Design*
-    *   Three-step process analogous to TDD:
+*   Wiggins & McTighe: *[Understanding by Design](http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/)*
+    *   Process analogous to TDD:
         1.  Identify what is worth learning
             *   E.g., draw concept maps
         2.  Decide what constitutes evidence that learning has taken place
             *   E.g., create the summative assessment (final exam)
         3.  Plan instruction to close the gap between what learners know and what they need to know and prepare learners to demonstrate what they have learned
             *   E.g., create formative assessments (in class) and exercises (out of class)
-            *   *Then* write the lessons
+        4.  *Then* write the lessons: WHERETO
+            *   *Where*: ensure learner sees the big picture, can answer "Why?" questions, knows final performance expectations as soon as possible
+            *   *Hook*: immerse learner in unit ideas and issues, engage in thought-provoking experiences/challenges/questions at unit's core
+            *   *Equip*: provide learner with tools, resources, skills, and information needed to achieve the desired understanding and accomplish the performance tasks
+            *   *Rethink*: enhance understanding by shifting perspective, considering different theories, challenging prior assumptions, etc. Also provide impetus/opportunity for revising/polishing work
+            *   *Evaluate*: ensure learners get formative feedback *and opportunities to self-assess and adjust*
+            *   *Tailor*: Personalize learning through differentiated instruction and assessment
+            *   *Organize*: Sequence work to suit the understanding goals
 *   Parnas & Clements: "A Rational Design Process: How and Why to Fake It" (1986)
     *   People rarely follow the steps exactly as laid out
         *   The term "waterfall" was coined to describe what software development *don't* do
@@ -44,8 +50,8 @@ subtitle: Designing Lessons for Learners
         *   Might never actually give the final exam that was designed as a goal
     *   T2T: external authority defines assessment criteria that affect outcomes for teachers
         *   Creates perverse incentives
-    *   *Building a Better Teacher*: focus on measurement with little (usually no) help for improving
-        *   *Seeing Like a State*: large organizations invariably prefer uniformity to productivity
+    *   *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*: focus on measurement with little (usually no) help for improving
+        *   *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*: large organizations invariably prefer uniformity to productivity
 
 ## What Is Learning?
 
@@ -53,7 +59,7 @@ subtitle: Designing Lessons for Learners
     *   Want a taxonomy that is hierarchical, measurable, stable, and cross-cultural
     *   But you can't always get what you want...
 *   [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy) (1956) is the most widely known
-*   Wiggins & McTighe's *facets of understanding* and Fink's taxonomy (from *Creating Significant Learning Experiences*) are more recent
+*   Wiggins & McTighe's *facets of understanding* and Fink's taxonomy (from *[Creating Significant Learning Experiences](http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/)*) are more recent
 
 <table>
   <tr>
@@ -236,8 +242,9 @@ subtitle: Designing Lessons for Learners
 ## Who Are We?
 
 *   [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/)
-    *   Transmission: teaching is... effective delivery of content
-    *   Apprenticeship: teaching is... modelling ways of being
-    *   Developmental: teaching is... cultivating ways of thinking
-    *   Nurturing: teaching is... facilitating self-efficacy
-    *   Social Reform: teaching is... seeking a better society
+*   Teaching is...
+    *   *Transmission*: effective delivery of content
+    *   *Apprenticeship*: modelling ways of being
+    *   *Developmental*: cultivating ways of thinking
+    *   *Nurturing*: facilitating self-efficacy
+    *   *Social Reform*: seeking a better society
