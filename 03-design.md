@@ -53,6 +53,22 @@ subtitle: Designing Lessons for Learners
     *   *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*: focus on measurement with little (usually no) help for improving
         *   *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*: large organizations invariably prefer uniformity to productivity
 
+## Writing Learning Objectives
+
+*   Vague is easy
+    *   "Learners will gain an appreciation of the role of research software engineers in the research process"
+*   Useful is harder
+    *   Want specific, measurable description of what learner can do to demonstrate learning
+    *   Three parts:
+        1.  Measurable verb
+        2.  Condition(s) under which demonstration of learning occurs occurs
+        3.  Criteria for acceptable performance
+    *   "Learner will list three things that make research software engineers distinct from other specialists involved in the research process"
+*   Three domains:
+    *   *Cognitive*: what do learners know?
+    *   *Psychomotor*: what can learners do?
+    *   *Affective*: how do learners feel?
+
 ## What Is Learning?
 
 *   What kind(s) of learning are we aiming for?
@@ -66,6 +82,7 @@ subtitle: Designing Lessons for Learners
     <th>Bloom's taxonomy</th>
     <th>Facets of understanding (Wiggins & McTighe)</th>
     <th>Taxonomy of significant learning (Fisk)</th>
+    <th>Typical learning objective verbs</th>
   </tr>
   <tr>
     <td>
@@ -76,6 +93,9 @@ subtitle: Designing Lessons for Learners
     </td>
     <td>
       <strong>Foundational knowledge</strong>: the facts, terms, formulas, concepts, principles, etc. that one understands and remembers
+    </td>
+    <td>
+      name, define, recall
     </td>
   </tr>
   <tr>
@@ -88,6 +108,9 @@ subtitle: Designing Lessons for Learners
     <td>
       <strong>Application</strong>: using critical, creative, and practical (decision-making, problem-solving) skills
     </td>
+    <td>
+      restate, locate, explain, recognize
+    </td>
   </tr>
   <tr>
     <td>
@@ -98,6 +121,9 @@ subtitle: Designing Lessons for Learners
     </td>
     <td>
       <strong>Integration</strong>: making connections among ideas, subjects, and people
+    </td>
+    <td>
+      apply, demonstrate, use
     </td>
   </tr>
   <tr>
@@ -110,6 +136,9 @@ subtitle: Designing Lessons for Learners
     <td>
       <strong>Human dimensions</strong>: learning about and changing one's self; interacting with others
     </td>
+    <td>
+      differentiate, criticize, compare
+    </td>
   </tr>
   <tr>
     <td>
@@ -120,6 +149,9 @@ subtitle: Designing Lessons for Learners
     </td>
     <td>
       <strong>Caring</strong>: identifying and changing one's feelings, values, and interests
+    </td>
+    <td>
+      design, construct, organize
     </td>
   </tr>
   <tr>
@@ -132,10 +164,13 @@ subtitle: Designing Lessons for Learners
     <td>
       <strong>Learning how to learn</strong>: becoming a better, self-directed learner; learning to ask and answer questions
     </td>
+    <td>
+      choose, rate, select
+    </td>
   </tr>
   <tr>
     <td colspan="3">
-      Reproduced from Allen &amp; Tanner's <a href="http://www.lifescied.org/content/6/2/85.full">Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design</a> (2007)
+      Reproduced with additions from Allen &amp; Tanner's <a href="http://www.lifescied.org/content/6/2/85.full">Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design</a> (2007)
     </td>
   </tr>
 </table>
@@ -248,3 +283,23 @@ subtitle: Designing Lessons for Learners
     *   *Developmental*: cultivating ways of thinking
     *   *Nurturing*: facilitating self-efficacy
     *   *Social Reform*: seeking a better society
+
+> ## Critique Learning Objectives
+>
+> FIXME: Rewrite learning objective(s) for one [Data Carpentry](http://www.datacarpentry.org/lessons/) or [Software Carpentry](http://software-carpentry.org/lessons.html) topic
+{: .challenge}
+
+> ## Develop Learning Objectives
+>
+> FIXME: Write learning objective(s) for something you would teach in 5 minutes.
+{: .challenge}
+
+> ## Develop Summative Assessment
+>
+> FIXME: develop summative assessment (e.g., final exam question or exercise) to accompany the learning objective(s) created above.
+{: .challenge}
+
+> ## What Do You Believe About Teaching?
+>
+> FIXME: complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/) and post your reaction to the results.
+{: .challenge}
