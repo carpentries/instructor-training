@@ -5,9 +5,13 @@ title: Instructor Training
 > For every complex problem there is an answer that is clear, simple, and wrong.  
 > - H.L. Mencken
 
-This short training course introduces the basics of educational psychology and instructional design,
+This short training course introduces the basics of 
+educational psychology and instructional design,
 and shows them how to use them to teach programming to free-range adult learners.
-It is necessarily shallow,
+Each lesson is composed of *theory of how people learn* or a *tool 
+for teaching* (or sometimes both!), with a specific focus on applying these 
+ideas and tools to computational  
+instruction.  It is a necessarily shallow survey of these topics,
 but we hope it will convince you that it's worth learning more.
 
 > ## Prerequisites
