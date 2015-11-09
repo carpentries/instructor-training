@@ -170,15 +170,19 @@ subtitle: Connections and Cognitive Load
 
 > ## Concept Mapping
 >
-> FIXME: create concept map for something you would teach in 5 minutes.
+> Create a hand drawn concept map for something you would teach in 5 
+> minutes.  
 {: .challenge}
 
 > ## Faded Examples
 >
-> FIXME: construct a 3-step faded example to introduce some idea.
+> Construct a 3-step faded example to introduce an idea of your choice.
 {: .challenge}
 
-> ## Other Ways to Externalize Cognition
+> ## Accessibility, and Other Ways to Externalize Cognition
 >
-> FIXME: describe some other way to make a mental model visible to other people.
+> Describe a way to convey mental models that includes many different 
+> people, including those who might have a physical impairment or 
+> learn differently. Don't feel that you need to invent something - you 
+> can use Google or other resources to come up with something. 
 {: .challenge}
