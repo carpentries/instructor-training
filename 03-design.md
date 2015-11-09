@@ -286,12 +286,20 @@ subtitle: Designing Lessons for Learners
 
 > ## Critique Learning Objectives
 >
-> FIXME: Rewrite learning objective(s) for one [Data Carpentry](http://www.datacarpentry.org/lessons/) or [Software Carpentry](http://software-carpentry.org/lessons.html) topic
+> Choose one topic from a [Data Carpentry](http://www.datacarpentry.org/lessons/) 
+> or [Software Carpentry](http://software-carpentry.org/lessons.html) lesson 
+> and read through its learning objectives.  Consider the following three questions: 
+> 1) Does this lesson accomplish what it sets out to achieve?
+> 2) Does it contain too much?
+> 3) Is the content on point with the learning objectives?
 {: .challenge}
 
 > ## Develop Learning Objectives
 >
-> FIXME: Write learning objective(s) for something you would teach in 5 minutes.
+> Choose one topic (typically 10-15 minutes of teaching) from a [Data Carpentry](http://www.datacarpentry.org/lessons/) 
+> or [Software Carpentry](http://software-carpentry.org/lessons.html) lesson 
+> and write learning objectives 
+> for it. 
 {: .challenge}
 
 > ## Develop Summative Assessment
@@ -301,5 +309,8 @@ subtitle: Designing Lessons for Learners
 
 > ## What Do You Believe About Teaching?
 >
-> FIXME: complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/) and post your reaction to the results.
+> Complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/), and consider 
+> the following two questions, based on your results: 
+> 1) Do you agree with what it says about you? 
+> 2) Do you think it is valuable/credible?
 {: .challenge}
