@@ -136,15 +136,17 @@ FIXME: example
 
 > ## Modeling Novice Mental Models
 >
-> FIXME: create MCQ and explicitly describe misconceptions of each.
+> Create one MCQ (multiple choice question) and explain 
+> the diagnostic power of its distractors - what is each 
+> distractor trying to identify as a misconception? 
 {: .challenge}
 
 > ## Confronting the Contradiction
 >
-> FIXME: explain a misconception and how to get learner to confront it.
+> Explain a misconception and how to get learner to confront it.  
 {: .challenge}
 
 > ## Other Kinds of Formative Assessment
 >
-> FIXME: describe another kind of formative assessment you have seen and explain it in psychological terms.
+> Describe another kind of formative assessment you have seen and explain it in psychological terms.
 {: .challenge}
