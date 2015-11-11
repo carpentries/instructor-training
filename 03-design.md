@@ -302,11 +302,6 @@ subtitle: Designing Lessons for Learners
 > for it. 
 {: .challenge}
 
-> ## Develop Summative Assessment
->
-> FIXME: develop summative assessment (e.g., final exam question or exercise) to accompany the learning objective(s) created above.
-{: .challenge}
-
 > ## What Do You Believe About Teaching?
 >
 > Complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/), and consider 
