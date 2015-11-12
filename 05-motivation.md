@@ -50,16 +50,17 @@ subtitle: Motivation and Demotivation
 *   Biggest demotivators are *indifference* and *unfairness*
 *   Biggest question is, what do you do after something's gone wrong?
 
+> ## Learner Profiles
+>
+> Write a pair of learner profiles:
+> one for a typical entrant to your class,
+> and one describing her six weeks after the class.
+{: .challenge}
+
 > ## Authentic Tasks
 >
 > Describe something you do in your daily work that uses one or more of the skills we teach,
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-{: .challenge}
-
-> ## Tests as Rubrics
->
-> Create a simple exercise you would have learners do in class,
-> and then create half a dozen test cases they could use to check their work as they're doing it.
 {: .challenge}
 
 > ## Personal Story About Demotivation
