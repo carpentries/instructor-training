@@ -99,7 +99,7 @@ subtitle: Connections and Cognitive Load
 ## Cognitive Load
 
 *   A useful psychological basis for instructional design is *cognitive load theory*.
-    *   Sometimes criticized on philosophical grounds as unfalsifiable
+    *   [Sometimes criticized](https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/) as unfalsifiable
     *   But instruction based on it has been proven effective
     *   And it's a good framework for tying together several other ideas about learning
 *   People's brains deal with three kinds of load when they're learning:
