@@ -19,6 +19,8 @@ but we hope it will convince you that it's worth learning more.
 1.  [Mental Models](01-models.html)
 2.  [Connections and Cognitive Load](02-cognition.html)
 3.  [Designing Lessons for Learners](03-design.html)
+4.  [Teaching as a Performance Art](04-performance.html)
+5.  [Motivation and Demotivation](05-motivation.html)
 
 ## Other Resources
 

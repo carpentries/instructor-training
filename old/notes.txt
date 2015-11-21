@@ -148,3 +148,14 @@ https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibili
 
 Using Bloom's Taxonomy to write learning objectives:
 http://teaching.uncc.edu/sites/teaching.uncc.edu/files/media/files/file/GoalsAndObjectives/BloomWritingObjectives.pdf
+
+Having a static, non colored version of the Etherpad notes available
+to look at during class would be great, brain overload happens pretty
+quickly.  Bolded headers, or more whitespace would help to create some
+additional sense of structure.
+
+Piazza got overwhelming toward the end, too many tabs, they fell off
+the end, and I couldn't figure out how to access them any more.  One
+thing that I was thinking of as a thing to try for next time was to
+have a folder just for each week, and then have one post for each
+person, with each question answer as a subsection (1, 2, 3, etc.)
