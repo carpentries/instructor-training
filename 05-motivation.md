@@ -20,7 +20,7 @@ subtitle: Motivation and Demotivation
     *   Where "time to usefulness" includes actual setup times
 *   Example: media-first computation
 
-## Strategies
+## Strategies for Motivating Learners
 
 *   Strategies to establish value
     1.  Connect the material to students' interests
@@ -43,12 +43,41 @@ subtitle: Motivation and Demotivation
 *   Strategies for self-efficacy
     1.  Provide flexibility and control
     2.  Give students an opportunity to reflect
+*   What's missing: strategies to motivate the *instructor*
 
 ## Demotivation
 
 *   Not demotivating learners is at least as important as motivating them
 *   Biggest demotivators are *indifference* and *unfairness*
-*   Biggest question is, what do you do after something's gone wrong?
+    *   Biggest *question* is, what do you do after something's gone wrong?
+*   Example: stereotype threat
+    *   Explain what it is
+    *   *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
+
+## How to Be a Good Ally
+
+*   Listen.
+    When people talk about their lives and experiences, take them seriously. They are the experts.
+*   Do your homework; don't expect others to educate you.
+    Some people may be happy to do this, but you are not entitled to it.
+    Many, many people have written on diversity issues---it's not hard to find information.
+*   Call out discrimination, bias, and unfairness when you see it,
+    whether it is intentional or not (but also be wary of monopolizing conversations).
+*   Support victims of harassment by believing them,
+    and do not blame them or try to minimize their experiences by telling them to 'just ignore' their harassers.
+*   Elevate the voices of members of marginalized groups.
+*   Be conscious of your own language and actions and the ways they might reinforce systems of oppression and privilege.
+*   Don't center your own feelings.
+    If you get called out or feel wounded by someone else's tone, go back to point #1.
+*   Remember that "ally" isn't a static identity, nor is it a label you get to claim for yourself.
+    Allyship is a process, and you're not an ally just because you say you are.
+    Do the hard work of being an ally, and don't expect to be thanked or acknowledged every time (or even most of the time).
+
+> ## Why Do You Teach?
+>
+> What motivates you to teach,
+> particularly as a volunteer?
+{: .challenge}
 
 > ## Learner Profiles
 >
