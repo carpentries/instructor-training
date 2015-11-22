@@ -50,9 +50,17 @@ subtitle: Motivation and Demotivation
 *   Not demotivating learners is at least as important as motivating them
 *   Biggest demotivators are *indifference* and *unfairness*
     *   Biggest *question* is, what do you do after something's gone wrong?
-*   Example: stereotype threat
-    *   Explain what it is
-    *   *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
+*   Women and certain racial groups are treated unfairly in science and computing
+    *   FIXME: http://womeninastronomy.blogspot.com/2014/05/why-we-resist-unconscious-bias.html
+    *   http://whatever.scalzi.com/2014/04/17/the-four-levels-of-discrimination-and-you-and-me-too/
+    *   A survey of empirical evidence for gender bias and conformation to gender schema:
+        http://www.equal.ethz.ch/news/women_in_science/summary_urry
+    *   A general science summary: http://www.equal.ethz.ch/news/women_in_science
+*   Example: stereotype threat (FIXME)
+    *   A summary of the problem: http://dynamicecology.wordpress.com/2014/04/28/stereotype-threat-a-summary-of-the-problem/
+    *   Countering stereotype threat: http://dynamicecology.wordpress.com/2014/04/29/countering-stereotype-threat/
+    *   Stereotype threat and ally work: http://dynamicecology.wordpress.com/2014/04/30/stereotype-threat-and-ally-work/
+    *   Cite *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
 
 ## How to Be a Good Ally
 
