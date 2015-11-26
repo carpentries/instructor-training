@@ -4,41 +4,35 @@ subtitle: Introduction
 ---
 > ## Learning Objectives
 >
-> * Given a case study or video of a lesson, student can identify where the 
-> instructor is using content knowledge, general knowledge, and PCK.  
+> *   Given a lesson,
+>     the learner will correctly identify where the instructor is using content knowledge,
+>     general knowledge, and pedagogical content knowledge.
 {: .objectives}
 
-Before we begin discussing "how to teach" in earnest, let's
- start by defining a few terms.
+Before we discuss how to teach and how to design lessons,
+we need to define a few terms.
 
 ## Educational Psychology
 
-Before we can start talking about how to teach, we need to understand how people learn.  
-The field of *educational psychology*, 
-studies how people learn.
-This touches on everything from the neuropsychology of perception and the mechanisms of memory
+*Educational psychology* is the study of how people learn.
+It touches on everything from the neuropsychology of perception and the mechanisms of memory
 to the sociology of school systems
 and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond
 the standardized Western classroom).
 
-Within the broad scope of educational pyschology, 
-this training will take a narrow "cognitivist" perspective on education.
-We can afford to do this because most of our learners are privileged:
-well-fed, physically safe, already well-educated, highly motivated, etc.
+Within the broad scope of educational pyschology,
+this training will take a narrow *cognitivist* perspective.
+We can afford to do this because most of our learners are
+physically safe, well fed, well educated, and highly motivated.
+Much of the research in education has rightly focused on people without these privileges.
 
-> ## A Broader Perspective 
-> 
+> ## Other Perspectives
+>
 > There are many other perspectives outside cognitivist theory ---
-> see [this site](http://www.learning-theories.com/) for summaries ---
-> and it's worth exploring them for insights like this:
-> "If poor inner-city children consistently outscored children
-> from wealthy suburban homes on standardized tests,
-> is anyone naive enough to believe that we would still insist on using these tests
-> as indicators of success?"
-> (Kenneth Wesson, in Littky and Grabelle's *The Big Picture*)
+> see [this site](http://www.learning-theories.com/) for summaries.
 {: .callout}
- 
+
 ## Instructional Design
 
 While what we know about educational psychology can constrain teaching,
@@ -87,15 +81,29 @@ but when those techniques are deployed more widely
 to teachers who have seen one bandwagon after another roll by,
 results will regress to the mean.
 
-In this course, we will cover several methods and tools of instructional 
-design, exploring their strengths and weaknesses, and trying to connect 
-each design to the cognitivist theory that motivates its approach.  
+This course will cover several methods and tools of instructional design,
+exploring their strengths and weaknesses,
+and trying to connect them to the underlying research.
 
-FIXME: ID requires large studies
+> ## Quantitative and Qualitative Research
+>
+> One of the major challenges in educational research is that
+> human beings are very different from one another.
+> In order to get meaningful quantitative results,
+> studies must therefore include large numbers of subjects,
+> which is expensive.
+> Quantitative studies are also not able to answer many "why" questions.
+> For those,
+> researchers need to use qualitative methods,
+> such as comparative case studies.
+> Physical scientists are sometimes sceptical of such studies and their findings,
+> but done rigorously,
+> they can provide actionable insights that quantitative methods cannot.
+{: .callout}
 
 ## Pedagogical Content Knowledge
 
-In the end, effective teaching often depends on what the teacher knows.  
+In the end, effective teaching often depends on what the teacher knows.
 The things teachers know can be divided into:
 
 *   *content knowledge*, such as the "what" of programming;
@@ -107,27 +115,53 @@ The things teachers know can be divided into:
     which is things like when to teach the notion of a call stack
     and what examples to use when doing so.
 
-This training course focuses on general pedagogical knowledge through the two 
-major categories (educational psychology and instructional design) described 
-above.  It assumes you know as much as you need to about basic 
-programming (our content knowledge).
+This training course focuses on general pedagogical knowledge
+through the two major categories
+(educational psychology and instructional design) described above.
+It assumes you know as much as you need to about basic programming
+(our content knowledge).
 
 We *wish* the course could include a lot more material on PCK than it does,
-but computing education lags 20-30 years behind fields like mathematics
-when it comes to assembling and organizing this kind of knowledge.  Within 
-Software Carpentry, we are trying to support the curation of PCK by including 
-an instructor's guide with each lesson that describes particular teaching 
-techniques for that lesson's content.  
+but computing education lags behind fields like mathematics
+when it comes to assembling and organizing this.  Within
+Software Carpentry, we are trying to support the curation of PCK by including
+an instructor's guide with each lesson that describes particular teaching
+techniques for that lesson's content.
 
-> ## Your Story
-> 
-> Think of a memorable moment from one of your favorite classes.  Imagine 
-> how your teacher might have used knowledge from each of the 3 groupings above to 
-> create that moment in class.  
+> ## Examples of PCK
+>
+> *   Gelman and Nolan's *[Teaching Statistics: A Bag of Tricks](http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/)*
+>     is full of PCK for teaching introductory statistics.
+> *   The [CS Teaching Tips](http://csteachingtips.org/) site
+>     is gathering similar ideas for computing.
+{: .callout}
+
+We have attempted to apply our knowledge of how people learn
+and our recommendations for instructional design
+within the format of these lessons.
+
+> ## Three Kinds of Knowledge
+>
+> Think of a memorable moment from a class you took or taught.
+> Describe it,
+> and explain how the instructor used domain knowledge,
+> general pedagogical knowledge,
+> and pedagogical content knowledge to create that moment.
 {: .challenge}
 
-## Practicing as We Preach
+> ## Bottom Up or Top Down?
+>
+> How would you describe the way you learned what you already know
+> about using computers in research:
+> bottom up, top down, or a mix of both?
+> Is that how you prefer to learn?
+{: .challenge}
 
-In the lessons that follow, we have attempted to apply our knowledge of how 
-people learn and our recommendations for instructional design, within the format 
-of the lessons.  
+> ## Who Decides?
+>
+> In Littky and Grabelle's *[The Big Picture: Education is Everyone's Business](http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/)*,
+> Kenneth Wesson wrote,
+> "If poor inner-city children consistently outscored children from wealthy suburban homes on standardized tests,
+> is anyone naive enough to believe that we would still insist on using these tests as indicators of success?"
+> What are examples in your own experience of "objective" assessments that reinforce the status quo?
+{: .challenge}
