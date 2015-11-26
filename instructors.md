@@ -45,24 +45,26 @@ It follows the "Understanding by Design" template (very) loosely.
 
 ## Logistic Requirements
 
-This course has been taught in two primary formats - as a 2-day, in-person class 
-and as an 8-week, online class.  
+This course has been taught as a multi-week online class,
+as a two-day in-person class,
+and as a two-day class in which the learners are together in groups
+and the instructor participates remotely.
 
 ### Online Training
 
-* Meeting space: Obviously, one of the primary logistic concerns for an online 
-course is the online meeting space.  For this instructor training, we have primarily 
-used a voice/video system like Google Hangouts or BlueJeans in conjunction with an 
-etherpad.  
-* Online platform for assignment submissions and discussion: There have been several 
-incarnations of this training that used a wordpress-like blog, github, and currently 
-Piazza for managing assignment submission and discussion.  
+*   Meeting space: Obviously, one of the primary logistic concerns for an online
+    course is the online meeting space.  For this instructor training, we have primarily
+    used a voice/video system like Google Hangouts or BlueJeans in conjunction with an
+    Etherpad.
+*   Online platform for assignment submissions and discussion: There have been several
+    incarnations of this training that used a wordpress-like blog, github, and currently
+    Piazza for managing assignment submission and discussion.
 
 ## In-Person Training
 
-* Breakout rooms: At several points in the training, the participants are divided 
-into small groups and tasked with a certain activity.  Since the activities may 
-involve audio recording, it is best if each group can have their own space 
-for breakouts.  
-* Cameras / recording devices: participants should try to bring some kind of 
-recording device (like a smartphone or camera) for certain class activities.  
+*   Breakout rooms: At several points in the training, the participants are divided
+    into small groups and tasked with a certain activity.  Since the activities may
+    involve audio recording, it is best if each group can have their own space
+    for breakouts.
+*   Cameras / recording devices: participants should try to bring some kind of
+    recording device (like a smartphone or camera) for certain class activities.
