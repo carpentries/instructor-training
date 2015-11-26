@@ -101,7 +101,7 @@ and trying to connect them to the underlying research.
 > Quantitative studies are also not able to answer many "why" questions.
 > For those,
 > researchers need to use qualitative methods,
-> such as comparative case studies.
+> such as [grounded theory](https://en.wikipedia.org/wiki/Grounded_theory).
 > Physical scientists are sometimes sceptical of such studies and their findings,
 > but done rigorously,
 > they can provide actionable insights that quantitative methods cannot.
