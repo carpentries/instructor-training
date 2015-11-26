@@ -138,53 +138,113 @@ and how well-connected it is.
 
 ## Concept Maps
 
-*   Concept map: a picture of someone's mental graph
-    *   Facts are bubbles, connections are *labelled* arcs
-        *   May or may not be directional
-        *   Labelled because saying "X is related to Y" without saying *how* is just annoying
-        *   And yes, one person's fact is another person's connection, but that's a good starting point for discussion
-*   An example of *externalized cognition*
-    *   Flowcharts, decision trees, and blueprints can be even more useful in some contexts
-    *   But resist the urge to draw knowledge as if it was hierarchical, because it isn't
-*   Example: `for` loop in Python
-    *   [Statement](img/02/for-loop-statement.png)
-    *   [Concepts](img/02/for-loop-concepts.png)
-        *   In this case, connect concepts to concrete elements of the code
-        *   Don't/can't always do this
-    *   [Relationships](img/02/for-loop-arcs.png)
-        *   3 + 3 = 6 things so far
-    *   [Recommendations](img/02/for-loop-rec.png)
-        *   Highlights the difference between a concept map and a syntax diagram: usage
-        *   Remember, we are helping novices build an initial mental model
+Our tool of choice is the *concept map*.
+A concept map is simply a picture of someone's mental model of a domain:
+facts are bubbles,
+and connections are labelled arcs.
+It is important that they are labelled:
+saying "X and Y are related" is only helpful if we explain what the relationship *is*.
+And yes,
+one person's fact may be another person's connection,
+but by *externalizing cognition*
+(i.e., making thought processes and mental models visible),
+concept maps help spark and focus discussion.
 
-*   They should all be hand-drawn
-*   The less apparent effort went into something, the more honest the feedback
+> ## There's More Than One Way to Do It
+>
+> Concept maps are just one way to represent our understanding of a subject.
+> Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
+> For example,
+> [this diagram](img/choosing-a-good-chart-09.pdf)
+> (taken from [a blog post](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) by Andrew Abela)
+> is an excellent way to organize and present an understanding of how to choose
+> the right kinds of chart for displaying different kinds of data.
 
-*   Uses of concept maps
-    *   To aid solo design of a lesson: what am I thinking?
-        *   Separates content from order: rarely teach in the order in which the map was first drawn
-    *   To communicate with fellow lesson designers
-        *   Instructors with very different mental models are likely to pull in different directions when teaching
-    *   To communicate with learners
-        *   Hand out the map beforehand for them to annotate
-        *   Better: draw it piece by piece while teaching to reinforce synchronization between elements and what's taught
-            *   Correlating visual and linguistic input improves recall
-    *   Formative assessment: getting learners to draw concept maps of what they just heard shows you what they didn't
-        *   Too time-consuming for use in workshops
-        *   But useful in weekly lectures
-        *   Once learners are familiar with the technique
-        *   Can speed it up by giving the learners the concepts on sticky notes and have them draw the connections on a whiteboard (scaffolding)
-    *   But remember Glass's Law: any new tool or technique initially slows you down
-    *   Neat trick
-        *   Get everyone in a lab or project team to draw a concept map of what they're working on *independently*
-        *   Then compare - leads to lots of discussion
-*   Observations about concept maps
-    *   Complete newcomer: a few nodes, very few connections, things aren't all joined up (disjoint sub-graphs)
-    *   Others may have a sequential organization of knowledge
-        *   Just one path through it
-        *   If any step in their reasoning fails, they're stuck
-    *   Low-performing students tend to use absolutes on connections ("A *therefore* B")
-    *   High-performing tend to use nuanced connections ("A *can sometimes* B")
+To show what concept maps look like,
+consider this simple `for` loop in Python:
+
+~~~
+for ch in "abc":
+    print(2*ch)
+~~~
+{: .input}
+
+The three key concepts used in this loop are:
+
+![Key Concepts](img/03/for-loop-concepts.png)
+
+(In this case it's easy to connect the concepts to concrete elements in the program,
+but that may not always be the case.)
+The key relationships,
+which are as important as the concepts themselves,
+are:
+
+![Relationships](img/03/for-loop-arcs.png)
+
+A quick count shows that there are actually 6 things here,
+not just 3,
+so we're already brushing up against the limits of short-term memory.
+If we add two more facts to show things that are usually (but not always) true:
+
+![Recommendations](img/03/for-loop-rec.png)
+
+the count rises to 8,
+which is a good size for a single teaching episode.
+A few other concept maps drawn by previous participants in this training course
+are listed below:
+
+* [Array Math](img/03/array-math.png)
+* [Conditionals](img/03/conditionals.png)
+* [Creating and Destroying Files](img/03/create-destroy.png)
+* [Sets and Dictionaries in Python](img/03/dict-set.png)
+* [Input and Output](img/03/io.png)
+* [Lists and Loops](img/03/lists-loops.png)
+
+Most of these are larger than our recommended limit,
+but that's not necessarily a bad thing:
+after drawing a concept map for an entire subject,
+a lesson designer can then carve out tightly-connected sub-graphs to make individual episodes.
+
+Concept maps can be used in many ways:
+
+1.  To aid solo design of a lesson by helping authors figure out what they're trying to teach.
+    Crucially, a concept map separates content from order:
+    in our experience,
+    people rarely wind up teaching things in the order in which they first drew them.
+2.  They aid communication with fellow lesson designers.
+    Instructors with very different ideas of what they're trying to teach
+    are likely to pull their learners in different directions.
+    Drawing and sharing concept maps isn't guaranteed to prevent this,
+    but it certainly helps.
+3.  Concept maps also aid communication with learners.
+    While it's possible to give learners a pre-drawn map at the start of a lesson for them to annotate,
+    it's better to draw it piece by piece while teaching
+    to reinforce the ties between what's in the map and what the instructor said.
+    (We will return to this idea below when discussing Mayer's work on multimedia learning.)
+4.  Concept maps are also a useful formative assessment technique:
+    having learners draw concept maps of what they think they just heard shows the instructor
+    what was missed and what was mis-understood.
+    Reviewing the learners' concept maps is too time-consuming for use in workshops,
+    but very useful in weekly lectures
+    *once learners are familiar with the technique*:
+    as [Glass observed](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/),
+    any new tool or technique initially slows people down.
+
+> ## Building Concept Maps Together
+>
+> Concept maps can be used as a classroom discussion exercise.
+> Put learners in small groups (2-4 people each),
+> give each group some sticky notes on which a few key concepts are written,
+> and have them build a concept map on a whiteboard by placing those sticky notes,
+> connecting them with labelled arcs,
+> and adding any other concepts they think they need.
+
+> ## What Are We Doing Again?
+>
+> Concept maps can also be used to help build a shared understanding of what a project is trying to accomplish.
+> Everyone independently draws a concept map to show what they think the project's goals and constraints are.
+> Those concept maps are then revealed simultaneously.
+> The ensuing discussion can be...vigorous.
 
 ## Cognitive Load
 
