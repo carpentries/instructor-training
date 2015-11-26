@@ -9,33 +9,132 @@ subtitle: Connections and Cognitive Load
 
 ## Connectivity
 
-*   We explained the difference between novice and competent: what's the difference between competent and expert?
-    *   Not necessarily more facts
-*   Experts have *more densely connected knowledge graphs*
-    *   Note: relies on a lie
-        *   People don't actually represent knowledge as graphs
-        *   But it's a useful metaphor
-    *   Experts can leap directly from problem to solution because they have a direct link ("intuition")
-    *   When they are asked to explain, they fabricate a path of intermediate steps that they didn't actually take
-*   This explains *expert blind spot*
-    *   Experts are often less good at teaching than competent practitioners because they don't actually reason to the solution
-*   Also explains *fluid representations*
-    *   Experts can shift approaches (e.g., geometrical to algebraic) quickly and appropriately
-*   Also explains why *experts are better at diagnosis*
-    *   Denser graph makes it easier to reason backward from symptoms to causes
-    *   To interview a programmer, don't ask her to code: ask her to debug
-*   Helping learners make connections is as important as introducing facts
-    *   Analogy with social networks: the more connections a fact has, the more likely it is to stay connected
-*   Q: what's the most important number in teaching? A: 7 +/- 2
-    *   As a gross simplification, we have two memory systems
-    *   Long-term or persistent memory is unbounded (we die before it fills up) but slow (hundreds of milliseconds to recall)
-    *   Short-term or working memory is faster (milliseconds or less) but smaller (7 +/- 2 --- more likely 4-5 items)
-        *   Backed up by many psychological studies
-        *   Folk evidence: phone numbers, size of sports teams (larger teams break down into groups), etc.
-*   Implication: we cannot simply shovel facts into heads
-    *   Learning requires us to load up short-term and reinforce so that it's transferred to long-term
-        *   That's what we mean by "learning"
-    *   We need a way to measure what we're trying to put into short-term memory
+The [previous lesson](02-models.html) described the key difference between novices and competent practitioners.
+What makes experts different from either?
+The answer is not that they know more facts:
+competent practitioners can memorize a lot of trivia
+without any noticeable improvement to their performance.
+
+To explain the difference,
+imagine for a moment that we store knowledge as a graph
+in which facts are nodes and relationships are arcs.
+(This is emphatically *not* how our brains work,
+but it's a useful metaphor.)
+The key difference between experts and people who are "merely competent"
+is that experts have many more connections,
+i.e.,
+their mental models are much more densely connected.
+This metaphor helps explain many observed aspects of expert behavior:
+
+1.  Experts can jump directly from a problem to its solution
+    because there actually is a direct link between the two in their mind:
+    where a competent practitioner would have to reason "A, B, C, D, E",
+    the expert can go from A to E in a single step.
+    We call this *intuition*,
+    and it isn't always a good thing:
+    when asked to explain her reasoning,
+    an expert often can't because she didn't actually go through any intermediate steps.
+2.  Experts are frequently so familiar with their subject
+    that they can no longer imagine what it's like to *not* see the world that way.
+    As a result,
+    they are often less good at teaching the subject than people with less expertise
+    who still remember what it's like to have to learn the things.
+    This is called *expert blind spot*.
+    It can be overcome with training,
+    but it's part of why world-famous researchers are often poor lecturers.
+3.  Densely-connected knowledge graphs also explains *fluid representations*,
+    e.g.,
+    expert mathematicians' ability to switch effortlessly between algebraic and geomtric views of a problem.
+4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
+    more linkages between facts makes it easier to reason backward from symptoms to causes.
+    (And this in turn is why asking programmers to debug during job interviews
+    gives a more accurate impression of their ability than asking them to program.)
+
+> ## The J Word
+>
+> Experts often betray their blind spot by using the word "just" in explanations,
+> as in, "Oh, it's easy, you just fire up a new virtual machine
+> and then you just install these four patches to Ubuntu
+> and then you just re-write your entire program in a pure functional style --- no problem."
+> The J word (also sometimes called the passive dismissive adjective)
+> is banned in our workshops,
+> primarily because using it gives learners the very clear signal
+> that the instructor thinks their problem is trivial
+> and that they therefore must be stupid.
+{: .callout}
+
+The graph model of knowledge explains why
+helping learners make connections is as important as introducing them to facts.
+The more people you know in a group,
+the more likely you are to remain part of that group.
+Similarly,
+the more connections a fact has to other facts,
+the more likely the fact is to be remembered.
+
+## Plus or Minus Two
+
+While the graph model of knowledge is inaccurate but useful,
+another simple model has a sound physical basis.
+As a rough approximation,
+human memory can be divided into two layers.
+The first is called *long-term* or *persistent memory*.
+It is where we store things like our password,
+our home address,
+and what the clown did at our eighth birthday party that scared us so much.
+It is essentially unbounded
+(barring injury or disease, we will die before it fills up)
+but it is slow to access ---
+too slow to help us handle hungry lions and disgruntled family members.
+
+Evolution has therefore given us a second system called *short-term* or *working memory*.
+It is much faster,
+but also much slower:
+in 1956,
+Miller estimated that the average adult's working memory could hold
+[7&plusmn;2 items](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+for a few seconds
+before things started to drop out.
+This is why phone number are typically 7 or 8 digits long:
+back when phones had dials instead of keypads,
+that was the longest string of numbers most adults could remember accurately
+for as long as it took the dial to go around and around.
+It's also why sports teams tend to have about half a dozen members,
+or be broken down into smaller groups (such as the forwards and backs in rugby).
+
+> ## Chunking
+>
+> Our minds can store larger numbers of facts in short-term memory by creating *chunks*.
+> For example, most of us have written our names so often
+> that we do not remember them as a sequence of letters,
+> but as a single fact instead.
+> Similarly, the pattern made by five spots on cards or dice is remembered as a whole
+> rather than as five separate pieces of information.
+> Chunks allow us to manage larger problems,
+> but can also mislead us if we mis-identify something,
+> i.e.,
+> see it as something it isn't.
+{: .callout}
+
+7&plusmn;2 is probably the most important number in programming.
+When someone is trying to write the next line of a program,
+or understand what's already there,
+she needs to keep a bunch of arbitrary facts straight in her head:
+what does this variable represent,
+what value does it currently hold,
+etc.
+If the number of facts grows too large,
+her mental model of the program comes crashing down
+(something we have all experienced).
+
+7&plusmn;2 is also the most important number in teaching.
+An instructor cannot push information directly into a learner's long-term memory.
+Instead,
+whatever she presents is first stored in the learner's short-term memory,
+and is only transferred to long-term memory after it has been held there and reinforced.
+If we present too much information too quickly,
+the new will displace the old before it has a chance to settle.
+We therefore need some way to see how much we're trying to teach,
+and how well-connected it is.
 
 ## Concept Maps
 
@@ -57,19 +156,10 @@ subtitle: Connections and Cognitive Load
     *   [Recommendations](img/02/for-loop-rec.png)
         *   Highlights the difference between a concept map and a syntax diagram: usage
         *   Remember, we are helping novices build an initial mental model
-*   Examples from previous rounds of instructor training:
-    *   [Array math in Python](img/02/array-math.png)
-    *   [Conditional statements](img/02/conditionals.png)
-    *   [Creating and destroying files in the shell](img/02/create-destroy.png)
-    *   [Sets and dictionaries](img/02/dict-set.png)
-    *   [Input and output](img/02/io.png)
-    *   [List comprehensions in Python](img/02/list-comp.png)
-    *   [Lists and loops](img/02/lists-loops.png)
-    *   [File permissions in Unix](img/02/perms.png)
-    *   [The `tr` command](img/02/tr-cmd.png)
-    *   Some of these are bigger than they should be
-        *   More importantly, they should all be hand-drawn
-        *   Rule of UI design: the less apparent effort went into something, the more honest the feedback
+
+*   They should all be hand-drawn
+*   The less apparent effort went into something, the more honest the feedback
+
 *   Uses of concept maps
     *   To aid solo design of a lesson: what am I thinking?
         *   Separates content from order: rarely teach in the order in which the map was first drawn
@@ -130,51 +220,56 @@ subtitle: Connections and Cognitive Load
     *   Learners are less likely to feel that they don't even know where to start
     *   Also encourage learners to think about the similarities and differences between various approaches
         *   Which helps shape the conceptual categories we want them to form
-*   Step 1: explain this:
 
-    ~~~
-    def total_length(words):
-        '''Calculate total length of all words.'''
-        total = 0
-        for word in words:
-            total += len(word)
-        return total
-    ~~~
+For example,
+start by explaining this:
 
-    then ask learners to fill in the blanks in:
+~~~
+# total_length(["red", "green", "blue"]) => 12
+def total_length(words):
+    total = 0
+    for word in words:
+        total += len(word)
+    return total
+~~~
+{: .input}
 
-    ~~~
-    def word_lengths(words):
-        '''Return list of lengths of all words.'''
-        lengths = ____
-        for word in words:
-            lengths ____
-        return lengths
-    ~~~
+Then ask learners to fill in the blanks in:
 
-*   Step 2: explain this:
+~~~
+# word_lengths(["red", "green", "blue"]) => [3, 5, 4]
+def word_lengths(words):
+    lengths = ____
+    for word in words:
+        lengths ____
+    return lengths
+~~~
+{: .input}
 
-    ~~~
-    doubles = [2 * x for x in items]
-    ~~~
+and then this:
 
-    then ask learners to get a list of lengths:
+~~~
+# concatenate_all(["red", "green", "blue"]) => "redgreenblue"
+def concatenate_all(words):
+    result = ____
+    for ____ in ____:
+        ____
+    return result
+~~~~
+{: .input}
 
-    ~~~
-    lengths = [____ for ____ in words]
-    ~~~
+and this:
 
-*   Step 3: combine ideas with:
-
-    ~~~
-    def word_lengths(____):
-        return ____
-    ~~~
+~~~
+# acronymize(["red", "green", "blue"]) => "RGB"
+def acronymize(words):
+    ____
+~~~
+{: .input}
 
 > ## Concept Mapping
 >
-> Create a hand drawn concept map for something you would teach in 5 
-> minutes.  
+> Create a hand drawn concept map for something you would teach in five minutes.  
 {: .challenge}
 
 > ## Faded Examples
@@ -184,8 +279,8 @@ subtitle: Connections and Cognitive Load
 
 > ## Accessibility, and Other Ways to Externalize Cognition
 >
-> Describe a way to convey mental models that includes many different 
-> people, including those who might have a physical impairment or 
-> learn differently. Don't feel that you need to invent something - you 
-> can use Google or other resources to come up with something. 
+> Describe a way to convey mental models that is accessible to many
+> different people, including those who might have a physical
+> impairment or learn differently. Don't feel that you need to invent
+> something - you can use Google or other resources.
 {: .challenge}
