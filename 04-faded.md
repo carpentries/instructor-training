@@ -7,43 +7,90 @@ subtitle: Faded Examples
 > * FIXME
 {: .objectives}
 
-## Cognitive Load
+## Battling Theories
 
-> For every complex problem there is an answer that is clear, simple, and wrong.
-> - H.L. Mencken
+In 2006,
+Kirschner, Sweller, and Clark's published a paper titled
+"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf)".
+In the abstract, they say:
 
-*   A useful psychological basis for instructional design is *cognitive load theory*.
-    *   [Sometimes criticized](https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/) as unfalsifiable
-    *   But instruction based on it has been proven effective
-    *   And it's a good framework for tying together several other ideas about learning
-*   People's brains deal with three kinds of load when they're learning:
-    *   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task
-    *   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
-        *   Which is one of the things that distinguishes learning from memorization
-    *   *Extraneous* load is everything else that distracts or gets in the way
-*   Eliminating extraneous cognitive load accelerates learning
-*   Hard part is to figure out what's extraneous
-    *   Which is why the theory is criticized as unfalsifiable
-    *   But research over the last three decades has identified a few factors
-*   Example: work by Richard Mayer et al on *split-attention effect*
-    *   Correlating linguistic, auditory, and visual streams of information takes cognitive effort
-        *   Brain can't help but check that it's getting the same information from all channels
-    *   Learning is therefore more effective when redundant information is *not* being presented simultaneously in two different channels
-    *   Audio narration with on-screen captions is harder to learn from than either on its own
-    *   Speech and images is more effective *without* captions for native speakers of the language
-    *   But (possibly) more effective for non-native speakers (for whom redundancy improves capture)
-*   Searching for a solution strategy is a cognitive load in its own right
-    *   Can be reduced by giving learners worked examples that show them a problem and a detailed step-by-step solution
-    *   To maximize impact, worked examples should immediately be followed by a series of *faded examples*
-        *   Present learners with a problem and a solution in which some parts are left blank to be filled in
-        *   Each successive problem has more initial blanks
-*   Faded examples are less intimidating than a blank screen.
-    *   Learners are less likely to feel that they don't even know where to start
-    *   Also encourage learners to think about the similarities and differences between various approaches
-        *   Which helps shape the conceptual categories we want them to form
+> Although unguided or minimally guided instructional approaches
+> are very popular and intuitively appealing...these approaches
+> ignore both the structures that constitute human cognitive architecture
+> and evidence from empirical studies over the past half-century
+> that consistently indicate that minimally guided instruction is less effective and less efficient than
+> instructional approaches that place a strong emphasis on guidance of the student learning process.
+> The advantage of guidance begins to recede only when learners have
+> sufficiently high prior knowledge to provide "internal" guidance.
+
+The paper set off a minor academic firestorm,
+because beneath the jargon the authors were claiming that
+[inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning)---allowing
+learners to ask their own questions,
+set their own goals,
+and find their own path through a subject---doesn't actually work very well.
+Kirschner et al's argument was that it requires learners to simultaneously
+master a domain's factual content
+and its search and problem-solving strategies.
+Fostering creativity and independence is intuitively appealing,
+but that doesn't mean it works.
+
+One of the paper's authors (Sweller) proposed an alternative
+based on the theory of *[cognitive load](https://en.wikipedia.org/wiki/Cognitive_load)*.
+It posits that people have to deal with three things when they're learning:
+
+*   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
+*   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
+    (which is one of the things that distinguishes learning from memorization).
+*   *Extraneous* load is everything else that distracts or gets in the way.
+
+Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
+Unsurprisingly,
+it too has [been criticized](https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/),
+most particularly for being unfalsifiable.
+Critics of cognitive load theory say that
+since there's no way to tell in advance of an experiment whether something is germane or not,
+any result can be justified after the fact
+by labelling things that hurt performance as "extraneous"
+and things that don't "germane".
+
+However,
+some predictions *can* be made.
+One example is work by Mayer and colleagues on
+the *[split-attention effect](https://en.wikipedia.org/wiki/Split_attention_effect)*.
+Linguistic and visual input are processed by different parts of the human brain,
+and linguistic and visual memories are stored separately as well.
+This means that correlating linguistic, auditory, and visual streams of information takes cognitive effort:
+when someone reads something while hearing it spoken aloud,
+their brain can't help but check that it's getting the same information on both channels.
+Learning is therefore more effective when redundant information is *not* being presented simultaneously in two different channels.
+For example,
+people find it harder to learn from a video that has both narration and on-screen captions
+than from one that has either the narration or the captions but not both.
+
+## Faded Examples
+
+According to cognitive load theory,
+searching for a solution strategy is an extra burden
+on top of applying that strategy.
+We can therefore accelerate learning
+by giving learners worked examples that show them a problem and a detailed step-by-step solution,
+followed by a series of *faded examples*.
+The first of these presents a nearly-complete use of the same problem-solving strategy just demonstrated
+with a small number of blanks for the learner to fill in.
+The next problem is also of the same type,
+but has more blanks,
+and so on until the learner is asked to solve the entire problem.
+
+Faded examples work because they introduce the problem-solving strategy piece by piece.
+At each step,
+learners have one new problem to tackle.
+This is less intimidating than a blank screen or a blank sheet of paper.
+It also encourage learners to think about the similarities and differences between various approaches,
+which helps create the linkages in the mental model that instructors want them to form.
 
 For example,
-start by explaining this:
+someone teaching the accumulator pattern in Python might start by explaining this:
 
 ~~~
 # total_length(["red", "green", "blue"]) => 12
@@ -55,7 +102,7 @@ def total_length(words):
 ~~~
 {: .input}
 
-Then ask learners to fill in the blanks in:
+then ask learners to fill in the blanks in:
 
 ~~~
 # word_lengths(["red", "green", "blue"]) => [3, 5, 4]
@@ -67,7 +114,7 @@ def word_lengths(words):
 ~~~
 {: .input}
 
-and then this:
+The next problem might be:
 
 ~~~
 # concatenate_all(["red", "green", "blue"]) => "redgreenblue"
@@ -79,7 +126,7 @@ def concatenate_all(words):
 ~~~~
 {: .input}
 
-and this:
+and learners would finally be asked to tackle:
 
 ~~~
 # acronymize(["red", "green", "blue"]) => "RGB"
@@ -87,6 +134,10 @@ def acronymize(words):
     ____
 ~~~
 {: .input}
+
+Paradoxically,
+despite being asked to solve more problems,
+most learners will master the idea in less time.
 
 > ## Faded Examples
 >
