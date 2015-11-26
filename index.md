@@ -2,9 +2,6 @@
 layout: page
 title: Instructor Training
 ---
-> For every complex problem there is an answer that is clear, simple, and wrong.  
-> - H.L. Mencken
-
 This short training course introduces the basics of 
 educational psychology and instructional design,
 and shows them how to use them to teach programming to free-range adult learners.
@@ -20,12 +17,13 @@ but we hope it will convince you that it's worth learning more.
 
 ## Topics
 
-1.  [Mental Models](01-models.html)
-2.  [Connections and Cognitive Load](02-cognition.html)
-3.  [Designing Lessons for Learners](03-design.html)
-4.  [Teaching as a Performance Art](04-performance.html)
-5.  [Motivation and Demotivation](05-motivation.html)
-6.  [Next Steps](06-todo.html)
+1.  [Introduction](01-introduction.html)
+2.  [Mental Models](02-models.html)
+3.  [Connections and Cognitive Load](03-cognition.html)
+4.  [Designing Lessons for Learners](04-design.html)
+5.  [Teaching as a Performance Art](05-performance.html)
+6.  [Motivation and Demotivation](06-motivation.html)
+7.  [Next Steps](07-todo.html)
 
 ## Other Resources
 
