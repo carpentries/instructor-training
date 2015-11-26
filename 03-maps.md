@@ -250,7 +250,7 @@ Concept maps can be used in many ways:
 
 > ## Concept Mapping
 >
-> Create a hand drawn concept map for something you would teach in five minutes.  
+> Create a hand drawn concept map for something you would teach in five minutes.
 {: .challenge}
 
 > ## Accessibility, and Other Ways to Externalize Cognition

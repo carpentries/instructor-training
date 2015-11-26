@@ -12,7 +12,7 @@ subtitle: Mental Models
 ## Cognitive Development and Mental Models
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.  
+> It's what you know for sure that just ain't so.
 > - Mark Twain
 
 Our goal is not to teach the syntax of a particular programming language,
@@ -20,7 +20,7 @@ but to teach people how to think about programming
 (and about using computers in research more generally).
 Our approach is based on the work of researchers like Patricia Benner,
 who applied the [Dreyfus model of skill acquisiton](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-in her studies of 
+in her studies of
 [how nurses progress from novice to expert](http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/).
 In simplified form,
 that model has three stages:
@@ -306,7 +306,7 @@ time that we don't have in our compressed two-day format.
 > ## Confronting the Contradiction
 >
 > Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.  
+> and how to get learners to confront it.
 {: .challenge}
 
 > ## Other Kinds of Formative Assessment

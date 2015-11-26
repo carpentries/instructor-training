@@ -9,7 +9,7 @@ subtitle: Faded Examples
 
 ## Cognitive Load
 
-> For every complex problem there is an answer that is clear, simple, and wrong.  
+> For every complex problem there is an answer that is clear, simple, and wrong.
 > - H.L. Mencken
 
 *   A useful psychological basis for instructional design is *cognitive load theory*.
