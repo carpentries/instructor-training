@@ -242,6 +242,19 @@ and see the topic from their point of view.
 >     think about your own misconceptions
 >     or ask colleagues about their experiences.
 
+> ## Concept Inventories
+>
+> The [Force Concept Inventory](https://en.wikipedia.org/wiki/Force_Concept_Inventory)
+> is a set of MCQs designed to gauge understanding of basic Newtonian mechanics.
+> By interviewing a large number of respondents,
+> correlating their misconceptions with patterns of right and wrong answers to questions,
+> and then improving the questions,
+> it's possible to construct a very precise diagnostic tool.
+> However,
+> it's very costly to do this,
+> and students' ability to search for answers on the internet
+> is an ever-increasing threat to its validity.
+
 ## Peer Instruction
 
 No matter how good a teacher is,
