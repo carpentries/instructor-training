@@ -110,7 +110,9 @@ From Mel Chua http://blog.melchua.com/2013/10/07/edupsych-for-hacker-schoolers-v
         *   Teachers using it to design lessons *or* central organization using it to rate teachers?
 	*   Are teachers just being measured, or helped to improve?  We'll return to this later...
 
-https://wvde.state.wv.us/teach21/ExamplesofFormativeAssessment.html
+http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
+
+----------------------------------------
 
 https://www.youtube.com/watch?v=1i8ylq4j_EY
 
@@ -121,8 +123,6 @@ https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-acc
 http://www.nap.edu/catalog/18687/reaching-students-what-research-says-about-effective-instruction-in-undergraduate
 
 https://onlinelearninginsights.wordpress.com/2015/07/21/make-your-teaching-stick-with-ideas-from-make-it-stick-the-science-of-successful-learning/
-
-http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
 http://boingboing.net/2015/10/12/the-myers-briggs-personality-t.html
 
@@ -139,8 +139,6 @@ https://twitter.com/programmingcom/status/471080343877853185
 https://twitter.com/tpoi/status/509846902737625088
 
 http://hechingerreport.org/content/ed-tech-promoters-need-understand-us-learn_16821/
-
-https://theconversation.com/seven-great-teaching-methods-not-backed-up-by-evidence-33647
 
 http://www.learning-theories.com/
 
