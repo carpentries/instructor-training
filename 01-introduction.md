@@ -31,6 +31,12 @@ Much of the research in education has rightly focused on people without these pr
 >
 > There are many other perspectives outside cognitivist theory ---
 > see [this site](http://www.learning-theories.com/) for summaries.
+> Besides cognitivism, those encountered most frequently include
+> *behaviorism* (which treats education as stimulus/response conditioning),
+> *constructivism* (which considers learning an active process
+> during which learners construct knowledge for themselves),
+> and *connectivism* (which emphasizes the social aspects of learning,
+> particularly those made possible by the Internet).
 {: .callout}
 
 ## Instructional Design
