@@ -19,11 +19,12 @@ but we hope it will convince you that it's worth learning more.
 
 1.  [Introduction](01-introduction.html)
 2.  [Mental Models](02-models.html)
-3.  [Connections and Cognitive Load](03-cognition.html)
-4.  [Designing Lessons for Learners](04-design.html)
-5.  [Teaching as a Performance Art](05-performance.html)
-6.  [Motivation and Demotivation](06-motivation.html)
-7.  [Next Steps](07-todo.html)
+3.  [Concept Maps](03-maps.html)
+4.  [Faded Examples](04-faded.html)
+5.  [Designing Lessons for Learners](05-design.html)
+6.  [Teaching as a Performance Art](06-performance.html)
+7.  [Motivation and Demotivation](07-motivation.html)
+8.  [Next Steps](08-todo.html)
 
 ## Other Resources
 
