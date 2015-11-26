@@ -378,40 +378,6 @@ that a single fixture on the screen can play multiple roles.  This is
 instructors move back and forth between an editor and a regular shell
 prompt in a single window.
 
-## Peer Instruction
-
-Clearing up novices' misconceptions is more important than imparting
-information.  However, when novices misunderstand something, they can
-all misunderstand it differently.  And no matter how good the teacher
-is, she can only pitch a lesson at one level at a time.  How can that
-be scaled?
-
-The best solution so far is called *peer instruction*.  Originally
-developed by Eric Mazur at Harvard, it has been studied extensively in
-a wide variety of contexts, including programming.  When it is used,
-the basic learning cycle is typically something like this, to be
-followed after a short lesson on a single concept:
-
-1.  Give students an MCQ, probing for misconceptions on the topic just
-    taught.
-2.  Have all the students vote publicly on their answers to the MCQ.
-3.  Break the class into groups of 3-4, and have them discuss and debate
-    the question within their groups.
-4.  Reconvene and have the students vote again.
-5.  If necessary, explain the solution to the probelem, have the
-    students return to their former groups, and discuss the problem again.
-
-Having students discuss their original answers compels then to clarify
-their thinking, which can be enough to call out gaps in reasoning.
-Re-polling the class then lets the instructor know if they can move
-on, or if further explanation is necessary. A final round of
-additional discussion after this explanation then serves to give
-another chance for strong students to compile their understanding into
-something they can deliver as tutoring to their weaker peers.
-
-FIXME: we don't use PI because it takes people time to learn a new way
-to learn, and we don't have that time in our two-day workshops.
-
 ## Things You Shouldn't Do
 
 *   Telling learners they are rubbish because they use Excel and/or Word
