@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Setting the Stage
+subtitle: Introduction
 ---
 > ## Learning Objectives
 >
