@@ -98,6 +98,9 @@ subtitle: Connections and Cognitive Load
 
 ## Cognitive Load
 
+> For every complex problem there is an answer that is clear, simple, and wrong.  
+> - H.L. Mencken
+
 *   A useful psychological basis for instructional design is *cognitive load theory*.
     *   [Sometimes criticized](https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/) as unfalsifiable
     *   But instruction based on it has been proven effective
