@@ -238,6 +238,7 @@ Concept maps can be used in many ways:
 > and have them build a concept map on a whiteboard by placing those sticky notes,
 > connecting them with labelled arcs,
 > and adding any other concepts they think they need.
+{: .callout}
 
 > ## What Are We Doing Again?
 >
@@ -245,6 +246,7 @@ Concept maps can be used in many ways:
 > Everyone independently draws a concept map to show what they think the project's goals and constraints are.
 > Those concept maps are then revealed simultaneously.
 > The ensuing discussion can be...vigorous.
+{: .callout}
 
 ## Cognitive Load
 
