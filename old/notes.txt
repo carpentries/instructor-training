@@ -118,8 +118,6 @@ https://www.youtube.com/watch?v=1i8ylq4j_EY
 
 http://www.doctornerdlove.com/2015/06/how-to-share-your-unpopular-opinion-without-being-an-asshole/
 
-https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
-
 http://www.nap.edu/catalog/18687/reaching-students-what-research-says-about-effective-instruction-in-undergraduate
 
 https://onlinelearninginsights.wordpress.com/2015/07/21/make-your-teaching-stick-with-ideas-from-make-it-stick-the-science-of-successful-learning/
@@ -142,24 +140,10 @@ http://hechingerreport.org/content/ed-tech-promoters-need-understand-us-learn_16
 
 http://www.learning-theories.com/
 
-https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
-
 Using Bloom's Taxonomy to write learning objectives:
 http://teaching.uncc.edu/sites/teaching.uncc.edu/files/media/files/file/GoalsAndObjectives/BloomWritingObjectives.pdf
 
-Having a static, non colored version of the Etherpad notes available
-to look at during class would be great, brain overload happens pretty
-quickly.  Bolded headers, or more whitespace would help to create some
-additional sense of structure.
-
-Piazza got overwhelming toward the end, too many tabs, they fell off
-the end, and I couldn't figure out how to access them any more.  One
-thing that I was thinking of as a thing to try for next time was to
-have a folder just for each week, and then have one post for each
-person, with each question answer as a subsection (1, 2, 3, etc.)
-
 ----------------------------------------
-
 
 Dunning-Kruger Effect:
 http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
