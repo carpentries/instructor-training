@@ -118,13 +118,40 @@ Wiggins and McTighe use the acronym WHERETO:
 > *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
 > large organizations invariably prefer uniformity to productivity.
 
-## What Is Learning?
+## Writing Learning Objectives
 
-*   What kind(s) of learning are we aiming for?
-    *   Want a taxonomy that is hierarchical, measurable, stable, and cross-cultural
-    *   But you can't always get what you want...
-*   [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy) (1956) is the most widely known
-*   Wiggins & McTighe's *facets of understanding* and Fink's taxonomy (from *[Creating Significant Learning Experiences](http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/)*) are more recent
+Summative and formative assessments help instructors figure out what they're going to teach,
+but in order to communicate that to learners and other instructors,
+we should also write *learning objectives*.
+It's easy to come up with fuzzy ones like,
+"Learners will gain an appreciation of the role of research software engineers in the research process."
+Useful ones take a bit more work.
+
+What we want are specific, verifiable descriptions of what learners can do to demonstrate their learning.
+Each learning objective (LO) should have a measurable or verifiable verb specifying what the learner will do,
+and should specify the criteria for acceptable performance.
+For example,
+a better learning objective than the one above would be,
+"Learners will list three things that make research software engineers distinct from
+other specialists involved in the research process."
+
+In order to formulate good learning objectives we need to decide what kinds of learning we are aiming for.
+There is a difference between knowing the atomic weight of fluorine
+and understanding what elements it's likely to bond with and why.
+Similarly,
+there's a difference between being able to figure out why a microscope isn't focusing properly
+and being able to design a new microscope that focuses more easily.
+What we need is a taxonomy of understanding
+that is hierarchical, measurable, stable, and cross-cultural.
+
+The best-known attempt to build one is
+[Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy),
+which was first published in 1956.
+More recent efforts are Wiggins and McTighe's *facets of understanding*
+and Fink's taxonomy from his book
+*[Creating Significant Learning Experiences](http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/)*.
+The table below compares them and shows some of the verbs typically used
+in learning objectives written for each level.
 
 <table>
   <tr>
@@ -219,39 +246,35 @@ Wiggins and McTighe use the acronym WHERETO:
   </tr>
   <tr>
     <td colspan="3">
-      Reproduced with additions from Allen &amp; Tanner's <a href="http://www.lifescied.org/content/6/2/85.full">Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design</a> (2007)
+      Reproduced with additions from Allen and Tanner's <a href="http://www.lifescied.org/content/6/2/85.full">Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design</a> (2007)
     </td>
   </tr>
 </table>
 
-## Writing Learning Objectives
-
-*   Vague is easy
-    *   "Learners will gain an appreciation of the role of research software engineers in the research process"
-*   Useful is harder
-    *   Want specific, measurable description of what learner can do to demonstrate learning
-    *   Three parts:
-        1.  Measurable verb
-        2.  Condition(s) under which demonstration of learning occurs occurs
-        3.  Criteria for acceptable performance
-    *   "Learner will list three things that make research software engineers distinct from other specialists involved in the research process"
-*   Three domains:
-    *   *Cognitive*: what do learners know?
-    *   *Psychomotor*: what can learners do?
-    *   *Affective*: how do learners feel?
-
 ## Who Are Our Learners?
 
-*   Learning modalities (visual, auditory, kinesthetic): widely known, but pseudoscience
-    *   No evidence that matching teaching method to preferred learning modality changes outcomes
-* Honey and Mumford: characterize the learning cycle and where people prefer to enter it
-    1.  *Doing* something or having an experience
-    2.  *Reflecting* on the experience
-    3.  *Concluding* from the experience, developing a theory
-    4.  *Planning* the next steps to apply or test the theory
-*   Leads to four categories of learners
-    *   Also frequently criticized
-    *   But a more useful vocabulary for describing who we meet in class
+The complement to clarifying the objectives for our lessons
+is to be clear about who we're trying to teach.
+One *[well-known scheme](https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities)*
+characterizes learners as visual, auditory, or kinesthetic
+according to whether they like to see things, hear things, or do things.
+These classifications are easy to understand,
+but are [almost certainly pseudoscience](http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/):
+what little evidence exists for them is very weak.
+
+Another classification scheme developed by Honey and Mumford is based on an idealized learning cycle.
+It is also frequently criticized,
+but provides a more useful vocabulary for describing interactions with learners.
+The four stages in the cycle are:
+
+1.  *doing* something or having an experience,
+2.  *reflecting* on the experience,
+3.  *concluding* from the experience (i.e., developing an explanatory theory), and
+4.  *planning* the next steps to apply or test the theory.
+
+Different learners prefer to start with or spend more time in
+different parts of this cycle.
+This leads naturally to a four-way division:
 
 <table>
   <tr>
@@ -331,7 +354,7 @@ Wiggins and McTighe use the acronym WHERETO:
     <td>
       <ul>
 	<li>there is no apparent pay-back to the learning</li>
-        <li>the event or learning is 'all theory'</li>
+        <li>the event or learning is "all theory"</li>
         <li>there is no practice or guidelines on how to do it</li>
         <li>they do not see sufficient reward from the learning activity</li>
       </ul>
@@ -339,38 +362,28 @@ Wiggins and McTighe use the acronym WHERETO:
   </tr>
 </table>
 
-## Who Are We?
-
-*   [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/)
-*   Teaching is...
-    *   *Transmission*: effective delivery of content
-    *   *Apprenticeship*: modelling ways of being
-    *   *Developmental*: cultivating ways of thinking
-    *   *Nurturing*: facilitating self-efficacy
-    *   *Social Reform*: seeking a better society
+> ## Develop Learning Objectives
+>
+> Choose one topic (typically 10-15 minutes of teaching) from
+> a [Data Carpentry](http://www.datacarpentry.org/lessons/)
+> or [Software Carpentry](http://software-carpentry.org/lessons.html)
+> lesson and write learning objectives for it.
+> Characterize each objective according to its level in Blooms taxonomy.
+{: .challenge}
 
 > ## Critique Learning Objectives
 >
 > Choose one topic from a [Data Carpentry](http://www.datacarpentry.org/lessons/)
 > or [Software Carpentry](http://software-carpentry.org/lessons.html) lesson
-> and read through its learning objectives.  Consider the following three questions:
-> 1) Does this lesson accomplish what it sets out to achieve?
-> 2) Does it contain too much?
-> 3) Is the content on point with the learning objectives?
-{: .challenge}
-
-> ## Develop Learning Objectives
->
-> Choose one topic (typically 10-15 minutes of teaching) from a [Data Carpentry](http://www.datacarpentry.org/lessons/)
-> or [Software Carpentry](http://software-carpentry.org/lessons.html) lesson
-> and write learning objectives
-> for it.
+> and read through its learning objectives.
+> Does this lesson accomplish what it sets out to achieve?
+> Does it contain too much?
+> Is the content on point with the learning objectives?
 {: .challenge}
 
 > ## What Do You Believe About Teaching?
 >
-> Complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/), and consider
-> the following two questions, based on your results:
-> 1) Do you agree with what it says about you?
-> 2) Do you think it is valuable/credible?
+> Complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/).
+> Do you agree with what it says about your view of teaching?
+> Do you think the questionnaire is valuable and credible?
 {: .challenge}
