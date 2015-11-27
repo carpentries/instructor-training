@@ -11,6 +11,9 @@ This training course only a start.
 If you'd like to help us make it better,
 we would welcome additions discussing:
 
+> Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
+> focus on measurement with little (usually no) help for improving
+
 *   how education research is done: qualitative studies, quantitative studies, and comparison studies
 *   Dewey, Piaget, Vygotsky, Freire (or, key figures in 100 words each)
 *   the history of distance education (or, everything old is new again)
