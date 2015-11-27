@@ -23,8 +23,8 @@ worth learning more.
 4.  [Faded Examples](04-faded.html)
 5.  [Lesson Design](05-design.html)
 6.  [Learning Objectives](06-objectives.html)
-7.  [Teaching as a Performance Art](07-performance.html)
-8.  [Motivation and Demotivation](08-motivation.html)
+7.  [Motivation and Demotivation](07-motivation.html)
+8.  [Teaching as a Performance Art](08-performance.html)
 9.  [Next Steps](09-todo.html)
 
 ## Other Resources
