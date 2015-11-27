@@ -21,10 +21,11 @@ worth learning more.
 2.  [Mental Models](02-models.html)
 3.  [Concept Maps](03-maps.html)
 4.  [Faded Examples](04-faded.html)
-5.  [Designing Lessons for Learners](05-design.html)
-6.  [Teaching as a Performance Art](06-performance.html)
-7.  [Motivation and Demotivation](07-motivation.html)
-8.  [Next Steps](08-todo.html)
+5.  [Lesson Design](05-design.html)
+6.  [Learning Objectives](06-objectives.html)
+7.  [Teaching as a Performance Art](07-performance.html)
+8.  [Motivation and Demotivation](08-motivation.html)
+9.  [Next Steps](09-todo.html)
 
 ## Other Resources
 
