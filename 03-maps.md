@@ -252,11 +252,3 @@ Concept maps can be used in many ways:
 >
 > Create a hand drawn concept map for something you would teach in five minutes.
 {: .challenge}
-
-> ## Accessibility, and Other Ways to Externalize Cognition
->
-> Describe a way to convey mental models that is accessible to many
-> different people, including those who might have a physical
-> impairment or learn differently. Don't feel that you need to invent
-> something - you can use Google or other resources.
-{: .challenge}
