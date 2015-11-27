@@ -9,65 +9,114 @@ subtitle: Designing Lessons for Learners
 
 ## Reverse Instructional Design
 
-*   *[Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)* (TDD) in software development
-    *   Conventional approach is:
-        1.  Decide what to build
-        2.  Build it
-        3.  Do some testing (optional)
-    *   TDD:
-        1.  Decide what to build
-        2.  Write some tests that fail now but will pass when the feature is added or the bug is fixed
-        3.  Write just enough software to make those tests pass
-        4.  Clean up
-    *   Works because:
-        *   Defining requirements as tests helps us clarify our thinking (externalize cognition)
-        *   Having goalposts reduces risk of endless polishing
-            *   Most of us would rather program for a week than test for an hour
-        *   Writing tests *before* writing software reduces risk of confirmation bias
-            *   We never test our own software as fairly as someone else does
-*   Wiggins & McTighe: *[Understanding by Design](http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/)*
-    *   Process analogous to TDD:
-        1.  Identify what is worth learning
-            *   E.g., draw concept maps
-        2.  Decide what constitutes evidence that learning has taken place
-            *   E.g., create the summative assessment (final exam)
-        3.  Plan instruction to close the gap between what learners know and what they need to know and prepare learners to demonstrate what they have learned
-            *   E.g., create formative assessments (in class) and exercises (out of class)
-        4.  *Then* write the lessons: WHERETO
-            *   *Where*: ensure learner sees the big picture, can answer "Why?" questions, knows final performance expectations as soon as possible
-            *   *Hook*: immerse learner in unit ideas and issues, engage in thought-provoking experiences/challenges/questions at unit's core
-            *   *Equip*: provide learner with tools, resources, skills, and information needed to achieve the desired understanding and accomplish the performance tasks
-            *   *Rethink*: enhance understanding by shifting perspective, considering different theories, challenging prior assumptions, etc. Also provide impetus/opportunity for revising/polishing work
-            *   *Evaluate*: ensure learners get formative feedback *and opportunities to self-assess and adjust*
-            *   *Tailor*: Personalize learning through differentiated instruction and assessment
-            *   *Organize*: Sequence work to suit the understanding goals
-*   Parnas & Clements: "A Rational Design Process: How and Why to Fake It" (1986)
-    *   People rarely follow the steps exactly as laid out
-        *   The term "waterfall" was coined to describe what software development *don't* do
-    *   But we want it to *look* like a repeatable sequential process afterward because that's what's easiest to understand
-*   RID is *not* "teaching to the test"
-    *   RID: teachers set goals to aid in lesson design
-        *   Might never actually give the final exam that was designed as a goal
-    *   T2T: external authority defines assessment criteria that affect outcomes for teachers
-        *   Creates perverse incentives
-    *   *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*: focus on measurement with little (usually no) help for improving
-        *   *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*: large organizations invariably prefer uniformity to productivity
+Most people design courses as follows:
 
-## Writing Learning Objectives
+1.  The chair tells you that you have to teach something you haven't thought about in ten years.
+2.  You start writing slides to explain what you know about the subject.
+3.  After two or three weeks, you make up an assignment based more or less on what you've taught so far.
+4.  You repeat step 3 several times.
+5.  You stay up 'til the wee hours to make up a final exam.
 
-*   Vague is easy
-    *   "Learners will gain an appreciation of the role of research software engineers in the research process"
-*   Useful is harder
-    *   Want specific, measurable description of what learner can do to demonstrate learning
-    *   Three parts:
-        1.  Measurable verb
-        2.  Condition(s) under which demonstration of learning occurs occurs
-        3.  Criteria for acceptable performance
-    *   "Learner will list three things that make research software engineers distinct from other specialists involved in the research process"
-*   Three domains:
-    *   *Cognitive*: what do learners know?
-    *   *Psychomotor*: what can learners do?
-    *   *Affective*: how do learners feel?
+There's a better way,
+and to explain it,
+we first need to explain how
+*[test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)* (TDD)
+is used in software development.
+When programmers are using TDD,
+they don't write software and then (possibly) write tests.
+Instead,
+they write the tests first,
+then write just enough new software to make those tests pass,
+and then clean up a bit.
+
+TDD works because writing tests forces programmers to specify
+exactly what they're trying to accomplish and what "done" looks like.
+It's easy to be vague when using a human language like English or Korean;
+it's much harder to be vague in Python or R.
+
+Writing tests also reduces the risk of endless polishing,
+and increases the likelihood that tests will actually get written.
+(Somehow, people always seem to run out of time...)
+Finally,
+writing the tests first reduces the risk of confirmation bias:
+someone who hasn't written a program is much more likely to be objective when testing it
+than its original author.
+
+A similar "backward" method works very well for lesson design.
+As described in Wiggins and McTighe's
+*[Understanding by Design](http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/)*,
+the method proceeds through four stages:
+
+1.  Identify what is worth learning (e.g., draw concept maps).
+2.  Decide what constitutes evidence that learning has taken place
+    (i.e., create the final exam or some other summative assessment).
+3.  Design practice work to prepare learners for what they will have to do during the summative assessment.
+    These should include formative assessments to be done in class
+    and the exercises to be done out of class.
+4.  Sort those practices in order of increasing complexity
+    and then write short episodes to close the gap between what learners know and what they need to know
+    in order to do each one.
+    (An actual classroom lesson will then consist of several such episodes,
+    each building toward a quick formative assessment.)
+
+This *reverse instructional design* method helps keep teaching focused on its objectives.
+It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
+When writing the lessons themselves,
+Wiggins and McTighe use the acronym WHERETO:
+
+*   *Where*:
+    ensure that learners see the big picture,
+    can answer "Why?" questions,
+    and know the final performance expectations as soon as possible.
+*   *Hook*:
+    immerse learners in the lesson's ideas and issues.
+*   *Equip*:
+    provide learners with the tools, skills, and information needed
+    to be successful in the upcoming formative assessment.
+*   *Rethink*:
+    consider different perspectives,
+    challenge their prior assumptions, etc.
+*   *Evaluate*:
+    ensure that the learners and the instructor get actionable feedback
+    from the formative assessment.
+*   *Tailor*:
+    find ways to personalize learning through differentiated instruction and/or assessment.
+*   *Organize*:
+    put the episodes in sequence.
+
+> ## How and Why to Fake It
+>
+> One of the most influential papers in the history of software engineering
+> was Parnas and Clements' "[A Rational Design Process: How and Why to Fake It](http://dl.acm.org/citation.cfm?id=9800)",
+> in which they pointed out that in real life we move back and forth between gathering requirements,
+> interface design,
+> programming,
+> and testing,
+> but when we write up our work
+> it's important to describe it as if we did these steps one after another
+> so that other people can retrace our steps.
+> The same is true of lesson design:
+> while we may change our mind about what we want to teach
+> based on something that occurs to us while we're writing an MCQ,
+> we want the notes we leave behind to present things in the order described above.
+{: .callout}
+
+> ## Teaching to the Test
+>
+> Reverse instructional design is *not* the same thing as "teaching to the test".
+> When using RID, teachers set goals to aid in lesson design,
+> and may not never actually give the final exam that they wrote as a goal.
+> In many school systems,
+> on the other hand,
+> an external authority defines assessment criteria for all learners,
+> regardless of their individual situations,
+> and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
+> Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
+> focus on measurement with little (usually no) help for improving
+> Centralized, standardized testing is appealing (particularly to those with the power to set the tests),
+> but as Scott pointed out in
+> *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
+> large organizations invariably prefer uniformity to productivity.
 
 ## What Is Learning?
 
@@ -174,6 +223,22 @@ subtitle: Designing Lessons for Learners
     </td>
   </tr>
 </table>
+
+## Writing Learning Objectives
+
+*   Vague is easy
+    *   "Learners will gain an appreciation of the role of research software engineers in the research process"
+*   Useful is harder
+    *   Want specific, measurable description of what learner can do to demonstrate learning
+    *   Three parts:
+        1.  Measurable verb
+        2.  Condition(s) under which demonstration of learning occurs occurs
+        3.  Criteria for acceptable performance
+    *   "Learner will list three things that make research software engineers distinct from other specialists involved in the research process"
+*   Three domains:
+    *   *Cognitive*: what do learners know?
+    *   *Psychomotor*: what can learners do?
+    *   *Affective*: how do learners feel?
 
 ## Who Are Our Learners?
 
