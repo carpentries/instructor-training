@@ -146,6 +146,21 @@ We have attempted to apply our knowledge of how people learn
 and our recommendations for instructional design
 within the format of these lessons.
 
+## Key Readings
+
+The best overview of research results in education and learning is
+Ambrose et al's *[How Learning Works: Seven Research-Based Principles for Smart Teaching](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*,
+which is also an excellent example of what secondary literature ought to look like.
+Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591)*
+is lighter but no less informative:
+it explores why educational reforms in the past 50 years have mostly missed the mark,
+and what we should be doing instead.
+
+Shorter pieces include
+Guzdial' "[Why Programming is Hard to Teach](http://teaching.software-carpentry.org/wp-content/uploads/2012/08/guzdial.pdf)"
+and Porter et al's "[Success in Introductory Programming: What Works?](http://files.software-carpentry.org/2013/08/p34-porter.pdf)",
+both of which should be read before starting this class.
+
 > ## Three Kinds of Knowledge
 >
 > Think of a memorable moment from a class you took or taught.
