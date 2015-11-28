@@ -50,13 +50,7 @@ Mark Guzdial: "[Why Programming is Hard to Teach](http://teaching.software-carpe
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)".
 :   FIXME
 
-Binkley et al: "[The Effect of Identifier Style on Effort and Comprehension](http://files.software-carpentry.org/2012/08/binkley-identifier-style-effort-comprehension-2012.pdf)".
-:   FIXME
-
 Crouch and Mazur: "[Peer Instruction: Ten years of experience and results](http://files.software-carpentry.org/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
-:   FIXME
-
-Daniel: "[Making Sense of MOOCs](http://files.software-carpentry.org/2012/08/daniel-moocs-2012.pdf)".
 :   FIXME
 
 Dunlosky et al: "[Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](http://files.software-carpentry.org/2012/08/dunlosky-learning-techniques-2013.pdf)".
@@ -66,9 +60,6 @@ Gioia: "[The Aesthetics of Imperfection](http://files.software-carpentry.org/201
 :   FIXME
 
 Hannay et al: "[How Do Scientists Develop and Use Scientific Software?](http://files.software-carpentry.org/2012/08/hannay-survey-2009.pdf)".
-:   FIXME
-
-Harskamp et al: "[Does the modality principle for multimedia learning apply to science classrooms?](http://files.software-carpentry.org/2012/08/harskamp-mayer-modality.pdf)".
 :   FIXME
 
 Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](http://files.software-carpentry.org/2012/08/kirschner-minimal-guidance-fails-2006.pdf)".
