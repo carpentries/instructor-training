@@ -121,6 +121,22 @@ even if it is unfair in their favor
 (because consciously or unconsciously they will worry that
 they will some day find themselves in the group on the losing end).
 
+> ## Things You Shouldn't Do in a Workshop
+>
+> *   Tell learners they are rubbish because they use Excel and/or Word
+>     don't modularise their code, etc.
+> *   Repeatedly make digs about Windows and praise Linux, e.g., say that
+>     the former is for amateurs.
+> *   Criticize GUI appications (and by implication their users) and
+>     describe command-line tools as the One True Way.
+> *   Dive into complex or detailed technical discussion with the one or
+>     two people in the audience who clearly don't actually need to be
+>     there.
+> *   Pretend to know more than you do.  People will actually trust you
+>     more if you are frank about the limitations of your knowledge, and
+>     will be more likely to ask questions and seek help.
+{: .callout}
+
 Carol Dweck and others have found that if you tell people that ability at some task is intrinsic
 (i.e., that you either have the gene or you don't),
 *everyone* does worse, including the supposedly advantaged.
