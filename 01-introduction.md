@@ -157,8 +157,9 @@ it explores why educational reforms in the past 50 years have mostly missed the 
 and what we should be doing instead.
 
 Shorter pieces include
-Guzdial' "[Why Programming is Hard to Teach](http://teaching.software-carpentry.org/wp-content/uploads/2012/08/guzdial.pdf)"
-and Porter et al's "[Success in Introductory Programming: What Works?](http://files.software-carpentry.org/2013/08/p34-porter.pdf)",
+Guzdial's "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2011.pdf)"
+and "[Top 10 Myths About Teaching Computer Science](papers/guzdial-10-myths-2015.pdf)",
+and Porter et al's "[Success in Introductory Programming: What Works?](files/porter-what-works-2013.pdf)",
 both of which should be read before starting this class.
 
 > ## Three Kinds of Knowledge
