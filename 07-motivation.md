@@ -190,6 +190,27 @@ If they come with their labmates,
 on the other hand,
 they can work together after the bootcamp to implement what they've learned.
 
+## Accessibility
+
+FIXME: not providing equal access is about as demotivating as it gets.
+
+*   A simple well-written text: https://piazza.com/class/ievn0vmv5hm3na?cid=223 - nothing wrong with text explanations until they stop working. Cannot be only solution.
+*   Checking accessibility of websites for visually impaired users: http://wave.webaim.org/report#/software-carpentry.org
+*   Kerb cuts: https://piazza.com/class/ievn0vmv5hm3na?cid=210 (mobility impairment access ramps for sidewalks) - the things that help those with disabilities also help everyone
+*   Rhyming: https://piazza.com/class/ievn0vmv5hm3na?cid=164
+*   The long tail: https://piazza.com/class/ievn0vmv5hm3na?cid=207 (wide variety of challenges for different people, difficult to cover every situation) 
+*   https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
+*   https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
+*   Having a static, non colored version of the Etherpad notes available
+    to look at during class would be great, brain overload happens pretty
+    quickly.  Bolded headers, or more whitespace would help to create some
+    additional sense of structure.
+*   Piazza got overwhelming toward the end, too many tabs, they fell off
+    the end, and I couldn't figure out how to access them any more.  One
+    thing that I was thinking of as a thing to try for next time was to
+    have a folder just for each week, and then have one post for each
+    person, with each question answer as a subsection (1, 2, 3, etc.)
+
 ## Challenges
 
 > ## Why Do You Teach?
@@ -215,4 +236,12 @@ they can work together after the bootcamp to implement what they've learned.
 >
 > Write a paragraph or two about something that happened in your educational career
 > that demotivated you, and explain what could have been done afterward to fix it.
+{: .challenge}
+
+> ## Accessibility, and Other Ways to Externalize Cognition
+>
+> Describe a way to convey mental models that is accessible to many
+> different people, including those who might have a physical
+> impairment or learn differently. Don't feel that you need to invent
+> something: you can use Google or other resources.
 {: .challenge}
