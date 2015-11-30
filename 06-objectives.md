@@ -281,6 +281,8 @@ A learner profile for Software Carpentry might be:
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 
+## Challenges
+
 > ## Develop Learning Objectives
 >
 > Choose one topic (typically 10-15 minutes of teaching) from

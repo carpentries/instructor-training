@@ -190,6 +190,8 @@ If they come with their labmates,
 on the other hand,
 they can work together after the bootcamp to implement what they've learned.
 
+## Challenges
+
 > ## Why Do You Teach?
 >
 > What motivates you to volunteer to teach?

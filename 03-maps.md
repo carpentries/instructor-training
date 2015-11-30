@@ -248,6 +248,8 @@ Concept maps can be used in many ways:
 > The ensuing discussion can be...vigorous.
 {: .callout}
 
+## Challenges
+
 > ## Concept Mapping
 >
 > Create a hand drawn concept map for something you would teach in five minutes.
