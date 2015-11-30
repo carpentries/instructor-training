@@ -139,6 +139,8 @@ Paradoxically,
 despite being asked to solve more problems,
 most learners will master the idea in less time.
 
+## Challenges
+
 > ## Faded Examples
 >
 > Construct a 3-step faded example to introduce an idea of your choice.

@@ -116,6 +116,8 @@ Wiggins and McTighe use the acronym WHERETO:
 > *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
 > large organizations invariably prefer uniformity to productivity.
 
+## Challenges
+
 > ## Summing Up
 >
 > You have been asked to interview an undergraduate who wants to work with your group for the summer.

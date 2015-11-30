@@ -296,6 +296,8 @@ we usually do not use it in our workshops because
 it takes people time to learn a new way to learn ---
 time that we don't have in our compressed two-day format.
 
+## Challenges
+
 > ## Modeling Novice Mental Models
 >
 > Create a multiple choice question related to a topic you intend to teach
