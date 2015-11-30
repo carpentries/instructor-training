@@ -7,33 +7,19 @@ subtitle: Teaching as a Performance Art
 > * FIXME
 {: .objectives}
 
-FIXME: reference the "Lessons Learned" paper
+## Lesson Study
 
-Teaching is a performing art.
-As in music or athletics,
-anyone who wants to do it well can draw on an enormous body of experience and research to improve,
-but the most important thing is to realize that feedback makes perfect.
-
-Elizabeth Green's book
-*[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/)*
-is a good popular explanation of why.
-Its thesis is simple:
-most people incorrectly assume that great teachers are born, not made.
+Many people assume that teachers are born, not made.
 From politicians to researchers and teachers themselves,
-most of us speak and act as if there's a gene for teaching that someone either has or doesn't.
-Most reforms are therefore designed to find and promote those who can and eliminate those who can't.
+most reformers have designed systems to find and promote those who can teach
+and eliminate those who can't.
+As Elizabeth Green describes in
+*[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/)*,
+though,
+that assumption is wrong,
+which is why educational reforms based on it have repeatedly failed.
 
-The problem is,
-this assumption is wrong,
-so educational reforms based on it (mostly) fail.
-Reforms based on changing the culture of teaching would have a greater chance of succeeding,
-but as with any cultural change,
-they would require the kind of long-term commitment that our society doesn't seem to be very good at.
-
-The book is written as a history of the people who have put that puzzle together in the US,
-including Nate Gage and Lee Shulman in the 1960s and 1970s,
-Deborah Ball, Magdalene Lampert, and others at Michigan State in the 1980s and 1990s,
-and educational entrepreneurs like Doug Lemov today.
+The book is written as a history of the people who have put that puzzle together in the US.
 Its core begins with a discussion of what James Stigler discovered during a visit to Japan in the early 1990s:
 
 > Some American teachers called their pattern "I, We, You":
@@ -57,8 +43,7 @@ Its core begins with a discussion of what James Stigler discovered during a visi
 > Finally, the teacher led a discussion,
 > guiding students to a shared conclusion (We).
 
-It's tempting to think that this particular teaching technique is Japan's secret sauce:
-tempting, but wrong.
+It's tempting but wrong to think that this particular teaching technique is Japan's secret sauce.
 The actual key is revealed in the description of Akihiko Takahashi's work.
 In 1991,
 he visited the United States in a vain attempt to find the classrooms described a decade earlier
@@ -133,7 +118,7 @@ So what does *jugyokenkyu* look like in practice?
 
 Putting work under a microscope in order to improve it is commonplace in sports and music.
 A professional musician, for example,
-will dissect half a dozen different recordings of "Body and Soul" or "Yesterday" before performing it.
+will dissect half a dozen different recordings of "Body and Soul" or "Smells Like Teen Spirit" before performing it.
 They would also expect to get feedback from fellow musicians during practice and after performances.
 Many other disciplines work this way too:
 the Japanese drew inspiration from [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)'s ideas
@@ -141,9 +126,10 @@ on continuous improvement in manufacturing,
 while the adoption of code review over the last 15 years
 has done more to improve everyday programming than any number of books or websites.
 
-But this kind of feedback isn't part of teaching culture in North America.
-Here, what happens in the classroom stays in the classroom:
-teachers don't watch each other's lessons on a regular basis,
+But this kind of feedback isn't part of teaching culture in English-language school systems:
+in the US, Canada, the UK, Australia, and elsewhere,
+what happens in the classroom stays in the classroom.
+Teachers don't watch each other's lessons on a regular basis,
 so they can't borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
@@ -154,241 +140,278 @@ but each teacher has to figure out on their own how to combine that with
 the theory they've learned in education school
 to deliver an actual lesson in an actual classroom for actual students.
 
-This is a pretty accurate description of what Software Carpentry instructors have to do as well.
-Our training course covers the basics of educational psychology and instructional design,
-but doesn't walk trainees through our existing material or how to deliver it.
-That oversight is completely my fault,
-and doubly embarrassing given how many people have asked me to do precisely that.
-More importantly,
-while instructors may pick ideas up from their fellow teachers at particular bootcamps,
-we don't systematically compile and share their experiences.
-We don't even really know how much of each topic gets covered in the average bootcamp,
-much less how well it works.
+Sally Fincher and her colleagues studied how teaching practices are actually transferred
+using both [a detailed case study](papers/fincher-warrens-question-2007.pdf)
+and
+[analysis of change stories](files/fincher-stories-change-2012.pdf).
+As the abstract of the latter paper says:
 
-Another problem is that there's no longer a "reference implementation" for Software Carpentry.
-In January 2013, almost every instructor had taught with Software Carpentry's founder at least once.
-That fraction is now closer to a tenth,
-and is inevitably going to continue to drop.
-The founder's approach to teaching is almost certainly not the best possible,
-but at least it was a *single* way that everyone used to have
-as a common starting point.
+> Innovative tools and teaching practices often fail to be adopted by educators in the field,
+> despite evidence of their effectiveness.
+> Naïve models of educational change assume this lack of adoption arises from
+> failure to properly disseminate promising work,
+> but evidence suggests that dissemination via publication is simply not effective...
+> We asked educators to describe changes they had made to their teaching practice
+> and analyzed the resulting stories...
+> Of the 99 change stories analyzed,
+> only three demonstrate an active search for new practices or materials on the part of teachers,
+> and published materials were consulted in just eight of the stories.
+> Most of the changes occurred locally,
+> without input from outside sources,
+> or involved only personal interaction with other educators.
 
-If we were all at the same university,
-or even in the same state or province,
-we could try fixing all this with some *jugyokenkyu*.
-Unfortunately,
-what's described in *Building a Better Teacher* depends on
-frequent, time-consuming, high-bandwidth interaction,
-but our instructors only teach a couple of times a year as a sideline to their real work.
-Outside the days they're actually teaching,
-they're scattered across six continents,
-trying to catch up on all the work they pushed aside to go run a bootcamp.
-
-FIXME: how skill transfer actually works (Fincher)
+This is part of the reason for Data Carpentry and Software Carpentry's rule,
+"Never teach alone."
+Having another instructor in the classroom saves your voice
+(it's hard to talk for two days straight),
+but more importantly,
+it's a chance for instructors to learn from one another.
 
 ## In Class
 
-*   Sticky notes
-    *   Giving each learner two sticky notes of different colors allows
-        instructors to do quick true/false questions as they're teaching. It
-        also allows real-time feedback during hands-on work: learners can put
-        a green sticky note on their laptop when they have something
-        completed, or a red one when they need help.
-    *   We also use them as minute cards: before each break, learners take a
-        minute to write one thing they've learned on the green sticky note,
-        and one thing they found confusing (or too fast or too slow) on the
-        red. It only takes a couple of minutes to collate these, and allows
-        the instructors to adjust to learners' interests and speed.
-*   One up, one down
-    *   We frequently also ask for summary feedback at the end of each day.
-        The instructors ask the learners to alternately give one positive and
-        one negative point about the day, without repeating anything that has
-        already been said.  This requirement forces people to say things they
-        otherwise might not: once all the "safe" feedback has been given,
-        participants will start saying what they really think.
-    *   Minute cards are anonymous; the alternating up-and-down feedback is
-        not.  Each mode has its strengths and weaknesses, and by providing
-        both, we hope to get the best of both worls.
-*   Live coding
-    *   It's more convincing
-    *   It enables instructors to be more responsive to "what if?" questions
-    *   It facilitates lateral knowledge transfer (i.e.,
-        people learn more than we realized we were teaching by watching how
-        instructors do things).
-    *   Slows the instructor down
-    *   Learners get to see isntructors' mistakes *and how to diagnose and correct them*.
-        *   Important because learners will spend most of their time doing this.
-    *   It takes a bit of practice for instructors to
-        get used to thinking aloud while coding in front of an audience, but
-        most report that it is then no more difficult to do than talking off a
-        deck of slides.
-    *   Many instructors now use two devices when teaching: a laptop plugged
-        into the projector for learners to see, and a tablet beside it on
-        which they can view their notes and the Etherpad session.
-        This seems to be more reliable than
-        displaying one virtual desktop while flipping back and forth to
-        another.
-*   Setup
-    *   Learners tell us that it is important to them to leave the workshop
-        with their own machine set up to do real work.  We therefore continue
-        to teach on all three major platforms (Linux, Mac OS X, and Windows),
-        even though it would be simpler to require learners to use just one.
-    *   We have experimented with virtual machines (VMs) on learners'
-        computers to reduce installation problems, but those introduce
-        problems of their own: older or smaller machines simply aren't fast
-        enough, and learners often struggle to switch back and forth between
-        two different sets of keyboard shortcuts for things like copying and
-        pasting.
-    *   Some instructors use VPS over SSH or web browser pages instead.  This
-        solve the installation issues, but makes us dependent on host
-        institutions' WiFi (which can be of highly variable quality), and
-        has the issues mentioned above with things like keyboard shortcuts.
-*   Collaborative note-taking
-    *   We often use [Etherpad](http://etherpad.org) for collaborative
-        note-taking and to share snippets of code and small data files with
-        learners. (If nothing else, it saves us from having to ask students to
-        copy long URLs from the presenter's screen to their computers.) It is
-        almost always mentioned positively in post-workshop feedback, and
-        several workshop participants have started using it in their own
-        teaching.
-    *   FIXME: more about emergent properties and quality of notes
-*   Pair programming
-    *   Pairing is a good practice in real life, and an even better way to
-        teach: partners can not only help each other out during the practical,
-        but can also clarify each other's misconceptions when the solution is
-        presented, and discuss common research interests during breaks. To
-        facilitate this, we strongly prefer flat (dinner-style) seating to
-        banked (theater-style) seating; this also makes it easier for helpers
-        to reach learners who need assistance.
+We regard teaching as a performance art,
+no different from drama, music, or athletics.
+And as in those fields,
+we have a collection of small tips and tricks to make teaching work better.
 
-We try to make our teaching as interactive as possible, but we still
-don't give learners hands-on exercises as frequently as we should.  We
-also don't give them as diverse a range of exercises as we should.
-This is simply due to a lack of time: two eight-hour days are as much
-as learners' brains can handle, but not nearly enough to give them all
-the practice they need.
+*Live coding.*
+:   We do not use slides in our lessons.
+    Instead, instructors plug their laptop into the projector
+    and work through the lesson,
+    typing in the code,
+    reformatting data,
+    and talking as we go.
+    *   Watching a program being written is more compelling than
+        watching someone page through slides that present bits and pieces of the same code.
+    *   It enables instructors to be more responsive to "what if?" questions.
+        Where a slide deck is like a railway track,
+        live coding allows instructors to go off road and follow their learners' interests.
+    *   It facilitates lateral knowledge transfer:
+        people learn more than we realized we were teaching by watching *how* instructors do things.
+    *   It slows the instructor down:
+        if she has to type in the program as she goes along,
+        she can only go twice as fast as her learners,
+        rather than ten-fold faster as she could with slides.
+    *   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
+        Novices are going to spend most of their time doing this,
+        but it's left out of most textbooks.
 
-There is also a constant tension between having students do realistic
-exercises drawn from actual scientific workflows, and giving them tasks
-that are small and decoupled, so that failures are less likely and don't
-have knock-on effects when they occur. This is exacerbated by the
-diversity of learners in the typical workshop.
+    It takes a bit of practice for instructors to
+    get used to thinking aloud while coding in front of an audience, but
+    most report that it is then no more difficult to do than talking off a
+    deck of slides.
+
+    Many instructors now use two devices when teaching: a laptop plugged
+    into the projector for learners to see, and a tablet beside it on
+    which they can view their notes and the Etherpad session.
+    This seems to be more reliable than
+    displaying one virtual desktop while flipping back and forth to
+    another.
+
+*Sticky notes.*
+:   We give each learner two sticky notes of different colors,
+    e.g., pink and green.
+    These can be held up for voting,
+    but their real use is as status flags.
+    If someone has completed an exercise and wants it checked,
+    they put the pink sticky note on their laptop;
+    if they run into a problem and need help,
+    the put up the green one.
+    This is better than having people raise their hands because:
+    *   it's more discreet (which means they're more likely to actually do it),
+    *   they can keep working while their flag is raised, and
+    *   the instructor can quickly see from the front of the room
+        what state the class is in.
+
+*Minutes cards.*
+:   We also use sticky notes as minute cards: before each coffee or
+    meal break, learners take a minute to write one thing they've
+    learned on the pink sticky note, and one thing they found
+    confusing (or too fast or too slow) on the green one. It only
+    takes a few minutes to cluster these, and allows the instructors
+    to adjust to learners' interests and speed.
+
+*One up, one down.*
+:   We frequently also ask for summary feedback at the end of each day.
+    The instructors ask the learners to alternately give one positive and
+    one negative point about the day, without repeating anything that has
+    already been said.  This requirement forces people to say things they
+    otherwise might not: once all the "safe" feedback has been given,
+    participants will start saying what they really think.
+
+    Minute cards are anonymous; the alternating up-and-down feedback is
+    not.  Each mode has its strengths and weaknesses, and by providing
+    both, we hope to get the best of both worls.
+
+*Learners use their own machines.*
+:   Learners tell us that it is important to them to leave the workshop
+    with their own machine set up to do real work.  We therefore continue
+    to teach on all three major platforms (Linux, Mac OS X, and Windows),
+    even though it would be simpler to require learners to use just one.
+
+    We have experimented with virtual machines (VMs) on learners'
+    computers to reduce installation problems, but those introduce
+    problems of their own: older or smaller machines simply aren't fast
+    enough, and learners often struggle to switch back and forth between
+    two different sets of keyboard shortcuts for things like copying and
+    pasting.
+
+    Some instructors use VPS over SSH or web browser pages instead.  This
+    solve the installation issues, but makes us dependent on host
+    institutions' WiFi (which can be of highly variable quality), and
+    has the issues mentioned above with things like keyboard shortcuts.
+
+*Collaborative note-taking.*
+:   We often use [Etherpad](http://etherpad.org) for collaborative
+    note-taking and to share snippets of code and small data files with
+    learners. (If nothing else, it saves us from having to ask students to
+    copy long URLs from the presenter's screen to their computers.) It is
+    almost always mentioned positively in post-workshop feedback, and
+    several workshop participants have started using it in their own
+    teaching.
+
+    One of the advantages of collaborative note-taking is that
+    it gives the more advanced learners in the class something useful to do.
+    Another is that the notes the learners take are usually more helpful *to them*
+    than those the instructor would prepare in advance,
+    since the learners are more likely to write down what they actually found new,
+    rather than what the instructor predicted would be new.
+    Finally,
+    scanning the Etherpad is a good way for an instructor to discover that
+    the class didn't hear something important,
+    or misunderstood it.
+
+*Pair programming.*
+:   Pairing is a good practice in real life, and also
+    [a good way to teach](papers/porter-what-works-2013.pdf).
+    Partners can not only help each other out during the practical,
+    but can also clarify each other's misconceptions when the solution is
+    presented, and discuss common research interests during breaks. To
+    facilitate this, we strongly prefer flat (dinner-style) seating to
+    banked (theater-style) seating; this also makes it easier for helpers
+    to reach learners who need assistance.
+
+    When pair programming is used it's important to put *everyone* in pairs,
+    not just the learners who are struggling,
+    so that no one feels singled out.
+    It's also useful to have people sit in new places (and hence pair with different partners)
+    after each coffee or meal break.
 
 ## Pace and Level
 
-The diversity of our learners'
-backgrounds and skill levels. No matter what we teach, and how fast or
-how slow we go, 20% or more of the room will be lost, and there's a
-good chance that a different 20% will be bored.
+Given the diversity of our learners' backgrounds and skills, we will
+always have a mix of more and less advanced people in our classes.  No
+matter what we teach, and how fast or how slow we go, 20% or more of
+the room will be lost, and there's a good chance that a different 20%
+will be bored.
 
-The obvious solution is to split people by level, but if we ask them
-how much they know about particular things, they regularly under- or
-over-estimate their knowledge.  We have therefore developed a short
-pre-assessment questionnaire that asks them how easily they could do a
-small number of specific tasks.  It is useful, in that it gives
-instructors some idea of who they're going to be helping, but we have
-done nothing to validate the questions themselves, i.e., to ensure
-that respondents are interpreting them the same way that we are, or
-that their categorization of respondents corresponds in any meaningful
-way to actual proficiency.
+The obvious solution is to split people by level,
+but if we ask them how much they know about particular things,
+they regularly under- or over-estimate their knowledge.
+We have therefore developed a short pre-assessment questionnaire
+that asks them how easily they could do a small number of specific tasks.
+It gives instructors some idea of who they're going to be helping,
+but we have not validated the questions,
+i.e.,
+we have not done the laborious work of interviewing respondents
+to ensure that they are interpreting the questions the same way that we are.
+We also have not yet done the follow-up to see
+whether the questionnaires' categorization of learners
+matches their actual in-class proficiency.
 
-We have been trying for several years to find the support needed to do
-rigorous assessment of this and other aspects of our program, but if
-funders are reluctant to invest in training, they are doubly reluctant
-to invest in measuring its effects.
+> ## You Can't Just Ask
+>
+> Instead of asking people how easily they could complete specific tasks,
+> we could just ask them to rate their knowledge of various subjects
+> on a scale from 1 to 5.
+> However,
+> self-assessments of this kind are usually inaccurate
+> because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
+> the less people know about a subject,
+> the less accurate their estimate of their knowledge is.
 
-FIXME: incorporate more from recent blog posts
+That said, there *are* things we can do:
+
+*   Before running a workshop,
+    communicate its level clearly to everyone who's thinking of signing up
+    by listing the topics that will be covered
+    and showing a few examples of exercises that people will be asked to complete.
+*   Provide multiple exercises for each teaching episode
+    so that more advanced learners don't finish early and get bored.
+*   Ask more advanced learners to help people next to them.
+    They'll learn from answering their peers' questions
+    (since it will force them to think about things in new ways).
+*   The helpers and the instructor who isn't teaching the particular episode
+    should keep an eye out for learners who are falling behind
+    and intervene early
+    so that they don't become frustrated and give up.
+
+The most important thing is to accept that
+no class can possibly meet everyone's individual needs.
+If the instructor slows down to accommodate two people who are struggling,
+the other 38 are not being well served.
+Equally,
+if she spends a few minutes talking about an advanced topic because two learners are bored,
+the 38 who don't understand it will feel left out.
+All we can do is tell our learners what we're doing and why,
+and hope that they'll understand.
 
 ## Workshop Operations
 
-FIXME: include more from the workshop operations guide and point at checklists
+Starting in January 2015 we began running bi-weekly debriefing
+sessions for instructors who have recently taught workshops.  In
+these, instructors discuss what they actually did, how it worked, how
+the lessons they actually delivered differed from our templates, what
+problems arose, and so on.
 
-Starting in January 2015 we began running biweekly debriefing
-sessions for instructors who have recently taught workshops, in which
-they can discuss what they actually did, how it worked, how the
-lessons they actually delivered differed from our templates, what
-problems arose, and so on.  Summaries are posted shortly after each
-meeting.
+Summaries are posted on our blog shortly after each meeting.
+More importantly,
+we have condensed this feedback (and much else)
+in an [operations guide](http://software-carpentry.org/workshops/operations.html)
+and a set of checklists
+that describes what everyone in a workshop is expected to do and why.
 
-### Use What We Teach
+## Challenges
 
-We make a point of eating our own cooking, e.g., we use GitHub
-for our web site and to plan workshops. Again, this makes us more
-credible, and gives instructors hands-on practice with the things
-they're going to teach.  Up until a year ago, the (considerable)
-downside to this was that it could be difficult for newcomers to
-contribute material.  We have simplified our templates and build
-procedures considerably to fix this, and will be making more changes
-early in 2016 to incorporate further insights.
+> ## Feedback on Feedback
+>
+> Watch either [this video](https://vimeo.com/139316669) (8:40)
+> or [this one](https://vimeo.com/139181120) (11:42).
+> Take notes about the presentation,
+> and divide those into four groups
+> based on whether they are positive or negative
+> and whether they are about the content (what was said)
+> or the presentation (how it was said, e.g., body language).
+> Compare your notes with those made by other people,
+> and with the feedback given by your instructor.
+{: .challenge}
 
-### Open Lessons
+> ## Feedback on Yourself
+>
+> Split into groups of three,
+> and then have each person teach a 90-second lesson on
+> the most interesting aspect of their own research or work
+> to another person in the group
+> while the third person records it (video and audio)
+> using a cell phone or some other handheld device.
+> After the first person finishes,
+> rotate roles
+> (she becomes the videographer,
+> her audience becomes the instructor,
+> the person who was recording becomes the audience)
+> and then rotate roles again.
+> After everyone has finished teaching,
+> watch the videos as a group
+> and give feedback using the same 2x2 scheme in the previous challenge.
+{: .challenge}
 
-This is an important special case of the previous point. Anyone who
-wants to use our lessons can take what we have, make changes, and
-offer those back by sending us a pull request on GitHub. This workflow
-is foreign to most educators, but allows us to scale and adapt more
-quickly and more cheaply than the centralized approaches being taken
-by many high-profile online education ventures.
-
-For example, we recently published our core lessons through
-[Zenodo](https://zenodo.org/).  The distribution of contributions has
-the usual long-tail distribution, but the fact remains that our
-lessons have had more contributors than many "massive" and "open"
-online courses.
-
-### Software Installation
-
-Third, getting software installed is often harder than using it. This
-is a hard enough problem for experienced users, but almost by
-definition our audience is *inexperienced*, and our learners don't
-(yet) know about system paths, environment variables, the half-dozen
-places configuration files can lurk on a modern system, and so
-on. Combine that with two versions of Mac OS X, three of Windows, and
-two oddball Linux distributions, and it's almost inevitable that every
-time we introduce a new tool, it won't work as expected (or at all)
-for at least one person in the room. Detailed documentation has not
-proven effective: some learners won't read it (despite repeated
-prompting), and no matter how detailed it is, it will be
-incomprehensible to some, and lacking for others.
-
-### Editors
-
-Editing text should be a minor problem, but if you're standing in
-class telling three sets of users, "Now open Notepad++ if you're on
-Windows, or Kate if you're on Linux, or TextMate if you're on a Mac,
-or whatever you want to use if you're more advanced", and then
-demonstrate with whichever you have on your laptop (which looks
-different from what half of your learners are sitting in front of),
-you wll cause mass confusion.
-
-We therefore still use [Nano](http://www.nano-editor.org/) as an
-editor in class, even though none of our instructors use it for real
-work.  Arguments over this will probably never end: many people who
-are passionate about programming are also passionate (some might say
-"zealous") about their favorite editor, and will argue about the
-relative merits of various choices at length.
-
-The choice of editor is an example of expert blind spot.  People who
-know a subject well often have trouble re-imagining it through novice
-eyes, and hence under-estimate how difficult "simple" tasks actually
-are for newcomers.  For example, every reasonably experienced user of
-the shell knows that an editor can run inside a terminal window, so
-that a single fixture on the screen can play multiple roles.  This is
-*not* obvious to newcomers, who are frequently confused when
-instructors move back and forth between an editor and a regular shell
-prompt in a single window.
-
-## Things You Shouldn't Do
-
-*   Telling learners they are rubbish because they use Excel and/or Word
-    don't modularise their code, etc.
-*   Repeatedly make digs about Windows and praise Linux, e.g., say that
-    the former is for amateurs.
-*   Criticize GUI appications (and by implication their users) and
-    describe command-line tools as the One True Way.
-*   Dive into complex or detailed technical discussion with the one or
-    two people in the audience who clearly don't actually need to be
-    there.
-*   Pretend to know more than you do.  People will actually trust you
-    more if you are frank about the limitations of your knowledge, and
-    will be more likely to ask questions and seek help.
+> ## Feedback on Assessment
+>
+> Go through the pre-assessment questionnaire given to you by your instructor
+> and critique its questions.
+> (Remember, critiquing means commenting on positive aspects as well as negative ones.)
+> How long do you think it will take the average learner to fill it in?
+> How useful do you think the information it gathers will be to you as an instructor?
+> How could you improve the questions?
+> What would you add, and what would you drop to make room?
+{: .challenge}
