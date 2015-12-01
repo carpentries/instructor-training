@@ -4,12 +4,11 @@ title: Instructor Training
 ---
 This short training course introduces the basics of educational
 psychology and instructional design, and shows them how to use them to
-teach programming to free-range adult learners.  Each lesson is
-composed of *theory of how people learn* or a *tool for teaching* (or
-sometimes both!), with a specific focus on applying these ideas and
-tools to computational instruction.  It is a necessarily shallow
-survey of these topics, but we hope it will convince you that it's
-worth learning more.
+teach programming to free-range adult learners.  Each lesson includes
+a theory of how people learn or a teaching technique, with a specific
+focus on applying these ideas and tools to computational instruction.
+It is necessarily shallow, but we hope it will be useful and convince
+you to learn more.
 
 > ## Prerequisites
 >
@@ -17,6 +16,9 @@ worth learning more.
 > but participants will benefit from having been through
 > a Data Carpentry or Software Carpentry workshop
 > so that they are familiar with our teaching techniques.
+
+Please note that all participants in this course are required to abide
+by our [code of conduct](http://software-carpentry.org/conduct.html).
 
 ## Topics
 

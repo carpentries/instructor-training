@@ -60,7 +60,7 @@ it also helps build their confidence in us,
 so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
-Perhaps the best-known and best-studied use of this idea is
+Perhaps the best-studied use of this idea is
 the *[media computation](files/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
@@ -187,6 +187,17 @@ in the United States,
 for example,
 people of African or Latin ancestry are much less likely to go into computing
 than people of European, East Asian, or South Asian ancestry.
+
+> ## The Importance of Having Rules
+>
+> Software Carpentry and Data Carpentry share a
+> [code of conduct](http://software-carpentry.org/conduct.html),
+> and all participants in our workshops are required to abide by it.
+> Its details are important,
+> but the most important thing about it is that it exists:
+> knowing that we have rules
+> tells people a great deal about our values
+> and about what kind of learning experience they can expect.
 
 Steele's *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
 summarizes what we know about stereotype threat
