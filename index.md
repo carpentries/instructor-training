@@ -13,7 +13,10 @@ worth learning more.
 
 > ## Prerequisites
 >
-> FIXME
+> There are no specific prerequisites for this training,
+> but participants will benefit from having been through
+> a Data Carpentry or Software Carpentry workshop
+> so that they are familiar with our teaching techniques.
 
 ## Topics
 
