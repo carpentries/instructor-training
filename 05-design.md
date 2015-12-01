@@ -4,7 +4,11 @@ subtitle: Lesson Design
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner can describe the four steps in reverse instructional design
+>     and explain why following them is an efficient way to create good teaching materials.
+> *   Learner can follow the steps in the reverse instructional design process
+>     to create a short lesson.
+> *   Learner can analyze a short lesson by comparing it to the elements of WHERETO.
 {: .objectives}
 
 Most people design courses as follows:
@@ -127,11 +131,20 @@ Wiggins and McTighe use the acronym WHERETO:
 > And how would you describe the criteria for completing it successfully?
 {: .challenge}
 
-> ## WHERETO in Practice
+> ## Lesson Design
 >
 > Pick a small topic that you could teach in 5-10 minutes,
 > such as the basic structure of a `for` loop in Python
 > or the use of `and` and `or` in database queries.
-> Create a point-form outline of a lesson on that topic
-> and explain whether and how you've addressed each point in the WHERETO acronym.
+> With a partner,
+> create a point-form outline of a lesson on that topic
+> by following the steps in the reverse instructional design process.
+{: .challenge}
+
+> ## WHERETO in Reverse
+>
+> Compare an existing Data Carpentry or Software Carpentry lesson episode
+> to the WHERETO acronym's points.
+> Which does it satisfy?
+> Which does it not?
 {: .challenge}
