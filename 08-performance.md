@@ -181,6 +181,16 @@ no different from drama, music, or athletics.
 And as in those fields,
 we have a collection of small tips and tricks to make teaching work better.
 
+*Open with the [code of conduct](http://software-carpentry.org/conduct.html).*
+:   As mentioned in the [previous section](07-motivation.html),
+    Software Carpentry and Data Carpentry share a code of conduct,
+    and participants in our workshops are required to abide by it.
+    Pointing people at it during registration,
+    and reminding them of it at the start of the workshop,
+    doesn't just tell everyone what the rules are:
+    it tells them that there *are* rules,
+    and that they can therefore expect a comfortable learning experience.
+
 *Live coding.*
 :   We do not use slides in our lessons.
     Instead, instructors plug their laptop into the projector
