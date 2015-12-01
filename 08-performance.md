@@ -4,7 +4,14 @@ subtitle: Teaching as a Performance Art
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner will understand why standardized testing cannot by itself improve educational outcomes,
+>     and will correctly explain why and how peer-to-peer lesson study can.
+> *   Learnre will describe and demonstrate three of the key teaching practices
+>     used in Data Carpentry and Software Carpentry workshops
+>     and explain their benefits.
+> *   Learner will explain why it is difficult to stream workshop participants by prior knowledge.
+> *   Learner will describe and critique
+>     two strategies for managing a class in which students have diverse backgrounds and skill levels.
 {: .objectives}
 
 ## Lesson Study
