@@ -4,7 +4,10 @@ subtitle: Faded Examples
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner can correctly explain the basis and implications of cognitive load theory
+>     and critique it.
+> *   Learner can construct faded examples for use as classroom exercises
+>     and explain the problem-solving strategies those examples illustrate.
 {: .objectives}
 
 ## Battling Theories
@@ -90,7 +93,7 @@ It also encourage learners to think about the similarities and differences betwe
 which helps create the linkages in the mental model that instructors want them to form.
 
 For example,
-someone teaching the accumulator pattern in Python might start by explaining this:
+someone teaching Python might start by explaining this:
 
 ~~~
 # total_length(["red", "green", "blue"]) => 12
@@ -135,13 +138,18 @@ def acronymize(words):
 ~~~
 {: .input}
 
-Paradoxically,
-despite being asked to solve more problems,
-most learners will master the idea in less time.
+The key to constructing a good faded example is to think about the problem-solving strategy
+or solution pattern that it is meant to teach.
+For example,
+the series of problems above illustrate the *accumulator pattern*,
+in which the results of processing items from a collection
+are repeatedly added to a single variable in some way
+to create the final result.
 
 ## Challenges
 
 > ## Faded Examples
 >
 > Construct a 3-step faded example to introduce an idea of your choice.
+> What problem-solving strategy does it teach?
 {: .challenge}
