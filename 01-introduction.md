@@ -37,6 +37,13 @@ Much of the research in education has rightly focused on people without these pr
 > during which learners construct knowledge for themselves),
 > and *connectivism* (which emphasizes the social aspects of learning,
 > particularly those made possible by the Internet).
+>
+> The most interesting perspective from our point of view is
+> *[situation learning](https://en.wikipedia.org/wiki/Situated_learning)*,
+> which focuses on the way that
+> *[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
+> leads to people becoming members of
+> a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.
 {: .callout}
 
 ## Instructional Design
