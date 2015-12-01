@@ -145,32 +145,36 @@ they will some day find themselves in the group on the losing end).
 >     will be more likely to ask questions and seek help.
 {: .callout}
 
-Carol Dweck and others have found that if you tell people that ability at some task is intrinsic
-(i.e., that you either have the gene or you don't),
+Learners can be demotivated in subtler ways as well.
+For example,
+Dweck and others have studied the differences of
+[fixed mindset and growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset).
+If people believe that competence in some area is intrinsic
+(i.e., that you either "have the gene" for it or you don't),
 *everyone* does worse, including the supposedly advantaged.
 The reason is that if they don't get it at first,
-they figure they just don't have the gene,
+they figure they just don't have that aptitude,
 which biases future performance.
 On the other hand,
-if people believe that a skill will improve with practice,
-everybody does better on average.
+if people believe that a skill is learned and can be improved,
+they do better on average.
 
-This is why we repeatedly emphasize that practice makes perfect in our workshops.
-We also code live in front of our learners instead of using slides,
-so that they can see us make mistakes.
-Doing this gives them permission to make mistakes too:
-after all, if we're not perfect, they can't be expected to be either.
-Having to type things in ourselves also slows us down,
-so that learners are less likely to fall behind.
+A person's mindset can be shaped by subtle cues.
+For example,
+if a child is told,
+"You did a good job, you must be very smart,"
+she is likely to develop a fixed minset.
+If on the other hand she is told,
+"You did a good job, you must have worked very hard,"
+she is likely to develop a growth mindset,
+and subsequently achieve more.
 
-A related concept is stereotype threat.
+Another subtle demotivator is *[stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)*.
 In brief,
 reminding people of negative stereotypes,
 even in subtle ways,
-increases their nervousness and therefore their likelihood of failure.
-Steele's *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
-is a good summary of what we know about stereotype threat
-and what can be done about it.
+makes them anxious about the risk of confirming those stereotypes,
+which in turn reduces their performance.
 
 The biggest negative stereotypes in computing are gender-related.
 Depending on whose numbers you trust,
@@ -184,19 +188,48 @@ for example,
 people of African or Latin ancestry are much less likely to go into computing
 than people of European, East Asian, or South Asian ancestry.
 
-One way we try to address these issues is to have people sign up for workshops
-with people they know.
-If an entire lab group comes,
-or if attendees are drawn from the same (or closely-related) disciplines,
-everyone in the room will know in advance
-that they're going to be with at least a few people they trust,
-which in turn increases turnout from under-represented groups.
-It also helps after the workshop:
-if someone comes on their own and then returns to their lab,
-they have to roll a big rock up a steep hill all by themselves.
-If they come with their labmates,
-on the other hand,
-they can work together after the bootcamp to implement what they've learned.
+Steele's *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
+summarizes what we know about stereotype threat
+and presents some strategies for mitigating it in the classroom:
+
+*   By changing the way you give critical feedback,
+    you can dramatically improve minority students' motivation and receptiveness.
+*   By improving a group's critical mass in a setting,
+    you can improve its members' trust, comfort, and performance in the setting.
+*   By simply fostering intergroup conversations among students from differing backgrounds,
+    you can improve minority students' comfort and grades in a setting.
+*   By allowing students, especially minority students, to affirm their most valued sense of self,
+    you can improve their grades, even for a long time.
+*   By helping students develop a narrative about the setting
+    that explains their frustrations while projecting positive engagement and success in the setting,
+    you can greatly improve their sense of belonging and achievement.
+
+A number of concrete teaching strategies Steele describes
+to implement these ideas are:
+
+*   Emphasize a growth mindset.
+*   Increase inter-group interaction.
+*   Remind students of their identities linked to academic success.
+*   Expose students to positive, successful role models from their group.
+*   Support students' sense of belonging.
+*   Give feedback emphasizing your high standards and assurance that students can meet those expectations.
+
+[This website](http://www.reducingstereotypethreat.org/reduce.html) has more suggestions
+and links to further reading.
+
+> ## Never Learn Alone
+>
+> One way to support at-risk learners is to have people sign up for workshops in small teams
+> rather than as individuals.
+> If an entire lab group comes,
+> or if attendees are drawn from the same (or closely-related) disciplines,
+> everyone in the room will know in advance
+> that they will be with at least a few people they trust,
+> which increases the chances of them actually coming.
+> It also helps after the workshop:
+> if people come with their labmates,
+> they can work together to implement what they've learned.
+{: .callout}
 
 ## Accessibility
 
