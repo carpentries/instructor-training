@@ -32,6 +32,9 @@ Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can
 Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](files/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
 :   An early report on peer instruction and its effects in the classroom.
 
+Guzdial: "[Exploring Hypotheses about Media Computation](papers/guzdial-mediacomp-retrospective-2013.pdf)".
+:   A look back on 10 years of media computation research.
+
 Guzdial: "[Why Programming is Hard to Teach](files/guzdial-why-hard-to-teach-2011.pdf)".
 :   A chapter from
     *[Making Software](http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/)*

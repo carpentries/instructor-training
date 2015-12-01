@@ -4,7 +4,13 @@ subtitle: Motivation and Demotivation
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner will correctly classify skills according to time required to master them
+>     and usefulness once mastered.
+> *   Learner will correctly identify the motivational strategies used in a short lesson.
+> *   Learner will correctly explain the difference between fixed mindset and growth mindset
+>     and its implications for classroom performance.
+> *   Learner will correctly explain stereotype threat
+>     and its implications for classroom performance.
 {: .objectives}
 
 ## Motivation
@@ -24,6 +30,20 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
+> ## Actual Time
+>
+> Any useful estimate of how long something takes to master must take into account
+> how frequent failures are
+> and how much time is lost to them.
+> For example,
+> editing a text file seems like a simple task,
+> but most graphical editors save things to the user's desktop or home directory.
+> If people need to run shell commands on the files they've edited,
+> a substantial fraction won't be able to navigate to the right directory without help.
+> If this seems like a small problem to you,
+> please revisit the discussion of [expert blind spot](03-maps.html).
+{: .callout}
+
 Many of the foundational concepts of computer science,
 such as computability,
 inhabit the "useful but hard to learn" corner of the grid described above.
@@ -41,7 +61,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-known and best-studied use of this idea is
-the [media computation approach](FIXME)
+the *[media computation](files/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
@@ -53,20 +73,6 @@ something that learners believe they would actually do in real life.
 It is also *tangible*:
 if the image comes out the wrong size,
 learners have a concrete starting point for debugging.
-
-> ## Actual Time
->
-> Any useful estimate of how long something takes to master must take into account
-> how frequent failures are
-> and how much time is lost to them.
-> For example,
-> editing a text file seems like a simple task,
-> but most graphical editors save things to the user's desktop or home directory.
-> If people need to run shell commands on the files they've edited,
-> a substantial fraction won't be able to navigate to the right directory without help.
-> If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot](03-maps.html).
-{: .callout}
 
 ## Strategies for Motivating Learners
 
@@ -99,11 +105,13 @@ to make sure they're doing at least a few of these things.
     1.  Provide flexibility and control.
     2.  Give students an opportunity to reflect.
 
-What's missing from this list is strategies to motivate the *instructor*.
-As we said in [the introduction](01-introduction.html),
-learners respond to an instructor's enthusiasm,
-and instructors need to care about a topic in order to keep teaching it,
-particularly when they are volunteers.
+> ## Not Just Learners
+>
+> What's missing from this list is strategies to motivate the *instructor*.
+> As we said in [the introduction](01-introduction.html),
+> learners respond to an instructor's enthusiasm,
+> and instructors need to care about a topic in order to keep teaching it,
+> particularly when they are volunteers.
 
 ## Demotivation
 
@@ -222,6 +230,7 @@ FIXME: not providing equal access is about as demotivating as it gets.
 >
 > Describe something you do in your daily work that uses one or more of the skills we teach,
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
+> Where does it fit on the 2x2 plot of "time to master" and "usefulness"?
 {: .challenge}
 
 > ## Motivational Checklist
