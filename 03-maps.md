@@ -4,7 +4,10 @@ subtitle: Concept Maps
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner can correctly explain how key aspects of expert behavior
+>     are results of cognitive differences between experts and competent practitioners.
+> *   Learner can construct a concept map for a short lesson
+>     showing the lesson's key ideas and the relationships between them.
 {: .objectives}
 
 ## Connectivity
@@ -253,4 +256,7 @@ Concept maps can be used in many ways:
 > ## Concept Mapping
 >
 > Create a hand drawn concept map for something you would teach in five minutes.
+> Trade with a partner, and critique each other's maps.
+> Do they present concepts or surface detail?
+> Which of the relationships in your partner's map do you consider concepts and vice versa?
 {: .challenge}
