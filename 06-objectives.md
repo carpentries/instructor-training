@@ -4,7 +4,12 @@ subtitle: Learning Objectives
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> *   Learner can describe the characteristics of a good learning objective
+>     and correctly state whether a learning objective meets those criteria.
+> *   Learner can correctly classify the level of a learning objective
+>     in terms of Bloom's taxonomy and similar cognitive hierarchies.
+> *   Learner can write a learner profile describing a typical member of
+>     their intended audience.
 {: .objectives}
 
 ## Writing Learning Objectives
@@ -17,8 +22,8 @@ It's easy to come up with fuzzy ones like,
 Useful ones take a bit more work.
 
 What we want are specific, verifiable descriptions of what learners can do to demonstrate their learning.
-Each learning objective (LO) should have a measurable or verifiable verb specifying what the learner will do,
-and should specify the criteria for acceptable performance.
+Each learning objective should have *a measurable or verifiable verb* specifying what the learner will do,
+and should specify the *criteria for acceptable performance*.
 For example,
 a better learning objective than the one above would be,
 "Learners will list three things that make research software engineers distinct from
@@ -251,7 +256,7 @@ This leads naturally to a four-way division:
   </tr>
 </table>
 
-## User Profiles
+## Learner Profiles
 
 Another way to characterize the audience for a course is to write *learner profiles*.
 This technique is borrowed from user interface design,
