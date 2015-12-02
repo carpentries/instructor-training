@@ -250,7 +250,7 @@ Women and minority groups,
 who already feel additional pressure to prove themselves in some settings,
 may be particularly affected.
 
-Three ways of dealing with your own impostor syndrome are:
+Two ways of dealing with your own impostor syndrome are:
 
 1.  Ask for feedback from someone you respect and trust.
     Ask them for their honest thoughts on your strengths and achievements,
