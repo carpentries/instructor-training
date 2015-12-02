@@ -9,8 +9,8 @@ subtitle: Motivation and Demotivation
 > *   Learner will correctly identify the motivational strategies used in a short lesson.
 > *   Learner will correctly explain the difference between fixed mindset and growth mindset
 >     and its implications for classroom performance.
-> *   Learner will correctly explain stereotype threat
->     and its implications for classroom performance.
+> *   Learner will correctly explain stereotype threat and its implications for classroom performance.
+> *   Learner will be able to do an accessibility test of a workshop venue.
 {: .objectives}
 
 ## Motivation
@@ -244,24 +244,60 @@ and links to further reading.
 
 ## Accessibility
 
-FIXME: not providing equal access is about as demotivating as it gets.
+Not providing equal access to lessons and exercises
+is about as demotivating as it gets.
+If you look at [our old lesson on Python](http://swcarpentry.github.io/v4/python/flow.html),
+for example,
+you'll find that the text beside the slides includes all of the narration---but
+none of the Python source code.
+Someone using a [screen reader](https://en.wikipedia.org/wiki/Screen_reader)
+would therefore be able to hear what was being said about the program,
+but wouldn't know what the program actually was.
 
-*   A simple well-written text: https://piazza.com/class/ievn0vmv5hm3na?cid=223 - nothing wrong with text explanations until they stop working. Cannot be only solution.
-*   Checking accessibility of websites for visually impaired users: http://wave.webaim.org/report#/software-carpentry.org
-*   Kerb cuts: https://piazza.com/class/ievn0vmv5hm3na?cid=210 (mobility impairment access ramps for sidewalks) - the things that help those with disabilities also help everyone
-*   Rhyming: https://piazza.com/class/ievn0vmv5hm3na?cid=164
-*   The long tail: https://piazza.com/class/ievn0vmv5hm3na?cid=207 (wide variety of challenges for different people, difficult to cover every situation) 
-*   https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b
-*   https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
-*   Having a static, non colored version of the Etherpad notes available
-    to look at during class would be great, brain overload happens pretty
-    quickly.  Bolded headers, or more whitespace would help to create some
-    additional sense of structure.
-*   Piazza got overwhelming toward the end, too many tabs, they fell off
-    the end, and I couldn't figure out how to access them any more.  One
-    thing that I was thinking of as a thing to try for next time was to
-    have a folder just for each week, and then have one post for each
-    person, with each question answer as a subsection (1, 2, 3, etc.)
+While it may not be possible to accommodate everyone's needs,
+it *is* possible to get a good working structure in place
+without any specific knowledge of what specific disabilities people might have.
+Having at least some accommodations prepared in advance also makes it clear that
+hosts and instructors care enough to have thought about problems in advance,
+and that any additional concerns are likely to be addressed.
+
+> ## It Helps Everyone
+>
+> [Curb cuts](https://en.wikipedia.org/wiki/Curb_cut)
+> (the small sloped ramps joining a sidewalk to the street)
+> were originally created to make it easier for the physically disabled to move around,
+> but proved to be equally helpful to people with strollers and grocery carts.
+> Similarly,
+> steps taken to make lessons more accessible to people with various disabilities
+> also help everyone else.
+> Proper captioning of images,
+> for example,
+> doesn't just give screen readers something to say:
+> it also makes the images more findable
+> by exposing their content to search engines.
+
+The first step is to know what you need to do.
+The [W3C Accessibility Initiative's checklist for presentations](http://www.w3.org/WAI/training/accessible)
+is a good starting point focused primarily on assisting the visually impaired,
+while Liz Henry's blog post about
+[accessibility at conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences)
+has a good checklist for people with mobility issues,
+and [this interview](https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community)
+with Chad Taylor is a good introduction to issues faced by the hearing impaired.
+
+The second is to know how well you're doing.
+For example,
+sites like [WebAIM](http://webaim.org/) allow you to check
+how accessible your online materials are to visually impaired users.
+(According to [http://wave.webaim.org/report#/software-carpentry.org](this report),
+we still have some work to do...)
+
+The third,
+and most important,
+is to *involve people with disabilities in decision-making*.
+Our mailing lists are a good place to ask for advice,
+and updates to [our accessibility checklist](http://software-carpentry.org/workshops/checklists/accessibility.html)
+are always welcome.
 
 ## Challenges
 
@@ -291,10 +327,13 @@ FIXME: not providing equal access is about as demotivating as it gets.
 > that demotivated you, and explain what could have been done afterward to fix it.
 {: .challenge}
 
-> ## Accessibility, and Other Ways to Externalize Cognition
+> ## Accessibility Testing
 >
-> Describe a way to convey mental models that is accessible to many
-> different people, including those who might have a physical
-> impairment or learn differently. Don't feel that you need to invent
-> something: you can use Google or other resources.
+> Find the nearest public transportation drop-off point to your building
+> and walk from there to your office and then to the nearest washroom,
+> making notes about things you think would be difficult for someone with mobility issues.
+> Now borrow a wheelchair and repeat the journey.
+> How complete was your list of challenges?
+> And did you notice that the first sentence in this challenge
+> assumed you could actually walk?
 {: .challenge}
