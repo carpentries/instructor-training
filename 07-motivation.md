@@ -145,6 +145,20 @@ they will some day find themselves in the group on the losing end).
 >     will be more likely to ask questions and seek help.
 {: .callout}
 
+> ## The Importance of Having Rules
+>
+> Software Carpentry and Data Carpentry share a
+> [code of conduct](http://software-carpentry.org/conduct.html),
+> and all participants in our workshops are required to abide by it.
+> Its details are important,
+> but the most important thing about it is that it exists:
+> knowing that we have rules
+> tells people a great deal about our values
+> and about what kind of learning experience they can expect.
+{: .callout}
+
+### Mindset
+
 Learners can be demotivated in subtler ways as well.
 For example,
 Dweck and others have studied the differences of
@@ -169,6 +183,8 @@ If on the other hand she is told,
 she is likely to develop a growth mindset,
 and subsequently achieve more.
 
+### Stereotype Threat
+
 Another subtle demotivator is *[stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)*.
 In brief,
 reminding people of negative stereotypes,
@@ -187,17 +203,6 @@ in the United States,
 for example,
 people of African or Latin ancestry are much less likely to go into computing
 than people of European, East Asian, or South Asian ancestry.
-
-> ## The Importance of Having Rules
->
-> Software Carpentry and Data Carpentry share a
-> [code of conduct](http://software-carpentry.org/conduct.html),
-> and all participants in our workshops are required to abide by it.
-> Its details are important,
-> but the most important thing about it is that it exists:
-> knowing that we have rules
-> tells people a great deal about our values
-> and about what kind of learning experience they can expect.
 
 Steele's *[Whistling Vivaldi](http://www.amazon.com/dp/0393339726/)*
 summarizes what we know about stereotype threat
@@ -228,9 +233,52 @@ to implement these ideas are:
 [This website](http://www.reducingstereotypethreat.org/reduce.html) has more suggestions
 and links to further reading.
 
+### Impostor Syndrome
+
+[Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is the belief that one is not good enough for a job or position,
+that one's achievements are lucky flukes,
+and an accompanying fear of being "found out".
+Impostor syndrome seems to be particularly common among
+[high achievers who udertake publicly visible work](https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community).
+
+Academic work is frequently undertaken alone or in small groups but the results are shared and criticised publicly.
+In addition,
+we rarely see the struggles of others,
+only their finished work,
+which can feed the belief that everyone else finds it easy.
+Women and minority groups,
+who already feel additional pressure to prove themselves in some settings,
+may be particularly affected.
+
+Two ways of dealing with your own impostor syndrome are:
+
+1.  Ask for feedback from someone you respect and trust.
+    Ask them for their honest thoughts on your strengths and achievements,
+    and commit to believing them.
+2.  Look for role models.
+    Who do you know who presents as confident and capable?
+    Think about how they conduct themselves.
+    What lessons can you learn from them?
+    What habits can you borrow?
+    (Remember, they quite possibly also feel as if they are making it up as they go.)
+
+As an instructor,
+you can help people with their impostor syndrome by
+sharing stories of mistakes that you have made or things you struggled to learn.
+This reassures the class that it's OK to find topics hard.
+Being open with the group makes it easier to build trust and make students confident to ask questions.
+(Live coding is great for this:
+typos let the class see you're not superhuman.)
+
+You can also emphasise that you want questions:
+you are not succeeding as a teacher if no one can follow your class,
+so you're asking students for their help to help you learn and improve.
+Remember,
+it's much more important to *be* smart than to *look* smart.
+
 > ## Never Learn Alone
 >
-> One way to support at-risk learners is to have people sign up for workshops in small teams
+> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
 > rather than as individuals.
 > If an entire lab group comes,
 > or if attendees are drawn from the same (or closely-related) disciplines,
@@ -325,6 +373,20 @@ are always welcome.
 >
 > Write a paragraph or two about something that happened in your educational career
 > that demotivated you, and explain what could have been done afterward to fix it.
+{: .challenge}
+
+> ## Thought Record
+>
+> Remember a time when you felt like you didn't know what you were doing.
+> Describe the emotions that you felt (such as sad, anxious, scared).
+>
+> *   Where were you? What were you doing? With whom?
+> *   What thoughts were going through your mind at this time?
+> *   What facts or evidence support these thoughts?
+> *   What facts or evidence do not support these thoughts?
+>
+> Write an alternative thought that takes this evidence into account.
+> How do you feel about this situation now?
 {: .challenge}
 
 > ## Accessibility Testing
