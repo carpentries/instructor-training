@@ -1,3 +1,12 @@
+## Glossary (to be added to reference.md)
+
+Key Word 1
+:   Definition of first term
+
+Key Word 2
+:   Definition of second term
+
+
 ## Misconceptions
 
 people are good at compartmentalizing knowledge

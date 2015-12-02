@@ -57,11 +57,3 @@ Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.
 
 Wilson: "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v1)".
 :   Summarizes what we've learned in 17 years of running classes for scientists.
-
-## Glossary
-
-Key Word 1
-:   Definition of first term
-
-Key Word 2
-:   Definition of second term
