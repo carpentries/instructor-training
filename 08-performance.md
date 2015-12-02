@@ -150,7 +150,7 @@ to deliver an actual lesson in an actual classroom for actual students.
 Sally Fincher and her colleagues studied how teaching practices are actually transferred
 using both [a detailed case study](papers/fincher-warrens-question-2007.pdf)
 and
-[analysis of change stories](files/fincher-stories-change-2012.pdf).
+[analysis of change stories](papers/fincher-stories-change-2012.pdf).
 As the abstract of the latter paper says:
 
 > Innovative tools and teaching practices often fail to be adopted by educators in the field,
