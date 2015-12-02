@@ -29,26 +29,26 @@ Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can
 
 ## Papers
 
-Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](files/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
+Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
 :   An early report on peer instruction and its effects in the classroom.
 
 Guzdial: "[Exploring Hypotheses about Media Computation](papers/guzdial-mediacomp-retrospective-2013.pdf)".
 :   A look back on 10 years of media computation research.
 
-Guzdial: "[Why Programming is Hard to Teach](files/guzdial-why-hard-to-teach-2011.pdf)".
+Guzdial: "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2011.pdf)".
 :   A chapter from
     *[Making Software](http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/)*
     that explores why programming seems so much harder to teach than
     some other standard subjects.
 
-Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](files/kirschner-minimal-guidance-fails-2006.pdf)".
+Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](papers/kirschner-minimal-guidance-fails-2006.pdf)".
 :   Argues that inquiry-based learning is less effective for novices than guided instruction.
 
-Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning](files/mayer-reduce-cognitive-load-2003.pdf)".
+Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning](papers/mayer-reduce-cognitive-load-2003.pdf)".
 :   Shows how research into how we absorb and process information
     can be applied to the design of instructional materials.
 
-Porter et al: "[Success in Introductory Programming: What Works?](files/porter-what-works-2013.pdf)".
+Porter et al: "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)".
 :   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
     significantly improve outcomes in introductory programming courses.
 

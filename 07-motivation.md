@@ -61,7 +61,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-studied use of this idea is
-the *[media computation](files/guzdial-mediacomp-retrospective-2013.pdf)* approach
+the *[media computation](papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
