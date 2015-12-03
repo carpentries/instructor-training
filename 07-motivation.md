@@ -276,6 +276,8 @@ so you're asking students for their help to help you learn and improve.
 Remember,
 it's much more important to *be* smart than to *look* smart.
 
+The Ada Initiative has some excellent resources for teaching about and dealing with Imposter Syndrome [http://adainitiative.org/continue-our-work/impostor-syndrome-training/](http://adainitiative.org/continue-our-work/impostor-syndrome-training/)
+
 > ## Never Learn Alone
 >
 > One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
