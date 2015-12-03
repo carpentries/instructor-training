@@ -59,7 +59,8 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> The J word (also sometimes called the passive dismissive adjective)
+> As [we discuss later](07-motivation.html),
+> the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
 > that the instructor thinks their problem is trivial
