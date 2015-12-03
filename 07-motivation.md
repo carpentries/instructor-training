@@ -143,6 +143,12 @@ they will some day find themselves in the group on the losing end).
 > *   Pretend to know more than you do.  People will actually trust you
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
+> *   Use the J word ("just").
+>     As [discussed earlier](03-maps.md),
+>     this signals the learner that
+>     the instructor thinks their problem is trivial
+>     and by extension that they therefore must be stupid
+>     for not being able to figure it out.
 {: .callout}
 
 > ## The Importance of Having Rules
