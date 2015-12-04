@@ -6,7 +6,7 @@ subtitle: Teaching as a Performance Art
 >
 > *   Learner will understand why standardized testing cannot by itself improve educational outcomes,
 >     and will correctly explain why and how peer-to-peer lesson study can.
-> *   Learnre will describe and demonstrate three of the key teaching practices
+> *   Learner will describe and demonstrate three of the key teaching practices
 >     used in Data Carpentry and Software Carpentry workshops
 >     and explain their benefits.
 > *   Learner will explain why it is difficult to stream workshop participants by prior knowledge.
@@ -54,7 +54,7 @@ It's tempting but wrong to think that this particular teaching technique is Japa
 The actual key is revealed in the description of Akihiko Takahashi's work.
 In 1991,
 he visited the United States in a vain attempt to find the classrooms described a decade earlier
-in a report by the National Council of Teachers of Mathematics (NCTM).
+in a report by the National Council of Teachers of Mathematics.
 He couldn't find them.
 Instead, he found that American teachers met once a year (if that) to exchange ideas about teaching,
 compared to the weekly or even daily meetings he was used to.
@@ -147,7 +147,7 @@ but each teacher has to figure out on their own how to combine that with
 the theory they've learned in education school
 to deliver an actual lesson in an actual classroom for actual students.
 
-Sally Fincher and her colleagues studied how teaching practices are actually transferred
+Fincher and her colleagues studied how teaching practices are actually transferred
 using both [a detailed case study](papers/fincher-warrens-question-2007.pdf)
 and
 [analysis of change stories](papers/fincher-stories-change-2012.pdf).
@@ -258,7 +258,7 @@ we have a collection of small tips and tricks to make teaching work better.
 
     Minute cards are anonymous; the alternating up-and-down feedback is
     not.  Each mode has its strengths and weaknesses, and by providing
-    both, we hope to get the best of both worls.
+    both, we hope to get the best of both worlds.
 
 *Learners use their own machines.*
 :   Learners tell us that it is important to them to leave the workshop

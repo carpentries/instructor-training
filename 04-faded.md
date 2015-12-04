@@ -13,7 +13,7 @@ subtitle: Faded Examples
 ## Battling Theories
 
 In 2006,
-Kirschner, Sweller, and Clark's published a paper titled
+Kirschner, Sweller, and Clark published a paper titled
 "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf)".
 In the abstract, they say:
 
