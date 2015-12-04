@@ -239,7 +239,7 @@ and links to further reading.
 that one's achievements are lucky flukes,
 and an accompanying fear of being "found out".
 Impostor syndrome seems to be particularly common among
-[high achievers who udertake publicly visible work](https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community).
+[high achievers who undertake publicly visible work](https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community).
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and criticised publicly.
 In addition,
