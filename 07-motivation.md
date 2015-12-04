@@ -132,10 +132,10 @@ they will some day find themselves in the group on the losing end).
 > ## Things You Shouldn't Do in a Workshop
 >
 > *   Tell learners they are rubbish because they use Excel and/or Word
->     don't modularise their code, etc.
+>     don't modularize their code, etc.
 > *   Repeatedly make digs about Windows and praise Linux, e.g., say that
 >     the former is for amateurs.
-> *   Criticize GUI appications (and by implication their users) and
+> *   Criticize GUI applications (and by implication their users) and
 >     describe command-line tools as the One True Way.
 > *   Dive into complex or detailed technical discussion with the one or
 >     two people in the audience who clearly don't actually need to be
@@ -177,7 +177,7 @@ A person's mindset can be shaped by subtle cues.
 For example,
 if a child is told,
 "You did a good job, you must be very smart,"
-she is likely to develop a fixed minset.
+she is likely to develop a fixed mindset.
 If on the other hand she is told,
 "You did a good job, you must have worked very hard,"
 she is likely to develop a growth mindset,
@@ -212,7 +212,7 @@ and presents some strategies for mitigating it in the classroom:
     you can dramatically improve minority students' motivation and receptiveness.
 *   By improving a group's critical mass in a setting,
     you can improve its members' trust, comfort, and performance in the setting.
-*   By simply fostering intergroup conversations among students from differing backgrounds,
+*   By simply fostering inter-group conversations among students from differing backgrounds,
     you can improve minority students' comfort and grades in a setting.
 *   By allowing students, especially minority students, to affirm their most valued sense of self,
     you can improve their grades, even for a long time.
@@ -241,7 +241,7 @@ and an accompanying fear of being "found out".
 Impostor syndrome seems to be particularly common among
 [high achievers who undertake publicly visible work](https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community).
 
-Academic work is frequently undertaken alone or in small groups but the results are shared and criticised publicly.
+Academic work is frequently undertaken alone or in small groups but the results are shared and criticized publicly.
 In addition,
 we rarely see the struggles of others,
 only their finished work,
@@ -270,7 +270,7 @@ Being open with the group makes it easier to build trust and make students confi
 (Live coding is great for this:
 typos let the class see you're not superhuman.)
 
-You can also emphasise that you want questions:
+You can also emphasize that you want questions:
 you are not succeeding as a teacher if no one can follow your class,
 so you're asking students for their help to help you learn and improve.
 Remember,

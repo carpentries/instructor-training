@@ -226,7 +226,7 @@ This leads naturally to a four-way division:
     </td>
     <td>
       <ul>
-	<li>they have to participate in situations which emphasise emotion and feelings</li>
+	<li>they have to participate in situations which emphasize emotion and feelings</li>
         <li>the activity is unstructured or briefing is poor</li>
         <li>they have to do things without knowing the principles or concepts involved</li>
         <li>they feel they're out of tune with the other participants e.g. with people of very different learning styles</li>
@@ -241,7 +241,7 @@ This leads naturally to a four-way division:
         <li>they have the chance to try out techniques with feedback e.g. role-playing</li>
         <li>they are shown techniques with obvious advantages e.g. saving time</li>
         <li>they are shown a model they can copy e.g. a film or a respected boss</li>
-        <li>there is an obvious or immediate benefit that they can recognise</li>
+        <li>there is an obvious or immediate benefit that they can recognize</li>
         <li>they are given immediate opportunities to implement what they have learned</li>
       </ul>
     </td>
