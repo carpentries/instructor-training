@@ -39,7 +39,7 @@ Much of the research in education has rightly focused on people without these pr
 > particularly those made possible by the Internet).
 >
 > The most interesting perspective from our point of view is
-> *[situation learning](https://en.wikipedia.org/wiki/Situated_learning)*,
+> *[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
 > which focuses on the way that
 > *[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
 > leads to people becoming members of
