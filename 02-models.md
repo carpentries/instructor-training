@@ -42,7 +42,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [03-cognition.html](the next lesson).
+    We will discuss expertise in more detail in [the next lesson](03-cognition.html).
 
 > ## What's in a Model?
 >
