@@ -1,0 +1,49 @@
+*   Cognitive development study of development of expertise in nurses by Patricia Benner, looking at changes in how people think. 5 stages of progression from novice to expert (Patricia Benner)  https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition (we're simplifying to novice, competent, expert)
+    *   novice - lack of a working mental model of the key ideas and how they relate - questions aren't even wrong, they just don't make sense. Form analogies with what is already known but these may not be appropriate/ useful. Guesses will be pretty wild as there is nothing to base them on (e.g. how many chairs do you need to start a stock exchange?). Do not overload novices with too much information as you will reinforce incorrect mental models.
+    *   competent - people who can do normal tasks with normal effort under normal circumstances (3 Ns)
+    *   expert <-tbd next week.
+*   Two types of teaching materials:
+    *   Tutorial - to build mental model, provide the novice learner with "landmarks" to help them build a working mental model
+    *   Reference guide (or manual): Fill in details of the mental model. Will confuse the person who doesn't have a mental model
+*   Goal of teaching to novices: not giving information, but instead create working mental model of a subject. Too much information at the beginning can hamper development of the model or reinforce faulty pre-existing model.
+    *   eg Just need to build a solid foundation. Unix shell. 15 commands in 3 hours; actually teaching file structure, history, wildcards, pipes & filters to teach how to glue existing tools together. Without model of how to apply knowledge, commands make no sense.
+    *   if you don't have a good mental model of a file system and how it works, installing software can prove more difficult than actually using it. Need to teach them the smallest number of concepts, and relationships between them, to get them going. Two types of document: tutorial (goal is to build mental model), and reference guide (useful for those who actually have a mental model incorporated). Each has a different aim, very difficult to do both at the same time!
+    *   When writing lessons etc, need to choose whether the goal is to create a mental model or to write a reference/manual.
+*   Often a need for clearing up misconceptions.
+*   Three levels of misconception: Need to identify student misconceptions
+    *   Factual (content) errors - e.g. if you believe that Vancouver is capital of British Columbia (it's Victoria). These are easily fixed, especially once people have a mental model. Can correct by giving the student new evidence.
+    *   Broken models - e.g. take a ball, throw it into the air. At top of its arc, it stops moving. What's the force/acceleration on the ball? Need to be led through a process so that they see what's not working, the contradiction. "That can't be right because..." need to establish the *why*. Can correct by working through reasoning with the student.
+    *   Fundamental beliefs - e.g. if someone tells you world is 6000 years old, not said for scientific reasons, probably said for religious reasons. Totem: Part of being in a larger social group.  Can't really fix these in classes. Can encounter misconceptions where teaching is not an effective approach to resolve them. Beliefs not based on evidence won't be fixed by more evidence. Unlikely to be a major problem teaching SWC! (unless you're discussing which text editor is the best... ;))
+    *   Focus for SWC learning: repairing broken models.
+*   Assessment - how do we tell if learning is taking place? That teaching has worked? Have to think about both together - they are collaborative. Won't work if one is not working.
+    *   Summative
+        *   Done at end of teaching to tell whether the learning took place. Certification of learning, e.g. driver's licence - are you safe to drive?
+    *   Formative
+        *   Are we succeeding right now? Is the pace correct? Can we move on?
+        *   Done as learning is taking place to see if the learning is happening to form/reshape the teaching. It's a pair evaluation (whether both teacher and student are doing well or not). Can see this when someone is taught how to play the piano, and common in athletics, where they receive feedback as they train. It should assist learning, and builds up to summative assessment. If you get a question in an exam on material you've never been prepared for - often a sign of badly designed teaching. A good tool for formative assessment: multiple choice tests Formative assessment is for the teacher as much as the students. A well-designed MCQ will diagnose where the problem with the learning lies. Each wrong answer is a plausible distractor (look like they might be right) with diagnostic power. Tells teacher which misconception needs to be cleared up. But some are not well thought through by teachers.
+        *   Practice for the summative assessment
+        *   want nearly instantaneous results
+        *   can be used before teaching starts. Here we want to diagnose the students' background.
+        *   Instructors can use this information to understand the learner's mental model (modeling the model) to figure out how to fix it
+*   Example: designing multiple choice questions (MCQs).  plausible distractors with diagnostic power are needed. Tell you what the misconceptions are
+    ~~~
+    Q: what is 27 + 15 ?
+    a) 42
+    b) 32
+    c) 312
+    d) 33
+    ~~~
+    *   If a child is learning multi-digit addition, and she says:
+    *   b) '32', what is wrong with her mental model of addition? She's throwing the carry away.
+    *   c) '312' - what is wrong with her mental model this time? She know's she can't throw the carried '1' away, but adds it to a new middle column instead.
+    *   d) '33' - know's she has to carry the '1', but adds it to the wrong column.
+    *   Each incorrect answer above is a plausible distractor with diagnostic power. Questions like this are worth their weight in gold: you can use them every 5-10 minutes in teaching, to see if the mental model for learners is correct, and even in which ways they are not understanding something.
+    *   Wrong answers must be plausible, wrong in a meaningful way (can diagnose a misconception). Note: we could be diagnosing the wrong misconception, but better than no data.
+    *   Requires you to think about what the likely problems are going to be when designing a lesson (like a smoke alarm)
+*   Always try to close a lesson with some reflection
+*   If everybody correct: you can move on. If most get the wrong answer, know which misconception to clear up, if everbody goes whereever, have to start over again.
+*   The frequency of the wrong option will determine whether to review one specific misconception or the whole topic.
+*   Gold standard is 1-to-1 teaching. But here, we are looking for scalable teaching methods that give us feedback.Bad teaching: teachers that just go on and on without figuring out whether students are getting what you are trying to teach.
+*   Feedback loops make teaching more effective (multiple methods for achieving this, i.e. Post-Its, clickers, etc.)
+    *   side benefit of feedback loops: students will trust that their instructor is really trying to help them learn
+*   Can use formative assessment before teaching to "triage" the needs of the class --- Can figure out where in the material a lesson can start.
