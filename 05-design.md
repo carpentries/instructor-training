@@ -152,7 +152,7 @@ Wiggins and McTighe use the acronym WHERETO:
 > ## Assessing Ourselves
 >
 > We believe that our workshops make researchers more productive.
-> If you were a sceptical department chair,
+> If you were a skeptical department chair,
 > what would you accept as proof of this?
 >
 > 1.  Testimonials volunteered by workshop learners are suspect
@@ -172,5 +172,5 @@ Wiggins and McTighe use the acronym WHERETO:
 >     motivated or skilled than those who don't.
 >
 > Work in small groups to develop and critique other assessments
-> that you think would pass the "sceptical chair" test.
+> that you think would pass the "skeptical chair" test.
 {: .challenge}
