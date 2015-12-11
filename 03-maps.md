@@ -47,7 +47,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     but it's part of why world-famous researchers are often poor lecturers.
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
-    expert mathematicians' ability to switch effortlessly between algebraic and geomtric views of a problem.
+    expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
     (And this in turn is why asking programmers to debug during job interviews

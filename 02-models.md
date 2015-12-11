@@ -18,7 +18,7 @@ subtitle: Mental Models
 Our goal is not to teach the syntax of a particular programming language,
 but to teach people how to think about programming
 (and about using computers in research more generally).
-Our approach is based on the work of researchers like Patricia Benner,
+Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisiton](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 in her studies of
 [how nurses progress from novice to expert](http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/).
@@ -42,7 +42,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [03-cognition.html](the next lesson).
+    We will discuss expertise in more detail in [the next lesson](03-cognition.html).
 
 > ## What's in a Model?
 >
@@ -152,7 +152,7 @@ This is usually done through two kinds of assessment:
     and if she is not,
     what she should change.
     Its second purpose is to prepare learners for the final summative assessment:
-    no one should ever encouner a question on a final exam
+    no one should ever encounter a question on a final exam
     for which the teaching did not prepare them.
 
 > ## Why We Don't Assess During Registration
@@ -169,7 +169,7 @@ This is usually done through two kinds of assessment:
 > rather than making it part of the sign-up process
 > because when we did the latter,
 > many people concluded that since they couldn't answer all the questions,
-> they shouldn't enroll.
+> they shouldn't enrol.
 > We were therefore scaring off many of the people we most wanted to help.
 
 In order to be useful during teaching,
