@@ -97,7 +97,7 @@ and without which people cannot understand how to use commands
 > ## What Happens Next?
 >
 > An example of how solving problems can help people correct broken mental models,
-> consider this problem from Lewis Carroll Epstein's *[Thinking Physics](http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r)*.
+> consider this problem from Epstein's *[Thinking Physics](http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r)*.
 > Imagine that you have placed a cake of ice in a bathtub
 > and then filled the tub to the rim with water.
 > When the ice melts,
