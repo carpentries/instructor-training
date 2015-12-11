@@ -84,7 +84,40 @@ The biggest change was the introduction of recorded teaching exercises.
 
 ## Schedule
 
-FIXME
+A typical schedule for a two-day course is:
+
+*   Day 1
+    *   08:30: Welcome and introductions
+    *   08:45: Key definitions; novices and misconceptions; need for formative assessment => MCQ
+    *   09:30: Review formative assessments; teaching as a performance art => recorded teaching in groups of three
+    *   10:30: Coffee break
+    *   11:00: Experts; concept maps; 7 +/- 2 => drawing a concept map
+    *   11:45: Review concept maps; minute cards for morning session
+    *   12:00: Lunch
+    *   13:00: Recorded teaching based on concept map with 2x2 rubric
+    *   13:45: Review teaching; cognitive load theory; faded examples => create faded example
+    *   14:15: Review faded examples
+    *   14:30: Coffee break
+    *   14:45: Reverse instructional design; Bloom's taxonomy; learning outcomes => critique/rewrite learning outcomes
+    *   15:15: Review learning outcomes
+    *   15:30: Discuss overnight homework (read operations guide, complete Teaching Perspectives Inventory)
+    *   15:45: Minute cards for afternoon session
+    *   16:00: Close
+*   Day 2
+    *   09:00: Questions based on operations guide and Teaching Perspectives Inventory
+    *   10:00: Live coding demo => live coding practice on same lesson + coffee (in either order)
+    *   11:00: Review live coding
+    *   11:15: Motivation and demotivation => write your story over lunch
+    *   11:45: Minute cards for morning session
+    *   12:00: Lunch
+    *   13:00: Discussion; setting up a workshop website
+    *   13:45: Discussion of how to tell what effect we're having => develop assessment proposal
+    *   14:15: Present assessment proposals
+    *   14:30: Coffee
+    *   15:00: Overview of lesson materials and how to contribute
+    *   15:30: Open discussion
+    *   15:45: Minute cards for afternoon session
+    *   16:00: Close
 
 ## Exercises
 
