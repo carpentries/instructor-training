@@ -347,7 +347,7 @@ The second is to know how well you're doing.
 For example,
 sites like [WebAIM](http://webaim.org/) allow you to check
 how accessible your online materials are to visually impaired users.
-(According to [http://wave.webaim.org/report#/software-carpentry.org](this report),
+(According to [this report](http://wave.webaim.org/report#/software-carpentry.org),
 we still have some work to do...)
 
 The third,

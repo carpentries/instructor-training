@@ -36,7 +36,7 @@ exactly what they're trying to accomplish and what "done" looks like.
 It's easy to be vague when using a human language like English or Korean;
 it's much harder to be vague in Python or R.
 
-Writing tests also reduces the risk of endless polishing,
+TDD also reduces the risk of endless polishing,
 and increases the likelihood that tests will actually get written.
 (Somehow, people always seem to run out of time...)
 Finally,
