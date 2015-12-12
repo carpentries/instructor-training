@@ -89,7 +89,7 @@ Faded examples work because they introduce the problem-solving strategy piece by
 At each step,
 learners have one new problem to tackle.
 This is less intimidating than a blank screen or a blank sheet of paper.
-It also encourage learners to think about the similarities and differences between various approaches,
+It also encourages learners to think about the similarities and differences between various approaches,
 which helps create the linkages in the mental model that instructors want them to form.
 
 For example,
