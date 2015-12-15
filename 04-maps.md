@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Concept Maps
+subtitle: Mapping Expertise
 ---
 > ## Motivating Question
 > How do people learn?  How can we describe the difference in learning 
