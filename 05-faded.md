@@ -2,6 +2,10 @@
 layout: page
 subtitle: Faded Examples
 ---
+> ## Motivating Question
+> How do people learn?  How is memory a limiting factor in learning?   
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner can correctly explain the basis and implications of cognitive load theory

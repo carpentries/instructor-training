@@ -1,7 +1,13 @@
 ---
 layout: page
-subtitle: Teaching as a Performance Art
+subtitle: Carpentry Teaching Practices
 ---
+> ## Motivating Question
+> How do we teach?  What practices are common to Software/Data Carpentry?  
+> How do teachers learn to teach?  How can this sort of "inside knowlege" be 
+> passed on?  
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner will describe and demonstrate three of the key teaching practices

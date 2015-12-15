@@ -2,6 +2,10 @@
 layout: page
 subtitle: Lesson Design
 ---
+> ## Motivating Question
+> How do we teach?  How do we design effective lessons?  
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner can describe the four steps in reverse instructional design
@@ -10,6 +14,10 @@ subtitle: Lesson Design
 >     to create a short lesson.
 > *   Learner can analyze a short lesson by comparing it to the elements of WHERETO.
 {: .objectives}
+
+Transitioning from educational pyschology (how people learn) to lesson design (how 
+teachers teach), 
+
 
 Most people design courses as follows:
 
