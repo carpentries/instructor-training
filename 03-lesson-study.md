@@ -6,12 +6,6 @@ subtitle: Teaching as a Performance Art
 >
 > *   Learner will understand why standardized testing cannot by itself improve educational outcomes,
 >     and will correctly explain why and how peer-to-peer lesson study can.
-> *   Learner will describe and demonstrate three of the key teaching practices
->     used in Data Carpentry and Software Carpentry workshops
->     and explain their benefits.
-> *   Learner will explain why it is difficult to stream workshop participants by prior knowledge.
-> *   Learner will describe and critique
->     two strategies for managing a class in which students have diverse backgrounds and skill levels.
 {: .objectives}
 
 ## Lesson Study
@@ -282,13 +276,3 @@ that describes what everyone in a workshop is expected to do and why.
 > and give feedback using the same 2x2 scheme in the previous challenge.
 {: .challenge}
 
-> ## Feedback on Assessment
->
-> Go through the pre-assessment questionnaire given to you by your instructor
-> and critique its questions.
-> (Remember, critiquing means commenting on positive aspects as well as negative ones.)
-> How long do you think it will take the average learner to fill it in?
-> How useful do you think the information it gathers will be to you as an instructor?
-> How could you improve the questions?
-> What would you add, and what would you drop to make room?
-{: .challenge}
