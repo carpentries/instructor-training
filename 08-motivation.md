@@ -2,6 +2,11 @@
 layout: page
 subtitle: Motivation and Demotivation
 ---
+> ## Motivating Question
+> How do we learn?  What motivates us to learn?  
+> How do we teach?  What can we do to motivate learning?  What motivates us?  
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner will correctly classify skills according to time required to master them

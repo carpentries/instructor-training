@@ -2,6 +2,11 @@
 layout: page
 subtitle: Concept Maps
 ---
+> ## Motivating Question
+> How do people learn?  How can we describe the difference in learning 
+> between a novice and expert? 
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner can correctly explain how key aspects of expert behavior
@@ -9,6 +14,8 @@ subtitle: Concept Maps
 > *   Learner can construct a concept map for a short lesson
 >     showing the lesson's key ideas and the relationships between them.
 {: .objectives}
+
+Returning to educational psychology, we discuss 
 
 ## Connectivity
 

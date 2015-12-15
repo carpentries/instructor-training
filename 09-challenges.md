@@ -1,7 +1,11 @@
 ---
 layout: page
-subtitle: Teaching as a Performance Art
+subtitle: Challenges
 ---
+> ## Motivating Question
+> How do we handle challenging workshop situations?  
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner will explain why it is difficult to stream workshop participants by prior knowledge.

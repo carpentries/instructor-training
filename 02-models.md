@@ -2,12 +2,21 @@
 layout: page
 subtitle: Mental Models
 ---
+> ## Motivating Question
+> How do people learn?  How can we describe the difference in learning 
+> between a novice and competent practitioner?
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner can present three faulty mental models drawn from their own experience.
 > *   Learner can create a multiple choice question with plausible distractors
 >     and explain the diagnostic power of each distractor.
 {: .objectives}
+
+To start our journey into educational psychology, we'll be looking at a theory 
+of learning called mental models, and a related teaching tool, the multiple-choice 
+question.  
 
 ## Cognitive Development and Mental Models
 

@@ -2,6 +2,10 @@
 layout: page
 subtitle: Introduction
 ---
+> ## Motivating Question
+> What will we be learning in this training?  
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Given a lesson,
@@ -9,8 +13,16 @@ subtitle: Introduction
 >     general knowledge, and pedagogical content knowledge.
 {: .objectives}
 
-Before we discuss how to teach and how to design lessons,
-we need to define a few terms.
+This training weaves together three different ways to think about
+ "becoming an instructor": 
+
+* Learning about how people learn (and what tools can support these efforts)
+* Thinking about how we design lessons, in particular for teaching computing
+* Practicing teaching and how to share our teaching knowledge with each other
+
+The following terms will support the discussions and activities in the rest 
+of the training by giving us a common vocabulary to talk about teaching 
+learning to teach.  
 
 ## Educational Psychology
 
@@ -134,10 +146,15 @@ through the two major categories
 It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
+The third strand of our course - practicing teaching and sharing our teaching 
+experience - is a way to start practicing and sharing our own pedagogical content 
+knowledge.  In [link to practices](09-practices.html) you'll see some of the 
+PCK of the Software and Data Carpentry communities at work.  
+
 We *wish* the course could include a lot more material on PCK than it does,
 but computing education lags behind fields like mathematics
 when it comes to assembling and organizing this.  Within
-Software Carpentry, we are trying to support the curation of PCK by including
+Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
 techniques for that lesson's content.
 
@@ -149,9 +166,11 @@ techniques for that lesson's content.
 >     is gathering similar ideas for computing.
 {: .callout}
 
-We have attempted to apply our knowledge of how people learn
-and our recommendations for instructional design
-within the format of these lessons.
+## Practicing What We Preach
+
+We have attempted to apply our knowledge of how people learn, 
+our recommendations for instructional design, and our own teaching knowledges 
+(the PCK of teaching!) within the format of these lessons.  
 
 ## Key Readings
 
