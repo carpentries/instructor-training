@@ -7,8 +7,8 @@ subtitle: Why I Teach
 > *   Learner will understand why better teaching is important.
 {: .objectives}
 
-When I first started volunteering at the University of Toronto,
-students occasionally asked me why I taught when I wasn't being paid.
+When I first started teaching at the University of Toronto,
+students occasionally asked me why I was doing it for free.
 This was my answer:
 
 > When I was your age,
@@ -83,15 +83,20 @@ but the last century and a half shows that
 once enough people make "doing the right thing" a habit,
 the big picture more or less takes care of itself.
 
-At least,
-that's what I believed in 2004.
+At leats,
+that's what I believed ten years ago.
 I am less optimistic today.
-The bill for my generation's cowardice, lethargy, and greed
-will come due when my daughter is grown,
-by which time there will be no easy solutions to climate change
-(and quite possibly no solutions at all).
-The only things that will save us then will be more science and more courage,
-both of which need to be taught and practiced.
+Faced with catastrophic climate change,
+many of my generation have chosen to argue away evidence
+rather than fix things while they can still be fixed.
+The bill for our cowardice and lethargy many not come due until my daughter is grown,
+but come due it will,
+and with heavy interest;
+the only things that will save us then will be more science and more courage.
+Teaching scientists to change the way they work,
+and to pay as much attention to research on teaching
+as they would like society to pay to things that really matter,
+is just practice.
 
 In his 1947 essay
 [Why I Write](http://www.resort.com/~prime8/Orwell/whywrite.html),
