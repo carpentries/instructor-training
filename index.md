@@ -30,6 +30,7 @@ by our [code of conduct](http://software-carpentry.org/conduct.html).
 6.  [Learning Objectives](06-objectives.html)
 7.  [Motivation and Demotivation](07-motivation.html)
 8.  [Teaching as a Performance Art](08-performance.html)
+9.  [Why I Teach](09-why.html)
 
 ## Other Resources
 
