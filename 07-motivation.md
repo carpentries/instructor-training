@@ -359,11 +359,6 @@ are always welcome.
 
 ## Challenges
 
-> ## Why Do You Teach?
->
-> What motivates you to volunteer to teach?
-{: .challenge}
-
 > ## Authentic Tasks
 >
 > Describe something you do in your daily work that uses one or more of the skills we teach,
