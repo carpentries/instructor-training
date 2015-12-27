@@ -15,6 +15,9 @@ subtitle: Mental Models
 > It's what you know for sure that just ain't so.
 > - Mark Twain
 
+> Discussion question
+> What do we mean when we say that someone is a novice? What are the symptons of being a novice, and what are the cognitive causes?
+
 Our goal is not to teach the syntax of a particular programming language,
 but to teach people how to think about programming
 (and about using computers in research more generally).
@@ -43,6 +46,9 @@ that model has three stages:
     diagnose the causes of problems,
     and so on.
     We will discuss expertise in more detail in [the next lesson](03-cognition.html).
+
+> Discussion question
+> Can you provide an example of a mental model?  
 
 > ## What's in a Model?
 >
@@ -106,6 +112,9 @@ and without which people cannot understand how to use commands
 > or stay the same?
 > The correct answer is that it stays the same;
 > figuring out why helps people build a model of the relationship between weight, volume, and density.
+
+> Discussion question
+> How is a tutorial different than a manual?  Which is more appropriate for a novice?  A competent practitioner?  
 
 > ## Different Kinds of Lessons
 >
@@ -189,6 +198,9 @@ c) 312
 d) 33
 ~~~
 
+> Discussion
+> Before moving on - try to determine what error in a student's mental model of addition would cause them to choose each wrong answer.  
+
 The correct answer is 42,
 but each of the other answers provides valuable insight:
 
@@ -219,6 +231,14 @@ if you start a class with an MCQ and everyone can answer it correctly,
 then you can safely skip the part of the lecture
 in which you were going to explain something that your learners already know.
 (Doing this also helps show learners that the instructor cares about how much they are learning.)
+
+> ## Nuts and Bolts of Voting
+>
+> How do you actually administer (and see the results of) a multiple choice question in 
+> a class or workshop?  The possibilities are endless!  Some options include: 
+> clickers (in-class reponse systems), mini-whiteboards for all students, 4 colored cards 
+> or post-its for each student, indicating answers by showing a certain number of 
+> fingers, or online quiz tools like [Socrative](http://www.socrative.com).  
 
 Finally,
 designing an MCQ with plausible distractors is useful

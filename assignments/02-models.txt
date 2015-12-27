@@ -1,0 +1,41 @@
+# Two-day (in person or online)
+
+## Instructions
+
+Put exercise in etherpad.  Can be done in pairs or singly.  
+
+## Exercise
+
+Exercise - formative assessment:
+    1. Develop a MCQ with diagnostic answers
+    2. Swap with the partner and try to figure out what misconceptions they diagnose
+    3. Share with the room.
+    ...and write it down in the Etherpad
+
+# Eight-week (online)
+
+## Instructions
+
+Assignments can be posted separately or in one master post.  
+Each learner should create three posts, one for each assignment, tagged appropriately.  
+We need a better way to facilitate feedback (try forming groups next time?).  
+
+## Assignment 1
+
+<p>Create one MCQ (multiple choice question)  and explain diagnostic power of distractors - what is each distractor trying to identify as a misconception? </p>
+ 
+<p>The topic should be something you are likely to teach as a Software/Data Carpentry instructor, or be related to each group's materials.  </p>
+ 
+<p>Post your question under the "hw1mcq" class folder.  </p>
+
+## Assignment 2
+
+<p>Identify a misconception and explain how to get learners to confront it.  </p>
+ 
+<p>Post your misconception under the "hw1misconception" class folder.  </p>
+
+## Assignment 3
+
+<p>Describe one other formative (diagnostic) assessment technique you've seen used, and explain why it works.  </p>
+ 
+<p>Post your formative assessment technique under the "hw1formative" class folder. </p> 
