@@ -38,6 +38,9 @@ Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](paper
 Guzdial: "[Exploring Hypotheses about Media Computation](papers/guzdial-mediacomp-retrospective-2013.pdf)".
 :   A look back on 10 years of media computation research.
 
+De Bruyckere et al: "[Urban Myths About Learning and Education](papers/de-bruyckere-urban-myths-2015.pdf)".
+:   A one-page summary drawn from their book of the same name.
+
 Guzdial: "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2011.pdf)".
 :   A chapter from
     *[Making Software](http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/)*
