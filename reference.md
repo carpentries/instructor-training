@@ -29,6 +29,9 @@ Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can
 
 ## Papers
 
+Baume: "[Writing and Using Good Learning Outcomes](papers/baume-learning-outcomes-2009.pdf)".
+:   A useful detailed guide to constructing useful learning outcomes.
+
 Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
 :   An early report on peer instruction and its effects in the classroom.
 
