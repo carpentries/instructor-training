@@ -58,6 +58,9 @@ Porter et al: "[Success in Introductory Programming: What Works?](papers/porter-
 :   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
     significantly improve outcomes in introductory programming courses.
 
+Wiggins and McTighe: "[UbD in a Nutshell](papers/wiggins-mctighe-ubd-nutshell.pdf)".
+:   A four-page summary of the authors' take on reverse instructional design.
+
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)".
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
