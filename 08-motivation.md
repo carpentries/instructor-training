@@ -3,8 +3,7 @@ layout: page
 subtitle: Motivation and Demotivation
 ---
 > ## Motivating Question
-> How do we learn?  What motivates us to learn?  
-> How do we teach?  What can we do to motivate learning?  What motivates us?  
+> What motivates learners and/or instructors?  
 {: .objectives}
 
 > ## Learning Objectives
@@ -364,9 +363,10 @@ are always welcome.
 
 ## Challenges
 
-> ## Why Do You Teach?
+> ## Personal Story About Demotivation
 >
-> What motivates you to volunteer to teach?
+> Write a paragraph or two about something that happened in your educational career
+> that demotivated you, and explain what could have been done afterward to fix it.
 {: .challenge}
 
 > ## Authentic Tasks
@@ -382,12 +382,6 @@ are always welcome.
 > to the motivational checklist presented earlier.
 > What is the lesson doing (if anything) to engage learners
 > and convince them its material is worth mastering?
-{: .challenge}
-
-> ## Personal Story About Demotivation
->
-> Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.
 {: .challenge}
 
 > ## Thought Record

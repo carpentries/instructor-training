@@ -3,21 +3,30 @@ layout: page
 subtitle: Lesson Design
 ---
 > ## Motivating Question
-> How do we teach?  How do we design effective lessons?  
+> Lessons: How do we design effective lessons?  
 {: .objectives}
 
-> ## Learning Objectives
+> ## Lesson Design and Learning Objectives
 >
 > *   Learner can describe the four steps in reverse instructional design
 >     and explain why following them is an efficient way to create good teaching materials.
 > *   Learner can follow the steps in the reverse instructional design process
 >     to create a short lesson.
 > *   Learner can analyze a short lesson by comparing it to the elements of WHERETO.
+> *   Learner can describe the characteristics of a good learning objective
+>     and correctly state whether a learning objective meets those criteria.
+> *   Learner can correctly classify the level of a learning objective
+>     in terms of Bloom's taxonomy and similar cognitive hierarchies.
+> *   Learner can write a learner profile describing a typical member of
+>     their intended audience.
 {: .objectives}
 
-Transitioning from educational pyschology (how people learn) to lesson design (how 
-teachers teach), 
+We have already covered certain elements of lesson design in our previous 
+lessons on educational pyschology and how that can inform teaching tools.  In this 
+lesson, we will focus strictly on lesson design, using a strategy called reverse 
+instructional design, and specifically focusing on learning objectives.  
 
+## Reverse Instructional Design
 
 Most people design courses as follows:
 
@@ -127,20 +136,6 @@ Wiggins and McTighe use the acronym WHERETO:
 > but as Scott pointed out in
 > *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
 > large organizations invariably prefer uniformity to productivity.
-
----
-layout: page
-subtitle: Learning Objectives
----
-> ## Learning Objectives
->
-> *   Learner can describe the characteristics of a good learning objective
->     and correctly state whether a learning objective meets those criteria.
-> *   Learner can correctly classify the level of a learning objective
->     in terms of Bloom's taxonomy and similar cognitive hierarchies.
-> *   Learner can write a learner profile describing a typical member of
->     their intended audience.
-{: .objectives}
 
 ## Writing Learning Objectives
 
@@ -275,120 +270,10 @@ in learning objectives written for each level.
   </tr>
 </table>
 
-## Who Are Our Learners?
-
-The complement to clarifying the objectives for our lessons
-is to be clear about who we're trying to teach.
-One *[well-known scheme](https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities)*
-characterizes learners as visual, auditory, or kinesthetic
-according to whether they like to see things, hear things, or do things.
-These classifications are easy to understand,
-but are [almost certainly pseudoscience](http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/):
-what little evidence exists for them is very weak.
-
-Another classification scheme developed by Honey and Mumford is based on an idealized learning cycle.
-It is also frequently criticized,
-but provides a more useful vocabulary for describing interactions with learners.
-The four stages in the cycle are:
-
-1.  *doing* something or having an experience,
-2.  *reflecting* on the experience,
-3.  *concluding* from the experience (i.e., developing an explanatory theory), and
-4.  *planning* the next steps to apply or test the theory.
-
-Different learners prefer to start with or spend more time in
-different parts of this cycle.
-This leads naturally to a four-way division:
-
-<table>
-  <tr>
-    <th>Type</th>
-    <th>Learn best when</th>
-    <th>Learn less when</th>
-  </tr>
-  <tr>
-    <th>Activist</th>
-    <td>
-      <ul>
-        <li>involved in new experiences, problems and opportunities</li>
-        <li>working with others in games and team tasks</li>
-        <li>being thrown into the deep end with a difficult task</li>
-        <li>chairing meetings, leading discussions</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>listening to lectures or long explanations</li>
-        <li>reading, writing or thinking on their own</li>
-        <li>absorbing and understanding data</li>
-        <li>following precise instructions to the letter</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Reflector</th>
-    <td>
-      <ul>
-        <li>observing individuals or groups at work</li>
-        <li>they have the opportunity to review what has happened and think about what they have learned</li>
-        <li>producing analyses and reports</li>
-        <li>doing tasks without tight deadlines</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-	<li>acting as leader or role-playing in front of others</li>
-        <li>doing things with no time to prepare</li>
-        <li>being thrown in at the deep end</li>
-        <li>being rushed or worried by deadlines</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Theorist</th>
-    <td>
-      <ul>
-        <li>they are put in complex situations where they have to use their skills and knowledge</li>
-        <li>they are in structured situations with clear purpose</li>
-        <li>they are offered interesting ideas or concepts even though they are not immediately relevant</li>
-        <li>they have the chance to question and probe ideas behind things</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-	<li>they have to participate in situations which emphasize emotion and feelings</li>
-        <li>the activity is unstructured or briefing is poor</li>
-        <li>they have to do things without knowing the principles or concepts involved</li>
-        <li>they feel they're out of tune with the other participants e.g. with people of very different learning styles</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Pragmatist</th>
-    <td>
-      <ul>
-        <li>there is an obvious link between the topic and job</li>
-        <li>they have the chance to try out techniques with feedback e.g. role-playing</li>
-        <li>they are shown techniques with obvious advantages e.g. saving time</li>
-        <li>they are shown a model they can copy e.g. a film or a respected boss</li>
-        <li>there is an obvious or immediate benefit that they can recognize</li>
-        <li>they are given immediate opportunities to implement what they have learned</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-	<li>there is no apparent pay-back to the learning</li>
-        <li>the event or learning is "all theory"</li>
-        <li>there is no practice or guidelines on how to do it</li>
-        <li>they do not see sufficient reward from the learning activity</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## Learner Profiles
 
-Another way to characterize the audience for a course is to write *learner profiles*.
+One way to characterize the audience for a course is to write *learner profiles*.
 This technique is borrowed from user interface design,
 where short profiles of typical users are created
 to help designers think about their audience's needs,
@@ -447,16 +332,6 @@ A learner profile for Software Carpentry might be:
 > Try to be as specific as possible.
 {: .challenge}
 
-> ## What Do You Believe About Teaching?
->
-> Complete the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/).
-> Do you agree with what it says about your view of teaching?
-> Do you think the questionnaire is valuable and credible?
-{: .challenge}
-
-
-## Challenges
-
 > ## Summing Up
 >
 > You have been asked to interview an undergraduate who wants to work with your group for the summer.
@@ -482,30 +357,4 @@ A learner profile for Software Carpentry might be:
 > to the WHERETO acronym's points.
 > Which does it satisfy?
 > Which does it not?
-{: .challenge}
-
-> ## Assessing Ourselves
->
-> We believe that our workshops make researchers more productive.
-> If you were a skeptical department chair,
-> what would you accept as proof of this?
->
-> 1.  Testimonials volunteered by workshop learners are suspect
->     because they are opt-in (people who didn't get anything
->     out of it are less likely to respond than people who did)
->     and because self-assessment is unreliable.
-> 2.  Measuring uptake of tools like GitHub is suspect because
->     people might adopt other things instead, and because
->     we would then need to prove that using version control
->     actually makes someone more productive as a researcher
->     (a claim that that is plausible but unproven).
-> 3.  Comparing the publication and citation rates of workshop
->     participants (the treatment group) with non-participants
->     (the control group) will take years, and may confuse
->     correlation with causation, since the people who take
->     our workshops might be intrinsically more highly
->     motivated or skilled than those who don't.
->
-> Work in small groups to develop and critique other assessments
-> that you think would pass the "skeptical chair" test.
 {: .challenge}

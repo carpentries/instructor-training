@@ -3,7 +3,7 @@ layout: page
 subtitle: Mental Models
 ---
 > ## Motivating Question
-> How do people learn?  How can we describe the difference in learning 
+> How can we describe the difference in learning 
 > between a novice and competent practitioner?
 {: .objectives}
 
@@ -12,6 +12,8 @@ subtitle: Mental Models
 > *   Learner can present three faulty mental models drawn from their own experience.
 > *   Learner can create a multiple choice question with plausible distractors
 >     and explain the diagnostic power of each distractor.
+> *   Learner can identify whether a multiple-choice question is testing factual 
+>     knowledge or a mental model.  
 {: .objectives}
 
 To start our journey into educational psychology, we'll be looking at a theory 
@@ -325,4 +327,10 @@ time that we don't have in our compressed two-day format.
 > Describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
+{: .challenge}
+
+> ## Modeling Instruction
+>
+> There have been many "models" of teaching/learning in the past.  What 
+> model do you currently use (sub-consciously or consciously)?  
 {: .challenge}

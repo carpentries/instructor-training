@@ -3,9 +3,8 @@ layout: page
 subtitle: Carpentry Teaching Practices
 ---
 > ## Motivating Question
-> How do we teach?  What practices are common to Software/Data Carpentry?  
-> How do teachers learn to teach?  How can this sort of "inside knowlege" be 
-> passed on?  
+> What teaching practices are common to Software/Data Carpentry?  
+> How can we pass on and expand this knowledge?  
 {: .objectives}
 
 > ## Learning Objectives
