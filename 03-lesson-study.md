@@ -3,7 +3,7 @@ layout: page
 subtitle: Lesson Study
 ---
 > ## Motivating Question
-> How do teachers learn to teach?  How do they improve?  
+> How do teachers improve?  
 {: .objectives}
 
 > ## Learning Objectives
@@ -11,6 +11,8 @@ subtitle: Lesson Study
 > *   Learner will understand why standardized testing cannot by itself improve educational outcomes,
 >     and will correctly explain why and how peer-to-peer lesson study can.
 {: .objectives} 
+
+
 
 ## Lesson Study
 
@@ -37,12 +39,15 @@ Its core begins with a discussion of what James Stigler discovered during a visi
 >
 > The Japanese teachers, meanwhile, turned "I, We, You" inside out.
 > You might call their version "You, Y'all, We."
-> They began not with an > introduction,
-> but a single problem that students spent ten or twenty > minutes working through alone (You)...
+> They began not with an 
+> introduction,
+> but a single problem that students spent ten or twenty 
+> minutes working through alone (You)...
 > While the students worked,
 > the teacher wove through the students' desks,
 > studying what they came up with and taking notes to remember who had which idea.
-> Sometimes the teacher then deployed the students to discuss the problem in small > groups (Y'all).
+> Sometimes the teacher then deployed the students to discuss the problem in small 
+> groups (Y'all).
 > Next, the teacher brought them back to the whole group,
 > asking students to present their different ideas for how to solve the problem on the chalkboard...
 > Finally, the teacher led a discussion,
@@ -174,19 +179,6 @@ it's a chance for instructors to learn from one another.
 
 ## Challenges
 
-> ## Feedback on Feedback
->
-> Watch either [this video](https://vimeo.com/139316669) (8:40)
-> or [this one](https://vimeo.com/139181120) (11:42).
-> Take notes about the presentation,
-> and divide those into four groups
-> based on whether they are positive or negative
-> and whether they are about the content (what was said)
-> or the presentation (how it was said, e.g., body language).
-> Compare your notes with those made by other people,
-> and with the feedback given by your instructor.
-{: .challenge}
-
 > ## Feedback on Yourself
 >
 > Split into groups of three,
@@ -203,6 +195,25 @@ it's a chance for instructors to learn from one another.
 > and then rotate roles again.
 > After everyone has finished teaching,
 > watch the videos as a group
-> and give feedback using the same 2x2 scheme in the previous challenge.
+> and give feedback on each person's strengths and weaknesses.  
+{: .challenge}
+
+> ## Feedback on Feedback
+>
+> Watch either [this video](https://vimeo.com/139316669) (8:40)
+> or [this one](https://vimeo.com/139181120) (11:42).
+> Take notes about the presentation,
+> and divide those into four groups
+> based on whether they are positive or negative
+> and whether they are about the content (what was said)
+> or the presentation (how it was said, e.g., body language).
+> Compare your notes with those made by other people,
+> and with the feedback given by your instructor.
+{: .challenge}
+
+> ## Feedback on Yourself, Part II
+> Repeat the first challenge exercise; however, when it comes time to give feedback, 
+> use the same 2x2 scheme in the previous challenge.
+
 {: .challenge}
 

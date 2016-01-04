@@ -3,7 +3,7 @@ layout: page
 subtitle: Faded Examples
 ---
 > ## Motivating Question
-> How do people learn?  How is memory a limiting factor in learning?   
+> Students: How is memory a limiting factor in learning?   
 {: .objectives}
 
 > ## Learning Objectives
@@ -13,6 +13,10 @@ subtitle: Faded Examples
 > *   Learner can construct faded examples for use as classroom exercises
 >     and explain the problem-solving strategies those examples illustrate.
 {: .objectives}
+
+Our final piece of educational psychology involves the limits of human memory, 
+how that impacts learning, and how we can design our lessons to take this 
+into account, including a specific tool called a faded example.  
 
 ## Battling Theories
 

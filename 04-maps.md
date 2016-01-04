@@ -3,7 +3,7 @@ layout: page
 subtitle: Mapping Expertise
 ---
 > ## Motivating Question
-> How do people learn?  How can we describe the difference in learning 
+> How can we describe the difference in learning 
 > between a novice and expert? 
 {: .objectives}
 
@@ -15,7 +15,9 @@ subtitle: Mapping Expertise
 >     showing the lesson's key ideas and the relationships between them.
 {: .objectives}
 
-Returning to educational psychology, we discuss 
+Returning to educational psychology, we now discuss what distinguishes expertise 
+from earlier stages of learning, how expertise can be helpful and harmful, and then 
+describe concept maps, a tool that can help expose expertise.  
 
 ## Connectivity
 

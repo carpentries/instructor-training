@@ -3,7 +3,7 @@ layout: page
 subtitle: Introduction
 ---
 > ## Motivating Question
-> What will we be learning in this training?  
+> What common vocabulary do we need to talk about teaching and learning?   
 {: .objectives}
 
 > ## Learning Objectives
@@ -11,17 +11,12 @@ subtitle: Introduction
 > *   Given a lesson,
 >     the learner will correctly identify where the instructor is using content knowledge,
 >     general knowledge, and pedagogical content knowledge.
+> *   Use an example to illustrate the difference between top-down and bottom-up 
+>     learning.  
 {: .objectives}
 
-This training weaves together three different ways to think about
- "becoming an instructor": 
-
-* Learning about how people learn (and what tools can support these efforts)
-* Thinking about how we design lessons, in particular for teaching computing
-* Practicing teaching and how to share our teaching knowledge with each other
-
 The following terms will support the discussions and activities in the rest 
-of the training by giving us a common vocabulary to talk about teaching 
+of the training by giving us a common vocabulary to talk about teaching and
 learning to teach.  
 
 ## Educational Psychology
