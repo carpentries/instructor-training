@@ -2,67 +2,137 @@
 layout: page
 subtitle: Instructor's Guide
 ---
-This page outlines the design of the whole course and each lesson.
-It follows the "Understanding by Design" template (very) loosely.
+## Logistics
 
-## Overall
+This course has been taught as a multi-week online class,
+as a two-day in-person class,
+and as a two-day class in which the learners are in co-located groups
+and the instructor participates remotely.
 
-1.  Desired Results
-    *   Know that education research exists and where to find it.
-    *   Believe that teaching practices should be based on evidence.
-    *   Be familiar with a few key research results.
-    *   Use a few evidence-based practices when teaching SWC/DC.
-    *   Take part in informed discussion about teaching practices with peers.
-2.  Evidence
-    *   Describe key research results and explain how to apply them in class.
-    *   Use evidence-based practices in SWC/DC classes.
-    *   Use jargon correctly to describe and critique their own teaching.
-    *   Contribute to SWC/DC discussions and lessons.
-    *   Take part in studies of SWC/DC.
-3.  Learning Plan
-    1.  Use formative assessment to set pace of lessons that help novices form usable mental models.
-    2.  Use concept maps to set learning goals, then work backward to summative assessments and scaffolded exercises.
+### Multi-Week Online
 
-## Mental Models
+This was the first method we tried.
 
-1.  Desired Results
-    *   Understand scopes of educational psychology and instructional design.
-    *   Understand difference between "novice" and "competent" practitioner.
-    *   Understand different levels of misconceptions and how (not) to address each.
-    *   Understand contrasting purposes of summative and formative assessment.
-2.  Evidence
-    *   Create an MCQ whose distractors have diagnostic power.
-    *   Explain a common misconception and how to get learners to confront it.
-    *   Describe another kind of formative assessment you have seen and explain it in psychological terms.
-3.  Learning Plan
-    *   Distinguish educational psychology from instructional design.
-        *   Introduce broader perspectives than our cognitive approach.
-    *   Explain novice-competent-expert model of cognitive development.
-        *   Emphasize importance of helping novices develop workable mental model.
-    *   Distinguish three levels of misconception: we focus on the middle layer.
-    *   Explain difference between formative and summative assessment.
-    *   Show how to use MCQs as diagnostic tool.
+*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
+    Each meeting is held twice (or even three times) to accommodate learners' timezones
+    and because video conferencing systems can't handle 60+ people at once.
+    Each meeting also uses an Etherpad for shared note-taking,
+    and more importantly for asking and answering questions:
+    having several dozen people try to talk on a call hasn't worked,
+    so in most sessions,
+    the instructor does the talking
+    and learners respond through the Etherpad chat.
 
-## Logistic Requirements
+*   Learners post homework online, then comment on each other's work.
+    *   We used a WordPress blog for the first ten rounds of training.
+        People found writing and commenting on posts straightforward,
+	but setting up dozens of logins was tedious.
+    *   We tried a GitHub-backed blog in the Winter 2015 class.
+        It didn't work nearly as well:
+	a third of the participants found it extremely frustrating,
+	and post-publication commentary was awkward.
+    *   We tried Piazza in the Fall 2015 class.
+        It was better than GitHub,
+	but still not as good as a simple WordPress blog.
+	In particular,
+	it was hard to find things once there were more than a dozen homework categories.
 
-This course has been taught in two primary formats - as a 2-day, in-person class 
-and as an 8-week, online class.  
+### Two-Day In-Person
 
-### Online Training
+This was the second method we tried.
+The biggest change was the introduction of recorded teaching exercises.
 
-* Meeting space: Obviously, one of the primary logistic concerns for an online 
-course is the online meeting space.  For this instructor training, we have primarily 
-used a voice/video system like Google Hangouts or BlueJeans in conjunction with an 
-etherpad.  
-* Online platform for assignment submissions and discussion: There have been several 
-incarnations of this training that used a wordpress-like blog, github, and currently 
-Piazza for managing assignment submission and discussion.  
+*   Several times during the training,
+    participants are divided into groups of three
+    and asked to teach a short lesson (typically 2-3 minutes long).
+    In turn,
+    one person is the teacher, one the audience, and one the videographer,
+    who records the teacher using a handheld device such as a phone.
+    Group members then rotate roles:
+    the teacher becomes the listener, the listener records, and the videographer teaches.
+    Once all three have finished teaching,
+    the group reviews all three videos,
+    and everyone gives feedback on everyone (including themselves).
+    This feedback then goes into the Etherpad for discussion.
 
-## In-Person Training
+*   It's important to record all three videos and then watch all three:
+    if the cycle is teach-review-teach-review,
+    the last person to teach runs out of time.
+    Doing all the reviewing after all the teaching
+    also helps put a bit of distance between the teaching and the reviewing,
+    which makes the exercise slightly less excruciating.
 
-* Breakout rooms: At several points in the training, the participants are divided 
-into small groups and tasked with a certain activity.  Since the activities may 
-involve audio recording, it is best if each group can have their own space 
-for breakouts.  
-* Cameras / recording devices: participants should try to bring some kind of 
-recording device (like a smartphone or camera) for certain class activities.  
+*   This exercise only works if there are breakout rooms available:
+    if everyone is trying to record in the same room,
+    the audio cross-talk makes the recordings unintelligible.
+
+*   We use Etherpad for in-person training,
+    both for note-taking and for posting exercise solutions and feedback on recorded lessons
+    Questions and discussion are done aloud.
+
+### Two-Day Online With Groups
+
+*   We use Google Hangouts and Etherpad as in the multi-week version.
+    Each group of learners is together in a room using one camera and microphone,
+    rather than each being on the call separately.
+    We have found that having good audio matters more than having good video,
+    and that the better the audio,
+    the more learners can communicate with the instructor and other rooms by voice
+    rather than by using the Etherpad chat.
+
+*   We do the video lecture exercise as in the two-day in-person training.
+
+## Schedule
+
+A typical schedule for a two-day course is:
+
+*   Day 1
+    *   08:30: Welcome and introductions
+    *   08:45: Key definitions; novices and misconceptions; need for formative assessment => MCQ
+    *   09:30: Review formative assessments; teaching as a performance art => recorded teaching in groups of three
+    *   10:30: Coffee break
+    *   11:00: Experts; concept maps; 7 +/- 2 => drawing a concept map
+    *   11:45: Review concept maps; minute cards for morning session
+    *   12:00: Lunch
+    *   13:00: Recorded teaching based on concept map with 2x2 rubric
+    *   13:45: Review teaching; cognitive load theory; faded examples => create faded example
+    *   14:15: Review faded examples
+    *   14:30: Coffee break
+    *   14:45: Reverse instructional design; Bloom's taxonomy; learning outcomes => critique/rewrite learning outcomes
+    *   15:15: Review learning outcomes
+    *   15:30: Discuss overnight homework (read operations guide, complete Teaching Perspectives Inventory)
+    *   15:45: Minute cards for afternoon session
+    *   16:00: Close
+*   Day 2
+    *   09:00: Questions based on operations guide and Teaching Perspectives Inventory
+    *   10:00: Live coding demo => live coding practice on same lesson + coffee (in either order)
+    *   11:00: Review live coding
+    *   11:15: Motivation and demotivation => write your story over lunch
+    *   11:45: Minute cards for morning session
+    *   12:00: Lunch
+    *   13:00: Discussion; setting up a workshop website
+    *   13:45: Discussion of how to tell what effect we're having => develop assessment proposal
+    *   14:15: Present assessment proposals
+    *   14:30: Coffee
+    *   15:00: Overview of lesson materials and how to contribute
+    *   15:30: Open discussion
+    *   15:45: Minute cards for afternoon session
+    *   16:00: Close
+
+## Exercises
+
+*   Learners do think-pair-share for cognitive maps and MCQs.
+
+*   In the two-day versions,
+    have learners read the operations guide as their overnight homework
+    and do their demotivational story just before lunch on day 2:
+    it means day 2 starts with *their* questions (which wakes them up),
+    and the demotivational story is a good lead-in to lunchtime discussion.
+
+*   Don't have them complete the Teaching Perspectives Inventory
+    or read through the pre- or post-assessment questionnaires in class:
+    it kills momentum.
+
+*   Have them work in pairs for the live coding exercise rather than threes,
+    and don't bother recording:
+    the camera can't pick up both the speaker's body language and what's on the screen.
