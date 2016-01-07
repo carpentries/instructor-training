@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Sample workshop guide for trainers
+subtitle: 2-day face-to-face Instructor Training guide for Trainers
 ---
 
 This is a detailed trainer's guide for running a two-day intense face-to-face Instructor Training workshop. The guide should allow the trainers plan and deliver the workshop but it is not a strict schedule. The trainers should allow for some flexibility and adapting to the local circumstances.
