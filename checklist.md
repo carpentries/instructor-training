@@ -8,7 +8,10 @@ title: Checklist
 1.  Decide if it will be in person, online for one site, or online for several.
 1.  Talk through expectations with the host(s).
     *   If it is in person, make sure the host knows they're covering travel costs.
+    *   Determine who is allowed to attend.
 1.  Arrange trainers.
+1.  Arrange space.
+    *   Make sure there are breakout rooms for video recording.
 1.  Choose dates.
     *   If it is in person, book travel.
 1.  Get names and email addresses of attendees from host(s).
