@@ -21,7 +21,10 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-The [previous lesson](02-models.html) described the key difference between novices and competent practitioners.
+> Discussion: what is something in which you are an expert?  How do you know that 
+> you're an expert?  
+
+An [earlier topic](02-models.html) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:
 competent practitioners can memorize a lot of trivia
@@ -37,6 +40,8 @@ is that experts have many more connections,
 i.e.,
 their mental models are much more densely connected.
 This metaphor helps explain many observed aspects of expert behavior:
+
+--> need a good example of this.  Math?  Comedian?  Musician?  Navigation?  
 
 1.  Experts can jump directly from a problem to its solution
     because there actually is a direct link between the two in their mind:
@@ -82,79 +87,16 @@ The more people you know in a group,
 the more likely you are to remain part of that group.
 Similarly,
 the more connections a fact has to other facts,
-the more likely the fact is to be remembered.
-
-## Plus or Minus Two
-
-While the graph model of knowledge is inaccurate but useful,
-another simple model has a sound physical basis.
-As a rough approximation,
-human memory can be divided into two layers.
-The first is called *long-term* or *persistent memory*.
-It is where we store things like our password,
-our home address,
-and what the clown did at our eighth birthday party that scared us so much.
-It is essentially unbounded
-(barring injury or disease, we will die before it fills up)
-but it is slow to access ---
-too slow to help us handle hungry lions and disgruntled family members.
-
-Evolution has therefore given us a second system called *short-term* or *working memory*.
-It is much faster,
-but also much smaller:
-in 1956,
-Miller estimated that the average adult's working memory could hold
-[7&plusmn;2 items](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
-for a few seconds
-before things started to drop out.
-This is why phone numbers are typically 7 or 8 digits long:
-back when phones had dials instead of keypads,
-that was the longest string of numbers most adults could remember accurately
-for as long as it took the dial to go around and around.
-It's also why sports teams tend to have about half a dozen members,
-or be broken down into smaller groups (such as the forwards and backs in rugby).
-
-> ## Chunking
->
-> Our minds can store larger numbers of facts in short-term memory by creating *chunks*.
-> For example, most of us have written our names so often
-> that we do not remember them as a sequence of letters,
-> but as a single fact instead.
-> Similarly, the pattern made by five spots on cards or dice is remembered as a whole
-> rather than as five separate pieces of information.
-> Chunks allow us to manage larger problems,
-> but can also mislead us if we mis-identify something,
-> i.e.,
-> see it as something it isn't.
-{: .callout}
-
-7&plusmn;2 is probably the most important number in programming.
-When someone is trying to write the next line of a program,
-or understand what's already there,
-she needs to keep a bunch of arbitrary facts straight in her head:
-what does this variable represent,
-what value does it currently hold,
-etc.
-If the number of facts grows too large,
-her mental model of the program comes crashing down
-(something we have all experienced).
-
-7&plusmn;2 is also the most important number in teaching.
-An instructor cannot push information directly into a learner's long-term memory.
-Instead,
-whatever she presents is first stored in the learner's short-term memory,
-and is only transferred to long-term memory after it has been held there and reinforced.
-If we present too much information too quickly,
-the new will displace the old before it has a chance to settle.
-We therefore need some way to see how much we're trying to teach,
-and how well-connected it is.
+the more likely the fact is to be remembered.  This builds on our earlier idea 
+of mental models - a mental model is a way to facilitate making connections between 
+separate facts.  
 
 ## Concept Maps
 
-Our tool of choice is the *concept map*.
+Our tool of choice to represent an expert's knowledge graph is the *concept map*.
 A concept map is simply a picture of someone's mental model of a domain:
 facts are bubbles,
-and connections are labelled arcs.
+and connections are labelled arcs.  
 It is important that they are labelled:
 saying "X and Y are related" is only helpful if we explain what the relationship *is*.
 And yes,
@@ -253,6 +195,16 @@ Concept maps can be used in many ways:
 > and adding any other concepts they think they need.
 {: .callout}
 
+> ## Concept Mapping
+>
+> Create a hand drawn concept map for something you would teach in five minutes.
+> (Possibly for the same subject that you used to create a multiple choice question 
+> before.)  
+> Trade with a partner, and critique each other's maps.
+> Do they present concepts or surface detail?
+> Which of the relationships in your partner's map do you consider concepts and vice versa?
+{: .challenge}
+
 > ## What Are We Doing Again?
 >
 > Concept maps can also be used to help build a shared understanding of what a project is trying to accomplish.
@@ -261,12 +213,3 @@ Concept maps can be used in many ways:
 > The ensuing discussion can be...vigorous.
 {: .callout}
 
-## Challenges
-
-> ## Concept Mapping
->
-> Create a hand drawn concept map for something you would teach in five minutes.
-> Trade with a partner, and critique each other's maps.
-> Do they present concepts or surface detail?
-> Which of the relationships in your partner's map do you consider concepts and vice versa?
-{: .challenge}

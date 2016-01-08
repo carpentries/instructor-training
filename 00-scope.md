@@ -6,26 +6,31 @@ subtitle: Introduction
 > What is the scope of the course?   
 {: .objectives}
 
-What should be covered in an instructor training?  What is involved in 
-"becoming an instructor"?  
+What do (musician), (athlete), (programmer) + teacher have in common?  
 
-Introduces ideas about how people learn, how we design lessons, real teaching 
-practices, and what it means to learn to teach.  
+All four are examples of *performers* - people who are presenting something 
+(music, ideas, emotions, stories) to an audience.  For the purposes of this 
+training, we will think of the potential instructor as a beginning performer, 
+(an actor, perhaps being the closest parallel).  
 
-Focus on three core areas:
-- Learners: how do people learn?
-- Lessons: Knowing how people learn, how do we prepare 
-to teach?  What practices do we use in the classroom?  
-- Instructors: what do teachers need to know or do to "become" teachers, or improve 
-their skills? 
+To become an accomplished performer, there are many pieces of the process.  There is: 
+- Preparation: Learning about your discipline, making choices about your approach, 
+choosing drills, making a plan to train or practice.  
+- Practice: Once we've prepared, it's time to practice based on your plan.  You probably 
+won't practice all alone either - there will be friends and colleagues you ask to train 
+with you, or review how you're doing.  
+- Performance: the final show, concert, game, etc...
 
-The first several topics (the first day of a 2 day training) focus on general 
-applications for the above.  There are several topics (models, maps, faded) 
-that discuss how people learn and then how to apply 
-Final topic of the day, more general ideas of lesson design.  Interspersed 
-throughout the day is the message of lesson study - learning how to teach, 
-receive feedback, and 
+This list is linear, but the process of performance tuning is circular - results of 
+practice drives preparation, the performance's success or failure impacts practice, etc.  
 
-The second day of topics delves into Software Carpentry/Data Carpentry specific 
-practices and the "personal" side of teaching - the importance of motivation 
-(and lack of demotivation!), why we teach, and how teaching is a personal performance.  
+In this training, we'll be covering
+- Preparation: learning about how people learn, and some specific tools and techniques 
+you can use as you prepare to teach.  
+- Practice: actually doing some teaching and "performing", giving feedback to each other 
+and discussing how we do things.  
+- Performance: After the training - your first Software or Data Carpentry workshop!  
+
+Hopefully this training helps you continue on your journey of being a teaching 
+"performance artist", whether you've never taught a class before, or are a 40-year 
+teaching veteran.  
