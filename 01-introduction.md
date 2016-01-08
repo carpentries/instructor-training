@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Introduction
+subtitle: Terms
 ---
 > ## Motivating Question
 > What common vocabulary do we need to talk about teaching and learning?   
@@ -29,10 +29,12 @@ and the philosophical question of what we actually mean by "learning"
 the standardized Western classroom).
 
 Within the broad scope of educational psychology,
-this training will take a narrow *cognitivist* perspective.
-We can afford to do this because most of our learners are
+this training will take a narrow *cognitivist* perspective.  A cognitivist 
+perspective focuses on *cognition* - specifically, how the brain and mind 
+works and how that influences how people learn.  We can afford to narrowly focus 
+on this aspect of learning, because most of our learners are
 physically safe, well fed, well educated, and highly motivated.
-Much of the research in education has rightly focused on people without these privileges.
+Much of the research in education has rightly focused on people without these privileges.  
 
 > ## Other Perspectives
 >
@@ -44,14 +46,16 @@ Much of the research in education has rightly focused on people without these pr
 > during which learners construct knowledge for themselves),
 > and *connectivism* (which emphasizes the social aspects of learning,
 > particularly those made possible by the Internet).
->
-> The most interesting perspective from our point of view is
-> *[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
-> which focuses on the way that
-> *[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
-> leads to people becoming members of
-> a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.
-{: .callout}
+{: .callout} 
+
+Another interesting perspective from our point of view is
+*[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
+which focuses on the way that
+*[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
+leads to people becoming members of
+a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  The 
+focus on community dialogue and learning in this training reflects this situated 
+learning approach.  
 
 ## Instructional Design
 
@@ -66,6 +70,12 @@ which is the study of how to create learning materials.
 If educational psychology is the science,
 ID is the engineering:
 it's how our scientific understanding is put into practice on the ground.
+
+> ## Discussion
+> 
+> Who has heard of phonics, or learned to read using it?  Who has heard 
+> of whole language?  
+{: .challenge}
 
 For example,
 most children today are taught to read using a bottom-up technique called
@@ -143,15 +153,15 @@ It assumes you know as much as you need to about basic programming
 
 The third strand of our course - practicing teaching and sharing our teaching 
 experience - is a way to start practicing and sharing our own pedagogical content 
-knowledge.  In [link to practices](09-practices.html) you'll see some of the 
-PCK of the Software and Data Carpentry communities at work.  
-
-We *wish* the course could include a lot more material on PCK than it does,
-but computing education lags behind fields like mathematics
-when it comes to assembling and organizing this.  Within
+knowledge.  In [link to practices](07-practices.html) you'll see some of the 
+PCK of the Software and Data Carpentry communities at work.   Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
-techniques for that lesson's content.
+techniques for that lesson's content.  
+
+Finally, this training includes times for discussion, observation, and feedback, 
+precisely so that participants are able to share their PCK with each other over 
+the course of the next two days.  
 
 > ## Examples of PCK
 >
@@ -160,12 +170,6 @@ techniques for that lesson's content.
 > *   The [CS Teaching Tips](http://csteachingtips.org/) site
 >     is gathering similar ideas for computing.
 {: .callout}
-
-## Practicing What We Preach
-
-We have attempted to apply our knowledge of how people learn, 
-our recommendations for instructional design, and our own teaching knowledges 
-(the PCK of teaching!) within the format of these lessons.  
 
 ## Key Readings
 
@@ -183,7 +187,7 @@ and "[Top 10 Myths About Teaching Computer Science](papers/guzdial-10-myths-2015
 and Porter et al's "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)",
 both of which should be read before starting this class.
 
-## Extra Challenges
+## Additional Exercises
 
 > ## Three Kinds of Knowledge
 >

@@ -201,17 +201,31 @@ and to get feedback.
 
 ## On Stage
 
-Returning from feedback, had long discussion on how the experience was - what 
-did people notice?  What are some of your "tells"?  
+> ## Discussion
+> 
+> How was the experience of being videoed/receiving feedback?  What 
+> did people notice?  What are some of your "tells"?  
+{: .challenge}
 
 Everyone has nervous things - not as noticeable as you think.  
 Mickey Mouse version of self.  
+(not done writing yet)
 
-Everyone will be different - why it's as important to recognize
+Everyone will be different - why it's as important to recognize strengths as weaknesses
+
+> ## Discussion
+> 
+> If you were a cartoon character teacher, who would you be?  What does that say about your 
+> teaching?  
+> {: .challenge}
 
 ## Feedback
 
-> Discucssion: feedback
+> ## Discussion: 
+> 
+> Sometimes it can be hard to receive negative feedback?  What are some 
+> strategies to receive and handle feedback?  
+{: .challenge}
 
 How can you make the feedback 
 experience better?  etc. etc.
@@ -225,7 +239,7 @@ Having another instructor in the classroom saves your voice
 but more importantly,
 it's a chance for instructors to learn from one another.
 
-## Challenges
+## Additional Exercises
 
 > ## Feedback on Feedback
 >

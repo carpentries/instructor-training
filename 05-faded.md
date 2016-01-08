@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Faded Examples
+subtitle: Managing Memory
 ---
 > ## Motivating Question
 > How is memory a limiting factor in learning?   
@@ -23,6 +23,13 @@ to say about managing teaching information.  In particular, we'll be looking at 
 limits of human memory and mind, and how that may impact learning.  
 
 ## Plus or Minus Two
+
+> ## Faces and Names
+> 
+> Add an exercise here where people are shown a bunch of faces/names 
+> (or similar list of random facts) and 
+> then have to name as many as they can remember?  
+{: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
 another simple model has a sound physical basis.
@@ -223,7 +230,11 @@ in which the results of processing items from a collection
 are repeatedly added to a single variable in some way
 to create the final result.
 
-## Challenges
+## Parson's Problems
+
+Add something here?  
+
+## Additional Exercises
 
 > ## Faded Examples
 >

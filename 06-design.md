@@ -120,22 +120,25 @@ Wiggins and McTighe use the acronym WHERETO:
 > we want the notes we leave behind to present things in the order described above.
 {: .callout}
 
-> ## Teaching to the Test
->
-> Reverse instructional design is *not* the same thing as "teaching to the test".
-> When using RID, teachers set goals to aid in lesson design,
-> and may not never actually give the final exam that they wrote as a goal.
-> In many school systems,
-> on the other hand,
-> an external authority defines assessment criteria for all learners,
-> regardless of their individual situations,
-> and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
-> Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
-> focus on measurement with little (usually no) help for improving
-> Centralized, standardized testing is appealing (particularly to those with the power to set the tests),
-> but as Scott pointed out in
-> *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
-> large organizations invariably prefer uniformity to productivity.
+> ## Discussion
+> 
+> Is reverse instructional design "teaching to the test"?  
+{: .challenge}
+
+Reverse instructional design is *not* the same thing as "teaching to the test".
+When using RID, teachers set goals to aid in lesson design,
+and may not never actually give the final exam that they wrote as a goal.
+In many school systems,
+on the other hand,
+an external authority defines assessment criteria for all learners,
+regardless of their individual situations,
+and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
+Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
+focus on measurement with little (usually no) help for improving
+Centralized, standardized testing is appealing (particularly to those with the power to set the tests),
+but as Scott pointed out in
+*[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
+large organizations invariably prefer uniformity to productivity.
 
 ## Writing Learning Objectives
 
@@ -270,6 +273,13 @@ in learning objectives written for each level.
   </tr>
 </table>
 
+> ## Improving Objectives
+>
+> Are the following learning objectives strong or weak?  How could 
+> you improve some of the weak objectives?  
+> 
+> (list of objectives here - have some ready)
+{: .challenge}
 
 ## Learner Profiles
 
@@ -301,7 +311,17 @@ A learner profile for Software Carpentry might be:
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 
-## Challenges
+> ## Learner Profiles
+>
+> Read [Software Carpentry's learner profiles](http://software-carpentry.org/pages/audience.html)
+> and then write one that describes a fictional colleague of your own.
+> Who are they,
+> what problems do they face,
+> and how will this training help them?
+> Try to be as specific as possible.
+{: .challenge}
+
+## Additional Exercises
 
 > ## Develop Learning Objectives
 >
@@ -320,16 +340,6 @@ A learner profile for Software Carpentry might be:
 > Does this lesson accomplish what it sets out to achieve?
 > Does it contain too much?
 > Is the content on point with the learning objectives?
-{: .challenge}
-
-> ## Learner Profiles
->
-> Read [Software Carpentry's learner profiles](http://software-carpentry.org/pages/audience.html)
-> and then write one that describes a fictional colleague of your own.
-> Who are they,
-> what problems do they face,
-> and how will this training help them?
-> Try to be as specific as possible.
 {: .challenge}
 
 > ## Summing Up

@@ -3,8 +3,7 @@ layout: page
 subtitle: Carpentry Teaching Practices
 ---
 > ## Motivating Question
-> What teaching practices are common to Software/Data Carpentry?  
-> How can we pass on and expand this knowledge?  
+> What teaching practices are common to Software/Data Carpentry?   
 {: .objectives}
 
 > ## Learning Objectives
@@ -17,31 +16,34 @@ subtitle: Carpentry Teaching Practices
 >     two strategies for managing a class in which students have diverse backgrounds and skill levels.
 {: .objectives}
 
-## In Class
-
 We regard teaching as a performance art,
 no different from drama, music, or athletics.
 And as in those fields,
 we have a collection of small tips and tricks to make teaching work better.
 
-*Open with the [code of conduct](http://software-carpentry.org/conduct.html).*
-:   As mentioned in the [previous section](07-motivation.html),
-    Software Carpentry and Data Carpentry share a code of conduct,
-    and participants in our workshops are required to abide by it.
-    Pointing people at it during registration,
-    and reminding them of it at the start of the workshop,
-    doesn't just tell everyone what the rules are:
-    it tells them that there *are* rules,
-    and that they can therefore expect a comfortable learning experience.
+## Live Coding 
 
-*Live coding.*
-:   We do not use slides in our lessons.
-    Instead, instructors plug their laptop into the projector
-    and work through the lesson,
-    typing in the code,
-    reformatting data,
-    and talking as we go.
-    *   Watching a program being written is more compelling than
+We do not use slides in our lessons.
+Instead, instructors plug their laptop into the projector
+and work through the lesson,
+typing in the code,
+reformatting data,
+and talking as we go.
+
+> ## Live Coding
+> 
+> In groups of two, practice live coding for 5-10 minutes.  
+{: .challenge}
+
+> ## Discussion
+> 
+> What are some of the advantages of live coding?  What are 
+> some of the challenges?  
+{: .challenge}
+
+### Advantages 
+
+ *   Watching a program being written is more compelling than
         watching someone page through slides that present bits and pieces of the same code.
     *   It enables instructors to be more responsive to "what if?" questions.
         Where a slide deck is like a railway track,
@@ -67,6 +69,77 @@ we have a collection of small tips and tricks to make teaching work better.
     This seems to be more reliable than
     displaying one virtual desktop while flipping back and forth to
     another.
+
+### Challenges
+
+Given the diversity of our learners' backgrounds and skills, we will
+always have a mix of more and less advanced people in our classes.  No
+matter what we teach, and how fast or how slow we go, 20% or more of
+the room will be lost, and there's a good chance that a different 20%
+will be bored.
+
+The obvious solution is to split people by level,
+but if we ask them how much they know about particular things,
+they regularly under- or over-estimate their knowledge.
+We have therefore developed a short pre-assessment questionnaire
+that asks them how easily they could do a small number of specific tasks.
+It gives instructors some idea of who they're going to be helping,
+but we have not validated the questions,
+i.e.,
+we have not done the laborious work of interviewing respondents
+to ensure that they are interpreting the questions the same way that we are.
+We also have not yet done the follow-up to see
+whether the questionnaires' categorization of learners
+matches their actual in-class proficiency.
+
+> ## You Can't Just Ask
+>
+> Instead of asking people how easily they could complete specific tasks,
+> we could just ask them to rate their knowledge of various subjects
+> on a scale from 1 to 5.
+> However,
+> self-assessments of this kind are usually inaccurate
+> because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
+> the less people know about a subject,
+> the less accurate their estimate of their knowledge is.
+
+That said, there *are* things we can do:
+
+*   Before running a workshop,
+    communicate its level clearly to everyone who's thinking of signing up
+    by listing the topics that will be covered
+    and showing a few examples of exercises that people will be asked to complete.
+*   Provide multiple exercises for each teaching episode
+    so that more advanced learners don't finish early and get bored.
+*   Ask more advanced learners to help people next to them.
+    They'll learn from answering their peers' questions
+    (since it will force them to think about things in new ways).
+*   The helpers and the instructor who isn't teaching the particular episode
+    should keep an eye out for learners who are falling behind
+    and intervene early
+    so that they don't become frustrated and give up.
+
+The most important thing is to accept that
+no class can possibly meet everyone's individual needs.
+If the instructor slows down to accommodate two people who are struggling,
+the other 38 are not being well served.
+Equally,
+if she spends a few minutes talking about an advanced topic because two learners are bored,
+the 38 who don't understand it will feel left out.
+All we can do is tell our learners what we're doing and why,
+and hope that they'll understand.
+
+## Other Practices
+
+*Open with the [code of conduct](http://software-carpentry.org/conduct.html).*
+:   As mentioned in the [previous section](07-motivation.html),
+    Software Carpentry and Data Carpentry share a code of conduct,
+    and participants in our workshops are required to abide by it.
+    Pointing people at it during registration,
+    and reminding them of it at the start of the workshop,
+    doesn't just tell everyone what the rules are:
+    it tells them that there *are* rules,
+    and that they can therefore expect a comfortable learning experience.
 
 *Sticky notes.*
 :   We give each learner two sticky notes of different colors,

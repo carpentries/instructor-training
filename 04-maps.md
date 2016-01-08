@@ -21,8 +21,11 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-> Discussion: what is something in which you are an expert?  How do you know that 
+> ## Discussion
+> 
+> What is something in which you are an expert?  How do you know that 
 > you're an expert?  
+{: .challenge}
 
 An [earlier topic](02-models.html) described the key difference between novices and competent practitioners.
 What makes experts different from either?
@@ -114,6 +117,7 @@ concept maps help spark and focus discussion.
 > (taken from [a blog post](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
+{: .callout}
 
 To show what concept maps look like,
 consider this simple `for` loop in Python:
@@ -185,16 +189,6 @@ Concept maps can be used in many ways:
     as [Glass observed](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/),
     any new tool or technique initially slows people down.
 
-> ## Building Concept Maps Together
->
-> Concept maps can be used as a classroom discussion exercise.
-> Put learners in small groups (2-4 people each),
-> give each group some sticky notes on which a few key concepts are written,
-> and have them build a concept map on a whiteboard by placing those sticky notes,
-> connecting them with labelled arcs,
-> and adding any other concepts they think they need.
-{: .callout}
-
 > ## Concept Mapping
 >
 > Create a hand drawn concept map for something you would teach in five minutes.
@@ -204,6 +198,16 @@ Concept maps can be used in many ways:
 > Do they present concepts or surface detail?
 > Which of the relationships in your partner's map do you consider concepts and vice versa?
 {: .challenge}
+
+> ## Building Concept Maps Together
+>
+> Concept maps can be used as a classroom discussion exercise.
+> Put learners in small groups (2-4 people each),
+> give each group some sticky notes on which a few key concepts are written,
+> and have them build a concept map on a whiteboard by placing those sticky notes,
+> connecting them with labelled arcs,
+> and adding any other concepts they think they need.
+{: .callout}
 
 > ## What Are We Doing Again?
 >

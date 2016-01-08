@@ -24,15 +24,15 @@ question.
 
 Example / discussion -> talk to Jonah
 
-> ## What's in a Model?
->
-> What exactly do we mean by a mental model?
-> One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
-> Atoms aren't actually balls,
-> and their bonds aren't actually springs,
-> but the model does a good job of helping people reason about chemical compounds and their reactions.
+What exactly do we mean by a mental model?
+One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
+Atoms aren't actually balls,
+and their bonds aren't actually springs,
+but the model does a good job of helping people reason about chemical compounds and their reactions.
 
-> Discussion: what mental model has been provided for thinking about the structure 
+> ## Discussion
+>
+> what mental model has been provided for thinking about the structure 
 > of this course and the act of teaching?  
 {: .challenge}
 
@@ -97,8 +97,11 @@ and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
-> Discussion: define difference between manual / tutorial?  Which is more appropriate 
+> ## Discussion
+>
+> Define the difference between a manual / tutorial.  Which is more appropriate 
 > for novices?  for competent practitioners?  
+{: .challenge}
 
 > ## Different Kinds of Lessons
 >
@@ -119,6 +122,7 @@ and without which people cannot understand how to use commands
 > Ray and Ray's *[Unix and Linux: Visual Quickstart Guide](http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/)*
 > and Fehily's *[SQL: Visual Quickstart Guide](http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/)*
 > are among the few other books in computing to have accomplished this.
+{: .callout}
 
 ## Getting to Strong Mental Models
 
@@ -126,7 +130,10 @@ There are many "positive" strategies towards building mental models.  Analogies,
 stories, role-play, diagrams...all can be a way to represent a structure that 
 can be used as a model.  
 
-> Discussion:  What are some mental models you use in the classroom?  
+> ## Discussion
+> 
+> What are some mental models you use in the classroom to teach computing concepts?  What 
+> mental models do you use to think about your work?  
 
 However, there's another, greater challenge to creating mental models.  Research 
 shows (?) that an incorrect model can impede learning more than a non-existent 
@@ -170,6 +177,7 @@ provide better ones.
 > or stay the same?
 > The correct answer is that it stays the same;
 > figuring out why helps people build a model of the relationship between weight, volume, and density.
+{: .callout}
 
 ## Assessing Mental Models
 
@@ -220,8 +228,10 @@ d) 33
 The correct answer is 42,
 but each of the other answers provides valuable insight:
 
-> Discussion: what is the misconception associated with each wrong answer?  Ask 
-> three different people.  
+> ## Discussion 
+>
+> What is the misconception associated with each wrong answer?  Ask 
+> three different people, one for each wrong answer.  
 
 *   If the child answers 32, she is throwing away the carry completely.
 *   If she answers 312, she knows that she can't just discard the carried '1',
@@ -240,7 +250,11 @@ and (b) kids actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what to explain to that particular learner next.
 
-> Discussion: how to handle the results.  
+> ## Discussion
+> 
+> As the instructor, what should you do if most of the class votes for one 
+> of the wrong answers?  For the right answer?  What if the votes are evenly 
+> spread between options?  
 
 If the majority of the class votes for a single wrong answer, you should go back 
 and work on correcting that particular misconception.  If most of the class votes
@@ -261,46 +275,46 @@ then you can safely skip the part of the lecture
 in which you were going to explain something that your learners already know.
 (Doing this also helps show learners that the instructor cares about how much they are learning.)
 
-## Peer Instruction --> make callout
-
-No matter how good a teacher is,
-she can only say one thing at a time.
-How then can she clear up many different misconceptions
-in a reasonable time?
-
-The best solution developed so far is a technique called
-*[peer instruction](https://en.wikipedia.org/wiki/Peer_instruction)*.
-Originally created by Eric Mazur at Harvard,
-it has been studied extensively in a wide variety of contexts, including programming.
-When it is used,
-the basic learning cycle is typically something like this:
-
-1.  Give a brief introduction to the topic.
-2.  Give students an MCQ that probes for misconceptions
-    (rather than simple factual knowledge).
-3.  Have all the students vote publicly on their answers to the MCQ.
-    1.  If the students all have the right answer, move on.
-    2.  If they all have the same wrong answer,
-        address that specific misconception.
-    3.  If they have a mix of right and wrong answers,
-        give them several minutes to discuss those answers with one another
-        in small groups (typically 2-4 students)
-        and then reconvene and vote again.
-
-As [this video](https://www.youtube.com/watch?t=1&v=2LbuoxAy56o) shows,
-group discussion significantly improves students' understanding
-because it forces them to clarify their thinking,
-which can be enough to call out gaps in reasoning.
-Re-polling the class then lets the instructor know if they can move on,
-or if further explanation is necessary.
-A final round of additional explanation and discussion after the correct answer is presented
-gives students one more chance to solidify their understanding.
-
-Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
-Despite this,
-we usually do not use it in our workshops because
-it takes people time to learn a new way to learn ---
-time that we don't have in our compressed two-day format.
+> ## Peer Instruction
+>
+> No matter how good a teacher is,
+> she can only say one thing at a time.
+> How then can she clear up many different misconceptions
+> in a reasonable time?
+>
+> The best solution developed so far is a technique called
+> *[peer instruction](https://en.wikipedia.org/wiki/Peer_instruction)*.
+> Originally created by Eric Mazur at Harvard,
+> it has been studied extensively in a wide variety of contexts, including programming.
+> When it is used,
+> the basic learning cycle is typically something like this:
+> 
+> 1.  Give a brief introduction to the topic.
+> 2.  Give students an MCQ that probes for misconceptions
+>     (rather than simple factual knowledge).
+> 3.  Have all the students vote publicly on their answers to the MCQ.
+>     1.  If the students all have the right answer, move on.
+>     2.  If they all have the same wrong answer,
+>         address that specific misconception.
+>     3.  If they have a mix of right and wrong answers,
+>         give them several minutes to discuss those answers with one another
+>         in small groups (typically 2-4 students)
+>        and then reconvene and vote again.
+>
+> As [this video](https://www.youtube.com/watch?t=1&v=2LbuoxAy56o) shows,
+> group discussion significantly improves students' understanding
+> because it forces them to clarify their thinking,
+> which can be enough to call out gaps in reasoning.
+> Re-polling the class then lets the instructor know if they can move on,
+> or if further explanation is necessary.
+> A final round of additional explanation and discussion after the correct answer is presented
+> gives students one more chance to solidify their understanding.
+> 
+> Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
+> Despite this,
+> we usually do not use it in our workshops because
+> it takes people time to learn a new way to learn ---
+> time that we don't have in our compressed two-day format.
 
 > ## Modeling Novice Mental Models
 >
@@ -323,8 +337,8 @@ time that we don't have in our compressed two-day format.
 >     or ask colleagues about their experiences.
 {: .callout}
 
-Finally,
-designing an MCQ with plausible distractors is useful
+
+Designing an MCQ with plausible distractors is useful
 even if it is never used in class
 because it forces the instructor to think about the learners' mental models
 and how they might be broken ---
@@ -346,7 +360,9 @@ and see the topic from their point of view.
 > is an ever-increasing threat to its validity.
 {: .callout}
 
-> Discussion: why would we *not* assess people in advance?  
+> ## Discussion: 
+> 
+> Why would we *not* assess people in advance?  
 
 > ## Why We Don't Assess During Registration --> un-callout
 >
@@ -366,7 +382,7 @@ and see the topic from their point of view.
 > We were therefore scaring off many of the people we most wanted to help.
 {: .callout}
 
-## Extra Challenges
+## Additional Exercises
 
 > ## Confronting the Contradiction
 >
