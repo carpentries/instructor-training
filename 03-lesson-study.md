@@ -12,7 +12,11 @@ subtitle: Lesson Study
 >     and will correctly explain why and how peer-to-peer lesson study can.
 {: .objectives} 
 
-
+Continuing with our theme of instructor-as performer, let's discuss some research 
+that suggests that improvement in educational outcomes *must*, at its core, be driven 
+by practice and communities of practice - that the tricks and techniques that make 
+teaching effective will develop into widespread effectiveness through a community of 
+teaching practice.  
 
 ## Lesson Study
 
@@ -170,19 +174,15 @@ As the abstract of the latter paper says:
 > without input from outside sources,
 > or involved only personal interaction with other educators.
 
-This is part of the reason for Data Carpentry and Software Carpentry's rule,
-"Never teach alone."
-Having another instructor in the classroom saves your voice
-(it's hard to talk for two days straight),
-but more importantly,
-it's a chance for instructors to learn from one another.
-
-## Challenges
+As stated at the beginning, the main goal of this training is to be this kind of 
+lesson study, where instructors can come together to discuss and share practices, 
+and to get feedback.  
 
 > ## Feedback on Yourself
 >
 > Split into groups of three,
-> and then have each person teach a 90-second lesson on
+> and then have each person introduce themselves and 
+> then teach a 90-second lesson on
 > the most interesting aspect of their own research or work
 > to another person in the group
 > while the third person records it (video and audio)
@@ -193,10 +193,39 @@ it's a chance for instructors to learn from one another.
 > her audience becomes the instructor,
 > the person who was recording becomes the audience)
 > and then rotate roles again.
-> After everyone has finished teaching,
-> watch the videos as a group
-> and give feedback on each person's strengths and weaknesses.  
+> After everyone in the group of three has finished teaching,
+> watch the videos as a group.  After watching all the videos, 
+> give feedback on each person's strengths and weaknesses.  
+> Returning to the large group, share your strengths and weaknesses with others.  
 {: .challenge}
+
+## On Stage
+
+Returning from feedback, had long discussion on how the experience was - what 
+did people notice?  What are some of your "tells"?  
+
+Everyone has nervous things - not as noticeable as you think.  
+Mickey Mouse version of self.  
+
+Everyone will be different - why it's as important to recognize
+
+## Feedback
+
+> Discucssion: feedback
+
+How can you make the feedback 
+experience better?  etc. etc.
+
+Blog post stuff here.  Feedback blah blah blah
+
+This is part of the reason for Data Carpentry and Software Carpentry's rule,
+"Never teach alone."
+Having another instructor in the classroom saves your voice
+(it's hard to talk for two days straight),
+but more importantly,
+it's a chance for instructors to learn from one another.
+
+## Challenges
 
 > ## Feedback on Feedback
 >
@@ -212,7 +241,8 @@ it's a chance for instructors to learn from one another.
 {: .challenge}
 
 > ## Feedback on Yourself, Part II
-> Repeat the first challenge exercise; however, when it comes time to give feedback, 
+> Later in the training, 
+> repeat the first challenge exercise; however, when it comes time to give feedback, 
 > use the same 2x2 scheme in the previous challenge.
 
 {: .challenge}

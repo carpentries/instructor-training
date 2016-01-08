@@ -22,13 +22,21 @@ question.
 
 ## Cognitive Development and Mental Models
 
-> It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.
-> - Mark Twain
+Example / discussion -> talk to Jonah
 
-Our goal is not to teach the syntax of a particular programming language,
-but to teach people how to think about programming
-(and about using computers in research more generally).
+> ## What's in a Model?
+>
+> What exactly do we mean by a mental model?
+> One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
+> Atoms aren't actually balls,
+> and their bonds aren't actually springs,
+> but the model does a good job of helping people reason about chemical compounds and their reactions.
+
+> Discussion: what mental model has been provided for thinking about the structure 
+> of this course and the act of teaching?  
+
+One way to think about the difference between a novice and a "competent 
+practitioner" is the existence of this big picture mental model.  
 Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisiton](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 in her studies of
@@ -53,15 +61,14 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [the next lesson](03-cognition.html).
+    We will discuss expertise in more detail in [the next lesson](04-maps.html).
 
-> ## What's in a Model?
->
-> What exactly do we mean by a mental model?
-> One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
-> Atoms aren't actually balls,
-> and their bonds aren't actually springs,
-> but the model does a good job of helping people reason about chemical compounds and their reactions.
+We assume that most learners coming to Software/Data Carpentry lessons are novices, 
+and do not have a strong mental model of the concepts we are teaching.  Thus, our 
+primary goal is *not* 
+to teach the syntax of a particular programming language,
+but to teach people how to think about programming
+(and about using computers in research more generally).
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
@@ -74,22 +81,6 @@ the incorrect mental model they've cobbled together.)
 Instead,
 our goal with novices is *to help them construct a working mental model*
 so that they have something to attach facts to.
-
-Clearing up their misconceptions is therefore as important as presenting them with correct information.
-Broadly speaking,
-their misconceptions fall into three categories:
-
-*   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
-    These are simple to correct,
-    but getting the facts right is not enough on its own.
-*   *Broken models*, such as believing that motion and acceleration must be in the same direction.
-    We can address these by having them reason through examples to see contradictions.
-*   *Fundamental beliefs*,
-    such as "the world is only a few thousand years old"
-    or "human beings cannot be affecting the planet's climate".
-    These usually cannot be addressed in class,
-    since they are deeply connected to the learner's social identity
-    and cannot be reasoned away.
 
 For example,
 Software Carpentry's [lesson on the Unix shell](http://swcarpentry.github.io/shell-novice/)
@@ -105,18 +96,8 @@ and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
-> ## What Happens Next?
->
-> An example of how solving problems can help people correct broken mental models,
-> consider this problem from Epstein's *[Thinking Physics](http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r)*.
-> Imagine that you have placed a cake of ice in a bathtub
-> and then filled the tub to the rim with water.
-> When the ice melts,
-> does the water level go up (so that the tub overflows),
-> go down,
-> or stay the same?
-> The correct answer is that it stays the same;
-> figuring out why helps people build a model of the relationship between weight, volume, and density.
+> Discussion: define difference between manual / tutorial?  Which is more appropriate 
+> for novices?  for competent practitioners?  
 
 > ## Different Kinds of Lessons
 >
@@ -138,15 +119,66 @@ and without which people cannot understand how to use commands
 > and Fehily's *[SQL: Visual Quickstart Guide](http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/)*
 > are among the few other books in computing to have accomplished this.
 
-## Assessment
+## Getting to Strong Mental Models
 
-In order to help people learn efficiently,
-instructors need to know whether their learners already understand this topic
+There are many "positive" strategies towards building mental models.  Analogies, 
+stories, role-play, diagrams...all can be a way to represent a structure that 
+can be used as a model.  
+
+> Discussion:  What are some mental models you use in the classroom?  
+
+However, there's another, greater challenge to creating mental models.  Research 
+shows (?) that an incorrect model can impede learning more than a non-existent 
+model.  
+
+> It ain't what you don't know that gets you into trouble.
+> It's what you know for sure that just ain't so.
+> - Mark Twain
+
+Clearing up learners' misconceptions is therefore as important as 
+presenting them with correct information.
+Broadly speaking,
+their misconceptions may fall into three categories:
+
+*   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
+    These are simple to correct,
+    but getting the facts right is not enough on its own.
+*   *Broken models*, such as believing that motion and acceleration must be in the same direction.
+    We can address these by having them reason through examples to see contradictions.
+*   *Fundamental beliefs*,
+    such as "the world is only a few thousand years old"
+    or "human beings cannot be affecting the planet's climate".
+    These usually cannot be addressed in class,
+    since they are deeply connected to the learner's social identity
+    and cannot be reasoned away.
+    
+Again, since Software and Data Carpentry are focused on novices, and the building of 
+strong mental models, we're most interested in the middle category of misconceptions.  
+While teaching, we want to expose broken models so that we can help diagnose and 
+provide better ones.  
+
+> ## What Happens Next?
+>
+> An example of how solving problems can help people correct broken mental models,
+> consider this problem from Epstein's *[Thinking Physics](http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r)*.
+> Imagine that you have placed a cake of ice in a bathtub
+> and then filled the tub to the rim with water.
+> When the ice melts,
+> does the water level go up (so that the tub overflows),
+> go down,
+> or stay the same?
+> The correct answer is that it stays the same;
+> figuring out why helps people build a model of the relationship between weight, volume, and density.
+
+## Assessing Mental Models
+
+How do we expose misconceptions, especially as they pertain to broken models?  How 
+can we, in-class, know whether the learners already understand this topic
 (so that the class can move on),
 and if not,
 what misconceptions and gaps in their knowledge to address.
-In short,
-instructors need feedback on their learners' progress,
+
+Instructors need feedback on their learners' progress,
 and insight into their learners' mental models.
 This is usually done through two kinds of assessment:
 
@@ -166,23 +198,7 @@ This is usually done through two kinds of assessment:
     no one should ever encounter a question on a final exam
     for which the teaching did not prepare them.
 
-> ## Why We Don't Assess During Registration
->
-> Unfortunately,
-> most formal educational systems train people to treat all assessment as summative,
-> i.e.,
-> to think of every interaction with a teacher as an evaluation,
-> rather than as a chance to shape instruction.
-> For example,
-> we use a short pre-assessment questionnaire to profile learners before workshops
-> to help instructors tune the pace and level of material.
-> We send this questionnaire out after people have registered
-> rather than making it part of the sign-up process
-> because when we did the latter,
-> many people concluded that since they couldn't answer all the questions,
-> they shouldn't enrol.
-> We were therefore scaring off many of the people we most wanted to help.
-
+For our in-class purposes, we're most interested in formative assessment.  
 In order to be useful during teaching,
 a formative assessment has to be quick to administer and evaluate.
 The most widely used is probably multiple choice questions (MCQs).
@@ -203,6 +219,9 @@ d) 33
 The correct answer is 42,
 but each of the other answers provides valuable insight:
 
+> Discussion: what is the misconception associated with each wrong answer?  Ask 
+> three different people.  
+
 *   If the child answers 32, she is throwing away the carry completely.
 *   If she answers 312, she knows that she can't just discard the carried '1',
     but doesn't understand that it's actually a ten
@@ -220,6 +239,16 @@ and (b) kids actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what to explain to that particular learner next.
 
+> Discussion: how to handle the results.  
+
+If the majority of the class votes for a single wrong answer, you should go back 
+and work on correcting that particular misconception.  If most of the class votes
+for the right answer, it's probably safe to move on.  If answers are pretty evenly 
+split between options, learners are probably guessing randomly and it's a good 
+idea to go back to a point where everyone was on the same page.  
+
+(See the Peer Instruction box below, for other ways to use MCQs in class.)  
+
 Ideally,
 instructors should use MCQs
 or some other kind of formative assessment
@@ -231,42 +260,7 @@ then you can safely skip the part of the lecture
 in which you were going to explain something that your learners already know.
 (Doing this also helps show learners that the instructor cares about how much they are learning.)
 
-Finally,
-designing an MCQ with plausible distractors is useful
-even if it is never used in class
-because it forces the instructor to think about the learners' mental models
-and how they might be broken ---
-in short,
-to put themselves into the learner's head
-and see the topic from their point of view.
-
-> ## A Note on MCQ Design
->
-> *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
->     If you are having a hard time coming up with diagnostic distractors,
->     then either you need to think more about your learners' mental models,
->     or your question simply isn't a good starting point for an MCQ.
-> *   When you are trying to come up with distractors,
->     think about questions that learners asked or problems they had
->     the last time you taught this subject.
->     If you haven't taught it before,
->     think about your own misconceptions
->     or ask colleagues about their experiences.
-
-> ## Concept Inventories
->
-> The [Force Concept Inventory](https://en.wikipedia.org/wiki/Force_Concept_Inventory)
-> is a set of MCQs designed to gauge understanding of basic Newtonian mechanics.
-> By interviewing a large number of respondents,
-> correlating their misconceptions with patterns of right and wrong answers to questions,
-> and then improving the questions,
-> it's possible to construct a very precise diagnostic tool.
-> However,
-> it's very costly to do this,
-> and students' ability to search for answers on the internet
-> is an ever-increasing threat to its validity.
-
-## Peer Instruction
+## Peer Instruction --> make callout
 
 No matter how good a teacher is,
 she can only say one thing at a time.
@@ -307,14 +301,71 @@ we usually do not use it in our workshops because
 it takes people time to learn a new way to learn ---
 time that we don't have in our compressed two-day format.
 
-## Challenges
-
 > ## Modeling Novice Mental Models
 >
 > Create a multiple choice question related to a topic you intend to teach
 > and explain the diagnostic power of each its distractors,
 > i.e., what misconception is each distractor meant to identify?
 {: .challenge}
+
+> ## A Note on MCQ Design
+>
+> *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
+>     If you are having a hard time coming up with diagnostic distractors,
+>     then either you need to think more about your learners' mental models,
+>     or your question simply isn't a good starting point for an MCQ.
+> *   When you are trying to come up with distractors,
+>     think about questions that learners asked or problems they had
+>     the last time you taught this subject.
+>     If you haven't taught it before,
+>     think about your own misconceptions
+>     or ask colleagues about their experiences.
+{: .callout}
+
+Finally,
+designing an MCQ with plausible distractors is useful
+even if it is never used in class
+because it forces the instructor to think about the learners' mental models
+and how they might be broken ---
+in short,
+to put themselves into the learner's head
+and see the topic from their point of view.
+
+> ## Concept Inventories
+>
+> The [Force Concept Inventory](https://en.wikipedia.org/wiki/Force_Concept_Inventory)
+> is a set of MCQs designed to gauge understanding of basic Newtonian mechanics.
+> By interviewing a large number of respondents,
+> correlating their misconceptions with patterns of right and wrong answers to questions,
+> and then improving the questions,
+> it's possible to construct a very precise diagnostic tool.
+> However,
+> it's very costly to do this,
+> and students' ability to search for answers on the internet
+> is an ever-increasing threat to its validity.
+{: .callout}
+
+> Discussion: why would we *not* assess people in advance?  
+
+> ## Why We Don't Assess During Registration --> un-callout
+>
+> Unfortunately,
+> most formal educational systems train people to treat all assessment as summative,
+> i.e.,
+> to think of every interaction with a teacher as an evaluation,
+> rather than as a chance to shape instruction.
+> For example,
+> we use a short pre-assessment questionnaire to profile learners before workshops
+> to help instructors tune the pace and level of material.
+> We send this questionnaire out after people have registered
+> rather than making it part of the sign-up process
+> because when we did the latter,
+> many people concluded that since they couldn't answer all the questions,
+> they shouldn't enrol.
+> We were therefore scaring off many of the people we most wanted to help.
+{: .callout}
+
+## Extra Challenges
 
 > ## Confronting the Contradiction
 >
