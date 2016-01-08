@@ -3,7 +3,7 @@ layout: page
 subtitle: Lesson Design
 ---
 > ## Motivating Question
-> Lessons: How do we design effective lessons?  
+> How do we design effective lessons?  
 {: .objectives}
 
 > ## Lesson Design and Learning Objectives

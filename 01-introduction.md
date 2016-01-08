@@ -2,8 +2,9 @@
 layout: page
 subtitle: Introduction
 ---
+
 > ## Motivating Question
-> What is the scope of the course?   
+> How can we describe teaching?  
 {: .objectives}
 
 What do (musician), (athlete), (programmer) + teacher have in common?  
@@ -24,7 +25,10 @@ with you, or review how you're doing.
 This list is linear, but the process of performance tuning is circular - results of 
 practice drives preparation, the performance's success or failure impacts practice, etc.  
 
-In this training, we'll be covering
+This training aims to be a "masterclass" in teaching.  It won't just be about 
+learning things in your head, but practicing teaching together, sharing our 
+knowledge and insights.  We'll be covering
+
 * Planning: learning about how people learn, and some specific tools and techniques 
 you can use as you prepare to teach.  
 * Practice: actually doing some teaching and "performing", giving feedback to each other 
@@ -35,3 +39,6 @@ your first Software or Data Carpentry workshop!
 Hopefully this training helps you continue on your journey of being a teaching 
 "performance artist", whether you've never taught a class before, or are a 40-year 
 teaching veteran.  
+
+(at some point, add something re: community/people being SWC/DC's "secret sauce", 
+per Jonah. :))
