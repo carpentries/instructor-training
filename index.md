@@ -37,3 +37,4 @@ by our [code of conduct](http://software-carpentry.org/conduct.html).
 *   [Reference Guide](reference.html)
 *   [Next Steps](discussion.html)
 *   [Instructor's Guide](instructors.html)
+*   [Checklist](checklist.html)
