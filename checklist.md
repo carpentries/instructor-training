@@ -39,6 +39,13 @@ title: Checklist
 ## After the Event
 
 1.  Email attendees about the final checkout process.
+    *   Choose one of the core lessons (or one from each Carpentry if qualifying for both).
+    *   Submit an exercise as a pull request (Software Carpentry) or to a Google Doc (Data Carpentry).
+    *   Take part in an hour-long discussion session about that lesson.
+    *   Teach a 5-minute segment of that lesson chosen on the day by the trainers.
+        *   So trainees have to prepare the whole lesson.
+    *   Trainers do not examine their own trainees.
+        *   Having them examine each other's helps maintain consistency of curriculum and standards.
 1.  Recruit experienced instructors to lead group lesson discussions.
 1.  Schedule group lesson discussions.
 1.  Badge instructors in AMY.
