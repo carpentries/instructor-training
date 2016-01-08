@@ -22,17 +22,17 @@ by our [code of conduct](http://software-carpentry.org/conduct.html).
 
 ## Topics
 
-0.  [Scope](00-scope.html)
-1.  [Introduction](01-introduction.html)
-2.  [Mental Models](02-models.html)
-3.  [Lesson Study](03-lesson-study.html)
-4.  [Mapping Expertise](04-maps.html)
-5.  [Faded Examples](05-faded.html)
-6.  [Lesson Design](06-design.html)
-7.  [Teaching Practices](07-practices.html)
-8.  [Motivation and Demotivation](08-motivation.html)
-9.  [Why I Teach](09-why.html)
-10.  [Teaching Challenges](10-challenges.html)
+0.  [Introduction](01-introduction.html)
+1.  [Terms](02-terms.html)
+2.  [Mental Models](03-models.html)
+3.  [Lesson Study](04-study.html)
+4.  [Mapping Expertise](05-expertise.html)
+5.  [Managing Memory](06-memory.html)
+6.  [Lesson Design](07-design.html)
+7.  [Teaching Practices](08-practices.html)
+8.  [Motivation](09-motivation.html)
+9.  [Demotivation](10-demotivation.html)
+10.  [The Carpentries](11-carpentries.html)
 
 
 ## Other Resources

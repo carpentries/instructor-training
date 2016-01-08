@@ -112,7 +112,9 @@ to make sure they're doing at least a few of these things.
 > As we said in [the introduction](01-introduction.html),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.
+> particularly when they are volunteers.  For one instructor's motivation, 
+> keep reading.  
+{: .callout}
 
 ## Greg's Story
 

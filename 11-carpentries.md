@@ -12,6 +12,13 @@ subtitle: The Carpentries
 > *  Need to write...
 {: .objectives}
 
+Need more stuff here -- things Christina taught at last training:
+* history of two orgs
+* how they are similar/different (lesson content, who they're aimed at, 
+admin structure)
+* rules re: running workshops and being certified
+* how to get involved in the community
+
 ## Workshop Operations
 
 Starting in January 2015 we began running bi-weekly debriefing
