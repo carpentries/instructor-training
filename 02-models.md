@@ -34,6 +34,7 @@ Example / discussion -> talk to Jonah
 
 > Discussion: what mental model has been provided for thinking about the structure 
 > of this course and the act of teaching?  
+{: .challenge}
 
 One way to think about the difference between a novice and a "competent 
 practitioner" is the existence of this big picture mental model.  
