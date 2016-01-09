@@ -32,6 +32,10 @@ Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can
 Baume: "[Writing and Using Good Learning Outcomes](papers/baume-learning-outcomes-2009.pdf)"
 :   A useful detailed guide to constructing useful learning outcomes.
 
+Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies](papers/borrego-henderson-change-strategies-2014.pdf)"
+:   Describes eight approaches to effecting change in STEM education
+    that form a useful framework for thinking about how Software Carpentry and Data Carpentry can change the world.
+
 Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data](papers/brown-educator-vs-learner-beliefs-2014.pdf)"
 :    Compares teachers' opinions about common programming errors with data from over 100,000 students, and finds only weak consensus amongst teachers and between teachers and data.
 
