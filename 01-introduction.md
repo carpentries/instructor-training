@@ -48,17 +48,19 @@ Much of the research in education has rightly focused on people without these pr
 
 ## Instructional Design
 
-While what we know about educational psychology can constrain teaching,
-it doesn't dictate it.
-In particular,
-there are often several possible approaches to teaching
-that are consistent with what we know about how brains learn.
-In order to decide between them,
-we also need to explore *instructional design*,
-which is the study of how to create learning materials.
-If educational psychology is the science,
-ID is the engineering:
-it's how our scientific understanding is put into practice on the ground.
+While what we know about educational psychology can constrain teaching, we are
+often challenged to accommodate our knowledge from the study of psychology with
+the evidence from instructional practice, and with influence stemming from
+instructor ideology.
+
+This is because, in some cases, there might be a few different approaches to
+teaching that could be used. Deciding which of these is consistent with what
+we know about how brains learn can be difficult, and might appear to clash with
+educational practitioners' ideology.
+
+If educational psychology is the science, Instructional Design (ID) is the
+engineering: it's how our scientific understanding is put into practice on the
+ground.
 
 For example,
 most children today are taught to read using a bottom-up technique called
@@ -74,11 +76,21 @@ so that they get the positive feedback of being able to read whole stories as ea
 The basic idea is that once children find reading rewarding,
 they'll be motivated to go back and figure out the letters.
 
-Both approaches are consistent with what we know about how children learn,
-so we need to study them in action to determine which is better.
-The findings have been contradictory:
-while some studies find that phonics works best,
-others show that whole language yields better results.
+These approaches are not equally consistent with what we know about how children
+learn to read. There is some evidence that proficient, adult readers identify
+whole word patterns. But humans are really good at associating sounds with
+meaning, and the scientific consensus among linguists, psychologists and
+neuroscientists is that the bridge phonics builds from letters to sounds makes
+learning to read easier.
+
+
+So while whole-word instruction takes an optimistic and student-centered view on
+learning -- encouraging enjoyment in learning as a key element in the process --
+it is not consistent with the scientific view of the way that learning to read
+actually takes place. Nevertheless, when these methods were studied in
+classrooms, the findings have been contradictory: while some classroom studies
+find that phonics works best, others show that whole language yields better
+results.
 
 One explanation is that a third factor is at play.
 If children sense that their teachers are enthusiastic about something,
@@ -92,7 +104,7 @@ when studies are done by people who are proponents of a new technique
 they are likely to produce positive results,
 but when those techniques are deployed more widely
 to teachers who have seen one bandwagon after another roll by,
-results will regress to the mean.
+results will regress to the mean, or even beyond.
 
 This course will cover several methods and tools of instructional design,
 exploring their strengths and weaknesses,
@@ -118,7 +130,6 @@ and trying to connect them to the underlying research.
 
 In the end, effective teaching often depends on what the teacher knows.
 The things teachers know can be divided into:
->>>>>>> A few small things in intro and index.
 
 > ## Motivating Question
 > How can we describe teaching and learning how to teach?  
