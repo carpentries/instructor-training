@@ -217,7 +217,7 @@ Everyone will be different - why it's as important to recognize strengths as wea
 > 
 > If you were a cartoon character teacher, who would you be?  What does that say about your 
 > teaching?  
-> {: .challenge}
+{: .challenge}
 
 ## Feedback
 
@@ -258,6 +258,5 @@ it's a chance for instructors to learn from one another.
 > Later in the training, 
 > repeat the first challenge exercise; however, when it comes time to give feedback, 
 > use the same 2x2 scheme in the previous challenge.
-
 {: .challenge}
 
