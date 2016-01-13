@@ -42,9 +42,11 @@ The key difference between experts and people who are "merely competent"
 is that experts have many more connections,
 i.e.,
 their mental models are much more densely connected.
-This metaphor helps explain many observed aspects of expert behavior:
 
---> need a good example of this.  Math?  Comedian?  Musician?  Navigation?  
+To understand expert behavior, think about driving around a city, comparing what it's 
+like for the local and for the out-of-town driver.  
+
+This metaphor helps explain many observed aspects of expert behavior:
 
 1.  Experts can jump directly from a problem to its solution
     because there actually is a direct link between the two in their mind:
@@ -54,6 +56,12 @@ This metaphor helps explain many observed aspects of expert behavior:
     and it isn't always a good thing:
     when asked to explain her reasoning,
     an expert often can't because she didn't actually go through any intermediate steps.
+    
+	> In our example above, the local probaby doesn't even think about which 
+	> turns they're making on their way to the grocery store.  They can drive on 
+	> "autopilot" without really thinking.  If someone asks them to go to a different 
+	> location, they immediately know what they should do next to get to the right place. 
+    
 2.  Experts are frequently so familiar with their subject
     that they can no longer imagine what it's like to *not* see the world that way.
     As a result,
@@ -62,13 +70,26 @@ This metaphor helps explain many observed aspects of expert behavior:
     This is called *expert blind spot*.
     It can be overcome with training,
     but it's part of why world-famous researchers are often poor lecturers.
+    
+    > The local driver will know from long experience that the bridge is under construction, or that 
+    > there's always a train at 3:00 - knowledge not available to the out-of-towner, even 
+    > on their map.  
+    
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
+    
+    > The local driver probably can use either the names of streets *or* landmarks when giving 
+    > directions.  The out-of-towner only has street labels.  
+
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
     (And this in turn is why asking programmers to debug during job interviews
     gives a more accurate impression of their ability than asking them to program.)
+    
+    > When the out-of-towner finally calls their local friend, saying "well, we just passed 
+    > Sycamore Street and we can see a restaurant named Nellie's Cafe", the local can 
+    > more easily figure out where the out-of-towner is, and how to get to their destination.  
 
 > ## The J Word
 >

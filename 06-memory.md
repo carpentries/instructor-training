@@ -16,11 +16,11 @@ subtitle: Managing Memory
 
 This topic is yet another variation on a theme from our previous topics - how do 
 we keep ourselves from overwhelming novice learners?  We've discussed the need to 
-give students [mental models](02-models.html) to give structure to their knowledge, 
+give students [mental models](03-models.html) to give structure to their knowledge, 
 and the importance of unpacking our own expertise in order to help [make connections]
-(04-maps.html).  Now we'll focus on some very "cognitive" theories and what they have 
+(05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
 to say about managing teaching information.  In particular, we'll be looking at the 
-limits of human memory and mind, and how that may impact learning.  
+limits of human mind and memory, and how that may impact learning.  
 
 ## Plus or Minus Two
 
@@ -32,7 +32,7 @@ limits of human memory and mind, and how that may impact learning.
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
-another simple model has a sound physical basis.
+another simple model of knowledge has a sound physical basis.
 As a rough approximation,
 human memory can be divided into two layers.
 The first is called *long-term* or *persistent memory*.
@@ -91,8 +91,10 @@ whatever she presents is first stored in the learner's short-term memory,
 and is only transferred to long-term memory after it has been held there and reinforced.
 If we present too much information too quickly,
 the new will displace the old before it has a chance to settle.
-We therefore need some way to see how much we're trying to teach,
-and how well-connected it is.
+
+This is why it's very important to use a technique like concept mapping a lesson 
+before teaching it - an instructor needs to identify just how many pieces of 
+separate information will need to be "stored" in memory as part of the lesson.  
 
 ## Battling Theories
 
