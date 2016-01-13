@@ -49,6 +49,7 @@ goals, and community structure:
 * both focus on computational skills
 
 Data and Software Carpentry differ in their major content and primary audience: 
+
 * Data Carpentry workshops focus on best practices surrounding data.  The audience 
 for a DC workshop is not someone who wants to learn about coding, but rather someone 
 who has a lot of data and doesn't know what to do with it.  The DC workshops are: 
