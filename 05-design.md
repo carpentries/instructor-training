@@ -86,6 +86,10 @@ Wiggins and McTighe use the acronym WHERETO:
 *   *Organize*:
     put the episodes in sequence.
 
+This [four-page guide](papers/wiggins-mctighe-ubd-nutshell.pdf)
+is a good checklist for reverse instructional design
+cross-referenced to Wiggins and McTighe's books.
+
 > ## How and Why to Fake It
 >
 > One of the most influential papers in the history of software engineering

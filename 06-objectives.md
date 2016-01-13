@@ -145,6 +145,10 @@ in learning objectives written for each level.
   </tr>
 </table>
 
+Baume's guide to
+[writing and using good learning outcomes](papers/baume-learning-outcomes-2009.pdf)
+is a good longer discussion of these issues.
+
 ## Who Are Our Learners?
 
 The complement to clarifying the objectives for our lessons
