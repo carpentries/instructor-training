@@ -370,7 +370,7 @@ and see the topic from their point of view.
 > Name a pro and con of assessing learners as they sign up for a workshop.  
 {: .challenge} 
 
-## Why We Don't Assess During Registration --> un-callout
+## Why We Don't Assess During Registration
 
 Unfortunately,
 most formal educational systems train people to treat all assessment as summative,
