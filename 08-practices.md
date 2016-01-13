@@ -32,7 +32,8 @@ and talking as we go.
 
 > ## Live Coding
 > 
-> In groups of two, practice live coding for 5-10 minutes.  
+> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
+> with a partner.  
 {: .challenge}
 
 > ## Discussion
@@ -43,36 +44,40 @@ and talking as we go.
 
 ### Advantages 
 
- *   Watching a program being written is more compelling than
+*   Watching a program being written is more compelling than
         watching someone page through slides that present bits and pieces of the same code.
-    *   It enables instructors to be more responsive to "what if?" questions.
+*   It enables instructors to be more responsive to "what if?" questions.
         Where a slide deck is like a railway track,
         live coding allows instructors to go off road and follow their learners' interests.
-    *   It facilitates lateral knowledge transfer:
+*   It facilitates lateral knowledge transfer:
         people learn more than we realized we were teaching by watching *how* instructors do things.
-    *   It slows the instructor down:
+*   It slows the instructor down:
         if she has to type in the program as she goes along,
         she can only go twice as fast as her learners,
         rather than ten-fold faster as she could with slides.
-    *   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
+*   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
         Novices are going to spend most of their time doing this,
         but it's left out of most textbooks.
 
-    It takes a bit of practice for instructors to
-    get used to thinking aloud while coding in front of an audience, but
-    most report that it is then no more difficult to do than talking off a
-    deck of slides.
+> The typos are the pedagogy
+> - [Dana Brunson](https://twitter.com/danabrunson/status/684764295196876800)
 
-    Many instructors now use two devices when teaching: a laptop plugged
-    into the projector for learners to see, and a tablet beside it on
-    which they can view their notes and the Etherpad session.
-    This seems to be more reliable than
-    displaying one virtual desktop while flipping back and forth to
-    another.
+It takes a bit of practice for instructors to
+get used to thinking aloud while coding in front of an audience, but
+most report that it is then no more difficult to do than talking off a
+deck of slides.
+
+Many instructors now use two devices when teaching: a laptop plugged
+into the projector for learners to see, and a tablet beside it on
+which they can view their notes and the Etherpad session.
+This seems to be more reliable than
+displaying one virtual desktop while flipping back and forth to
+another.
 
 ### Challenges
 
-Given the diversity of our learners' backgrounds and skills, we will
+With live coding, it is easy for some learners to fall behind, and for other 
+learners to get bored.  Given the diversity of our learners' backgrounds and skills, we will
 always have a mix of more and less advanced people in our classes.  No
 matter what we teach, and how fast or how slow we go, 20% or more of
 the room will be lost, and there's a good chance that a different 20%
