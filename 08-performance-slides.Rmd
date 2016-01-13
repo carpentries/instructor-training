@@ -1,0 +1,77 @@
+---
+title: "Teaching as a Performance Art"
+author: "Greg Wilson"
+date: "January 12, 2016"
+output:
+  ioslides_presentation:
+    highlight: pygments
+    widescreen: yes
+---
+
+## Lesson study
+
+*jugyokenkyu*, or lesson study, is a bucket of practices that Japanese teachers use to hone their craft, from observing each other at work to discussing the lesson afterward to studying curriculum materials with colleagues.
+
+The key is that instructors see each other teach and provide feedback. 
+
+In Software and Data Carpentry, we never teach alone, so that instructors aren't as tired, but also so they can learn from each other.
+
+## In Class
+
+- Open with the Code of Conduct
+- Live coding  
+- Sticky notes  
+- Minutes cards  
+- One up, one down  
+- Learners use their own machines  
+- Collaborative note taking  
+- Pair programming  
+- Enthusiasm! 
+
+## Pace and level
+
+Given the diversity of our learners' backgrounds and skills, we will always have a mix of more and less advanced people in our classes. No matter what we teach, and how fast or how slow we go, 20% or more of the room will be lost, and there's a good chance that a different 20% will be bored.
+
+**You can't just ask**
+
+We have a pre-assessment that provides the instructor some information on level, but it's often not accurate.
+
+**Dunning-Kruger effect** - the less people know about a subject, the less accurate their estimate of their knowledge is. It is a cognitive bias in which relatively unskilled individuals suffer from illusory superiority, mistakenly assessing their ability to be much higher than it really is
+
+## Levels in Class
+
+That said, there are things we can do:
+
+- Before running a workshop, communicate its level clearly to everyone who's thinking of signing up by listing the topics that will be covered and showing a few examples of exercises that people will be asked to complete.
+Provide multiple exercises for each teaching episode so that more advanced learners don't finish early and get bored.  
+- Ask more advanced learners to help people next to them. They'll learn from answering their peers' questions (since it will force them to think about things in new ways).  
+- The helpers and the instructor who isn't teaching the particular episode should keep an eye out for learners who are falling behind and intervene early so that they don't become frustrated and give up.  
+
+## Levels in Class
+
+The most important thing is to accept that no class can possibly meet everyone's individual needs. If the instructor slows down to accommodate two people who are struggling, the other 38 are not being well served. Equally, if she spends a few minutes talking about an advanced topic because two learners are bored, the 38 who don't understand it will feel left out. All we can do is tell our learners what we're doing and why, and hope that they'll understand.
+
+## Workshop operations
+
+Starting in January 2015 we began running bi-weekly debriefing sessions for instructors who have recently taught workshops. In these, instructors discuss what they actually did, how it worked, how the lessons they actually delivered differed from our templates, what problems arose, and so on.
+
+Summaries are posted on our blog shortly after each meeting. More importantly, we have condensed this feedback (and much else) in an operations guide and a set of checklists that describes what everyone in a workshop is expected to do and why.
+
+## Challenges
+
+**Providing feedback**
+
+Watch some of either this video https://vimeo.com/139316669 (8:40) or this one https://vimeo.com/139181120 (11:42). Take notes about the presentation, and divide those into four groups based on whether they are positive or negative and whether they are about the content (what was said) or the presentation (how it was said, e.g., body language). Compare your notes with those made by other people, and with the feedback given by your instructor.
+
+## Challenges
+
+**Feedback on yourself**
+
+Split into groups of three, and then have each person teach a 90-second lesson on the most interesting aspect of their own research or work to another person in the group while the third person records it (video and audio) using a cell phone or some other handheld device. After the first person finishes, rotate roles (she becomes the videographer, her audience becomes the instructor, the person who was recording becomes the audience) and then rotate roles again. After everyone has finished teaching, watch the videos as a group and give feedback using the same 2x2 scheme in the previous challenge.
+
+## Challenges
+
+**Feedback on assessment**
+
+
+Go through the pre-assessment questionnaire given to you by your instructor and critique its questions. (Remember, critiquing means commenting on positive aspects as well as negative ones.) How long do you think it will take the average learner to fill it in? How useful do you think the information it gathers will be to you as an instructor? How could you improve the questions? What would you add, and what would you drop to make room?
