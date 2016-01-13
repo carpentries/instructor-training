@@ -246,6 +246,7 @@ and that any additional concerns are likely to be addressed.
 > doesn't just give screen readers something to say:
 > it also makes the images more findable
 > by exposing their content to search engines.
+{: .callout}
 
 The first step is to know what you need to do.
 The [W3C Accessibility Initiative's checklist for presentations](http://www.w3.org/WAI/training/accessible)
@@ -276,12 +277,13 @@ are always welcome.
 > looking at her work I've also been overwhelmed at all the different 
 > ways I could make my instruction more accessible.  
 > My approach (more or less) has been: </i>
-> - <i>Don't do everything at once.  I tell SWC workshop attendees that 
+> 
+> * <i>Don't do everything at once.  I tell SWC workshop attendees that 
 > they shouldn't try to adopt **all** the best practices or tools from a workshop 
 > in one go, but gradually work things in at a rate they can manage.  
 > In the same way, I'm trying to gradually build in accessibility "habits" 
 > when I prepare for workshops; adding something new each workshop.  
-> - <i>Do the easy things!  There are plenty of ways to make workshops more 
+> * <i>Do the easy things!  There are plenty of ways to make workshops more 
 > accessible that are both easy and don't create extra cognitive load for 
 > anyone: font choices, general text size, checking in advance that your 
 > room is accessible via an elevator or ramp, etc.  There's no shame in starting small. </i>

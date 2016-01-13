@@ -68,7 +68,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [the next lesson](04-maps.html).
+    We will discuss expertise in more detail in [a later lesson](05-expertise.html).
 
 We assume that most learners coming to Software/Data Carpentry lessons are novices, 
 and do not have a strong mental model of the concepts we are teaching.  Thus, our 
@@ -140,6 +140,7 @@ can be used as a model.
 > 
 > What are some mental models you use in the classroom to teach computing concepts?  What 
 > mental models do you use to think about your work?  
+{: .challenge}
 
 However, there's another, greater challenge to creating mental models.  
 
@@ -366,25 +367,24 @@ and see the topic from their point of view.
 
 > ## Discussion: 
 > 
-> Why would we *not* assess people in advance?  
+> Name a pro and con of assessing learners as they sign up for a workshop.  
+{: .challenge} 
 
-> ## Why We Don't Assess During Registration --> un-callout
->
-> Unfortunately,
-> most formal educational systems train people to treat all assessment as summative,
-> i.e.,
-> to think of every interaction with a teacher as an evaluation,
-> rather than as a chance to shape instruction.
-> For example,
-> we use a short pre-assessment questionnaire to profile learners before workshops
-> to help instructors tune the pace and level of material.
-> We send this questionnaire out after people have registered
-> rather than making it part of the sign-up process
-> because when we did the latter,
-> many people concluded that since they couldn't answer all the questions,
-> they shouldn't enrol.
-> We were therefore scaring off many of the people we most wanted to help.
-{: .callout}
+## Why We Don't Assess During Registration --> un-callout
+
+Unfortunately,
+most formal educational systems train people to treat all assessment as summative,
+i.e.,
+to think of every interaction with a teacher as an evaluation,
+rather than as a chance to shape instruction.
+For example,
+we use a short pre-assessment questionnaire to profile learners before workshops
+to help instructors tune the pace and level of material.
+We send this questionnaire out after people have registered
+rather than making it part of the sign-up process because when we did the latter,
+many people concluded that since they couldn't answer all the questions,
+they shouldn't enrol.
+We were therefore scaring off many of the people we most wanted to help.
 
 ## Additional Exercises
 

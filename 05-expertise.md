@@ -27,7 +27,7 @@ describe concept maps, a tool that can help expose expertise.
 > you're an expert?  
 {: .challenge}
 
-An [earlier topic](02-models.html) described the key difference between novices and competent practitioners.
+An [earlier topic](03-models.html) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:
 competent practitioners can memorize a lot of trivia
@@ -97,7 +97,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> As [we discuss later](07-motivation.html),
+> As [we discuss later](09-motivation.html),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal

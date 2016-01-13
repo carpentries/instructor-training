@@ -31,9 +31,11 @@ SCF is now responsible for all aspects of Software Carpentry's operations.
 
 > ## History Lesson
 > 
-> For a more extended history of Software Carpentry, see: 
+> For an extended history of Software Carpentry, see: 
+>
 > * [the Software Carpentry website](http://software-carpentry.org/scf/history/)
 > * [this "Lessons Learned" paper](http://f1000research.com/articles/3-62/v1)
+{: .callout}
 
 In 2013, members of the Software Carpentry community identified a need in the 
 research community for training that was a) aimed at computational novices and 
