@@ -21,7 +21,7 @@ and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond
 the standardized Western classroom).
 
-Within the broad scope of educational pyschology,
+Within the broad scope of educational psychology,
 this training will take a narrow *cognitivist* perspective.
 We can afford to do this because most of our learners are
 physically safe, well fed, well educated, and highly motivated.
@@ -39,7 +39,7 @@ Much of the research in education has rightly focused on people without these pr
 > particularly those made possible by the Internet).
 >
 > The most interesting perspective from our point of view is
-> *[situation learning](https://en.wikipedia.org/wiki/Situated_learning)*,
+> *[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
 > which focuses on the way that
 > *[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
 > leads to people becoming members of
@@ -109,7 +109,7 @@ and trying to connect them to the underlying research.
 > For those,
 > researchers need to use qualitative methods,
 > such as [grounded theory](https://en.wikipedia.org/wiki/Grounded_theory).
-> Physical scientists are sometimes sceptical of such studies and their findings,
+> Physical scientists are sometimes skeptical of such studies and their findings,
 > but done rigorously,
 > they can provide actionable insights that quantitative methods cannot.
 {: .callout}

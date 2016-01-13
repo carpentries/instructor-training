@@ -13,7 +13,7 @@ subtitle: Faded Examples
 ## Battling Theories
 
 In 2006,
-Kirschner, Sweller, and Clark's published a paper titled
+Kirschner, Sweller, and Clark published a paper titled
 "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf)".
 In the abstract, they say:
 
@@ -89,7 +89,7 @@ Faded examples work because they introduce the problem-solving strategy piece by
 At each step,
 learners have one new problem to tackle.
 This is less intimidating than a blank screen or a blank sheet of paper.
-It also encourage learners to think about the similarities and differences between various approaches,
+It also encourages learners to think about the similarities and differences between various approaches,
 which helps create the linkages in the mental model that instructors want them to form.
 
 For example,

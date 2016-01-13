@@ -47,7 +47,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     but it's part of why world-famous researchers are often poor lecturers.
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
-    expert mathematicians' ability to switch effortlessly between algebraic and geomtric views of a problem.
+    expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
     (And this in turn is why asking programmers to debug during job interviews
@@ -59,7 +59,8 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> The J word (also sometimes called the passive dismissive adjective)
+> As [we discuss later](07-motivation.html),
+> the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
 > that the instructor thinks their problem is trivial
@@ -91,13 +92,13 @@ too slow to help us handle hungry lions and disgruntled family members.
 
 Evolution has therefore given us a second system called *short-term* or *working memory*.
 It is much faster,
-but also much slower:
+but also much smaller:
 in 1956,
 Miller estimated that the average adult's working memory could hold
 [7&plusmn;2 items](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
 for a few seconds
 before things started to drop out.
-This is why phone number are typically 7 or 8 digits long:
+This is why phone numbers are typically 7 or 8 digits long:
 back when phones had dials instead of keypads,
 that was the longest string of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
@@ -158,7 +159,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram](img/choosing-a-good-chart-09.pdf)
+> [this diagram](img/03/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
