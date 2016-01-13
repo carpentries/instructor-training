@@ -14,6 +14,11 @@ Elizabeth Green: *[Building a Better Teacher](http://www.amazon.com/Building-Bet
 :   A well-written look at why educational reforms in the past 50 years have mostly missed the mark,
     and what we should be doing instead.
 
+Mark Guzdial: *[Learner-Centered Design of Computing Education: Research on Computing for Everyone](http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/)*.
+:   A well-researched investigation of what it means to design computing courses for everyone,
+    not just people who are going to become professional programmers,
+    from one of the leading researchers in CS education.
+
 Doug Lemov: *[Teach Like a Champion 2.0](http://www.amazon.com/Teach-Like-Champion-2-0-Techniques/dp/1118901851/)*.
 :   Presents 62 classroom techniques drawn from intensive study of thousands of hours of video of good teachers in action.
 
