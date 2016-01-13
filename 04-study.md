@@ -12,10 +12,11 @@ subtitle: Lesson Study
 >     and will correctly explain why and how peer-to-peer lesson study can.
 {: .objectives} 
 
-Continuing with our theme of instructor-as performer, let's discuss some research 
+Continuing with our theme of instructor-as-performer, let's discuss some research 
 that suggests that improvement in educational outcomes *must*, at its core, be driven 
-by practice and communities of practice - that the tricks and techniques that make 
-teaching effective will develop into widespread effectiveness through a community of 
+by practice and communities of practice.  The tricks and techniques that make 
+teaching effective cannot be mandated from above, but will develop into widespread 
+effectiveness only as they are shared through a community of 
 teaching practice.  
 
 ## Lesson Study
@@ -207,37 +208,79 @@ and to get feedback.
 > did people notice?  What are some of your "tells"?  
 {: .challenge}
 
-Everyone has nervous things - not as noticeable as you think.  
+Everyone has nervous habits.  While these habits are often not as noticeable 
+as you would think, it's good to identify ways to keep yourself from pacing, 
+or fiddling with your jewelry, or not looking at the audience.  
+
 Mickey Mouse version of self.  
 (not done writing yet)
 
-Everyone will be different - why it's as important to recognize strengths as weaknesses
+But just like everyone has their own nervous habit, each person has their own 
+particular strength.  Musicians can be very different (but equally effective!) 
+in their performance of the same piece; similarly, teachers can present the same material 
+in very different ways.  The uniqueness of your teaching style can and should 
+be based on your strengths.  This is why it's just as important to identify strengths 
+as weaknesses when trying to improve your teaching.  It's good to know what you do well!  
 
 > ## Discussion
 > 
 > If you were a cartoon character teacher, who would you be?  What does that say about your 
-> teaching?  
+> teaching style?  
 {: .challenge}
 
 ## Feedback
 
+Sometimes it can be hard to receive negative feedback.  
+
+<img src=http://www.deathbulge.com/images/comics/155.jpg">
+[source](http://www.deathbulge.com/comics/155)
+
 > ## Discussion: 
 > 
-> Sometimes it can be hard to receive negative feedback?  What are some 
-> strategies to receive and handle feedback?  
+> What are some 
+> strategies you use to receive and handle feedback?  
 {: .challenge}
 
-How can you make the feedback 
-experience better?  etc. etc.
+Here is a list of some strategies to make sure that you can receive feedback 
+in a way that helps you improve: 
 
-Blog post stuff here.  Feedback blah blah blah
+* Mental habits matter!  Tell yourself the right things, like: 
+    * "It's not personal."
+    * "Look at the positives along with the negatives."
+	* etc.
+
+* Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.  
+
+* Choose your own questions.  I'm a big fan of feedback questions like "what is 
+	one thing I could have done as a teacher to make this lesson more 
+	effective?"  Or "If you could pick one thing from the lesson to go over 
+	again, what would it be?"  These questions (hopefully) 
+	reveal what didn't work in your teaching, but read as professional suggestions 
+	rather than personal judgments.  
+
+* Balance postive and negative feedback: 
+    * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
+    * ask for both types of feedback
+
+* Communicate expectations. If your teaching feedback is taking the form of an 
+	observation (and you're comfortable enough with the observer), tell 
+	that person how they can best communicate their feedback to you.  
+
+* Use a feedback translator.  This is one of my favorite ways to get feedback when 
+I have to read it right away (mid-lesson feedback during Software 
+Carpentry workshops, for example).  I have my fellow 
+instructor (or other trusted person in the room) read over all the feedback and give me 
+an executive summary.  It's much easier for me to hear "It sounds like most people 
+are following, so you could speed up" than to read several notes all saying, "this is 
+too slow" or "this is boring".  
 
 This is part of the reason for Data Carpentry and Software Carpentry's rule,
 "Never teach alone."
 Having another instructor in the classroom saves your voice
 (it's hard to talk for two days straight),
 but more importantly,
-it's a chance for instructors to learn from one another.
+it's a chance for instructors to learn from one another and be a supportive voice 
+in the room.  
 
 ## Additional Exercises
 
