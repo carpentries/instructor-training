@@ -278,7 +278,10 @@ in learning objectives written for each level.
 > Are the following learning objectives strong or weak?  How could 
 > you improve some of the weak objectives?  
 > 
-> (list of objectives here - have some ready)
+> * Learn what a Python library is, and what it can be used for.
+> * Be able to use "dplyr" and provide simple examples.
+> * Understand the importance of using version control.
+> * Understand data slicing/manipulation.  
 {: .challenge}
 
 ## Learner Profiles
