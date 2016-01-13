@@ -60,7 +60,6 @@ and talking as we go.
         but it's left out of most textbooks.
 
 > The typos are the pedagogy
-> 
 > - [Dana Brunson](https://twitter.com/danabrunson/status/684764295196876800)
 
 It takes a bit of practice for instructors to
