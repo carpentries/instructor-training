@@ -156,7 +156,7 @@ within the format of these lessons.
 ## Key Readings
 
 The best overview of research results in education and learning is
-Ambrose et al's *[How Learning Works: Seven Research-Based Principles for Smart Teaching](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*,
+Ambrose et al's *[How Learning Works](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*,
 which is also an excellent example of what secondary literature ought to look like.
 Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591)*
 is lighter but no less informative:
@@ -168,6 +168,12 @@ Guzdial's "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2
 and "[Top 10 Myths About Teaching Computer Science](papers/guzdial-10-myths-2015.pdf)",
 and Porter et al's "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)",
 both of which should be read before starting this class.
+Finally,
+De Bruyckere et al's one-page guide to
+[urban myths about learning and education](papers/de-bruyckere-urban-myths-2015.pdf)
+is a useful checklist:
+by the end of this training,
+you should know how and why to debunk each one.
 
 ## Challenges
 

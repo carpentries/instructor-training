@@ -145,6 +145,10 @@ in learning objectives written for each level.
   </tr>
 </table>
 
+Baume's guide to
+[writing and using good learning outcomes](papers/baume-learning-outcomes-2009.pdf)
+is a good longer discussion of these issues.
+
 ## Learner Profiles
 
 Another way to characterize the audience for a course is to write *learner profiles*.
