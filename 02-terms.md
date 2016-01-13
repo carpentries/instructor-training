@@ -151,10 +151,9 @@ through the two major categories
 It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
-The third strand of our course - practicing teaching and sharing our teaching 
-experience - is a way to start practicing and sharing our own pedagogical content 
-knowledge.  In [link to practices](07-practices.html) you'll see some of the 
-PCK of the Software and Data Carpentry communities at work.   Within
+When it comes to PCK, in [link to practices](08-practices.html) 
+you'll see some of the 
+PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
 techniques for that lesson's content.  
