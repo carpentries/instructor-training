@@ -24,15 +24,21 @@ question.
 
 Example / discussion -> talk to Jonah
 
-What exactly do we mean by a mental model?
-One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
-Atoms aren't actually balls,
-and their bonds aren't actually springs,
+Effective learning is facilitated by the creation of a mental model of the domain.  What 
+exactly do we mean by a mental model?  One example is the ball-and-spring model 
+of molecules that most of us encountered in high school chemistry. Atoms aren't 
+actually balls, and their bonds aren't actually springs,
 but the model does a good job of helping people reason about chemical compounds and their reactions.
 
 > ## Discussion
 >
-> what mental model has been provided for thinking about the structure 
+> What is your primary research domain?  What is one mental model you use to frame 
+> and understand your work?  
+{: .challenge}
+
+> ## Discussion
+>
+> What mental model has been provided for thinking about the structure 
 > of this course and the act of teaching?  
 {: .challenge}
 
@@ -48,7 +54,7 @@ that model has three stages:
 *   A *novice* is someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
     More precisely,
-    a novice has not yet built a *mental model* of the domain.
+    a novice has not yet built a mental model of the domain.
     They therefore reason by analogy and guesswork,
     borrowing bits and pieces of their mental models of other domains
     which seem superficially similar.
@@ -100,7 +106,7 @@ and without which people cannot understand how to use commands
 > ## Discussion
 >
 > Define the difference between a manual / tutorial.  Which is more appropriate 
-> for novices?  for competent practitioners?  
+> for novices?  For competent practitioners?  
 {: .challenge}
 
 > ## Different Kinds of Lessons
@@ -135,9 +141,7 @@ can be used as a model.
 > What are some mental models you use in the classroom to teach computing concepts?  What 
 > mental models do you use to think about your work?  
 
-However, there's another, greater challenge to creating mental models.  Research 
-shows (?) that an incorrect model can impede learning more than a non-existent 
-model.  
+However, there's another, greater challenge to creating mental models.  
 
 > It ain't what you don't know that gets you into trouble.
 > It's what you know for sure that just ain't so.
@@ -230,8 +234,8 @@ but each of the other answers provides valuable insight:
 
 > ## Discussion 
 >
-> What is the misconception associated with each wrong answer?  Ask 
-> three different people, one for each wrong answer.  
+> What is the misconception associated with each wrong answer?  
+{: .challenge}
 
 *   If the child answers 32, she is throwing away the carry completely.
 *   If she answers 312, she knows that she can't just discard the carried '1',
@@ -255,6 +259,7 @@ what to explain to that particular learner next.
 > As the instructor, what should you do if most of the class votes for one 
 > of the wrong answers?  For the right answer?  What if the votes are evenly 
 > spread between options?  
+{: .challenge}
 
 If the majority of the class votes for a single wrong answer, you should go back 
 and work on correcting that particular misconception.  If most of the class votes
@@ -320,7 +325,7 @@ in which you were going to explain something that your learners already know.
 >
 > Create a multiple choice question related to a topic you intend to teach
 > and explain the diagnostic power of each its distractors,
-> i.e., what misconception is each distractor meant to identify?
+> i.e., what misconception is each distractor meant to identify?  
 {: .challenge}
 
 > ## A Note on MCQ Design
@@ -337,15 +342,6 @@ in which you were going to explain something that your learners already know.
 >     or ask colleagues about their experiences.
 {: .callout}
 
-
-Designing an MCQ with plausible distractors is useful
-even if it is never used in class
-because it forces the instructor to think about the learners' mental models
-and how they might be broken ---
-in short,
-to put themselves into the learner's head
-and see the topic from their point of view.
-
 > ## Concept Inventories
 >
 > The [Force Concept Inventory](https://en.wikipedia.org/wiki/Force_Concept_Inventory)
@@ -359,6 +355,14 @@ and see the topic from their point of view.
 > and students' ability to search for answers on the internet
 > is an ever-increasing threat to its validity.
 {: .callout}
+
+Designing an MCQ with plausible distractors is useful
+even if it is never used in class
+because it forces the instructor to think about the learners' mental models
+and how they might be broken ---
+in short,
+to put themselves into the learner's head
+and see the topic from their point of view.
 
 > ## Discussion: 
 > 
