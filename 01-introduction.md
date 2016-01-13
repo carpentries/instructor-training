@@ -51,7 +51,7 @@ Much of the research in education has rightly focused on people without these pr
 While what we know about educational psychology can constrain teaching,
 it doesn't dictate it.
 In particular,
-there are often several possible approaches to teaching
+there are often several plausible approaches to teaching
 that are consistent with what we know about how brains learn.
 In order to decide between them,
 we also need to explore *instructional design*,
