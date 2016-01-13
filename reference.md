@@ -29,11 +29,17 @@ Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can
 
 ## Papers
 
+Baume: "[Writing and Using Good Learning Outcomes](papers/baume-learning-outcomes-2009.pdf)".
+:   A useful detailed guide to constructing useful learning outcomes.
+
 Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)".
 :   An early report on peer instruction and its effects in the classroom.
 
 Guzdial: "[Exploring Hypotheses about Media Computation](papers/guzdial-mediacomp-retrospective-2013.pdf)".
 :   A look back on 10 years of media computation research.
+
+De Bruyckere et al: "[Urban Myths About Learning and Education](papers/de-bruyckere-urban-myths-2015.pdf)".
+:   A one-page summary drawn from their book of the same name.
 
 Guzdial: "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2011.pdf)".
 :   A chapter from
@@ -51,6 +57,9 @@ Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning](p
 Porter et al: "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)".
 :   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
     significantly improve outcomes in introductory programming courses.
+
+Wiggins and McTighe: "[UbD in a Nutshell](papers/wiggins-mctighe-ubd-nutshell.pdf)".
+:   A four-page summary of the authors' take on reverse instructional design.
 
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)".
 :   Describes and justifies the practices that mature scientific software developers ought to use.
