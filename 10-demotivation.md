@@ -15,9 +15,7 @@ subtitle: Demotivation
 > *   Learner will be able to do an accessibility test of a workshop venue.
 {: .objectives}
 
-## Demotivation
-
-As noted in [the introduction](01-introduction.html),
+As noted in [the introduction](02-terms.html),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
@@ -25,20 +23,22 @@ Our challenge is therefore not demotivating them.
 > ## Personal Story About Demotivation
 >
 > Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.
+> that demotivated you, and explain what could have been done afterward to fix it.  
+> After everyone has completed, draw out common demotivational themes.  
 {: .challenge}
 
+## Demotivation
+
 A few common demotivators are *indifference*, *unfairness*, and *elitism*.  
-(I'd like to see more consensus here!  What do people think?  )  
 If learners believe that the instructor or the educational system doesn't care about them or the lesson,
 they won't care either.
 And if people believe the class is unfair,
 they will also be demotivated,
 even if it is unfair in their favor
 (because consciously or unconsciously they will worry that
-they will some day find themselves in the group on the losing end).  
-Finally, a "holier-than-thou" attitude from an instructor is a quick way 
-to alienate a classroom.  
+they will some day find themselves in the group on the losing end).  Finally, 
+a "holier-than-thou" or contemptuous attitude from an instructor is a quick way 
+to alienate a classroom and cause learners to tune out.  
 
 > ## Things You Shouldn't Do in a Workshop
 >
@@ -185,7 +185,6 @@ for teaching about and dealing with imposter syndrome.
 > they can work together to implement what they've learned.
 {: .callout}
 
-
 ### Mindset
 
 Learners can be demotivated in subtler ways as well.
@@ -210,7 +209,9 @@ she is likely to develop a fixed mindset.
 If on the other hand she is told,
 "You did a good job, you must have worked very hard,"
 she is likely to develop a growth mindset,
-and subsequently achieve more.  
+and subsequently achieve more.  Studies have also shown that 
+the simple action of telling learners about the different mindsets 
+before a course can improve learning outcomes for the whole group.  
 
 ## Accessibility
 
@@ -229,7 +230,7 @@ it *is* possible to get a good working structure in place
 without any specific knowledge of what specific disabilities people might have.
 Having at least some accommodations prepared in advance also makes it clear that
 hosts and instructors care enough to have thought about problems in advance,
-and that any additional concerns are likely to be addressed.
+and that any additional concerns are likely to be addressed.  
 
 > ## It Helps Everyone
 >
@@ -268,6 +269,23 @@ is to *involve people with disabilities in decision-making*.
 Our mailing lists are a good place to ask for advice,
 and updates to [our accessibility checklist](http://software-carpentry.org/workshops/checklists/accessibility.html)
 are always welcome.
+
+> ## Every Little Bit Counts
+> 
+> Christina says: <i>My roommate does a lot of work with disability and accessibility, and 
+> looking at her work I've also been overwhelmed at all the different 
+> ways I could make my instruction more accessible.  
+> My approach (more or less) has been: </i>
+> - <i>Don't do everything at once.  I tell SWC workshop attendees that 
+> they shouldn't try to adopt **all** the best practices or tools from a workshop 
+> in one go, but gradually work things in at a rate they can manage.  
+> In the same way, I'm trying to gradually build in accessibility "habits" 
+> when I prepare for workshops; adding something new each workshop.  
+> - <i>Do the easy things!  There are plenty of ways to make workshops more 
+> accessible that are both easy and don't create extra cognitive load for 
+> anyone: font choices, general text size, checking in advance that your 
+> room is accessible via an elevator or ramp, etc.  There's no shame in starting small. </i>
+{: .callout} 
 
 ## Additional Exercises
 
