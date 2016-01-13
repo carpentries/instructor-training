@@ -60,6 +60,7 @@ and talking as we go.
         but it's left out of most textbooks.
 
 > The typos are the pedagogy
+> 
 > - [Dana Brunson](https://twitter.com/danabrunson/status/684764295196876800)
 
 It takes a bit of practice for instructors to
@@ -137,8 +138,7 @@ and hope that they'll understand.
 ## Other Practices
 
 *Open with the [code of conduct](http://software-carpentry.org/conduct.html).*
-:   As mentioned in the [previous section](07-motivation.html),
-    Software Carpentry and Data Carpentry share a code of conduct,
+:   Software Carpentry and Data Carpentry share a code of conduct,
     and participants in our workshops are required to abide by it.
     Pointing people at it during registration,
     and reminding them of it at the start of the workshop,

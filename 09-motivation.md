@@ -42,7 +42,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot](03-maps.html).
+> please revisit the discussion of [expert blind spot](05-expertise.html).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -109,7 +109,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction](01-introduction.html),
+> As we said in [the introduction](02-terms.html),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.  For one instructor's motivation, 

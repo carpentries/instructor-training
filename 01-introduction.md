@@ -24,6 +24,7 @@ a different path -- we will think of the potential instructor as a beginning per
 actor, musician, dancer, or similar performing artist.  
 
 To become an accomplished performer, one must do the following:  
+
 * Theory: Learn about your discipline, make choices about your approach, 
 choose drills, make a plan to train or practice
 * Practice: Repeat the desired skill over and over, get feedback from other 
