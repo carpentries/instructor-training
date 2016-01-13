@@ -75,6 +75,13 @@ In the end, effective teaching often depends on what the teacher knows. The thin
 
 This training course focuses on general pedagogical knowledge through the two major categories (educational psychology and instructional design) described above. It assumes you know as much as you need to about basic programming (our content knowledge).
   
+## Enthusiasm
+
+One thing that makes it hard to evaluate a learning approach is the variability in the enthusiasm of the instructor.
+
+When an instructor is enthusiastic about teaching and engaged, learning outcomes are much improved, often independent of the approach. 
+
+In *Teaching as a performance art* we'll talk more about this. 
 
 ## Challenges
 
