@@ -273,6 +273,11 @@ in learning objectives written for each level.
   </tr>
 </table>
 
+Baume's guide to
+[writing and using good learning outcomes](papers/baume-learning-outcomes-2009.pdf)
+is a good longer discussion of these issues.
+
+
 > ## Improving Objectives
 >
 > Are the following learning objectives strong or weak?  How could 
@@ -283,6 +288,7 @@ in learning objectives written for each level.
 > * Understand the importance of using version control.
 > * Understand data slicing/manipulation.  
 {: .challenge}
+
 
 ## Learner Profiles
 
@@ -323,6 +329,19 @@ A learner profile for Software Carpentry might be:
 > and how will this training help them?
 > Try to be as specific as possible.
 {: .challenge}
+
+> ## Pseudoscience
+>
+> One [well-known scheme](https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities)
+> characterizes learners as visual, auditory, or kinesthetic
+> according to whether they like to see things, hear things, or do things.
+> This scheme is easy to understand,
+> but are [almost certainly false](http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/):
+> what little evidence that does exist for it is very weak.
+> Unfortunately,
+> that hasn't stopped a large number of companies from marketing products based on it
+> to parents and school boards.
+{: .callout}
 
 ## Additional Exercises
 
