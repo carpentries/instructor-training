@@ -22,8 +22,6 @@ question.
 
 ## Cognitive Development and Mental Models
 
-Example / discussion -> talk to Jonah
-
 Effective learning is facilitated by the creation of a mental model of the domain.  What 
 exactly do we mean by a mental model?  One example is the ball-and-spring model 
 of molecules that most of us encountered in high school chemistry. Atoms aren't 

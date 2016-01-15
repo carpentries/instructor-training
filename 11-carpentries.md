@@ -178,3 +178,9 @@ impact.
 > that you think would pass the "skeptical chair" test.
 {: .challenge}
 
+> ## Present a Pitch
+> 
+> In small groups, take turns presenting a two minute "elevator pitch" for a 
+> Software or Data Carpentry workshop, as if you were presenting to your boss, 
+> department chair, or similar person in leadership.   
+{: .challenge}
