@@ -1,133 +1,44 @@
 ---
 layout: page
-subtitle: Motivation and Demotivation
+subtitle: Demotivation
 ---
+
+> ## Motivating Question
+> What demotivates learners and/or instructors?  
+{: .objectives}
+
 > ## Learning Objectives
->
-> *   Learner will correctly classify skills according to time required to master them
->     and usefulness once mastered.
-> *   Learner will correctly identify the motivational strategies used in a short lesson.
+> 
 > *   Learner will correctly explain the difference between fixed mindset and growth mindset
 >     and its implications for classroom performance.
 > *   Learner will correctly explain stereotype threat and its implications for classroom performance.
 > *   Learner will be able to do an accessibility test of a workshop venue.
 {: .objectives}
 
-## Motivation
-
-People learn best when they care about the topic and believe they can master it.
-This presents us with a problem
-because most scientists don't want to program:
-they want to do science,
-and rightly regarding programming as a tax they have to pay in order to do so.
-In addition,
-their early experiences with programming are often demoralizing,
-and believing that something will be hard to learn is a self-fulfilling prophecy.
-
-Imagine a grid whose axes are labelled "mean time to master" and "usefulness once mastered".
-Everything that's quick to master, and immediately useful should be taught first;
-things in the opposite corner
-that are hard to learn and have little near-term application
-don't belong in this course.
-
-> ## Actual Time
->
-> Any useful estimate of how long something takes to master must take into account
-> how frequent failures are
-> and how much time is lost to them.
-> For example,
-> editing a text file seems like a simple task,
-> but most graphical editors save things to the user's desktop or home directory.
-> If people need to run shell commands on the files they've edited,
-> a substantial fraction won't be able to navigate to the right directory without help.
-> If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot](03-maps.html).
-{: .callout}
-
-Many of the foundational concepts of computer science,
-such as computability,
-inhabit the "useful but hard to learn" corner of the grid described above.
-This doesn't mean that they aren't worth learning,
-but if our aim is to convince people that they *can* learn this stuff,
-and that doing so will help them do more science faster,
-they are less compelling than things like automating repetitive tasks.
-
-We have therefore adopted a "teach most immediately useful first" approach.
-We try to have learners do something that *they* think is useful in their daily work
-within 15 minutes of starting each lesson.
-This not only motivates them,
-it also helps build their confidence in us,
-so that if it takes longer to get to the payoff of a later topic,
-they'll stick with us.
-
-Perhaps the best-studied use of this idea is
-the *[media computation](papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
-developed by Guzdial and Ericson at Georgia Tech.
-Instead of printing "hello world" or summing the first ten integers,
-their students' first program opens an image,
-resizes it to create at thumbnail,
-and saves the result.
-This is an *authentic task*,
-i.e.,
-something that learners believe they would actually do in real life.
-It is also *tangible*:
-if the image comes out the wrong size,
-learners have a concrete starting point for debugging.
-
-## Strategies for Motivating Learners
-
-*[How Learning Works](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*
-contains this list of evidence-based methods to motivate learners.
-None of them are surprising ---
-it's hard to imagine someone saying that we *shouldn't* identify and reward what we value ---
-but it's useful to check lessons against these points
-to make sure they're doing at least a few of these things.
-
-*   Strategies to establish value:
-    1.  Connect the material to students' interests.
-    2.  Provide authentic, real-world tasks.
-    3.  Show relevance to students' current academic lives.
-    4.  Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5.  Identify and reward what you value.
-    6.  Show your own passion and enthusiasm for the discipline.
-*   Strategies to build positive expectations:
-    1.  Ensure alignment of objectives, assessments, and instructional strategies.
-    2.  Identify an appropriate level of challenge.
-    3.  Create assignments that provide the appropriate level of challenge.
-    4.  Provide early success opportunities.
-    5.  Articulate your expectations.
-    6.  Provide rubrics.
-    7.  Provide targeted feedback.
-    8.  Be fair.
-    9.  Educate students about the ways we explain success and failure.
-    10. Describe effective study strategies.
-*   Strategies for self-efficacy:
-    1.  Provide flexibility and control.
-    2.  Give students an opportunity to reflect.
-
-> ## Not Just Learners
->
-> What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction](01-introduction.html),
-> learners respond to an instructor's enthusiasm,
-> and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.
-
-## Demotivation
-
-As noted in [the introduction](01-introduction.html),
+As noted in [the introduction](02-terms.html),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
 
-The two biggest demotivators are *indifference* and *unfairness*.
+> ## Personal Story About Demotivation
+>
+> Write a paragraph or two about something that happened in your educational career
+> that demotivated you, and explain what could have been done afterward to fix it.  
+> After everyone has completed, draw out common demotivational themes.  
+{: .challenge}
+
+## Demotivation
+
+A few common demotivators are *indifference*, *unfairness*, and *elitism*.  
 If learners believe that the instructor or the educational system doesn't care about them or the lesson,
 they won't care either.
 And if people believe the class is unfair,
 they will also be demotivated,
 even if it is unfair in their favor
 (because consciously or unconsciously they will worry that
-they will some day find themselves in the group on the losing end).
+they will some day find themselves in the group on the losing end).  Finally, 
+a "holier-than-thou" or contemptuous attitude from an instructor is a quick way 
+to alienate a classroom and cause learners to tune out.  
 
 > ## Things You Shouldn't Do in a Workshop
 >
@@ -162,32 +73,6 @@ they will some day find themselves in the group on the losing end).
 > tells people a great deal about our values
 > and about what kind of learning experience they can expect.
 {: .callout}
-
-### Mindset
-
-Learners can be demotivated in subtler ways as well.
-For example,
-Dweck and others have studied the differences of
-[fixed mindset and growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset).
-If people believe that competence in some area is intrinsic
-(i.e., that you either "have the gene" for it or you don't),
-*everyone* does worse, including the supposedly advantaged.
-The reason is that if they don't get it at first,
-they figure they just don't have that aptitude,
-which biases future performance.
-On the other hand,
-if people believe that a skill is learned and can be improved,
-they do better on average.
-
-A person's mindset can be shaped by subtle cues.
-For example,
-if a child is told,
-"You did a good job, you must be very smart,"
-she is likely to develop a fixed mindset.
-If on the other hand she is told,
-"You did a good job, you must have worked very hard,"
-she is likely to develop a growth mindset,
-and subsequently achieve more.
 
 ### Stereotype Threat
 
@@ -300,6 +185,34 @@ for teaching about and dealing with imposter syndrome.
 > they can work together to implement what they've learned.
 {: .callout}
 
+### Mindset
+
+Learners can be demotivated in subtler ways as well.
+For example,
+Dweck and others have studied the differences of
+[fixed mindset and growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset).
+If people believe that competence in some area is intrinsic
+(i.e., that you either "have the gene" for it or you don't),
+*everyone* does worse, including the supposedly advantaged.
+The reason is that if they don't get it at first,
+they figure they just don't have that aptitude,
+which biases future performance.
+On the other hand,
+if people believe that a skill is learned and can be improved,
+they do better on average.  
+
+A person's mindset can be shaped by subtle cues.
+For example,
+if a child is told,
+"You did a good job, you must be very smart,"
+she is likely to develop a fixed mindset.
+If on the other hand she is told,
+"You did a good job, you must have worked very hard,"
+she is likely to develop a growth mindset,
+and subsequently achieve more.  Studies have also shown that 
+the simple action of telling learners about the different mindsets 
+before a course can improve learning outcomes for the whole group.  
+
 ## Accessibility
 
 Not providing equal access to lessons and exercises
@@ -317,7 +230,7 @@ it *is* possible to get a good working structure in place
 without any specific knowledge of what specific disabilities people might have.
 Having at least some accommodations prepared in advance also makes it clear that
 hosts and instructors care enough to have thought about problems in advance,
-and that any additional concerns are likely to be addressed.
+and that any additional concerns are likely to be addressed.  
 
 > ## It Helps Everyone
 >
@@ -333,6 +246,7 @@ and that any additional concerns are likely to be addressed.
 > doesn't just give screen readers something to say:
 > it also makes the images more findable
 > by exposing their content to search engines.
+{: .callout}
 
 The first step is to know what you need to do.
 The [W3C Accessibility Initiative's checklist for presentations](http://www.w3.org/WAI/training/accessible)
@@ -357,28 +271,25 @@ Our mailing lists are a good place to ask for advice,
 and updates to [our accessibility checklist](http://software-carpentry.org/workshops/checklists/accessibility.html)
 are always welcome.
 
-## Challenges
+> ## Every Little Bit Counts
+> 
+> Christina says: <i>My roommate does a lot of work with disability and accessibility, and 
+> looking at her work I've also been overwhelmed at all the different 
+> ways I could make my instruction more accessible.  
+> My approach (more or less) has been: </i>
+> 
+> * <i>Don't do everything at once.  I tell SWC workshop attendees that 
+> they shouldn't try to adopt **all** the best practices or tools from a workshop 
+> in one go, but gradually work things in at a rate they can manage.  
+> In the same way, I'm trying to gradually build in accessibility "habits" 
+> when I prepare for workshops; adding something new each workshop.  
+> * <i>Do the easy things!  There are plenty of ways to make workshops more 
+> accessible that are both easy and don't create extra cognitive load for 
+> anyone: font choices, general text size, checking in advance that your 
+> room is accessible via an elevator or ramp, etc.  There's no shame in starting small. </i>
+{: .callout} 
 
-> ## Authentic Tasks
->
-> Describe something you do in your daily work that uses one or more of the skills we teach,
-> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> Where does it fit on the 2x2 plot of "time to master" and "usefulness"?
-{: .challenge}
-
-> ## Motivational Checklist
->
-> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
-> to the motivational checklist presented earlier.
-> What is the lesson doing (if anything) to engage learners
-> and convince them its material is worth mastering?
-{: .challenge}
-
-> ## Personal Story About Demotivation
->
-> Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.
-{: .challenge}
+## Additional Exercises
 
 > ## Thought Record
 >
@@ -404,3 +315,4 @@ are always welcome.
 > And did you notice that the first sentence in this challenge
 > assumed you could actually walk?
 {: .challenge}
+
