@@ -232,7 +232,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 Sometimes it can be hard to receive negative feedback.  
 
-![Feedback Feelings](img/04/deathbulge_jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings](img/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 > ## Discussion: 
 > 
