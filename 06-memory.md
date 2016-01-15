@@ -1,7 +1,11 @@
 ---
 layout: page
-subtitle: Faded Examples
+subtitle: Managing Memory
 ---
+> ## Motivating Question
+> How is memory a limiting factor in learning?   
+{: .objectives}
+
 > ## Learning Objectives
 >
 > *   Learner can correctly explain the basis and implications of cognitive load theory
@@ -9,6 +13,88 @@ subtitle: Faded Examples
 > *   Learner can construct faded examples for use as classroom exercises
 >     and explain the problem-solving strategies those examples illustrate.
 {: .objectives}
+
+This topic is yet another variation on a theme from our previous topics - how do 
+we keep ourselves from overwhelming novice learners?  We've discussed the need to 
+give students [mental models](03-models.html) to give structure to their knowledge, 
+and the importance of unpacking our own expertise in order to help [make connections]
+(05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
+to say about managing teaching information.  In particular, we'll be looking at the 
+limits of human mind and memory, and how that may impact learning.  
+
+## Plus or Minus Two
+
+> ## Faces and Names
+> 
+> Add an exercise here where people are shown a bunch of faces/names 
+> (or similar list of random facts) and 
+> then have to name as many as they can remember?  
+{: .challenge}
+
+While the graph model of knowledge is inaccurate but useful,
+another simple model of knowledge has a sound physical basis.
+As a rough approximation,
+human memory can be divided into two layers.
+The first is called *long-term* or *persistent memory*.
+It is where we store things like our password,
+our home address,
+and what the clown did at our eighth birthday party that scared us so much.
+It is essentially unbounded
+(barring injury or disease, we will die before it fills up)
+but it is slow to access ---
+too slow to help us handle hungry lions and disgruntled family members.
+
+Evolution has therefore given us a second system called *short-term* or *working memory*.
+It is much faster,
+but also much smaller:
+in 1956,
+Miller estimated that the average adult's working memory could hold
+[7&plusmn;2 items](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+for a few seconds
+before things started to drop out.
+This is why phone numbers are typically 7 or 8 digits long:
+back when phones had dials instead of keypads,
+that was the longest string of numbers most adults could remember accurately
+for as long as it took the dial to go around and around.
+It's also why sports teams tend to have about half a dozen members,
+or be broken down into smaller groups (such as the forwards and backs in rugby).
+
+> ## Chunking
+>
+> Our minds can store larger numbers of facts in short-term memory by creating *chunks*.
+> For example, most of us have written our names so often
+> that we do not remember them as a sequence of letters,
+> but as a single fact instead.
+> Similarly, the pattern made by five spots on cards or dice is remembered as a whole
+> rather than as five separate pieces of information.
+> Chunks allow us to manage larger problems,
+> but can also mislead us if we mis-identify something,
+> i.e.,
+> see it as something it isn't.
+{: .callout}
+
+7&plusmn;2 is probably the most important number in programming.
+When someone is trying to write the next line of a program,
+or understand what's already there,
+she needs to keep a bunch of arbitrary facts straight in her head:
+what does this variable represent,
+what value does it currently hold,
+etc.
+If the number of facts grows too large,
+her mental model of the program comes crashing down
+(something we have all experienced).
+
+7&plusmn;2 is also the most important number in teaching.
+An instructor cannot push information directly into a learner's long-term memory.
+Instead,
+whatever she presents is first stored in the learner's short-term memory,
+and is only transferred to long-term memory after it has been held there and reinforced.
+If we present too much information too quickly,
+the new will displace the old before it has a chance to settle.
+
+This is why it's very important to use a technique like concept mapping a lesson 
+before teaching it - an instructor needs to identify just how many pieces of 
+separate information will need to be "stored" in memory as part of the lesson.  
 
 ## Battling Theories
 
@@ -146,7 +232,11 @@ in which the results of processing items from a collection
 are repeatedly added to a single variable in some way
 to create the final result.
 
-## Challenges
+## Parson's Problems
+
+Add something here?  
+
+## Additional Exercises
 
 > ## Faded Examples
 >
