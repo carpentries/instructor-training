@@ -42,15 +42,32 @@ title: Checklist
 
 ## After the Event
 
-1.  Email attendees about the final checkout process.
-    *   Choose one of the core lessons (or one from each Carpentry if qualifying for both).
-    *   Submit an exercise as a pull request (Software Carpentry) or to a Google Doc (Data Carpentry).
-    *   Take part in an hour-long discussion session about that lesson.
-    *   Teach a 5-minute segment of that lesson chosen on the day by the trainers.
-        *   So trainees have to prepare the whole lesson.
-    *   Trainers do not examine their own trainees.
-        *   Having them examine each other's helps maintain consistency of curriculum and standards.
+1.  Email attendees about the final checkout process (described below).
 1.  Recruit experienced instructors to lead group lesson discussions.
 1.  Schedule group lesson discussions.
+1.  Oversee final demonstration lessons.
 1.  Badge instructors in AMY.
+1.  Create and send PDF certificates.
+1.  Ask new instructors to fill in their [instructor profile][profile]
+    and send a photo and a three-line bio for the website.
 1.  Debrief with the head of instructor training.
+
+## Checkout Procedure
+
+1.  Trainee chooses one of the core lessons from each Carpentry she is qualifying for.
+1.  Trainee submits an exercise as a pull request (Software Carpentry) or to a Google Doc (Data Carpentry).
+    *   Exercise does not have to be accepted in order for trainee to proceed.
+1.  Trainee takes part in an hour-long discussion session about that lesson.
+    *   If the discussion leader feels that the trainee has not adequately prepared for the discussion session,
+        she may require the trainee to come back and attend another one.
+1.  Trainee teaches a 5-minute segment from her chosen lesson.
+    *   Segment is chosen at the time of examination by the trainer overseeing the session.
+    *   This ensures that trainees will prepare the whole lesson.
+    *   If the trainer feels the trainee is not yet ready to teach in front of a class,
+        she may require the trainee to try again.
+
+Trainers do not examine their own trainees:
+having them examine each other's helps balance load
+and maintain consistency of curriculum and standards.
+
+[profile]: https://amy.software-carpentry.org/workshops/update_profile/
