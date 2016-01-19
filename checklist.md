@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /checklists/training/
 title: Checklist
 ---
 ## Scheduling the Event
