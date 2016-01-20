@@ -18,7 +18,7 @@ you to learn more.
 > so that they are familiar with our teaching techniques.
 
 Please note that all participants in this course are required to abide
-by our [code of conduct](http://software-carpentry.org/conduct.html).
+by our [code of conduct](conduct.html).
 
 ## Topics
 
