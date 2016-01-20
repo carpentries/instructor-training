@@ -10,7 +10,9 @@
 {% include header.html %}
   <div class="row">
     <div class="medium-12 columns">
-        <h1><a href="{{site.baseurl}}/">{{ site.lesson_title }}</a></h1>
+      <h1>
+        <a href="{{site.baseurl}}/">{{ site.lesson_title }}</a>{% if page.subtitle %}: {{ page.subtitle }}{% endif %}
+      </h1>
       {{ content }}
     </div>
   </div>
