@@ -6,7 +6,22 @@ student-driven, but some groups may be quieter than others.  This is
 by no means an exhaustive list: other subjects are bound to come up,
 and additions from discussion leaders are very welcome.
 
-## Beforehand:
+The purpose of the discussion session is for students to ask questions
+about the lesson materials in preparation for their final checkout.
+The discussion lead's role is to give context to the lesson material,
+as each lesson goes through many revisions and discussions that cannot
+be easily seen in the finished product.
+
+**Note:** trainees do **not** do their 5-minute demonstration lessons
+during the discussion sessions.  Instead, once they have completed the
+discussion to the leader's satisfaction, their names should be
+forwarded to their trainer so that the demonstration lesson can be
+scheduled.
+
+## Before:
+
+*   A signup Etherpad will be sent out to trainees, who choose their
+    subject and sign up for a session.
 
 *   All meetings should use the Etherpad that is being used to register
     for discussion sessions, so that all comments and feedback are
@@ -25,20 +40,17 @@ and additions from discussion leaders are very welcome.
 
 *   Explain how the checkout procedure itself goes:
 
-    *   A signup Etherpad will be sent out.  Choose your subject and
-        sign up for a session.
+    *   After the trainee has completed the discussion session to the discussion leader's satisfaction,
+        the leader will forward her name to the trainer.
 
-    *   Around 5 people gather on a hangout with one of the trainers.
-        Each person will have 5 minutes to present a section of the
-        material.  The trainer will dictate which material from the
-        lesson the student is to present.
+    *   The trainer will then schedule a 5-minute slot for a demonstration lesson
+        and communicate it to the trainee.
 
-    *   Please note that the student is expected to be able to teach
-        with little to no reference to the material during these 5
-        minutes.
-
-    *   After the presentation, there will be 5 minutes for feedback
-        from the trainer and the other participants.
+    *   In that session,
+        the trainee will be asked to teach 5 minutes from her chosen lesson
+        selected by the trainer.
+        The trainee will *not* know in advance which 5 minutes she will be asked to teach
+        (which encourages her to prepare the entire lesson).
 
     *   Everyone will be notified afterwards by email whether they
         passed or not.
