@@ -289,7 +289,7 @@ are always welcome.
 > room is accessible via an elevator or ramp, etc.  There's no shame in starting small. </i>
 {: .callout} 
 
-## Additional Exercises
+## Exercises
 
 > ## Thought Record
 >

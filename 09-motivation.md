@@ -233,7 +233,7 @@ penny by penny,
 vote by vote,
 and one lesson at a time.
 
-## Additional Exercises
+## Exercises
 
 > ## Authentic Tasks
 >

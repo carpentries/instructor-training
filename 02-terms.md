@@ -186,7 +186,7 @@ and "[Top 10 Myths About Teaching Computer Science](papers/guzdial-10-myths-2015
 and Porter et al's "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)",
 both of which should be read before starting this class.
 
-## Additional Exercises
+## Exercises
 
 > ## Three Kinds of Knowledge
 >
