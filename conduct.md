@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 subtitle: Code of Conduct
 ---
 [Software Carpentry][swc] and [Data Carpentry][dc] workshops are

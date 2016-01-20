@@ -1,4 +1,3 @@
-
 I have the following two sentences written above my desk: 
 
 Probe: Ask questions - what is someone's *real* problem?  

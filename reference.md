@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Lesson Title
 subtitle: Reference
 ---

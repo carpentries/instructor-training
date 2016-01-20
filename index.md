@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Instructor Training
 ---
 This short training course introduces the basics of educational
@@ -39,5 +39,5 @@ by our [code of conduct](conduct.html).
 
 *   [Reference Guide](reference.html)
 *   [Next Steps](discussion.html)
-*   [Trainer's Guide](trainers.html)
+*   [Instructors' Guide](instructors.html)
 *   [Checklist](checklist.html)

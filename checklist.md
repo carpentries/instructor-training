@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: Checklist
 ---
 ## Scheduling the Event

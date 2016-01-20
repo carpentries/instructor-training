@@ -1,6 +1,6 @@
 ---
-layout: page
-subtitle: Trainer's Guide
+layout: lesson
+subtitle: Instructors' Guide
 ---
 ## Logistics
 

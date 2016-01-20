@@ -1,7 +1,3 @@
----
-layout: page
-subtitle: Diversity and Inclusiveness
----
 Allyship Tips
 =============
 
