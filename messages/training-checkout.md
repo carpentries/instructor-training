@@ -1,6 +1,7 @@
 Hi everyone,
 
-Thanks again for taking part in Software and Data Carpentry instructor training.  In order to wrap up, we would like you to do the following:
+Thanks again for taking part in Software and Data Carpentry instructor training.
+In order to wrap up, we would like you to do the following:
 
 1. If you want to teach Software Carpentry, pick one of the core
    lessons (list at the bottom of this message) and familiarize
