@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 subtitle: Lesson Study
 ---
 > ## Motivating Question

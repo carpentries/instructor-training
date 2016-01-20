@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 subtitle: Carpentry Teaching Practices
 ---
 > ## Motivating Question

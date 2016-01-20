@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 subtitle: Managing Memory
 ---
 > ## Motivating Question
