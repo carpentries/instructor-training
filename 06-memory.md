@@ -236,7 +236,7 @@ to create the final result.
 
 Add something here?  
 
-## Additional Exercises
+## Exercises
 
 > ## Faded Examples
 >

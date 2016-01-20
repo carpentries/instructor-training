@@ -384,7 +384,7 @@ many people concluded that since they couldn't answer all the questions,
 they shouldn't enrol.
 We were therefore scaring off many of the people we most wanted to help.
 
-## Additional Exercises
+## Exercises
 
 > ## Confronting the Contradiction
 >

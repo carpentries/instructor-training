@@ -281,7 +281,7 @@ but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice 
 in the room.  
 
-## Additional Exercises
+## Exercises
 
 > ## Feedback on Feedback
 >

@@ -343,7 +343,7 @@ A learner profile for Software Carpentry might be:
 > to parents and school boards.
 {: .callout}
 
-## Additional Exercises
+## Exercises
 
 > ## Develop Learning Objectives
 >
