@@ -22,7 +22,7 @@ subtitle: Lesson Design
 {: .objectives}
 
 We have already covered certain elements of lesson design in our previous 
-lessons on educational pyschology and how that can inform teaching tools.  In this 
+lessons on educational psychology and how that can inform teaching tools.  In this 
 lesson, we will focus strictly on lesson design, using a strategy called reverse 
 instructional design, and specifically focusing on learning objectives.  
 
