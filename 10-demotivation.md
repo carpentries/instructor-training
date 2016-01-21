@@ -2,10 +2,9 @@
 layout: lesson
 subtitle: Demotivation
 ---
-
 > ## Motivating Question
 > What demotivates learners and/or instructors?  
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 > 

@@ -4,7 +4,7 @@ subtitle: Motivation
 ---
 > ## Motivating Question
 > What motivates learners and/or instructors?  
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 >

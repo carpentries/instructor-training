@@ -4,7 +4,7 @@ subtitle: Lesson Design
 ---
 > ## Motivating Question
 > How do we design effective lessons?  
-{: .objectives}
+{: .question}
 
 > ## Lesson Design and Learning Objectives
 >

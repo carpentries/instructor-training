@@ -2,6 +2,10 @@
 layout: lesson
 subtitle: Lesson Design
 ---
+> ## Motivating Question
+> What is a systematic way to design effective lessons?
+{: .question}
+
 > ## Learning Objectives
 >
 > *   Learner can describe the four steps in reverse instructional design

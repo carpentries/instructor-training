@@ -4,7 +4,7 @@ subtitle: Terms
 ---
 > ## Motivating Question
 > What common vocabulary do we need to talk about teaching and learning?   
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 >

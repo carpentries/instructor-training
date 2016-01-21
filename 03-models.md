@@ -3,9 +3,8 @@ layout: lesson
 subtitle: Mental Models
 ---
 > ## Motivating Question
-> How can we describe the difference in learning 
-> between a novice and competent practitioner?
-{: .objectives}
+> How can we describe the difference in learning between a novice and competent practitioner?
+{: .question}
 
 > ## Learning Objectives
 >

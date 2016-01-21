@@ -3,9 +3,8 @@ layout: lesson
 subtitle: Mapping Expertise
 ---
 > ## Motivating Question
-> How can we describe the difference in learning 
-> between a novice and expert? 
-{: .objectives}
+> How can we describe the difference in learning between a novice and expert? 
+{: .question}
 
 > ## Learning Objectives
 >

@@ -5,7 +5,7 @@ subtitle: The Carpentries
 > ## Motivating Question
 > What do you need to know about the Software and Data Carpentry organizations
 > to be an effective instructor?
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 > *  Learners will know which next steps are necessary to becoming fully certified.
