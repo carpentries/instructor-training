@@ -343,8 +343,6 @@ A learner profile for Software Carpentry might be:
 > to parents and school boards.
 {: .callout}
 
-## Exercises
-
 > ## Develop Learning Objectives
 >
 > Choose one topic (typically 10-15 minutes of teaching) from

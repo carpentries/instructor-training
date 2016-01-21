@@ -383,8 +383,6 @@ many people concluded that since they couldn't answer all the questions,
 they shouldn't enrol.
 We were therefore scaring off many of the people we most wanted to help.
 
-## Exercises
-
 > ## Confronting the Contradiction
 >
 > Describe a misconception you have encountered in your own learning or teaching

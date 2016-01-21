@@ -281,8 +281,6 @@ but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice 
 in the room.  
 
-## Exercises
-
 > ## Feedback on Feedback
 >
 > Watch either [this video](https://vimeo.com/139316669) (8:40)
