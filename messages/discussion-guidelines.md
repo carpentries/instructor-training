@@ -58,14 +58,14 @@ scheduled.
 *   Make sure that all know where the lesson material can be found.
     Ensure that they all know about the instructor guide.
 
-*   Discuss the fact that the lesson material is under continous
+*   Discuss the fact that the lesson material is under continuous
     development.  Tell the students that any and all changes to the
     lesson material that might improve on it is welcome.  If anybody
     has any comments on the material, they are very welcome.
 
 *   Go through each of the modules in the lesson and ask if anybody has
     any problems, questions, or comments about the module.  This
-    walkthrough is particulary important if any of the participants
+    walkthrough is particularly important if any of the participants
     are on the quieter side.
 
 *   It is important that we ensure that all of the participants get to
@@ -74,7 +74,7 @@ scheduled.
 
 ## After:
 
-*   If any of the participants seemed unprepared (.e.g, had no
+*   If any of the participants seemed unprepared (e.g., had no
     questions), send them an email after the session asking them to
     sign up for another discussion session.
 
