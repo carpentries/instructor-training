@@ -2,9 +2,9 @@
 layout: page
 title: Instructor Training
 ---
-This short training course introduces the basics of educational
-psychology and instructional design, and shows them how to use them to
-teach programming to free-range adult learners.  Each lesson includes
+This short training course introduces learners to the basics of educational
+psychology and instructional design, and shows them how to use them when
+teaching programming to free-range adult learners.  Each lesson includes
 a theory of how people learn or a teaching technique, with a specific
 focus on applying these ideas and tools to computational instruction.
 It is necessarily shallow, but we hope it will be useful and convince
