@@ -22,18 +22,17 @@ by our [code of conduct](conduct.html).
 
 ## Topics
 
-0.  [Introduction](01-introduction.html)
-1.  [Terms](02-terms.html)
-2.  [Mental Models](03-models.html)
-3.  [Lesson Study](04-study.html)
-4.  [Mapping Expertise](05-expertise.html)
-5.  [Managing Memory](06-memory.html)
-6.  [Lesson Design](07-design.html)
-7.  [Teaching Practices](08-practices.html)
-8.  [Motivation](09-motivation.html)
-9.  [Demotivation](10-demotivation.html)
-10.  [The Carpentries](11-carpentries.html)
-
+1.  [Introduction](01-introduction.html)
+2.  [Terms](02-terms.html)
+3.  [Mental Models](03-models.html)
+4.  [Lesson Study](04-study.html)
+5.  [Mapping Expertise](05-expertise.html)
+6.  [Managing Memory](06-memory.html)
+7.  [Lesson Design](07-design.html)
+8.  [Teaching Practices](08-practices.html)
+9.  [Motivation](09-motivation.html)
+10. [Demotivation](10-demotivation.html)
+11. [The Carpentries](11-carpentries.html)
 
 ## Other Resources
 
