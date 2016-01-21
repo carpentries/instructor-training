@@ -236,8 +236,6 @@ to create the final result.
 
 Add something here?  
 
-## Exercises
-
 > ## Faded Examples
 >
 > Construct a 3-step faded example to introduce an idea of your choice.

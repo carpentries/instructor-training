@@ -233,8 +233,6 @@ penny by penny,
 vote by vote,
 and one lesson at a time.
 
-## Exercises
-
 > ## Authentic Tasks
 >
 > Describe something you do in your daily work that uses one or more of the skills we teach,

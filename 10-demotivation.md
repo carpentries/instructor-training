@@ -288,8 +288,6 @@ are always welcome.
 > room is accessible via an elevator or ramp, etc.  There's no shame in starting small. </i>
 {: .callout} 
 
-## Exercises
-
 > ## Thought Record
 >
 > Remember a time when you felt like you didn't know what you were doing.
