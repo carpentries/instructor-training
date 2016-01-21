@@ -84,13 +84,13 @@ neuroscientists is that the bridge phonics builds from letters to sounds makes
 learning to read easier.
 
 
-So while whole-word instruction takes an optimistic and student-centered view on
-learning -- encouraging enjoyment in learning as a key element in the process --
-it is not consistent with the scientific view of the way that learning to read
-actually takes place. Nevertheless, when these methods were studied in
-classrooms, the findings have been contradictory: while some classroom studies
-find that phonics works best, others show that whole language yields better
-results.
+So while whole-language instruction takes an optimistic and student-centered
+view on learning -- encouraging enjoyment in learning as a key element in the
+process -- it is not consistent with the scientific view of the way that
+learning to read actually takes place. Nevertheless, when these methods were
+studied in classrooms, the findings have been contradictory: while some
+classroom studies find that phonics works best, others show that whole language
+yields better results.
 
 One explanation is that a third factor is at play.
 If children sense that their teachers are enthusiastic about something,
