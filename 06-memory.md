@@ -4,7 +4,7 @@ subtitle: Managing Memory
 ---
 > ## Motivating Question
 > How is memory a limiting factor in learning?   
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 >

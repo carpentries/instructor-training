@@ -4,7 +4,7 @@ subtitle: Carpentry Teaching Practices
 ---
 > ## Motivating Question
 > What teaching practices are common to Software/Data Carpentry?   
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 >

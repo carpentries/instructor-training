@@ -2,10 +2,9 @@
 layout: lesson
 subtitle: Introduction
 ---
-
 > ## Motivating Question
 > How can we describe teaching and learning how to teach?
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 > Learners will describe the ways that learning to teach is comparable

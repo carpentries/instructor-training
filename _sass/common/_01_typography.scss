@@ -359,6 +359,7 @@ $bk-radius: 13px;
   .challenge{ @include bkSetup(#3c763d, "\270f"); }
   .objectives{ @include bkSetup(#D4C30B, "\e124"); }
   .testimonial{ @include bkSetup(#D4C30B, "\e067"); }
+  .question{ @include bkSetup(#3c3d76, "\e085"); }
 
   pre {
       display: block;

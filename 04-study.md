@@ -4,7 +4,7 @@ subtitle: Lesson Study
 ---
 > ## Motivating Question
 > How do teachers improve?  
-{: .objectives}
+{: .question}
 
 > ## Learning Objectives
 >
