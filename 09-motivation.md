@@ -194,7 +194,7 @@ but the last century and a half shows that
 once enough people make "doing the right thing" a habit,
 the big picture more or less takes care of itself.
 
-At leats,
+At least,
 that's what I believed ten years ago.
 I am less optimistic today.
 Faced with catastrophic climate change,

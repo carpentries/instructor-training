@@ -210,7 +210,7 @@ and to get feedback.
 
 Everyone has nervous habits.  While these habits are often not as noticeable 
 as you would think, it's good to identify ways to keep yourself from pacing, 
-or fiddling with your jewelry, or not looking at the audience.  
+or fiddling with your jewellery, or not looking at the audience.  
 
 Mickey Mouse version of self.  
 (not done writing yet)
@@ -257,7 +257,7 @@ in a way that helps you improve:
 	reveal what didn't work in your teaching, but read as professional suggestions 
 	rather than personal judgments.  
 
-* Balance postive and negative feedback: 
+* Balance positive and negative feedback: 
     * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * ask for both types of feedback
 

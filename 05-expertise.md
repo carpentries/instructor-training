@@ -56,7 +56,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     when asked to explain her reasoning,
     an expert often can't because she didn't actually go through any intermediate steps.
     
-	> In our example above, the local probaby doesn't even think about which 
+	> In our example above, the local probably doesn't even think about which 
 	> turns they're making on their way to the grocery store.  They can drive on 
 	> "autopilot" without really thinking.  If someone asks them to go to a different 
 	> location, they immediately know what they should do next to get to the right place. 

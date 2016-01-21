@@ -14,7 +14,7 @@ and the instructor participates remotely.
 This was the first method we tried.
 
 *   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' timezones
+    Each meeting is held twice (or even three times) to accommodate learners' time zones
     and because video conferencing systems can't handle 60+ people at once.
     Each meeting also uses an Etherpad for shared note-taking,
     and more importantly for asking and answering questions:
