@@ -61,7 +61,8 @@ Accordingly, Data Carpentry workshops:
 Software Carpentry workshops focus on best practices for software development and use.
 Its workshops are:
 
-*   intended for people who have done some programming, but want to do better,
+*   intended for people who need to program more effectively to solve their
+    computational challenges,
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
