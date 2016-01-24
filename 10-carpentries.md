@@ -84,12 +84,12 @@ You may only call a workshop a Software Carpentry workshop if:
 There are several hubs of activity for the Software and Data Carpentry communities:
 
 *   Our websites are:
-    *   [Software Carpentry](http://software-carpentry.org/)
-        *   [Blog](http://software-carpentry.org/blog/)
-        *   [Get Involved](http://software-carpentry.org/join/)
-    *   [Data Carpentry](http://www.datacarpentry.org/)
-        *   [Blog](http://www.datacarpentry.org/blog/)
-        *   [Get Involved](http://www.datacarpentry.org/involved/)
+    *   [Software Carpentry][swc]
+        *   [Blog][swc-blog]
+        *   [Get Involved][swc-join]
+    *   [Data Carpentry][dc]
+        *   [Blog][dc-blog]
+        *   [Get Involved][dc-join]
 *   Our lessons are hosted on GitHub;
     contributions to them and discussion of changes happens via GitHub pull requests and issues,
     and the lessons are published using GitHub Pages.
@@ -261,8 +261,10 @@ the assessment we do, and how often we do it.
 > department chair, or similar person in leadership.
 {: .challenge}
 
+[dc-blog]: http://www.datacarpentry.org/blog/
 [dc-exercises]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-forum]: http://discuss.datacarpentry.org/
+[dc-join]: http://www.datacarpentry.org/involved/
 [dc-lessons]: http://www.datacarpentry.org/lessons/
 [dc-github]: https://github.com/datacarpentry/
 [dc-twitter]: https://twitter.com/datacarpentry
@@ -271,7 +273,9 @@ the assessment we do, and how often we do it.
 [license]: license.html
 [scf-history]: http://software-carpentry.org/scf/history/
 [scf]: http://software-carpentry.org/scf/
+[swc-blog]: http://software-carpentry.org/blog/
 [swc-github]: https://github.com/swcarpentry/
+[swc-join]: http://software-carpentry.org/join/
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-operations]: http://software-carpentry.org/workshops/operations.html
 [swc-twitter]: https://twitter.com/swcarpentry
