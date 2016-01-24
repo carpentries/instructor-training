@@ -61,7 +61,8 @@ Accordingly, Data Carpentry workshops:
 Software Carpentry workshops focus on best practices for software development and use.
 Its workshops are:
 
-*   intended for people who have done some programming, but want to do better,
+*   intended for people who need to program more effectively to solve their
+    computational challenges,
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
@@ -76,7 +77,7 @@ You may only call a workshop a Software Carpentry workshop if:
 
 *   covers our three core topics,
 *   has at least one certified instructor teaching,
-*   runs our standardized pre- and post-workshop assessment forms and provides us with the results, and
+*   runs our standardized pre- and post-workshop assessments and provides us with the results, and
 *   sends us summary information about attendees (at a minimum, the number of people who attended).
 
 ## The Carpentry Community
@@ -147,7 +148,7 @@ the [workshop coordinator][mailto:{{site.contact}}],
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
-> ## Practice With Our Infrastructure
+> ## Practice With SWC Infrastructure
 >
 > Go to the [workshop template repository][workshop-template] and follow the directions
 > to create a workshop website using your local location and today's date.
@@ -160,7 +161,7 @@ The final steps in getting certified are as follows:
 1. If you want to teach Software Carpentry, pick one of the core
    lessons and familiarize yourself with the whole thing, then submit
    an exercise for one of its modules as a pull request on GitHub and
-   send the link to your instructor.
+   send the link to your instrutor.
 
 2. If you want to teach Data Carpentry, pick one of *its* core
    lessons, familiarize yourself with it, and submit an exercise for
@@ -264,9 +265,9 @@ the assessment we do, and how often we do it.
 [dc-blog]: http://www.datacarpentry.org/blog/
 [dc-exercises]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-forum]: http://discuss.datacarpentry.org/
+[dc-github]: https://github.com/datacarpentry/
 [dc-join]: http://www.datacarpentry.org/involved/
 [dc-lessons]: http://www.datacarpentry.org/lessons/
-[dc-github]: https://github.com/datacarpentry/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: http://datacarpentry.org
 [lessons-learned]: http://f1000research.com/articles/3-62/v1

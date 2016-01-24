@@ -7,22 +7,15 @@ subtitle: Introduction
 {: .question}
 
 > ## Learning Objectives
-> Learners will describe the ways that learning to teach is comparable
-> to learning a performing art.
+>
+> *   Learners will describe the ways that learning to teach is comparable to a performing art.
 {: .objectives}
 
-> ## Discussion
->
-> What metaphors have you heard of to describe teaching and learning?
-{: .challenge}
-
-There have been many metaphors to describe teaching and learning: filling up
-a container (with knowledge), lighting a fire, growing a seed.  There may be
-good reasons for each of these metaphors, but this training seeks to follow
-a different path -- we will think of the potential instructor as a beginning performer: an
-actor, musician, dancer, or similar performing artist.
-
-To become an accomplished performer, one must do the following:
+Many metaphors can be used to describe teaching and learning: filling
+up a container, lighting a fire, growing a seed, and more.  Our
+favorite is to compare teachers to actors, musicians, athletes, and
+other performing artists.  To become an accomplished performer, one
+must learn:
 
 * Theory: Learn about your discipline, make choices about your approach,
   choose drills, make a plan to train or practice
@@ -30,14 +23,14 @@ To become an accomplished performer, one must do the following:
   performers, and watch other performers to learn more.
 
 One way that classical musicians weave together this type of training
-is a master class.  In a master class, a group of students meet with a
-master performer, to discuss theory and perform for each other with
+is a *master class*.  In a master class, a group of students meet with
+a master performer, to discuss theory and perform for each other with
 the goal of receiving feedback and improving their performance.  Not
 only is a master class a chance to practice and learn, it represents
 the performers' membership and participation in a larger community.
 
 This training aims to be a "master class" in teaching (with one
-exception - the leader is not necessarily the only authoritative voice
+exception---the leader is not necessarily the only authoritative voice
 in the room).  It won't just be about learning things in your head,
 but practicing teaching together, sharing knowledge and insights.
 We'll be covering:
