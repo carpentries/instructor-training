@@ -152,7 +152,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier](03-maps.md),
+>     As [discussed earlier](03-maps.html),
 >     this signals the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
@@ -180,7 +180,7 @@ to alienate a classroom and cause learners to tune out.
 
 ### Stereotype Threat
 
-Another demotivator is *[stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)*.
+Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*.
 In brief,
 reminding people of negative stereotypes,
 even in subtle ways,
@@ -230,7 +230,7 @@ and links to further reading.
 
 ### Impostor Syndrome
 
-[Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is the belief that one is not good enough for a job or position,
+[Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
 that one's achievements are lucky flukes,
 and an accompanying fear of being "found out".
 Impostor syndrome seems to be particularly common among
@@ -272,7 +272,7 @@ Remember,
 it's much more important to *be* smart than to *look* smart.
 
 The Ada Initiative has
-[some excellent resources](http://adainitiative.org/continue-our-work/impostor-syndrome-training/)
+[some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
 > ## Never Learn Alone
@@ -444,3 +444,7 @@ are always welcome.
 > And did you notice that the first sentence in this challenge
 > assumed you could actually walk?
 {: .challenge}
+
+[ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
+[wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
+[wikipedia-stereotype-threat]: https://en.wikipedia.org/wiki/Stereotype_threat

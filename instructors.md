@@ -191,7 +191,7 @@ a hundred and fifty years ago,
 most societies still practiced slavery.
 A hundred years ago,
 when my grandmother was young,
-she [wasn't legally a person](http://www.canuck.com/famous5/html/history.html) in Canada.
+she [wasn't legally a person][canada-famous-5] in Canada.
 Fifty years ago,
 most of the world's people suffered under totalitarian rule;
 in the year I was born,
@@ -232,8 +232,7 @@ and to pay as much attention to research on teaching
 as they would like society to pay to things that really matter,
 is just practice.
 
-In his 1947 essay
-[Why I Write](http://www.resort.com/~prime8/Orwell/whywrite.html),
+In his 1947 essay [Why I Write][orwell-why-i-write],
 George Orwell said:
 
 > In a peaceful age I might have written ornate or merely descriptive books,
@@ -255,3 +254,6 @@ It gets better because people *make* it better:
 penny by penny,
 vote by vote,
 and one lesson at a time.
+
+[canada-famous-5]: http://www.canuck.com/famous5/html/history.html
+[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
