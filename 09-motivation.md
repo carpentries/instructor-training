@@ -410,7 +410,8 @@ are always welcome.
 
 > ## Why Do You Teach?
 >
-> What motivates you to volunteer to teach?
+> Read the [testimonials](instructors.html#testimonials) from other instructors,
+> and then write a short explanation of what motivates you to volunteer to teach.
 {: .challenge}
 
 > ## What Do You Believe About Teaching?
