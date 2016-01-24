@@ -31,8 +31,7 @@ by our [code of conduct](conduct.html).
 7.  [Lesson Design](07-design.html)
 8.  [Teaching Practices](08-practices.html)
 9.  [Motivation](09-motivation.html)
-10. [Demotivation](10-demotivation.html)
-11. [The Carpentries](11-carpentries.html)
+10. [The Carpentries](11-carpentries.html)
 
 ## Other Resources
 
