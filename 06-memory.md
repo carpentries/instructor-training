@@ -232,12 +232,31 @@ in which the results of processing items from a collection
 are repeatedly added to a single variable in some way
 to create the final result.
 
-## Parson's Problems
+## Parsons Problems
 
-Add something here?  
+Another kind of exercise designed to reduce cognitive load is a *Parsons Problem*,
+in which learners are presented with the jumbled parts of a solution
+and asked to put them in order.
+When learning a language,
+for example,
+students could be asked to order a set of words
+to create a grammatically correct response to a question.
+Similarly,
+our learners can be given the lines of code needed to solve a problem
+and asked to arrange them.
+Learners can then be told that they have all the lines they need save one,
+and so on.
 
 > ## Faded Examples
 >
 > Construct a 3-step faded example to introduce an idea of your choice.
 > What problem-solving strategy does it teach?
+{: .challenge}
+
+> ## Parsons Problems
+>
+> Write 5 or 6 lines of code that does something useful,
+> jumble them,
+> then add one more line that looks plausible but isn't needed to solve the problem.
+> How well can your partner tell which line is unnecessary?
 {: .challenge}
