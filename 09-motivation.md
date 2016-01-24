@@ -243,7 +243,7 @@ only their finished work,
 which can feed the belief that everyone else finds it easy.
 Women and minority groups,
 who already feel additional pressure to prove themselves in some settings,
-may be particularly affected.
+[may be particularly affected][http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf].
 
 Two ways of dealing with your own impostor syndrome are:
 
