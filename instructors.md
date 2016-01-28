@@ -199,3 +199,9 @@ we are preparing them to work together on things that really matter tomorrow.
 
 [canada-famous-5]: http://www.canuck.com/famous5/html/history.html
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+
+### Fiona Tweedie
+
+My training is in Ancient History and Classics, and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger. The Humanities must have a place shaping our discourse and our future and I see myself as a translator and guide in this emerging world. 
+
+As someone not from a programming background I've asked all the basic questions and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily. Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory. I hope that seeing a Latin major up the front of the room reassures students that they can become capable software carpenters in their own rights. 
