@@ -11,11 +11,11 @@ subtitle: Terms
 > *   Given a lesson,
 >     the learner will correctly identify where the instructor is using content knowledge,
 >     general knowledge, and pedagogical content knowledge.
-> *   Use an example to illustrate the difference between top-down and bottom-up 
+> *   Use an example to illustrate the difference between top-down and bottom-up
 >     learning.  
 {: .objectives}
 
-The following terms will support the discussions and activities in the rest 
+The following terms will support the discussions and activities in the rest
 of the training by giving us a common vocabulary to talk about teaching and
 learning to teach.  
 
@@ -29,9 +29,9 @@ and the philosophical question of what we actually mean by "learning"
 the standardized Western classroom).
 
 Within the broad scope of educational psychology,
-this training will take a narrow *cognitivist* perspective.  A cognitivist 
-perspective focuses on *cognition* - specifically, how the brain and mind 
-works and how that influences how people learn.  We can afford to narrowly focus 
+this training will take a narrow *cognitivist* perspective.  A cognitivist
+perspective focuses on *cognition* - specifically, how the brain and mind
+works and how that influences how people learn.  We can afford to narrowly focus
 on this aspect of learning, because most of our learners are
 physically safe, well fed, well educated, and highly motivated.
 Much of the research in education has rightly focused on people without these privileges.  
@@ -46,34 +46,36 @@ Much of the research in education has rightly focused on people without these pr
 > during which learners construct knowledge for themselves),
 > and *connectivism* (which emphasizes the social aspects of learning,
 > particularly those made possible by the Internet).
-{: .callout} 
+{: .callout}
 
 Another interesting perspective from our point of view is
 *[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
 which focuses on the way that
 *[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
 leads to people becoming members of
-a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  The 
-focus on community dialogue and learning in this training reflects this situated 
+a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  The
+focus on community dialogue and learning in this training reflects this situated
 learning approach.  
 
 ## Instructional Design
 
-While what we know about educational psychology can constrain teaching,
-it doesn't dictate it.
-In particular,
-there are often several plausible approaches to teaching
-that are consistent with what we know about how brains learn.
-In order to decide between them,
-we also need to explore *instructional design*,
-which is the study of how to create learning materials.
-If educational psychology is the science,
-ID is the engineering:
-it's how our scientific understanding is put into practice on the ground.
+While what we know about educational psychology can constrain teaching, we are
+often challenged to accommodate our knowledge from the study of psychology with
+the evidence from instructional practice, and with influence stemming from
+instructor ideology.
+
+This is because, in some cases, there might be a few different approaches to
+teaching that could be used. Deciding which of these is consistent with what we
+know about how brains learn can be difficult, and might appear to clash with
+educational practitioners' ideology.
+
+If educational psychology is the science, Instructional Design (ID) is the
+engineering: it's how our scientific understanding is put into practice on the
+ground.
 
 > ## Discussion
-> 
-> Who has heard of phonics, or learned to read using it?  Who has heard 
+>
+> Who has heard of phonics, or learned to read using it?  Who has heard
 > of whole language?  
 {: .challenge}
 
@@ -91,29 +93,31 @@ so that they get the positive feedback of being able to read whole stories as ea
 The basic idea is that once children find reading rewarding,
 they'll be motivated to go back and figure out the letters.
 
-Both approaches are consistent with what we know about how children learn,
-so we need to study them in action to determine which is better.
-The findings have been contradictory:
-while some studies find that phonics works best,
-others show that whole language yields better results.
+These approaches are not equally consistent with what we know about how children
+learn to read. There is some evidence that proficient, adult readers identify
+whole word patterns. But humans are really good at associating sounds with
+meaning, and the scientific consensus among linguists, psychologists and
+neuroscientists is that the bridge phonics builds from letters to sounds makes
+learning to read easier.
 
-One explanation is that a third factor is at play.
-If children sense that their teachers are enthusiastic about something,
-they will respond to that enthusiasm and learn better.
-If they feel their teachers are just marking time,
-though,
-they will emulate that instead.
-Thus,
-when studies are done by people who are proponents of a new technique
-(as they often are),
-they are likely to produce positive results,
-but when those techniques are deployed more widely
-to teachers who have seen one bandwagon after another roll by,
-results will regress to the mean.
+So while whole-language instruction takes an optimistic and student-centered
+view on learning -- encouraging enjoyment in learning as a key element in the
+process -- it is not consistent with the scientific view of the way that
+learning to read actually takes place. Nevertheless, when these methods were
+studied in classrooms, the findings have been contradictory: while some
+classroom studies find that phonics works best, others show that whole language
+yields better results.
 
-This course will cover several methods and tools of instructional design,
-exploring their strengths and weaknesses,
-and trying to connect them to the underlying research.
+One explanation is that a third factor is at play. If children sense that their
+teachers are enthusiastic about something, they will respond to that enthusiasm
+and learn better. If they feel their teachers are just marking time, though,
+they will emulate that instead. Thus, when studies are done by people who are
+proponents of a new technique (as they often are), they are likely to produce
+positive results, but when those techniques are deployed more widely to teachers
+who have seen one bandwagon after another roll by, results will regress to the
+mean, or even beyond.
+
+
 
 > ## Quantitative and Qualitative Research
 >
@@ -151,15 +155,15 @@ through the two major categories
 It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
-When it comes to PCK, in [link to practices](08-practices.html) 
-you'll see some of the 
+When it comes to PCK, in [link to practices](08-practices.html)
+you'll see some of the
 PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
 techniques for that lesson's content.  
 
-Finally, this training includes times for discussion, observation, and feedback, 
-precisely so that participants are able to share their PCK with each other over 
+Finally, this training includes times for discussion, observation, and feedback,
+precisely so that participants are able to share their PCK with each other over
 the course of the next two days.  
 
 > ## Examples of PCK
