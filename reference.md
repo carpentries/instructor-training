@@ -80,5 +80,5 @@ Wiggins and McTighe: "[UbD in a Nutshell](papers/wiggins-mctighe-ubd-nutshell.pd
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
-Wilson: "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v1)"
+Wilson: "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)"
 :   Summarizes what we've learned in 17 years of running classes for scientists.
