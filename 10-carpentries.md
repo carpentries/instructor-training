@@ -270,7 +270,7 @@ the assessment we do, and how often we do it.
 [dc-lessons]: http://www.datacarpentry.org/lessons/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: http://datacarpentry.org
-[lessons-learned]: http://f1000research.com/articles/3-62/v1
+[lessons-learned]: http://f1000research.com/articles/3-62/v2
 [license]: license.html
 [scf-history]: http://software-carpentry.org/scf/history/
 [scf]: http://software-carpentry.org/scf/
