@@ -199,6 +199,140 @@ A typical schedule for a two-day course is:
     *   15:45 Open discussion
     *   16:15 Wrap up and minute cards for afternoon session
 
+## Why We're Not a MOOC
+
+> If you use robots to teach, you teach people to be robots.
+
+This difference between what novices are doing when they learn,
+and what competent practitioners are doing,
+is one of the reasons we have stopped trying to teach via recorded video
+with auto-graded drill exercises.
+Any recorded content is as ineffective for most learners as broadcast television,
+or as a professor standing in front of 400 people in a lecture hall,
+because neither can intervene to clear up specific learners' misconceptions.
+Some people happen to already have the right conceptual categories for a subject,
+or happen to form them correctly early on;
+these are the ones who stick with most massive online courses,
+but many discussions of the effectiveness of such courses
+ignore this survivor bias.
+
+## Why So Much Documentation Is Useless
+
+The transition from novice to competent practitioner is no more
+and no less than
+the construction of correct (enough) categories,
+i.e.,
+the construction of a new mental model of this new intellectual domain.
+The goal of education for novices is, therefore,
+to help them form the right categories.
+Until they've done that,
+trying to impart "mere information" just confuses them.
+
+This is one of the reasons software documentation is so often frustrating.
+Reference material is opaque to someone who doesn't know what they're looking for,
+such as a novice who doesn't yet have a mental map of the domain.
+On the other hand,
+tutorials meant to help people build such a map
+are too slow and too diffuse for people who already have one.
+It is possible to craft something that serves both communities,
+but it's often simpler to address their needs separately.
+
+As an example of this idea's practical implications,
+our introduction to the Unix shell only introduces 12 commands,
+and we usually spend two and a half hours working through it.
+Twelve and a half minutes per command may seem glacially slow,
+but that's because our real goal isn't to teach specific commands:
+it's to help learners construct the mental model and notional machine
+that these commands fit into.
+That model includes things like:
+
+*   Anything you repeat manually, you'll eventually get wrong
+    (so let the computer repeat things for you by using tab completion
+    and the `history` command).
+*   Lots of little tools, combined as needed, are more productive than
+    a handful of "kitchen sink" programs.
+    (This motivates the pipe-and-filter model.)
+
+These two example illustrate something else as well.
+Learning consists of more than "just" building mental models
+and pouring information into them;
+creating linkages between concepts and facts is as least as important.
+Telling people that they shouldn't repeat things,
+and that they should try to think in terms of little pieces loosely joined,
+both set the stage for discussing functions.
+Explicitly referring back to pipes and filters shell when introducing functions
+helps solidify both ideas.
+
+## You Are Not Your Learners
+
+Discussion of the practical implications of learning concepts
+brings us to our next big idea:
+people learn best when they care about the topic <em>and</em> believe they can master it.
+Neither fact is particularly surprising,
+but their practical implications have a lot of impact on what we teach,
+and the order in which we teach it.
+
+First,
+most scientists don't actually want to program.
+They want to do scientific research,
+and programming is just a tax they have to pay along the way.
+They don't care how hash tables work,
+or even that hash tables exist;
+they just want to know how to process data faster.
+We therefore have to make sure that everything we teach is useful right away,
+and conversely that we don't teach anything just because it's "fundamental".
+
+Second,
+believing that something will be hard to learn is a self-fulfilling prophecy.
+This is why it's important not to say that something is easy:
+if someone who has been told that tries it,
+and it doesn't work,
+they are more likely to become discouraged.
+
+It's also why installing and configuring software is
+a much bigger problem for us than experienced programmers like to acknowledge.
+It isn't just the time we lose at the start of boot camps
+as we try to get a Unix shell working on Windows,
+or set up a version control client on some idiosyncratic Linux distribution.
+It isn't even the unfairness of asking students to debug things
+that depend on precisely the knowledge they have come to learn,
+but which they don't yet have.
+The real problem is that every such failure reinforces the belief that computing is hard,
+and that they'd have a better chance of making next Thursday's conference submission deadline
+if they kept doing things the way they always have.
+
+For these reasons,
+we have adopted a "teach most immediately useful first" approach.
+Imagine a 3&times;3 grid who axes are labeled
+"mean time to master" and "usefulness once mastered".
+Everything in the upper left square---i.e.,
+everything that's quick to master, and immediately useful---should be taught first.
+Things in the opposite corner,
+which are hard to learn and have little near-term application,
+don't belong in this course.
+
+And note:
+any useful estimate of how long something takes to master
+must take into account how frequent failures are
+and how much time is lost to them.
+For example,
+"edit a text file" might seem like a simple request,
+but most GUI editors save things to the user's desktop or home directory.
+If people need to run shell commands on the files they've edited,
+a substantial fraction won't be able to navigate to the right directory without help.
+
+> ## Software Carpentry Is Not Computer Science
+>
+> Many of the foundational concepts of computer science,
+> such as computability,
+> inhabit the lower-right corner of the grid described above.
+> This does *not* mean that they aren't important,
+> or aren't worth learning,
+> but if our aim is to convince people that they can learn this stuff,
+> and that doing so will help them do more science faster,
+> they are less compelling than things like automating repetitive tasks.
+{: .callout}
+
 ## Exercises
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
