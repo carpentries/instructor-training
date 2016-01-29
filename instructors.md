@@ -2,7 +2,52 @@
 layout: lesson
 subtitle: Instructors' Guide
 ---
-## The Big Picture
+## Hope, Fear, and Evidence
+
+In 2014,
+[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
+
+> If we had set out to alienate and antagonise the people we've been trying to reach,
+> we could scarcely have done it better.
+> This is how I feel,
+> looking back on the past few decades of environmental campaigning, including my own...
+>
+> Experimental work suggests that when fears are whipped up,
+> they trigger an instinctive survival response.
+> You suppress your concern for other people and focus on your own interests...
+> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
+
+A lot of advocates for open science and better scientific computing practices make the same mistake.
+They frighten people with talk of papers that have been retracted,
+when they should talk about all the new science people could do
+if they weren't spending hours trying to find the right version of a collaborator's Python script
+and get it to run on their machine.
+
+It is important to mention the cost and risk of bad computing practices,
+but we have found that we have more impact when we emphasize
+how much more researchers can do when they know how to loop over data files in the shell,
+share work with colleagues through GitHub,
+and write code that they can re-use next week.
+and manage nulls in their data.
+
+It is equally important for us to emphasize that what we teach and how we teach it
+is based on the best available evidence.
+We use live coding instead of slides because research shows that people learn more from doing than watching.
+Similarly,
+the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
+
+One final point to make in instructor training workshops is that
+our greatest long-term impact may not be what we teach researchers about computing,
+but what we teach our instructors about teaching,
+and about working together.
+We know as much about education as we do about public health,
+but most university lecturers are completely unaware of it,
+and still largely self-taught as teachers.
+And for reasons that we still don't really understand,
+the massive, open collaboration that has made Wikipedia and open source software successful
+has never taken hold in university teaching:
+most lecturers are still both the sole authors and sole users of their lessons.
+Changing *that* will have much more impact on many more people than anything else we could do.
 
 ## Logistics
 
