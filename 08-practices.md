@@ -29,6 +29,10 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
+This is an example of *I/we/you* teaching:
+the instructor does it,
+then the instructor and the learners do it together,
+and then the learners do it on their own.
 
 > ## Live Coding
 > 
