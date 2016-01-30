@@ -161,7 +161,21 @@ The final steps in getting certified are as follows:
 1. If you want to teach Software Carpentry, pick one of the core
    lessons and familiarize yourself with the whole thing, then submit
    an exercise for one of its modules as a pull request on GitHub and
-   send the link to your instrutor.
+   send the link to your instrutor. Remember that lesson maintainers
+   will be getting a number of pull requests like this, so take some
+   time to [craft your pitch][what-and-why] so the maintainer
+   understands what you're doing and why you think it's useful. For
+   example:
+
+        04-changes: Add a 'commit --amend' exercise
+
+        Everybody will botch a commit message at some point.  This
+        exercise introduces them to an easy way to fix those mistakes.
+
+   (as both a commit message and a pull-request summary) will be a lot
+   easier for the maintainer than:
+
+        Instructor-training assignment
 
 2. If you want to teach Data Carpentry, pick one of *its* core
    lessons, familiarize yourself with it, and submit an exercise for
@@ -281,4 +295,5 @@ the assessment we do, and how often we do it.
 [swc-operations]: http://software-carpentry.org/workshops/operations.html
 [swc-twitter]: https://twitter.com/swcarpentry
 [swc]: http://software-carpentry.org
+[what-and-why]: https://presentate.com/bobthecow/talks/changing-history#slide-15
 [workshop-template]: https://github.com/swcarpentry/workshop-template
