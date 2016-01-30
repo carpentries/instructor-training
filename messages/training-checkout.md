@@ -2,7 +2,7 @@ Hi everyone,
 
 Thanks again for taking part in Software and Data Carpentry instructor training. In order to wrap up, we would like you to do the following:
 
-1. If you want to teach Software Carpentry, pick one of the core lessons (list at the bottom of this message) and familiarize yourself with the whole thing, then submit an exercise for one of the modules of that lesson as a pull request on GitHub and mail me a link to the PR.
+1. If you want to teach Software Carpentry, pick one of the core lessons (list at the bottom of this message) and familiarize yourself with the whole thing, then submit an exercise for one of the modules of that lesson as a pull request on GitHub and mail me a link to the PR. Remember that lesson maintainers will be getting a number of pull requests like this, so take some time to [craft your pitch][what-and-why] so the maintainer understands what you're doing and why you think it's useful.
 
 2. If you want to teach Data Carpentry, pick one of its core lessons (list at the bottom), familiarize yourself with the whole thing, and submit an exercise for it by going [here][dc-exercises] (which will redirect you to a Google Doc with instructions on format) and mail me to let me know that your exercise is there.
 
@@ -40,3 +40,4 @@ Data Carpentry Core Lessons (from http://www.datacarpentry.org/lessons/):
 
 [dc-exercises]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [etherpad]: http://pad.software-carpentry.org/lesson-discussion-2016
+[what-and-why]: http://swcarpentry.github.io/instructor-training/10-carpentries.html#final-steps
