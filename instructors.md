@@ -205,3 +205,18 @@ we are preparing them to work together on things that really matter tomorrow.
 My training is in Ancient History and Classics, and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger. The Humanities must have a place shaping our discourse and our future and I see myself as a translator and guide in this emerging world. 
 
 As someone not from a programming background I've asked all the basic questions and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily. Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory. I hope that seeing a Latin major up the front of the room reassures students that they can become capable software carpenters in their own rights. 
+
+### Christina Koch
+
+* I love ideas.  As a mathematician, bibliophile, and general enthusiast for 
+most things, I am a self-proclaimed "nerd" - a term I use as "someone who 
+loves thinking, ideas, and learning new things."  
+* I love people (at least, I try).  Most wisdom traditions, and my own experience, 
+tell me that I'm not here to live for myself, but that we're all in this together.  
+* Most of all, I love sharing ideas with people. The best moments in life, for me, 
+are facilitating intellectual insights 
+along with personal connections.  Those moments are what build a community 
+that continues living in hope and adventure, especially important in times of 
+fear and division.  
+
+I teach to make those moments possible for myself and for others.  
