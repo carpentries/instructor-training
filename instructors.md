@@ -91,18 +91,18 @@ A typical schedule for a two-day course is:
     *   09:15 [Key definitions, concepts and teaching goals](http://swcarpentry.github.io/instructor-training/01-introduction.html) (15 min)  <br/>
         *Concepts: Educational psychology; Instructional design; Pedagogical Content Knowledge. Teacher's enthusiasm. <br/>
         Goal: understand effective approaches and methods for teaching.<br/>
-        Ask trainees: memorable moment from a class you took or taught.*        
-    *   09:30 [Mental models. Novices and misconceptions](http://swcarpentry.github.io/instructor-training/02-models.html) (10 min)         
+        Ask trainees: memorable moment from a class you took or taught.*
+    *   09:30 [Mental models. Novices and misconceptions](http://swcarpentry.github.io/instructor-training/02-models.html) (10 min)
     *   09:40 [Formative and summative assessment](http://swcarpentry.github.io/instructor-training/02-models.html) (15 min)
     *   09:55 Multiple Choice Questions as formative assessment (15 min) <br/>
         *Show example with addition. <br/>
-        Explain value of sensible diagnostic answers (lame distractors are bad and are not funny).*    
+        Explain value of sensible diagnostic answers (lame distractors are bad and are not funny).*
     *   10:10 EXERCISE 1 Designing own MCQ and exchanging with the partner (20 min)
     *   10:30 Coffee break  (allow for finishing the exercise and networking)
     *   11:00 Review of the formative assessment exercise (15 min) <br/>
         *Pick a few MCQs in the Etherpad and discuss which are checking the mental model and which are testing for factual knowledge. Explain the difference.*
     *   11:15 [Teaching as performance art](http://swcarpentry.github.io/instructor-training/08-performance.html) (15 min) <br/>
-        *Show one of the SciPy workshop videos.<br/> 
+        *Show one of the SciPy workshop videos.<br/>
         Provide feedback on it using the 2x2 grid. Trainer puts in a couple of comments demonstrating difference between contents and delivery. <br/>*
     *   11:30 EXERCISE 2 Recorded teaching <br/>
         *In groups of 3. <br/>
@@ -114,9 +114,9 @@ A typical schedule for a two-day course is:
     *   13:10 [Concept maps 7 +/- 2.](http://swcarpentry.github.io/instructor-training/03-maps.html) Concept map example (20 min)
     *   13:30 EXERCISE 3 Develop concept map and share with partner (20 min) <br/>
         *Concept map on the topic you introduced in your MCQ and video.<br/>
-        Share it with your partner (find a different one!).<br/>* 
+        Share it with your partner (find a different one!).<br/>*
     *   13:50 Review of the concept map exercise (20 min) <br/>
-        *Take 3-4 trainees to draw on the whiteboard and explain their concept maps.*    
+        *Take 3-4 trainees to draw on the whiteboard and explain their concept maps.*
     *   14:10 [Cognitive load theory](http://swcarpentry.github.io/instructor-training/04-faded.html) (15 min)
     *   14:25 [Faded examples](http://swcarpentry.github.io/instructor-training/04-faded.html) (10 min) <br/>
         *Show a faded example. Can be from SWC/DC materials.*
@@ -139,7 +139,7 @@ A typical schedule for a two-day course is:
     *   09:15 Questions based on operations guide (30 min)
     *   09:45 Live coding demo (30 min)
     *   10:15 EXERCISE 7 Recorded teaching live coding practice on lesson prepared as homework (45 min, including coffee)
-    *   10:30 Coffee (and finishing the exercise) 
+    *   10:30 Coffee (and finishing the exercise)
     *   11:00 Review of the live coding exercise ( 15 min)
     *   11:15 [Motivation and demotivation](http://swcarpentry.github.io/instructor-training/07-motivation.html) (15 min) <br/>
         *Concepts: indifference and injustice as two major demotivators;
@@ -202,21 +202,33 @@ we are preparing them to work together on things that really matter tomorrow.
 
 ### Fiona Tweedie
 
-My training is in Ancient History and Classics, and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger. The Humanities must have a place shaping our discourse and our future and I see myself as a translator and guide in this emerging world. 
+My training is in Ancient History and Classics,
+and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
+The Humanities must have a place shaping our discourse and our future
+and I see myself as a translator and guide in this emerging world.
 
-As someone not from a programming background I've asked all the basic questions and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily. Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory. I hope that seeing a Latin major up the front of the room reassures students that they can become capable software carpenters in their own rights. 
+As someone not from a programming background I've asked all the basic questions
+and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
+Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
+I hope that seeing a Latin major up the front of the room reassures students that
+they can become capable software carpenters in their own rights.
 
 ### Christina Koch
 
-* I love ideas.  As a mathematician, bibliophile, and general enthusiast for 
-most things, I am a self-proclaimed "nerd" - a term I use as "someone who 
-loves thinking, ideas, and learning new things."  
-* I love people (at least, I try).  Most wisdom traditions, and my own experience, 
-tell me that I'm not here to live for myself, but that we're all in this together.  
-* Most of all, I love sharing ideas with people. The best moments in life, for me, 
-are facilitating intellectual insights 
-along with personal connections.  Those moments are what build a community 
-that continues living in hope and adventure, especially important in times of 
-fear and division.  
+I love ideas.
+As a mathematician, bibliophile, and general enthusiast for most things,
+I am a self-proclaimed nerd---a term I use to mean
+"someone who loves thinking, ideas, and learning new things."
 
-I teach to make those moments possible for myself and for others.  
+I love people (at least, I try).
+Most wisdom traditions,
+and my own experience,
+tell me that I'm not here to live for myself,
+but that we're all in this together.
+
+Most of all, I love sharing ideas with people.
+The best moments in life, for me,
+are facilitating intellectual insights along with personal connections.
+Those moments are what build a community that continues living in hope and adventure,
+especially important in times of fear and division.
+I teach to make those moments possible for myself and for others.
