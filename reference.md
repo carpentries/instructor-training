@@ -51,6 +51,10 @@ Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Belief
 Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
 :   An early report on peer instruction and its effects in the classroom.
 
+Deans for Impact: "[The Science of Learning](papers/science-of-learning-2015.pdf)"
+:   Summarizes cognitive science research related to how students learn,
+    and connects it to practical implications for teaching and learning.
+
 Guzdial: "[Exploring Hypotheses about Media Computation](papers/guzdial-mediacomp-retrospective-2013.pdf)"
 :   A look back on 10 years of media computation research.
 
