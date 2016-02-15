@@ -34,7 +34,7 @@ limits of human mind and memory, and how that may impact learning.
 While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
 As a rough approximation,
-human memory can be divided into two layers.
+human memory can be divided into two different storage layers.
 The first is called *long-term* or *persistent memory*.
 It is where we store things like our password,
 our home address,
