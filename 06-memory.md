@@ -62,9 +62,8 @@ or be broken down into smaller groups (such as the forwards and backs in rugby).
 > ## Chunking
 >
 > Our minds can store larger numbers of facts in short-term memory by creating *chunks*.
-> For example, most of us have written our names so often
-> that we do not remember them as a sequence of letters,
-> but as a single fact instead.
+> For example, most of us will remember a word we read as a single item, rather
+> than as a sequence of letters.
 > Similarly, the pattern made by five spots on cards or dice is remembered as a whole
 > rather than as five separate pieces of information.
 > Chunks allow us to manage larger problems,
