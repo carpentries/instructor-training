@@ -42,6 +42,8 @@ is that experts have many more connections,
 i.e.,
 their mental models are much more densely connected.
 
+<!--diagram here: can probably just adapt the one from "how learning works"-->
+
 To understand expert behavior, think about driving around a city, comparing what it's 
 like for the local and for the out-of-town driver.  
 
@@ -208,6 +210,8 @@ Concept maps can be used in many ways:
     *once learners are familiar with the technique*:
     as [Glass observed](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/),
     any new tool or technique initially slows people down.
+
+<!--Diagram: "meta" concept map, summarizing these 4 points-->
 
 > ## Concept Mapping
 >

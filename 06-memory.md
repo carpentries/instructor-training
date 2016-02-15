@@ -17,8 +17,7 @@ subtitle: Managing Memory
 This topic is yet another variation on a theme from our previous topics - how do 
 we keep ourselves from overwhelming novice learners?  We've discussed the need to 
 give students [mental models](03-models.html) to give structure to their knowledge, 
-and the importance of unpacking our own expertise in order to help [make connections]
-(05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
+and the importance of unpacking our own expertise in order to help [make connections](05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
 to say about managing teaching information.  In particular, we'll be looking at the 
 limits of human mind and memory, and how that may impact learning.  
 
@@ -132,6 +131,8 @@ It posits that people have to deal with three things when they're learning:
 *   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
     (which is one of the things that distinguishes learning from memorization).
 *   *Extraneous* load is everything else that distracts or gets in the way.
+
+<!--Diagram, somehow portraying these three terms with an example -->
 
 Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
 Unsurprisingly,
