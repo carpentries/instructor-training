@@ -14,20 +14,20 @@ subtitle: Managing Memory
 >     and explain the problem-solving strategies those examples illustrate.
 {: .objectives}
 
-This topic is yet another variation on a theme from our previous topics - how do 
-we keep ourselves from overwhelming novice learners?  We've discussed the need to 
-give students [mental models](03-models.html) to give structure to their knowledge, 
+This topic is yet another variation on a theme from our previous topics - how do
+we keep ourselves from overwhelming novice learners?  We've discussed the need to
+give students [mental models](03-models.html) to give structure to their knowledge,
 and the importance of unpacking our own expertise in order to help [make connections]
-(05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
-to say about managing teaching information.  In particular, we'll be looking at the 
+(05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have
+to say about managing teaching information.  In particular, we'll be looking at the
 limits of human mind and memory, and how that may impact learning.  
 
 ## Plus or Minus Two
 
 > ## Faces and Names
-> 
-> Add an exercise here where people are shown a bunch of faces/names 
-> (or similar list of random facts) and 
+>
+> Add an exercise here where people are shown a bunch of faces/names
+> (or similar list of random facts) and
 > then have to name as many as they can remember?  
 {: .challenge}
 
@@ -92,8 +92,8 @@ and is only transferred to long-term memory after it has been held there and rei
 If we present too much information too quickly,
 the new will displace the old before it has a chance to settle.
 
-This is why it's very important to use a technique like concept mapping a lesson 
-before teaching it - an instructor needs to identify just how many pieces of 
+This is why it's very important to use a technique like concept mapping a lesson
+before teaching it - an instructor needs to identify just how many pieces of
 separate information will need to be "stored" in memory as part of the lesson.  
 
 ## Battling Theories
