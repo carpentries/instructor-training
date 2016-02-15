@@ -24,11 +24,11 @@ limits of human mind and memory, and how that may impact learning.
 
 ## Plus or Minus Two
 
-> ## Faces and Names
+> ## The serial position effect
 >
-> Add an exercise here where people are shown a bunch of faces/names
-> (or similar list of random facts) and
-> then have to name as many as they can remember?  
+> Go to [this website](http://cat.xula.edu/thinker/memory/working/serial) and
+> follow the instructions therein.
+>
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
