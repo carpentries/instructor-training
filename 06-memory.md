@@ -27,7 +27,8 @@ limits of human mind and memory, and how that may impact learning.
 > ## The serial position effect
 >
 > Go to [this website](http://cat.xula.edu/thinker/memory/working/serial) and
-> follow the instructions therein.
+> follow the instructions therein. This demonstrates some interesting facts
+> about memory.
 >
 {: .challenge}
 
@@ -86,10 +87,11 @@ her mental model of the program comes crashing down
 7&plusmn;2 is also the most important number in teaching.
 An instructor cannot push information directly into a learner's long-term memory.
 Instead,
-whatever she presents is first stored in the learner's short-term memory,
-and is only transferred to long-term memory after it has been held there and reinforced.
+whatever she presents is first represented in the learner's short-term memory,
+and is only transferred to long-term memory after it has been held there and rehearsed.
 If we present too much information too quickly,
-the new will displace the old before it has a chance to settle.
+the new will displace the old before it has a chance to consolidate in long-term
+memory.
 
 This is why it's very important to use a technique like concept mapping a lesson
 before teaching it - an instructor needs to identify just how many pieces of
