@@ -26,16 +26,24 @@ limits of human mind and memory, and how that may impact learning.
 
 > ## The serial position effect
 >
-> Go to [this website](http://cat.xula.edu/thinker/memory/working/serial) and
-> follow the instructions therein. This demonstrates some interesting facts
-> about memory.
+> Read the following list and try to memorize the items in it:
+>
+> cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe
+>
+> Without looking at the list again, write down as many words from the list as
+> you can. Compare to other members of the group. What words are remembered the
+> most?
+>
+> [This website](http://cat.xula.edu/thinker/memory/working/serial) implements
+> an interactive version of this exercise.
 >
 {: .challenge}
 
+
 While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
-As a rough approximation,
-human memory can be divided into two different storage layers.
+As a rough approximation, human memory can be divided into two different storage
+layers.
 The first is called *long-term* or *persistent memory*.
 It is where we store things like our password,
 our home address,
@@ -59,6 +67,8 @@ that was the longest string of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
 It's also why sports teams tend to have about half a dozen members,
 or be broken down into smaller groups (such as the forwards and backs in rugby).
+
+When we memorize words in a list and are asked to immediately recall them, the words first presented will have the best chance to be transferred into long-term memory. On the other hand, the items that are presented last might still be in short-term memory. These are referred to as the primacy and recency effects, respectively, and they together form the [memory serial position effect](https://en.wikipedia.org/wiki/Serial_position_effect).
 
 > ## Chunking
 >
