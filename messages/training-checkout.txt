@@ -2,21 +2,23 @@ Hi everyone,
 
 Thanks again for taking part in Software and Data Carpentry instructor training. In order to wrap up, we would like you to do the following:
 
-1. If you want to teach Software Carpentry, pick one of the core lessons (list at the bottom of this message) and familiarize yourself with the whole thing, then submit an exercise for one of the modules of that lesson as a pull request on GitHub and mail me a link to the PR.
+1a. If you want to teach Software Carpentry, familiarize yourself with one of the core lessons (list at the bottom of this message) and submit a small improvement to one of its episodes as a pull request on GitHub, then mail me a link to the PR.  (See below for discussion of what we mean by "small improvement".)
 
-2. If you want to teach Data Carpentry, pick one of its core lessons (list at the bottom), familiarize yourself with the whole thing, and submit an exercise for it by going http://www.datacarpentry.org/instructor-checkout-exercises/ (which will redirect you to a Google Doc with instructions on format) and mail me to let me know that your exercise is there.
+1b. If you want to teach Data Carpentry, familiarze yourself with one of its core lessons (list at the bottom) and submit a small improvement to it by going http://www.datacarpentry.org/instructor-checkout-exercises/ (which will redirect you to a Google Doc with instructions on format), then mail me to let me know that your exercise is there.
 
-3. Concurrently, sign up on the Etherpad at http://pad.software-carpentry.org/lesson-discussion-2016 to take part in an hour-long discussion session about each lesson you've chosen (one session if you're only interested in teaching one of the carpentries, one session each if you're interested in teaching both).  This will give you a chance to ask questions about the content and how it's presented, and about Software and Data Carpentry in general.
+2. Concurrently, sign up on the Etherpad at http://pad.software-carpentry.org/lesson-discussion-2016 to take part in an hour-long discussion session about each lesson you've chosen (one session if you're only interested in teaching one of the carpentries, one session each if you're interested in teaching both).  This will give you a chance to ask questions about the content and how it's presented, and about Software and Data Carpentry in general.
 
-4. Once you've been through your discussion session and have submitted your exercise, we will ask you to sign up for a 5-minute online demonstration lesson slot.  In that, we will ask you to teach a short segment of your chosen lesson - we'll tell you which segment on the day, so you'll have to be familiar with the whole lesson before we start.  Assuming that goes well, we will send you your certificate, add you to our roster, and get you on the dance floor.
+3. Once you've completed these steps, sign up for a 5-minute online demonstration lesson slot.  In that, we will ask you to teach a short segment from your chosen lesson - we'll pick the starting point on the day, so you will need to be familiar with the whole lesson.  If that goes well, we will send you your certificate, add you to our roster, and get you on the dance floor.
 
 Please note that:
 
-1. You only have to do one lesson for a particular project (Data Carpentry or Software Carpentry) in order to be certified as an instructor for it - if you qualify on one lesson, we'll trust you to familiarize yourself with others that you may want to teach.
+1. Your change can be a fix to the existing material, a new exercise, or a diagram of some kind (preferably in a vector format like SVG, but we'll take anything).  We are not looking for new material: the lessons are full to bursting as it is, and our rule is that new stuff can only be added if we can identify something to take out.
 
-2. Your exercise doesn't have to be accepted in order for you to become an instructor - the point of this exercise is to make sure that you understand the process and have met the people who review material.
+2. You only have to do one lesson for a particular project (Data Carpentry or Software Carpentry) in order to be certified as an instructor for it - if you qualify on one lesson, we'll trust you to familiarize yourself with others that you may want to teach.
 
-3. We'd like to get everyone through this process in the next two months, so please get started as soon as you can.
+3. Your change doesn't have to be accepted in order for you to become an instructor - the point is to make sure that you understand the process and have met the people who review material.
+
+4. We'd like to get everyone through this by the end of April, so please get started as soon as you can.
 
 If you have any questions, or if family or work commitments mean that you need an extension, please mail me and we'll work something out.
 
@@ -28,8 +30,7 @@ Software Carpentry Core Lessons (from http://software-carpentry.org/lessons/):
 - Unix shell: https://github.com/swcarpentry/shell-novice
 - Git: https://github.com/swcarpentry/git-novice
 - Python: https://github.com/swcarpentry/python-novice-inflammation
-- R (1): https://github.com/swcarpentry/r-novice-inflammation
-- R (2): https://github.com/swcarpentry/r-novice-gapminder
+- R: https://github.com/swcarpentry/r-novice-inflammation or https://github.com/swcarpentry/r-novice-gapminder
 
 Data Carpentry Core Lessons (from http://www.datacarpentry.org/lessons/):
 
