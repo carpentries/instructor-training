@@ -32,8 +32,7 @@ Jane Margolis and Allan Fisher: *[Unlocking the Clubhouse: Women in Computing](h
 Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726/)*.
 :   Explains and explores stereotype threat and strategies for addressing it.
 
-
-Dani Byrd, Toben H. Mintz: *[Discovering Speech, Words, and Mind](https://books.google.com/books?id=IoTdAUdNkgIC&pg=PA302#v=onepage&q&f=false/)*.
+Dani Byrd and Toben H. Mintz: *[Discovering Speech, Words, and Mind](https://books.google.com/books?id=IoTdAUdNkgIC&pg=PA302#v=onepage&q&f=false/)*.
 :   Discusses the neuroscience and psychology of the distinction between phonics and whole-language approaches to reading instruction.
 
 ## Papers
