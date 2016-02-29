@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: lesson
 title: Instructor Training
 ---
-This short training course introduces the basics of educational
-psychology and instructional design, and shows them how to use them to
-teach programming to free-range adult learners.  Each lesson includes
+This short training course introduces learners to the basics of educational
+psychology and instructional design, and shows them how to use them when
+teaching programming to free-range adult learners.  Each lesson includes
 a theory of how people learn or a teaching technique, with a specific
 focus on applying these ideas and tools to computational instruction.
 It is necessarily shallow, but we hope it will be useful and convince
@@ -18,22 +18,24 @@ you to learn more.
 > so that they are familiar with our teaching techniques.
 
 Please note that all participants in this course are required to abide
-by our [code of conduct](http://software-carpentry.org/conduct.html).
+by our [code of conduct](conduct.html).
 
 ## Topics
 
 1.  [Introduction](01-introduction.html)
-2.  [Mental Models](02-models.html)
-3.  [Concept Maps](03-maps.html)
-4.  [Faded Examples](04-faded.html)
-5.  [Lesson Design](05-design.html)
-6.  [Learning Objectives](06-objectives.html)
-7.  [Motivation and Demotivation](07-motivation.html)
-8.  [Teaching as a Performance Art](08-performance.html)
-9.  [Why I Teach](09-why.html)
+2.  [Terms](02-terms.html)
+3.  [Mental Models](03-models.html)
+4.  [Lesson Study](04-study.html)
+5.  [Mapping Expertise](05-expertise.html)
+6.  [Managing Memory](06-memory.html)
+7.  [Lesson Design](07-design.html)
+8.  [Teaching Practices](08-practices.html)
+9.  [Motivation and Demotivation](09-motivation.html)
+10. [The Carpentries](10-carpentries.html)
 
 ## Other Resources
 
 *   [Reference Guide](reference.html)
 *   [Next Steps](discussion.html)
-*   [Instructor's Guide](instructors.html)
+*   [Instructors' Guide](instructors.html)
+*   [Checklist](checklist.html)

@@ -1,0 +1,22 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+{% include head.html %}
+</head>
+<body id="top-of-page" class="software-carpentry lesson">
+{% include github-ribbon.html %}
+{% include header.html %}
+  <div class="row">
+    <div class="medium-12 columns">
+      <h1>
+        <a href="{{site.baseurl}}/">{{ site.lesson_title }}</a>{% if page.subtitle %}: {{ page.subtitle }}{% endif %}
+      </h1>
+      {{ content }}
+    </div>
+  </div>
+{% include footer.html %}
+{% include javascript.html %}
+</body>
+</html>

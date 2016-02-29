@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 subtitle: Discussion
 ---
 This training course only a start.

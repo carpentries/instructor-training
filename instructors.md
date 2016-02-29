@@ -1,6 +1,6 @@
 ---
-layout: page
-subtitle: Instructor's Guide
+layout: lesson
+subtitle: Instructors' Guide
 ---
 ## Logistics
 
@@ -14,7 +14,7 @@ and the instructor participates remotely.
 This was the first method we tried.
 
 *   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' timezones
+    Each meeting is held twice (or even three times) to accommodate learners' time zones
     and because video conferencing systems can't handle 60+ people at once.
     Each meeting also uses an Etherpad for shared note-taking,
     and more importantly for asking and answering questions:
@@ -87,37 +87,74 @@ The biggest change was the introduction of recorded teaching exercises.
 A typical schedule for a two-day course is:
 
 *   Day 1
-    *   08:30: Welcome and introductions
-    *   08:45: Key definitions; novices and misconceptions; need for formative assessment => MCQ
-    *   09:30: Review formative assessments; teaching as a performance art => recorded teaching in groups of three
-    *   10:30: Coffee break
-    *   11:00: Experts; concept maps; 7 +/- 2 => drawing a concept map
-    *   11:45: Review concept maps; minute cards for morning session
-    *   12:00: Lunch
-    *   13:00: Recorded teaching based on concept map with 2x2 rubric
-    *   13:45: Review teaching; cognitive load theory; faded examples => create faded example
-    *   14:15: Review faded examples
-    *   14:30: Coffee break
-    *   14:45: Reverse instructional design; Bloom's taxonomy; learning outcomes => critique/rewrite learning outcomes
-    *   15:15: Review learning outcomes
-    *   15:30: Discuss overnight homework (read operations guide, complete Teaching Perspectives Inventory)
-    *   15:45: Minute cards for afternoon session
-    *   16:00: Close
+    *   09:00 Welcome and introductions (15 min)
+    *   09:15 [Key definitions, concepts and teaching goals](http://swcarpentry.github.io/instructor-training/01-introduction.html) (15 min)  <br/>
+        *Concepts: Educational psychology; Instructional design; Pedagogical Content Knowledge. Teacher's enthusiasm. <br/>
+        Goal: understand effective approaches and methods for teaching.<br/>
+        Ask trainees: memorable moment from a class you took or taught.*
+    *   09:30 [Mental models. Novices and misconceptions](http://swcarpentry.github.io/instructor-training/02-models.html) (10 min)
+    *   09:40 [Formative and summative assessment](http://swcarpentry.github.io/instructor-training/02-models.html) (15 min)
+    *   09:55 Multiple Choice Questions as formative assessment (15 min) <br/>
+        *Show example with addition. <br/>
+        Explain value of sensible diagnostic answers (lame distractors are bad and are not funny).*
+    *   10:10 EXERCISE 1 Designing own MCQ and exchanging with the partner (20 min)
+    *   10:30 Coffee break  (allow for finishing the exercise and networking)
+    *   11:00 Review of the formative assessment exercise (15 min) <br/>
+        *Pick a few MCQs in the Etherpad and discuss which are checking the mental model and which are testing for factual knowledge. Explain the difference.*
+    *   11:15 [Teaching as performance art](http://swcarpentry.github.io/instructor-training/08-performance.html) (15 min) <br/>
+        *Show one of the SciPy workshop videos.<br/>
+        Provide feedback on it using the 2x2 grid. Trainer puts in a couple of comments demonstrating difference between contents and delivery. <br/>*
+    *   11:30 EXERCISE 2 Recorded teaching <br/>
+        *In groups of 3. <br/>
+        Introduce yourself and talk about the coolest thing in your research/work. <br/>
+        2 minutes<br/>
+        Use the 2x2 grid and put feedback in the Etherpad.*
+    *   12:00 Lunch (allow for finishing off the exercise) / minute cards
+    *   13:00 [Mental models and experts](http://swcarpentry.github.io/instructor-training/03-maps.html) (10 min)
+    *   13:10 [Concept maps 7 +/- 2.](http://swcarpentry.github.io/instructor-training/03-maps.html) Concept map example (20 min)
+    *   13:30 EXERCISE 3 Develop concept map and share with partner (20 min) <br/>
+        *Concept map on the topic you introduced in your MCQ and video.<br/>
+        Share it with your partner (find a different one!).<br/>*
+    *   13:50 Review of the concept map exercise (20 min) <br/>
+        *Take 3-4 trainees to draw on the whiteboard and explain their concept maps.*
+    *   14:10 [Cognitive load theory](http://swcarpentry.github.io/instructor-training/04-faded.html) (15 min)
+    *   14:25 [Faded examples](http://swcarpentry.github.io/instructor-training/04-faded.html) (10 min) <br/>
+        *Show a faded example. Can be from SWC/DC materials.*
+    *   14:30 EXERCISE 4 Develop a faded example (45 min, including coffee break) <br/>
+        *Develop a faded example based on your teaching video, MCQ and concept map. <br/>
+        Put them in the Etherpad.*
+    *   14:30 Coffee break
+    *   15:00 Review of the faded examples exercise (10 min)
+    *   15:10 [Reverse instructional design (RID)](http://swcarpentry.github.io/instructor-training/05-design.html); [Bloom's taxonomy; learning objectives](http://swcarpentry.github.io/instructor-training/06-objectives.html) (15 min)
+    *   15:25 EXERCISE 5 Learning objectives for the topic you presented in the video (15 min)
+    *   15:40 Review of the exercise with learning objectives (10 min)
+    *   15:50 EXERCISE 6 Recorded teaching based on concept map with 2x2 rubric and RID/ learning objectives (30 min)
+    *   16:20 Discuss overnight homework <br/>
+        *1.Read the [operations guide](http://software-carpentry.org/workshops/operations/) and write down questions in the Etherpad. <br/>
+        2.Complete [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/).<br/>
+        3.Go through one of the SWC/DC lessons and prepare for live coding teaching recording exercise.*
+    *   16:30: Minute cards for the afternoon session and close
 *   Day 2
-    *   09:00: Questions based on operations guide and Teaching Perspectives Inventory
-    *   10:00: Live coding demo => live coding practice on same lesson + coffee (in either order)
-    *   11:00: Review live coding
-    *   11:15: Motivation and demotivation => write your story over lunch
-    *   11:45: Minute cards for morning session
-    *   12:00: Lunch
-    *   13:00: Discussion; setting up a workshop website
-    *   13:45: Discussion of how to tell what effect we're having => develop assessment proposal
-    *   14:15: Present assessment proposals
-    *   14:30: Coffee
-    *   15:00: Overview of lesson materials and how to contribute
-    *   15:30: Open discussion
-    *   15:45: Minute cards for afternoon session
-    *   16:00: Close
+    *   09:00 Questions based on  Teaching Perspectives Inventory (15 min)
+    *   09:15 Questions based on operations guide (30 min)
+    *   09:45 Live coding demo (30 min)
+    *   10:15 EXERCISE 7 Recorded teaching live coding practice on lesson prepared as homework (45 min, including coffee)
+    *   10:30 Coffee (and finishing the exercise)
+    *   11:00 Review of the live coding exercise ( 15 min)
+    *   11:15 [Motivation and demotivation](http://swcarpentry.github.io/instructor-training/07-motivation.html) (15 min) <br/>
+        *Concepts: indifference and injustice as two major demotivators;
+        impostor syndrome; stereotype threat; SWC/DC Code of Conduct <br/>*
+    *   11:30 EXERCISE 8 Write your story over lunch. Minute cards for morning session
+    *   12:00: Lunch (allow for finishing off the exercise)
+    *   13:00: Setting up a workshop website [SWC](https://github.com/swcarpentry/workshop-template) / [DC](https://github.com/datacarpentry/workshop-template) - guided discussion (20 min)
+    *   13:20 EXERCISE 9 (in pairs) setting up workshop website (20 min) <br/>
+        *Preferably split the group so that half does SWC template and half DC template*
+    *   13:40 Discussion of how to tell what effect we're having (20 min)
+    *   14:00 EXERCISE 10 (in groups) develop assessment proposal (arguments for funding) and coffee (30 min)
+    *   14:30 Coffee &  Presenting assessment proposals (45 min together with coffee)
+    *   15:15 Overview of lesson materials and how to contribute (30 min)
+    *   15:45 Open discussion
+    *   16:15 Wrap up and minute cards for afternoon session
 
 ## Exercises
 
@@ -136,3 +173,62 @@ A typical schedule for a two-day course is:
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
+
+## Testimonials
+
+<a name="testimonials"></a>
+
+### Greg Wilson
+
+My daughter is eight years old,
+and is going to inherit all the problems my generation did not have the backbone to solve.
+Climate change,
+mass extinctions,
+drug-resistant diseases,
+resource shortages:
+if we had started working on them twenty years ago we'd be done now,
+but instead we ducked and dithered,
+so that all those bills are going to come due in her lifetime.
+
+I believe the only things that will get us through the next fifty years are more science and more courage.
+I co-founded Software Carpentry to help with the science part of that equation,
+but over the last few years I've come to believe that we can help with the courage as well.
+We are braver together than we are alone;
+by teaching scientists how to collaborate on research today,
+we are preparing them to work together on things that really matter tomorrow.
+
+[canada-famous-5]: http://www.canuck.com/famous5/html/history.html
+[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+
+### Fiona Tweedie
+
+My training is in Ancient History and Classics,
+and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
+The Humanities must have a place shaping our discourse and our future
+and I see myself as a translator and guide in this emerging world.
+
+As someone not from a programming background I've asked all the basic questions
+and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
+Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
+I hope that seeing a Latin major up the front of the room reassures students that
+they can become capable software carpenters in their own rights.
+
+### Christina Koch
+
+I love ideas.
+As a mathematician, bibliophile, and general enthusiast for most things,
+I am a self-proclaimed nerd---a term I use to mean
+"someone who loves thinking, ideas, and learning new things."
+
+I love people (at least, I try).
+Most wisdom traditions,
+and my own experience,
+tell me that I'm not here to live for myself,
+but that we're all in this together.
+
+Most of all, I love sharing ideas with people.
+The best moments in life, for me,
+are facilitating intellectual insights along with personal connections.
+Those moments are what build a community that continues living in hope and adventure,
+especially important in times of fear and division.
+I teach to make those moments possible for myself and for others.
