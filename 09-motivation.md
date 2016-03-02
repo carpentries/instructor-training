@@ -157,6 +157,11 @@ to alienate a classroom and cause learners to tune out.
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
 >     for not being able to figure it out.
+>  *  Feign surprise. Saying things like "I can't believe you don't know X"
+>     or "you've never heard of Y?" signals to the learner that they do not have
+>     some required pre-knowledge of the material you are teaching, that they
+>     are in the wrong place, and it may prevent them from asking questions in
+>     the future. (This idea is due to the Recurse center's  [Social Rules](https://www.recurse.com/manual#sec-environment)).
 {: .callout}
 
 > ## The Importance of Having Rules
