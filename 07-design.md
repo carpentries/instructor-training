@@ -135,7 +135,7 @@ regardless of their individual situations,
 and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
 Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
 focus on measurement with little (usually no) help for improving
-Centralized, standardized testing is appealing (particularly to those with the power to set the tests),
+centralized, standardized testing is appealing (particularly to those with the power to set the tests),
 but as Scott pointed out in
 *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
 large organizations invariably prefer uniformity to productivity.
