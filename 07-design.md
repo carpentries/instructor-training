@@ -106,7 +106,10 @@ Wiggins and McTighe use the acronym WHERETO:
 > ## How and Why to Fake It
 >
 > One of the most influential papers in the history of software engineering
-> was Parnas and Clements' "[A Rational Design Process: How and Why to Fake It](http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf)",
+> was Parnas and Clements' ["A Rational Design Process: How and Why to Fake
+It"](http://dx.doi.org/10.1109/TSE.1986.6312940)
+([PDF](http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf))
+,
 > in which they pointed out that in real life we move back and forth between gathering requirements,
 > interface design,
 > programming,
