@@ -14,26 +14,39 @@ subtitle: Managing Memory
 >     and explain the problem-solving strategies those examples illustrate.
 {: .objectives}
 
-This topic is yet another variation on a theme from our previous topics - how do 
-we keep ourselves from overwhelming novice learners?  We've discussed the need to 
-give students [mental models](03-models.html) to give structure to their knowledge, 
-and the importance of unpacking our own expertise in order to help [make connections](05-expertise.html).  Now we'll focus on some very "cognitive" theories and what they have 
-to say about managing teaching information.  In particular, we'll be looking at the 
-limits of human mind and memory, and how that may impact learning.  
+This topic is yet another variation on a theme from our previous
+topics - how do we keep ourselves from overwhelming novice learners?
+We've discussed the need to give students [mental models](03-models.html)
+to give structure to their knowledge, and the
+importance of unpacking our own expertise in order to help
+[make connections](05-expertise.html).  Now we'll focus on some very
+"cognitive" theories and what they have to say about managing teaching
+information.  In particular, we'll be looking at the limits of human
+mind and memory, and how that may impact learning.
 
 ## Plus or Minus Two
 
-> ## Faces and Names
-> 
-> Add an exercise here where people are shown a bunch of faces/names 
-> (or similar list of random facts) and 
-> then have to name as many as they can remember?  
+> ## The serial position effect
+>
+> Read the following list and try to memorize the items in it:
+>
+> cat, apple, ball, tree, square, head, house, door, box, car, king,
+> hammer, milk, fish, book, tape, arrow, flower, key, shoe
+>
+> Without looking at the list again, write down as many words from the list as
+> you can. Compare to other members of the group. What words are remembered the
+> most?
+>
+> [This website](http://cat.xula.edu/thinker/memory/working/serial) implements
+> an interactive version of this exercise.
+>
 {: .challenge}
+
 
 While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
-As a rough approximation,
-human memory can be divided into two layers.
+As a rough approximation, human memory can be divided into two different storage
+layers.
 The first is called *long-term* or *persistent memory*.
 It is where we store things like our password,
 our home address,
@@ -58,12 +71,19 @@ for as long as it took the dial to go around and around.
 It's also why sports teams tend to have about half a dozen members,
 or be broken down into smaller groups (such as the forwards and backs in rugby).
 
+When we memorize words in a list and are asked to immediately recall
+them, the words first presented will have the best chance to be
+transferred into long-term memory. On the other hand, the items that
+are presented last might still be in short-term memory. These are
+referred to as the primacy and recency effects, respectively, and they
+together form the
+[memory serial position effect](https://en.wikipedia.org/wiki/Serial_position_effect).
+
 > ## Chunking
 >
 > Our minds can store larger numbers of facts in short-term memory by creating *chunks*.
-> For example, most of us have written our names so often
-> that we do not remember them as a sequence of letters,
-> but as a single fact instead.
+> For example, most of us will remember a word we read as a single item, rather
+> than as a sequence of letters.
 > Similarly, the pattern made by five spots on cards or dice is remembered as a whole
 > rather than as five separate pieces of information.
 > Chunks allow us to manage larger problems,
@@ -86,20 +106,21 @@ her mental model of the program comes crashing down
 7&plusmn;2 is also the most important number in teaching.
 An instructor cannot push information directly into a learner's long-term memory.
 Instead,
-whatever she presents is first stored in the learner's short-term memory,
-and is only transferred to long-term memory after it has been held there and reinforced.
+whatever she presents is first represented in the learner's short-term memory,
+and is only transferred to long-term memory after it has been held there and rehearsed.
 If we present too much information too quickly,
-the new will displace the old before it has a chance to settle.
+the new will displace the old before it has a chance to consolidate in long-term
+memory.
 
-This is why it's very important to use a technique like concept mapping a lesson 
-before teaching it - an instructor needs to identify just how many pieces of 
+This is why it's very important to use a technique like concept mapping a lesson
+before teaching it - an instructor needs to identify just how many pieces of
 separate information will need to be "stored" in memory as part of the lesson.  
 
 ## Battling Theories
 
 In 2006,
 Kirschner, Sweller, and Clark published a paper titled
-"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf)".
+"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kitschner-paper]".
 In the abstract, they say:
 
 > Although unguided or minimally guided instructional approaches
@@ -153,7 +174,8 @@ and linguistic and visual memories are stored separately as well.
 This means that correlating linguistic, auditory, and visual streams of information takes cognitive effort:
 when someone reads something while hearing it spoken aloud,
 their brain can't help but check that it's getting the same information on both channels.
-Learning is therefore more effective when redundant information is *not* being presented simultaneously in two different channels.
+Learning is therefore more effective when redundant information is *not* being presented simultaneously
+in two different channels.
 For example,
 people find it harder to learn from a video that has both narration and on-screen captions
 than from one that has either the narration or the captions but not both.
@@ -261,3 +283,5 @@ and so on.
 > then add one more line that looks plausible but isn't needed to solve the problem.
 > How well can your partner tell which line is unnecessary?
 {: .challenge}
+
+[kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
