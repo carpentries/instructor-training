@@ -132,7 +132,7 @@ It posits that people have to deal with three things when they're learning:
     (which is one of the things that distinguishes learning from memorization).
 *   *Extraneous* load is everything else that distracts or gets in the way.
 
-<!--Diagram, somehow portraying these three terms with an example -->
+FIXME: Diagram somehow portraying these three terms with an example.
 
 Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
 Unsurprisingly,
