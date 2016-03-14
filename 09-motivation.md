@@ -117,7 +117,7 @@ to make sure they're doing at least a few of these things.
 > As we said in [the introduction](02-terms.html),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.  For one instructor's motivation, 
+> particularly when they are volunteers.  For one instructor's motivation,
 > keep reading.  
 {: .callout}
 
@@ -135,8 +135,8 @@ And if people believe the class is unfair,
 they will also be demotivated,
 even if it is unfair in their favor
 (because consciously or unconsciously they will worry that
-they will some day find themselves in the group on the losing end).  Finally, 
-a "holier-than-thou" or contemptuous attitude from an instructor is a quick way 
+they will some day find themselves in the group on the losing end).  Finally,
+a "holier-than-thou" or contemptuous attitude from an instructor is a quick way
 to alienate a classroom and cause learners to tune out.  
 
 > ## Things You Shouldn't Do in a Workshop
@@ -159,6 +159,11 @@ to alienate a classroom and cause learners to tune out.
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
 >     for not being able to figure it out.
+>  *  Feign surprise. Saying things like "I can't believe you don't know X"
+>     or "you've never heard of Y?" signals to the learner that they do not have
+>     some required pre-knowledge of the material you are teaching, that they
+>     are in the wrong place, and it may prevent them from asking questions in
+>     the future. (This idea is due to the Recurse center's  [Social Rules](https://www.recurse.com/manual#sec-environment)).
 {: .callout}
 
 > ## The Importance of Having Rules
@@ -315,8 +320,8 @@ she is likely to develop a fixed mindset.
 If on the other hand she is told,
 "You did a good job, you must have worked very hard,"
 she is likely to develop a growth mindset,
-and subsequently achieve more.  Studies have also shown that 
-the simple action of telling learners about the different mindsets 
+and subsequently achieve more.  Studies have also shown that
+the simple action of telling learners about the different mindsets
 before a course can improve learning outcomes for the whole group.  
 
 ## Accessibility
@@ -378,11 +383,11 @@ and updates to [our accessibility checklist](http://software-carpentry.org/works
 are always welcome.
 
 > ## Every Little Bit Counts
-> 
+>
 > Looking at people who work with disability and accessibility, it's
 > easy to be overwhelmed by all the different ways we could make
 > instruction more accessible.  *Don't panic.*  Instead:
-> 
+>
 > *   *Don't do everything at once.*
 >     We don't ask learners in our workshops to adopt all our best practices or tools in one go,
 >     but instead to work things in gradually at whatever rate they can manage.  
@@ -393,7 +398,7 @@ are always welcome.
 >     that are both easy and don't create extra cognitive load for anyone:
 >     font choices, general text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
-{: .callout} 
+{: .callout}
 
 > ## Authentic Tasks
 >
