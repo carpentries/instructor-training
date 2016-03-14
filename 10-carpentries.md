@@ -158,39 +158,71 @@ The workshop will show up on our websites shortly thereafter.
 
 The final steps in getting certified are as follows:
 
-1. If you want to teach Software Carpentry, pick one of the core
-   lessons and familiarize yourself with the whole thing, then submit
-   an exercise for one of its modules as a pull request on GitHub and
-   send the link to your instrutor.
+1. Pick one of the lessons we are currently accepting trainee requests on
+   and submit a *small* change.
+   (Your trainer will provide you with a list of lessons.)
+   If you want to teach Software Carpentry,
+   you must submit the change as a pull request on GitHub
+   and send the link to your trainer.
+   If you want to teach Data Carpentry,
+   go to [its submission page][dc-submission-page]
+   (which will redirect you to the appropriate place).
 
-2. If you want to teach Data Carpentry, pick one of *its* core
-   lessons, familiarize yourself with it, and submit an exercise for
-   it by going [here][dc-exercises] (which will redirect you to a
-   Google Doc with instructions on format). Again, mail your
-   instructor to let her know that your exercise is in.
+   Note:
+   you may be allowed or encouraged to submit a change to a Data Carpentry lesson
+   when qualifying as a Software Carpentry instructor---please
+   check with your trainer for the current status of this.
 
-3. Concurrently, sign up on the Etherpad indicated by your instructor
-   to take part in an hour-long discussion session about each lesson
-   you've chosen (one session if you're only interested in teaching
-   one of the carpentries, one session each if you're interested in
-   teaching both).  This will give you a chance to ask questions about
-   the content and how it's presented, and about Software and Data
-   Carpentry in general.
+2. Remember that lesson maintainers will be getting a number of pull requests like this,
+   so take some time to write a good commit message
+   so that the lesson maintainer understands what you're doing and why you think it's useful.
+   For example:
 
-4. Once you've been through your discussion session and have submitted
-   your exercise, we will ask you to sign up for a 5-minute online
-   demonstration lesson slot.  In that, we will ask you to teach a
-   short segment of your chosen lesson - we'll tell you which segment
-   on the day, so you'll have to be familiar with the whole lesson
-   before we start.  Assuming that goes well, we will send you your
-   certificate, add you to our roster, and get you on the dance floor.
+   ~~~
+   04-changes: Add a 'commit --amend' exercise
+
+   Everybody will botch a commit message at some point.  This
+   exercise introduces them to an easy way to fix those mistakes.
+   ~~~
+
+   (as both a commit message and a pull-request summary) will be a lot
+   easier for the maintainer than:
+
+   ~~~
+   Instructor-training assignment
+   ~~~
+
+3. Pick one lesson from the core Software Carpentry lessons (if you
+   wish to teach Software Carpentry) and/or one from the core Data
+   Carpentry lessons (if you wish to teach Data Carpentry), and read
+   through it/them carefully.
+
+4. Sign up on the Etherpad indicated by your instructor to take part
+   in an hour-long discussion session about the lessons you are going
+   to use for your demo lesson (discussed below), and about the
+   Carpentries in general.
+
+   You are expected to be familiar with your chosen lesson(s) *before*
+   this discussion session.  If the discussion leader feels you are
+   not, you will encouraged to do more preparation and come back for a
+   later discussion session.  If you are still unprepared, you will be
+   asked to contact the header of instructor training to discuss
+   reasons and options.
+
+5. Once you've been through your discussion session, we will ask you
+   to sign up for a 5-minute online demonstration lesson slot.  In
+   that, we will ask you to teach a short segment of your chosen
+   lesson(s): we'll tell you which segment on the day, so you'll have
+   to be familiar with the whole lesson before we start.  Assuming
+   that goes well, we will send you your certificate, add you to our
+   roster, and get you on the dance floor.
 
 Please note that:
 
-1. You only have to do one lesson for a particular project (Data
-   Carpentry or Software Carpentry) in order to be certified as an
-   instructor for it - if you qualify on one lesson, we'll trust you
-   to familiarize yourself with others that you may want to teach.
+1. You only have to do one lesson for a particular Carpentry in order
+   to be certified as an instructor for it - if you qualify on one
+   lesson, we'll trust you to familiarize yourself with others that
+   you may want to teach.
 
 2. Your exercise doesn't have to be accepted in order for you to
    become an instructor - the point of this exercise is to make sure
@@ -198,19 +230,9 @@ Please note that:
    material.
 
 3. We'd like to get everyone through this process within two months of
-   training, so please get started as soon as you can.
-
-*   [Software Carpentry core lessons][swc-lessons]
-    *   [Unix shell](https://github.com/swcarpentry/shell-novice)
-    *   [Git](https://github.com/swcarpentry/git-novice)
-    *   [Python](https://github.com/swcarpentry/python-novice-inflammation)
-    *   [R (1)](https://github.com/swcarpentry/r-novice-inflammation)
-    *   [R (2)](https://github.com/swcarpentry/r-novice-gapminder)
-*   [Data Carpentry core lessons][dc-lessons]
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology/ )
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology/ )
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology/ )
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology/ )
+   training, so please get started as soon as you can.  Anyone who has
+   not completed within three months should contact their trainer, or
+   the head of instructor training, to discuss reasons and options.
 
 ## Assessment
 
@@ -263,11 +285,11 @@ the assessment we do, and how often we do it.
 {: .challenge}
 
 [dc-blog]: http://www.datacarpentry.org/blog/
-[dc-exercises]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-forum]: http://discuss.datacarpentry.org/
 [dc-github]: https://github.com/datacarpentry/
 [dc-join]: http://www.datacarpentry.org/involved/
 [dc-lessons]: http://www.datacarpentry.org/lessons/
+[dc-submission-page]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: http://datacarpentry.org
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
