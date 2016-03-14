@@ -29,6 +29,10 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
+This is an example of *I/we/you* teaching:
+the instructor does it,
+then the instructor and the learners do it together,
+and then the learners do it on their own.
 
 > ## Live Coding
 > 
@@ -147,13 +151,13 @@ and hope that they'll understand.
 
 *Sticky notes.*
 :   We give each learner two sticky notes of different colors,
-    e.g., pink and green.
+    e.g., red and green.
     These can be held up for voting,
     but their real use is as status flags.
     If someone has completed an exercise and wants it checked,
-    they put the pink sticky note on their laptop;
+    they put the green sticky note on their laptop;
     if they run into a problem and need help,
-    the put up the green one.
+    the put up the red one.
     This is better than having people raise their hands because:
     *   it's more discreet (which means they're more likely to actually do it),
     *   they can keep working while their flag is raised, and
@@ -161,10 +165,12 @@ and hope that they'll understand.
         what state the class is in.
 
 *Minutes cards.*
-:   We also use sticky notes as minute cards: before each coffee or
-    meal break, learners take a minute to write one thing they've
-    learned on the pink sticky note, and one thing they found
-    confusing (or too fast or too slow) on the green one. It only
+:   We also use sticky notes as minute cards: before each coffee or meal
+    break, learners take a minute to write one positive thing on the
+    green sticky note (e.g., one thing they've learned that they think
+    will be useful), and one thing they found too fast, too slow,
+    confusing, or irrelevant on the red one.  They can use the red
+    sticky note for questions that haven't yet been answered.  It only
     takes a few minutes to cluster these, and allows the instructors
     to adjust to learners' interests and speed.
 
