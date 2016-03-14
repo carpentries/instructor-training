@@ -1,12 +1,10 @@
-Hello everyone, and thank you for signing up for our upcoming instructor training session at UC Davis. In order to prepare:
+Hello everyone, and thank you for signing up for our upcoming instructor training session. In order to prepare:
 
-1.  Please read Success in Introductory Programming: What Works? (http://swcarpentry.github.io/instructor-training/papers/porter-what-works-2013.pdf), Why Is It So Hard to Learn to Program? (http://swcarpentry.github.io/instructor-training/papers/guzdial-chapter-why-hard-to-teach-2011.pdf), and Software Carpentry: Lessons Learned (http://f1000research.com/articles/3-62/v1).
+1.  Please read Success in Introductory Programming: What Works? (http://swcarpentry.github.io/instructor-training/papers/porter-what-works-2013.pdf), Why Is It So Hard to Learn to Program? (http://swcarpentry.github.io/instructor-training/papers/guzdial-why-hard-to-teach-2011.pdf), and Software Carpentry: Lessons Learned (http://f1000research.com/articles/3-62/v2).
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/) to have a look at what we currently teach in Software Carpentry and Data Carpentry respectively. You are *not* expected to go through these in detail --- we'll do a walk-through in class --- but it would be helpful if you knew what the major topics are.
 
 3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
-
-4. The event will be held in the Data Science Initiative classroom on the second story of the Shields Library (http://www.lib.ucdavis.edu/ul/libcoll/shields.php).  The room is on the top right of the third floor map (https://www.lib.ucdavis.edu/ul/about/locations/?map=shields-floor-3).  The Shields Library is located in the NE corner of the UC Davis campus, fairly close to downtown and 1st Street (see http://campusmap.ucdavis.edu/?b=114).
 
 If you have any questions about this, the reading material, or anything else, please mail us, and we will respond as quickly as we can.
 
