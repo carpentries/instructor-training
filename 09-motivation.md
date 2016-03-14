@@ -34,6 +34,8 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
+<!-- Diagram: as described above-->
+
 > ## Actual Time
 >
 > Any useful estimate of how long something takes to master must take into account

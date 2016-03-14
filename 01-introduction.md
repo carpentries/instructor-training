@@ -22,6 +22,9 @@ must learn:
 * Practice: Repeat the desired skill over and over, get feedback from other
   performers, and watch other performers to learn more.
 
+<!--potential diagram here: make these two bullets into two circles, or 
+a table -->
+
 One way that classical musicians weave together this type of training
 is a *master class*.  In a master class, a group of students meet with
 a master performer, to discuss theory and perform for each other with
@@ -40,6 +43,8 @@ We'll be covering:
   general teaching, and practices specific to Software and Data Carpentry.
 * Practice: actually doing some teaching and "performing", giving feedback to each other
   and discussing how we do things.
+  
+<!--make diagram that matches previous one -->
 
 The goal of this training is not only to strengthen instructors'
 teaching skills, but to connect instructors to each other in a small
