@@ -21,9 +21,9 @@ subtitle: Lesson Design
 >     their intended audience.
 {: .objectives}
 
-We have already covered certain elements of lesson design in our previous 
-lessons on educational psychology and how that can inform teaching tools.  In this 
-lesson, we will focus strictly on lesson design, using a strategy called reverse 
+We have already covered certain elements of lesson design in our previous
+lessons on educational psychology and how that can inform teaching tools.  In this
+lesson, we will focus strictly on lesson design, using a strategy called reverse
 instructional design, and specifically focusing on learning objectives.  
 
 ## Reverse Instructional Design
@@ -121,7 +121,7 @@ Wiggins and McTighe use the acronym WHERETO:
 {: .callout}
 
 > ## Discussion
-> 
+>
 > Is reverse instructional design "teaching to the test"?  
 {: .challenge}
 
@@ -135,7 +135,7 @@ regardless of their individual situations,
 and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
 Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)*
 focus on measurement with little (usually no) help for improving
-Centralized, standardized testing is appealing (particularly to those with the power to set the tests),
+centralized, standardized testing is appealing (particularly to those with the power to set the tests),
 but as Scott pointed out in
 *[Seeing Like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)*,
 large organizations invariably prefer uniformity to productivity.
@@ -281,9 +281,9 @@ is a good longer discussion of these issues.
 
 > ## Improving Objectives
 >
-> Are the following learning objectives strong or weak?  How could 
+> Are the following learning objectives strong or weak?  How could
 > you improve some of the weak objectives?  
-> 
+>
 > * Learn what a Python library is, and what it can be used for.
 > * Be able to use "dplyr" and provide simple examples.
 > * Understand the importance of using version control.
