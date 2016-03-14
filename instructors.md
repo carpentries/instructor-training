@@ -212,5 +212,25 @@ Both the frustrations and satisfactions of getting to grips with code for the fi
 I hope that seeing a Latin major up the front of the room reassures students that
 they can become capable software carpenters in their own rights.
 
+### Christina Koch
+
+I love ideas.
+As a mathematician, bibliophile, and general enthusiast for most things,
+I am a self-proclaimed nerd---a term I use to mean
+"someone who loves thinking, ideas, and learning new things."
+
+I love people (at least, I try).
+Most wisdom traditions,
+and my own experience,
+tell me that I'm not here to live for myself,
+but that we're all in this together.
+
+Most of all, I love sharing ideas with people.
+The best moments in life, for me,
+are facilitating intellectual insights along with personal connections.
+Those moments are what build a community that continues living in hope and adventure,
+especially important in times of fear and division.
+I teach to make those moments possible for myself and for others.
+
 [canada-famous-5]: http://www.canuck.com/famous5/html/history.html
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
