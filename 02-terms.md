@@ -149,7 +149,7 @@ The things teachers know can be divided into:
     which is things like when to teach the notion of a call stack
     and what examples to use when doing so.
 
-<!-- diagram: venn diagram of terms w/ one example -->
+FIXME: Venn diagram of terms with one example.
 
 This training course focuses on general pedagogical knowledge
 through the two major categories

@@ -311,7 +311,7 @@ Things in the opposite corner,
 which are hard to learn and have little near-term application,
 don't belong in this course.
 
-FIXME: add diagram
+FIXME: add diagram.
 
 And note:
 any useful estimate of how long something takes to master
