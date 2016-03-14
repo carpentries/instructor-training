@@ -42,7 +42,7 @@ but the model does a good job of helping people reason about chemical compounds 
 One way to think about the difference between a novice and a "competent 
 practitioner" is the existence of this big picture mental model.  
 Our approach is based on the work of researchers like Benner,
-who applied the [Dreyfus model of skill acquisiton](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+who applied the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 in her studies of
 [how nurses progress from novice to expert](http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/).
 In simplified form,
