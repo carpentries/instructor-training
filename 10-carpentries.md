@@ -66,6 +66,8 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
+<!-- Diagram: make a venn diagram? -->
+
 All of Software and Data Carpentry's lessons materials are freely available
 under a permissive [open license][license].
 You may use them whenever and however you want,
