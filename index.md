@@ -40,6 +40,7 @@ by our [code of conduct](conduct.html).
 8.  [Teaching Practices](08-practices.html)
 9.  [Motivation and Demotivation](09-motivation.html)
 10. [The Carpentries](10-carpentries.html)
+11. [Instructor Checkout Procedure](11-checkout.html)
 
 ## Other Resources
 
