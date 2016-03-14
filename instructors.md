@@ -216,7 +216,7 @@ these are the ones who stick with most massive online courses,
 but many discussions of the effectiveness of such courses
 ignore this survivor bias.
 
-## Why So Much Documentation Is Useless
+## Why We Go Slowly
 
 The transition from novice to competent practitioner is no more
 and no less than
@@ -310,6 +310,8 @@ everything that's quick to master, and immediately useful---should be taught fir
 Things in the opposite corner,
 which are hard to learn and have little near-term application,
 don't belong in this course.
+
+FIXME: add diagram
 
 And note:
 any useful estimate of how long something takes to master
@@ -407,5 +409,4 @@ Those moments are what build a community that continues living in hope and adven
 especially important in times of fear and division.
 I teach to make those moments possible for myself and for others.
 
-[canada-famous-5]: http://www.canuck.com/famous5/html/history.html
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
