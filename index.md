@@ -17,6 +17,14 @@ you to learn more.
 > a Data Carpentry or Software Carpentry workshop
 > so that they are familiar with our teaching techniques.
 
+> ## Preparation
+>
+> Please read the following short pieces:
+> 1. [Why Programming is Hard to Teach (Mark Guzdial)](papers/guzdial-why-hard-to-teach-2011.pdf)"
+> 2. [Top 10 Myths About Teaching Computer Science (Mark Guzdial)](papers/guzdial-10-myths-2015.pdf)",
+> 3. [Success in Introductory Programming: What Works? (Porter et al.)](papers/porter-what-works-2013.pdf),
+>
+
 Please note that all participants in this course are required to abide
 by our [code of conduct](conduct.html).
 
@@ -32,6 +40,7 @@ by our [code of conduct](conduct.html).
 8.  [Teaching Practices](08-practices.html)
 9.  [Motivation and Demotivation](09-motivation.html)
 10. [The Carpentries](10-carpentries.html)
+11. [Instructor Checkout Procedure](11-checkout.html)
 
 ## Other Resources
 

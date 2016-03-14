@@ -66,6 +66,8 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
+FIXME: diagram: make a venn diagram?
+
 All of Software and Data Carpentry's lessons materials are freely available
 under a permissive [open license][license].
 You may use them whenever and however you want,
@@ -154,64 +156,6 @@ The workshop will show up on our websites shortly thereafter.
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 
-## Final Steps
-
-The final steps in getting certified are as follows:
-
-1. If you want to teach Software Carpentry, pick one of the core
-   lessons and familiarize yourself with the whole thing, then submit
-   an exercise for one of its modules as a pull request on GitHub and
-   send the link to your instrutor.
-
-2. If you want to teach Data Carpentry, pick one of *its* core
-   lessons, familiarize yourself with it, and submit an exercise for
-   it by going [here][dc-exercises] (which will redirect you to a
-   Google Doc with instructions on format). Again, mail your
-   instructor to let her know that your exercise is in.
-
-3. Concurrently, sign up on the Etherpad indicated by your instructor
-   to take part in an hour-long discussion session about each lesson
-   you've chosen (one session if you're only interested in teaching
-   one of the carpentries, one session each if you're interested in
-   teaching both).  This will give you a chance to ask questions about
-   the content and how it's presented, and about Software and Data
-   Carpentry in general.
-
-4. Once you've been through your discussion session and have submitted
-   your exercise, we will ask you to sign up for a 5-minute online
-   demonstration lesson slot.  In that, we will ask you to teach a
-   short segment of your chosen lesson - we'll tell you which segment
-   on the day, so you'll have to be familiar with the whole lesson
-   before we start.  Assuming that goes well, we will send you your
-   certificate, add you to our roster, and get you on the dance floor.
-
-Please note that:
-
-1. You only have to do one lesson for a particular project (Data
-   Carpentry or Software Carpentry) in order to be certified as an
-   instructor for it - if you qualify on one lesson, we'll trust you
-   to familiarize yourself with others that you may want to teach.
-
-2. Your exercise doesn't have to be accepted in order for you to
-   become an instructor - the point of this exercise is to make sure
-   that you understand the process and have met the people who review
-   material.
-
-3. We'd like to get everyone through this process within two months of
-   training, so please get started as soon as you can.
-
-*   [Software Carpentry core lessons][swc-lessons]
-    *   [Unix shell](https://github.com/swcarpentry/shell-novice)
-    *   [Git](https://github.com/swcarpentry/git-novice)
-    *   [Python](https://github.com/swcarpentry/python-novice-inflammation)
-    *   [R (1)](https://github.com/swcarpentry/r-novice-inflammation)
-    *   [R (2)](https://github.com/swcarpentry/r-novice-gapminder)
-*   [Data Carpentry core lessons][dc-lessons]
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology/ )
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology/ )
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology/ )
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology/ )
-
 ## Assessment
 
 What impact do our workshops really have? We would like to know, and
@@ -263,11 +207,11 @@ the assessment we do, and how often we do it.
 {: .challenge}
 
 [dc-blog]: http://www.datacarpentry.org/blog/
-[dc-exercises]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-forum]: http://discuss.datacarpentry.org/
 [dc-github]: https://github.com/datacarpentry/
 [dc-join]: http://www.datacarpentry.org/involved/
 [dc-lessons]: http://www.datacarpentry.org/lessons/
+[dc-submission-page]: http://www.datacarpentry.org/instructor-checkout-exercises/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: http://datacarpentry.org
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
