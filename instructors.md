@@ -2,6 +2,49 @@
 layout: lesson
 subtitle: Instructors' Guide
 ---
+## The Big Picture
+
+In 2014,
+[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
+
+> If we had set out to alienate and antagonise the people we've been trying to reach,
+> we could scarcely have done it better.
+> This is how I feel,
+> looking back on the past few decades of environmental campaigning, including my own...
+>
+> Experimental work suggests that when fears are whipped up,
+> they trigger an instinctive survival response.
+> You suppress your concern for other people and focus on your own interests...
+> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
+
+A lot of advocates for open science and reproducible research make the same mistake.
+They frighten people with talk of papers that have been retracted
+when they should talk about all the new science people could do
+if they weren't wasting hours trying to figure out
+how they created figure number three in the first place.
+
+We have found that we have more impact when we
+*emphasize how much more researchers can do when they are computationally competent*.
+We have also found it's importance for us to
+*emphasize that what we teach and how we teach it is based on the best available evidence*.
+We use live coding instead of slides because research shows that people learn more from doing than watching.
+Similarly,
+the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
+
+One final point to make in instructor training workshops is that
+*our greatest impact may be what we teach our instructors about teaching and collaborating*.
+As a species,
+we know as much about education as we do about public health,
+but since most university lecturers are self-taught teachers,
+they are completely unaware of this body of knowledge.
+At the same time,
+the massive, open collaboration that has made Wikipedia and open source software successful
+has never taken hold in teaching.
+Most university lecturers are still the sole creators and consumers of their lessons,
+which wastes time and impedes the spread of good ideas.
+Changing *that* could have more impact in the long run
+than anything to do with for loops and pull requests.
+
 ## Logistics
 
 This course has been taught as a multi-week online class,
@@ -156,9 +199,145 @@ A typical schedule for a two-day course is:
     *   15:45 Open discussion
     *   16:15 Wrap up and minute cards for afternoon session
 
+## Why We're Not a MOOC
+
+> If you use robots to teach, you teach people to be robots.
+
+This difference between what novices are doing when they learn,
+and what competent practitioners are doing,
+is one of the reasons we have stopped trying to teach via recorded video
+with auto-graded drill exercises.
+Any recorded content is as ineffective for most learners as broadcast television,
+or as a professor standing in front of 400 people in a lecture hall,
+because neither can intervene to clear up specific learners' misconceptions.
+Some people happen to already have the right conceptual categories for a subject,
+or happen to form them correctly early on;
+these are the ones who stick with most massive online courses,
+but many discussions of the effectiveness of such courses
+ignore this survivor bias.
+
+## Why We Go Slowly
+
+The transition from novice to competent practitioner is no more
+and no less than
+the construction of correct (enough) categories,
+i.e.,
+the construction of a new mental model of this new intellectual domain.
+The goal of education for novices is, therefore,
+to help them form the right categories.
+Until they've done that,
+trying to impart "mere information" just confuses them.
+
+This is one of the reasons software documentation is so often frustrating.
+Reference material is opaque to someone who doesn't know what they're looking for,
+such as a novice who doesn't yet have a mental map of the domain.
+On the other hand,
+tutorials meant to help people build such a map
+are too slow and too diffuse for people who already have one.
+It is possible to craft something that serves both communities,
+but it's often simpler to address their needs separately.
+
+As an example of this idea's practical implications,
+our introduction to the Unix shell only introduces 12 commands,
+and we usually spend two and a half hours working through it.
+Twelve and a half minutes per command may seem glacially slow,
+but that's because our real goal isn't to teach specific commands:
+it's to help learners construct the mental model and notional machine
+that these commands fit into.
+That model includes things like:
+
+*   Anything you repeat manually, you'll eventually get wrong
+    (so let the computer repeat things for you by using tab completion
+    and the `history` command).
+*   Lots of little tools, combined as needed, are more productive than
+    a handful of "kitchen sink" programs.
+    (This motivates the pipe-and-filter model.)
+
+These two example illustrate something else as well.
+Learning consists of more than "just" building mental models
+and pouring information into them;
+creating linkages between concepts and facts is as least as important.
+Telling people that they shouldn't repeat things,
+and that they should try to think in terms of little pieces loosely joined,
+both set the stage for discussing functions.
+Explicitly referring back to pipes and filters shell when introducing functions
+helps solidify both ideas.
+
+## You Are Not Your Learners
+
+Discussion of the practical implications of learning concepts
+brings us to our next big idea:
+people learn best when they care about the topic <em>and</em> believe they can master it.
+Neither fact is particularly surprising,
+but their practical implications have a lot of impact on what we teach,
+and the order in which we teach it.
+
+First,
+most scientists don't actually want to program.
+They want to do scientific research,
+and programming is just a tax they have to pay along the way.
+They don't care how hash tables work,
+or even that hash tables exist;
+they just want to know how to process data faster.
+We therefore have to make sure that everything we teach is useful right away,
+and conversely that we don't teach anything just because it's "fundamental".
+
+Second,
+believing that something will be hard to learn is a self-fulfilling prophecy.
+This is why it's important not to say that something is easy:
+if someone who has been told that tries it,
+and it doesn't work,
+they are more likely to become discouraged.
+
+It's also why installing and configuring software is
+a much bigger problem for us than experienced programmers like to acknowledge.
+It isn't just the time we lose at the start of boot camps
+as we try to get a Unix shell working on Windows,
+or set up a version control client on some idiosyncratic Linux distribution.
+It isn't even the unfairness of asking students to debug things
+that depend on precisely the knowledge they have come to learn,
+but which they don't yet have.
+The real problem is that every such failure reinforces the belief that computing is hard,
+and that they'd have a better chance of making next Thursday's conference submission deadline
+if they kept doing things the way they always have.
+
+For these reasons,
+we have adopted a "teach most immediately useful first" approach.
+Imagine a 3&times;3 grid who axes are labeled
+"mean time to master" and "usefulness once mastered".
+Everything in the upper left square---i.e.,
+everything that's quick to master, and immediately useful---should be taught first.
+Things in the opposite corner,
+which are hard to learn and have little near-term application,
+don't belong in this course.
+
+FIXME: add diagram.
+
+And note:
+any useful estimate of how long something takes to master
+must take into account how frequent failures are
+and how much time is lost to them.
+For example,
+"edit a text file" might seem like a simple request,
+but most GUI editors save things to the user's desktop or home directory.
+If people need to run shell commands on the files they've edited,
+a substantial fraction won't be able to navigate to the right directory without help.
+
+> ## Software Carpentry Is Not Computer Science
+>
+> Many of the foundational concepts of computer science,
+> such as computability,
+> inhabit the lower-right corner of the grid described above.
+> This does *not* mean that they aren't important,
+> or aren't worth learning,
+> but if our aim is to convince people that they can learn this stuff,
+> and that doing so will help them do more science faster,
+> they are less compelling than things like automating repetitive tasks.
+{: .callout}
+
 ## Exercises
 
-*   Learners do think-pair-share for cognitive maps and MCQs.
+*   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
 *   In the two-day versions,
     have learners read the operations guide as their overnight homework
@@ -173,6 +352,88 @@ A typical schedule for a two-day course is:
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
+
+## Running Discussion Sessions
+
+Discussion sessions are meant to be student-driven, but some groups
+may be quieter than others.  This is by no means an exhaustive list:
+other subjects are bound to come up, and additions from discussion
+leaders are very welcome.
+
+The purpose of the discussion session is for students to ask questions
+about the lesson materials in preparation for their final checkout.
+The discussion lead's role is to give context to the lesson material,
+as each lesson goes through many revisions and discussions that cannot
+be easily seen in the finished product.
+
+**Note:** trainees do **not** do their 5-minute demonstration lessons
+during the discussion sessions.  Instead, once they have completed the
+discussion to the leader's satisfaction, their names should be
+forwarded to their trainer so that the demonstration lesson can be
+scheduled.
+
+### Before:
+
+*   A signup Etherpad will be sent out to trainees, who choose their
+    subject and sign up for a session.
+
+*   All meetings should use the Etherpad that is being used to register
+    for discussion sessions, so that all comments and feedback are
+    collected in one document.
+
+*   The discussion lead is free to use the Software Carpentry persistent
+    BlueJeans connection, or other options such as Google Hangouts or
+    Skype if they prefer.  The lead must post information about the
+    connection to the discussion session's Etherpad so that people
+    will know how to join.
+
+### During:
+
+*   Remind students that the Etherpad is a public, persistent document,
+    and that ideas and issues from the Etherpad may be used by the SCF.
+
+*   Explain how the checkout procedure itself goes:
+
+    *   After the trainee has completed the discussion session to the discussion leader's satisfaction,
+        the leader will forward her name to the trainer.
+
+    *   The trainer will then schedule a 5-minute slot for a demonstration lesson
+        and communicate it to the trainee.
+
+    *   In that session,
+        the trainee will be asked to teach 5 minutes from her chosen lesson
+        selected by the trainer.
+        The trainee will *not* know in advance which 5 minutes she will be asked to teach
+        (which encourages her to prepare the entire lesson).
+
+    *   Everyone will be notified afterwards by email whether they
+        passed or not.
+
+*   Make sure that all know where the lesson material can be found.
+    Ensure that they all know about the instructor guide.
+
+*   Discuss the fact that the lesson material is under continuous
+    development.  Tell the students that any and all changes to the
+    lesson material that might improve on it is welcome.  If anybody
+    has any comments on the material, they are very welcome.
+
+*   Go through each of the modules in the lesson and ask if anybody has
+    any problems, questions, or comments about the module.  This
+    walkthrough is particularly important if any of the participants
+    are on the quieter side.
+
+*   It is important that we ensure that all of the participants get to
+    discuss their issues.  In cases where all participants are vocal,
+    a structured walkthrough may not be necessary.
+
+### After:
+
+*   If any of the participants seemed unprepared (e.g., had no
+    questions), send them an email after the session asking them to
+    sign up for another discussion session.
+
+*   Report to the trainers the people who were in your session, and
+    whether you deemed them ready to go forth to the checkout session.
 
 ## Testimonials
 
@@ -196,9 +457,6 @@ but over the last few years I've come to believe that we can help with the coura
 We are braver together than we are alone;
 by teaching scientists how to collaborate on research today,
 we are preparing them to work together on things that really matter tomorrow.
-
-[canada-famous-5]: http://www.canuck.com/famous5/html/history.html
-[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 
 ### Fiona Tweedie
 
@@ -232,3 +490,30 @@ are facilitating intellectual insights along with personal connections.
 Those moments are what build a community that continues living in hope and adventure,
 especially important in times of fear and division.
 I teach to make those moments possible for myself and for others.
+
+[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+
+### Belinda Weaver
+
+I've worked in a university for more than twenty years in a variety of roles - librarian,
+library manager, Internet trainer, journalism teacher - and I've seen how researchers'
+training needs have changed dramatically over that period. Increasingly, researchers
+need to find answers in data they already have, are collecting, or are generating - and they can't
+do that without tools. The data are too big now, and the scale of research is so much larger.
+
+Research training barely addresses the fact that all researchers now need to think
+computationally, and that they desperately need tools to increase their speed and efficiency 
+in analysing data. This is a gap that Software and Data Carpentry training can fill. 
+
+It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
+useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
+That is why I trained as an instructor. 
+
+
+### Aleksandra Pawlik
+
+I teach for purely selfish reasons. It is a great feeling when attendees come up to me during or after the workshop saying how useful they found it. It feels great when attendees engage in the lesson, discuss exercises in pairs and I see them being truly happy when they get the computer to do what they want. It feels great when I accidentally meet one of the participants some time after the workshop and they say how much the teaching helped them in their research. 
+
+It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
+
+I also had a very bad experience as a student studying Computer Science. With a lot of struggle I graduated convinced that I'm too stupid to do anything related with computers for a living or even as a hobby. I don't want other people to feel like that.

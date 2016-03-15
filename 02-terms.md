@@ -149,6 +149,8 @@ The things teachers know can be divided into:
     which is things like when to teach the notion of a call stack
     and what examples to use when doing so.
 
+FIXME: Venn diagram of terms with one example.
+
 This training course focuses on general pedagogical knowledge
 through the two major categories
 (educational psychology and instructional design) described above.
@@ -188,7 +190,7 @@ Shorter pieces include
 Guzdial's "[Why Programming is Hard to Teach](papers/guzdial-why-hard-to-teach-2011.pdf)"
 and "[Top 10 Myths About Teaching Computer Science](papers/guzdial-10-myths-2015.pdf)",
 and Porter et al's "[Success in Introductory Programming: What Works?](papers/porter-what-works-2013.pdf)",
-both of which should be read before starting this class.
+all of which you should read before starting this class.
 
 > ## Three Kinds of Knowledge
 >
