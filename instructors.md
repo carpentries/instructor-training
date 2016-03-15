@@ -508,3 +508,12 @@ in analysing data. This is a gap that Software and Data Carpentry training can f
 It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
 useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
 That is why I trained as an instructor. 
+
+
+### Aleksandra Pawlik
+
+I teach for purely selfish reasons. It is a great feeling when attendees come up to me during or after the workshop saying how useful they found it. It feels great when attendees engage in the lesson, discuss exercises in pairs and I see them being truly happy when they get the computer to do what they want. It feels great when I accidentally meet one of the participants some time after the workshop and they say how much the teaching helped them in their research. 
+
+It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
+
+I also had a very bad experience as a student studying Computer Science. With a lot of struggle I graduated convinced that I'm too stupid to do anything related with computers for a living or even as a hobby. I don't want other people to feel like that.
