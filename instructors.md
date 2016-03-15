@@ -492,3 +492,19 @@ especially important in times of fear and division.
 I teach to make those moments possible for myself and for others.
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+
+### Belinda Weaver
+
+I've worked in a university for more than twenty years in a variety of roles - librarian,
+library manager, Internet trainer, journalism teacher - and I've seen how researchers'
+training needs have changed dramatically over that period. Increasingly, researchers
+need to find answers in data they already have, are collecting, or are generating - and they can't
+do that without tools. The data are too big now, and the scale of research is so much larger.
+
+Research training barely addresses the fact that all researchers now need to think
+computationally, and that they desperately need tools to increase their speed and efficiency 
+in analysing data. This is a gap that Software and Data Carpentry training can fill. 
+
+It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
+useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
+That is why I trained as an instructor. 
