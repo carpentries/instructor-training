@@ -541,8 +541,18 @@ SWC and DC are on the vanguard, and I'm proud to be a part.
 
 ### Rayna Harris
 
-During the past decade or so, I've realized that grad students teach themselves much of what they learn during grad school. Of course self-teaching is a valuable process in the road to becoming an independent researcher, but I thank that we could be better (more productive, successful, efficient, impactful, etc.) teachers and researchers if we learned some things with hands-on instruction and guidance rather than with Google and trial and error.
+During the past decade or so,
+I've realized that grad students teach themselves much of what they learn during grad school.
+Of course self-teaching is a valuable process in the road to becoming an independent researcher,
+but I thank that we could be more productive, successful, efficient, and impactful teachers and researchers
+if we learned some things with hands-on instruction and guidance rather than with Google and trial and error.
 
-I joined the Software Carpentry and Data Carpentry organizations because I was looking for a community of role-models I could look up to that A) taught beginner computing effectively and B) taught teachers how to teach beginner computing effectively. Without a doubt, my involvement with the Software Carpentry community has helped me to become a better teacher, scientist, and collaborator. I'm very excited to be an instructor trainer so that I can empower others with tools, confidence, and resources they need to advance their careers.  
+I joined the Software Carpentry and Data Carpentry organizations
+because I was looking for a community of role-models I could look up to
+that taught beginner computing effectively and taught teachers how to teach beginner computing effectively.
+Without a doubt,
+my involvement with the Software Carpentry community has helped me to become a better teacher, scientist, and collaborator.
+I'm very excited to be an instructor trainer so that I can empower others
+with tools, confidence, and resources they need to advance their careers.  
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
