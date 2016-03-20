@@ -271,7 +271,7 @@ in learning objectives written for each level.
   </tr>
   <tr>
     <td colspan="3">
-      Reproduced with additions from [Allen and Tanner][allen-tanner]'s
+      Reproduced with additions from <a href="http://www.lifescied.org/content/6/2/85.full">Allen and Tanner</a>'s
       "Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design" (2007)
     </td>
   </tr>
@@ -393,4 +393,3 @@ A learner profile for Software Carpentry might be:
 > Which does it not?
 {: .challenge}
 
-[allen-tanner]: http://www.lifescied.org/content/6/2/85.full
