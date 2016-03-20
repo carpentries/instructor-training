@@ -24,7 +24,8 @@ and the present material is relevant to anyone trying to teach basic programming
 The class will be hands-on:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
-Those who complete the two full days and some short online follow-up exercises
+Those who complete the two full days
+and [some short follow-up exercises online](11-checkout.html)
 will be certified to teach [Software Carpentry][swc-website] and/or [Data Carpentry][dc-website].
 
 *These materials are freely available under a [Creative Commons license][license].
