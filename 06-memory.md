@@ -120,7 +120,7 @@ separate information will need to be "stored" in memory as part of the lesson.
 
 In 2006,
 Kirschner, Sweller, and Clark published a paper titled
-"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kitschner-paper]".
+"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
 In the abstract, they say:
 
 > Although unguided or minimally guided instructional approaches
