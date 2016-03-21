@@ -140,22 +140,24 @@ but here's what we do in a typical two-day event:
 |       | 12:00 | Lunch |
 |       | 13:00 | Concept maps |
 |       |       | *Exercise: draw and critique concept maps* |
-|       | 14:30 | Coffee |
-|       | 14:45 | Learning objectives |
+|       | 14:15 | Coffee |
+|       | 14:30 | Learning objectives |
 |       |       | *Exercise: write and critique learning objectives* |
+|       | 15:15 | Cognitive load |
+|       | 15:30 | *Exercise: faded example* |
 |       | 15:45 | Wrap-up (one up, one down) |
 |       | 16:00 | Close |
 |       |       | *Homework: read operations guide* |
 | Day 2 | 09:00 | Live coding demonstration |
 |       |       | *Exercise: live coding practice* |
 |       | 10:15 | Coffee |
-|       | 10:30 | Motivators and demotivators |
-|       | 11:15 | *Exercise: demotivational stories* |
+|       | 10:30 | Review questions about operations guide |
+|       | 11:15 | *Exercise: create workshop website* |
 |       | 11:45 | Wrap-up (minute cards) |
 |       | 12:00 | Lunch |
 |       | 13:00 | Data Carpentry |
-|       | 13:30 | Review questions about operations guide |
-|       | 14:00 | *Exercise: create workshop website* |
+|       | 13:30 | Motivators and demotivators |
+|       | 14:00 | *Exercise: demotivational stories* |
 |       | 14:30 | Coffee break |
 |       | 14:45 | Assessment |
 |       |       | *Exercise: formulate assessment plans* |
