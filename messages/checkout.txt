@@ -26,7 +26,13 @@ c) You only have to submit *one* change to move on to the next step, not one per
 
 d) We do *not* want exercises or other material that introduce new concepts: our lessons are already full to bursting.
 
-e) If you are writing an exercise, we strongly prefer contributions to the Data Carpentry lessons right now (since that material is much younger), or to our fledgling "Python for complete novices" lesson.  Links to all of these are at the bottom of this message.  Please include a solution to your exercise; please note that solutions to existing exercises that don't have any are also welcome.
+e) If you are writing an exercise, we strongly prefer contributions to the Data Carpentry lessons right now (since that material is much younger), or to our fledgling "Python for complete novices" lesson.  Links to all of these are at the bottom of this message.  Please:
+
+- include a solution to your exercise (note that solutions to existing exercises that don't have any are also welcome)
+
+- make sure exercises run on all three platforms (Windows, Mac OS X, and Linux)
+
+- try to give the exercise a scientific theme - reversing a string isn't particularly motivational for our audience
 
 f) If you would rather do a diagram, we are happy to take submissions to any of our lessons.  Please use SVG, since vector formats are easier to manipulate than raster formats.
 
@@ -34,7 +40,7 @@ g) We also appreciate improvements to our lessons' learning objectives.  In part
 
 h) Please read the CONTRIBUTING.md file in the lesson you are contributing to *before* creating a submission, and format your submission similarly to the content that's already there.  (For example, lessons should include the 'challenge' style marker, while learning objectives should be in the quoted block at the top of the lesson.)
 
-i) Remember that lesson maintainers will be getting a large number of pull requests from instructor trainees, so please take some time to write a good commit message so that the lesson maintainer understands what you're doing and why you think it's useful. For example:
+i) Remember that lesson maintainers will be getting a large number of pull requests from instructor trainees, so please take some time to write a good commit message to tell the lesson maintainer what you're trying to achieve and why you think it's useful. For example:
 
    04-changes: Add a 'commit --amend' exercise
 
