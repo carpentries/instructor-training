@@ -215,7 +215,7 @@ One thing we *do* know is that we do not wish to become embroiled in debates
 over the relative merits of different languages or operating systems.
 No one has ever demonstrated that R programmers are more productive than Python programmers,
 and proficient users of Windows seem just as productive as equally-proficient users of Unix.
-If a learner asserts that their favorite tool is better than alternatives,
+If a learner asserts that their favorite tool is better than alternatives in some way,
 ask them for their data;
 if they don't have any,
 point out as gently as possible that we're supposed to be scientists,
@@ -232,7 +232,8 @@ it behooves us to try to meet those same standards ourselves.
 > and what impact it has on productivity.
 > An example of what we wish existed
 > is [this summary][stefik-summary] by Stefik et al
-> of empirical research on the usability of programming langauges.
+> of empirical research on the usability of programming langauges
+> (while [this full-length paper][stefik-paper] gives an idea of what's possible).
 
 ## Why We're Not a MOOC
 
@@ -591,4 +592,5 @@ I'm very excited to be an instructor trainer so that I can empower others
 with tools, confidence, and resources they need to advance their careers.  
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: papers/stefik-summary-2016.pdf
