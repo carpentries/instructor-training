@@ -36,8 +36,13 @@ and then the learners do it on their own.
 
 > ## Live Coding
 > 
-> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
-> with a partner.  
+> After the instructor gives a live coding demo,
+> have trainees pair up and teach each other the same lesson.
+> If the lesson is a long one
+> (e.g., the 8-minute introduction to pipes and filters from the Unix shell lesson),
+> have each trainee teach half.
+> Do not ask trainees to record their teaching:
+> it's difficult and unrewarding to film a person and their laptop at the same time.
 {: .challenge}
 
 > ## Discussion
