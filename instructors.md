@@ -353,6 +353,67 @@ a substantial fraction won't be able to navigate to the right directory without 
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
 
+## Video Recorded Lessons
+
+One of the key elements of this training course is recording trainees
+and having them, and their peers, critique those recordings.
+We were introduced to this practice by UBC's Warren Code,
+and it has evolved to the following:
+
+1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching a lesson
+    and have them give feedback as a group.
+    This feedback is organized on two axes:
+    positive versus negative,
+    and content versus presentation.
+    The first axis is explained as "things to be repeated and emphasized" versus "things to be improved",
+    while the second is explained by contrasting people who have good ideas,
+    but can't communicate them (all content, no presentation)
+    with people who speak well, but don't actually have anything to say.
+
+2.  Trainees are then asked to work in groups of three.
+    Each person rotates through the roles of instructor, audience, and videographer.
+    As the instructor,
+    they have two minutes to explain one key idea from their research (or other work)
+    as if they were talking to a class of interested high school students.
+    The person pretending to be the audience is there to be attentive,
+    while the videographer records the session using a cellphone or similar device.
+
+3.  After everyone has taught,
+    the trio sits together and watches all three videos in succession,
+    writing out feedback on the same 2x2 grid introduced above.
+    Once all the videos have been reviewed,
+    the group rejoins the class;
+    each person puts all the feedback on themseles into the Etherpad.
+
+In order for this exercise to work well:
+
+*   Groups must be physically separated to reduce audio cross-talk between their recordings.
+    In practice,
+    this means 2-3 groups in a normal-sized classroom,
+    with the rest using nearby breakout spaces,
+    coffee lounges,
+    offices,
+    or (on one occasion) a janitor's storage closet.
+
+*   Do all three recordings before reviewing any of them,
+    because otherwise the person to go last is short-changed on time.
+
+*   People must give feedback on themselves,
+    as well as giving feedback on each other,
+    so that they can calibrate their impressions of their own teaching
+    according to the impressions of other people.
+    (We find that most people are harder on themselves than others are,
+    and it's important for them to realize this.)
+
+The announcement of this exercise is often greeted with groans and apprehension,
+since few people enjoy seeing or hearing themselves.
+However,
+it is consistently rated as one of the most valuable parts of the class,
+and also serves as an ice breaker:
+we want pairs of instructors at actual workshops to give one another feedback,
+and that's much easier to do once they've had some practice
+and have a rubric to follow.
+
 ## Running Discussion Sessions
 
 Discussion sessions are meant to be student-driven, but some groups
