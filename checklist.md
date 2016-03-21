@@ -38,6 +38,7 @@ title: Checklist
 1.  Collect attendance.
 1.  Distribute sticky notes.
 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
+1.  Go through the checkout procedure in messages/checkout.txt point by point.
 
 ## After the Event
 
