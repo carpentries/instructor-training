@@ -40,13 +40,13 @@ aspects of Software Carpentry's operations.
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry][dc].  While separate, the two
-organization share many aspects of their operations, long-term goals,
-and community structure:
+creation of [Data Carpentry][dc] under the leadership of Tracy Teal.
+While separate, the two organization share many aspects of their operations,
+long-term goals, and community structure:
 
+*   Both focus on computational skills.
 *   Both run two-day workshops taught by volunteer instructors.
 *   Both strive to fill gaps in current training for researchers.
-*   Both focus on computational skills.
 
 However, they differ in their content and intended audience.
 Data Carpentry workshops focus on best practices surrounding data.
@@ -68,19 +68,31 @@ Its workshops are:
 
 FIXME: diagram: make a venn diagram?
 
+### Materials
+
 All of Software and Data Carpentry's lessons materials are freely available
 under a permissive [open license][license].
 You may use them whenever and however you want,
 provided you cite the original source.
+
+### Using the Names
+
 However, the names "Software Carpentry" and "Data Carpentry"
 and their respective logos
 are all trademarked.
-You may only call a workshop a Software Carpentry workshop if:
+You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
-*   covers our three core topics,
-*   has at least one certified instructor teaching,
-*   runs our standardized pre- and post-workshop assessments and provides us with the results, and
-*   sends us summary information about attendees (at a minimum, the number of people who attended).
+*   it covers the core topics,
+*   at least one instructor is certified,
+*   you run our standardized pre- and post-workshop assessments and provides us with the results, and
+*   you send us summary information about attendees (at a minimum, the number of people who attended).
+
+### Who Can Teach What
+
+Software Carpentry and Data Carpentry share a single instructor training program,
+but instructors must certify separately for each at the end:
+see the description of [the instructor checkout procedure](11-checkout.html)
+for details.
 
 ## The Carpentry Community
 
@@ -146,7 +158,7 @@ each workshop's instructors create a one-page website using
 [this template][workshop-template].
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator][mailto:{{site.contact}}],
+the [workshop coordinator](mailto:{{site.contact}}),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
