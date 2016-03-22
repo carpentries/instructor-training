@@ -43,6 +43,11 @@ and then the learners do it on their own.
 > have each trainee teach half.
 > Do not ask trainees to record their teaching:
 > it's difficult and unrewarding to film a person and their laptop at the same time.
+>
+> It should take two or three minutes to record each lesson,
+> four or five minutes to review and discuss each,
+> and a minute or two between each person to hand over,
+> so the whole exercise usually takes about 45 minutes.
 {: .challenge}
 
 > ## Discussion
