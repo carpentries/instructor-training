@@ -66,7 +66,7 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
-FIXME: diagram: make a venn diagram?
+![Software Carpentry and Data Carpentry Comparison](/img/10/SWCvsDC.png)
 
 ## Workshop Operations
 
@@ -152,7 +152,7 @@ There are several hubs of activity for the Software and Data Carpentry communiti
         *   [Get Involved][dc-join]
 *   Our lessons are hosted on GitHub;
     contributions to them and discussion of changes happens via GitHub pull requests and issues,
-    and the lessons are published using GitHub Pages.
+    and the lessons are published using GitHub Pages.  More detail is listed below.  
     *   [Data Carpentry on GitHub][dc-github]
     *   [Software Carpentry on GitHub][swc-github]
 *   Both Software and Data Carpentry have public discussion lists
@@ -168,13 +168,74 @@ There are several hubs of activity for the Software and Data Carpentry communiti
 > Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
 {: .challenge}
 
-## Contributions
+### A Culture of Contribution
 
-Start off with talking about collaborative material development in more general terms (proliferation of materials, why it happens, everyone has their version of slides, improvements never contributed back, analogy with OSS).
-Show where our materials are (using Lesson sections in DC/SWC websites). Show the website and how it connects with the source (GH).
-Show briefly this paper.
-Show a discussion thread on one of the PRs which contains a change in materials. This demonstrates well why GH is so useful (vs Wikipedia or comments in Google Doc etc). It also shows the openness of the community.
-I would also cover more about how friendly the community is - showing examples of good discussions under PRs (possibly controversial PRs). I also showed how the thread on Discuss list about "Leaving novices behind" turned into blog post.
+The administration, policies, practices and content of 
+Software Carpentry and Data Carpentry rest on the shoulders of the 
+communities that support them.  In the same way that we hope to promote a 
+culture of openness, sharing, 
+and reproducibility in science and research through training researchers with 
+the tools they need, the  
+Carpentry organizations themselves aim to be open, collaborative, and 
+based on best practices.  Just 
+as we encourage researchers to use packages and modules in their code, to 
+create re-usable pieces, we want to draw together the collective expertise of 
+our teaching community to create collaborative lessons, share other materials, 
+and improve the lessons via "bug fixes" as we go along.  
+
+### Lesson Development
+
+As stated above, the lesson materials for Software and Data Carpentry
+are hosted on GitHub.  
+    *   [Data Carpentry on GitHub][dc-github]
+    *   [Software Carpentry on GitHub][swc-github]
+Each lesson is in a separate repository, and consists of narrative 
+lesson material and an associated directory containing the data 
+or scripts needed in the lesson.  This source material is also then 
+served as a website, using GitHubs "gh-pages" feature.  
+ 
+Lesson contribution is managed within the repository using "issues"
+and "pull requests".  New problems or suggestions can be introduced 
+as issues, discussed by the community, and addressed via a pull 
+request, which serves as a "request" to make changes, and can also 
+be discussed before changes are merged.  
+
+We recognize that the medium of GitHub may be restrictive to those 
+who wish to contribute to our lessons.  We are always searching for 
+ways to make the process more friendly to all, whether that be 
+contribution training, or alternative routes to contribution.  If you 
+have any ideas how we might make contribution more contributor-friendly,
+please let us know!  
+
+### Beyond Lessons
+
+While contribution is frequently seen in terms of contributing 
+to specific lessons in either organization, there 
+are many, many ways to contribute and participate in the Software and Data 
+Carpentry communities.  
+
+* Contributing to discussion and development of lessons and policies, via 
+discussions on Github issues/pull requests or email discuss lists
+* Writing blog posts and bringing important ideas/news to the community
+* Developing tools
+* Hosting and organizing workshops
+* Contributing to lessons via raising issues or submitting pull requests
+* Leadership and administrative positions, including being a lesson maintainer,
+ or serving on a committee.  
+ 
+Here are some examples of ways that people have contributed to the community: 
+* Show a discussion thread on one of the PRs which contains a change in
+materials. 
+* I also showed how the thread on Discuss list about "Leaving novices
+behind" turned into blog post.
+* I would also cover more about how friendly the community is - showing
+examples of good discussions under PRs (possibly controversial PRs). 
+
+So being part of a friendly, open discussion, is of equal or greater importance 
+to the community than submitting the perfect lesson change.  The 
+[checkout process](11-checkout) to become a fully-fledged instructor will be 
+one way to start connecting to the community and find which area will allow you 
+to contribute best.  
 
 ## Assessment
 
