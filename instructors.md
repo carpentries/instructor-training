@@ -441,6 +441,14 @@ In order for this exercise to work well:
     (We find that most people are harder on themselves than others are,
     and it's important for them to realize this.)
 
+*   At the end of day 1,
+    ask trainees to review the lesson episode
+    you will use for the live coding demonstration at the start of day 2.
+
+*   Try to make at least one mistake during the demonstration of live coding
+    so that trainees can see you talk through diagnosis and recovery,
+    and draw attention afterward to the fact that you did this.
+
 The announcement of this exercise is often greeted with groans and apprehension,
 since few people enjoy seeing or hearing themselves.
 However,
