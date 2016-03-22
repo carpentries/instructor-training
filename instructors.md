@@ -199,6 +199,42 @@ A typical schedule for a two-day course is:
     *   15:45 Open discussion
     *   16:15 Wrap up and minute cards for afternoon session
 
+## Why Do(n't) We Teach X?
+
+Workshop attendees and trainee instructors often ask why we don't teach
+high-performance computing, machine learning, Perl, or a long list of other topics.
+Our answer is that as with every curriculum,
+the question is not, "What would we like to add?"
+but, "What are we willing to take out in order to make room?"
+We believe our core topics are the absolute minimum that researchers need to know
+in order to work efficiently and reproducibly.
+More importantly,
+we don't know what we could take out to make space for something else.
+
+One thing we *do* know is that we do not wish to become embroiled in debates
+over the relative merits of different languages or operating systems.
+No one has ever demonstrated that R programmers are more productive than Python programmers,
+and proficient users of Windows seem just as productive as equally-proficient users of Unix.
+If a learner asserts that their favorite tool is better than alternatives in some way,
+ask them for their data;
+if they don't have any,
+point out as gently as possible that we're supposed to be scientists,
+and that if we want politicians, business leaders, and the general public
+to pay attention to our findings on climate change and drug-resistant diseases,
+it behooves us to try to meet those same standards ourselves.
+
+> ## Evidence and Its Absence
+>
+> As far as is practical,
+> our teaching methods are based on the best available evidence.
+> We wish we could say the same about our content,
+> but very little research has been done on what researchers actually use
+> and what impact it has on productivity.
+> An example of what we wish existed
+> is [this summary][stefik-summary] by Stefik et al
+> of empirical research on the usability of programming langauges
+> (while [this full-length paper][stefik-paper] gives an idea of what's possible).
+
 ## Why We're Not a MOOC
 
 > If you use robots to teach, you teach people to be robots.
@@ -617,3 +653,5 @@ I'm very excited to be an instructor trainer so that I can empower others
 with tools, confidence, and resources they need to advance their careers.  
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
+[stefik-summary]: papers/stefik-summary-2016.pdf
