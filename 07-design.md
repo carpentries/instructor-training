@@ -271,7 +271,7 @@ in learning objectives written for each level.
   </tr>
   <tr>
     <td colspan="3">
-      Reproduced with additions from [Allen and Tanner][allen-tanner]'s
+      Reproduced with additions from <a href="http://www.lifescied.org/content/6/2/85.full">Allen and Tanner</a>'s
       "Putting the Horse Back in Front of the Cart: Using Visions and Decisions about High-Quality Learning Experiences to Drive Course Design" (2007)
     </td>
   </tr>
@@ -347,16 +347,14 @@ A learner profile for Software Carpentry might be:
 > to parents and school boards.
 {: .callout}
 
-> ## Develop Learning Objectives
+> ## Classify Learning Objectives
 >
-> Choose one topic (typically 10-15 minutes of teaching) from
-> a [Data Carpentry](http://www.datacarpentry.org/lessons/)
+> Choose one topic from a [Data Carpentry](http://www.datacarpentry.org/lessons/)
 > or [Software Carpentry](http://software-carpentry.org/lessons.html)
-> lesson and write learning objectives for it.
-> Characterize each objective according to its level in Blooms taxonomy.
+> lesson and classify its learning objectives according to their level in Bloom's Taxonomy.
 {: .challenge}
 
-> ## Critique Learning Objectives
+> ## Validate Learning Objectives
 >
 > Choose one topic from a [Data Carpentry](http://www.datacarpentry.org/lessons/)
 > or [Software Carpentry](http://software-carpentry.org/lessons.html) lesson
@@ -364,6 +362,20 @@ A learner profile for Software Carpentry might be:
 > Does this lesson accomplish what it sets out to achieve?
 > Does it contain too much?
 > Is the content on point with the learning objectives?
+{: .challenge}
+
+> ## Develop Learning Objectives
+>
+> In groups of 2-4,
+> choose one of the following topics
+> and develop learning objectives for a 10-minute introductory lesson on it.
+> Compare your learning objectives to those developed by other groups:
+> how easy or hard would it be for an independent observer
+> to determine whether your objectives or theirs had been achieved?
+>
+> *   The difference between velocity and momentum.
+> *   Volcanic, fold, and block mountain formation.
+> *   The gambler's fallacy in statistics.
 {: .challenge}
 
 > ## Summing Up
@@ -393,4 +405,3 @@ A learner profile for Software Carpentry might be:
 > Which does it not?
 {: .challenge}
 
-[allen-tanner]: http://www.lifescied.org/content/6/2/85.full

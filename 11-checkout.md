@@ -115,3 +115,5 @@ these materials have been developed collaboratively by people just like you.
 
 The third and fourth question refer back to the instructor training course,
 and are meant to give you a chance to apply some of what you've learned to these specific lessons.
+
+[dc-submission-page]: http://www.datacarpentry.org/instructor-checkout-exercises/
