@@ -165,6 +165,42 @@ but here's what we do in a typical two-day event:
 |       | 15:45 | Wrap-up (one up, one down) |
 |       | 16:00 | Close |
 
+## Why Do(n't) We Teach X?
+
+Workshop attendees and trainee instructors often ask why we don't teach
+high-performance computing, machine learning, Perl, or a long list of other topics.
+Our answer is that as with every curriculum,
+the question is not, "What would we like to add?"
+but, "What are we willing to take out in order to make room?"
+We believe our core topics are the absolute minimum that researchers need to know
+in order to work efficiently and reproducibly.
+More importantly,
+we don't know what we could take out to make space for something else.
+
+One thing we *do* know is that we do not wish to become embroiled in debates
+over the relative merits of different languages or operating systems.
+No one has ever demonstrated that R programmers are more productive than Python programmers,
+and proficient users of Windows seem just as productive as equally-proficient users of Unix.
+If a learner asserts that their favorite tool is better than alternatives in some way,
+ask them for their data;
+if they don't have any,
+point out as gently as possible that we're supposed to be scientists,
+and that if we want politicians, business leaders, and the general public
+to pay attention to our findings on climate change and drug-resistant diseases,
+it behooves us to try to meet those same standards ourselves.
+
+> ## Evidence and Its Absence
+>
+> As far as is practical,
+> our teaching methods are based on the best available evidence.
+> We wish we could say the same about our content,
+> but very little research has been done on what researchers actually use
+> and what impact it has on productivity.
+> An example of what we wish existed
+> is [this summary][stefik-summary] by Stefik et al
+> of empirical research on the usability of programming langauges
+> (while [this full-length paper][stefik-paper] gives an idea of what's possible).
+
 ## Why We're Not a MOOC
 
 > If you use robots to teach, you teach people to be robots.
@@ -318,6 +354,67 @@ a substantial fraction won't be able to navigate to the right directory without 
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
+
+## Video Recorded Lessons
+
+One of the key elements of this training course is recording trainees
+and having them, and their peers, critique those recordings.
+We were introduced to this practice by UBC's Warren Code,
+and it has evolved to the following:
+
+1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching a lesson
+    and have them give feedback as a group.
+    This feedback is organized on two axes:
+    positive versus negative,
+    and content versus presentation.
+    The first axis is explained as "things to be repeated and emphasized" versus "things to be improved",
+    while the second is explained by contrasting people who have good ideas,
+    but can't communicate them (all content, no presentation)
+    with people who speak well, but don't actually have anything to say.
+
+2.  Trainees are then asked to work in groups of three.
+    Each person rotates through the roles of instructor, audience, and videographer.
+    As the instructor,
+    they have two minutes to explain one key idea from their research (or other work)
+    as if they were talking to a class of interested high school students.
+    The person pretending to be the audience is there to be attentive,
+    while the videographer records the session using a cellphone or similar device.
+
+3.  After everyone has taught,
+    the trio sits together and watches all three videos in succession,
+    writing out feedback on the same 2x2 grid introduced above.
+    Once all the videos have been reviewed,
+    the group rejoins the class;
+    each person puts all the feedback on themseles into the Etherpad.
+
+In order for this exercise to work well:
+
+*   Groups must be physically separated to reduce audio cross-talk between their recordings.
+    In practice,
+    this means 2-3 groups in a normal-sized classroom,
+    with the rest using nearby breakout spaces,
+    coffee lounges,
+    offices,
+    or (on one occasion) a janitor's storage closet.
+
+*   Do all three recordings before reviewing any of them,
+    because otherwise the person to go last is short-changed on time.
+
+*   People must give feedback on themselves,
+    as well as giving feedback on each other,
+    so that they can calibrate their impressions of their own teaching
+    according to the impressions of other people.
+    (We find that most people are harder on themselves than others are,
+    and it's important for them to realize this.)
+
+The announcement of this exercise is often greeted with groans and apprehension,
+since few people enjoy seeing or hearing themselves.
+However,
+it is consistently rated as one of the most valuable parts of the class,
+and also serves as an ice breaker:
+we want pairs of instructors at actual workshops to give one another feedback,
+and that's much easier to do once they've had some practice
+and have a rubric to follow.
 
 ## Running Discussion Sessions
 
@@ -522,3 +619,5 @@ I'm very excited to be an instructor trainer so that I can empower others
 with tools, confidence, and resources they need to advance their careers.  
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
+[stefik-summary]: papers/stefik-summary-2016.pdf
