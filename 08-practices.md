@@ -29,39 +29,22 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
-This is an example of *I/we/you* teaching:
-the instructor does it,
-then the instructor and the learners do it together,
-and then the learners do it on their own.
-
-> ## Live Coding
-> 
-> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
-> with a partner.  
-{: .challenge}
-
-> ## Discussion
-> 
-> What are some of the advantages of live coding?  What are 
-> some of the challenges?  
-{: .challenge}
-
-### Advantages 
+Its advantages are:
 
 *   Watching a program being written is more compelling than
-        watching someone page through slides that present bits and pieces of the same code.
+    watching someone page through slides that present bits and pieces of the same code.
 *   It enables instructors to be more responsive to "what if?" questions.
-        Where a slide deck is like a railway track,
-        live coding allows instructors to go off road and follow their learners' interests.
+    Where a slide deck is like a railway track,
+    live coding allows instructors to go off road and follow their learners' interests.
 *   It facilitates lateral knowledge transfer:
-        people learn more than we realized we were teaching by watching *how* instructors do things.
+    people learn more than we realized we were teaching by watching *how* instructors do things.
 *   It slows the instructor down:
-        if she has to type in the program as she goes along,
-        she can only go twice as fast as her learners,
-        rather than ten-fold faster as she could with slides.
+    if she has to type in the program as she goes along,
+    she can only go twice as fast as her learners,
+    rather than ten-fold faster as she could with slides.
 *   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
-        Novices are going to spend most of their time doing this,
-        but it's left out of most textbooks.
+    Novices are going to spend most of their time doing this,
+    but it's left out of most textbooks.
 
 > The typos are the pedagogy
 > - [Dana Brunson](https://twitter.com/danabrunson/status/684764295196876800)
@@ -77,6 +60,38 @@ which they can view their notes and the Etherpad session.
 This seems to be more reliable than
 displaying one virtual desktop while flipping back and forth to
 another.
+
+> ## I/We/You vs. You/Y'all/We
+>
+> Live coding is an example of an "I/We/You" approach to teaching:
+> I (the instructor) demonstrate something
+> so that we (the class) can do it together,
+> and then you (the individual learner) do it on your own
+> to check and reinforce your understanding.
+>
+> Another approach,
+> described in Green's *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591)*,
+> is "You/Y'all/We"
+> (where "y'all" is a colloquial short form for "you all").
+> First,
+> students spend ten or twenty minutes working through a problem on their own (you).
+> The instructor then puts students into small groups to compare and merge solutions (y'all),
+> then has groups present their solutions for group discussion (we).
+> This works well once learners are proficient enough to be able to make at least some progress on set problems,
+> but is less suitable for complete novices who don't know where to start.
+{: .callout}
+
+> ## Live Coding
+> 
+> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
+> with a partner.  
+{: .challenge}
+
+> ## Discussion
+> 
+> What are some of the advantages of live coding?  What are 
+> some of the challenges?  
+{: .challenge}
 
 ### Challenges
 
