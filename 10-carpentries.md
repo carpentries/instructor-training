@@ -68,6 +68,33 @@ Its workshops are:
 
 FIXME: diagram: make a venn diagram?
 
+## Workshop Operations
+
+We have recorded what we've learned about writing workshops
+in an [operations guide][swc-operations]
+and a set of checklists (linked from that page)
+that describes what everyone involved in a workshop is expected to do and why.
+Questions, corrections, and additions are *very* welcome.
+
+Since January 2015 we have run bi-weekly debriefing sessions
+for instructors who have recently taught workshops.
+In these,
+instructors discuss what they actually did,
+how it worked,
+how the lessons they actually delivered differed from our templates,
+what problems arose,
+and how they were addressed.
+Summaries are posted on our blog shortly after each meeting,
+and eventually added to our operations guide.
+
+> ## How We Do Things
+>
+> Go to the [operations guide][swc-operations]
+> and read the instructions for a regular instructor
+> and for a workshop host.
+> What situations might come up that these *don't* answer?
+{: .challenge}
+
 ### Materials
 
 All of Software and Data Carpentry's lessons materials are freely available
@@ -93,6 +120,24 @@ Software Carpentry and Data Carpentry share a single instructor training program
 but instructors must certify separately for each at the end:
 see the description of [the instructor checkout procedure](11-checkout.html)
 for details.
+
+### Setting Up
+
+In order to communicate with learners,
+and to help us keep track of who's taught what and where,
+each workshop's instructors create a one-page website using
+[this template][workshop-template].
+Once that has been created,
+the host or lead instructor sends its URL to
+the [workshop coordinator](mailto:{{site.contact}}),
+who adds it to our records.
+The workshop will show up on our websites shortly thereafter.
+
+> ## Practice With SWC Infrastructure
+>
+> Go to the [workshop template repository][workshop-template] and follow the directions
+> to create a workshop website using your local location and today's date.
+{: .challenge}
 
 ## The Carpentry Community
 
@@ -123,50 +168,13 @@ There are several hubs of activity for the Software and Data Carpentry communiti
 > Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
 {: .challenge}
 
-## Workshop Operations
+## Contributions
 
-We have recorded what we've learned about writing workshops
-in an [operations guide][swc-operations]
-and a set of checklists (linked from that page)
-that describes what everyone involved in a workshop is expected to do and why.
-Questions, corrections, and additions are *very* welcome.
-
-Since January 2015 we have run bi-weekly debriefing sessions
-for instructors who have recently taught workshops.
-In these,
-instructors discuss what they actually did,
-how it worked,
-how the lessons they actually delivered differed from our templates,
-what problems arose,
-and how they were addressed.
-Summaries are posted on our blog shortly after each meeting,
-and eventually added to our operations guide.
-
-> ## How We Do Things
->
-> Go to the [operations guide][swc-operations]
-> and read the instructions for a regular instructor
-> and for a workshop host.
-> What situations might come up that these *don't* answer?
-{: .challenge}
-
-## Setting Up
-
-In order to communicate with learners,
-and to help us keep track of who's taught what and where,
-each workshop's instructors create a one-page website using
-[this template][workshop-template].
-Once that has been created,
-the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:{{site.contact}}),
-who adds it to our records.
-The workshop will show up on our websites shortly thereafter.
-
-> ## Practice With SWC Infrastructure
->
-> Go to the [workshop template repository][workshop-template] and follow the directions
-> to create a workshop website using your local location and today's date.
-{: .challenge}
+Start off with talking about collaborative material development in more general terms (proliferation of materials, why it happens, everyone has their version of slides, improvements never contributed back, analogy with OSS).
+Show where our materials are (using Lesson sections in DC/SWC websites). Show the website and how it connects with the source (GH).
+Show briefly this paper.
+Show a discussion thread on one of the PRs which contains a change in materials. This demonstrates well why GH is so useful (vs Wikipedia or comments in Google Doc etc). It also shows the openness of the community.
+I would also cover more about how friendly the community is - showing examples of good discussions under PRs (possibly controversial PRs). I also showed how the thread on Discuss list about "Leaving novices behind" turned into blog post.
 
 ## Assessment
 
