@@ -42,7 +42,6 @@ mind and memory, and how that may impact learning.
 >
 {: .challenge}
 
-
 While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
 As a rough approximation, human memory can be divided into two different storage
