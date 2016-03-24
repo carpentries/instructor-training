@@ -15,9 +15,8 @@ subtitle: Terms
 >     learning.  
 {: .objectives}
 
-The following terms will support the discussions and activities in the rest
-of the training by giving us a common vocabulary to talk about teaching and
-learning to teach.  
+The following terms will support the discussions and activities in the rest of the training
+by giving us a common vocabulary to talk about teaching and learning to teach.  
 
 ## Educational Psychology
 
@@ -25,17 +24,16 @@ learning to teach.
 It touches on everything from the neuropsychology of perception and the mechanisms of memory
 to the sociology of school systems
 and the philosophical question of what we actually mean by "learning"
-(which turns out to be pretty complicated once you start looking beyond
-the standardized Western classroom).  Within the broad scope of educational 
-psychology, two specific perspectives have primarily influenced 
-the Software and Data Carpentry lessons, teaching practices, 
+(which turns out to be pretty complicated once you start looking beyond the standardized Western classroom).
+Within the broad scope of educational psychology,
+two specific perspectives have primarily influenced Software and Data Carpentry's lessons and teaching practices
 (and by extension, this instructor training).  
 
-One perspective is that of *cognitivism*.  A cognitivist
-perspective focuses on *cognition* - specifically, how the brain and mind
-works and how that influences how people learn.  We can afford to focus
-on this aspect of learning, because most of our learners are
-physically safe, well fed, well educated, and highly motivated.
+One perspective is *cognitivism*.
+A cognitivist perspective focuses on *cognition*:
+specifically, how the brain and mind works and how that influences how people learn.
+We can afford to focus on this aspect of learning
+because most of our learners are physically safe, well fed, well educated, and highly motivated.
 Much of the research in education has rightly focused on people without these privileges.  
 
 Our other guiding perspective is
@@ -45,52 +43,50 @@ which focuses on the way that
 leads to people becoming members of
 a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  
 
-In the big picture, Software and Data Carpentry aim to serve new, novice researchers 
-who are exploring data management and programming on their own
-(legitimate peripheral practice) and make them aware of other people doing 
-that work (simply by attending the workshop) and the best practices and ideas 
-of that community of practice, giving them a way to become members of that 
-community.  Situated learning thus describes why we teach, and recognizes that 
-teaching and learning is necessarily rooted in a social context.  We then depend on 
-the cognitivist perspective to drive *how* we teach the specific 
-content associated with the community of practice.  Many of our teaching techniques and 
-lesson development strategies incorporate ideas from this perspective.  
+Software and Data Carpentry aim to serve researchers
+who are exploring data management and programming on their own (legitimate peripheral practice)
+and make them aware of other people doing that work (simply by attending the workshop)
+and the best practices and ideas of that community of practice,
+thereby giving them a way to become members of that community.
+Situated learning thus describes why we teach,
+and recognizes that teaching and learning is necessarily rooted in a social context.
+We then depend on the cognitivist perspective
+to drive *how* we teach the specific content associated with the community of practice.
+Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.  
 
-> ## Something to think about
+> ## Something to Think About
 > 
-> Throughout the day, take note of how this training is structured.  What pieces 
-> exemplify the situated learning perspective, i.e. where are you, as the instructor-
-> in-training, being brought into a new community of practice?  Are there any places 
-> where we are using the cognitivist ideas/techniques described later in the training? 
+> Throughout the day, take note of how this training is structured.
+> What pieces exemplify the situated learning perspective,
+> i.e., how are you, as an instructor-in-training, being brought into a new community of practice?
+> Are there any places where we are using the cognitivist ideas/techniques described later in the training? 
 {: .challenge}
 
 > ## Other Perspectives
 >
 > There are many other perspectives outside cognitivist theory ---
 > see [this site](http://www.learning-theories.com/) for summaries.
-> Besides cognitivism, those encountered most frequently include
-> *behaviorism* (which treats education as stimulus/response conditioning),
-> *constructivism* (which considers learning an active process
-> during which learners construct knowledge for themselves),
-> and *connectivism* (which emphasizes the social aspects of learning,
-> particularly those made possible by the Internet).
+> Besides cognitivism,
+> those encountered most frequently include *behaviorism*
+> (which treats education as stimulus/response conditioning),
+> *constructivism*
+> (which considers learning an active process during which learners construct knowledge for themselves),
+> and *connectivism*
+> (which emphasizes the social aspects of learning, particularly those made possible by the Internet).
 {: .callout}
 
 ## Instructional Design
 
-While what we know about educational psychology can constrain teaching, we are
-often challenged to accommodate our knowledge from the study of psychology with
-the evidence from instructional practice, and with influence stemming from
-instructor ideology.
-
-This is because, in some cases, there might be a few different approaches to
-teaching that could be used. Deciding which of these is consistent with what we
-know about how brains learn can be difficult, and might appear to clash with
-educational practitioners' ideology.
-
-If educational psychology is the science, Instructional Design (ID) is the
-engineering: it's how our scientific understanding is put into practice on the
-ground.
+Educational psychology does not tell us how to teach on its own
+because it under-constrains the problem:
+in real life,
+several different teaching methods might be consistent with what we currently know about how learning works.
+We therefore have to try those methods in the class,
+with actual learners,
+in order to find out how well they balance the different forces in play.
+This is called *instructional design* (ID);
+if educational psychology is the science,
+ID is the engineering.
 
 > ## Discussion
 >
