@@ -12,12 +12,12 @@ subtitle: Lesson Study
 >     and will correctly explain why and how peer-to-peer lesson study can.
 {: .objectives} 
 
-Continuing with our theme of instructor-as-performer, let's discuss some research 
-that suggests that improvement in educational outcomes *must*, at its core, be driven 
-by practice and communities of practice.  The tricks and techniques that make 
-teaching effective cannot be mandated from above, but will develop into widespread 
-effectiveness only as they are shared through a community of 
-teaching practice.  
+Continuing with our theme of instructor-as-performer,
+let's discuss some research that suggests that improvement in educational outcomes
+must be driven by practice and communities of practice.
+The tricks and techniques that make teaching effective cannot be mandated from above,
+but will develop into widespread effectiveness
+only as they are shared through a community of teaching practice.  
 
 ## Lesson Study
 
