@@ -11,13 +11,14 @@ while many myths about education have proven remarkably persistent.
 
 This two-day class will introduce participants to a handful of key research findings
 and show how they can be used to help people learn better and faster.
-We will look at the cognitive differences between novices, competent practitioners, and experts;
+We will look at
+the cognitive differences between novices, competent practitioners, and experts;
 why those differences require different pedagogical approaches;
 how to design formative assessments to provide feedback to both instructors and students while learning is taking place;
 how to mitigate cognitive load during learning;
 how concept maps can be used both to design lessons and to communicate those designs;
 how practices similar to pair programming and test-driven design can be used in education;
-and at teaching as a performance art.
+and how teaching is a performance art.
 
 [Software Carpentry][swc-website] has run variations on this course since 2012 for over 500 people,
 and the present material is relevant to anyone trying to teach basic programming skills to adults.
