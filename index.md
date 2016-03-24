@@ -46,6 +46,7 @@ our [code of conduct][code-of-conduct].*
 > 1. [Success in Introductory Programming: What Works?][porter-what-works] (Porter et al.)
 > 2. [Top 10 Myths About Teaching Computer Science][guzdial-10-myths] (Mark Guzdial)
 > 3. [The Science of Learning][science-of-learning]
+> 4. [Software Carpentry: Lessons Learned][swc-lessons-learned]
 
 ## Topics
 
@@ -75,4 +76,5 @@ our [code of conduct][code-of-conduct].*
 [license]: LICENSE.html
 [porter-what-works]: papers/porter-what-works-2013.pdf
 [science-of-learning]: papers/science-of-learning-2015.pdf
+[swc-lessons-learned]: http://f1000research.com/articles/3-62/v2
 [swc-website]: http://software-carpentry.org
