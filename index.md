@@ -11,13 +11,14 @@ while many myths about education have proven remarkably persistent.
 
 This two-day class will introduce participants to a handful of key research findings
 and show how they can be used to help people learn better and faster.
-We will look at the cognitive differences between novices, competent practitioners, and experts;
+We will look at
+the cognitive differences between novices, competent practitioners, and experts;
 why those differences require different pedagogical approaches;
 how to design formative assessments to provide feedback to both instructors and students while learning is taking place;
 how to mitigate cognitive load during learning;
 how concept maps can be used both to design lessons and to communicate those designs;
 how practices similar to pair programming and test-driven design can be used in education;
-and at teaching as a performance art.
+and how teaching is a performance art.
 
 [Software Carpentry][swc-website] has run variations on this course since 2012 for over 500 people,
 and the present material is relevant to anyone trying to teach basic programming skills to adults.
@@ -46,6 +47,7 @@ our [code of conduct][code-of-conduct].*
 > 1. [Success in Introductory Programming: What Works?][porter-what-works] (Porter et al.)
 > 2. [Top 10 Myths About Teaching Computer Science][guzdial-10-myths] (Mark Guzdial)
 > 3. [The Science of Learning][science-of-learning]
+> 4. [Software Carpentry: Lessons Learned][swc-lessons-learned]
 
 ## Topics
 
@@ -75,4 +77,5 @@ our [code of conduct][code-of-conduct].*
 [license]: LICENSE.html
 [porter-what-works]: papers/porter-what-works-2013.pdf
 [science-of-learning]: papers/science-of-learning-2015.pdf
+[swc-lessons-learned]: http://f1000research.com/articles/3-62/v2
 [swc-website]: http://software-carpentry.org
