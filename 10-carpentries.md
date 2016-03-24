@@ -123,6 +123,17 @@ There are several hubs of activity for the Software and Data Carpentry communiti
 > Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
 {: .challenge}
 
+### Governance
+
+Software Carpentry is a democracy:
+its seven-member [Steering Committee][swc-steering-committee] is elected annually
+by and from its membership,
+which includes every instructor who has taught in the two years leading up to the election.
+The Steering Committee has final say on all strategic and financial decisions;
+if you would like Software Carpentry to take a new direction,
+or would like to do more than teach or develop lessons,
+you are very welcome to put your name forward as a candidate.
+
 ## Workshop Operations
 
 We have recorded what we've learned about writing workshops
@@ -235,6 +246,7 @@ the assessment we do, and how often we do it.
 [swc-join]: http://software-carpentry.org/join/
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-operations]: http://software-carpentry.org/workshops/operations.html
+[swc-steering-committee]: http://software-carpentry.org/scf/
 [swc-twitter]: https://twitter.com/swcarpentry
 [swc]: http://software-carpentry.org
 [workshop-template]: https://github.com/swcarpentry/workshop-template
