@@ -26,15 +26,43 @@ It touches on everything from the neuropsychology of perception and the mechanis
 to the sociology of school systems
 and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond
-the standardized Western classroom).
+the standardized Western classroom).  Within the broad scope of educational 
+psychology, two specific perspectives have primarily influenced 
+the Software and Data Carpentry lessons, teaching practices, 
+(and by extension, this instructor training).  
 
-Within the broad scope of educational psychology,
-this training will take a narrow *cognitivist* perspective.  A cognitivist
+One perspective is that of *cognitivism*.  A cognitivist
 perspective focuses on *cognition* - specifically, how the brain and mind
-works and how that influences how people learn.  We can afford to narrowly focus
+works and how that influences how people learn.  We can afford to focus
 on this aspect of learning, because most of our learners are
 physically safe, well fed, well educated, and highly motivated.
 Much of the research in education has rightly focused on people without these privileges.  
+
+Our other guiding perspective is
+*[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
+which focuses on the way that
+*[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
+leads to people becoming members of
+a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  
+
+In the big picture, Software and Data Carpentry aim to serve new, novice researchers 
+who are exploring data management and programming on their own
+(legitimate peripheral practice) and make them aware of other people doing 
+that work (simply by attending the workshop) and the best practices and ideas 
+of that community of practice, giving them a way to become members of that 
+community.  Situated learning thus describes why we teach, and recognizes that 
+teaching and learning is necessarily rooted in a social context.  We then depend on 
+the cognitivist perspective to drive *how* we teach the specific 
+content associated with the community of practice.  Many of our teaching techniques and 
+lesson development strategies incorporate ideas from this perspective.  
+
+> ## Something to think about
+> 
+> Throughout the day, take note of how this training is structured.  What pieces 
+> exemplify the situated learning perspective, i.e. where are you, as the instructor-
+> in-training, being brought into a new community of practice?  Are there any places 
+> where we are using the cognitivist ideas/techniques described later in the training? 
+{: .challenge}
 
 > ## Other Perspectives
 >
@@ -47,15 +75,6 @@ Much of the research in education has rightly focused on people without these pr
 > and *connectivism* (which emphasizes the social aspects of learning,
 > particularly those made possible by the Internet).
 {: .callout}
-
-Another interesting perspective from our point of view is
-*[situated learning](https://en.wikipedia.org/wiki/Situated_learning)*,
-which focuses on the way that
-*[legitimate peripheral practice](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)*
-leads to people becoming members of
-a *[community of practice](https://en.wikipedia.org/wiki/Community_of_practice)*.  The
-focus on community dialogue and learning in this training reflects this situated
-learning approach.  
 
 ## Instructional Design
 
@@ -116,8 +135,6 @@ proponents of a new technique (as they often are), they are likely to produce
 positive results, but when those techniques are deployed more widely to teachers
 who have seen one bandwagon after another roll by, results will regress to the
 mean, or even beyond.
-
-
 
 > ## Quantitative and Qualitative Research
 >
