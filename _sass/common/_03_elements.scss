@@ -175,9 +175,13 @@ Use as <p class="person">...</p> or <a href="..." class="person">...</a>
 }
 
 
-
-
 /* GitHub Ribbon */
+@media print {
+    #github-ribbon {
+        display: none;
+    }
+}
+
 #github-ribbon a {
     background: #000;
     color: #fff;
