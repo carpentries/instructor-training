@@ -154,8 +154,8 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier](03-maps.html),
->     this signals the learner that
+>     As [discussed earlier](05-expertise.html),
+>     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
 >     for not being able to figure it out.
@@ -250,7 +250,7 @@ only their finished work,
 which can feed the belief that everyone else finds it easy.
 Women and minority groups,
 who already feel additional pressure to prove themselves in some settings,
-[may be particularly affected][http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf].
+[may be particularly affected](http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf).
 
 Two ways of dealing with your own impostor syndrome are:
 

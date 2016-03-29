@@ -42,7 +42,6 @@ mind and memory, and how that may impact learning.
 >
 {: .challenge}
 
-
 While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
 As a rough approximation, human memory can be divided into two different storage
@@ -120,7 +119,7 @@ separate information will need to be "stored" in memory as part of the lesson.
 
 In 2006,
 Kirschner, Sweller, and Clark published a paper titled
-"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kitschner-paper]".
+"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
 In the abstract, they say:
 
 > Although unguided or minimally guided instructional approaches

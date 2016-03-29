@@ -84,8 +84,9 @@ services:
 # (Need to be here rather than in a _data file to satisfy Jekyll.)
 #--------------------------------------------------------------------------------
 
+exclude         : [bin]
+
 markdown        : kramdown
 kramdown        :
   entity_output : as_input # &mdash; is output as &mdash;
   smart_quotes  : [39, 39, 34, 34] # decimal for left/right single/double quotes
-exclude         : [bin]
