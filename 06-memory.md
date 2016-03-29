@@ -254,6 +254,16 @@ in which the results of processing items from a collection
 are repeatedly added to a single variable in some way
 to create the final result.
 
+> ## Faded Examples - identify cognitive load
+>
+> Look at the above faded examples in Python. 
+> Try to think about two different types of learners that could benefit from leaning from these examples:
+>  * novice learners (knowing only basics of computer programming);
+>  * more advanced learners (with some experience in programming but in a language different than Python).
+> Try to identify 3 different kinds of cognitive load (germane, intrinsic and extraneous) for these two groups of learners. 
+> What differences between these groups can you notice?
+{: .challenge}
+
 ## Parsons Problems
 
 Another kind of exercise designed to reduce cognitive load is a *Parsons Problem*,
@@ -269,7 +279,9 @@ and asked to arrange them.
 Learners can then be told that they have all the lines they need save one,
 and so on.
 
-> ## Faded Examples
+
+
+> ## Faded Examples - your own example
 >
 > Construct a 3-step faded example to introduce an idea of your choice.
 > What problem-solving strategy does it teach?
