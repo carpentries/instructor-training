@@ -2,6 +2,16 @@
 layout: lesson
 subtitle: Instructors' Guide
 ---
+
+* [Context of training and big picture ideas](#big-picture)
+* [Logistics](#logistics)
+* [Schedule](#schedule)
+* [Exercises](#exercises)
+	* [Video Exercise](#exercises-video)
+	* [Checkout Discussions](#exercises-discussion)
+* [Testimonials](#testimonials)
+
+<a name="big-picture"></a>
 ## The Big Picture
 
 In 2014,
@@ -44,126 +54,6 @@ Most university lecturers are still the sole creators and consumers of their les
 which wastes time and impedes the spread of good ideas.
 Changing *that* could have more impact in the long run
 than anything to do with for loops and pull requests.
-
-## Logistics
-
-This course has been taught as a multi-week online class,
-as a two-day in-person class,
-and as a two-day class in which the learners are in co-located groups
-and the instructor participates remotely.
-
-### Multi-Week Online
-
-This was the first method we tried.
-
-*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' time zones
-    and because video conferencing systems can't handle 60+ people at once.
-    Each meeting also uses an Etherpad for shared note-taking,
-    and more importantly for asking and answering questions:
-    having several dozen people try to talk on a call hasn't worked,
-    so in most sessions,
-    the instructor does the talking
-    and learners respond through the Etherpad chat.
-
-*   Learners post homework online, then comment on each other's work.
-    *   We used a WordPress blog for the first ten rounds of training.
-        People found writing and commenting on posts straightforward,
-        but setting up dozens of logins was tedious.
-    *   We tried a GitHub-backed blog in the Winter 2015 class.
-        It didn't work nearly as well:
-        a third of the participants found it extremely frustrating,
-        and post-publication commentary was awkward.
-    *   We tried Piazza in the Fall 2015 class.
-        It was better than GitHub,
-        but still not as good as a simple WordPress blog.
-        In particular,
-        it was hard to find things once there were more than a dozen homework categories.
-
-### Two-Day In-Person
-
-This was the second method we tried.
-The biggest change was the introduction of recorded teaching exercises.
-
-*   Several times during the training,
-    participants are divided into groups of three
-    and asked to teach a short lesson (typically 2-3 minutes long).
-    In turn,
-    one person is the teacher, one the audience, and one the videographer,
-    who records the teacher using a handheld device such as a phone.
-    Group members then rotate roles:
-    the teacher becomes the listener, the listener records, and the videographer teaches.
-    Once all three have finished teaching,
-    the group reviews all three videos,
-    and everyone gives feedback on everyone (including themselves).
-    This feedback then goes into the Etherpad for discussion.
-
-*   It's important to record all three videos and then watch all three:
-    if the cycle is teach-review-teach-review,
-    the last person to teach runs out of time.
-    Doing all the reviewing after all the teaching
-    also helps put a bit of distance between the teaching and the reviewing,
-    which makes the exercise slightly less excruciating.
-
-*   This exercise only works if there are breakout rooms available:
-    if everyone is trying to record in the same room,
-    the audio cross-talk makes the recordings unintelligible.
-
-*   We use Etherpad for in-person training,
-    both for note-taking and for posting exercise solutions and feedback on recorded lessons
-    Questions and discussion are done aloud.
-
-### Two-Day Online With Groups
-
-*   We use Google Hangouts and Etherpad as in the multi-week version.
-    Each group of learners is together in a room using one camera and microphone,
-    rather than each being on the call separately.
-    We have found that having good audio matters more than having good video,
-    and that the better the audio,
-    the more learners can communicate with the instructor and other rooms by voice
-    rather than by using the Etherpad chat.
-
-*   We do the video lecture exercise as in the two-day in-person training.
-
-## Schedule
-
-The schedule for the course is evolving along with the content,
-but here's what we do in a typical two-day event:
-
-| Day 1 | 09:00 | Welcome: key concepts and training goals            |
-|       | 09:30 | Novice mind-set; formative vs. summative assessment |
-|       |       | *Exercise: multiple choice questions*               |
-|       | 10:30 | Coffee                                              |
-|       | 10:45 | Lesson study; giving feedback                       |
-|       |       | *Exercise: video recorded teaching*                 |
-|       | 11:45 | Morning wrap-up (minute cards)                      |
-|       | 12:00 | Lunch                                               |
-|       | 13:00 | Concept maps                                        |
-|       |       | *Exercise: draw and critique concept maps*          |
-|       | 14:15 | Coffee                                              |
-|       | 14:30 | Learning objectives                                 |
-|       |       | *Exercise: write and critique learning objectives*  |
-|       | 15:15 | Cognitive load                                      |
-|       | 15:30 | *Exercise: faded example*                           |
-|       | 15:45 | Wrap-up (one up, one down)                          |
-|       | 16:00 | Close                                               |
-|       |       | *Homework: read operations guide*                   |
-| Day 2 | 09:00 | Live coding demonstration                           |
-|       |       | *Exercise: live coding practice*                    |
-|       | 10:15 | Coffee                                              |
-|       | 10:30 | Review questions about operations guide             |
-|       | 11:15 | *Exercise: create workshop website*                 |
-|       | 11:45 | Wrap-up (minute cards)                              |
-|       | 12:00 | Lunch                                               |
-|       | 13:00 | Data Carpentry                                      |
-|       | 13:30 | Motivators and demotivators                         |
-|       | 14:00 | *Exercise: demotivational stories*                  |
-|       | 14:30 | Coffee break                                        |
-|       | 14:45 | Assessment                                          |
-|       |       | *Exercise: formulate assessment plans*              |
-|       | 15:30 | Checkout procedure                                  |
-|       | 15:45 | Wrap-up (one up, one down)                          |
-|       | 16:00 | Close                                               |
 
 ## Why Do(n't) We Teach X?
 
@@ -337,6 +227,132 @@ a substantial fraction won't be able to navigate to the right directory without 
 > they are less compelling than things like automating repetitive tasks.
 {: .callout}
 
+<a name="logistics"></a>
+## Logistics
+
+This course has been taught as a multi-week online class,
+as a two-day in-person class,
+and as a two-day class in which the learners are in co-located groups
+and the instructor participates remotely.  We are currently using 
+the two-day model.  
+
+### Multi-Week Online
+
+This was the first method we tried.
+
+*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
+    Each meeting is held twice (or even three times) to accommodate learners' time zones
+    and because video conferencing systems can't handle 60+ people at once.
+    Each meeting also uses an Etherpad for shared note-taking,
+    and more importantly for asking and answering questions:
+    having several dozen people try to talk on a call hasn't worked,
+    so in most sessions,
+    the instructor does the talking
+    and learners respond through the Etherpad chat.
+
+*   Learners post homework online, then comment on each other's work.
+    *   We used a WordPress blog for the first ten rounds of training.
+        People found writing and commenting on posts straightforward,
+        but setting up dozens of logins was tedious.
+    *   We tried a GitHub-backed blog in the Winter 2015 class.
+        It didn't work nearly as well:
+        a third of the participants found it extremely frustrating,
+        and post-publication commentary was awkward.
+    *   We tried Piazza in the Fall 2015 class.
+        It was better than GitHub,
+        but still not as good as a simple WordPress blog.
+        In particular,
+        it was hard to find things once there were more than a dozen homework categories.
+
+### Two-Day In-Person
+
+This was the second method we tried.
+The biggest change was the introduction of recorded teaching exercises.
+
+*   Several times during the training,
+    participants are divided into groups of three
+    and asked to teach a short lesson (typically 2-3 minutes long).
+    In turn,
+    one person is the teacher, one the audience, and one the videographer,
+    who records the teacher using a handheld device such as a phone.
+    Group members then rotate roles:
+    the teacher becomes the listener, the listener records, and the videographer teaches.
+    Once all three have finished teaching,
+    the group reviews all three videos,
+    and everyone gives feedback on everyone (including themselves).
+    This feedback then goes into the Etherpad for discussion.
+
+*   It's important to record all three videos and then watch all three:
+    if the cycle is teach-review-teach-review,
+    the last person to teach runs out of time.
+    Doing all the reviewing after all the teaching
+    also helps put a bit of distance between the teaching and the reviewing,
+    which makes the exercise slightly less excruciating.
+
+*   This exercise only works if there are breakout rooms available:
+    if everyone is trying to record in the same room,
+    the audio cross-talk makes the recordings unintelligible.
+
+*   We use Etherpad for in-person training,
+    both for note-taking and for posting exercise solutions and feedback on recorded lessons
+    Questions and discussion are done aloud.
+
+### Two-Day Online With Groups
+
+*   We use Google Hangouts and Etherpad as in the multi-week version.
+    Each group of learners is together in a room using one camera and microphone,
+    rather than each being on the call separately.
+    We have found that having good audio matters more than having good video,
+    and that the better the audio,
+    the more learners can communicate with the instructor and other rooms by voice
+    rather than by using the Etherpad chat.
+
+*   We do the video lecture exercise as in the two-day in-person training.  
+
+<a name="schedule"></a>
+## Schedule
+
+The schedule for the course is evolving along with the content,
+but here's what we do in a typical two-day event:
+
+| Day 1 | 09:00 | Welcome: key concepts and training goals            |
+|       | 09:30 | Novice mind-set; formative vs. summative assessment |
+|       |       | *Exercise: multiple choice questions*               |
+|       | 10:30 | Coffee                                              |
+|       | 10:45 | Lesson study; giving feedback                       |
+|       |       | *Exercise: video recorded teaching*                 |
+|       | 11:45 | Morning wrap-up (minute cards)                      |
+|       | 12:00 | Lunch                                               |
+|       | 13:00 | Concept maps                                        |
+|       |       | *Exercise: draw and critique concept maps*          |
+|       | 14:15 | Coffee                                              |
+|       | 14:30 | Learning objectives                                 |
+|       |       | *Exercise: write and critique learning objectives*  |
+|       | 15:15 | Cognitive load                                      |
+|       | 15:30 | *Exercise: faded example*                           |
+|       | 15:45 | Wrap-up (one up, one down)                          |
+|       | 16:00 | Close                                               |
+|       |       | *Homework: read operations guide*                   |
+| Day 2 | 09:00 | Live coding demonstration                           |
+|       |       | *Exercise: live coding practice*                    |
+|       | 10:15 | Coffee                                              |
+|       | 10:30 | Review questions about operations guide             |
+|       | 11:15 | *Exercise: create workshop website*                 |
+|       | 11:45 | Wrap-up (minute cards)                              |
+|       | 12:00 | Lunch                                               |
+|       | 13:00 | Data Carpentry                                      |
+|       | 13:30 | Motivators and demotivators                         |
+|       | 14:00 | *Exercise: demotivational stories*                  |
+|       | 14:30 | Coffee break                                        |
+|       | 14:45 | Assessment                                          |
+|       |       | *Exercise: formulate assessment plans*              |
+|       | 15:30 | Checkout procedure                                  |
+|       | 15:45 | Wrap-up (one up, one down)                          |
+|       | 16:00 | Close                                               |
+
+
+<a name="exercises"></a>
+
 ## Exercises
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
@@ -354,6 +370,8 @@ a substantial fraction won't be able to navigate to the right directory without 
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
+
+<a name="exercises-video"></a>
 
 ## Video Recorded Lessons
 
@@ -423,6 +441,8 @@ and also serves as an ice breaker:
 we want pairs of instructors at actual workshops to give one another feedback,
 and that's much easier to do once they've had some practice
 and have a rubric to follow.
+
+<a name="exercises-discussion"></a>
 
 ## Running Discussion Sessions
 
