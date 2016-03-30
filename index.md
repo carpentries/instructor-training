@@ -25,13 +25,18 @@ and the present material is relevant to anyone trying to teach basic programming
 The class will be hands-on:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
-Those who complete the two full days
-and [some short follow-up exercises online](checkout.html)
-will be certified to teach [Software Carpentry][swc-website] and/or [Data Carpentry][dc-website].
+Please note that:
 
-*These materials are freely available under a [Creative Commons license][license].
-All participants in this course are required to abide by
-our [code of conduct][code-of-conduct].*
+1.  All participants in this course are required to abide by
+    our [code of conduct][code-of-conduct].
+
+2.  Those who complete the two full days must also complete some short
+    [follow-up exercises](checkout.html)
+    in order to be certified to teach [Software Carpentry][swc-website] and/or [Data Carpentry][dc-website].
+
+These materials are freely available under a [Creative Commons license][license]
+at <https://github.com/swcarpentry/instructor-training/>.
+We are grateful for contributions, corrections, and suggestions.
 
 > ## Prerequisites
 >
@@ -42,12 +47,15 @@ our [code of conduct][code-of-conduct].*
 
 > ## Preparation
 >
-> Please read the following short pieces:
+> Please read the following short papers *before* the start of class:
 >
 > 1. [Success in Introductory Programming: What Works?][porter-what-works] (Porter et al.)
 > 2. [Top 10 Myths About Teaching Computer Science][guzdial-10-myths] (Mark Guzdial)
 > 3. [The Science of Learning][science-of-learning]
 > 4. [Software Carpentry: Lessons Learned][swc-lessons-learned]
+>
+> Please also familiarize yourself with the [checkout procedure](checkout.html)
+> to be completed after the class is over.
 
 ## Topics
 
