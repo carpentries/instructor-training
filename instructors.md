@@ -426,85 +426,80 @@ and have a rubric to follow.
 
 ## Running Discussion Sessions
 
-Discussion sessions are meant to be student-driven, but some groups
-may be quieter than others.  This is by no means an exhaustive list:
-other subjects are bound to come up, and additions from discussion
-leaders are very welcome.
+The discussion session is meant to give students
+a chance to ask questions about the lesson materials in preparation for their final checkout,
+and to meet more people from the Carpentry community.
+The discussion lead's role is to give context on the lesson material,
+as each lesson goes through many revisions and discussions that cannot be easily seen in the finished product,
+and to evaluate whether trainees were adequately prepared for the discussion.
 
-The purpose of the discussion session is for students to ask questions
-about the lesson materials in preparation for their final checkout.
-The discussion lead's role is to give context to the lesson material,
-as each lesson goes through many revisions and discussions that cannot
-be easily seen in the finished product.
+Trainees do *not* do their 5-minute demonstration lessons during the discussion sessions.
+Instead,
+once they have completed the discussion to the leader's satisfaction,
+their names should be forwarded to the head of instructor training
+so that their demonstration lesson can be scheduled.
 
-**Note:** trainees do **not** do their 5-minute demonstration lessons
-during the discussion sessions.  Instead, once they have completed the
-discussion to the leader's satisfaction, their names should be
-forwarded to their trainer so that the demonstration lesson can be
-scheduled.
+As of Spring 2016,
+we are testing an alternative format in which trainees take part in workshop debriefing sessions
+rather than in bespoke lesson discussion sessions.
+The [checkout description](checkout.html) has details,
+and both formats are described below.
 
-### Before:
+### Before
 
-*   A signup Etherpad will be sent out to trainees, who choose their
-    subject and sign up for a session.
+*   **Dedicated Lesson Discussion Sessions**
+    *   Send trainees a link to a signup Etherpad.
+    *   Set up a Google Hangout and mail the link to trainees.
+        Add the link to the signup Etherpad as well
+        (since it's the one place we know the trainees know to look).
+*   **Workshop Debriefing Sessions**
+    *   Send trainees a pointer to the
+        [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
+    *   Send them a link to the debriefing Etherpad.
 
-*   All meetings should use the Etherpad that is being used to register
-    for discussion sessions, so that all comments and feedback are
-    collected in one document.
-
-*   The discussion lead is free to use the Software Carpentry persistent
-    BlueJeans connection, or other options such as Google Hangouts or
-    Skype if they prefer.  The lead must post information about the
-    connection to the discussion session's Etherpad so that people
-    will know how to join.
-
-### During:
+### During
 
 *   Remind students that the Etherpad is a public, persistent document,
     and that ideas and issues from the Etherpad may be used by the SCF.
-
-*   Explain how the checkout procedure itself goes:
-
-    *   After the trainee has completed the discussion session to the discussion leader's satisfaction,
-        the leader will forward her name to the trainer.
-
-    *   The trainer will then schedule a 5-minute slot for a demonstration lesson
-        and communicate it to the trainee.
-
-    *   In that session,
-        the trainee will be asked to teach 5 minutes from her chosen lesson
-        selected by the trainer.
-        The trainee will *not* know in advance which 5 minutes she will be asked to teach
-        (which encourages her to prepare the entire lesson).
-
-    *   Everyone will be notified afterwards by email whether they
-        passed or not.
-
+*   Briefly review the [checkout procedure](checkout.html).
+    Make sure trainees understand that *they* pick the lesson,
+    but *we* pick the segment from that lesson.
+*   Inform them that they will be notified after the session by email
+    about whether they passed.
 *   Make sure that all know where the lesson material can be found.
     Ensure that they all know about the instructor guide.
+*   Discuss the fact that the lesson material is under continuous development.
+    Tell the students that any and all changes to the lesson material that might improve on it is welcome.
+*   Ask the leading questions give in the rubric below.
 
-*   Discuss the fact that the lesson material is under continuous
-    development.  Tell the students that any and all changes to the
-    lesson material that might improve on it is welcome.  If anybody
-    has any comments on the material, they are very welcome.
 
-*   Go through each of the modules in the lesson and ask if anybody has
-    any problems, questions, or comments about the module.  This
-    walkthrough is particularly important if any of the participants
-    are on the quieter side.
-
-*   It is important that we ensure that all of the participants get to
-    discuss their issues.  In cases where all participants are vocal,
-    a structured walkthrough may not be necessary.
+Note:
+it is important that we ensure that *all* trainees get to raise issues.
+If some trainees are more vocal than others,
+or if trainees are mixed with experienced instructors (in debriefing sessions),
+the discussion leader must moderate and ask leading questions
+to give everyone a fair chance to speak.
 
 ### After:
 
-*   If any of the participants seemed unprepared (e.g., had no
-    questions), send them an email after the session asking them to
-    sign up for another discussion session.
-
 *   Report to the trainers the people who were in your session, and
     whether you deemed them ready to go forth to the checkout session.
+*   If any of the participants seemed unprepared (e.g., had no questions),
+    ask them to sign up for another discussion session.
+
+### Rubric:
+
+*   Have you been a learner, helper, or instructor at a workshop before?
+    If so, which one(s), and what were the most interesting or surprising things you learned?
+*   What pre- and during-workshop responsibilities does each instructor have?
+*   What lesson have you selected for your demonstration lesson?
+*   Have you tested installation of the required software?
+*   How long do you think it will actually take to teach?
+    (Alternatively, how far do you actually expect to get?)
+*   Are you adapting or modifying the lesson material?
+    If so, how and why?
+*   What are you most excited about teaching? (Be specific.)
+*   What are you most apprehensive about teaching? (Be specific.)
 
 ## Testimonials
 
