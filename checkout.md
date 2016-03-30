@@ -11,7 +11,7 @@ you must go through these steps in order to complete your training and be certif
 
 We would like to get everyone through this process within two months of training,
 so please get started as soon as you can.
-Anyone who has not completed within three months should contact their trainer,
+Anyone who has not completed within 90 days should contact their trainer,
 or the head of instructor training,
 to discuss reasons and options.
 
