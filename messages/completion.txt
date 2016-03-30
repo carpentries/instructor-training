@@ -2,10 +2,25 @@ Thanks again for taking part in Software Carpentry instructor training --- we're
 
 1.  Take a moment to update your profile at https://amy.software-carpentry.org/workshops/update_profile/ so we know where you are and what you're comfortable teaching.
 
-2.  Send us a three-line bio and a photo to add to our team page at http://software-carpentry.org/team/.
+2.  Send us a three-line bio and a photo to add to our team page at http://software-carpentry.org/team/ (instructions below).
 
 3.  Make sure you're on the instructors' mailing list at http://software-carpentry.org/join/ so that you'll get notice about upcoming workshops that need instructors. If you'd like us to help you organize one where you are, please let us know.
 
 Please also join the discussion list (same page as the instructors' list): it's low traffic and high signal-to-noise, and it would be great to have your input on what we're doing.
 
 Thanks again!
+Greg
+
+You can submit your bio and photo in one of three ways:
+
+1. fork the https://github.com/swcarpentry/website repository and create a pull request with:
+
+   - a short HTML file in _includes/people called "user_id.html" (your user ID is usually "lastname_firstname")
+
+   - an JPG image that is 200 pixels wide and roughly square to files/people called "user_id.png" or "user_id.jpg"
+
+2. Open an issue in that repo that includes the text you want and your photo, and we'll format it.
+
+3. Email your bio and photo to training-help@software-carpentry.org, and we'll format it.
+
+Whichever route you choose, please look at some of the bios in _includes/people to see what format we prefer and information we require.
