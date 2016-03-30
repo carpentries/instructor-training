@@ -26,7 +26,7 @@ The class will be hands-on:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online](11-checkout.html)
+and [some short follow-up exercises online](checkout.html)
 will be certified to teach [Software Carpentry][swc-website] and/or [Data Carpentry][dc-website].
 
 *These materials are freely available under a [Creative Commons license][license].
@@ -61,10 +61,10 @@ our [code of conduct][code-of-conduct].*
 8.  [Teaching Practices](08-practices.html)
 9.  [Motivation and Demotivation](09-motivation.html)
 10. [The Carpentries](10-carpentries.html)
-11. [Instructor Checkout Procedure](11-checkout.html)
 
 ## Other Resources
 
+*   [Checkout Procedure](checkout.html)
 *   [Reference Guide](reference.html)
 *   [Next Steps](discussion.html)
 *   [Instructors' Guide](instructors.html)
