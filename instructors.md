@@ -624,7 +624,13 @@ that taught beginner computing effectively and taught teachers how to teach begi
 Without a doubt,
 my involvement with the Software Carpentry community has helped me to become a better teacher, scientist, and collaborator.
 I'm very excited to be an instructor trainer so that I can empower others
-with tools, confidence, and resources they need to advance their careers.  
+with tools, confidence, and resources they need to advance their careers.
+
+### Alistair Walsh
+
+I love teaching. Seeing the wide eyed moment of realisation that I see on learners faces when something "clicks" is one of the best feelings in the world. Why I want to teach the Software Carpentry method in particular is because I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that. 
+
+Coding is the new literacy and I want it to be a skill that everyone has so that we all takes part in shaping our world rather than it being a few people from a narrow range of backgrounds and experiences. I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
