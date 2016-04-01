@@ -510,90 +510,19 @@ scheduled.
 
 <a name="testimonials"></a>
 
-### Greg Wilson
+### Steve Crouch
 
-My daughter is eight years old,
-and is going to inherit all the problems my generation did not have the backbone to solve.
-Climate change,
-mass extinctions,
-drug-resistant diseases,
-resource shortages:
-if we had started working on them twenty years ago we'd be done now,
-but instead we ducked and dithered,
-so that all those bills are going to come due in her lifetime.
+Writing software in an academic environment can be a real challenge,
+and a very rewarding part of my job involves helping researchers improve their research software,
+and perhaps more importantly,
+the way in which they develop it.
+Transferring crucial skills into the wider community as a teacher allows me to reach even more people,
+and help improve the overall situation with developing research software at an early stage of many researcher's careers.
 
-I believe the only things that will get us through the next fifty years are more science and more courage.
-I co-founded Software Carpentry to help with the science part of that equation,
-but over the last few years I've come to believe that we can help with the courage as well.
-We are braver together than we are alone;
-by teaching scientists how to collaborate on research today,
-we are preparing them to work together on things that really matter tomorrow.
-
-### Fiona Tweedie
-
-My training is in Ancient History and Classics,
-and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
-The Humanities must have a place shaping our discourse and our future
-and I see myself as a translator and guide in this emerging world.
-
-As someone not from a programming background I've asked all the basic questions
-and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
-Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
-I hope that seeing a Latin major up the front of the room reassures students that
-they can become capable software carpenters in their own rights.
-
-### Christina Koch
-
-I love ideas.
-As a mathematician, bibliophile, and general enthusiast for most things,
-I am a self-proclaimed nerd---a term I use to mean
-"someone who loves thinking, ideas, and learning new things."
-
-I love people (at least, I try).
-Most wisdom traditions,
-and my own experience,
-tell me that I'm not here to live for myself,
-but that we're all in this together.
-
-Most of all, I love sharing ideas with people.
-The best moments in life, for me,
-are facilitating intellectual insights along with personal connections.
-Those moments are what build a community that continues living in hope and adventure,
-especially important in times of fear and division.
-I teach to make those moments possible for myself and for others.
-
-### Belinda Weaver
-
-I've worked in a university for more than twenty years in a variety of roles - librarian,
-library manager, Internet trainer, journalism teacher - and I've seen how researchers'
-training needs have changed dramatically over that period. Increasingly, researchers
-need to find answers in data they already have, are collecting, or are generating - and they can't
-do that without tools. The data are too big now, and the scale of research is so much larger.
-
-Research training barely addresses the fact that all researchers now need to think
-computationally, and that they desperately need tools to increase their speed and efficiency 
-in analysing data. This is a gap that Software and Data Carpentry training can fill. 
-
-It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
-useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
-That is why I trained as an instructor. 
-
-### Aleksandra Pawlik
-
-I teach for purely selfish reasons.
-It is a great feeling when attendees come up to me during or after the workshop
-saying how useful they found it.
-It feels great when attendees engage in the lesson or discuss exercises in pairs
-and I see them being truly happy when they get the computer to do what they want.
-It feels great when I accidentally meet one of the participants some time after the workshop
-and they say how much the teaching helped them in their research. 
-
-It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
-
-I also had a very bad experience as a student studying Computer Science.
-With a lot of struggle I graduated convinced that
-I'm too stupid to do anything related with computers for a living or even as a hobby.
-I don't want other people to feel like that.
+I have found Software Carpentry to be a truly transformative and fascinating experience,
+not only for those I teach but also for myself,
+and reinforces the notion that improving and learning new research software development skills
+is a continuous and vastly rewarding experience.
 
 ### Neal Davis
 
@@ -626,11 +555,102 @@ my involvement with the Software Carpentry community has helped me to become a b
 I'm very excited to be an instructor trainer so that I can empower others
 with tools, confidence, and resources they need to advance their careers.
 
+### Christina Koch
+
+I love ideas.
+As a mathematician, bibliophile, and general enthusiast for most things,
+I am a self-proclaimed nerd---a term I use to mean
+"someone who loves thinking, ideas, and learning new things."
+
+I love people (at least, I try).
+Most wisdom traditions,
+and my own experience,
+tell me that I'm not here to live for myself,
+but that we're all in this together.
+
+Most of all, I love sharing ideas with people.
+The best moments in life, for me,
+are facilitating intellectual insights along with personal connections.
+Those moments are what build a community that continues living in hope and adventure,
+especially important in times of fear and division.
+I teach to make those moments possible for myself and for others.
+
+### Aleksandra Pawlik
+
+I teach for purely selfish reasons.
+It is a great feeling when attendees come up to me during or after the workshop
+saying how useful they found it.
+It feels great when attendees engage in the lesson or discuss exercises in pairs
+and I see them being truly happy when they get the computer to do what they want.
+It feels great when I accidentally meet one of the participants some time after the workshop
+and they say how much the teaching helped them in their research. 
+
+It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
+
+I also had a very bad experience as a student studying Computer Science.
+With a lot of struggle I graduated convinced that
+I'm too stupid to do anything related with computers for a living or even as a hobby.
+I don't want other people to feel like that.
+
+### Fiona Tweedie
+
+My training is in Ancient History and Classics,
+and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
+The Humanities must have a place shaping our discourse and our future
+and I see myself as a translator and guide in this emerging world.
+
+As someone not from a programming background I've asked all the basic questions
+and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
+Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
+I hope that seeing a Latin major up the front of the room reassures students that
+they can become capable software carpenters in their own rights.
+
 ### Alistair Walsh
 
-I love teaching. Seeing the wide eyed moment of realisation that I see on learners faces when something "clicks" is one of the best feelings in the world. Why I want to teach the Software Carpentry method in particular is because I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that. 
+I love teaching.
+Seeing the wide eyed moment of realisation that I see on learners faces when something "clicks" is one of the best feelings in the world.
+Why I want to teach the Software Carpentry method in particular is because
+I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that. 
 
-Coding is the new literacy and I want it to be a skill that everyone has so that we all takes part in shaping our world rather than it being a few people from a narrow range of backgrounds and experiences. I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
+Coding is the new literacy
+and I want it to be a skill that everyone has so that we all takes part in shaping our world
+rather than it being a few people from a narrow range of backgrounds and experiences.
+I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
+
+### Belinda Weaver
+
+I've worked in a university for more than twenty years in a variety of roles - librarian,
+library manager, Internet trainer, journalism teacher - and I've seen how researchers'
+training needs have changed dramatically over that period. Increasingly, researchers
+need to find answers in data they already have, are collecting, or are generating - and they can't
+do that without tools. The data are too big now, and the scale of research is so much larger.
+
+Research training barely addresses the fact that all researchers now need to think
+computationally, and that they desperately need tools to increase their speed and efficiency 
+in analysing data. This is a gap that Software and Data Carpentry training can fill. 
+
+It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
+useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
+That is why I trained as an instructor. 
+
+### Greg Wilson
+
+My daughter is eight years old,
+and is going to inherit all the problems my generation did not have the backbone to solve.
+Climate change,
+mass extinctions,
+drug-resistant diseases,
+resource shortages:
+if we had started working on them twenty years ago we'd be done now,
+but instead we ducked and dithered,
+so that all those bills are going to come due in her lifetime.
+
+I believe the only things that will get us through the next fifty years are more science and more courage.
+I co-founded Software Carpentry to help with the science part of that equation,
+but over the last few years I've come to believe that we can help with the courage as well.
+We are braver together than we are alone;
+by teaching scientists how to collaborate on research today,
+we are preparing them to work together on things that really matter tomorrow.
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
