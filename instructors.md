@@ -632,6 +632,13 @@ I love teaching. Seeing the wide eyed moment of realisation that I see on learne
 
 Coding is the new literacy and I want it to be a skill that everyone has so that we all takes part in shaping our world rather than it being a few people from a narrow range of backgrounds and experiences. I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
 
+### Lex Nederbragt
+
+Teaching in general, and at Software and Data Carpentry workshops in particular, gives me great pleasure and is one of the most personally rewarding activities I engage in. With Software Carpentry, I feel I belong to a community that shares many of the same values I have: openness, tolerance, a focus on quality in teaching to name a few. The instructor training program is the best pedagogical program I know of, and it is amazing to see how Software and Data Carpentry are building a community of educators that are fully grounded in the research on educational practices. 
+
+Being an instructor is my way of making a small, but hopefully significant, contribution to improving Science, and thus the world.
+
+
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: papers/stefik-summary-2016.pdf
