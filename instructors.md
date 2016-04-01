@@ -575,6 +575,22 @@ Those moments are what build a community that continues living in hope and adven
 especially important in times of fear and division.
 I teach to make those moments possible for myself and for others.
 
+### Lex Nederbragt
+
+Teaching in general,
+and at Software and Data Carpentry workshops in particular,
+gives me great pleasure and is one of the most personally rewarding activities I engage in.
+With Software Carpentry,
+I feel I belong to a community that shares many of the same values I have:
+openness, tolerance, a focus on quality in teaching to name a few.
+The instructor training program is the best pedagogical program I know of,
+and it is amazing to see how Software and Data Carpentry are building a community of educators
+that are fully grounded in the research on educational practices. 
+
+Being an instructor is my way of making a small,
+but hopefully significant,
+contribution to improving science, and thus the world.
+
 ### Aleksandra Pawlik
 
 I teach for purely selfish reasons.
@@ -651,13 +667,6 @@ but over the last few years I've come to believe that we can help with the coura
 We are braver together than we are alone;
 by teaching scientists how to collaborate on research today,
 we are preparing them to work together on things that really matter tomorrow.
-
-### Lex Nederbragt
-
-Teaching in general, and at Software and Data Carpentry workshops in particular, gives me great pleasure and is one of the most personally rewarding activities I engage in. With Software Carpentry, I feel I belong to a community that shares many of the same values I have: openness, tolerance, a focus on quality in teaching to name a few. The instructor training program is the best pedagogical program I know of, and it is amazing to see how Software and Data Carpentry are building a community of educators that are fully grounded in the research on educational practices. 
-
-Being an instructor is my way of making a small, but hopefully significant, contribution to improving Science, and thus the world.
-
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
