@@ -232,3 +232,8 @@ are facilitating intellectual insights along with personal connections.
 Those moments are what build a community that continues living in hope and adventure,
 especially important in times of fear and division.
 I teach to make those moments possible for myself and for others.
+
+### Jason Williams
+
+I am fascinated and privileged to have the opportunity to work at the intersection of the *biological* and the *technological*. Working in the world of bioinformatics and education, I actually spend a fair amount of time traveling to institutions across the U.S. and abroad. I'm amazed at the people I get to work with and believe Software Carpentry's mission creates an opportunity to *add* the *distinctiveness* of our learners and their perspectives to *our own* unique approach to education. *Adapting* the scientific *culture* of our leaners to *service us* in our grand mission will undoubtedly lead to a *more perfect* world with a harmony of thought and purpose the world has never witnessed. Collaboration is key to having thousands of scientists *working as one* - to me this idea is irresistible. As Greg Wilson has said "We are braver together than we are alone." 
+
