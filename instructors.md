@@ -649,6 +649,19 @@ It's not a good day for me if I haven't helped *someone*. Being able to introduc
 useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
 That is why I trained as an instructor. 
 
+### Jason Williams
+
+I am fascinated and privileged to have the opportunity to work at the intersection of the biological and the technological.
+Working in the world of bioinformatics and education,
+I actually spend a fair amount of time traveling to institutions across the U.S. and abroad.
+I'm amazed at the people I get to work with
+and believe Software Carpentry's mission creates an opportunity to add the distinctiveness of our learners
+and their perspectives to our own unique approach to education.
+Collaboration is key to having thousands of scientists working as one,
+and to me this idea is irresistible.
+As the saying goes,
+"We are braver together than we are alone." 
+
 ### Greg Wilson
 
 My daughter is eight years old,
