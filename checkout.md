@@ -1,6 +1,7 @@
 ---
 layout: lesson
 subtitle: Checkout Procedure
+email: training-help@software-carpentry.org
 ---
 After you have finished the two-day training class,
 you must go through these steps in order to complete your training and be certified:
@@ -15,7 +16,7 @@ Anyone who has not completed within 90 days should contact their trainer,
 or the head of instructor training,
 to discuss reasons and options.
 
-## Submit a Small Change to One of Our Lessons
+## Part 1: Submit a Small Change to One of Our Lessons
 <a name="lesson-change"></a>
 
 Our lessons are maintained and improved by the people who teach them,
@@ -38,7 +39,7 @@ Please note that:
     you may submit the change either as a pull request
     or by filing an issue in GitHub that describes your proposed change.
     Either way,
-    send a link to the pull request or issue to your trainer
+    send a link to the pull request or issue to [{{page.email}}]({{page.email}})
     so that she can shepherd it through the review process.
 
 2.  Your change doesn't have to be accepted in order for you to become an instructor:
@@ -103,7 +104,7 @@ The lessons you may submit to are:
 3.  [Stable Software Carpentry lessons](https://software-carpentry.org/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives.
 
-## Take Part in An Online Discussion Session
+## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
 
 After you have submitted a change to one of our lessons,
@@ -171,7 +172,7 @@ she may ask you to come back for another session later.
 > You are still required to familiarize yourself with one particular lesson before taking part,
 > and to bring questions about it to discuss.
 
-## Teach a Short Demonstration Lesson
+## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 
 Once you have completed your discussion session,
@@ -180,7 +181,8 @@ the final step is to sign up for a 5-minute online demonstration lesson
 (or add yourself to the top of the pad if none of the available times work for you).
 Like the discussion sessions,
 these demonstration lessons are run as video conferences using Google Hangouts,
-and the instructor leading the session will post connection details and other information in [the Etherpad](http://pad.software-carpentry.org/teaching-demos)
+and the instructor leading the session will post connection details and other information
+in [the Etherpad](http://pad.software-carpentry.org/teaching-demos)
 shortly before it begins.
 
 For your teaching demonstration,
@@ -220,4 +222,4 @@ and when and where to sign up for another session.
 
 If you have any questions or suggestions about any of the above,
 please contact your trainer
-or mail us at [training-help@software-carpentry.org](training-help@software-carpentry.org).
+or mail us at [{{page.email}}]({{page.email}}).
