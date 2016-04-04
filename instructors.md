@@ -498,6 +498,9 @@ to give everyone a fair chance to speak.
     (Alternatively, how far do you actually expect to get?)
 *   Are you adapting or modifying the lesson material?
     If so, how and why?
+*   Are there things in the material that you don't understand or feel uncertain about?
+*   Where in the material learners are most likely to misunderstand things or get lost,
+    and why?
 *   What are you most excited about teaching? (Be specific.)
 *   What are you most apprehensive about teaching? (Be specific.)
 
