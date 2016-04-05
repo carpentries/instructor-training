@@ -1,6 +1,9 @@
 ---
 layout: lesson
 subtitle: Checkout Procedure
+calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
+demopad: http://pad.software-carpentry.org/teaching-demos
+discussionpad: http://pad.software-carpentry.org/lesson-discussion-2016
 email: training-help@software-carpentry.org
 ---
 After you have finished the two-day training class,
@@ -10,10 +13,8 @@ you must go through these steps in order to complete your training and be certif
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
-We would like to get everyone through this process within two months of training,
-so please get started as soon as you can.
-Anyone who has not completed within 90 days should contact their trainer,
-or the head of instructor training,
+We would like to get everyone through this process within two months of training.
+Anyone who has not completed within 90 days should [contact us](mailto:{{page.email}})
 to discuss reasons and options.
 
 ## Part 1: Submit a Small Change to One of Our Lessons
@@ -21,7 +22,7 @@ to discuss reasons and options.
 
 Our lessons are maintained and improved by the people who teach them,
 so this part of the checkout procedure gives you a chance to familiarize yourself
-with the way we manage that.
+with our collaborative curriculum development process.
 
 Pick one of the lessons from the list given later in this section
 and submit a *small* change.
@@ -30,7 +31,7 @@ when qualifying as a Software Carpentry instructor:
 the goal is to be sure you are familiar with the process.
 
 Your change can be a new exercise or diagram,
-or improve one or more of the lesson's learning objectives.
+or an improvement to one or more of the lesson's learning objectives.
 Please note that:
 
 1.  If you want to teach Software Carpentry,
@@ -39,7 +40,7 @@ Please note that:
     you may submit the change either as a pull request
     or by filing an issue in GitHub that describes your proposed change.
     Either way,
-    send a link to the pull request or issue to [{{page.email}}]({{page.email}})
+    send a link to the pull request or issue to [{{page.email}}](mailto:{{page.email}})
     so that she can shepherd it through the review process.
 
 2.  Your change doesn't have to be accepted in order for you to become an instructor:
@@ -134,19 +135,20 @@ The first two questions are intended to help you become more comfortable with
 The third and fourth question refer back to the instructor training course,
 and are meant to give you a chance to apply some of what you've learned to these specific lessons.
 
-Once you are familiar with a lesson,
-add yourself to an upcoming discussion session on [this Etherpad](http://pad.software-carpentry.org/lesson-discussion-2016),
-or put yourself in the list at the top
-if there isn't an upcoming discussion session for your lesson that fits your schedule.
-The person running your discussion session
-will add video conferencing details to [the Etherpad](http://pad.software-carpentry.org/lesson-discussion-2016)
-before the session starts;
-at present,
-most sessions use Google Hangouts,
-so please make sure you have a Google account or some other login that will work with Hangouts.
-Please also use a headset with a built-in microphone during the session
-rather than open-air speakers and your laptop's built-in microphone,
-since the latter often lead to audio quality problems.
+Once you are familiar with a lesson:
+
+1. Add yourself to an upcoming discussion session on [this Etherpad]({{page.discussionpad}})
+   (or put yourself in the list at the top
+   if there isn't an upcoming discussion session for your lesson that fits your schedule).
+2. The person running your discussion session
+   will add video conferencing details to [the Etherpad]({{page.discussionpad}})
+   before the session starts.
+   At present,
+   most sessions use Google Hangouts,
+   so please make sure you have a Google account or some other login that will work with Hangouts.
+3. Please also use a headset with a built-in microphone during the session
+   rather than open-air speakers and your laptop's built-in microphone,
+   since the latter often lead to audio quality problems.
 
 During the session,
 you are expected to ask questions about issues you noticed while reading your chosen lesson,
@@ -167,7 +169,7 @@ she may ask you to come back for another session later.
 > and get answers to questions about a broader range of topics.
 > Your trainer will let you know if this option is being offered to your group;
 > if it is,
-> please see our [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com)
+> please see our [Community Calendar]({{page.calendar}})
 > for the times of upcoming debriefing sessions.
 > You are still required to familiarize yourself with one particular lesson before taking part,
 > and to bring questions about it to discuss.
@@ -177,12 +179,12 @@ she may ask you to come back for another session later.
 
 Once you have completed your discussion session,
 the final step is to sign up for a 5-minute online demonstration lesson
-[this Etherpad](http://pad.software-carpentry.org/teaching-demos)
+[this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 Like the discussion sessions,
 these demonstration lessons are run as video conferences using Google Hangouts,
 and the instructor leading the session will post connection details and other information
-in [the Etherpad](http://pad.software-carpentry.org/teaching-demos)
+in [the Etherpad]({{page.demopad}})
 shortly before it begins.
 
 For your teaching demonstration,
@@ -222,4 +224,4 @@ and when and where to sign up for another session.
 
 If you have any questions or suggestions about any of the above,
 please contact your trainer
-or mail us at [{{page.email}}]({{page.email}}).
+or mail us at [{{page.email}}](mailto:{{page.email}}).
