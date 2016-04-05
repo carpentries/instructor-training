@@ -1,6 +1,7 @@
 ---
 layout: lesson
 subtitle: Instructors' Guide
+email: training-help@software-carpentry.org
 ---
 ## The Big Picture
 
@@ -485,10 +486,11 @@ Note:
 
 ### After:
 
-*   Report to the trainers the people who were in your session, and
-    whether you deemed them ready to go forth to the checkout session.
 *   If any of the participants seemed unprepared (e.g., had no questions),
     ask them to sign up for another discussion session.
+*   Send email to [{{page.email}}](mailto:{{page.email}})
+    about the people who were in your session
+    and whether they are ready to go forward to the checkout session.
 
 ## Testimonials
 
