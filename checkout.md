@@ -174,6 +174,29 @@ she may ask you to come back for another session later.
 > You are still required to familiarize yourself with one particular lesson before taking part,
 > and to bring questions about it to discuss.
 
+### Rubric
+<a name="rubric"></a>
+
+Trainees should be prepared to answer these questions during the discussion session:
+
+*   Have you been a learner, helper, or instructor at a workshop before?
+    If so, which one(s), and what were the most interesting or surprising things you learned?
+*   What pre- and during-workshop responsibilities does each instructor have?
+*   What lesson have you selected for your demonstration lesson?
+*   Have you tested installation of the required software?
+*   How long do you think it will actually take to teach?
+    (Alternatively, how far do you actually expect to get?)
+*   Are you adapting or modifying the lesson material?
+    If so, how and why?
+*   Are there things in the material that you don't understand or feel uncertain about?
+*   Where in the material learners are most likely to misunderstand things or get lost,
+    and why?
+*   What are you most excited about teaching? (Be specific.)
+*   What are you most apprehensive about teaching? (Be specific.)
+
+(Note that any particular trainee will only be asked some of these questions,
+but they should prepare answers to all of them.)
+
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 

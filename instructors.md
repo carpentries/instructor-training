@@ -470,15 +470,18 @@ and both formats are described below.
     Ensure that they all know about the instructor guide.
 *   Discuss the fact that the lesson material is under continuous development.
     Tell the students that any and all changes to the lesson material that might improve on it is welcome.
-*   Ask the leading questions give in the rubric below.
-
+*   Ask the leading questions give in [the rubric in the checkout description](checkout.html#rubric).
 
 Note:
-it is important that we ensure that *all* trainees get to raise issues.
-If some trainees are more vocal than others,
-or if trainees are mixed with experienced instructors (in debriefing sessions),
-the discussion leader must moderate and ask leading questions
-to give everyone a fair chance to speak.
+
+1.  It is important that we ensure that *all* trainees get to raise issues.
+    If some trainees are more vocal than others,
+    or if trainees are mixed with experienced instructors (in debriefing sessions),
+    the discussion leader must moderate and ask leading questions
+    to give everyone a fair chance to speak.
+2.  We do not need to ask every question of every trainee,
+    just as we do not ask every trainee to teach an entire half-day lesson.
+    Try instead to mix up the questions to check that the trainees have prepared adequately.
 
 ### After:
 
@@ -486,23 +489,6 @@ to give everyone a fair chance to speak.
     whether you deemed them ready to go forth to the checkout session.
 *   If any of the participants seemed unprepared (e.g., had no questions),
     ask them to sign up for another discussion session.
-
-### Rubric:
-
-*   Have you been a learner, helper, or instructor at a workshop before?
-    If so, which one(s), and what were the most interesting or surprising things you learned?
-*   What pre- and during-workshop responsibilities does each instructor have?
-*   What lesson have you selected for your demonstration lesson?
-*   Have you tested installation of the required software?
-*   How long do you think it will actually take to teach?
-    (Alternatively, how far do you actually expect to get?)
-*   Are you adapting or modifying the lesson material?
-    If so, how and why?
-*   Are there things in the material that you don't understand or feel uncertain about?
-*   Where in the material learners are most likely to misunderstand things or get lost,
-    and why?
-*   What are you most excited about teaching? (Be specific.)
-*   What are you most apprehensive about teaching? (Be specific.)
 
 ## Testimonials
 
