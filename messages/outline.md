@@ -1,5 +1,5 @@
-Terms
-=====
+General Terms
+=============
 
 * Educational psychology
 	* Cognitivist
@@ -7,7 +7,7 @@ Terms
 * Instructional Design
 * Pedagogical Content Knowledge
 
-Theory + Tools
+Theory and Tools
 ==============
 
 Cognitive Development + Mental Models
@@ -68,14 +68,11 @@ Performance and Practice
 
 * What are advantages / disadvantages to live coding? 
 
-* What other practices are used in SWC/DC workshops?  
+* What other practices are used in Software / Data Carpentry workshops?  
 
 * What factors will: 
 	* motivate learners?  
 	* demotivate learners?
-		* stereotype threat
-		* imposter syndrome
-		* mindset
 
 Community of Practice
 =====================
