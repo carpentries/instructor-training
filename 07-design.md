@@ -368,10 +368,11 @@ A learner profile for Software Carpentry might be:
 >
 > In groups of 2-4,
 > choose one of the following topics
+> (or something else that you might explain to a senior high school class)
 > and develop learning objectives for a 10-minute introductory lesson on it.
 > Compare your learning objectives to those developed by other groups:
 > how easy or hard would it be for an independent observer
-> to determine whether your objectives or theirs had been achieved?
+> to determine whether your objectives or the other groups' had been achieved?
 >
 > *   The difference between velocity and momentum.
 > *   Volcanic, fold, and block mountain formation.

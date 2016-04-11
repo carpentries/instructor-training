@@ -3,21 +3,21 @@ layout: lesson
 subtitle: Lesson Study
 ---
 > ## Motivating Question
-> How do teachers improve?  
+> How do teachers improve?
 {: .question}
 
 > ## Learning Objectives
 >
 > *   Learner will understand why standardized testing cannot by itself improve educational outcomes,
 >     and will correctly explain why and how peer-to-peer lesson study can.
-{: .objectives} 
+{: .objectives}
 
-Continuing with our theme of instructor-as-performer, let's discuss some research 
-that suggests that improvement in educational outcomes *must*, at its core, be driven 
-by practice and communities of practice.  The tricks and techniques that make 
-teaching effective cannot be mandated from above, but will develop into widespread 
-effectiveness only as they are shared through a community of 
-teaching practice.  
+Continuing with our theme of instructor-as-performer,
+let's discuss some research that suggests that improvement in educational outcomes
+must be driven by practice and communities of practice.
+The tricks and techniques that make teaching effective cannot be mandated from above,
+but will develop into widespread effectiveness
+only as they are shared through a community of teaching practice.
 
 ## Lesson Study
 
@@ -44,14 +44,14 @@ Its core begins with a discussion of what James Stigler discovered during a visi
 >
 > The Japanese teachers, meanwhile, turned "I, We, You" inside out.
 > You might call their version "You, Y'all, We."
-> They began not with an 
+> They began not with an
 > introduction,
-> but a single problem that students spent ten or twenty 
+> but a single problem that students spent ten or twenty
 > minutes working through alone (You)...
 > While the students worked,
 > the teacher wove through the students' desks,
 > studying what they came up with and taking notes to remember who had which idea.
-> Sometimes the teacher then deployed the students to discuss the problem in small 
+> Sometimes the teacher then deployed the students to discuss the problem in small
 > groups (Y'all).
 > Next, the teacher brought them back to the whole group,
 > asking students to present their different ideas for how to solve the problem on the chalkboard...
@@ -175,14 +175,14 @@ As the abstract of the latter paper says:
 > without input from outside sources,
 > or involved only personal interaction with other educators.
 
-As stated at the beginning, the main goal of this training is to be this kind of 
-lesson study, where instructors can come together to discuss and share practices, 
-and to get feedback.  
+As stated at the beginning, the main goal of this training is to be this kind of
+lesson study, where instructors can come together to discuss and share practices,
+and to get feedback.
 
 > ## Feedback on Yourself
 >
 > Split into groups of three,
-> and then have each person introduce themselves and 
+> and then have each person introduce themselves and
 > then teach a 90-second lesson on
 > the most interesting aspect of their own research or work
 > to another person in the group
@@ -195,91 +195,91 @@ and to get feedback.
 > the person who was recording becomes the audience)
 > and then rotate roles again.
 > After everyone in the group of three has finished teaching,
-> watch the videos as a group.  After watching all the videos, 
-> give feedback on each person's strengths and weaknesses.  
-> Returning to the large group, share your strengths and weaknesses with others.  
+> watch the videos as a group.  After watching all the videos,
+> give feedback on each person's strengths and weaknesses.
+> Returning to the large group, share your strengths and weaknesses with others.
 {: .challenge}
 
 ## On Stage
 
 > ## Discussion
-> 
-> How was the experience of being videoed/receiving feedback?  What 
-> did people notice?  What are some of your "tells"?  
+>
+> How was the experience of being videoed/receiving feedback?  What
+> did people notice?  What are some of your "tells"?
 {: .challenge}
 
-Everyone has nervous habits.  While these habits are often not as noticeable 
-as you would think, it's good to identify ways to keep yourself from pacing, 
-or fiddling with your jewellery, or not looking at the audience.  
+Everyone has nervous habits.  While these habits are often not as noticeable
+as you would think, it's good to identify ways to keep yourself from pacing,
+or fiddling with your jewellery, or not looking at the audience.
 
-Mickey Mouse version of self.  
+Mickey Mouse version of self.
 (not done writing yet)
 
-But just like everyone has their own nervous habit, each person has their own 
-particular strength.  Musicians can be very different (but equally effective!) 
-in their performance of the same piece; similarly, teachers can present the same material 
-in very different ways.  The uniqueness of your teaching style can and should 
-be based on your strengths.  This is why it's just as important to identify strengths 
-as weaknesses when trying to improve your teaching.  It's good to know what you do well!  
+But just like everyone has their own nervous habit, each person has their own
+particular strength.  Musicians can be very different (but equally effective!)
+in their performance of the same piece; similarly, teachers can present the same material
+in very different ways.  The uniqueness of your teaching style can and should
+be based on your strengths.  This is why it's just as important to identify strengths
+as weaknesses when trying to improve your teaching.  It's good to know what you do well!
 
 > ## Discussion
-> 
-> If you were a cartoon character teacher, who would you be?  What does that say about your 
-> teaching style?  
+>
+> If you were a cartoon character teacher, who would you be?  What does that say about your
+> teaching style?
 {: .challenge}
 
 ## Feedback
 
-Sometimes it can be hard to receive negative feedback.  
+Sometimes it can be hard to receive negative feedback.
 
 ![Feedback Feelings](img/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
-> ## Discussion: 
-> 
-> What are some 
-> strategies you use to receive and handle feedback?  
+> ## Discussion:
+>
+> What are some
+> strategies you use to receive and handle feedback?
 {: .challenge}
 
-Here is a list of some strategies to make sure that you can receive feedback 
-in a way that helps you improve: 
+Here is a list of some strategies to make sure that you can receive feedback
+in a way that helps you improve:
 
-* Mental habits matter!  Tell yourself the right things, like: 
+* Mental habits matter!  Tell yourself the right things, like:
     * "It's not personal."
     * "Look at the positives along with the negatives."
 	* etc.
 
-* Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.  
+* Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
-* Choose your own questions.  I'm a big fan of feedback questions like "what is 
-	one thing I could have done as a teacher to make this lesson more 
-	effective?"  Or "If you could pick one thing from the lesson to go over 
-	again, what would it be?"  These questions (hopefully) 
-	reveal what didn't work in your teaching, but read as professional suggestions 
-	rather than personal judgments.  
+* Choose your own questions.  I'm a big fan of feedback questions like "what is
+	one thing I could have done as a teacher to make this lesson more
+	effective?"  Or "If you could pick one thing from the lesson to go over
+	again, what would it be?"  These questions (hopefully)
+	reveal what didn't work in your teaching, but read as professional suggestions
+	rather than personal judgments.
 
-* Balance positive and negative feedback: 
+* Balance positive and negative feedback:
     * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * ask for both types of feedback
 
-* Communicate expectations. If your teaching feedback is taking the form of an 
-	observation (and you're comfortable enough with the observer), tell 
-	that person how they can best communicate their feedback to you.  
+* Communicate expectations. If your teaching feedback is taking the form of an
+	observation (and you're comfortable enough with the observer), tell
+	that person how they can best communicate their feedback to you.
 
-* Use a feedback translator.  This is one of my favorite ways to get feedback when 
-I have to read it right away (mid-lesson feedback during Software 
-Carpentry workshops, for example).  I have my fellow 
-instructor (or other trusted person in the room) read over all the feedback and give me 
-an executive summary.  It's much easier for me to hear "It sounds like most people 
-are following, so you could speed up" than to read several notes all saying, "this is 
-too slow" or "this is boring".  
+* Use a feedback translator.  This is one of my favorite ways to get feedback when
+I have to read it right away (mid-lesson feedback during Software
+Carpentry workshops, for example).  I have my fellow
+instructor (or other trusted person in the room) read over all the feedback and give me
+an executive summary.  It's much easier for me to hear "It sounds like most people
+are following, so you could speed up" than to read several notes all saying, "this is
+too slow" or "this is boring".
 
 This is part of the reason for Data Carpentry and Software Carpentry's rule,
 "Never teach alone."
 Having another instructor in the classroom saves your voice
 (it's hard to talk for two days straight),
 but more importantly,
-it's a chance for instructors to learn from one another and be a supportive voice 
-in the room.  
+it's a chance for instructors to learn from one another and be a supportive voice
+in the room.
 
 > ## Feedback on Feedback
 >
@@ -295,8 +295,7 @@ in the room.
 {: .challenge}
 
 > ## Feedback on Yourself, Part II
-> Later in the training, 
-> repeat the first challenge exercise; however, when it comes time to give feedback, 
+> Later in the training,
+> repeat the first challenge exercise; however, when it comes time to give feedback,
 > use the same 2x2 scheme in the previous challenge.
 {: .challenge}
-

@@ -69,16 +69,16 @@ This was the first method we tried.
 *   Learners post homework online, then comment on each other's work.
     *   We used a WordPress blog for the first ten rounds of training.
         People found writing and commenting on posts straightforward,
-	but setting up dozens of logins was tedious.
+        but setting up dozens of logins was tedious.
     *   We tried a GitHub-backed blog in the Winter 2015 class.
         It didn't work nearly as well:
-	a third of the participants found it extremely frustrating,
-	and post-publication commentary was awkward.
+        a third of the participants found it extremely frustrating,
+        and post-publication commentary was awkward.
     *   We tried Piazza in the Fall 2015 class.
         It was better than GitHub,
-	but still not as good as a simple WordPress blog.
-	In particular,
-	it was hard to find things once there were more than a dozen homework categories.
+        but still not as good as a simple WordPress blog.
+        In particular,
+        it was hard to find things once there were more than a dozen homework categories.
 
 ### Two-Day In-Person
 
@@ -127,77 +127,79 @@ The biggest change was the introduction of recorded teaching exercises.
 
 ## Schedule
 
-A typical schedule for a two-day course is:
+The schedule for the course is evolving along with the content,
+but here's what we do in a typical two-day event:
 
-*   Day 1
-    *   09:00 Welcome and introductions (15 min)
-    *   09:15 [Key definitions, concepts and teaching goals](http://swcarpentry.github.io/instructor-training/01-introduction.html) (15 min)  <br/>
-        *Concepts: Educational psychology; Instructional design; Pedagogical Content Knowledge. Teacher's enthusiasm. <br/>
-        Goal: understand effective approaches and methods for teaching.<br/>
-        Ask trainees: memorable moment from a class you took or taught.*
-    *   09:30 [Mental models. Novices and misconceptions](http://swcarpentry.github.io/instructor-training/02-models.html) (10 min)
-    *   09:40 [Formative and summative assessment](http://swcarpentry.github.io/instructor-training/02-models.html) (15 min)
-    *   09:55 Multiple Choice Questions as formative assessment (15 min) <br/>
-        *Show example with addition. <br/>
-        Explain value of sensible diagnostic answers (lame distractors are bad and are not funny).*
-    *   10:10 EXERCISE 1 Designing own MCQ and exchanging with the partner (20 min)
-    *   10:30 Coffee break  (allow for finishing the exercise and networking)
-    *   11:00 Review of the formative assessment exercise (15 min) <br/>
-        *Pick a few MCQs in the Etherpad and discuss which are checking the mental model and which are testing for factual knowledge. Explain the difference.*
-    *   11:15 [Teaching as performance art](http://swcarpentry.github.io/instructor-training/08-performance.html) (15 min) <br/>
-        *Show one of the SciPy workshop videos.<br/>
-        Provide feedback on it using the 2x2 grid. Trainer puts in a couple of comments demonstrating difference between contents and delivery. <br/>*
-    *   11:30 EXERCISE 2 Recorded teaching <br/>
-        *In groups of 3. <br/>
-        Introduce yourself and talk about the coolest thing in your research/work. <br/>
-        2 minutes<br/>
-        Use the 2x2 grid and put feedback in the Etherpad.*
-    *   12:00 Lunch (allow for finishing off the exercise) / minute cards
-    *   13:00 [Mental models and experts](http://swcarpentry.github.io/instructor-training/03-maps.html) (10 min)
-    *   13:10 [Concept maps 7 +/- 2.](http://swcarpentry.github.io/instructor-training/03-maps.html) Concept map example (20 min)
-    *   13:30 EXERCISE 3 Develop concept map and share with partner (20 min) <br/>
-        *Concept map on the topic you introduced in your MCQ and video.<br/>
-        Share it with your partner (find a different one!).<br/>*
-    *   13:50 Review of the concept map exercise (20 min) <br/>
-        *Take 3-4 trainees to draw on the whiteboard and explain their concept maps.*
-    *   14:10 [Cognitive load theory](http://swcarpentry.github.io/instructor-training/04-faded.html) (15 min)
-    *   14:25 [Faded examples](http://swcarpentry.github.io/instructor-training/04-faded.html) (10 min) <br/>
-        *Show a faded example. Can be from SWC/DC materials.*
-    *   14:30 EXERCISE 4 Develop a faded example (45 min, including coffee break) <br/>
-        *Develop a faded example based on your teaching video, MCQ and concept map. <br/>
-        Put them in the Etherpad.*
-    *   14:30 Coffee break
-    *   15:00 Review of the faded examples exercise (10 min)
-    *   15:10 [Reverse instructional design (RID)](http://swcarpentry.github.io/instructor-training/05-design.html); [Bloom's taxonomy; learning objectives](http://swcarpentry.github.io/instructor-training/06-objectives.html) (15 min)
-    *   15:25 EXERCISE 5 Learning objectives for the topic you presented in the video (15 min)
-    *   15:40 Review of the exercise with learning objectives (10 min)
-    *   15:50 EXERCISE 6 Recorded teaching based on concept map with 2x2 rubric and RID/ learning objectives (30 min)
-    *   16:20 Discuss overnight homework <br/>
-        *1.Read the [operations guide](http://software-carpentry.org/workshops/operations/) and write down questions in the Etherpad. <br/>
-        2.Complete [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/).<br/>
-        3.Go through one of the SWC/DC lessons and prepare for live coding teaching recording exercise.*
-    *   16:30: Minute cards for the afternoon session and close
-*   Day 2
-    *   09:00 Questions based on  Teaching Perspectives Inventory (15 min)
-    *   09:15 Questions based on operations guide (30 min)
-    *   09:45 Live coding demo (30 min)
-    *   10:15 EXERCISE 7 Recorded teaching live coding practice on lesson prepared as homework (45 min, including coffee)
-    *   10:30 Coffee (and finishing the exercise)
-    *   11:00 Review of the live coding exercise ( 15 min)
-    *   11:15 [Motivation and demotivation](http://swcarpentry.github.io/instructor-training/07-motivation.html) (15 min) <br/>
-        *Concepts: indifference and injustice as two major demotivators;
-        impostor syndrome; stereotype threat; SWC/DC Code of Conduct <br/>*
-    *   11:30 EXERCISE 8 Write your story over lunch. Minute cards for morning session
-    *   12:00: Lunch (allow for finishing off the exercise)
-    *   13:00: Setting up a workshop website [SWC](https://github.com/swcarpentry/workshop-template) / [DC](https://github.com/datacarpentry/workshop-template) - guided discussion (20 min)
-    *   13:20 EXERCISE 9 (in pairs) setting up workshop website (20 min) <br/>
-        *Preferably split the group so that half does SWC template and half DC template*
-    *   13:40 Discussion of how to tell what effect we're having (20 min)
-    *   14:00 EXERCISE 10 (in groups) develop assessment proposal (arguments for funding) and coffee (30 min)
-    *   14:30 Coffee &  Presenting assessment proposals (45 min together with coffee)
-    *   15:15 Overview of lesson materials and how to contribute (30 min)
-    *   15:45 Open discussion
-    *   16:15 Wrap up and minute cards for afternoon session
+| Day 1 | 09:00 | Welcome: key concepts and training goals            |
+|       | 09:30 | Novice mind-set; formative vs. summative assessment |
+|       |       | *Exercise: multiple choice questions*               |
+|       | 10:30 | Coffee                                              |
+|       | 10:45 | Lesson study; giving feedback                       |
+|       |       | *Exercise: video recorded teaching*                 |
+|       | 11:45 | Morning wrap-up (minute cards)                      |
+|       | 12:00 | Lunch                                               |
+|       | 13:00 | Concept maps                                        |
+|       |       | *Exercise: draw and critique concept maps*          |
+|       | 14:15 | Coffee                                              |
+|       | 14:30 | Learning objectives                                 |
+|       |       | *Exercise: write and critique learning objectives*  |
+|       | 15:15 | Cognitive load                                      |
+|       | 15:30 | *Exercise: faded example*                           |
+|       | 15:45 | Wrap-up (one up, one down)                          |
+|       | 16:00 | Close                                               |
+|       |       | *Homework: read operations guide*                   |
+| Day 2 | 09:00 | Live coding demonstration                           |
+|       |       | *Exercise: live coding practice*                    |
+|       | 10:15 | Coffee                                              |
+|       | 10:30 | Review questions about operations guide             |
+|       | 11:15 | *Exercise: create workshop website*                 |
+|       | 11:45 | Wrap-up (minute cards)                              |
+|       | 12:00 | Lunch                                               |
+|       | 13:00 | Data Carpentry                                      |
+|       | 13:30 | Motivators and demotivators                         |
+|       | 14:00 | *Exercise: demotivational stories*                  |
+|       | 14:30 | Coffee break                                        |
+|       | 14:45 | Assessment                                          |
+|       |       | *Exercise: formulate assessment plans*              |
+|       | 15:30 | Checkout procedure                                  |
+|       | 15:45 | Wrap-up (one up, one down)                          |
+|       | 16:00 | Close                                               |
+
+## Why Do(n't) We Teach X?
+
+Workshop attendees and trainee instructors often ask why we don't teach
+high-performance computing, machine learning, Perl, or a long list of other topics.
+Our answer is that as with every curriculum,
+the question is not, "What would we like to add?"
+but, "What are we willing to take out in order to make room?"
+We believe our core topics are the absolute minimum that researchers need to know
+in order to work efficiently and reproducibly.
+More importantly,
+we don't know what we could take out to make space for something else.
+
+One thing we *do* know is that we do not wish to become embroiled in debates
+over the relative merits of different languages or operating systems.
+No one has ever demonstrated that R programmers are more productive than Python programmers,
+and proficient users of Windows seem just as productive as equally-proficient users of Unix.
+If a learner asserts that their favorite tool is better than alternatives in some way,
+ask them for their data;
+if they don't have any,
+point out as gently as possible that we're supposed to be scientists,
+and that if we want politicians, business leaders, and the general public
+to pay attention to our findings on climate change and drug-resistant diseases,
+it behooves us to try to meet those same standards ourselves.
+
+> ## Evidence and Its Absence
+>
+> As far as is practical,
+> our teaching methods are based on the best available evidence.
+> We wish we could say the same about our content,
+> but very little research has been done on what researchers actually use
+> and what impact it has on productivity.
+> An example of what we wish existed
+> is [this summary][stefik-summary] by Stefik et al
+> of empirical research on the usability of programming langauges
+> (while [this full-length paper][stefik-paper] gives an idea of what's possible).
 
 ## Why We're Not a MOOC
 
@@ -405,6 +407,14 @@ In order for this exercise to work well:
     (We find that most people are harder on themselves than others are,
     and it's important for them to realize this.)
 
+*   At the end of day 1,
+    ask trainees to review the lesson episode
+    you will use for the live coding demonstration at the start of day 2.
+
+*   Try to make at least one mistake during the demonstration of live coding
+    so that trainees can see you talk through diagnosis and recovery,
+    and draw attention afterward to the fact that you did this.
+
 The announcement of this exercise is often greeted with groans and apprehension,
 since few people enjoy seeing or hearing themselves.
 However,
@@ -500,90 +510,19 @@ scheduled.
 
 <a name="testimonials"></a>
 
-### Greg Wilson
+### Steve Crouch
 
-My daughter is eight years old,
-and is going to inherit all the problems my generation did not have the backbone to solve.
-Climate change,
-mass extinctions,
-drug-resistant diseases,
-resource shortages:
-if we had started working on them twenty years ago we'd be done now,
-but instead we ducked and dithered,
-so that all those bills are going to come due in her lifetime.
+Writing software in an academic environment can be a real challenge,
+and a very rewarding part of my job involves helping researchers improve their research software,
+and perhaps more importantly,
+the way in which they develop it.
+Transferring crucial skills into the wider community as a teacher allows me to reach even more people,
+and help improve the overall situation with developing research software at an early stage of many researcher's careers.
 
-I believe the only things that will get us through the next fifty years are more science and more courage.
-I co-founded Software Carpentry to help with the science part of that equation,
-but over the last few years I've come to believe that we can help with the courage as well.
-We are braver together than we are alone;
-by teaching scientists how to collaborate on research today,
-we are preparing them to work together on things that really matter tomorrow.
-
-### Fiona Tweedie
-
-My training is in Ancient History and Classics,
-and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
-The Humanities must have a place shaping our discourse and our future
-and I see myself as a translator and guide in this emerging world.
-
-As someone not from a programming background I've asked all the basic questions
-and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
-Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
-I hope that seeing a Latin major up the front of the room reassures students that
-they can become capable software carpenters in their own rights.
-
-### Christina Koch
-
-I love ideas.
-As a mathematician, bibliophile, and general enthusiast for most things,
-I am a self-proclaimed nerd---a term I use to mean
-"someone who loves thinking, ideas, and learning new things."
-
-I love people (at least, I try).
-Most wisdom traditions,
-and my own experience,
-tell me that I'm not here to live for myself,
-but that we're all in this together.
-
-Most of all, I love sharing ideas with people.
-The best moments in life, for me,
-are facilitating intellectual insights along with personal connections.
-Those moments are what build a community that continues living in hope and adventure,
-especially important in times of fear and division.
-I teach to make those moments possible for myself and for others.
-
-### Belinda Weaver
-
-I've worked in a university for more than twenty years in a variety of roles - librarian,
-library manager, Internet trainer, journalism teacher - and I've seen how researchers'
-training needs have changed dramatically over that period. Increasingly, researchers
-need to find answers in data they already have, are collecting, or are generating - and they can't
-do that without tools. The data are too big now, and the scale of research is so much larger.
-
-Research training barely addresses the fact that all researchers now need to think
-computationally, and that they desperately need tools to increase their speed and efficiency 
-in analysing data. This is a gap that Software and Data Carpentry training can fill. 
-
-It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
-useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
-That is why I trained as an instructor. 
-
-### Aleksandra Pawlik
-
-I teach for purely selfish reasons.
-It is a great feeling when attendees come up to me during or after the workshop
-saying how useful they found it.
-It feels great when attendees engage in the lesson or discuss exercises in pairs
-and I see them being truly happy when they get the computer to do what they want.
-It feels great when I accidentally meet one of the participants some time after the workshop
-and they say how much the teaching helped them in their research. 
-
-It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
-
-I also had a very bad experience as a student studying Computer Science.
-With a lot of struggle I graduated convinced that
-I'm too stupid to do anything related with computers for a living or even as a hobby.
-I don't want other people to feel like that.
+I have found Software Carpentry to be a truly transformative and fascinating experience,
+not only for those I teach but also for myself,
+and reinforces the notion that improving and learning new research software development skills
+is a continuous and vastly rewarding experience.
 
 ### Neal Davis
 
@@ -614,6 +553,134 @@ that taught beginner computing effectively and taught teachers how to teach begi
 Without a doubt,
 my involvement with the Software Carpentry community has helped me to become a better teacher, scientist, and collaborator.
 I'm very excited to be an instructor trainer so that I can empower others
-with tools, confidence, and resources they need to advance their careers.  
+with tools, confidence, and resources they need to advance their careers.
+
+### Christina Koch
+
+I love ideas.
+As a mathematician, bibliophile, and general enthusiast for most things,
+I am a self-proclaimed nerd---a term I use to mean
+"someone who loves thinking, ideas, and learning new things."
+
+I love people (at least, I try).
+Most wisdom traditions,
+and my own experience,
+tell me that I'm not here to live for myself,
+but that we're all in this together.
+
+Most of all, I love sharing ideas with people.
+The best moments in life, for me,
+are facilitating intellectual insights along with personal connections.
+Those moments are what build a community that continues living in hope and adventure,
+especially important in times of fear and division.
+I teach to make those moments possible for myself and for others.
+
+### Lex Nederbragt
+
+Teaching in general,
+and at Software and Data Carpentry workshops in particular,
+gives me great pleasure and is one of the most personally rewarding activities I engage in.
+With Software Carpentry,
+I feel I belong to a community that shares many of the same values I have:
+openness, tolerance, a focus on quality in teaching to name a few.
+The instructor training program is the best pedagogical program I know of,
+and it is amazing to see how Software and Data Carpentry are building a community of educators
+that are fully grounded in the research on educational practices. 
+
+Being an instructor is my way of making a small,
+but hopefully significant,
+contribution to improving science, and thus the world.
+
+### Aleksandra Pawlik
+
+I teach for purely selfish reasons.
+It is a great feeling when attendees come up to me during or after the workshop
+saying how useful they found it.
+It feels great when attendees engage in the lesson or discuss exercises in pairs
+and I see them being truly happy when they get the computer to do what they want.
+It feels great when I accidentally meet one of the participants some time after the workshop
+and they say how much the teaching helped them in their research. 
+
+It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
+
+I also had a very bad experience as a student studying Computer Science.
+With a lot of struggle I graduated convinced that
+I'm too stupid to do anything related with computers for a living or even as a hobby.
+I don't want other people to feel like that.
+
+### Fiona Tweedie
+
+My training is in Ancient History and Classics,
+and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
+The Humanities must have a place shaping our discourse and our future
+and I see myself as a translator and guide in this emerging world.
+
+As someone not from a programming background I've asked all the basic questions
+and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
+Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
+I hope that seeing a Latin major up the front of the room reassures students that
+they can become capable software carpenters in their own rights.
+
+### Alistair Walsh
+
+I love teaching.
+Seeing the wide eyed moment of realisation that I see on learners faces when something "clicks" is one of the best feelings in the world.
+Why I want to teach the Software Carpentry method in particular is because
+I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that. 
+
+Coding is the new literacy
+and I want it to be a skill that everyone has so that we all takes part in shaping our world
+rather than it being a few people from a narrow range of backgrounds and experiences.
+I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
+
+### Belinda Weaver
+
+I've worked in a university for more than twenty years in a variety of roles - librarian,
+library manager, Internet trainer, journalism teacher - and I've seen how researchers'
+training needs have changed dramatically over that period. Increasingly, researchers
+need to find answers in data they already have, are collecting, or are generating - and they can't
+do that without tools. The data are too big now, and the scale of research is so much larger.
+
+Research training barely addresses the fact that all researchers now need to think
+computationally, and that they desperately need tools to increase their speed and efficiency 
+in analysing data. This is a gap that Software and Data Carpentry training can fill. 
+
+It's not a good day for me if I haven't helped *someone*. Being able to introduce people to 
+useful, time-saving tools has been a big - and immensely satisfying - part of my working life. 
+That is why I trained as an instructor. 
+
+### Jason Williams
+
+I am fascinated and privileged to have the opportunity to work at the intersection of the biological and the technological.
+Working in the world of bioinformatics and education,
+I actually spend a fair amount of time traveling to institutions across the U.S. and abroad.
+I'm amazed at the people I get to work with
+and believe Software Carpentry's mission creates an opportunity to add the distinctiveness of our learners
+and their perspectives to our own unique approach to education.
+Collaboration is key to having thousands of scientists working as one,
+and to me this idea is irresistible.
+As the saying goes,
+"We are braver together than we are alone." 
+
+### Greg Wilson
+
+My daughter is eight years old,
+and is going to inherit all the problems my generation did not have the backbone to solve.
+Climate change,
+mass extinctions,
+drug-resistant diseases,
+resource shortages:
+if we had started working on them twenty years ago we'd be done now,
+but instead we ducked and dithered,
+so that all those bills are going to come due in her lifetime.
+
+I believe the only things that will get us through the next fifty years are more science and more courage.
+I co-founded Software Carpentry to help with the science part of that equation,
+but over the last few years I've come to believe that we can help with the courage as well.
+We are braver together than we are alone;
+by teaching scientists how to collaborate on research today,
+we are preparing them to work together on things that really matter tomorrow.
 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
+[stefik-summary]: papers/stefik-summary-2016.pdf
