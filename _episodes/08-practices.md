@@ -221,7 +221,7 @@ and hope that they'll understand.
 
 *Pair programming.*
 :   Pairing is a good practice in real life, and also
-    [a good way to teach]({{ site.root }}/papers/porter-what-works-2013.pdf).
+    [a good way to teach]({{ site.root }}/files/porter-what-works-2013.pdf).
     Partners can not only help each other out during the practical,
     but can also clarify each other's misconceptions when the solution is
     presented, and discuss common research interests during breaks. To

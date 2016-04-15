@@ -44,10 +44,9 @@ You also agree to abide by our
     *   `_layouts`: page layouts.
     *   `assets`: standard files used in layout (CSS, Javascript, etc.)
     *   `fig`: figures (images) specific to this lesson.
+    *   `files`: extra files specific to this lesson.
     *   `guide.md`: instructors' guide.
     *   `index.md`: lesson home page.
-    *   `messages/*.txt`: standard email messages used in course.
-    *   `papers/*.pdf`: reading material for course.
     *   `reference.md`: reference guide for learners.
 
 4.  Source files for lesson episodes are stored in `_episodes`

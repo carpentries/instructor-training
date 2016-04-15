@@ -744,11 +744,11 @@ scheduled.
 
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ site.root }}/messages/checkout.txt
-[completion]: {{ site.root }}/messages/completion.txt
-[format]: {{ site.root }}/messages/format.txt
+[checkout]: {{ site.root }}/files/checkout.txt
+[completion]: {{ site.root }}/files/completion.txt
+[format]: {{ site.root }}/files/format.txt
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.root }}/papers/stefik-summary-2016.pdf
-[welcome]: {{ site.root }}/messages/welcome.txt
+[stefik-summary]: {{ site.root }}/files/stefik-summary-2016.pdf
+[welcome]: {{ site.root }}/files/welcome.txt

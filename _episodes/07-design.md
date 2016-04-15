@@ -267,7 +267,7 @@ in learning objectives written for each level.
 </table>
 
 Baume's guide to
-[writing and using good learning outcomes]({{ site.root }}/papers/baume-learning-outcomes-2009.pdf)
+[writing and using good learning outcomes]({{ site.root }}/files/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
 
