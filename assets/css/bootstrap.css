@@ -1450,7 +1450,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  margin-left: 0;
+  margin-left: 2em; /* 0; -- CHANGE -- */
 }
 @media (min-width: 768px) {
   .dl-horizontal dt {
