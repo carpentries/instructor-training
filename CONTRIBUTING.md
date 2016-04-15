@@ -32,7 +32,28 @@ You also agree to abide by our
     and merge the [master repository]({{ site.repo }})'s `gh-pages` branch into your `gh-pages` branch
     before starting major work.
 
-3.  The 
+3.  This repository contains:
+    *   `CONDUCT.md`: code of conduct.
+    *   `CONTRIBUTING.md`: these contribution guidelines.
+    *   `LICENSE.md`: license.
+    *   `Makefile`: all the commands needed for development.
+    *   `_config.yml`: general configuration settings (used on GitHub).
+    *   `_config_dev.yml`: configuration overrides for local development.
+    *   `_episodes`: source files for teaching episodes (discussed below).
+    *   `_includes`: page fragments used in layout.
+    *   `_layouts`: page layouts.
+    *   `assets`: standard files used in layout (CSS, Javascript, etc.)
+    *   `fig`: figures (images) specific to this lesson.
+    *   `guide.md`: instructors' guide.
+    *   `index.md`: lesson home page.
+    *   `messages/*.txt`: standard email messages used in course.
+    *   `papers/*.pdf`: reading material for course.
+    *   `reference.md`: reference guide for learners.
+
+4.  Source files for lesson episodes are stored in `_episodes`
+    so that we can make use of [Jekyll collections][collections].
+    `_episodes/01-xyz.md` generates `/01-xyz/index.html`,
+    which can be linked to using `/01-xyz/`.
 
 ## Other Resources
 
@@ -48,6 +69,7 @@ You also agree to abide by our
     and [Software Carpentry]({{ site.swc_site }}/lessons/) lessons.
     Comments on issues and reviews of pull requests are equally welcome.
 
+[collections]: https://jekyllrb.com/docs/collections/
 [github-flow]: https://guides.github.com/introduction/flow/
 [issues]: {{ site.repo }}/issues/
 [swc-lessons]: http://software-carpentry.org/lessons.html
