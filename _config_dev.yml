@@ -8,3 +8,6 @@
 
 # Website domain (no trailing slash).
 domain: "http://0.0.0.0:4000"
+
+# Root.
+root: "http://0.0.0.0:4000"
