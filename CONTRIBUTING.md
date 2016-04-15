@@ -37,7 +37,7 @@ You also agree to abide by our
     *   `CONTRIBUTING.md`: these contribution guidelines.
     *   `LICENSE.md`: license.
     *   `Makefile`: all the commands needed for development.
-    *   `_config.yml`: general configuration settings (used on GitHub).
+    *   `_config_template.yml`: template for general configuration settings.
     *   `_config_dev.yml`: configuration overrides for local development.
     *   `_episodes`: source files for teaching episodes (discussed below).
     *   `_includes`: page fragments used in layout.
@@ -53,6 +53,9 @@ You also agree to abide by our
     so that we can make use of [Jekyll collections][collections].
     `_episodes/01-xyz.md` generates `/01-xyz/index.html`,
     which can be linked to using `/01-xyz/`.
+
+5.  Copy `_config_template.yml` to create `_config.yml`
+    and then edit the settings in the top half.
 
 ## Other Resources
 
