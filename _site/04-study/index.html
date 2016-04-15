@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="search-domain" value="http://0.0.0.0:4000">
+    <link rel="stylesheet" type="text/css" href="https://gvwilson.github.io/new-instructor-training/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="https://gvwilson.github.io/new-instructor-training/assets/css/bootstrap-theme.css" />
+    <link rel="stylesheet" type="text/css" href="https://gvwilson.github.io/new-instructor-training/assets/css/lesson.css" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+    <title>Instructor Training: Lesson Study</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a href="http://software-carpentry.org" class="pull-left"><img class="navbar-logo" src="https://gvwilson.github.io/new-instructor-training/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo" /></a>
+      <a class="navbar-brand" href="https://gvwilson.github.io/new-instructor-training/">Home</a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="/conduct/">Code of Conduct</a></li>
+        <li class="dropdown">
+          <a href="https://gvwilson.github.io/new-instructor-training" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+	    
+	    <li><a href="/01-introduction/">Introduction</a></li>
+	    
+	    <li><a href="/02-terms/">Terms</a></li>
+	    
+	    <li><a href="/03-models/">Mental Models</a></li>
+	    
+	    <li><a href="/04-study/">Lesson Study</a></li>
+	    
+	    <li><a href="/05-expertise/">Mapping Expertise</a></li>
+	    
+	    <li><a href="/06-memory/">Managing Memory</a></li>
+	    
+	    <li><a href="/07-design/">Lesson Design</a></li>
+	    
+	    <li><a href="/08-practices/">Carpentry Teaching Practices</a></li>
+	    
+	    <li><a href="/09-motivation/">Motivation and Demotivation</a></li>
+	    
+	    <li><a href="/10-carpentries/">The Carpentries</a></li>
+	    
+	    <li><a href="/11-checkout/">Instructor Checkout Procedure</a></li>
+	    
+          </ul>
+        </li>
+        <li><a href="/reference/">Reference</a></li>
+        <li><a href="/guide/">Instructors' Guide</a></li>
+        <li><a href="/guide/">Contributors' Guide</a></li>
+        <li><a href="/license/">License</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
+        <div class="form-group">
+          <input type="text" id="google-search" placeholder="Search...">
+        </div>
+      </form>
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="row">
+  <div class="col-md-1">
+    <h3><a href="/03-models/"><span class="glyphicon glyphicon-menu-left"></span></a></h3>
+  </div>
+  <div class="col-md-10">
+    <h3 class="maintitle"><a href="https://gvwilson.github.io/new-instructor-training/">Instructor Training</a></h3>
+    <h1 class="maintitle">Lesson Study</h1>
+  </div>
+  <div class="col-md-1">
+    <h3><a href="/05-expertise/"><span class="glyphicon glyphicon-menu-right"></span></a></h3>
+  </div>
+</div>
+
+
+<blockquote class="objectives">
+  <h2>Summary</h2>
+  <div class="row">
+    <div class="col-md-6">
+      <strong>Teaching:</strong> 15 min
+    </div>
+    <div class="col-md-6">
+      <strong>Exercises:</strong> 15 min
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <strong>Questions</strong>
+      <ul>
+	
+	<li>How do teachers improve?</li>
+	
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <strong>Objectives</strong>
+      <ul>
+	
+	<li>Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can.</li>
+	
+      </ul>
+    </div>
+  </div>
+</blockquote>
+
+<p>Continuing with our theme of instructor-as-performer,
+let’s discuss some research that suggests that improvement in educational outcomes
+must be driven by practice and communities of practice.
+The tricks and techniques that make teaching effective cannot be mandated from above,
+but will develop into widespread effectiveness
+only as they are shared through a community of teaching practice.</p>
+
+<h2 id="lesson-study">Lesson Study</h2>
+
+<p>Many people assume that teachers are born, not made.
+From politicians to researchers and teachers themselves,
+most reformers have designed systems to find and promote those who can teach
+and eliminate those who can’t.
+As Elizabeth Green describes in
+<em><a href="http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/">Building a Better Teacher</a></em>,
+though,
+that assumption is wrong,
+which is why educational reforms based on it have repeatedly failed.</p>
+
+<p>The book is written as a history of the people who have put that puzzle together in the US.
+Its core begins with a discussion of what James Stigler discovered during a visit to Japan in the early 1990s:</p>
+
+<blockquote>
+  <p>Some American teachers called their pattern “I, We, You”:
+After checking homework,
+teachers announced the day’s topic,
+demonstrating a new procedure (I)…
+Then they led the class in trying out a sample problem together (We)…
+Finally, they let students work through similar problems on their own,
+usually by silently making their way through a worksheet (You)…</p>
+
+  <p>The Japanese teachers, meanwhile, turned “I, We, You” inside out.
+You might call their version “You, Y’all, We.”
+They began not with an
+introduction,
+but a single problem that students spent ten or twenty
+minutes working through alone (You)…
+While the students worked,
+the teacher wove through the students’ desks,
+studying what they came up with and taking notes to remember who had which idea.
+Sometimes the teacher then deployed the students to discuss the problem in small
+groups (Y’all).
+Next, the teacher brought them back to the whole group,
+asking students to present their different ideas for how to solve the problem on the chalkboard…
+Finally, the teacher led a discussion,
+guiding students to a shared conclusion (We).</p>
+</blockquote>
+
+<p>It’s tempting but wrong to think that this particular teaching technique is Japan’s secret sauce.
+The actual key is revealed in the description of Akihiko Takahashi’s work.
+In 1991,
+he visited the United States in a vain attempt to find the classrooms described a decade earlier
+in a report by the National Council of Teachers of Mathematics.
+He couldn’t find them.
+Instead, he found that American teachers met once a year (if that) to exchange ideas about teaching,
+compared to the weekly or even daily meetings he was used to.
+What was worse:</p>
+
+<blockquote>
+  <p>The teachers described lessons they gave and things students said,
+but they did not <em>see</em> the practices.
+When it came to observing actual lessons — watching each other teach —
+they simply had no opportunity…
+They had, he realized, no <em>jugyokenkyu</em>.
+Translated literally as “lesson study”,
+<em>jugyokenkyu</em> is a bucket of practices that Japanese teachers use to hone their craft,
+from observing each other at work to discussing the lesson afterward
+to studying curriculum materials with colleagues.
+The practice is so pervasive in Japanese schools that it is…effectively invisible.</p>
+
+  <p>And here lay the answer to [Akihiko’s] puzzle.
+Of course the American teachers’ work fell short of the model set by their best thinkers…
+Without <em>jugyokenkyu</em>, his own classes would have been equally drab.
+Without <em>jugyokenkyu</em>, how could you even teach?</p>
+</blockquote>
+
+<p>So what does <em>jugyokenkyu</em> look like in practice?</p>
+
+<blockquote>
+  <p>In order to graduate,
+education majors not only had to watch their assigned master teacher work,
+they had to effectively replace him,
+installing themselves in his classroom first as observers and then,
+by the third week, as a wobbly…approximation of the teacher himself.
+It worked like a kind of teaching relay.
+Each trainee took a subject,
+planning five days’ worth of lessons… [and then] each took a day.
+To pass the baton,
+you had to teach a day’s lesson in every single subject:
+the one you planned and the four you did not…
+and you had to do it right under your master teacher’s nose.
+Afterward,
+everyone — the teacher, the college students, and sometimes even another outside observer —
+would sit around a formal table to talk about what they saw.</p>
+
+  <p>[Trainees] stayed in…class until the students left at 3:00 pm,
+and they didn’t leave the school until they’d finished discussing the day’s events,
+usually around eight o’clock.
+They talked about what [the master teacher] had done,
+but they spent more time poring over how the students had responded:
+what they wrote in their notes;
+the ideas they came up with, right and wrong;
+the architecture of the group discussion.
+The rest of the night was devoted to planning…</p>
+
+  <p>…By the time he arrived in [the US],
+[Akihiko had] become…famous…
+giving public lessons that attracted hundreds,
+and, in one case, an audience of a thousand.
+He had a seemingly magical effect on children…
+But Akihiko knew he was no virtuoso.
+“It is not only me,” he always said…
+“<em>Many</em> people.”
+After all, it was his mentor…who had taught him the new approach to teaching…
+And [he] had crafted the approach along with the other math teachers
+in [his ward] and beyond.
+Together, the group met regularly to discuss their plans for teaching…
+[At] the end of a discussion,
+they’d invite each other to their classrooms to study the results.
+In retrospect,
+this was the most important lesson:
+not how to give a lesson, but how to study teaching,
+using the cycle of <em>jugyokenkyu</em> to put…work under a microscope and improve it.</p>
+</blockquote>
+
+<p>Putting work under a microscope in order to improve it is commonplace in sports and music.
+A professional musician, for example,
+will dissect half a dozen different recordings of “Body and Soul” or “Smells Like Teen Spirit” before performing it.
+They would also expect to get feedback from fellow musicians during practice and after performances.
+Many other disciplines work this way too:
+the Japanese drew inspiration from <a href="https://en.wikipedia.org/wiki/W._Edwards_Deming">Deming</a>’s ideas
+on continuous improvement in manufacturing,
+while the adoption of code review over the last 15 years
+has done more to improve everyday programming than any number of books or websites.</p>
+
+<p>But this kind of feedback isn’t part of teaching culture in English-language school systems:
+in the US, Canada, the UK, Australia, and elsewhere,
+what happens in the classroom stays in the classroom.
+Teachers don’t watch each other’s lessons on a regular basis,
+so they can’t borrow each other’s good ideas.
+The result is that <em>every teacher has to invent teaching on their own</em>.
+They may get lesson plans and assignments from colleagues,
+the school board,
+a textbook publisher,
+or the Internet,
+but each teacher has to figure out on their own how to combine that with
+the theory they’ve learned in education school
+to deliver an actual lesson in an actual classroom for actual students.</p>
+
+<p>Fincher and her colleagues studied how teaching practices are actually transferred
+using both <a href="https://gvwilson.github.io/new-instructor-training/papers/fincher-warrens-question-2007.pdf">a detailed case study</a>
+and
+<a href="https://gvwilson.github.io/new-instructor-training/papers/fincher-stories-change-2012.pdf">analysis of change stories</a>.
+As the abstract of the latter paper says:</p>
+
+<blockquote>
+  <p>Innovative tools and teaching practices often fail to be adopted by educators in the field,
+despite evidence of their effectiveness.
+Naïve models of educational change assume this lack of adoption arises from
+failure to properly disseminate promising work,
+but evidence suggests that dissemination via publication is simply not effective…
+We asked educators to describe changes they had made to their teaching practice
+and analyzed the resulting stories…
+Of the 99 change stories analyzed,
+only three demonstrate an active search for new practices or materials on the part of teachers,
+and published materials were consulted in just eight of the stories.
+Most of the changes occurred locally,
+without input from outside sources,
+or involved only personal interaction with other educators.</p>
+</blockquote>
+
+<p>As stated at the beginning, the main goal of this training is to be this kind of
+lesson study, where instructors can come together to discuss and share practices,
+and to get feedback.</p>
+
+<blockquote class="challenge">
+  <h2 id="feedback-on-yourself">Feedback on Yourself</h2>
+
+  <p>Split into groups of three,
+and then have each person introduce themselves and
+then teach a 90-second lesson on
+the most interesting aspect of their own research or work
+to another person in the group
+while the third person records it (video and audio)
+using a cell phone or some other handheld device.
+After the first person finishes,
+rotate roles
+(she becomes the videographer,
+her audience becomes the instructor,
+the person who was recording becomes the audience)
+and then rotate roles again.
+After everyone in the group of three has finished teaching,
+watch the videos as a group.  After watching all the videos,
+give feedback on each person’s strengths and weaknesses.
+Returning to the large group, share your strengths and weaknesses with others.</p>
+</blockquote>
+
+<h2 id="on-stage">On Stage</h2>
+
+<blockquote class="challenge">
+  <h2 id="discussion">Discussion</h2>
+
+  <p>How was the experience of being videoed/receiving feedback?  What
+did people notice?  What are some of your “tells”?</p>
+</blockquote>
+
+<p>Everyone has nervous habits.  While these habits are often not as noticeable
+as you would think, it’s good to identify ways to keep yourself from pacing,
+or fiddling with your jewellery, or not looking at the audience.</p>
+
+<p>Mickey Mouse version of self.
+(not done writing yet)</p>
+
+<p>But just like everyone has their own nervous habit, each person has their own
+particular strength.  Musicians can be very different (but equally effective!)
+in their performance of the same piece; similarly, teachers can present the same material
+in very different ways.  The uniqueness of your teaching style can and should
+be based on your strengths.  This is why it’s just as important to identify strengths
+as weaknesses when trying to improve your teaching.  It’s good to know what you do well!</p>
+
+<blockquote class="challenge">
+  <h2 id="discussion-1">Discussion</h2>
+
+  <p>If you were a cartoon character teacher, who would you be?  What does that say about your
+teaching style?</p>
+</blockquote>
+
+<h2 id="feedback">Feedback</h2>
+
+<p>Sometimes it can be hard to receive negative feedback.</p>
+
+<p><img src="https://gvwilson.github.io/new-instructor-training/fig/04/deathbulge-jerk.jpg" alt="Feedback Feelings" title="Comic from http://www.deathbulge.com/comics/155" /></p>
+
+<blockquote class="challenge">
+  <h2 id="discussion-2">Discussion:</h2>
+
+  <p>What are some
+strategies you use to receive and handle feedback?</p>
+</blockquote>
+
+<p>Here is a list of some strategies to make sure that you can receive feedback
+in a way that helps you improve:</p>
+
+<ul>
+  <li>Mental habits matter!  Tell yourself the right things, like:
+    <ul>
+      <li>“It’s not personal.”</li>
+      <li>“Look at the positives along with the negatives.”</li>
+      <li>etc.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Initiate feedback.  It’s better to ask for feedback than to receive it unwillingly.</p>
+  </li>
+  <li>
+    <p>Choose your own questions.  I’m a big fan of feedback questions like “what is
+  one thing I could have done as a teacher to make this lesson more
+  effective?”  Or “If you could pick one thing from the lesson to go over
+  again, what would it be?”  These questions (hopefully)
+  reveal what didn’t work in your teaching, but read as professional suggestions
+  rather than personal judgments.</p>
+  </li>
+  <li>Balance positive and negative feedback:
+    <ul>
+      <li>ask for or give “compliment sandwiches” (one positive, one negative, one positive)</li>
+      <li>ask for both types of feedback</li>
+    </ul>
+  </li>
+  <li>
+    <p>Communicate expectations. If your teaching feedback is taking the form of an
+  observation (and you’re comfortable enough with the observer), tell
+  that person how they can best communicate their feedback to you.</p>
+  </li>
+  <li>Use a feedback translator.  This is one of my favorite ways to get feedback when
+I have to read it right away (mid-lesson feedback during Software
+Carpentry workshops, for example).  I have my fellow
+instructor (or other trusted person in the room) read over all the feedback and give me
+an executive summary.  It’s much easier for me to hear “It sounds like most people
+are following, so you could speed up” than to read several notes all saying, “this is
+too slow” or “this is boring”.</li>
+</ul>
+
+<p>This is part of the reason for Data Carpentry and Software Carpentry’s rule,
+“Never teach alone.”
+Having another instructor in the classroom saves your voice
+(it’s hard to talk for two days straight),
+but more importantly,
+it’s a chance for instructors to learn from one another and be a supportive voice
+in the room.</p>
+
+<blockquote class="challenge">
+  <h2 id="feedback-on-feedback">Feedback on Feedback</h2>
+
+  <p>Watch either <a href="https://vimeo.com/139316669">this video</a> (8:40)
+or <a href="https://vimeo.com/139181120">this one</a> (11:42).
+Take notes about the presentation,
+and divide those into four groups
+based on whether they are positive or negative
+and whether they are about the content (what was said)
+or the presentation (how it was said, e.g., body language).
+Compare your notes with those made by other people,
+and with the feedback given by your instructor.</p>
+</blockquote>
+
+<blockquote class="challenge">
+  <h2 id="feedback-on-yourself-part-ii">Feedback on Yourself, Part II</h2>
+  <p>Later in the training,
+repeat the first challenge exercise; however, when it comes time to give feedback,
+use the same 2x2 scheme in the previous challenge.</p>
+</blockquote>
+
+
+
+      <hr/>
+<footer class="row">
+  <div class="col-md-12 footertext">
+    Copyright &copy 2016 Software Carpentry Foundation
+    /
+    <a href="/license/">License</a>
+    /
+    <a href="mailto:gvwilson@software-carpentry.org">Contact</a>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://gvwilson.github.io/new-instructor-training/assets/js/jquery.min.js"></script>
+<script src="https://gvwilson.github.io/new-instructor-training/assets/js/bootstrap.min.js"></script>
+<script src="https://gvwilson.github.io/new-instructor-training/assets/js/lesson.js"></script>
+
+  </body>
+</html>

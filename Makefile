@@ -1,6 +1,6 @@
 # Settings
 MAKEFILES=Makefile $(wildcard *.mk)
-JEKYLL=jekyll # or 'bundle exec jekyll'
+JEKYLL=jekyll
 
 all : commands
 
@@ -10,11 +10,11 @@ commands :
 
 ## serve      : run a local server.
 serve :
-	${JEKYLL} serve --config _config.yml
+	${JEKYLL} serve --config _config.yml,_config_dev.yml
 
 ## site       : build files but do not run a server.
 site :
-	${JEKYLL} build --config _config.yml
+	${JEKYLL} build --config _config.yml,_config_dev.yml
 
 ## clean      : clean up junk files.
 clean :

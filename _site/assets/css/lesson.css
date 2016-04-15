@@ -1,0 +1,194 @@
+@charset "UTF-8";
+.error {
+  color: #bd2c00;
+  border-left: solid 5px #bd2c00;
+  margin-bottom: 0px; }
+
+.output {
+  color: #333;
+  border-left: solid 5px #333;
+  margin-bottom: 0px; }
+
+.source {
+  color: #6e5494;
+  border-left: solid 5px #6e5494;
+  margin-bottom: 0px; }
+
+.prereq {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #D4C30B;
+  padding-bottom: 5px; }
+  .prereq h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #fbf4ad, #fcf8c8);
+    border-color: #D4C30B;
+    color: #736a06;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .prereq h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+.getready {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #D4C30B;
+  padding-bottom: 5px; }
+  .getready h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #fbf4ad, #fcf8c8);
+    border-color: #D4C30B;
+    color: #736a06;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .getready h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+.callout {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #31708f;
+  padding-bottom: 5px; }
+  .callout h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #b8d7e7, #d0e5ef);
+    border-color: #31708f;
+    color: #173543;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .callout h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+.challenge {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #3c763d;
+  padding-bottom: 5px; }
+  .challenge h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #bdddbe, #d3e9d3);
+    border-color: #3c763d;
+    color: #1a321a;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .challenge h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "✏";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+.objectives {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #D4C30B;
+  padding-bottom: 5px; }
+  .objectives h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #fbf4ad, #fcf8c8);
+    border-color: #D4C30B;
+    color: #736a06;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .objectives h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+.testimonial {
+  padding-left: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  border: 1px solid;
+  border-color: #D4C30B;
+  padding-bottom: 5px; }
+  .testimonial h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    background: linear-gradient(to bottom, #fbf4ad, #fcf8c8);
+    border-color: #D4C30B;
+    color: #736a06;
+    margin-top: 0px;
+    margin-left: -5px; }
+  .testimonial h2:before {
+    font-family: 'Glyphicons Halflings';
+    content: "";
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased; }
+
+code {
+  padding: 0 0;
+  color: inherit;
+  background-color: inherit; }
+
+.maintitle {
+  text-align: center; }
+
+.footertext {
+  text-align: center; }
+
+img.navbar-logo {
+  height: 40px;
+  padding-top: 5px;
+  padding-right: 10px; }
+
+div.branding {
+  color: #2b3990; }
+
+ul,
+ol {
+  padding-left: 1em; }

@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Domain for searches.
-domain: "https://swcarpentry.github.io/instructor-training"
+domain: "https://gvwilson.github.io/new-instructor-training"
 
 # URL for repository.
-repo: "https://github.com/swcarpentry/instructor-training"
+repo: "https://github.com/gvwilson/new-instructor-training"
 
-# Root URL for lesson.
-root: ""
+# Root URL for lesson below domain.
+root: "/new-instructor-training"
 
 # Overall lesson title.
 title: "Instructor Training"
