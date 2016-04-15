@@ -7,6 +7,10 @@ questions:
 - "How can we describe teaching and learning how to teach?"
 objectives:
 - "Describe the ways that learning to teach is comparable to a performing art."
+keypoints:
+- "This is a master class in teaching."
+- "Aims to strengthen participants' teaching skills."
+- "And to connect them with each other."
 ---
 Many metaphors can be used to describe teaching and learning: filling
 up a container, lighting a fire, growing a seed, and more.  Our
@@ -34,11 +38,13 @@ in the room).  It won't just be about learning things in your head,
 but practicing teaching together, sharing knowledge and insights.
 We'll be covering:
 
-* Theory: learning about how people learn, and some specific tools and techniques
-  you can use as you prepare to teach.  The theory and tools will cover both
-  general teaching, and practices specific to Software and Data Carpentry.
-* Practice: actually doing some teaching and "performing", giving feedback to each other
-  and discussing how we do things.
+* Theory: learning about how people learn, and some specific tools and
+  techniques you can use as you prepare to teach.  The theory and
+  tools will cover both general teaching, and practices specific to
+  Software and Data Carpentry.
+
+* Practice: actually doing some teaching and "performing", giving
+  feedback to each other and discussing how we do things.
   
 FIXME: Venn diagram that matches previous one.
 
@@ -50,8 +56,8 @@ not in its lessons or workshops, but the community of people who are
 dedicated to teaching computing and data skills as well as they
 possibly can.
 
-We hope this training provides you with what you need to be a Software or Data
-Carpentry instructor, and introduces you to a community of like-minded people.
-Hopefully this training helps you continue on your journey of being a teaching
-"performance artist", whether you've never taught a class before, or are a 40-year
-teaching veteran.
+We hope this training provides you with what you need to be a Software
+or Data Carpentry instructor, and introduces you to a community of
+like-minded people.  Hopefully this training helps you continue on
+your journey of being a teaching "performance artist", whether you've
+never taught a class before, or are a 40-year teaching veteran.

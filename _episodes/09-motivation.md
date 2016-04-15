@@ -10,6 +10,15 @@ objectives:
 - "Explain the difference between fixed mindset and growth mindset and its implications for classroom performance."
 - "Explain stereotype threat and its implications for classroom performance."
 - "Do an accessibility test of a workshop venue."
+keypoints:
+- "People learn best when they are intrinsically motivated."
+- "The two biggest demotivators are indifference and unfairness."
+- "Teach what's most immediately useful first in order to gain learners' trust."
+- "Be careful not to remind learners of negative stereotypes when teaching."
+- "We're all faking it."
+- "Don't teach or learn alone."
+- "Belief that competence comes with practice improves learning outcomes."
+- "Measures taken to improve accessibility aid everyone."
 ---
 ## Motivation
 
@@ -122,7 +131,7 @@ we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
 
-A few common demotivators are *indifference*, *unfairness*, and *elitism*.  
+A few common demotivators are *indifference* and *unfairness*.
 If learners believe that the instructor or the educational system doesn't care about them or the lesson,
 they won't care either.
 And if people believe the class is unfair,

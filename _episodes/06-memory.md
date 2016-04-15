@@ -7,6 +7,15 @@ questions:
 objectives:
 - "Explain the basis and implications of cognitive load theory and critique it."
 - "Construct faded examples for use as classroom exercises and explain the problem-solving strategies those examples illustrate."
+keypoints:
+- "Memory: long-term (large, slow) vs. short-term (small, fast)."
+- "Most adults can store 7&plusmn;2 items in short-term memory for a few seconds before loss."
+- "Things seen together repeatedly are remembered (or mis-remembered) in chunks."
+- "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
+- "Lesson episodes should not overload short-term memory."
+- "Self-directed (inquiry-based) learning is less effective than guided instruction."
+- "Cognitive load theory predicts that focusing on one aspect at a time improves learning."
+- "Use faded examples to focus attention when learning."
 ---
 This topic is yet another variation on a theme from our previous
 topics - how do we keep ourselves from overwhelming novice learners?

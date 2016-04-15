@@ -9,6 +9,14 @@ objectives:
 - "Describe and demonstrate three of the key teaching practices used in Software and Data Carpentry workshops and explain their benefits."
 - "Explain why it is difficult to stream workshop participants by prior knowledge."
 - "Describe and critique two strategies for managing a class in which students have diverse backgrounds and skill levels."
+keypoints:
+- "Live coding is a more effective way to teach programming than slides or whiteboarding."
+- "Making and correcting mistakes in front of learners is good teaching practice."
+- "Try to segment learners by prior knowledge."
+- "Ask more advanced learners to help colleagues during lessons."
+- "Use sticky notes as status indicators."
+- "Collaborative note-taking improves learning outcomes."
+- "Pair programming aids learning, but have everyone pair so no-one feels singled out."
 ---
 We regard teaching as a performance art,
 no different from drama, music, or athletics.

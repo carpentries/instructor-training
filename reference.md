@@ -3,6 +3,8 @@ layout: page
 title: "Reference"
 permalink: /reference/
 ---
+{% include all_keypoints.html %}
+
 ## Books
 
 Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][amazon-hlw]*.
