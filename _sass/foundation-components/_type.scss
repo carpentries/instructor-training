@@ -472,10 +472,15 @@ $align-class-breakpoints:
       .print-only { display: none !important; }
       @media print {
         * {
-          background: transparent !important;
           color: $black !important; /* Black prints faster: h5bp.com/s */
           box-shadow: none !important;
           text-shadow: none !important;
+        }
+
+        #navigation,
+        #masthead-no-image-header,
+        .main-footer {
+            display: none;
         }
 
         a,
