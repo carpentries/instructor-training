@@ -1,0 +1,52 @@
+#------------------------------------------------------------
+# Values for this site.
+#------------------------------------------------------------
+
+# Domain for searches.
+domain: "https://swcarpentry.github.io/instructor-training"
+
+# URL for repository.
+repo: "https://github.com/swcarpentry/instructor-training"
+
+# Root URL for lesson.
+root: ""
+
+# Overall lesson title.
+title: "Instructor Training"
+
+# Contact email address.
+email: gvwilson@software-carpentry.org
+
+#------------------------------------------------------------
+# Generic settings (should not need to change).
+#------------------------------------------------------------
+
+# Sites.
+amy_site:   "https://amy.software-carpentry.org/workshops"
+dc_site:    "https://datacarpentry.org"
+swc_github: "https://github.com/swcarpentry"
+swc_site:   "https://software-carpentry.org"
+
+# Start time in minutes (540 is 09:00 am)
+start_time: 540
+
+# Specify that things in the episodes collection should be output.
+collections:
+  episodes:
+    output: true
+    permalink: /:path/
+
+# Set the default layout for things in the episodes collection.
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+# Files and directories that are not to be copied.
+exclude:
+  - Makefile
+
+# Turn off built-in syntax highlighting.
+highlighter: false
