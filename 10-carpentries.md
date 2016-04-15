@@ -118,7 +118,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 Software Carpentry and Data Carpentry share a single instructor training program,
 but instructors must certify separately for each at the end:
-see the description of [the instructor checkout procedure](11-checkout.html)
+see the description of [the instructor checkout procedure](checkout.html)
 for details.
 
 ### Setting Up
@@ -233,7 +233,7 @@ examples of good discussions under PRs (possibly controversial PRs).
 
 So being part of a friendly, open discussion, is of equal or greater importance 
 to the community than submitting the perfect lesson change.  The 
-[checkout process](11-checkout) to become a fully-fledged instructor will be 
+[checkout process](checkout.html) to become a fully-fledged instructor will be
 one way to start connecting to the community and find which area will allow you 
 to contribute best.  
 
