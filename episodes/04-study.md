@@ -6,6 +6,11 @@ questions:
 - "How do teachers improve?"
 objectives:
 - "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
+keypoints:
+- "Great teachers are made, not born."
+- "Formal written descriptions of teaching practices are ineffective."
+- "Lesson study ('jugyokenkyu') essential to transferring skills between teachers."
+- "Feedback is most effective when those involved share ground rules and expectations."
 ---
 Continuing with our theme of instructor-as-performer,
 let's discuss some research that suggests that improvement in educational outcomes

@@ -7,6 +7,12 @@ questions:
 objectives:
 - "Summarize the history and structure of the Software and Data Carpentry organizations."
 - "Describe at least three similarities and differences between Software and Data Carpentry workshops."
+keypoints:
+- "Software Carpentry was founded in 1998 to teach scientists how to program better."
+- "Data Carpentry was founded in 2014 to teach researchers how to handle data."
+- "Their materials are all openly licensed, but their names and logos are trademarked."
+- "They share teaching methods and a common instructor pool."
+- "The workshop operations guide summarizes what they have learned about organizing and delivering training."
 ---
 In becoming an instructor for Software or Data Carpentry,
 you are also becoming part of a community of like-minded volunteers.

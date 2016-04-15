@@ -7,6 +7,11 @@ questions:
 objectives:
 - "Explain how key aspects of expert behavior are results of cognitive differences between experts and competent practitioners."
 - "Construct a concept map for a short lesson showing the lesson's key ideas and the relationships between them."
+keypoints:
+- "Experts' mental models are much more densely connected than those of non-experts."
+- "Expert blind spot: knowing something so well that it seems easy when it's not."
+- "Can represent mental models using concept maps."
+- "Relationships are as important as concepts."
 ---
 Returning to educational psychology, we now discuss what distinguishes expertise 
 from earlier stages of learning, how expertise can be helpful and harmful, and then 

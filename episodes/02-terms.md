@@ -7,6 +7,10 @@ questions:
 objectives:
 - "Identify where in a lesson the instructor is using content knowledge, general knowledge, and pedagogical content knowledge."
 - "Use an example to illustrate the difference between top-down and bottom-up learning."
+keypoints:
+- "Educational psychology: the study of how people learn."
+- "Instructional design: the engineering of lessons."
+- "Pedagogical content knowledge: connects general understanding of teaching to domain-specific content."
 ---
 The following terms will support the discussions and activities in the rest of the training
 by giving us a common vocabulary to talk about teaching and learning to teach.  

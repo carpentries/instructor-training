@@ -8,6 +8,15 @@ objectives:
 - "Present three faulty mental models drawn from their own experience."
 - "Create a multiple choice question with plausible distractors and explain the diagnostic power of each distractor."
 - "Identify whether a multiple-choice question is testing factual knowledge or a mental model."
+keypoints:
+- "Novices: don't know what they don't know."
+- "Competent practitioners: have a usable mental model that's good enough for everyday purposes."
+- "Expert: can handle edge cases."
+- "Goal when teaching novices is to help them construct a usable mental model."
+- "To do this, must clear up their misconceptions."
+- "Summative assessment: done at the end of teaching to see whether learning took place."
+- "Formative assessment: done during teaching to guide it."
+- "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 To start our journey into educational psychology,
 we'll be looking at a theory of learning called mental models,

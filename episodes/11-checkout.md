@@ -6,6 +6,9 @@ questions:
 - "What are the final steps in becoming an instructor trainer?"
 objectives:
 - "Understand the final steps in becoming an instructor trainer."
+keypoints:
+- "Trainees must complete several post-workshop activities to qualify as Data Carpentry and/or Software Carpentry instructors."
+- "The mentoring group runs weekly online discussion sessions for trainees, new instructors, and experienced instructors."
 ---
 The final steps in getting certified are detailed in
 [the checkout guide][checkout].

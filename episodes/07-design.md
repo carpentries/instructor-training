@@ -11,6 +11,11 @@ objectives:
 - "Describe the characteristics of a good learning objective and correctly state whether a learning objective meets those criteria."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy and similar cognitive hierarchies."
 - "Write a learner profile describing a typical member of their intended audience."
+keypoints:
+- "Use reverse instructional design to create lessons: concepts, summative assessment, formative assessments, teachings."
+- "Communicate lesson goals by writing specific, verifiable learning objectives."
+- "Bloom's Taxonomy classifies levels of understanding."
+- "Write learner profiles to clarify audience for lesson."
 ---
 We have already covered certain elements of lesson design in our previous
 lessons on educational psychology and how that can inform teaching tools.  In this
@@ -270,7 +275,6 @@ Baume's guide to
 [writing and using good learning outcomes]({{ site.root }}/files/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
-
 > ## Improving Objectives
 >
 > Are the following learning objectives strong or weak?  How could
@@ -281,7 +285,6 @@ is a good longer discussion of these issues.
 > * Understand the importance of using version control.
 > * Understand data slicing/manipulation.  
 {: .challenge}
-
 
 ## Learner Profiles
 
