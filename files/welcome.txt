@@ -7,13 +7,13 @@ Hello everyone, and thank you for signing up for our upcoming instructor trainin
     * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/papers/science-of-learning-2015.pdf)
     * "Software Carpentry: Lessons Learned" (http://f1000research.com/articles/3-62/v2)
 
-2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/) to have a look at what we currently teach in Software Carpentry and Data Carpentry respectively. You are *not* expected to go through these in detail --- we'll do a walk-through in class --- but it would be helpful if you knew what the major topics are.
+2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/) and have a look at what we currently teach.  You are *not* expected to go through all of these in detail, but please familiarize yourself with the major topics and lesson format.
 
 3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
 4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet won't be sufficient).
 
-Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor --- we will discuss these during the course.  If you have any questions about this, the reading material, or anything else, please mail us, and we will respond as quickly as we can.
+Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://swcarpentry.github.io/instructor-training/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
 thanks again,
 Greg
