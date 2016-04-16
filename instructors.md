@@ -131,40 +131,48 @@ The biggest change was the introduction of recorded teaching exercises.
 The schedule for the course is evolving along with the content,
 but here's what we do in a typical two-day event:
 
-| Day 1 | 09:00 | Welcome: key concepts and training goals            |
-|       | 09:30 | Novice mind-set; formative vs. summative assessment |
-|       |       | *Exercise: multiple choice questions*               |
-|       | 10:30 | Coffee                                              |
-|       | 10:45 | Lesson study; giving feedback                       |
-|       |       | *Exercise: video recorded teaching*                 |
-|       | 11:45 | Morning wrap-up (minute cards)                      |
-|       | 12:00 | Lunch                                               |
-|       | 13:00 | Concept maps                                        |
-|       |       | *Exercise: draw and critique concept maps*          |
-|       | 14:15 | Coffee                                              |
-|       | 14:30 | Learning objectives                                 |
-|       |       | *Exercise: write and critique learning objectives*  |
-|       | 15:15 | Cognitive load                                      |
-|       | 15:30 | *Exercise: faded example*                           |
-|       | 15:45 | Wrap-up (one up, one down)                          |
-|       | 16:00 | Close                                               |
-|       |       | *Homework: read operations guide*                   |
-| Day 2 | 09:00 | Live coding demonstration                           |
-|       |       | *Exercise: live coding practice*                    |
-|       | 10:15 | Coffee                                              |
-|       | 10:30 | Review questions about operations guide             |
-|       | 11:15 | *Exercise: create workshop website*                 |
-|       | 11:45 | Wrap-up (minute cards)                              |
-|       | 12:00 | Lunch                                               |
-|       | 13:00 | Data Carpentry                                      |
-|       | 13:30 | Motivators and demotivators                         |
-|       | 14:00 | *Exercise: demotivational stories*                  |
-|       | 14:30 | Coffee break                                        |
-|       | 14:45 | Assessment                                          |
-|       |       | *Exercise: formulate assessment plans*              |
-|       | 15:30 | Checkout procedure                                  |
-|       | 15:45 | Wrap-up (one up, one down)                          |
-|       | 16:00 | Close                                               |
+| Day 1 | 09:00 | Welcome; goals.                                      |
+|       | 09:10 | Educational psychology vs. instructional design      |
+|       |       | Novice, competent, and expert                        |
+|       |       | Formative vs. summative assessment                   |
+|       |       | Using multiple choice questions                      |
+|       |       | *Exercise: multiple choice questions*                |
+|       | 10:30 | Coffee                                               |
+|       | 10:45 | Giving feedback on someone's teaching                |
+|       |       | *Exercise: video recorded teaching*                  |
+|       | 11:45 | Morning wrap-up (minute cards)                       |
+|       | 12:00 | Lunch                                                |
+|       | 13:00 | Expertise and connectivity                           |
+|       |       | Concept maps                                         |
+|       |       | Seven plus or minus two                              |
+|       |       | *Exercise: draw and critique concept maps*           |
+|       | 14:15 | Coffee                                               |
+|       | 14:30 | Video-recorded teaching (with concept map in mind)   |
+|       |       | *Exercise: write and critique learning objectives*   |
+|       | 15:15 | Cognitive load                                       |
+|       |       | *Exercise: faded example*                            |
+|       | 16:00 | Wrap-up (one up, one down)                           |
+|       | 16:15 | Close                                                |
+|       |       | *Homework: read operations guide*                    |
+| Day 2 | 09:00 | Live coding demonstration                            |
+|       |       | *Exercise: live coding practice*                     |
+|       | 10:15 | Coffee                                               |
+|       | 10:30 | Review questions about operations guide              |
+|       |       | *Exercise: create workshop website*                  |
+|       | 11:45 | Wrap-up (minute cards)                               |
+|       | 12:00 | Lunch                                                |
+|       | 13:00 | Motivators and demotivators                          |
+|       |       | *Exercise: demotivational stories*                   |
+|       | 13:45 | Learning objectives and Bloom's Taxonomy             |
+|       |       | *Exercise: classify and improve learning objectives* |
+|       | 14:30 | Coffee break                                         |
+|       | 14:45 | Software and Data Carpentry organizations            |
+|       |       | The challenge of program assessment                  |
+|       |       | Lesson incubation                                    |
+|       |       | *Exercise: what else could we do and how?*           |
+|       | 15:30 | Review checkout procedure and deferred questions     |
+|       | 16:00 | Wrap-up (one up, one down)                           |
+|       | 16:15 | Close                                                |
 
 ## Why Do(n't) We Teach X?
 
