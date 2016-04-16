@@ -10,7 +10,7 @@
           <a href="{{ site.root }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
           <ul class="dropdown-menu">
 	    {% for episode in site.episodes %}
-	    <li><a href="{{ site.root }}/{{ episode.url }}">{{ episode.title }}</a></li>
+	    <li><a href="{{ site.root }}{{ episode.url }}">{{ episode.title }}</a></li>
 	    {% endfor %}
           </ul>
         </li>
@@ -21,7 +21,7 @@
           <a href="{{ site.root }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Extras <span class="caret"></span></a>
           <ul class="dropdown-menu">
 	    {% for extra in site.extras %}
-	    <li><a href="{{ site.root }}/{{ extra.url }}">{{ extra.title }}</a></li>
+	    <li><a href="{{ site.root }}{{ extra.url }}">{{ extra.title }}</a></li>
 	    {% endfor %}
           </ul>
         </li>
