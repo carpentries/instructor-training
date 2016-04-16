@@ -36,10 +36,16 @@
       <a href="{{ site.root }}/{{ episode.url }}">{{ episode.title }}</a>
     </td>
     <td class="col-md-7">
-      {{ episode.questions | join: '<br/>' }}
+      {% if episode.break %}
+        Break
+      {% else %}
+        {% if episode.questions %}
+          {{ episode.questions | join: '<br/>' }}
+        {% endif %}
+      {% endif %}
     </td>
   </tr>
-  {% assign current = current | plus: episode.teaching | plus: episode.exercises %}
+  {% assign current = current | plus: episode.teaching | plus: episode.exercises | plus: episode.break %}
 {% endfor %}
 {% assign hours = current | divided_by: 60 %}
 {% assign minutes = current | modulo: 60 %}
