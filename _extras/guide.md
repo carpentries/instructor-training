@@ -3,51 +3,60 @@ layout: page
 title: "Instructors' Guide"
 permalink: /guide/
 ---
-## Checklist
+## Checklists
 
-1.  Scheduling the Event
-    1.  Decide if it will be in person, online for one site, or online for several.
-    1.  Talk through expectations with the host(s).
-        *   If it is in person, make sure the host knows they're covering travel costs for trainers.
-        *   Determine who is allowed to attend.
-            *   We strongly prefer trainees to have attended workshops (as learners or helpers).
-            *   Other criteria may be negotiated by the Executive Directors as part of partnership agreements.
-    1.  Arrange trainers.
-    1.  Arrange space.
-        *   Make sure there are breakout rooms for video recording.
-    1.  Choose dates.
-        *   If it is in person, book travel.
-    1.  Get names and email addresses of attendees from host(s).
-        *   Register those people in AMY.
-1.  Setting Up
-    1.  Set up a one-page website for the workshop.
-    1.  Send the URL to the admins.
-    1.  Check whether any attendees have special needs.
-    1.  If it is online:
-        *   Test the video conference link.
-    1.  Make sure attendees will all have network access.
-    1.  Create an Etherpad.
-    1.  Email attendees [a welcome message][welcome] that includes:
-        *   a link to the workshop home page
-        *   background readings
-        *   a description of any pre-requisite tasks
-1.  During the Event
-    1.  Remind everyone of the code of conduct.
-    1.  Collect attendance.
-    1.  Distribute sticky notes.
-    1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
-    1.  Go through [the checkout procedure][checkout] point by point.
-    1.  Explain how we [format lesson submissions][format].
-1.  After the Event
-    1.  Email attendees about [the checkout process][checkout].
-    1.  Recruit experienced instructors to lead group lesson discussions.
-    1.  Schedule group lesson discussions.
-    1.  Oversee final demonstration lessons.
-    1.  Debrief with the head of instructor training.
-1.  After Trainees Complete
-    1.  Send new instructors [the completion message][completion].
-    1.  Badge instructors in [AMY][amy].
-    1.  Create and send [PDF certificates][certificates].
+> ## Scheduling the Event
+> 1.  Decide if it will be in person, online for one site, or online for several.
+> 1.  Talk through expectations with the host(s).
+>     *   If it is in person, make sure the host knows they're covering travel costs for trainers.
+>     *   Determine who is allowed to attend.
+>         *   We strongly prefer trainees to have attended workshops (as learners or helpers).
+>         *   Other criteria may be negotiated by the Executive Directors as part of partnership agreements.
+> 1.  Arrange trainers.
+> 1.  Arrange space.
+>     *   Make sure there are breakout rooms for video recording.
+> 1.  Choose dates.
+>     *   If it is in person, book travel.
+> 1.  Get names and email addresses of attendees from host(s).
+>     *   Register those people in AMY.
+{: .getready}
+
+> ## Setting Up
+> 1.  Set up a one-page website for the workshop.
+> 1.  Send the URL to the admins.
+> 1.  Check whether any attendees have special needs.
+> 1.  If it is online:
+>     *   Test the video conference link.
+> 1.  Make sure attendees will all have network access.
+> 1.  Create an Etherpad.
+> 1.  Email attendees [a welcome message][welcome] that includes:
+>     *   a link to the workshop home page
+>     *   background readings
+>     *   a description of any pre-requisite tasks
+{: .getready}
+
+> ## During the Event
+> 1.  Remind everyone of the code of conduct.
+> 1.  Collect attendance.
+> 1.  Distribute sticky notes.
+> 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
+> 1.  Go through [the checkout procedure][checkout] point by point.
+> 1.  Explain how we [format lesson submissions][format].
+{: .getready}
+
+> ## After the Event
+> 1.  Email attendees about [the checkout process][checkout].
+> 1.  Recruit experienced instructors to lead group lesson discussions.
+> 1.  Schedule group lesson discussions.
+> 1.  Oversee final demonstration lessons.
+> 1.  Debrief with the head of instructor training.
+{: .getready}
+
+> ## After Trainees Complete
+> 1.  Send new instructors [the completion message][completion].
+> 1.  Badge instructors in [AMY][amy].
+> 1.  Create and send [PDF certificates][certificates].
+{: .getready}
 
 Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
