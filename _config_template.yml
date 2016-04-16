@@ -35,6 +35,8 @@ collections:
   episodes:
     output: true
     permalink: /:path/
+  extras:
+    output: true
 
 # Set the default layout for things in the episodes collection.
 defaults:
