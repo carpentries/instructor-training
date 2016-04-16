@@ -22,10 +22,11 @@ email: gvwilson@software-carpentry.org
 #------------------------------------------------------------
 
 # Sites.
-amy_site:   "https://amy.software-carpentry.org/workshops"
-dc_site:    "https://datacarpentry.org"
+amy_site: "https://amy.software-carpentry.org/workshops"
+dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
-swc_site:   "https://software-carpentry.org"
+swc_site: "https://software-carpentry.org"
+template_repo: "https://github.com/gvwilson/new-lesson-template"
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540
