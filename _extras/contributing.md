@@ -32,40 +32,27 @@ You also agree to abide by our
     and merge the [master repository]({{ site.repo }})'s `gh-pages` branch into your `gh-pages` branch
     before starting major work.
 
-3.  This repository contains:
-    *   `CONDUCT.md`: code of conduct.
-    *   `CONTRIBUTING.md`: these contribution guidelines.
-    *   `LICENSE.md`: license.
-    *   `Makefile`: all the commands needed for development.
-    *   `_config_template.yml`: template for general configuration settings.
-    *   `_config_dev.yml`: configuration overrides for local development.
-    *   `_episodes`: source files for teaching episodes (discussed below).
-    *   `_includes`: page fragments used in layout.
-    *   `_layouts`: page layouts.
-    *   `assets`: standard files used in layout (CSS, Javascript, etc.)
-    *   `fig`: figures (images) specific to this lesson.
-    *   `files`: extra files specific to this lesson.
-    *   `guide.md`: instructors' guide.
-    *   `index.md`: lesson home page.
-    *   `reference.md`: reference guide for learners.
-
-4.  Source files for lesson episodes are stored in `_episodes`
-    so that we can make use of [Jekyll collections][collections].
-    `_episodes/01-xyz.md` generates `/01-xyz/index.html`,
-    which can be linked to using `/01-xyz/`.
-
-5.  Copy `_config_template.yml` to create `_config.yml`
+3.  Copy `_config_template.yml` to create `_config.yml`
     and then edit the settings in the top half.
+
+4.  The layout of this repository is explained in the [example lesson]({{ site.example_repo }})
+    (which is rendered at [this site]({{ site.example_site }})).
+    1.  The source for pages that appear as direct items in the navigation bar
+        are stored in the root directory.
+    2.  Source files for lesson episodes are stored in `_episodes`
+        so that we can make use of [Jekyll collections][collections];
+        `_episodes/01-xyz.md` generates `/01-xyz/index.html`,
+        which can be linked to using `/01-xyz/`.
+    3.  Files that appear under the "extras" menu pulldown are stored in `_extras`.
+    4.  Figures and other files are stored in the `files` directory,
+        while data sets are stored in `data`
+        and source code for examples in `code`.
 
 ## Other Resources
 
-1.  This lesson is based on the template found at
-    <https://github.com/swcarpentry/lesson-template>,
-    which has instructions on formatting and previewing lessons.
+1.  For a list of helpful commands run `make` in this directory.
 
-2.  For a list of helpful commands run `make` in this directory.
-
-3.  If you are looking for other things to work on,
+2.  If you are looking for other things to work on,
     please see [the list of issues for this repository][issues],
     or the other [Data Carpentry]({{ site.dc_site }}/lessons/)
     and [Software Carpentry]({{ site.swc_site }}/lessons/) lessons.
