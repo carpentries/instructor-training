@@ -27,6 +27,10 @@ dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/gvwilson/new-lesson-template"
+example_repo: "https://github.com/gvwilson/new-lesson-example"
+example_site: "https://gvwilson.github.com/new-lesson-example"
+workshop_repo: "https://github.com/gvwilson/new-workshop-template"
+workshop_site: "https://gvwilson.github.io/new-workshop-template"
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540
