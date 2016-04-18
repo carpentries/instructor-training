@@ -615,6 +615,20 @@ Both the frustrations and satisfactions of getting to grips with code for the fi
 I hope that seeing a Latin major up the front of the room reassures students that
 they can become capable software carpenters in their own rights.
 
+### Anelda van der Walt
+
+The most attractive advantage of being part of the Software Carpentry community is exactly that: the community.
+I have been actively involved in Software Carpentry since the end of 2014 as a learner, helper, organiser, and instructor at several workshops.
+Over the last 18 months I never felt isolated from the international Software Carpentry movement
+despite being on a different continent from most of the activity.
+Our South African initiatives have been supported every step of the way
+by the organisation's leadership and the wonderful people who volunteer as instructors.
+
+I believe the Software Carpentry model is extremely well-suited to building capacity in low and middle income countries.
+I have heard wonderful testimonials from many people who've been learners in Software Carpentry workshops in South Africa
+in terms of how their participation has impacted their research.
+I'm excited to be making a difference.
+
 ### Alistair Walsh
 
 I love teaching.
