@@ -3,6 +3,32 @@ layout: reference
 title: Reference
 permalink: /reference/
 ---
+## Top Ten
+
+### What Kinds of Practice and Feedback Enhance Learning?
+
+1.  Mismatched expectations can be difficult to diagnose and waste much time.
+1.  In the absence of structure, learners tend to glide along more comfortable paths
+    (i.e., making slides prettier rather than more content-rich).
+1.  Deliberate practice without effective feedback can instill new unknown bad habits.
+1.  Learning and performance are best fostered when students engage in practice that:
+    1.  focuses on a specific goal or criterion for performance,
+    1.  targets an appropriate level of challenge relative to students’ current performance, and
+    1.  is of sufficient quantity and frequency to meet the performance criteria.
+1.  Articulate goals in measurable ways:
+    1.  Use good metrics that relate to the objective and to possible performance from the learner.
+    1.  Include higher-level goals.
+1.  Concurrent learning can work, but often not at the novice skill level.
+1.  While quality of practice matters, time on task is also important.
+1.  Practice tends to be most effective at improving skills in the "competent" range.
+    (Novices grapple with known knowns, competent practitioners with known unknowns, and experts with unknown unknowns.)
+1.  Instructors should point out progress as it is made
+    so that students recognize their accomplishment and discern the change in their behavior,
+    especially when gradual.
+1.  Grades and scores provide some information on the degree to which students' performance has met the criteria,
+    they do not explain which aspects did or did not meet the criteria and how,
+    so more specific feedback is necessary.
+
 ## Books
 
 Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][amazon-hlw]*.
