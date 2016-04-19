@@ -37,5 +37,7 @@ and/or [Data Carpentry]({{ site.dc_site }}).
 
 {% include syllabus.html %}
 
+{% include carpentries.html %}
+
 [conduct]: {{ site.root }}/conduct/
 [license]: {{ site.root }}/license/
