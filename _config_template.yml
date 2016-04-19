@@ -3,19 +3,19 @@
 #------------------------------------------------------------
 
 # Domain for searches.
-domain: "https://swcarpentry.github.io/instructor-training"
+domain: "https://USERNAME.github.io/LESSON-NAME"
 
 # URL for repository.
-repo: "https://github.com/swcarpentry/instructor-training"
+repo: "https://github.com/USERNAME/LESSON-NAME"
 
 # Root URL for lesson below domain.
-root: "/instructor-training"
+root: "/LESSON-NAME"
 
 # Overall lesson title.
-title: "Instructor Training"
+title: "LESSON TITLE"
 
 # Contact email address.
-email: training-help@software-carpentry.org
+email: USERNAME@SOME.WHERE
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -26,11 +26,11 @@ amy_site: "https://amy.software-carpentry.org/workshops"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
-template_repo: "https://github.com/swcarpentry/new-lesson-template"
-example_repo: "https://github.com/swcarpentry/new-lesson-example"
-example_site: "https://swcarpentry.github.com/new-lesson-example"
-workshop_repo: "https://github.com/swcarpentry/new-workshop-template"
-workshop_site: "https://swcarpentry.github.io/new-workshop-template"
+template_repo: "https://github.com/gvwilson/new-lesson-template"
+example_repo: "https://github.com/gvwilson/new-lesson-example"
+example_site: "https://gvwilson.github.com/new-lesson-example"
+workshop_repo: "https://github.com/gvwilson/new-workshop-template"
+workshop_site: "https://gvwilson.github.io/new-workshop-template"
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540

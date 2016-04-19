@@ -1,60 +1,44 @@
 ---
-layout: lesson
-subtitle: Code of Conduct
+layout: page
+title: Contributor Code of Conduct
+permalink: /conduct/
 ---
-[Software Carpentry][swc] and [Data Carpentry][dc] workshops are
-community events intended for networking and collaboration as well as
-learning.  We value the participation of every member of the
-scientific community and want all attendees to have an enjoyable and
-fulfilling experience.  Accordingly, all attendees are expected to
-show respect and courtesy to other attendees throughout the workshop.
+As contributors and maintainers of this project,
+we pledge to respect all people who contribute through reporting issues,
+posting feature requests,
+updating documentation,
+submitting pull requests or patches,
+and other activities.
 
-To make clear what is expected, everyone taking part in Software and
-Data Carpentry events and discussions---instructors, helpers,
-organizers, and learners---is required to conform to the following
-Code of Conduct. Organizers will enforce this code throughout events,
-but you may also contact us directly by email at
-[{{site.contact}}](mailto:{{site.contact}}).  All communication will
-be treated as confidential.
+We are committed to making participation in this project a harassment-free experience for everyone,
+regardless of level of experience,
+gender,
+gender identity and expression,
+sexual orientation,
+disability,
+personal appearance,
+body size,
+race,
+ethnicity,
+age,
+or religion.
 
-**Code of Conduct**
+Examples of unacceptable behavior by participants include the use of sexual language or imagery,
+derogatory comments or personal attacks,
+trolling,
+public or private harassment,
+insults,
+or other unprofessional conduct.
 
-Software Carpentry and Data Carpentry are dedicated to providing a
-harassment-free learning experience for everyone, regardless of
-gender, sexual orientation, disability, physical appearance, body
-size, race, nationality, religion, or choice of text editor. We do not
-tolerate harassment of participants in any form.
+Project maintainers have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct.
+Project maintainers who do not follow the Code of Conduct may be removed from the project team.
 
-1. Harassment includes offensive verbal comments related to gender,
-   sexual orientation, disability, physical appearance, body size,
-   race, religion, sexual images in public spaces, deliberate
-   intimidation, stalking, following, harassing photography or
-   recording, sustained disruption of talks or other events,
-   inappropriate physical contact, and unwelcome sexual attention.
+Instances of abusive, harassing, or otherwise unacceptable behavior
+may be reported by opening an issue or contacting one or more of the project maintainers.
 
-2. All communication should be appropriate for a professional audience
-   including people of many different backgrounds. Sexual language and
-   imagery is not appropriate for any event.
+This Code of Conduct is adapted from
+the [Contributor Covenant][contrib-covenant] Version 1.0.0.
 
-3.  Be kind to others. Do not insult or put down other attendees.
-
-4.  Behave professionally. Remember that harassment and sexist,
-    racist, or exclusionary jokes are not appropriate.
-
-Participants asked to stop any harassing behavior are expected to
-comply immediately.  Attendees violating these rules may be asked to
-leave the event at the sole discretion of the conference organizers
-without a refund of any charge that may have been levied.
-
-Thank you for helping make this a welcoming, friendly event for all.
-
-**Provenance**
-
-This code of conduct is a modified version of that used by
-[PyCon][pycon-coc], which in turn is forked from a template written by
-the Ada Initiative and hosted on [the Geek Feminism Wiki][ada-coc].
-
-[ada-coc]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
-[dc]: http://datacarpentry.org
-[pycon-coc]: https://us.pycon.org/2015/about/code-of-conduct/
-[swc]: http://software-carpentry.org
+[contrib-covenant]: http://contributor-covenant.org/

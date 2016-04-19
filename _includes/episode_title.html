@@ -1,0 +1,26 @@
+{% comment %}
+    Find previous and next episodes (if any).
+{% endcomment %}
+{% for episode in site.episodes  %}
+  {% if episode.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prev_episode = prev %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next_episode = site.episodes[forloop.index] %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = episode %}
+{% endfor %}
+<div class="row">
+  <div class="col-md-1">
+    <h3>{% if prev_episode %}<a href="{{ site.root }}/{{ prev_episode.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>{% endif %}</h3>
+  </div>
+  <div class="col-md-10">
+    <h3 class="maintitle"><a href="{{ site.root }}/">{{ site.title }}</a></h3>
+    <h1 class="maintitle">{{ page.title }}</h1>
+  </div>
+  <div class="col-md-1">
+    <h3>{% if next_episode %}<a href="{{ site.root }}/{{ next_episode.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>{% endif %}</h3>
+  </div>
+</div>
