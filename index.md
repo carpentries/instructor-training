@@ -1,6 +1,5 @@
 ---
-layout: lesson
-title: Instructor Training
+layout: index
 ---
 Over the last hundred years,
 researchers have discovered an enormous amount about how people learn
@@ -20,70 +19,23 @@ how concept maps can be used both to design lessons and to communicate those des
 how practices similar to pair programming and test-driven design can be used in education;
 and how teaching is a performance art.
 
-[Software Carpentry][swc-website] has run variations on this course since 2012 for over 500 people,
+[Software Carpentry]({{ site.swc_site }}) has run variations on this course since 2012 for over 500 people,
 and the present material is relevant to anyone trying to teach basic programming skills to adults.
 The class will be hands-on:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
-Please note that:
+Those who complete the two full days
+and [some short follow-up exercises online]({{ site.root }}/11-checkout/)
+will be certified to teach [Software Carpentry]({{ site.swc_site }})
+and/or [Data Carpentry]({{ site.dc_site }}).
 
-1.  All participants in this course are required to abide by
-    our [code of conduct][code-of-conduct].
+*   These materials are freely available under a [Creative Commons license][license].
+*   All participants in this course are required to abide by our [code of conduct][conduct].
+*   There are no specific prerequisites for this training,
+    but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop
+    so that they are familiar with our teaching techniques.
 
-2.  Those who complete the two full days must also complete some short
-    [follow-up exercises](checkout.html)
-    in order to be certified to teach [Software Carpentry][swc-website] and/or [Data Carpentry][dc-website].
+{% include syllabus.html %}
 
-These materials are freely available under a [Creative Commons license][license]
-at <https://github.com/swcarpentry/instructor-training/>.
-We are grateful for contributions, corrections, and suggestions.
-
-> ## Prerequisites
->
-> There are no specific prerequisites for this training,
-> but participants will benefit from having been through
-> a Data Carpentry or Software Carpentry workshop
-> so that they are familiar with our teaching techniques.
-
-> ## Preparation
->
-> Please read the following short papers *before* the start of class:
->
-> 1. [Success in Introductory Programming: What Works?][porter-what-works] (Porter et al.)
-> 2. [Top 10 Myths About Teaching Computer Science][guzdial-10-myths] (Mark Guzdial)
-> 3. [The Science of Learning][science-of-learning]
-> 4. [Software Carpentry: Lessons Learned][swc-lessons-learned]
->
-> Please also familiarize yourself with the [checkout procedure](checkout.html)
-> to be completed after the class is over.
-
-## Topics
-
-1.  [Introduction](01-introduction.html)
-2.  [Terms](02-terms.html)
-3.  [Mental Models](03-models.html)
-4.  [Lesson Study](04-study.html)
-5.  [Mapping Expertise](05-expertise.html)
-6.  [Managing Memory](06-memory.html)
-7.  [Lesson Design](07-design.html)
-8.  [Teaching Practices](08-practices.html)
-9.  [Motivation and Demotivation](09-motivation.html)
-10. [The Carpentries](10-carpentries.html)
-
-## Other Resources
-
-*   [Checkout Procedure](checkout.html)
-*   [Reference Guide](reference.html)
-*   [Next Steps](discussion.html)
-*   [Instructors' Guide](instructors.html)
-*   [Checklist](checklist.html)
-
-[code-of-conduct]: http://software-carpentry.org/conduct/
-[dc-website]: http://datacarpentry.org
-[guzdial-10-myths]: papers/guzdial-10-myths-2015.pdf
-[instructor-training]: https://swcarpentry.github.io/instructor-training/
-[license]: LICENSE.html
-[porter-what-works]: papers/porter-what-works-2013.pdf
-[science-of-learning]: papers/science-of-learning-2015.pdf
-[swc-lessons-learned]: http://f1000research.com/articles/3-62/v2
-[swc-website]: http://software-carpentry.org
+[conduct]: {{ site.root }}/conduct/
+[license]: {{ site.root }}/license/
