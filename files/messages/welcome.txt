@@ -2,9 +2,9 @@ Hello everyone, and thank you for signing up for our upcoming instructor trainin
 
 1.  Please read:
 
-    * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/papers/porter-what-works-2013.pdf)
-    * "Top 10 Myths About Teaching Computer Science" (https://swcarpentry.github.io/instructor-training/papers/guzdial-10-myths-2015.pdf)
-    * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/papers/science-of-learning-2015.pdf)
+    * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
+    * "Top 10 Myths About Teaching Computer Science" (https://swcarpentry.github.io/instructor-training/files/papers/guzdial-10-myths-2015.pdf)
+    * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
     * "Software Carpentry: Lessons Learned" (http://f1000research.com/articles/3-62/v2)
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/) and have a look at what we currently teach.  You are *not* expected to go through all of these in detail, but please familiarize yourself with the major topics and lesson format.
