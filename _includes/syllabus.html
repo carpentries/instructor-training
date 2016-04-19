@@ -11,6 +11,7 @@
 {% endfor %}
 {% assign current = site.start_time %}
 
+<div align="center">
 <table class="table table-striped">
 {% for episode in site.episodes %}
   {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
@@ -56,3 +57,4 @@
   <td class="col-md-7"></td>
 </tr>
 </table>
+</div>
