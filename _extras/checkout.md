@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Checkout Procedure
+title: "Checkout Procedure"
 permalink: /checkout/
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: http://pad.software-carpentry.org/teaching-demos
-discussionpad: http://pad.software-carpentry.org/lesson-discussion-2016
-email: training-help@software-carpentry.org
+discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 After you have finished the two-day training class,
 you must go through these steps in order to complete your training and be certified:
@@ -15,7 +14,7 @@ you must go through these steps in order to complete your training and be certif
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
 We would like to get everyone through this process within two months of training.
-Anyone who has not completed within 90 days should [contact us](mailto:{{page.email}})
+Anyone who has not completed within 90 days should [contact us](mailto:{{ site.email }})
 to discuss reasons and options.
 
 ## Part 1: Submit a Small Change to One of Our Lessons
@@ -41,7 +40,7 @@ Please note that:
     you may submit the change either as a pull request
     or by filing an issue in GitHub that describes your proposed change.
     Either way,
-    send a link to the pull request or issue to [{{page.email}}](mailto:{{page.email}})
+    send a link to the pull request or issue to [{{site.email}}](mailto:{{site.email}})
     so that she can shepherd it through the review process.
 
 2.  Your change doesn't have to be accepted in order for you to become an instructor:
@@ -248,4 +247,4 @@ and when and where to sign up for another session.
 
 If you have any questions or suggestions about any of the above,
 please contact your trainer
-or mail us at [{{page.email}}](mailto:{{page.email}}).
+or mail us at [{{site.email}}](mailto:{{site.email}}).

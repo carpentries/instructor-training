@@ -15,7 +15,7 @@ root: "/instructor-training"
 title: "Instructor Training"
 
 # Contact email address.
-email: training-help@software-carpentry.org
+email: training@software-carpentry.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
