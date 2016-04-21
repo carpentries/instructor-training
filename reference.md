@@ -29,21 +29,37 @@ permalink: /reference/
     they do not explain which aspects did or did not meet the criteria and how,
     so more specific feedback is necessary.
 
-###How Learning Works, Chapter 1. 
+### How Does Students' Prior Knowledge Affect Their Learning?
 
-###How does students’ prior knowledge affect their learning?
-
-
-1. Learners come with past experiences and models of knowledge. If we can activate that prior knowledge and correctly link it to what we are trying to teach, the effect will be increased retention and a greater ability to apply what we are teaching to novel problems.
-2.  If the learner's past knowledge is not activated, we lose this integration of knowledge and amplifying effect of their past experience, declarative and procedural knowledge.
-3. If the learner comes with incorrect information or misunderstands how the new knowledge relates to their past experience, their learning can be hindered until they understand the misconception.
-4. The nature of misconceptions is that the learner will not realise they have them. Specifically, if asked they may well report that they understand the situation. 
-5. Testing knowledge (diagnostic assessment), with well designed multiple choice questions for example, will reveal the misconceptions and form a basis for correcting them.
-6. Well crafted challenges will provide the learner with information about their understanding. Faded examples support the student and provide a “win” at the start and indicate a lack when they stop being able to complete the challenge.
-7. Successfully completing a challenge while still holding a misconception about the subject of the challenge is a very, very bad thing…… It increases the learners confidence in their incorrect model.
-8. Using examples that involve universal activities rather than domain specific or highly technical examples will maximise the number of correct connections that form the basis of transferring knowledge. It is a delicate balance because if it is too trivial or simple, students may dismiss it as not important or that they already understand the information and switch off to conserve energy. Engagement/entertaining examples, maybe with some humour or an interesting story will allow you to keep engagement while speaking directly to most people’s experiences. 
-9. Analogies are useful in connecting past understanding to a current problem but be explicit about how it applies to the situation because the learner may not understand where the analogy breaks down or stops being applicable.
-10. Point number 10 is a hidden point, it can be found by carefully reading the book! :-)
+1.  Learners come with past experiences and models of knowledge.
+    If we can activate that prior knowledge and correctly link it to what we are trying to teach,
+    the effect will be increased retention and a greater ability to apply what we are teaching to novel problems.
+1.  If the learner's past knowledge is not activated,
+    we lose this integration of knowledge
+    and the amplifying effect of their past experience and their declarative and procedural knowledge.
+1.  If the learner comes with incorrect information or misunderstands how the new knowledge relates to their past experience,
+    their learning can be hindered until they understand the misconception.
+1.  The nature of misconceptions is that the learner will not realise they have them.
+    Specifically, if asked they may well report that they understand the situation. 
+1.  Testing knowledge (e.g., doing diagnostic assessment with well-designed multiple choice questions)
+    will reveal the misconceptions and form a basis for correcting them.
+1.  Well-crafted challenges will provide the learner with information about their understanding.
+    Faded examples support the student and provide a "win" at the start
+    and indicate a lack when they stop being able to complete the challenge.
+1.  Successfully completing a challenge while still holding a misconception about the subject of the challenge is a very bad thing,
+    because it increases the learners' confidence in their incorrect model.
+1.  Using examples that involve universal activities rather than domain specific or highly technical examples
+    will maximise the number of correct connections that form the basis of transferring knowledge.
+    It is a delicate balance:
+    if the problem is too simple,
+    students may dismiss it as unimportant
+    or and switch off to conserve energy because they believe they already understand.
+    Some humour or an interesting story will allow you to keep engagement
+    while speaking directly to most people's experiences. 
+1.  Analogies are useful in connecting past understanding to a current problem,
+    but be explicit about how it applies to the situation
+    because the learner may not understand where the analogy breaks down or stops being applicable.
+1.  Point number 10 is a hidden point, it can be found by carefully reading the book!
 
 ## Books
 
