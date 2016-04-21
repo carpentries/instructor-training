@@ -350,7 +350,7 @@ can be used as a model.
 However, there's another, greater challenge to creating mental models.  
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.
+> It's what you know for sure that just ain't so.  
 > - Mark Twain
 
 Clearing up learners' misconceptions is therefore as important as 
@@ -473,8 +473,6 @@ for the right answer, it's probably safe to move on.  If answers are pretty even
 split between options, learners are probably guessing randomly and it's a good 
 idea to go back to a point where everyone was on the same page.  
 
-(See the Peer Instruction box below, for other ways to use MCQs in class.)  
-
 Ideally,
 instructors should use MCQs
 or some other kind of formative assessment
@@ -526,6 +524,7 @@ in which you were going to explain something that your learners already know.
 > we usually do not use it in our workshops because
 > it takes people time to learn a new way to learn ---
 > time that we don't have in our compressed two-day format.
+{: .callout}
 
 > ## Modeling Novice Mental Models
 >
