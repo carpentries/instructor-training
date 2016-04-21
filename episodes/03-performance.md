@@ -1,15 +1,17 @@
 ---
-title: "Lesson Study"
+title: "Teaching as a Performance Art"
 teaching: 15
-exercises: 15
+exercises: 45
 questions:
 - "How do teachers improve?"
 objectives:
 - "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
+- "Explain how teaching practices are actually transferred and adopted."
+- "Summarize the strengths and weaknesses of your performance as a lecturer."
 keypoints:
 - "Great teachers are made, not born."
 - "Formal written descriptions of teaching practices are ineffective."
-- "Lesson study ('jugyokenkyu') essential to transferring skills between teachers."
+- "Lesson study ('jugyokenkyu') is essential to transferring skills between teachers."
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
 Continuing with our theme of instructor-as-performer,
@@ -174,6 +176,8 @@ As the abstract of the latter paper says:
 > Most of the changes occurred locally,
 > without input from outside sources,
 > or involved only personal interaction with other educators.
+
+FIXME: lateral knowledge transfer
 
 As stated at the beginning, the main goal of this training is to be this kind of
 lesson study, where instructors can come together to discuss and share practices,
