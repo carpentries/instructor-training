@@ -29,7 +29,7 @@ permalink: /reference/
     they do not explain which aspects did or did not meet the criteria and how,
     so more specific feedback is necessary.
 
-### Overview of How Learning Works, Chapter 1. 
+###How Learning Works, Chapter 1. 
 
 ###How does students’ prior knowledge affect their learning?
 
