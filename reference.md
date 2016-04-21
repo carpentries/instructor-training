@@ -34,9 +34,6 @@ permalink: /reference/
 ###How does students’ prior knowledge affect their learning?
 
 
-	‘ 
-
-
 1. Learners come with past experiences and models of knowledge. If we can activate that prior knowledge and correctly link it to what we are trying to teach, the effect will be increased retention and a greater ability to apply what we are teaching to novel problems.
 2.  If the learner's past knowledge is not activated, we lose this integration of knowledge and amplifying effect of their past experience, declarative and procedural knowledge.
 3. If the learner comes with incorrect information or misunderstands how the new knowledge relates to their past experience, their learning can be hindered until they understand the misconception.
