@@ -1,7 +1,7 @@
 ---
 title: "Mapping Expertise"
-teaching: 15
-exercises: 20
+teaching: 30
+exercises: 45
 questions:
 - "How can we describe the difference in learning between a novice and expert?"
 objectives:
