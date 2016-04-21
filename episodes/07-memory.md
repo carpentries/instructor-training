@@ -1,7 +1,7 @@
 ---
 title: "Expertise and Memory"
-teaching: 20
-exercises: 20
+teaching: 30
+exercises: 45
 questions:
 - "How can we describe the difference in learning between a novice and expert?"
 - "How is memory a limiting factor in learning?"
