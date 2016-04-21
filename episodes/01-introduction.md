@@ -61,3 +61,19 @@ or Data Carpentry instructor, and introduces you to a community of
 like-minded people.  Hopefully this training helps you continue on
 your journey of being a teaching "performance artist", whether you've
 never taught a class before, or are a 40-year teaching veteran.
+
+## Key Readings
+
+The best overview of research results in education and learning is
+Ambrose et al's *[How Learning Works][amazon-hlw]*,
+which is also an excellent example of what secondary literature ought to look like.
+Green's *[Building a Better Teacher][amazon-babt]*
+is lighter but no less informative:
+it explores why educational reforms in the past 50 years have mostly missed the mark,
+and what we should be doing instead.
+
+Shorter pieces include
+Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/guzdial-why-hard-to-teach-2011.pdf)"
+and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/guzdial-10-myths-2015.pdf)",
+and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/porter-what-works-2013.pdf)",
+all of which you should read before starting this class.
