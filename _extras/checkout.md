@@ -109,12 +109,18 @@ The lessons you may submit to are:
 <a name="discussion-session"></a>
 
 After you have submitted a change to one of our lessons,
-the next step is to take part in an hour-long online discussion session with other trainees
+the next step is to take part in an hour-long discussion session
 led by an experienced instructor. 
 This session gives you a change to familiarize yourself with a particular lesson
 and clarify anything that may be unclear about our operations in general.
 
-To prepare for this session,
+Our discussion sessions are run as weekly video conferences.
+Please see our [Community Calendar]({{page.calendar}}) for times.
+If none of the available times work for you,
+or if you need any special arrangements,
+please [let us know](mailto:{{site.email}})
+
+To prepare for your session,
 pick a particular lesson such as Data Carpentry's lesson on OpenRefine
 or the Software Carpentry lesson on Python
 and read the *whole* lesson.
@@ -131,7 +137,7 @@ make notes about the following:
    If you were to list any prerequsites, what would they be? 
 
 The first two questions are intended to help you become more comfortable with
-[our collaborative lesson development methods]({{site.site}}/blog/2014/03/collaborative-lesson-development.html).
+[our collaborative lesson development methods][blog-collab-lesson].
 The third and fourth question refer back to the instructor training course,
 and are meant to give you a chance to apply some of what you've learned to these specific lessons.
 
@@ -158,21 +164,6 @@ she will notify the training coordinator
 and ask you to sign up for a demonstration lesson (described in the next session).
 If she feels you have not prepared,
 she may ask you to come back for another session later.
-
-> **Spring 2016: A New Hope**
->
-> As an experiment,
-> we are inviting some trainees to take part in our weekly workshop debriefing sessions
-> with existing instructors
-> rather than lesson discussion sessions.
-> We hope that this will give trainees a chance to meet more members of our community,
-> and get answers to questions about a broader range of topics.
-> Your trainer will let you know if this option is being offered to your group;
-> if it is,
-> please see our [Community Calendar]({{page.calendar}})
-> for the times of upcoming debriefing sessions.
-> You are still required to familiarize yourself with one particular lesson before taking part,
-> and to bring questions about it to discuss.
 
 ### Rubric
 <a name="rubric"></a>
@@ -251,3 +242,5 @@ and when and where to sign up for another session.
 If you have any questions or suggestions about any of the above,
 please contact your trainer
 or mail us at [{{site.email}}](mailto:{{site.email}}).
+
+[blog-collab-lesson]: {{ site.swc_site }}/blog/2014/03/collaborative-lesson-development.html
