@@ -1,7 +1,7 @@
 ---
 title: "Carpentry Teaching Practices"
-teaching: 15
-exercises: 15
+teaching: 45
+exercises: 0
 questions:
 - "What teaching practices are common to Software and Data Carpentry?"
 objectives:
@@ -21,64 +21,6 @@ We regard teaching as a performance art,
 no different from drama, music, or athletics.
 And as in those fields,
 we have a collection of small tips and tricks to make teaching work better.
-
-## Live Coding 
-
-We do not use slides in our lessons.
-Instead, instructors plug their laptop into the projector
-and work through the lesson,
-typing in the code,
-reformatting data,
-and talking as we go.
-Its advantages are:
-
-*   Watching a program being written is more compelling than
-    watching someone page through slides that present bits and pieces of the same code.
-*   It enables instructors to be more responsive to "what if?" questions.
-    Where a slide deck is like a railway track,
-    live coding allows instructors to go off road and follow their learners' interests.
-*   It facilitates lateral knowledge transfer:
-    people learn more than we realized we were teaching by watching *how* instructors do things.
-*   It slows the instructor down:
-    if she has to type in the program as she goes along,
-    she can only go twice as fast as her learners,
-    rather than ten-fold faster as she could with slides.
-*   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
-    Novices are going to spend most of their time doing this,
-    but it's left out of most textbooks.
-
-> The typos are the pedagogy
-> - [Dana Brunson][brunson-twitter]
-
-It takes a bit of practice for instructors to
-get used to thinking aloud while coding in front of an audience, but
-most report that it is then no more difficult to do than talking off a
-deck of slides.
-
-Many instructors now use two devices when teaching: a laptop plugged
-into the projector for learners to see, and a tablet beside it on
-which they can view their notes and the Etherpad session.
-This seems to be more reliable than
-displaying one virtual desktop while flipping back and forth to
-another.
-
-> ## I/We/You vs. You/Y'all/We
->
-> Live coding is an example of the "I/We/You" approach to teaching
-> [discussed earlier]({{ site.root }}/04-study/).
-{: .callout}
-
-> ## Discussion
-> 
-> What are some of the advantages of live coding?  What are 
-> some of the challenges?  
-{: .challenge}
-
-> ## Live Coding
-> 
-> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
-> with a partner.  
-{: .challenge}
 
 ### Challenges
 

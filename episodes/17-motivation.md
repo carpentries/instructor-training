@@ -1,7 +1,7 @@
 ---
 title: "Motivation and Demotivation"
-teaching: 15
-exercises: 15
+teaching: 20
+exercises: 25
 questions:
 - "What motivates and demotivates learners and instructors?"
 objectives:

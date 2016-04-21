@@ -1,8 +1,7 @@
 ---
 title: "The Carpentries"
-start: true
-teaching: 15
-exercises: 15
+teaching: 45
+exercises: 30
 questions:
 - "What do I need to know about the Software and Data Carpentry organizations?"
 objectives:
