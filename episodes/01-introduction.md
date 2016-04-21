@@ -2,7 +2,7 @@
 title: "Introduction"
 start: true
 teaching: 10
-exercises: 10
+exercises: 0
 questions:
 - "How can we describe teaching and learning how to teach?"
 objectives:
