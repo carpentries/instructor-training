@@ -185,64 +185,6 @@ The biggest change was the introduction of recorded teaching exercises.
 
 *   We do the video lecture exercise as in the two-day in-person training.
 
-## Schedule
-
-The schedule for the course is evolving along with the content,
-but here's what we do in a typical two-day event:
-
-<div class="row">
-  <div class="col-md-6">
-    <table class="table table-striped">
-      <tr><td>Day 1 </td><td> 09:00 </td><td> Welcome; goals.                                      </td></tr>
-      <tr><td>      </td><td> 09:10 </td><td> Educational psychology vs. instructional design      </td></tr>
-      <tr><td>      </td><td>       </td><td> Novice, competent, and expert                        </td></tr>
-      <tr><td>      </td><td>       </td><td> Formative vs. summative assessment                   </td></tr>
-      <tr><td>      </td><td>       </td><td> Using multiple choice questions                      </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: multiple choice questions                 </td></tr>
-      <tr><td>      </td><td> 10:30 </td><td> Coffee                                               </td></tr>
-      <tr><td>      </td><td> 10:45 </td><td> Giving feedback on someone's teaching                </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: video recorded teaching                   </td></tr>
-      <tr><td>      </td><td> 11:45 </td><td> Morning wrap-up (minute cards)                       </td></tr>
-      <tr><td>      </td><td> 12:00 </td><td> Lunch                                                </td></tr>
-      <tr><td>      </td><td> 13:00 </td><td> Expertise and connectivity                           </td></tr>
-      <tr><td>      </td><td>       </td><td> Concept maps                                         </td></tr>
-      <tr><td>      </td><td>       </td><td> Seven plus or minus two                              </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: draw and critique concept maps            </td></tr>
-      <tr><td>      </td><td> 14:15 </td><td> Coffee                                               </td></tr>
-      <tr><td>      </td><td> 14:30 </td><td> Video-recorded teaching (with concept map in mind)   </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: write and critique learning objectives    </td></tr>
-      <tr><td>      </td><td> 15:15 </td><td> Cognitive load                                       </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: faded example                             </td></tr>
-      <tr><td>      </td><td> 16:00 </td><td> Wrap-up (one up, one down)                           </td></tr>
-      <tr><td>      </td><td> 16:15 </td><td> Close                                                </td></tr>
-      <tr><td>      </td><td>       </td><td> Homework: read operations guide                     </td></tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <table class="table table-striped">
-      <tr><td>Day 2 </td><td> 09:00 </td><td> Live coding demonstration                            </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: live coding practice                      </td></tr>
-      <tr><td>      </td><td> 10:15 </td><td> Coffee                                               </td></tr>
-      <tr><td>      </td><td> 10:30 </td><td> Review questions about operations guide              </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: create workshop website                   </td></tr>
-      <tr><td>      </td><td> 11:45 </td><td> Wrap-up (minute cards)                               </td></tr>
-      <tr><td>      </td><td> 12:00 </td><td> Lunch                                                </td></tr>
-      <tr><td>      </td><td> 13:00 </td><td> Motivators and demotivators                          </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: demotivational stories                    </td></tr>
-      <tr><td>      </td><td> 13:45 </td><td> Learning objectives and Bloom's Taxonomy             </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: classify and improve learning objectives  </td></tr>
-      <tr><td>      </td><td> 14:30 </td><td> Coffee break                                         </td></tr>
-      <tr><td>      </td><td> 14:45 </td><td> Software and Data Carpentry organizations            </td></tr>
-      <tr><td>      </td><td>       </td><td> The challenge of program assessment                  </td></tr>
-      <tr><td>      </td><td>       </td><td> Lesson incubation                                    </td></tr>
-      <tr><td>      </td><td>       </td><td> Exercise: what else could we do and how?            </td></tr>
-      <tr><td>      </td><td> 15:30 </td><td> Review checkout procedure and deferred questions     </td></tr>
-      <tr><td>      </td><td> 16:00 </td><td> Wrap-up (one up, one down)                           </td></tr>
-      <tr><td>      </td><td> 16:15 </td><td> Close                                                </td></tr>
-    </table>
-  </div>
-</div>
-
 ## Why Do(n't) We Teach X?
 
 Workshop attendees and trainee instructors often ask why we don't teach
