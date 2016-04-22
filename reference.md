@@ -59,7 +59,6 @@ permalink: /reference/
 1.  Analogies are useful in connecting past understanding to a current problem,
     but be explicit about how it applies to the situation
     because the learner may not understand where the analogy breaks down or stops being applicable.
-1.  Point number 10 is a hidden point, it can be found by carefully reading the book!
 
 ## Books
 
