@@ -1,0 +1,190 @@
+#!/usr/bin/env python
+
+'''
+Validate layout of generated HTML pages.
+(We validate the HTML because source may not be in Markdown.)
+'''
+
+import sys
+import os
+import glob
+import fnmatch
+import yaml
+from optparse import OptionParser
+from bs4 import BeautifulSoup
+from lxml import etree
+
+
+# Default configuration.
+DEFAULT_CONFIG = '''\
+patterns:
+  '*.html':
+    - has_title_in_head
+    - has_navbar
+    - has_title_in_body
+    - has_footer
+  index.html:
+    - has_prereq
+    - has_syllabus
+  '*-*/index.html':
+    - has_objectives
+'''
+
+
+# Record all the rules.
+RULES = {}
+def rule(fn):
+    RULES[fn.__name__] = fn
+    return fn
+
+
+def main():
+    '''Main driver: check all files with all rules that apply.'''
+
+    args = parse_args()
+    read_config(args)
+    docs = read_all_docs(args.source_dir)
+    _require(docs, 'No source files found in {0}'.format(args.source_dir))
+    all_filenames = docs.keys()
+    for filename in all_filenames:
+        if args.verbose > 0:
+            print(filename, '...', file=sys.stderr)
+        for pattern in args.patterns:
+            full_pattern = os.path.join(args.source_dir, pattern)
+            if fnmatch.fnmatch(filename, full_pattern):
+                for rule in args.patterns[pattern]:
+                    if args.verbose > 1:
+                        print('...', rule, file=sys.stderr)
+                    RULES[rule](filename, docs[filename])
+
+
+def parse_args():
+    '''Parse command-line arguments.'''
+
+    parser = OptionParser()
+    parser.add_option('-c', '--config',
+                      default=None,
+                      dest='config_file',
+                      help='configuration file')
+    parser.add_option('-s', '--source',
+                      default='_site',
+                      dest='source_dir',
+                      help='source directory')
+    parser.add_option('-v', '--verbose',
+                      default=0,
+                      action='count',
+                      dest='verbose',
+                      help='report actions')
+
+    args, extras = parser.parse_args()
+
+    _require(not extras, 'Unexpected trailing command-line arguments "{0}"'.format(extras))
+
+    return args
+
+
+def read_config(args):
+    '''
+    Read configuration file.
+    '''
+
+    if args.config_file:
+        with open(args.config_file, 'r') as reader:
+            args.config = yaml.load(reader)
+    else:
+        args.config = yaml.load(DEFAULT_CONFIG)
+
+    args.patterns = args.config['patterns']
+
+
+def read_all_docs(source_dir):
+    '''
+    Read all HTML pages under the source directory.
+    Returns a dictionary of (path, doc).
+    '''
+
+    pattern = os.path.join(source_dir, '**/*.html')
+    result = {}
+    for path in glob.iglob(pattern, recursive=True):
+        try:
+            with open(path, 'r') as reader:
+                raw = reader.read().replace('<!doctype html>\n', '')
+                soup = BeautifulSoup(raw, 'html.parser').prettify()
+                doc = etree.fromstring(soup)
+                result[path] = doc
+        except IOError as e:
+            print('Unable to open {0}: {1}'.format(path, e), file=sys.stderr)
+            sys.exit(1)
+
+    return result
+
+
+@rule
+def has_footer(filename, doc):
+    '''Document has footer element.'''
+
+    _check_1(filename, doc, 'footers', '//footer')
+
+
+@rule
+def has_navbar(filename, doc):
+    '''Document has header element.'''
+
+    _check_1(filename, doc, 'div navbar', '//div[@class="navbar-header"]')
+
+
+@rule
+def has_objectives(filename, doc):
+    '''Episode has objectives.'''
+
+    _check_1(filename, doc, 'objectives div', '//blockquote[@class="objectives"]')
+
+
+@rule
+def has_prereq(filename, doc):
+    '''Index page has prerequisites block.'''
+
+    _check_1(filename, doc, 'prerequisites blockquote', '//blockquote[@class="prereq"]')
+
+
+@rule
+def has_syllabus(filename, doc):
+    '''Index page has syllabus.'''
+
+    _check_1(filename, doc, 'syllabus', '//div[@class="syllabus"]')
+    _check_1(filename, doc, 'syllabus title', '//div[@class="syllabus"]/h2')
+    _check_1(filename, doc, 'syllabus table', '//div[@class="syllabus"]/table')
+
+
+@rule
+def has_title_in_head(filename, doc):
+    '''Document has a title in the head.'''
+
+    _check_1(filename, doc, 'title in head', '//head//title')
+
+
+@rule
+def has_title_in_body(filename, doc):
+    '''Document has a title in the body.'''
+
+    _check_1(filename, doc, 'title in body', '//body//h1[@class="maintitle"]')
+
+
+def _check_1(filename, doc, rulename, xpath):
+    '''Check that an equality holds.'''
+
+    actual = doc.xpath(xpath)
+    if len(actual) != 1:
+        print('In {0}, checking {1}: expected 1 match, got {2}'.format(filename, rulename, len(actual)))
+
+
+def _require(condition, message):
+    '''Fail if condition not met.'''
+
+    if not condition:
+        print(message, file=sys.stderr)
+        sys.exit(1)
+
+
+if __name__ == '__main__':
+    main()
