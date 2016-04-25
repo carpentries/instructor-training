@@ -2,7 +2,7 @@
     Find previous and next episodes (if any).
 {% endcomment %}
 {% for episode in site.episodes  %}
-  {% if episode.title == page.title %}
+  {% if episode.url == page.url %}
     {% unless forloop.first %}
       {% assign prev_episode = prev %}
     {% endunless %}

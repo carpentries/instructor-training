@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: lesson_homepage
 ---
 Over the last hundred years,
 researchers have discovered an enormous amount about how people learn
