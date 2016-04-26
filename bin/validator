@@ -15,8 +15,8 @@ from bs4 import BeautifulSoup
 from lxml import etree
 
 
-# Default configuration.
-DEFAULT_CONFIG = '''\
+# Default lesson configuration.
+LESSON_CONFIG = '''\
 patterns:
   '*.html':
     - has_title_in_head
@@ -66,6 +66,11 @@ def parse_args():
                       default=None,
                       dest='config_file',
                       help='configuration file')
+    parser.add_option('-l', '--lesson',
+                      default=False,
+                      action='store_true',
+                      dest='check_lesson',
+                      help='check a lesson')
     parser.add_option('-s', '--source',
                       default='_site',
                       dest='source_dir',
@@ -75,10 +80,16 @@ def parse_args():
                       action='count',
                       dest='verbose',
                       help='report actions')
+    parser.add_option('-w', '--workshop',
+                      default=False,
+                      action='store_true',
+                      dest='check_workshop',
+                      help='check a workshop')
 
     args, extras = parser.parse_args()
 
     _require(not extras, 'Unexpected trailing command-line arguments "{0}"'.format(extras))
+    _require(args.check_lesson != args.check_workshop, 'Must have exactly one of -l/-w')
 
     return args
 
@@ -91,8 +102,10 @@ def read_config(args):
     if args.config_file:
         with open(args.config_file, 'r') as reader:
             args.config = yaml.load(reader)
+    elif args.check_lesson:
+        args.config = yaml.load(LESSON_CONFIG)
     else:
-        args.config = yaml.load(DEFAULT_CONFIG)
+        assert False, 'Do not know what configuration to load'
 
     args.patterns = args.config['patterns']
 
