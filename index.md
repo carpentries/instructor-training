@@ -25,7 +25,7 @@ The class will be hands-on:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online]({{ site.root }}/11-checkout/)
+and [some short follow-up exercises online]({{ site.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
