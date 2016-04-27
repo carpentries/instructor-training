@@ -114,9 +114,10 @@ led by an experienced instructor.
 This session gives you a change to familiarize yourself with a particular lesson
 and clarify anything that may be unclear about our operations in general.
 
-Our discussion sessions are run as weekly video conferences.
-Please see our [Community Calendar]({{page.calendar}}) for times.
-If none of the available times work for you,
+Our discussion sessions are run as weekly video conferences:
+please see our [Community Calendar]({{page.calendar}}) for times.
+You can sign up for a session on [this Etherpad]({{page.discussionpad}});
+if none of the available times work for you,
 or if you need any special arrangements,
 please [let us know](mailto:{{site.email}})
 
