@@ -96,6 +96,62 @@ and eventually added to our operations guide.
 > What situations might come up that these *don't* answer?
 {: .challenge}
 
+### What Costs What?
+
+Quoting the [Software Carpentry workshop request page][swc-request]:
+
+> Our instructors are volunteers,
+> and so are not paid for their teaching,
+> but host sites are required to cover travel and accommodation costs for any instructors visiting from out of town.
+> The Software Carpentry Foundation offers three fee schedules for workshops:
+>
+> **Self-Organized Workshops: Optional Donation**
+>
+> Software Carpentry welcomes you to organize and run your own workshop
+> without administrative assistance from the Software Carpentry Foundation by optional donation.
+> In order to use the Software Carpentry name and logo at your event,
+> we only require that you follow our curriculum,
+> have at least one badged instructor teaching and co-organizing your event,
+> and let us know that you're organizing a workshop.
+> In order to help Software Carpentry continue operating and offering workshops around the world,
+> we ask for (but do not require) a donation, and recommend $500 USD as a suitable amount.
+>
+> **Nonprofit Organization: $2500**
+>
+> If you are a not-for-profit, such as a university or government lab,
+> the Software Carpentry Foundation will organize a workshop for you
+> (not including instructor travel and accommodation costs) for $2500 USD.
+>
+> **For-Profit Institution: $10000**
+>
+> If you are a for-profit institution, such as a company,
+> the Software Carpentry Foundation will organize a workshop for you
+> (not including instructor travel and accommodation costs) for $10,
+> 00 USD, of which three quarters is used to underwrite workshops at institutions that could otherwise not afford them.
+>
+> We strive to be a global project and support diversity in science.
+> If you wish to offer a workshop that would further these goals,
+> please contact us regarding a waiver for the administration fee at the nonprofit and for-profit scales.
+> Waivers are not required for self-organized workshops. 
+
+Quoting the [Data Carpentry workshops page][dc-request]:
+
+> The cost of hosting a workshop is both the Workshop Administration Fee and travel expenses for the two instructors.
+>
+> **Workshop Administration Fee: $2500 US**
+>
+> This is the fee is for non-profit organizations, such as universities and government labs.
+> If you are a for-profit organization, such as a company, and are interested in a workshop, please get in touch.
+>
+> Partial or full waivers for fees will be considered on an as-needed basis.
+>
+> **Travel Expenses for Instructors: ~$2000 US**
+>
+> All instructors are volunteers, but the Host needs to cover their travel expenses.
+> We work to find local instructors,
+> but suggest that you estimate about $2000 for the travel, food and accomodation of the instructors.
+> The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
+
 ### Materials
 
 All of Software and Data Carpentry's lessons materials are freely available
@@ -305,6 +361,7 @@ the assessment we do, and how often we do it.
 [dc-github]: https://github.com/datacarpentry/
 [dc-join]: {{ site.dc_site }}/involved/
 [dc-lessons]: {{ site.dc_site }}/lessons/
+[dc-request]: {{ site.dc_site}}/workshops-host/
 [dc-submission-page]: {{ site.dc_site }}/instructor-checkout-exercises/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: {{ site.dc_site }}
@@ -317,6 +374,7 @@ the assessment we do, and how often we do it.
 [swc-join]: {{ site.swc_site }}/join/
 [swc-lessons]: {{ site.swc_site }}/lessons/
 [swc-operations]: {{ site.swc_site }}/workshops/operations.html
+[swc-request]: {{ site.swc_site}}/workshops/request/
 [swc-steering-committee]: {{ site.swc_site }}/scf/
 [swc-twitter]: https://twitter.com/swcarpentry
 [swc]: {{ site.swc_site }}
