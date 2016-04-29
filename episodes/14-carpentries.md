@@ -126,8 +126,8 @@ Quoting the [Software Carpentry workshop request page][swc-request]:
 >
 > If you are a for-profit institution, such as a company,
 > the Software Carpentry Foundation will organize a workshop for you
-> (not including instructor travel and accommodation costs) for $10,
-> 00 USD, of which three quarters is used to underwrite workshops at institutions that could otherwise not afford them.
+> (not including instructor travel and accommodation costs) for $10,000 USD
+> of which three quarters is used to underwrite workshops at institutions that could otherwise not afford them.
 >
 > We strive to be a global project and support diversity in science.
 > If you wish to offer a workshop that would further these goals,
