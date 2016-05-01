@@ -102,7 +102,7 @@ Quoting the [Software Carpentry workshop request page][swc-request]:
 
 > Our instructors are volunteers,
 > and so are not paid for their teaching,
-> but host sites are required to cover travel and accommodation costs for any instructors visiting from out of town.
+> but **host sites are required to cover travel and accommodation costs for any instructors visiting from out of town**.
 > The Software Carpentry Foundation offers three fee schedules for workshops:
 >
 > **Self-Organized Workshops: Optional Donation**
