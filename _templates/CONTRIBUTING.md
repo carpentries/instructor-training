@@ -102,8 +102,8 @@ You can also [reach us by email][contact].
 [discuss-list]: http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org
 [github-flow]: https://guides.github.com/introduction/flow/
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/gvwilson/new-lesson-example/issues/
-[repo]: https://github.com/gvwilson/new-lesson-example/
+[issues]: https://github.com/gvwilson/new-lesson-template/issues/
+[repo]: https://github.com/gvwilson/new-lesson-template/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
