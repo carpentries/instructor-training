@@ -106,7 +106,8 @@ The lessons you may submit to are:
 >
 > 1.  Follow the coding style of the lesson you're submitting to.
 >     For example,
->     [our SQL lesson][swc-sql] capitalizes keywords but uses lower case for table and field names.
+>     [our SQL lesson][swc-sql] capitalizes keywords but uses lower case for table and field names,
+>     and many of the lessons have a `CONTRIBUTING` file with explicit guidelines.
 > 2.  Include a solution to your exercise.
 > 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
 >     since most workshops have users on all three platforms.
