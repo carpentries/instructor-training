@@ -1,5 +1,9 @@
 # new-instructor-training
 
-A rendering of the instructor training course materials using a [new template](https://github.com/gvwilson/new-template/)
-based on [Twitter Bootstrap](http://getbootstrap.com/)
-and [Jekyll collections](https://jekyllrb.com/docs/collections/).
+The [Software Carpentry](http://software-carpentry.org)
+and [Data Carpentry](http://datacarpentry.org) instructor training course..
+
+Maintainers:
+
+* [Christina Koch](http://software-carpentry.org/team/#koch_christina)
+* [Greg Wilson](http://software-carpentry.org/team/#wilson_g)
