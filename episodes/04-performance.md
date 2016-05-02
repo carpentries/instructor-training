@@ -185,23 +185,28 @@ and to get feedback.
 
 > ## Feedback on Yourself
 >
-> Split into groups of three,
-> and then have each person introduce themselves and
-> then teach a 90-second lesson on
-> the most interesting aspect of their own research or work
-> to another person in the group
-> while the third person records it (video and audio)
-> using a cell phone or some other handheld device.
-> After the first person finishes,
-> rotate roles
-> (she becomes the videographer,
-> her audience becomes the instructor,
-> the person who was recording becomes the audience)
-> and then rotate roles again.
-> After everyone in the group of three has finished teaching,
-> watch the videos as a group.  After watching all the videos,
-> give feedback on each person's strengths and weaknesses.
-> Returning to the large group, share your strengths and weaknesses with others.
+> 1.  Split into groups of three
+> 2.  Have each person introduce themselves
+>     and then teach a 90-second lesson on
+>     the most interesting aspect of their own research or work
+>     to another person in the group
+>     while the third person records it (video and audio)
+>     using a cell phone or some other handheld device.
+> 3.  After the first person finishes,
+>     rotate roles
+>     (she becomes the videographer,
+>     her audience becomes the instructor,
+>     the person who was recording becomes the audience)
+>     and then rotate roles again.
+> 4.  After everyone in the group of three has finished teaching,
+>     watch the videos as a group.
+>     Everyone gives feedback on all three videos,
+>     i.e., people give feedback on themselves as well as on others.
+>     Try to organize feedback along two axes:
+>     positive vs. negative
+>     and content (what was said) vs. presentation (how it was said).
+> 5.  After everyone has given feedback on all of the videos,
+>     return to the main group and put everyone's feedback about you into the Etherpad.
 {: .challenge}
 
 ## On Stage
@@ -215,12 +220,12 @@ and to get feedback.
 Everyone has nervous habits.  While these habits are often not as noticeable
 as you would think, it's good to identify ways to keep yourself from pacing,
 or fiddling with your jewellery, or not looking at the audience.
-
-Mickey Mouse version of self.
-(not done writing yet)
+For example, many of us become "Mickey Mouse" versions of ourselves when we're nervous,
+i.e., we talk more rapidly than usual, in a higher-pitched voice,
+and wave our arms around more than we usually would.
 
 But just like everyone has their own nervous habit, each person has their own
-particular strength.  Musicians can be very different (but equally effective!)
+strengths.  Musicians can be very different (but equally effective!)
 in their performance of the same piece; similarly, teachers can present the same material
 in very different ways.  The uniqueness of your teaching style can and should
 be based on your strengths.  This is why it's just as important to identify strengths
