@@ -96,10 +96,15 @@ the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
+These contribution guidelines borrow from [this template][contrib-template]
+created by [Nadia Eghbal][eghbal].
+
 [contact]: admin@software-carpentry.org
+[contrib-template]: https://github.com/nayafia/contributing-template
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: http://datacarpentry.org/lessons/
 [discuss-list]: http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org
+[eghbal]: https://github.com/nayafia
 [github-flow]: https://guides.github.com/introduction/flow/
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://github.com/gvwilson/new-lesson-template/issues/
