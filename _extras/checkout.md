@@ -108,7 +108,7 @@ The lessons you may submit to are:
 >     For example,
 >     [our SQL lesson][swc-sql] capitalizes keywords but uses lower case for table and field names.
 > 2.  Include a solution to your exercise.
-> 3.  Make sure the exercise runs on Windows, Mac OS X, and Linux,
+> 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
 >     since most workshops have users on all three platforms.
 > 4.  Try to give exercises a scientific theme:
 >     reversing a string isn't particularly motivational for our audience.
