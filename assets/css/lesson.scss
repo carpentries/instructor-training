@@ -71,7 +71,7 @@ $codeblock-padding: 5px !default;
 
 .callout{ @include bkSetup(#31708f, "\e146"); }
 .challenge{ @include bkSetup(#3c763d, "\270f"); }
-.getready{ @include bkSetup(#D4C30B, "\e067"); }
+.checklist{ @include bkSetup(#D4C30B, "\e067"); }
 .keypoints{ @include bkSetup(#0B80F0, "\e101"); }
 .objectives{ @include bkSetup(#D4C30B, "\e124"); }
 .prereq{ @include bkSetup(#D4C30B, "\e240"); }
