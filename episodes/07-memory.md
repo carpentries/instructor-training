@@ -216,7 +216,26 @@ Concept maps can be used in many ways:
     as [Glass observed][amazon-glass],
     any new tool or technique initially slows people down.
 
-FIXME: Diagram of "meta" concept map, summarizing these four points.
+Concept maps are also useful for many other kinds of tasks.
+For example,
+the next time you have a team meeting,
+give everyone a sheet of paper
+and have them spend a few minutes drawing a concept map of
+the project you're all working on---separately.
+On the count of three,
+have everyone reveal their concept maps simultaneously.
+The discussion that follows everyone's realization
+of how different their mental models of the project's aims and organization are
+is always interesting...
+
+Concept maps are also a useful way to organize one's thoughts
+before putting together a talk or writing a paper.
+As with lessons,
+they allow us to *externalize cognition*,
+i.e.,
+to get our thoughts out where we can see them
+(and see the contradictions that have happily been swimming around inside our heads
+without bumping into each other).
 
 > ## Concept Mapping
 >
