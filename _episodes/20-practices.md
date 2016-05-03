@@ -108,11 +108,12 @@ and hope that they'll understand.
     *   the instructor can quickly see from the front of the room
         what state the class is in.
 
-*Minutes cards.*
-:   We also use sticky notes as minute cards: before each coffee or meal
-    break, learners take a minute to write one positive thing on the
-    green sticky note (e.g., one thing they've learned that they think
-    will be useful), and one thing they found too fast, too slow,
+*Minute cards.*
+:   As explained [yesterday]({{ site.root }}/05-summarize/), we also
+    use sticky notes as minute cards: before each coffee or meal break,
+    learners take a minute to write one positive thing on the green
+    sticky note (e.g., one thing they've learned that they think will
+    be useful), and one thing they found too fast, too slow,
     confusing, or irrelevant on the red one.  They can use the red
     sticky note for questions that haven't yet been answered.  It only
     takes a few minutes to cluster these, and allows the instructors
