@@ -70,18 +70,15 @@ Please note that:
     Instructor-training assignment
     ~~~
 
-5.  You only have to submit *one* change to move on to the next step, not one per Carpentry.
+5.  You only have to submit *one* change to move on to the next step,
+    not one per Carpentry.
 
 6.  We do *not* want exercises or other material that introduce new concepts:
     our lessons are already full to bursting.
 
 7.  If you are writing an exercise,
-    We strongly prefer contributions to the Data Carpentry lessons right now (since that material is much younger)
+    we strongly prefer contributions to the Data Carpentry lessons right now (since that material is much younger)
     or to our fledgling "Python for complete novices" lesson.
-    Please include a solution to your exercise;
-    please also make sure the exercise runs on all three platforms (Windows, Mac OS X, and Linux),
-    and try to give it a scientific theme
-    (reversing a string isn't particularly motivational for our audience).
 
 8.  If you would rather do a diagram, we are happy to take submissions to any of our lessons.
     Please use SVG, since vector formats are easier to manipulate than raster formats.
@@ -104,6 +101,22 @@ The lessons you may submit to are:
     Please don't worry too much about formatting, and please only submit the Markdown files (not generated HTML) in pull requests.
 3.  [Stable Software Carpentry lessons](https://software-carpentry.org/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives.
+
+> ## What Makes a Good Exercise?
+>
+> 1.  Follow the coding style of the lesson you're submitting to.
+>     For example,
+>     [our SQL lesson][swc-sql] capitalizes keywords but uses lower case for table and field names,
+>     and many of the lessons have a `CONTRIBUTING` file with explicit guidelines.
+> 2.  Include a solution to your exercise.
+> 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
+>     since most workshops have users on all three platforms.
+> 4.  Try to give exercises a scientific theme:
+>     reversing a string isn't particularly motivational for our audience.
+> 5.  Include a comment when you submit the exercise
+>     to explain the purpose of the exercise
+>     (i.e., what it is demonstrating or checking for).
+{: .callout}
 
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
@@ -245,3 +258,4 @@ please contact your trainer
 or mail us at [{{site.email}}](mailto:{{site.email}}).
 
 [blog-collab-lesson]: {{ site.swc_site }}/blog/2014/03/collaborative-lesson-development.html
+[swc-sql]: https://swcarpentry.github.io/sql-novice-survey/
