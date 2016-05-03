@@ -177,11 +177,21 @@ As the abstract of the latter paper says:
 > without input from outside sources,
 > or involved only personal interaction with other educators.
 
-FIXME: lateral knowledge transfer
-
 As stated at the beginning, the main goal of this training is to be this kind of
 lesson study, where instructors can come together to discuss and share practices,
 and to get feedback.
+
+> ## Learning Sideways
+>
+> The phrase *lateral knowledge transfer* is sometimes used to describe what happens
+> when someone intended to teach one thing,
+> but their audience learned another along the way.
+> For example,
+> an instructor might set out to show people how to do a particular statistical analysis in R,
+> but what her learners might take away is some new keyboard shortcuts in R Studio.
+> Live coding makes this much more likely
+> because it allows learners to see the "how" as well as the "what".
+{: .callout}
 
 > ## Feedback on Yourself
 >
@@ -245,8 +255,7 @@ Sometimes it can be hard to receive negative feedback.
 
 > ## Discussion:
 >
-> What are some
-> strategies you use to receive and handle feedback?
+> What are some strategies you use to receive and handle feedback?
 {: .challenge}
 
 Here is a list of some strategies to make sure that you can receive feedback
@@ -260,27 +269,27 @@ in a way that helps you improve:
 * Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
 * Choose your own questions.  I'm a big fan of feedback questions like "what is
-	one thing I could have done as a teacher to make this lesson more
-	effective?"  Or "If you could pick one thing from the lesson to go over
-	again, what would it be?"  These questions (hopefully)
-	reveal what didn't work in your teaching, but read as professional suggestions
-	rather than personal judgments.
+  one thing I could have done as a teacher to make this lesson more
+  effective?"  Or "If you could pick one thing from the lesson to go over
+  again, what would it be?"  These questions (hopefully)
+  reveal what didn't work in your teaching, but read as professional suggestions
+  rather than personal judgments.
 
 * Balance positive and negative feedback:
     * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * ask for both types of feedback
 
 * Communicate expectations. If your teaching feedback is taking the form of an
-	observation (and you're comfortable enough with the observer), tell
-	that person how they can best communicate their feedback to you.
+  observation (and you're comfortable enough with the observer), tell
+  that person how they can best communicate their feedback to you.
 
 * Use a feedback translator.  This is one of my favorite ways to get feedback when
-I have to read it right away (mid-lesson feedback during Software
-Carpentry workshops, for example).  I have my fellow
-instructor (or other trusted person in the room) read over all the feedback and give me
-an executive summary.  It's much easier for me to hear "It sounds like most people
-are following, so you could speed up" than to read several notes all saying, "this is
-too slow" or "this is boring".
+  I have to read it right away (mid-lesson feedback during Software
+  Carpentry workshops, for example).  I have my fellow
+  instructor (or other trusted person in the room) read over all the feedback and give me
+  an executive summary.  It's much easier for me to hear "It sounds like most people
+  are following, so you could speed up" than to read several notes all saying, "this is
+  too slow" or "this is boring".
 
 This is part of the reason for Data Carpentry and Software Carpentry's rule,
 "Never teach alone."
