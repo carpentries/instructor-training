@@ -5,4 +5,6 @@ teaching: 0
 exercises: 0
 break: 15
 ---
-FIXME: describe what to reflect on.
+
+Introduce yourself to a couple of people you haven't met before,
+or don't yet know well.

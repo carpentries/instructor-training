@@ -5,4 +5,6 @@ teaching: 0
 exercises: 0
 break: 15
 ---
-FIXME: describe what to reflect on.
+
+How does live coding compare to other kinds of demonstration-based teaching
+like lab lessons?
