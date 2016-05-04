@@ -3,7 +3,9 @@ title: "Cognitive Load"
 teaching: 20
 exercises: 30
 questions:
-- FIXME
+- "How does inquiry-based learning perform compared to guided learning?"
+- "What is cognitive load theory, and what predictions does it make about the effectiveness of different teaching practices?"
+- "What is the split-attention effect, and how should it affect the design of teaching materials?"
 objectives:
 - "Explain the basis and implications of cognitive load theory and critique it."
 - "Construct faded examples for use as classroom exercises and explain the problem-solving strategies those examples illustrate."
@@ -48,8 +50,6 @@ It posits that people have to deal with three things when they're learning:
 *   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
     (which is one of the things that distinguishes learning from memorization).
 *   *Extraneous* load is everything else that distracts or gets in the way.
-
-FIXME: Diagram somehow portraying these three terms with an example.
 
 Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
 Unsurprisingly,
