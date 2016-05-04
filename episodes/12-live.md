@@ -6,10 +6,17 @@ exercises: 45
 questions:
 - "How do we teach programming using live coding?"
 objectives:
-- FIXME
+- "Explain the advantages and disadvantages of live coding."
+- "Summarize the key aspects of live coding performance."
+- "Give a short demonstration of live coding."
 keypoints:
-- FIXME
+- "Watching instructors write software is more informative and more compelling than being presented with the finished product."
+- "Live coding allows instructors to follow learners."
+- "The mistakes are the pedagogy."
 ---
+> Teaching is theater not cinema.  
+> - Neal Davis
+
 We do not use slides in our lessons.
 Instead, instructors plug their laptop into the projector
 and work through the lesson,
@@ -56,15 +63,6 @@ another.
 > What are some of the advantages of live coding?  What are 
 > some of the challenges?  
 {: .challenge}
-
-> ## Live Coding
-> 
-> After the instructor gives a live coding demo, practice live coding for 5-10 minutes 
-> with a partner.  
-{: .challenge}
-
-> Teaching is theater not cinema.  
-> - Neal Davis
 
 One of the key teaching practices used at Software and Data Carpentry workshops is *live coding*:
 instructors don't use slides,
