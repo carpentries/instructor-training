@@ -322,28 +322,9 @@ but which they don't yet have.
 The real problem is that every such failure reinforces the belief that computing is hard,
 and that they'd have a better chance of making next Thursday's conference submission deadline
 if they kept doing things the way they always have.
-
 For these reasons,
-we have adopted a "teach most immediately useful first" approach.
-Imagine a 3&times;3 grid who axes are labeled
-"mean time to master" and "usefulness once mastered".
-Everything in the upper left square---i.e.,
-everything that's quick to master, and immediately useful---should be taught first.
-Things in the opposite corner,
-which are hard to learn and have little near-term application,
-don't belong in this course.
-
-FIXME: add diagram.
-
-And note:
-any useful estimate of how long something takes to master
-must take into account how frequent failures are
-and how much time is lost to them.
-For example,
-"edit a text file" might seem like a simple request,
-but most GUI editors save things to the user's desktop or home directory.
-If people need to run shell commands on the files they've edited,
-a substantial fraction won't be able to navigate to the right directory without help.
+we have adopted a "teach most immediately useful first" approach
+described in [this episode]({{ site.root }}/17-motivation/).
 
 > ## Software Carpentry Is Not Computer Science
 >
