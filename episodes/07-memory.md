@@ -356,11 +356,6 @@ This is why it's very important to use a technique like concept mapping a lesson
 before teaching it - an instructor needs to identify just how many pieces of
 separate information will need to be "stored" in memory as part of the lesson.  
 
-> ## FIXME
->
-> FIXME: need a challenge
-{: .challenge}
-
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
 [memory-test]: http://cat.xula.edu/thinker/memory/working/serial
