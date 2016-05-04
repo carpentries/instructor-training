@@ -85,7 +85,7 @@ and hope that they'll understand.
 
 ## Other Practices
 
-*Open with the [code of conduct]({{ site.swc_site }}/conduct/).*
+Open with the [code of conduct]({{ site.swc_site }}/conduct/).
 :   Software Carpentry and Data Carpentry share a code of conduct,
     and participants in our workshops are required to abide by it.
     Pointing people at it during registration,
@@ -94,7 +94,7 @@ and hope that they'll understand.
     it tells them that there *are* rules,
     and that they can therefore expect a comfortable learning experience.
 
-*Sticky notes.*
+Sticky notes.
 :   We give each learner two sticky notes of different colors,
     e.g., red and green.
     These can be held up for voting,
@@ -109,7 +109,7 @@ and hope that they'll understand.
     *   the instructor can quickly see from the front of the room
         what state the class is in.
 
-*Minute cards.*
+Minute cards.
 :   As explained [yesterday]({{ site.root }}/05-summarize/), we also
     use sticky notes as minute cards: before each coffee or meal break,
     learners take a minute to write one positive thing on the green
@@ -120,7 +120,7 @@ and hope that they'll understand.
     takes a few minutes to cluster these, and allows the instructors
     to adjust to learners' interests and speed.
 
-*One up, one down.*
+One up, one down.
 :   We frequently also ask for summary feedback at the end of each day.
     The instructors ask the learners to alternately give one positive and
     one negative point about the day, without repeating anything that has
@@ -132,7 +132,7 @@ and hope that they'll understand.
     not.  Each mode has its strengths and weaknesses, and by providing
     both, we hope to get the best of both worlds.
 
-*Learners use their own machines.*
+Learners use their own machines.
 :   Learners tell us that it is important to them to leave the workshop
     with their own machine set up to do real work.  We therefore continue
     to teach on all three major platforms (Linux, Mac OS X, and Windows),
@@ -150,7 +150,7 @@ and hope that they'll understand.
     institutions' WiFi (which can be of highly variable quality), and
     has the issues mentioned above with things like keyboard shortcuts.
 
-*Collaborative note-taking.*
+Collaborative note-taking.
 :   We often use [Etherpad][etherpad] for collaborative
     note-taking and to share snippets of code and small data files with
     learners. (If nothing else, it saves us from having to ask students to
@@ -170,7 +170,7 @@ and hope that they'll understand.
     the class didn't hear something important,
     or misunderstood it.
 
-*Pair programming.*
+Pair programming.
 :   Pairing is a good practice in real life, and also
     [a good way to teach]({{ site.root }}/files/porter-what-works-2013.pdf).
     Partners can not only help each other out during the practical,
@@ -186,6 +186,14 @@ and hope that they'll understand.
     It's also useful to have people sit in new places (and hence pair with different partners)
     after each coffee or meal break.
 
+Peak rule.
+:   The [peak rule][wikipedia-peak-rule] states that
+    people judge an experience primarily based on how they felt at its most intense point
+    and how they felt at its end.
+    While it has been criticized for not strongly predicting what's remembered,
+    it's always worth trying to end a lesson on a high note.
+
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+[wikipedia-peak-rule]: https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule
