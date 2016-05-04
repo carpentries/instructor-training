@@ -19,7 +19,7 @@ permalink: /guide/
 >     *   If it is in person, book travel.
 > 1.  Get names and email addresses of attendees from host(s).
 >     *   Register those people in AMY.
-{: .getready}
+{: .checklist}
 
 > ## Setting Up
 > 1.  Set up a one-page website for the workshop.
@@ -33,7 +33,7 @@ permalink: /guide/
 >     *   a link to the workshop home page
 >     *   background readings
 >     *   a description of any pre-requisite tasks
-{: .getready}
+{: .checklist}
 
 > ## During the Event
 > 1.  Remind everyone of the code of conduct.
@@ -42,7 +42,7 @@ permalink: /guide/
 > 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
 > 1.  Go through [the checkout procedure][checkout] point by point.
 > 1.  Explain how we [format lesson submissions][format].
-{: .getready}
+{: .checklist}
 
 > ## After the Event
 > 1.  Email attendees about [the checkout process][checkout].
@@ -50,13 +50,13 @@ permalink: /guide/
 > 1.  Schedule group lesson discussions.
 > 1.  Oversee final demonstration lessons.
 > 1.  Debrief with the head of instructor training.
-{: .getready}
+{: .checklist}
 
 > ## After Trainees Complete
 > 1.  Send new instructors [the completion message][completion].
 > 1.  Badge instructors in [AMY][amy].
 > 1.  Create and send [PDF certificates][certificates].
-{: .getready}
+{: .checklist}
 
 Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
