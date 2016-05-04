@@ -223,9 +223,9 @@ will ask you to teach a short segment from your chosen lesson.
 If you want to do your final demonstration(s) in a language other than English,
 please let us know in advance so that we can find someone to moderate.
 
-> Note that we will pick the segment of the lesson you are to teach
-> on the day of the demonstration,
-> so you must be prepared to teach any part of your chosen lesson.
+**Note:** we will pick the segment of the lesson you are to teach
+on the day of the demonstration,
+so you must be prepared to teach any part of your chosen lesson.
 
 For your demonstration,
 you will screen-share through Google Hangouts

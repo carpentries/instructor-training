@@ -19,5 +19,5 @@ detail; please review it with your instructor before you leave.
 > ## One Up, One Down
 >
 > Provide [one up, one down]({{ site.root }}/20-practices/) feedback
-  on the entire two-day course.
+> on the entire two-day course.
 {: .challenge}

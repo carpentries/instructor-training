@@ -278,7 +278,6 @@ without bumping into each other).
 >
 > [This website][memory-test] implements
 > an interactive version of this exercise.
->
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
