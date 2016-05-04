@@ -73,3 +73,6 @@ Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/guzdial-why-
 and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/guzdial-10-myths-2015.pdf)",
 and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/porter-what-works-2013.pdf)",
 all of which you should read before starting this class.
+
+[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
+[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/

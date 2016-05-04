@@ -52,7 +52,14 @@ Our other guiding perspective is
 which focuses on the way that
 *[legitimate peripheral practice][wikipedia-peripheral]*
 leads to people becoming members of
-a *[community of practice]*.
+a *[community of practice][wikipedia-cop]*.
+This view is directly relevant to our learners,
+many of whom ease into scientific computing by doing small tasks
+that experienced practitioners would regard as straightforward,
+but who learn how to take on bigger and more novel challenges
+both from what they do and from the feedback (and welcome) it elicits.
+It is equally relevant to our instructors (i.e., you),
+who are approaching evidence-based teaching in the same way.
 
 Software and Data Carpentry aim to serve researchers
 who are exploring data management and programming on their own (legitimate peripheral practice)
