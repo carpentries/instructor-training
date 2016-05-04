@@ -14,7 +14,7 @@ HTML_FILES = \
   ${DST}/license/index.html
 
 # Controls
-.PHONY : commands clean files
+.PHONY : commands clean files singlepage
 all : commands
 
 ## commands   : show all commands.
@@ -40,6 +40,10 @@ clean :
 ## files      : show expected names of generated files for debugging.
 files :
 	@echo ${HTML_FILES}
+
+## singlepage : build hacky single-page version of material (after 'make site').
+singlepage :
+	bin/jekyllcat -o '</nav>' -c '<footer' ${HTML_FILES} > _site/singlepage.html
 
 # Include extra commands if available.
 -include commands.mk
