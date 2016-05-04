@@ -173,7 +173,7 @@ The things teachers know can be divided into:
     which is things like when to teach the notion of a call stack
     and what examples to use when doing so.
 
-FIXME: Venn diagram of terms with one example.
+![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories
@@ -181,9 +181,9 @@ through the two major categories
 It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
-When it comes to PCK, in [link to practices]({{ site.root }}/08-practices/)
-you'll see some of the
-PCK of the Software and Data Carpentry communities at work.  Within
+When it comes to PCK,
+we will [see later]({{ site.root }}/08-practices/)
+some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
 techniques for that lesson's content.  
