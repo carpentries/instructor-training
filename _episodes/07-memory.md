@@ -47,8 +47,6 @@ is that experts have many more connections,
 i.e.,
 their mental models are much more densely connected.
 
-FIXME: diagram here - can probably just adapt the one from "How Learning Works".
-
 To understand expert behavior, think about driving around a city, comparing what it's 
 like for the local and for the out-of-town driver.  
 
