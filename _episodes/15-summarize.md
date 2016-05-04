@@ -6,4 +6,9 @@ exercises: 10
 questions:
 - "What have we learned?"
 ---
-FIXME: describe how to summarize with minute cards (discussed in 08-practices, but the name may change).
+
+> ## Minute Cards Revisited
+>
+> Use your sticky notes to write minute cards
+> as discussed [yesterday]({{ site.root }}/05-summarize/).
+{: .challenge}
