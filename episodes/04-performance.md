@@ -193,6 +193,15 @@ and to get feedback.
 > because it allows learners to see the "how" as well as the "what".
 {: .callout}
 
+> ## Giving Feedback
+>
+> Watch [this video][bad-teaching-video] as a group
+> and then give feedback on it.
+> Try to organize feedback along two axes:
+> positive vs. negative
+> and content (what was said) vs. presentation (how it was said).
+{: .challenge}
+
 > ## Feedback on Yourself
 >
 > 1.  Split into groups of three
@@ -212,9 +221,6 @@ and to get feedback.
 >     watch the videos as a group.
 >     Everyone gives feedback on all three videos,
 >     i.e., people give feedback on themselves as well as on others.
->     Try to organize feedback along two axes:
->     positive vs. negative
->     and content (what was said) vs. presentation (how it was said).
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
 {: .challenge}
@@ -319,6 +325,7 @@ in the room.
 {: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
+[bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
 [scipy-video-2]: https://vimeo.com/139181120
 [wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming
