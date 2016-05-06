@@ -159,6 +159,20 @@ under a permissive [open license][license].
 You may use them whenever and however you want,
 provided you cite the original source.
 
+> ## What's Core?
+>
+> Our learners have such a wide spread of prior knowledge
+> that no one fixed lesson could possibly fit everyone's needs.
+> We have therefore provided more material than most people will get through most of the time
+> in order to be (reasonably) sure that we have enough for more advanced classes.
+> In particular:
+>
+> 1. Callouts (like this one) contain material that isn't essential to the lesson,
+>    and which most instructors will skip.
+> 2. Most instructors only give learners one or two exercises per episode;
+>    the other exercises are there for self-study.
+{: .callout}
+
 ### Using the Names
 
 However, the names "Software Carpentry" and "Data Carpentry"
