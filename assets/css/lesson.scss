@@ -73,9 +73,9 @@ $codeblock-padding: 5px !default;
 .challenge{ @include bkSetup(#3c763d, "\270f"); }
 .checklist{ @include bkSetup(#D4C30B, "\e067"); }
 .keypoints{ @include bkSetup(#0B80F0, "\e101"); }
-.objectives{ @include bkSetup(#D4C30B, "\e124"); }
-.prereq{ @include bkSetup(#D4C30B, "\e240"); }
-.testimonial{ @include bkSetup(#D4C30B, "\e067"); }
+.objectives{ @include bkSetup(#9A2EFE, "\e085"); }
+.prereq{ @include bkSetup(#FF4000, "\e124"); }
+.testimonial{ @include bkSetup(#BFFF00, "\e143"); }
 
 //----------------------------------------
 // Override Bootstrap settings.
