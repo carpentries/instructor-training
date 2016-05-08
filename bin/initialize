@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+
+'''Initialize a newly-created repository.'''
+
+
+import sys
+import os
+
+
+ROOT_CONTRIBUTING_MD = '''\
 # Contributing
 
 Thank you for thinking about contributing to [Software Carpentry][swc-site].
@@ -107,8 +117,160 @@ created by [Nadia Eghbal][eghbal].
 [eghbal]: https://github.com/nayafia
 [github-flow]: https://guides.github.com/introduction/flow/
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/gvwilson/new-lesson-template/issues/
-[repo]: https://github.com/gvwilson/new-lesson-template/
+[issues]: https://github.com/gvwilson/{LESSON-NAME}/issues/
+[repo]: https://github.com/gvwilson/{LESSON-NAME}/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
+'''
+
+
+ROOT_CONFIG_YML = '''\
+#------------------------------------------------------------
+# Values for this site.
+#------------------------------------------------------------
+
+# Domain for searches.
+domain: "https://{USERNAME}.github.io/{LESSON-NAME}"
+
+# URL for repository.
+repo: "https://github.com/{USERNAME}/{LESSON-NAME}"
+
+# Root URL for lesson below domain.
+root: "/{LESSON-NAME}"
+
+# Overall lesson title.
+title: "{LESSON-TITLE}"
+
+# Contact email address.
+email: {USERNAME}@{SITE-NAME}
+
+# Is this a workshop site (if not, interpreted as a lesson site)?
+is_workshop: true
+
+#------------------------------------------------------------
+# Generic settings (should not need to change).
+#------------------------------------------------------------
+
+# Sites.
+amy_site: "https://amy.software-carpentry.org/workshops"
+dc_site: "https://datacarpentry.org"
+swc_github: "https://github.com/swcarpentry"
+swc_site: "https://software-carpentry.org"
+template_repo: "https://github.com/gvwilson/new-lesson-template"
+example_repo: "https://github.com/gvwilson/new-lesson-example"
+example_site: "https://gvwilson.github.com/new-lesson-example"
+workshop_repo: "https://github.com/gvwilson/new-workshop-template"
+workshop_site: "https://gvwilson.github.io/new-workshop-template"
+
+# Start time in minutes (540 is 09:00 am)
+start_time: 540
+
+# Specify that things in the episodes collection should be output.
+collections:
+  episodes:
+    output: true
+    permalink: /:path/
+  extras:
+    output: true
+
+# Set the default layout for things in the episodes collection.
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+# Files and directories that are not to be copied.
+exclude:
+  - Makefile
+  - bin
+
+# Turn off built-in syntax highlighting.
+highlighter: false
+'''
+
+ROOT_INDEX_MD = '''\
+---
+layout: lesson_homepage
+---
+FIXME: home page introduction
+
+> ## Prerequisites
+>
+> FIXME
+{: .prereq}
+'''
+
+ROOT_REFERENCE_MD = '''\
+---
+layout: reference
+title: Reference
+permalink: /reference/
+---
+
+## Glossary
+
+FIXME
+'''
+
+ROOT_SETUP_MD = '''\
+---
+layout: page
+title: Setup
+permalink: /setup/
+---
+FIXME
+'''
+
+EXTRAS_DISCUSS_MD = '''\
+---
+layout: page
+title: Discussion
+permalink: /discuss/
+---
+FIXME
+'''
+
+EXTRAS_GUIDE_MD = '''\
+---
+layout: page
+title: "Instructors' Guide"
+permalink: /guide/
+---
+FIXME
+'''
+
+BOILERPLATE = (
+    ('CONTRIBUTING.md', ROOT_CONTRIBUTING_MD),
+    ('_config.yml', ROOT_CONFIG_YML),
+    ('index.md', ROOT_INDEX_MD),
+    ('reference.md', ROOT_REFERENCE_MD),
+    ('setup.md', ROOT_SETUP_MD),
+    ('_extras/discuss.md', EXTRAS_DISCUSS_MD),
+    ('_extras/guide.md', EXTRAS_GUIDE_MD)
+)
+
+
+def main():
+    '''Check for collisions, then create.'''
+
+    # Check.
+    errors = False
+    for (path, _) in BOILERPLATE:
+        if os.path.exists(path):
+            print('Warning: {0} already exists.'.format(path), file=sys.stderr)
+            errors = True
+    if errors:
+        print('**Exiting without creating files.**', file=sys.stderr)
+        sys.exit(1)
+
+    # Create.
+    for (path, content) in BOILERPLATE:
+        with open(path, 'w') as writer:
+            writer.write(content)
+
+
+if __name__ == '__main__':
+    main()
