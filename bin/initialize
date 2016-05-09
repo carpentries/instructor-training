@@ -7,6 +7,14 @@ import sys
 import os
 
 
+ROOT_AUTHORS = '''\
+FIXME: list authors' names and email addresses.
+'''
+
+ROOT_CITATION = '''\
+FIXME: describe how to cite this lesson.
+'''
+
 ROOT_CONTRIBUTING_MD = '''\
 # Contributing
 
@@ -243,6 +251,8 @@ FIXME
 '''
 
 BOILERPLATE = (
+    ('AUTHORS', ROOT_AUTHORS),
+    ('CITATION', ROOT_CITATION),
     ('CONTRIBUTING.md', ROOT_CONTRIBUTING_MD),
     ('_config.yml', ROOT_CONFIG_YML),
     ('index.md', ROOT_INDEX_MD),
