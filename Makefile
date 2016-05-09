@@ -3,7 +3,18 @@ MAKEFILES=Makefile $(wildcard *.mk)
 JEKYLL=jekyll
 DST=_site
 
-# Generated files in the order they appear in the navigation menu
+# Source files in the order they appear in the navigation menu.
+# This does _not_ include files which are typically unmodified.
+SRC_FILES = \
+  index.md \
+  CONDUCT.md \
+  setup.md \
+  $(wildcard _episodes/*.md) \
+  reference.md \
+  $(wildcard _extras/*.md) \
+  LICENSE.md
+
+# Generated files in the order they appear in the navigation menu.
 HTML_FILES = \
   ${DST}/index.html \
   ${DST}/conduct/index.html \
@@ -39,7 +50,12 @@ clean :
 
 ## files      : show expected names of generated files for debugging.
 files :
-	@echo ${HTML_FILES}
+	@echo 'source:' ${SRC_FILES}
+	@echo 'generated:' ${HTML_FILES}
+
+## fixme      : show FIXME markers embedded in source files.
+fixme :
+	@fgrep -i -n FIXME ${SRC_FILES} || true
 
 ## singlepage : build hacky single-page version of material (after 'make site').
 singlepage :
