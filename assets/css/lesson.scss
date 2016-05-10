@@ -69,13 +69,13 @@ $codeblock-padding: 5px !default;
 
 }
 
-.callout{ @include bkSetup(#31708f, "\e146"); }
-.challenge{ @include bkSetup(#3c763d, "\270f"); }
-.checklist{ @include bkSetup(#D4C30B, "\e067"); }
-.keypoints{ @include bkSetup(#0B80F0, "\e101"); }
-.objectives{ @include bkSetup(#9A2EFE, "\e085"); }
-.prereq{ @include bkSetup(#FF4000, "\e124"); }
-.testimonial{ @include bkSetup(#BFFF00, "\e143"); }
+.callout{ @include bkSetup(#2B5564, "\e146"); }
+.challenge{ @include bkSetup(#985916, "\270f"); }
+.checklist{ @include bkSetup(#525252, "\e067"); }
+.keypoints{ @include bkSetup(#682047, "\e101"); }
+.objectives{ @include bkSetup(#667932, "\e085"); }
+.prereq{ @include bkSetup(#E5734C, "\e124"); }
+.testimonial{ @include bkSetup(#C0A92A, "\e143"); }
 
 //----------------------------------------
 // Override Bootstrap settings.
