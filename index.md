@@ -35,8 +35,6 @@ and/or [Data Carpentry]({{ site.dc_site }}).
     but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop
     so that they are familiar with our teaching techniques.
 
-{% include syllabus.html %}
-
 {% include carpentries.html %}
 
 [conduct]: {{ site.root }}/conduct/
