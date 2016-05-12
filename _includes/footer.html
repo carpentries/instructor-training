@@ -1,31 +1,25 @@
-<div id="up-to-top" class="row">
-  <div class="small-12 columns" style="text-align: right;">
-    <a class="iconfont" href="#top-of-page">&#xf108;</a>
+{% comment %}
+  Generic footer: prev_episode and next_episode will only be set if this is an episode,
+  so previous/next link arrows will not appear for other kinds of pages.
+{% endcomment %}
+{% include episode_find_prev_next.html %}
+<hr/>
+<footer class="row">
+  <div class="col-md-1">
+    <h4>{% if prev_episode %}<a href="{{ site.root }}{{ prev_episode.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>{% endif %}</h4>
   </div>
-</div>
-<footer class="main-footer shadow-black">
-    <div class="row">
-      <div class="medium-5 columns">
-        <p>
-          {{ site.footer_description }}
-          <a href="{{ site.parent_domain }}/about">More</a>
-        </p>
-      </div>
-      <div class="medium-4 columns">
-          <ul class="inline-list social-icons">
-          {% for social_item in site.socialmedia %}
-            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-          {% endfor %}
-          </ul>
-      </div>
-      <div class="medium-3 columns">
-        <ul class="no-bullet shadow-black">
-          {% for service_item in site.services %}
-              <li>
-                <a href="{{ site.parent_domain }}{{ service_item.url }}"  title="{{ service_item.title }}">{{ service_item.name }}</a>
-              </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
+  <div class="col-md-10 footertext">
+    <h4>
+      Copyright &copy; 2016 Software Carpentry Foundation
+      /
+      <a href="{{ site.repo }}">Source</a>
+      /
+      <a href="{{ site.root }}/license/">License</a>
+      /
+      <a href="mailto:{{site.email}}">Contact</a>
+    </h4>
+  </div>
+  <div class="col-md-1">
+    <h4>{% if next_episode %}<a href="{{ site.root }}{{ next_episode.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>{% endif %}</h4>
+  </div>
 </footer>
