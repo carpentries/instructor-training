@@ -4,22 +4,28 @@
 {% endcomment %}
 {% include episode_find_prev_next.html %}
 <hr/>
-<footer class="row">
-  <div class="col-md-1">
-    <h4>{% if prev_episode %}<a href="{{ site.root }}{{ prev_episode.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>{% endif %}</h4>
+<footer>
+  <div class="row">
+    <div class="col-md-1">
+      <h4>{% if prev_episode %}<a href="{{ site.root }}{{ prev_episode.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>{% endif %}</h4>
+    </div>
+    <div class="col-md-10 footertext">
+      <h4>
+	Copyright &copy; 2016 Software Carpentry Foundation
+      </h4>
+    </div>
+    <div class="col-md-1">
+      <h4>{% if next_episode %}<a href="{{ site.root }}{{ next_episode.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>{% endif %}</h4>
+    </div>
   </div>
-  <div class="col-md-10 footertext">
-    <h4>
-      Copyright &copy; 2016 Software Carpentry Foundation
-      /
-      <a href="{{ site.repo }}">Source</a>
-      /
-      <a href="{{ site.root }}/license/">License</a>
-      /
-      <a href="mailto:{{site.email}}">Contact</a>
-    </h4>
-  </div>
-  <div class="col-md-1">
-    <h4>{% if next_episode %}<a href="{{ site.root }}{{ next_episode.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>{% endif %}</h4>
-  </div>
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10 footertext">
+	<a href="{{ site.repo }}">Source</a>
+	&mdash;
+	<a href="{{ site.repo }}/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
+	&mdash;
+	<a href="mailto:{{site.email}}">Contact</a>
+    </div>
+    <div class="col-md-1"></div>
 </footer>
