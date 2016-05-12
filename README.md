@@ -1,8 +1,9 @@
-instructor-training
-===================
+# new-instructor-training
 
-Software Carpentry instructor training course material.
+The [Software Carpentry](http://software-carpentry.org)
+and [Data Carpentry](http://datacarpentry.org) instructor training course..
 
-> Please see [https://github.com/swcarpentry/lesson-example](https://github.com/swcarpentry/lesson-example)
-> for instructions on formatting, building, and submitting lessons,
-> or run `make` in this directory for a list of helpful commands.
+Maintainers:
+
+* [Christina Koch](http://software-carpentry.org/team/#koch_christina)
+* [Greg Wilson](http://software-carpentry.org/team/#wilson_g)
