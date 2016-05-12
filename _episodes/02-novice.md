@@ -178,7 +178,7 @@ The things teachers know can be divided into:
 
 *   the *pedagogical content knowledge* (PCK) that connects the two,
     which is things like when to teach the notion of a call stack
-    and what examples to use when doing so.
+    and what examples to use when doing so, or knowing what misconceptions about recursion are most common.
 
 ![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
 
