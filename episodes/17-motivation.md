@@ -202,7 +202,7 @@ Depending on whose numbers you trust,
 only 12-18% of programmers are women,
 and those figures have actually been getting worse over the last 20 years.
 There are many reasons for this
-(see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*,
+(see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*),
 and for the under-representation of some racial groups:
 in the United States,
 for example,
