@@ -156,7 +156,7 @@ in learning objectives written for each level.
 </table>
 
 Baume's guide to
-[writing and using good learning outcomes]({{ site.root }}/files/baume-learning-outcomes-2009.pdf)
+[writing and using good learning outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
 > ## Improving Objectives
@@ -384,7 +384,7 @@ Wiggins and McTighe use the acronym WHERETO:
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
 When using RID, teachers set goals to aid in lesson design,
-and may not never actually give the final exam that they wrote as a goal.
+and may not ever actually give the final exam that they wrote as a goal.
 In many school systems,
 on the other hand,
 an external authority defines assessment criteria for all learners,

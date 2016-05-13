@@ -160,7 +160,7 @@ mean, or even beyond.
 > Quantitative studies are also not able to answer many "why" questions.
 > For those,
 > researchers need to use qualitative methods,
-> such as [grounded theory][wikipedia-gounded-theory].
+> such as [grounded theory][wikipedia-grounded-theory].
 > Physical scientists are sometimes skeptical of such studies and their findings,
 > but done rigorously,
 > they can provide actionable insights that quantitative methods cannot.
@@ -414,7 +414,7 @@ This is usually done through two kinds of assessment:
     One example is a driving exam,
     which tells the rest of society whether someone can safely be allowed on the road.
 *   *Formative assessment* takes place during teaching and learning.
-    Its main purpose is to guide both by telling both the instructor and the learner what to focus on.
+    Its main purpose is to guide by telling both the instructor and the learner what to focus on.
     For example,
     a music teacher might ask a student to play a scale very slowly
     in order to see whether she is breathing correctly,

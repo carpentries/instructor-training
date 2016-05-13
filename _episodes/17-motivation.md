@@ -70,7 +70,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-studied use of this idea is
-the *[media computation]({{ site.root }}/files/guzdial-mediacomp-retrospective-2013.pdf)* approach
+the *[media computation]({{ site.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
@@ -157,7 +157,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier]({{ site.root }}/05-expertise/),
+>     As [discussed earlier]({{ site.root }}/07-memory/),
 >     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
@@ -460,11 +460,11 @@ are always welcome.
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
-[conference-accessiblity]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
+[conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[reduce-stereotype-thread]: http://www.reducingstereotypethreat.org/reduce.html
+[reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
 [tpi]: http://www.teachingperspectives.com/tpi/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
