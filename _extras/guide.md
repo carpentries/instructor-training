@@ -62,6 +62,30 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
+## Live Coding Demo Videos
+
+**[Part 1][live-coding-bad]: how not to do it**
+
+*   Instructor ignores a red sticky clearly visible on a learner's laptop.
+*   Instructor is sitting, mostly looking at the laptop screen.
+*   Instructor is typing commands without saying them out loud.
+*   Instructor uses fancy bash prompt.
+*   Instructor uses small font in not full-screen terminal window with black background.
+*   The terminal window bottom is partially blocked by the learner's heads for those sitting in the back.
+*   Instructor receives a a pop-up notification in the middle of the session.
+*   Instructor makes a mistake (a typo) but simply fixes it without pointing it out, and redoes the command.
+
+**[Part 2][live-coding-good]: how to do it right**
+
+*   Instructor checks if the learner with the red sticky on her laptop still needs attention.
+*   Instructor is standing while instructing, making eye-contact with participants.
+*   Instructor is saying the commands out loud while typing them.
+*   Instructor moves to the screen to point out details of commands or results.
+*   Instructor simply uses ‘$ ‘ as bash prompt.
+*   Instructor uses big font in wide-screen terminal window with white background.
+*   The terminal window bottom is above the learner's heads for those sitting in the back.
+*   Instructor makes mistake (a typo) and uses the occasion to illustrate how to interpret error-messages.
+
 ## The Big Picture
 
 In 2014,
@@ -731,6 +755,8 @@ scheduled.
 [checkout]: {{ site.root }}/files/checkout.txt
 [completion]: {{ site.root }}/files/completion.txt
 [format]: {{ site.root }}/files/format.txt
+[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
+[live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
