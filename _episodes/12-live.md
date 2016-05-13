@@ -75,7 +75,7 @@ with the workshop participants following along.
 If you are physically able to stand up for a couple of hours, do it
 while you are teaching.  When you sit down, you are hiding yourself
 behind others for those sitting in the back rows.  Make sure to notify
-the workshop organisers of your wish to stand up and, ask them to
+the workshop organisers of your wish to stand up and ask them to
 arrange a high table/standing desk or
 [lectern](https://en.wikipedia.org/wiki/Lectern#Academic_context).
 
@@ -84,10 +84,10 @@ around as much as reasonable.  You can for example go to the screen to
 point something out, or draw something on the white/blackboard (see
 below).  Moving around makes the teaching more lively, less
 monotonous.  It draws the learners' attention away from their screens,
-to you, which helps getting the point you are making across.
+to you, which helps get the point you are making across.
 
 Even though you may have a good voice and know how to use it well, it
-may be an idea to use a microphone, especially if the workshop room is
+may be a good idea to use a microphone, especially if the workshop room is
 equipped with one.  Your voice will be less tired, and you increase
 the chance of people with hearing difficulties being able to follow
 the workshop.
@@ -221,7 +221,7 @@ and taste - as well as experience.  It becomes easier when you are
 more familiar with the material, allowing you to relax more.  Choose
 your words and actions wisely, though.  Remember that we want the
 learners to have a welcoming experience and a positive learning
-environment - a misplaced joke can ruin this in an instance.  Start
+environment - a misplaced joke can ruin this in an instant.  Start
 small, even just saying 'that was fun' after something worked well is
 a good start.  Ask your co-instructors and helpers for feedback when
 you are unsure of the effect you behaviour has on the workshop.
