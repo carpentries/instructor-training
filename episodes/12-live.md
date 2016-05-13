@@ -226,6 +226,13 @@ small, even just saying 'that was fun' after something worked well is
 a good start.  Ask your co-instructors and helpers for feedback when
 you are unsure of the effect you behaviour has on the workshop.
 
+> ## The Bad and the Good
+>
+> Watch this video of [live coding done poorly][live-coding-bad]
+> and this video of [live coding done right][live-coding-good]
+> as a group and then summarize your feedback on both.
+{: .challenge}
+
 > ## See Then Do
 >
 > Teach 3-4 minutes of the lesson you just saw demonstrated to a
@@ -237,3 +244,5 @@ you are unsure of the effect you behaviour has on the workshop.
 {: .challenge}
 
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
+[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
+[live-coding-good]: https://youtu.be/SkPmwe_WjeY
