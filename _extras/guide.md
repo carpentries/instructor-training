@@ -62,30 +62,6 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
-## Live Coding Demo Videos
-
-**[Part 1][live-coding-bad]: how not to do it**
-
-*   Instructor ignores a red sticky clearly visible on a learner's laptop.
-*   Instructor is sitting, mostly looking at the laptop screen.
-*   Instructor is typing commands without saying them out loud.
-*   Instructor uses fancy bash prompt.
-*   Instructor uses small font in not full-screen terminal window with black background.
-*   The terminal window bottom is partially blocked by the learner's heads for those sitting in the back.
-*   Instructor receives a a pop-up notification in the middle of the session.
-*   Instructor makes a mistake (a typo) but simply fixes it without pointing it out, and redoes the command.
-
-**[Part 2][live-coding-good]: how to do it right**
-
-*   Instructor checks if the learner with the red sticky on her laptop still needs attention.
-*   Instructor is standing while instructing, making eye-contact with participants.
-*   Instructor is saying the commands out loud while typing them.
-*   Instructor moves to the screen to point out details of commands or results.
-*   Instructor simply uses ‘$ ‘ as bash prompt.
-*   Instructor uses big font in wide-screen terminal window with white background.
-*   The terminal window bottom is above the learner's heads for those sitting in the back.
-*   Instructor makes mistake (a typo) and uses the occasion to illustrate how to interpret error-messages.
-
 ## The Big Picture
 
 In 2014,
@@ -208,60 +184,6 @@ The biggest change was the introduction of recorded teaching exercises.
     rather than by using the Etherpad chat.
 
 *   We do the video lecture exercise as in the two-day in-person training.
-
-## Why Do(n't) We Teach X?
-
-Workshop attendees and trainee instructors often ask why we don't teach
-high-performance computing, machine learning, Perl, or a long list of other topics.
-Our answer is that as with every curriculum,
-the question is not, "What would we like to add?"
-but, "What are we willing to take out in order to make room?"
-We believe our core topics are the absolute minimum that researchers need to know
-in order to work efficiently and reproducibly.
-More importantly,
-we don't know what we could take out to make space for something else.
-
-One thing we *do* know is that we do not wish to become embroiled in debates
-over the relative merits of different languages or operating systems.
-No one has ever demonstrated that R programmers are more productive than Python programmers,
-and proficient users of Windows seem just as productive as equally-proficient users of Unix.
-If a learner asserts that their favorite tool is better than alternatives in some way,
-ask them for their data;
-if they don't have any,
-point out as gently as possible that we're supposed to be scientists,
-and that if we want politicians, business leaders, and the general public
-to pay attention to our findings on climate change and drug-resistant diseases,
-it behooves us to try to meet those same standards ourselves.
-
-> ## Evidence and Its Absence
->
-> As far as is practical,
-> our teaching methods are based on the best available evidence.
-> We wish we could say the same about our content,
-> but very little research has been done on what researchers actually use
-> and what impact it has on productivity.
-> An example of what we wish existed
-> is [this summary][stefik-summary] by Stefik et al
-> of empirical research on the usability of programming langauges
-> (while [this full-length paper][stefik-paper] gives an idea of what's possible).
-{: .callout}
-
-## Why We're Not a MOOC
-
-> If you use robots to teach, you teach people to be robots.
-
-This difference between what novices are doing when they learn,
-and what competent practitioners are doing,
-is one of the reasons we have stopped trying to teach via recorded video
-with auto-graded drill exercises.
-Any recorded content is as ineffective for most learners as broadcast television,
-or as a professor standing in front of 400 people in a lecture hall,
-because neither can intervene to clear up specific learners' misconceptions.
-Some people happen to already have the right conceptual categories for a subject,
-or happen to form them correctly early on;
-these are the ones who stick with most massive online courses,
-but many discussions of the effectiveness of such courses
-ignore this survivor bias.
 
 ## Why We Go Slowly
 
@@ -468,12 +390,31 @@ we want pairs of instructors at actual workshops to give one another feedback,
 and that's much easier to do once they've had some practice
 and have a rubric to follow.
 
-## Running Discussion Sessions
+## Live Coding Demo Videos
 
-Discussion sessions are meant to be student-driven, but some groups
-may be quieter than others.  This is by no means an exhaustive list:
-other subjects are bound to come up, and additions from discussion
-leaders are very welcome.
+**[Part 1][live-coding-bad]: how not to do it**
+
+*   Instructor ignores a red sticky clearly visible on a learner's laptop.
+*   Instructor is sitting, mostly looking at the laptop screen.
+*   Instructor is typing commands without saying them out loud.
+*   Instructor uses fancy bash prompt.
+*   Instructor uses small font in not full-screen terminal window with black background.
+*   The terminal window bottom is partially blocked by the learner's heads for those sitting in the back.
+*   Instructor receives a a pop-up notification in the middle of the session.
+*   Instructor makes a mistake (a typo) but simply fixes it without pointing it out, and redoes the command.
+
+**[Part 2][live-coding-good]: how to do it right**
+
+*   Instructor checks if the learner with the red sticky on her laptop still needs attention.
+*   Instructor is standing while instructing, making eye-contact with participants.
+*   Instructor is saying the commands out loud while typing them.
+*   Instructor moves to the screen to point out details of commands or results.
+*   Instructor simply uses ‘$ ‘ as bash prompt.
+*   Instructor uses big font in wide-screen terminal window with white background.
+*   The terminal window bottom is above the learner's heads for those sitting in the back.
+*   Instructor makes mistake (a typo) and uses the occasion to illustrate how to interpret error-messages.
+
+## Running Discussion Sessions
 
 The purpose of the discussion session is for students to ask questions
 about the lesson materials in preparation for their final checkout.
@@ -487,42 +428,10 @@ discussion to the leader's satisfaction, their names should be
 forwarded to their trainer so that the demonstration lesson can be
 scheduled.
 
-### Before:
-
-*   A signup Etherpad will be sent out to trainees, who choose their
-    subject and sign up for a session.
-
-*   All meetings should use the Etherpad that is being used to register
-    for discussion sessions, so that all comments and feedback are
-    collected in one document.
-
-*   The discussion lead is free to use the Software Carpentry persistent
-    BlueJeans connection, or other options such as Google Hangouts or
-    Skype if they prefer.  The lead must post information about the
-    connection to the discussion session's Etherpad so that people
-    will know how to join.
-
-### During:
-
 *   Remind students that the Etherpad is a public, persistent document,
     and that ideas and issues from the Etherpad may be used by the SCF.
 
-*   Explain how the checkout procedure itself goes:
-
-    *   After the trainee has completed the discussion session to the discussion leader's satisfaction,
-        the leader will forward her name to the trainer.
-
-    *   The trainer will then schedule a 5-minute slot for a demonstration lesson
-        and communicate it to the trainee.
-
-    *   In that session,
-        the trainee will be asked to teach 5 minutes from her chosen lesson
-        selected by the trainer.
-        The trainee will *not* know in advance which 5 minutes she will be asked to teach
-        (which encourages her to prepare the entire lesson).
-
-    *   Everyone will be notified afterwards by email whether they
-        passed or not.
+*   Explain how the checkout procedure itself goes.
 
 *   Make sure that all know where the lesson material can be found.
     Ensure that they all know about the instructor guide.
@@ -532,16 +441,9 @@ scheduled.
     lesson material that might improve on it is welcome.  If anybody
     has any comments on the material, they are very welcome.
 
-*   Go through each of the modules in the lesson and ask if anybody has
-    any problems, questions, or comments about the module.  This
-    walkthrough is particularly important if any of the participants
-    are on the quieter side.
-
 *   It is important that we ensure that all of the participants get to
     discuss their issues.  In cases where all participants are vocal,
     a structured walkthrough may not be necessary.
-
-### After:
 
 *   If any of the participants seemed unprepared (e.g., had no
     questions), send them an email after the session asking them to
