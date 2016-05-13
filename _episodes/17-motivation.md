@@ -460,11 +460,11 @@ are always welcome.
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
-[conference-accessiblity]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
+[conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[reduce-stereotype-thread]: http://www.reducingstereotypethreat.org/reduce.html
+[reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
 [tpi]: http://www.teachingperspectives.com/tpi/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
