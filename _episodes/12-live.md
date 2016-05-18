@@ -14,6 +14,13 @@ keypoints:
 - "Live coding allows instructors to follow learners."
 - "The mistakes are the pedagogy."
 ---
+
+One of the cornerstones of Software and Data Carpentry teaching is live coding.  This 
+section explains how it works, why we use it, and gives general tips for an 
+effective live coding presentation.  
+
+## Why Live Coding?  
+
 > Teaching is theater not cinema.  
 > - Neal Davis
 
