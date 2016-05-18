@@ -19,6 +19,9 @@ keypoints:
 - "Pedagogical content knowledge: connects general understanding of teaching to domain-specific content."
 ---
 
+This section outlines the structure of this two-day course and provides some 
+essential terms for discussion.  
+
 ## A Master Class
 
 Many metaphors can be used to describe teaching and learning: filling
