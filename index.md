@@ -9,7 +9,10 @@ Unfortunately,
 much of that knowledge has not yet been translated into common classroom practice,
 while many myths about education have proven remarkably persistent.
 
+<h2>About this course</h2>
+
 This two-day class has two goals: 
+
 * Introduce participants to a handful of key research findings
 and show how they can be used to help people learn better and faster.
 * Introduce participants to the teaching practices that have been adopted by 
@@ -17,18 +20,7 @@ the Software and Data Carpentry communities, and the overall philosophy
 and procedures of both organizations
 in order to prepare them to teach at Software and Data Carpentry workshops.  
 
-To accomplish the first goal, we will look at
-the cognitive differences between novices, competent practitioners, and experts;
-why those differences require different pedagogical approaches;
-how to design formative assessments to provide feedback to both instructors and students while learning is taking place;
-how to mitigate cognitive load during learning;
-how concept maps can be used both to design lessons and to communicate those designs;
-how practices similar to pair programming and test-driven design can be used in education;
-and how teaching is a performance art.
-
-To accomplish the second, we will practice live-coding, discuss the logistics 
-of setting up and running a workshop, and otherwise orient participants to the 
-structure of the Data and Software Carpentry organizations.  
+The content addressing these goals is linked in the schedule below.  
 
 The class will be hands-on throughout: short lessons 
 will alternate with individual and group practical exercises,
@@ -45,8 +37,10 @@ and/or [Data Carpentry]({{ site.dc_site }}).
 
 [Software Carpentry]({{ site.swc_site }}) has run variations on this course 
 since 2012 for over 500 people, and the current material reflects the latest 
-iteration of an ongoing process to refine what new instructors need to know.  
-Note that despite the emphasis on Software and Data Carpentry in the curriculum, 
+iteration of an ongoing process to refine what new instructors need to know.  Feedback 
+is welcome as an [issue][issues] on the Github repository that hosts this site.  
+Note 
+that despite the emphasis on Software and Data Carpentry in the curriculum, 
 the present material is relevant to anyone trying to teach basic 
 programming skills to adults.  
 
@@ -54,3 +48,4 @@ programming skills to adults.
 
 [conduct]: {{ site.root }}/conduct/
 [license]: {{ site.root }}/license/
+[issues]: {{ site.repo }}/issues
