@@ -302,6 +302,13 @@ described in [this episode]({{ site.root }}/17-motivation/).
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
+    Afterwards, have learners put answers to the following questions in the etherpad:
+    * What felt different about live coding (vs. standing up and lecturing)? What was harder/easier?
+    * Did you make any mistakes? If so, how did you handle them?
+    * Did you talk and type at the same time, or alternate?
+    * How often did you point at the screen? How often did you highlight with the mouse?
+    * What will you try to do differently next time?
+
 
 *   When teaching faded examples:
     1.  Divide trainees into groups of 4-5
