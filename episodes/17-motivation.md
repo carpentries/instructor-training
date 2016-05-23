@@ -403,11 +403,13 @@ are always welcome.
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
 
-> ## Authentic Tasks
+> ## Authentic Tasks: Think, pair, share
 >
-> Describe something you do in your daily work that uses one or more of the skills we teach,
+> Think about something you did this week that uses one or more of the skills we teach,
+> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> Where does it fit on the 2x2 plot of "time to master" and "usefulness"?
+> Pair up with your neighbor and decide where this exercise fists on a 2x2 plot of "time to master" and "usefulness"?
+> In the class etherpad, state the task and where its fits on the 2x2 plot.
 {: .challenge}
 
 > ## Motivational Checklist
