@@ -92,6 +92,16 @@ it's hard to imagine someone saying that we *shouldn't* identify and reward what
 but it's useful to check lessons against these points
 to make sure they're doing at least a few of these things.
 
+> ## Provide an example of examplishing value before launching into the list
+> Insert a personal story here about how you establish value in the classroom.
+> Or, use Rayna's personal story, which goes like this:
+> In the Unix lesson, we use a haiku to teach grep. 
+> This is a great didatic tool, but it can be hard for learners to see how they can use it in their research. 
+> After the grep lesson, I show a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. I emphasize that the students just learned each of the pieces. 
+> (See https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
+> This way, I connect my bioinformatic users with domain-specific examples using an authentic task that is relevant to their research. 
+{: .callout}
+
 *   Strategies to establish value:
     1.  Connect the material to students' interests.
     2.  Provide authentic, real-world tasks.
