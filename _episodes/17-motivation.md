@@ -444,9 +444,10 @@ are always welcome.
 {: .challenge}
 
 > ## Why Do You Teach?
->
-> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors,
-> and then write a short explanation of what motivates you to volunteer to teach.
+> We all have a different motivation for teaching, and that is a really good thing! 
+> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
+> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
+> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
 {: .challenge}
 
 > ## What Do You Believe About Teaching?
