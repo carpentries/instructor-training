@@ -20,6 +20,12 @@ keypoints:
 - "Belief that competence comes with practice improves learning outcomes."
 - "Measures taken to improve accessibility aid everyone."
 ---
+
+In order for learners to step out into new and familiar terrain, they will 
+need encouragement.  This section discusses typical ways that 
+learners are motivated (and can be demotivated!) and describes ways that communities 
+of practice can be welcoming (or threatening) to new members.  
+
 ## Motivation
 
 People learn best when they care about the topic and believe they can master it.
