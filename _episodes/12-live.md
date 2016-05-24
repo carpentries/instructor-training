@@ -14,6 +14,15 @@ keypoints:
 - "Live coding allows instructors to follow learners."
 - "The mistakes are the pedagogy."
 ---
+
+One of the cornerstones of Software and Data Carpentry teaching is live 
+coding: instructors don't use slides, but work through the lesson material, 
+typing in the code or instructions, with the workshop participants following 
+along. This section explains how it works, why we use it, and 
+gives general tips for an effective live coding presentation.
+
+## Why Live Coding?  
+
 > Teaching is theater not cinema.  
 > - Neal Davis
 
@@ -64,13 +73,11 @@ another.
 > some of the challenges?  
 {: .challenge}
 
-One of the key teaching practices used at Software and Data Carpentry workshops is *live coding*:
-instructors don't use slides,
-but work through the lesson material,
-typing in the code or instructions,
-with the workshop participants following along.
+## Live Coding Top 10
 
-## Be Seen and Heard
+Below follow ten tips to help you get started with effective live coding: 
+
+### Be Seen and Heard
 
 If you are physically able to stand up for a couple of hours, do it
 while you are teaching.  When you sit down, you are hiding yourself
@@ -92,7 +99,7 @@ equipped with one.  Your voice will be less tired, and you increase
 the chance of people with hearing difficulties being able to follow
 the workshop.
 
-## Take It Slow
+### Take It Slow
 
 For every command you type, every word of code you write, every menu
 item or website button you click, say out loud what you are doing
@@ -107,7 +114,7 @@ this is especially needed for the Unix shell lesson.
 Other possibilities are to execute the same command a second time, or
 copy and paste the last command(s) into the workshop Etherpad.
 
-## Mirror Your Learner's Environment As Much As Possible
+### Mirror Your Learner's Environment As Much As Possible
 
 You may have set up your environment to your liking, with a very
 simple or rather fancy Unix prompt, colour schemes for your
@@ -118,7 +125,7 @@ Some instructors create a separate 'bare-bone' user (login) account on
 their laptop, or a separate 'teaching-only' account on the service
 being taught (e.g. Github).
 
-## Use The Screen Wisely
+### Use The Screen Wisely
 
 Use a big font, and maximise the window.  A black font on a white
 background works better than a light font on a dark background.  When
@@ -136,7 +143,7 @@ on/above the presenter's screen) and if needed, reposition the tables
 so all learners can see the screen, and helpers can easily reach all
 learners.
 
-## Use Illustrations
+### Use Illustrations
 
 Most lesson material comes with illustrations, and these may help
 learners to understand the stages of the lesson and to organise the
@@ -148,7 +155,7 @@ teaching.  It helps learners understand the material, makes for a more
 lively workshop (you'll have to move between your laptop and the
 blackboard) and gathers the learners' attention to you as well.
 
-## Avoid Being Disturbed
+### Avoid Being Disturbed
 
 Turn off any notifications you may use on your laptop, such as those
 from social media, email, etc.  Seeing notifications flash by on the
@@ -156,7 +163,7 @@ screen distracts you as well as the learners - and may even result in
 awkward situations when a message pops up you'd rather not have others
 see.
  
-## Stick to the Lesson Material
+### Stick to the Lesson Material
 
 The core Software and Data Carpentry lessons are developed
 collaboratively by many instructors and tried and tested at many
@@ -176,7 +183,7 @@ they can view their notes and the Etherpad session.  This seems to be
 more reliable than displaying one virtual desktop while flipping back
 and forth to another.
 
-## Leave No Learner Behind
+### Leave No Learner Behind
 
 Give each learner two sticky notes of different colours, e.g., red and
 green.  These can be held up for voting, but their real use is as
@@ -195,7 +202,7 @@ class too much, you could use the occasion to take the small break you
 had planned to take a bit later, giving the helper(s) time to fix the
 problem.
 
-## Embrace Mistakes
+### Embrace Mistakes
 
 No matter how well prepared you are, you will be making mistakes.
 Typo's are hard to avoid, you may overlook something from the lesson
@@ -209,7 +216,7 @@ left out of most textbooks.
 > The typos are the pedagogy  
 > - [Dana Brunson][brunson-twitter]
 
-## Have Fun
+### Have Fun
 
 Teaching is performance art and can be rather serious business.  On
 the one hand, don't let this scare you - it is much easier than

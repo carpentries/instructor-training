@@ -14,6 +14,10 @@ keypoints:
 - "Cognitive load theory predicts that focusing on one aspect at a time improves learning."
 - "Use faded examples to focus attention when learning."
 ---
+
+In our final topic in educational psychology, we'll be learning more about human memory: 
+specifically how to remove unnecessary "load" in order to facilitate learning.  
+
 ## Battling Theories
 
 In 2006,
