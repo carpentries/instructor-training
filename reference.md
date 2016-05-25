@@ -115,7 +115,8 @@ Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM H
     that form a useful framework for thinking about how Software Carpentry and Data Carpentry can change the world.
 
 Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data]({{ site.root }}/files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
-:    Compares teachers' opinions about common programming errors with data from over 100,000 students, and finds only weak consensus amongst teachers and between teachers and data.
+:   Compares teachers' opinions about common programming errors with data from over 100,000 students,
+    and finds only weak consensus amongst teachers and between teachers and data.
 
 Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results]({{ site.root }}/files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
 :   An early report on peer instruction and its effects in the classroom.
@@ -129,6 +130,9 @@ Guzdial: "[Exploring Hypotheses about Media Computation]({{ site.root }}/files/p
 
 De Bruyckere et al: "[Urban Myths About Learning and Education]({{ site.root }}/files/papers/de-bruyckere-urban-myths-2015.pdf)"
 :   A one-page summary drawn from their book of the same name.
+
+Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+:   Summarizes best practices for providing instructional feedback and recommends specific strategies for sharing instructional expertise.
 
 Guzdial: "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
 :   A chapter from
