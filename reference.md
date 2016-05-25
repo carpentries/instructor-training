@@ -62,16 +62,43 @@ permalink: /reference/
 
 ### Why Do Student Development and Course Climate Matter for Student Learning?
 
-1.  Make uncertainty safe - support students who are uncomfortable with ambiguity (i.e. there are various solutions to an answer).
-1.  Resist a single right answer - acknowledge that we are teaching them one way to do things, but there are many many tools that could be used to do the same thing (version control, visualisation, etc).
-1.  Examine your assumptions about students - don't expect people to be able (or unable) to do a specific task based on their race, gender, age, experience). 
-1.  Reduce anonymity - try to remember names (or encourage learners to wear their badges), provide opportunity for learners to interact during breaks, and as instructor, remember to interact as well, rather than reading emails during break and looking aloof)
-1.  Establish and reinforce ground rules for interaction - refer to the code of conduct and have a plan of action for when the code of conduct is breached. 
-1.  Use the syllabus and first day of class to establish the course climate - sticking to the published agenda and course timings is one of the things that we get the most consistent positive comment about. Tell learners what they can expect and keep to what you told them. If things have to change, inform them properly. Once people start to feel like they don't know what is going on in terms of what they can expect, it's very hard for them to focus on learning new skills.
-1.  Set up processes to get feedback on the climate - collect sticky notes before lunch and before the end of day for 2-day workshops and develop another strategy for workshops that run over multiple half days or other formats. Go through the feedback immediately and act upon the suggestions that can be dealt with immediately. A responsive instructor gain the trust of learners and make them feel important and heard.
-1. Model inclusive language, behaviour, and attitudes - as instructor, try to address all learners equally rather than only talking to the ones who follow along nicely or demands more of your attention.
-1. Be mindful of low-ability cues - the HLW example:"I'll be happy to help you with this because I know girls have trouble with math." Think about how you address your students and what stereotypes you are reinforcing unintentionally with jokes for example.
-1. Adress tensions early - sometimes workshops have one or two very experienced computational people in the room filled otherwise with novices. Try to think of ways to keep them engaged by maybe asking them to rather act as helpers than learners - they might not like it if they have paid to attend a course where they hoped to learn something new, so find ways to acknowledge their help as well.
+1.  Make uncertainty safe:
+    support students who are uncomfortable with ambiguity (i.e. there are various solutions to an answer).
+1.  Resist a single right answer:
+    acknowledge that we are teaching them one way to do things,
+    but there are many many tools that could be used to do the same thing (version control, visualisation, etc).
+1.  Examine your assumptions about students:
+    don't expect people to be able (or unable) to do a specific task based on their race, gender, age, experience). 
+1.  Reduce anonymity:
+    try to remember names (or encourage learners to wear their badges),
+    provide opportunity for learners to interact during breaks,
+    and as instructor,
+    remember to interact as well rather than reading emails during break and looking aloof.
+1.  Establish and reinforce ground rules for interaction:
+    refer to the code of conduct and have a plan of action for when the code of conduct is breached. 
+1.  Use the syllabus and first day of class to establish the course climate:
+    sticking to the published agenda and course timings is one of the things that we get the most consistent positive comment about.
+    Tell learners what they can expect and keep to what you told them.
+    If things have to change, inform them promptly.
+    Once people start to feel like they don't know what is going on,
+    it's hard for them to focus on learning new skills.
+1.  Set up processes to get feedback:
+    collect sticky notes before lunch and before the end of day for two-day workshops
+    and develop another strategy for workshops that run over multiple half days or other formats.
+    Go through the feedback immediately and act upon the suggestions that can be dealt with immediately.
+    A responsive instructor gain the trust of learners and make them feel important and heard.
+1.  Model inclusive language, behaviour, and attitudes:
+    as instructor,
+    try to address all learners equally rather than only talking to the ones who follow along nicely or demands more of your attention.
+1.  Be mindful of low-ability cues:
+    (an example from *How Learning Works* is, "I'll be happy to help you with this because I know girls have trouble with math.")
+    Think about how you address your students and what stereotypes you are reinforcing unintentionally
+    (e.g., with jokes).
+1.  Address tensions early:
+    sometimes workshops have one or two very experienced computational people in the room filled otherwise with novices.
+    Try to think of ways to keep them engaged by maybe asking them to rather act as helpers than learners:
+    they might not like it if they have paid to attend a course where they hoped to learn something new,
+    so find ways to acknowledge their help as well.
 
 ## Books
 
