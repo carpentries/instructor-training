@@ -231,6 +231,20 @@ permalink: /setup/
 FIXME
 '''
 
+EPISODES_INTRODUCTION_MD = '''\
+---
+title: "Introduction"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+'''
+
 EXTRAS_DISCUSS_MD = '''\
 ---
 layout: page
@@ -257,6 +271,7 @@ BOILERPLATE = (
     ('index.md', ROOT_INDEX_MD),
     ('reference.md', ROOT_REFERENCE_MD),
     ('setup.md', ROOT_SETUP_MD),
+    ('_episodes/01-introduction.md', EPISODES_INTRODUCTION_MD),
     ('_extras/discuss.md', EXTRAS_DISCUSS_MD),
     ('_extras/guide.md', EXTRAS_GUIDE_MD)
 )
