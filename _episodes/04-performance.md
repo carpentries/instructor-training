@@ -319,9 +319,17 @@ in the room.
 {: .challenge}
 
 > ## Feedback on Yourself, Part II
+>
 > Later in the training,
 > repeat the first challenge exercise; however, when it comes time to give feedback,
 > use the same 2x2 scheme in the previous challenge.
+{: .challenge}
+
+> ## Learn More About Feedback
+>
+> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+> and discuss ways you could make peer-to-peer feedback
+> a routine part of your teaching.
 {: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
