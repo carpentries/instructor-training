@@ -210,6 +210,21 @@ The workshop will show up on our websites shortly thereafter.
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 
+We also have [a small installer for Windows](https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe)
+to help people set up their environment,
+which is maintained in [this GitHub repository](https://github.com/swcarpentry/windows-installer).
+This installer runs *after* the installer that puts Git and Bash on Windows,
+and does the following:
+
+*   Installs GNU Make and makes it accessible from msysGit
+*   Installs nano and makes it accessible from msysGit
+*   Installs SQLite and makes it accessible from msysGit
+*   Creates a ~/nano.rc with links to syntax highlighting configs
+*   Provides standard nosetests behavior for msysGit
+*   Adds R's bin directory to the path (if we can find it)
+
+Please see the setup instructions in the workshop template for more details.
+
 ## The Carpentry Community
 
 There are several hubs of activity for the Software and Data Carpentry communities:
