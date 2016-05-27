@@ -100,12 +100,14 @@ Within the broad scope of educational psychology,
 two specific perspectives have primarily influenced Software and Data Carpentry's lessons and teaching practices
 (and by extension, this instructor training).  
 
-One perspective is *cognitivism*.
-A cognitivist perspective focuses on *cognition*:
-specifically, how the brain and mind works and how that influences how people learn.
-We can afford to focus on this aspect of learning
-because most of our learners are physically safe, well fed, well educated, and highly motivated.
-Much of the research in education has rightly focused on people without these privileges.  
+One perspective is *cognitivism*,
+which treats learning as a problem in neuropsychology.
+Cognitivists focus their attention on things like pattern recognition,
+memory formation,
+and recall.
+It is good at answering low-level questions,
+but generally ignores larger issues like, "What do we mean by 'learning'?"
+and, "Who gets to decide?"
 
 Our other guiding perspective is
 *[situated learning][wikipedia-situated-learning]*,
@@ -113,7 +115,11 @@ which focuses on the way that
 *[legitimate peripheral practice][wikipedia-peripheral]*
 leads to people becoming members of
 a *[community of practice][wikipedia-cop]*.
-This view is directly relevant to our learners,
+Unpacking those terms,
+the situated learning perspective focuses on the transition from
+being a newcomer to being accepted as a peer by those who already do the activity in question,
+whether it is speaking a language or doing heart surgery.
+Situated learning is directly relevant to our learners,
 many of whom ease into scientific computing by doing small tasks
 that experienced practitioners would regard as straightforward,
 but who learn how to take on bigger and more novel challenges
