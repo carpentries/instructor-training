@@ -5,7 +5,11 @@ permalink: /guide/
 ---
 ## Checklists
 
+See Atul Gawande's 2007 article "[The Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist)"
+for a look at how using checklists can save lives (and make many other things better too).
+
 > ## Scheduling the Event
+>
 > 1.  Decide if it will be in person, online for one site, or online for several.
 > 1.  Talk through expectations with the host(s).
 >     *   If it is in person, make sure the host knows they're covering travel costs for trainers.
@@ -22,6 +26,7 @@ permalink: /guide/
 {: .checklist}
 
 > ## Setting Up
+>
 > 1.  Set up a one-page website for the workshop.
 > 1.  Send the URL to the admins.
 > 1.  Check whether any attendees have special needs.
@@ -36,6 +41,7 @@ permalink: /guide/
 {: .checklist}
 
 > ## During the Event
+>
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
 > 1.  Distribute sticky notes.
@@ -45,6 +51,7 @@ permalink: /guide/
 {: .checklist}
 
 > ## After the Event
+>
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Recruit experienced instructors to lead group lesson discussions.
 > 1.  Schedule group lesson discussions.
@@ -53,6 +60,7 @@ permalink: /guide/
 {: .checklist}
 
 > ## After Trainees Complete
+>
 > 1.  Send new instructors [the completion message][completion].
 > 1.  Badge instructors in [AMY][amy].
 > 1.  Create and send [PDF certificates][certificates].
