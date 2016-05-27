@@ -5,6 +5,37 @@ permalink: /reference/
 ---
 ## Top Ten
 
+1.  Everyone in our community is required to abide by our [Code of Conduct]({{ site.swc_site }}/conduct/),
+    both at workshops and online,
+    to ensure that everyone else feels welcome.
+2.  You teach our material, not your own,
+    and you need to work through the materials before teaching to verify your own understanding
+    and figure out where people might have trouble.
+3.  Never teach alone:
+    we use teams of instructors so that no one has to know everything,
+    no one gets exhausted,
+    and everyone can get the help they need (both the learners and other instructors).
+4.  We organize some workshops, but we expect people to organize workshops locally as well.
+    You can charge people to attend, and we will charge you when we help organize.
+5.  We expect you to teach at least once within a year of certifying in exchange for this training.
+6.  "The mistakes are the pedagogy." -- Daina Bouquin
+7.  Expect a broad range of expertise and experience,
+    and be prepared to adapt your teaching to accommodate beginners or those who struggle.
+8.  We use live coding instead of slides:
+    instructors work through the lesson material, typing in the code or instructions, while the learners follow along.
+9.  Use sticky notes for real-time feedback
+    and minute cards or "one up, one down" at lunch and at the end of the day
+    in order to find out how the class is going
+    while there's still time to fix things.
+10. The "I don't know what I'm doing" feeling never goes away. You just learn the "but I can figure it out" part.
+    -- [Sciencegurl](https://twitter.com/sciencegurlz0/status/687739023826235393)
+
+A note on #2:
+some instructors start improvising after they've taught the core lessons as-is a few times,
+but you should know what you're improvising around---remember,
+our materials have been used hundreds of times,
+and probably address problems you don't yet know will arise.
+
 ### What Kinds of Practice and Feedback Enhance Learning?
 
 1.  Mismatched expectations can be difficult to diagnose and waste much time.
