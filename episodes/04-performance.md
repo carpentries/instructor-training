@@ -161,7 +161,7 @@ Fincher and her colleagues studied how teaching practices are actually transferr
 using both [a detailed case study]({{ site.root }}/files/papers/fincher-warrens-questions-2007.pdf)
 and
 [analysis of change stories]({{ site.root }}/files/papers/fincher-stories-change-2012.pdf).
-As the abstract of the latter paper says:
+The abstract of the latter paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by educators in the field,
 > despite evidence of their effectiveness.
@@ -177,9 +177,25 @@ As the abstract of the latter paper says:
 > without input from outside sources,
 > or involved only personal interaction with other educators.
 
-As stated at the beginning, the main goal of this training is to be this kind of
-lesson study, where instructors can come together to discuss and share practices,
-and to get feedback.
+As reported in [this paper]({{ site.root }}/files/papers/barker-practice-adoption-2015.pdf),
+Barker et al found something similar in 2015:
+
+> Adoption is not a "rational action," however, but an iterative
+> series of decisions made in a social context, relying on normative
+> traditions, social cueing, and emotional or intuitive processes...
+> [F]aculty are not likely to use educational research findings as the
+> basis for adoption decisions. Faculty become aware of innovative
+> practices either because a problem leads them to intentionally seek
+> them out, or they hear about them through funded initiatives,
+> conferences and journals, or from colleagues. They experiment (or
+> not) for several reasons, depending on institutional expectations
+> and policies, perceived costs and benefits for themselves and
+> students, and the influence of role models. Faculty tend to trust
+> other faculty whose work and institutional context is more like
+> their own. The choice to try out practices competes with the need to
+> "cover" material, as well as with classroom layouts. Positive
+> student feedback is taken as strong evidence by faculty that they
+> should continue a practice.
 
 > ## Learning Sideways
 >
