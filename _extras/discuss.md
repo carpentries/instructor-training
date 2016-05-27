@@ -176,3 +176,32 @@ or happen to form them correctly early on;
 these are the ones who stick with most massive online courses,
 but many discussions of the effectiveness of such courses
 ignore this survivor bias.
+
+## Program Assessment
+
+The Carpentries' greatest weakness is a lack of systematic assessment:
+while we have done some small-scale studies of the impact we have on our learners,
+and Dr. Beth Duckles' studies of [why instructors join us]({{ site.swc_site }}/files/bib/duckles-instructor-engagement-2016.pdf)
+and [why people qualify but then don't teach]({{ site.swc_site }}/files/bib/duckles-non-instructor-report-2016.pdf)
+are very insightful,
+we still don't know what learners actually adopt
+or what effect it has on their productivity,
+the reproducibility of their work,
+and so on.
+
+We have sometimes used this as the basis for an in-class exercise.
+Working in groups of four,
+trainees brainstorm answers to the following:
+"Your dean has provisionally agreed to set aside funds to support some Carpentry workshops over the next year,
+but wants to know how you will tell at the end of those workshops whether the money was worth spending.
+Given the resources you have,
+what information can you collect,
+how would you analyze it,
+and why do you think it would be convincing?"
+Each group then presents its best idea,
+which the trainers and other trainees critique.
+
+This exercise always generates a lot of discussion,
+but end-of-day assessment has usually indicated that trainees don't find it particularly useful.
+We have therefore cut it,
+but may re-introduce it if and when we include a module on program assessment.
