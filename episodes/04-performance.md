@@ -243,7 +243,7 @@ Barker et al found something similar in 2015:
 
 ## On Stage
 
-> ## Discussion
+> ## What Are Your Tells?
 >
 > How was the experience of being videoed/receiving feedback?  What
 > did people notice?  What are some of your "tells"?
@@ -263,7 +263,7 @@ in very different ways.  The uniqueness of your teaching style can and should
 be based on your strengths.  This is why it's just as important to identify strengths
 as weaknesses when trying to improve your teaching.  It's good to know what you do well!
 
-> ## Discussion
+> ## The Two-Dimensional You
 >
 > If you were a cartoon character teacher, who would you be?  What does that say about your
 > teaching style?
@@ -274,11 +274,6 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 Sometimes it can be hard to receive negative feedback.
 
 ![Feedback Feelings]({{ site.root }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
-
-> ## Discussion:
->
-> What are some strategies you use to receive and handle feedback?
-{: .challenge}
 
 Here is a list of some strategies to make sure that you can receive feedback
 in a way that helps you improve:
@@ -346,6 +341,8 @@ in the room.
 > Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 > and discuss ways you could make peer-to-peer feedback
 > a routine part of your teaching.
+> You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
+> which looks at the value of having a coach.
 {: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
