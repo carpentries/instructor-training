@@ -309,7 +309,6 @@ described in [this episode]({{ site.root }}/17-motivation/).
     * How often did you point at the screen? How often did you highlight with the mouse?
     * What will you try to do differently next time?
 
-
 *   When teaching faded examples:
     1.  Divide trainees into groups of 4-5
     2.  Put the faded example (Python code) from the curriculum into the Etherpad.
@@ -460,8 +459,6 @@ scheduled.
     whether you deemed them ready to go forth to the checkout session.
 
 ## Testimonials
-
-<a name="testimonials"></a>
 
 > ## Steve Crouch
 >
