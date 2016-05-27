@@ -236,9 +236,9 @@ The things teachers know can be divided into:
 *   *general pedagogical knowledge*, i.e., an understanding of the
     psychology of learning; and
 
-*   the *pedagogical content knowledge* (PCK) that connects the two,
-    which is things like when to teach the notion of a call stack
-    and what examples to use when doing so, or knowing what misconceptions about recursion are most common.
+*   the *pedagogical content knowledge* (PCK) that connects the two.
+    PCK is things like what examples to use when teaching how parameters are passed to a function,
+    or what misconceptions about wildcard expansion are most common.
 
 ![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
 
