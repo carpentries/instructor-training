@@ -11,7 +11,9 @@
     </div>
     <div class="col-md-10 footertext">
       <h4>
-	Copyright &copy; 2016 Software Carpentry Foundation
+	Copyright &copy; 2016
+	{% if carpentry == "swc" %} Software Carpentry Foundation {% endif %}
+	{% if carpentry == "dc" %} Data Carpentry {% endif %}
       </h4>
     </div>
     <div class="col-md-1">
