@@ -21,7 +21,7 @@ email: training@software-carpentry.org
 kind: "lesson"
 
 # Which carpentry is this ("swc", "dc")?
-carpentry: "dc"
+carpentry: "swc"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
