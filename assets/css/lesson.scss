@@ -5,14 +5,37 @@
 // Colors.
 //----------------------------------------
 
-$brand-blue:       #2b3990 !default;
-$brand-gray-light: #999    !default;
-$brand-gray:       #767676 !default;
-$brand-gray-dark:  #333    !default;
-$brand-green:      #6cc644 !default;
-$brand-red:        #bd2c00 !default;
-$brand-orange:     #c9510c !default;
-$brand-purple:     #6e5494 !default;
+// branding
+$color-brand:       #2b3990 !default;
+
+// code boxes
+$color-error:       #bd2c00 !default;
+$color-output:      #303030 !default;
+$color-source:      #6e5494 !default;
+
+// blockquotes
+
+{% if site.carpentry == "swc" %}
+$color-callout:     #00B3A3 !default;
+$color-challenge:   #cf0039 !default;
+$color-checklist:   #ea7f6a !default;
+$color-keypoints:   #98a546 !default;
+$color-objectives:  #98a546 !default;
+$color-prereq:      #b63d00 !default;
+$color-solution:    #9a7366 !default;
+$color-testimonial: #d99600 !default;
+{% endif %}
+
+{% if site.carpentry == "dc" %}
+$color-callout:     #c4e177 !default;
+$color-challenge:   #f4b4aa !default;
+$color-checklist:   #5ac76e !default;
+$color-keypoints:   #ae9aca !default;
+$color-objectives:  #cf71a9 !default;
+$color-prereq:      #9cd6dc !default;
+$color-solution:    #e3bb70 !default;
+$color-testimonial: #f4fd9c !default;
+{% endif %}
 
 //----------------------------------------
 // Specialized code blocks.
@@ -24,9 +47,9 @@ $brand-purple:     #6e5494 !default;
   margin-bottom: 0px;
 }
 
-.error  { @include cdSetup($brand-red); }
-.output { @include cdSetup($brand-gray-dark); }
-.source { @include cdSetup($brand-purple); }
+.error  { @include cdSetup($color-error); }
+.output { @include cdSetup($color-output); }
+.source { @include cdSetup($color-source); }
 
 //----------------------------------------
 // Specialized blockquote environments for learning objectives, callouts, etc.
@@ -36,8 +59,8 @@ $codeblock-padding: 5px !default;
 
 @mixin bkSetup($color, $glyph) {
 
-  $gradientcolor1: scale-color($color, $lightness: 70%);
-  $gradientcolor2: scale-color($color, $lightness: 80%);
+  $gradientcolor1: $color;
+  $gradientcolor2: scale-color($color, $lightness: 10%);
 
   padding-left: $codeblock-padding;
   padding-top: 0;
@@ -53,7 +76,6 @@ $codeblock-padding: 5px !default;
     font-size: 20px;
     background: linear-gradient(to bottom, $gradientcolor1, $gradientcolor2);
     border-color: $color;
-    color: darken($color, 20%);
     margin-top: 0px;
     margin-left: -$codeblock-padding; // to move back to the left margin of the enclosing blockquote
   }
@@ -69,13 +91,14 @@ $codeblock-padding: 5px !default;
 
 }
 
-.callout{ @include bkSetup(#2B5564, "\e146"); }
-.challenge{ @include bkSetup(#985916, "\270f"); }
-.checklist{ @include bkSetup(#525252, "\e067"); }
-.keypoints{ @include bkSetup(#682047, "\e101"); }
-.objectives{ @include bkSetup(#667932, "\e085"); }
-.prereq{ @include bkSetup(#BD6F7A, "\e124"); }
-.testimonial{ @include bkSetup(#C0A92A, "\e143"); }
+.callout{ @include bkSetup($color-callout, "\e146"); }
+.challenge{ @include bkSetup($color-challenge, "\270f"); }
+.checklist{ @include bkSetup($color-checklist, "\e067"); }
+.keypoints{ @include bkSetup($color-keypoints, "\e101"); }
+.objectives{ @include bkSetup($color-objectives, "\e085"); }
+.prereq{ @include bkSetup($color-prereq, "\e124"); }
+.solution{ @include bkSetup($color-solution, "\e105"); }
+.testimonial{ @include bkSetup($color-testimonial, "\e143"); }
 
 //----------------------------------------
 // Override Bootstrap settings.
@@ -106,7 +129,7 @@ img.navbar-logo {
 }
 
 div.branding {
-  color: $brand-blue;
+  color: $color-brand;
 }
 
 ul,
