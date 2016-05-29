@@ -17,6 +17,12 @@ title: "Instructor Training"
 # Contact email address.
 email: training@software-carpentry.org
 
+# What kind of thing is this ("workshop", "lesson")?
+kind: "lesson"
+
+# Which carpentry is this ("swc", "dc")?
+carpentry: "dc"
+
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
