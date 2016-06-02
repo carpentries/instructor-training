@@ -334,7 +334,7 @@ you are very welcome to put your name forward as a candidate.
 
 [dc-blog]: {{ site.dc_site }}/blog/
 [dc-forum]: http://discuss.datacarpentry.org/
-[dc-github]: https://github.com/datacarpentry/
+[dc-github]: {{ site.dc_github }}
 [dc-join]: {{ site.dc_site }}/involved/
 [dc-lessons]: {{ site.dc_site }}/lessons/
 [dc-request]: {{ site.dc_site}}/workshops-host/
