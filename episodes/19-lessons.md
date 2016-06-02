@@ -273,6 +273,10 @@ as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also 
 be discussed before changes are merged.
 
+### Lesson Incubation
+
+FIXME: how to add new lessons
+
 > ## Many Ways to Contribute
 >
 > We recognize that the medium of GitHub may be restrictive to those 
