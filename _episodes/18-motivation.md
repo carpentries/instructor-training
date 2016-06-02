@@ -24,7 +24,7 @@ keypoints:
 In order for learners to step out into new and familiar terrain, they will 
 need encouragement.  This section discusses typical ways that 
 learners are motivated (and can be demotivated!) and describes ways that communities 
-of practice can be welcoming (or threatening) to new members.  
+of practice can be welcoming (or threatening) to new members.
 
 ## Motivation
 
@@ -137,7 +137,7 @@ to make sure they're doing at least a few of these things.
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.  For one instructor's motivation,
-> keep reading.  
+> keep reading.
 {: .callout}
 
 ## Demotivation
@@ -156,7 +156,7 @@ even if it is unfair in their favor
 (because consciously or unconsciously they will worry that
 they will some day find themselves in the group on the losing end).  Finally,
 a "holier-than-thou" or contemptuous attitude from an instructor is a quick way
-to alienate a classroom and cause learners to tune out.  
+to alienate a classroom and cause learners to tune out.
 
 > ## Things You Shouldn't Do in a Workshop
 >
@@ -200,8 +200,8 @@ to alienate a classroom and cause learners to tune out.
 > ## Personal Story About Demotivation
 >
 > Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.  
-> After everyone has completed, draw out common demotivational themes.  
+> that demotivated you, and explain what could have been done afterward to fix it.
+> After everyone has completed, draw out common demotivational themes.
 {: .challenge}
 
 ### Stereotype Threat
@@ -329,7 +329,7 @@ they figure they just don't have that aptitude,
 which biases future performance.
 On the other hand,
 if people believe that a skill is learned and can be improved,
-they do better on average.  
+they do better on average.
 
 A person's mindset can be shaped by subtle cues.
 For example,
@@ -341,7 +341,7 @@ If on the other hand she is told,
 she is likely to develop a growth mindset,
 and subsequently achieve more.  Studies have also shown that
 the simple action of telling learners about the different mindsets
-before a course can improve learning outcomes for the whole group.  
+before a course can improve learning outcomes for the whole group.
 
 ## Accessibility
 
@@ -360,7 +360,7 @@ it *is* possible to get a good working structure in place
 without any specific knowledge of what specific disabilities people might have.
 Having at least some accommodations prepared in advance also makes it clear that
 hosts and instructors care enough to have thought about problems in advance,
-and that any additional concerns are likely to be addressed.  
+and that any additional concerns are likely to be addressed.
 
 > ## It Helps Everyone
 >
@@ -409,7 +409,7 @@ are always welcome.
 >
 > *   *Don't do everything at once.*
 >     We don't ask learners in our workshops to adopt all our best practices or tools in one go,
->     but instead to work things in gradually at whatever rate they can manage.  
+>     but instead to work things in gradually at whatever rate they can manage.
 >     Similarly, try to build in accessibility habits when preparing for workshops
 >     by adding something new each time.
 > *   *Do the easy things first.*
@@ -448,7 +448,7 @@ are always welcome.
 {: .challenge}
 
 > ## Demotivational Strategies - Brainstorm Challenge
-> **Think** back to a computational (or other) course you took in the past, and  
+> **Think** back to a computational (or other) course you took in the past, and
 > identify one thing the instructor did that motivated you. 
 > **Pair** up with your neighbor and discuss what motivated you. 
 > **Share** the motivational story in the etherpad.
