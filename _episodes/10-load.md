@@ -1,10 +1,10 @@
 ---
 title: "Cognitive Load"
 teaching: 20
-exercises: 30
+exercises: 20
 questions:
 - "How does inquiry-based learning perform compared to guided learning?"
-- "What is cognitive load theory, and what predictions does it make about the effectiveness of different teaching practices?"
+- "What is cognitive load theory?"
 - "What is the split-attention effect, and how should it affect the design of teaching materials?"
 objectives:
 - "Explain the basis and implications of cognitive load theory and critique it."
@@ -16,7 +16,7 @@ keypoints:
 ---
 
 In our final topic in educational psychology, we'll be learning more about human memory: 
-specifically how to remove unnecessary "load" in order to facilitate learning.  
+specifically how to remove unnecessary "load" in order to facilitate learning.
 
 ## Battling Theories
 

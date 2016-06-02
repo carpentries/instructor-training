@@ -1,6 +1,6 @@
 ---
 title: "Carpentry Teaching Practices"
-teaching: 45
+teaching: 30
 exercises: 0
 questions:
 - "What teaching practices are common to Software and Data Carpentry?"

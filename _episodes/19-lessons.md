@@ -1,21 +1,25 @@
 ---
-title: "Learning Objectives"
-teaching: 20
-exercises: 25
+title: "Lessons and Objectives"
+teaching: 30
+exercises: 30
 questions:
-- "How can I design effective lessons?"
+- "How can I design more effective lessons?"
+- "What lessons do Software and Data Carpentry currently contain?"
 objectives:
 - "Describe the four steps in reverse instructional design and explain why following them is an efficient way to create good teaching materials."
 - "Follow the steps in the reverse instructional design process to create a short lesson."
-- "Analyze a short lesson by comparing it to the elements of WHERETO."
+- "Analyze a lesson by comparing it to the elements of WHERETO."
 - "Describe the characteristics of a good learning objective and correctly state whether a learning objective meets those criteria."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy and similar cognitive hierarchies."
 - "Write a learner profile describing a typical member of their intended audience."
+- "Summarize the existing Software Carpentry and Data Carpentry lessons."
 keypoints:
 - "Use reverse instructional design to create lessons: concepts, summative assessment, formative assessments, teachings."
 - "Communicate lesson goals by writing specific, verifiable learning objectives."
 - "Bloom's Taxonomy classifies levels of understanding."
 - "Write learner profiles to clarify audience for lesson."
+- "Software Carpentry's lessons cover the Unix shell, version control, programming, SQL, and Make."
+- "Data Carpentry's lessons cover data cleanup, management, analysis, and visualization in a variety of fields."
 ---
 We have already covered certain elements of lesson design in our previous
 lessons on educational psychology and how that can inform teaching tools.  In this
@@ -162,12 +166,12 @@ is a good longer discussion of these issues.
 > ## Improving Objectives
 >
 > Are the following learning objectives strong or weak?  How could
-> you improve some of the weak objectives?  
+> you improve some of the weak objectives?
 >
 > * Learn what a Python library is, and what it can be used for.
 > * Be able to use "dplyr" and provide simple examples.
 > * Understand the importance of using version control.
-> * Understand data slicing/manipulation.  
+> * Understand data slicing/manipulation.
 {: .challenge}
 
 ## Learner Profiles
@@ -200,6 +204,89 @@ A learner profile for Software Carpentry might be:
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 
+## Existing Lessons
+
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
+*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
+*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
+*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
+*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+
+but these are less frequently used.
+
+The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
+that crop up in many other areas of computing:
+
+*   the notions of a path and a home directory
+*   the use of history and tab completion to save time (and prevent mistakes)
+*   manipulating text using `head`, `tail`, `grep`, and related tools
+*   combining existing tools using pipes instead of writing new ones
+*   using loops to repeat operations
+
+The aims of the version control lesson are to teach people:
+
+*   how to keep track of their work,
+*   how to collaborate with other people online, and
+*   enough about privacy and licensing that they can begin to make sensible decisions about
+    what to put where and how to share it.
+
+The ostensible aim of the programming lessons are to show people
+how to build modular programs out of small functions
+that can be read, tested, and re-used.
+However,
+these concepts turn out to be hard to convey to people
+who are still learning the syntax of a programming language
+(forest and trees),
+so in practice the programming lessons focus primarily on
+the mechanics of doing common operations in those languages.
+
+FIXME: summarize Data Carpentry lessons.
+
+### Lesson Development
+
+As stated above, the lesson materials for Software and Data Carpentry
+are hosted on GitHub:
+
+*   [Data Carpentry on GitHub][dc-github]
+*   [Software Carpentry on GitHub][swc-github]
+
+and are developed collaboratively---in 2015 alone, almost 200 people
+made contributions to various lessons.  Each lesson is in a separate
+repository, and consists of narrative lesson material and an
+associated directory containing the data or scripts needed in the
+lesson.  This source material is also then served as a website, using
+GitHubs "gh-pages" feature.
+ 
+Lesson contribution is managed within the repository using "issues"
+and "pull requests".  New problems or suggestions can be introduced 
+as issues, discussed by the community, and addressed via a pull 
+request, which serves as a "request" to make changes, and can also 
+be discussed before changes are merged.
+
+### Lesson Incubation
+
+FIXME: how to add new lessons
+
+> ## Many Ways to Contribute
+>
+> We recognize that the medium of GitHub may be restrictive to those 
+> who wish to contribute to our lessons.  We are always searching for 
+> ways to make the process more friendly to all, whether that be 
+> contribution training, or alternative routes to contribution.  If you 
+> have any ideas how we might make contribution more contributor-friendly,
+> please let us know.
+{: .callout}
+
 > ## Learner Profiles
 >
 > Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
@@ -209,19 +296,6 @@ A learner profile for Software Carpentry might be:
 > and how will this training help them?
 > Try to be as specific as possible.
 {: .challenge}
-
-> ## Pseudoscience
->
-> One [well-known scheme][wikipedia-learning-modes]
-> characterizes learners as visual, auditory, or kinesthetic
-> according to whether they like to see things, hear things, or do things.
-> This scheme is easy to understand,
-> but are [almost certainly false][amazon-myths]:
-> what little evidence that does exist for it is very weak.
-> Unfortunately,
-> that hasn't stopped a large number of companies from marketing products based on it
-> to parents and school boards.
-{: .callout}
 
 > ## Classify Learning Objectives
 >
@@ -262,24 +336,6 @@ A learner profile for Software Carpentry might be:
 > (Try to choose something that she could reasonably be expected to accomplish in under 15 minutes.)
 > How would you describe the task to her?
 > And how would you describe the criteria for completing it successfully?
-{: .challenge}
-
-> ## Lesson Design
->
-> Pick a small topic that you could teach in 5-10 minutes,
-> such as the basic structure of a `for` loop in Python
-> or the use of `and` and `or` in database queries.
-> With a partner,
-> create a point-form outline of a lesson on that topic
-> by following the steps in the reverse instructional design process.
-{: .challenge}
-
-> ## WHERETO in Reverse
->
-> Compare an existing Data Carpentry or Software Carpentry lesson episode
-> to the WHERETO acronym's points.
-> Which does it satisfy?
-> Which does it not?
 {: .challenge}
 
 ## Reverse Instructional Design
@@ -379,7 +435,7 @@ Wiggins and McTighe use the acronym WHERETO:
 
 > ## Discussion
 >
-> Is reverse instructional design "teaching to the test"?  
+> Is reverse instructional design "teaching to the test"?
 {: .challenge}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
@@ -402,8 +458,10 @@ large organizations invariably prefer uniformity to productivity.
 [amazon-myths]: http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/
 [amazon-slas]: http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/
 [amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
-[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
+[dc-github]: {{ site.dc_github }}
 [parnas-design-pdf]: http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf
+[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
+[swc-github]: {{ site.swc_github }}/
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

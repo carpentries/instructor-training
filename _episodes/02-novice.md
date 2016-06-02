@@ -31,17 +31,17 @@ but the model does a good job of helping people reason about chemical compounds 
 > ## Discussion
 >
 > What is your primary research domain?  What is one mental model you use to frame 
-> and understand your work?  
+> and understand your work?
 {: .challenge}
 
 > ## Discussion
 >
 > What mental model has been provided for thinking about the structure 
-> of this course and the act of teaching?  
+> of this course and the act of teaching?
 {: .challenge}
 
 One way to think about the difference between a novice and a "competent 
-practitioner" is the existence of this big picture mental model.  
+practitioner" is the existence of this big picture mental model.
 Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
@@ -104,7 +104,7 @@ and without which people cannot understand how to use commands
 > ## Discussion
 >
 > Define the difference between a manual / tutorial.  Which is more appropriate 
-> for novices?  For competent practitioners?  
+> for novices?  For competent practitioners?
 {: .challenge}
 
 > ## Different Kinds of Lessons
@@ -132,18 +132,18 @@ and without which people cannot understand how to use commands
 
 There are many "positive" strategies towards building mental models.  Analogies, 
 stories, role-play, diagrams...all can be a way to represent a structure that 
-can be used as a model.  
+can be used as a model.
 
 > ## Discussion
 > 
 > What are some mental models you use in the classroom to teach computing concepts?  What 
-> mental models do you use to think about your work?  
+> mental models do you use to think about your work?
 {: .challenge}
 
-However, there's another, greater challenge to creating mental models.  
+However, there's another, greater challenge to creating mental models.
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.  
+> It's what you know for sure that just ain't so.
 > - Mark Twain
 
 Clearing up learners' misconceptions is therefore as important as 
@@ -162,11 +162,11 @@ their misconceptions may fall into three categories:
     These usually cannot be addressed in class,
     since they are deeply connected to the learner's social identity
     and cannot be reasoned away.
-    
+  
 Again, since Software and Data Carpentry are focused on novices, and the building of 
-strong mental models, we're most interested in the middle category of misconceptions.  
+strong mental models, we're most interested in the middle category of misconceptions.
 While teaching, we want to expose broken models so that we can help diagnose and 
-provide better ones.  
+provide better ones.
 
 > ## What Happens Next?
 >
@@ -210,7 +210,7 @@ This is usually done through two kinds of assessment:
     no one should ever encounter a question on a final exam
     for which the teaching did not prepare them.
 
-For our in-class purposes, we're most interested in formative assessment.  
+For our in-class purposes, we're most interested in formative assessment.
 In order to be useful during teaching,
 a formative assessment has to be quick to administer and evaluate.
 The most widely used is probably multiple choice questions (MCQs).
@@ -233,7 +233,7 @@ but each of the other answers provides valuable insight:
 
 > ## Discussion 
 >
-> What is the misconception associated with each wrong answer?  
+> What is the misconception associated with each wrong answer?
 {: .challenge}
 
 *   If the child answers 32, she is throwing away the carry completely.
@@ -257,14 +257,14 @@ what to explain to that particular learner next.
 > 
 > As the instructor, what should you do if most of the class votes for one 
 > of the wrong answers?  For the right answer?  What if the votes are evenly 
-> spread between options?  
+> spread between options?
 {: .challenge}
 
 If the majority of the class votes for a single wrong answer, you should go back 
 and work on correcting that particular misconception.  If most of the class votes
 for the right answer, it's probably safe to move on.  If answers are pretty evenly 
 split between options, learners are probably guessing randomly and it's a good 
-idea to go back to a point where everyone was on the same page.  
+idea to go back to a point where everyone was on the same page.
 
 Ideally,
 instructors should use MCQs
@@ -323,7 +323,7 @@ in which you were going to explain something that your learners already know.
 >
 > Create a multiple choice question related to a topic you intend to teach
 > and explain the diagnostic power of each its distractors,
-> i.e., what misconception is each distractor meant to identify?  
+> i.e., what misconception is each distractor meant to identify?
 {: .challenge}
 
 > ## A Note on MCQ Design
@@ -364,7 +364,7 @@ and see the topic from their point of view.
 
 > ## Discussion: 
 > 
-> Name a pro and con of assessing learners as they sign up for a workshop.  
+> Name a pro and con of assessing learners as they sign up for a workshop.
 {: .challenge} 
 
 > ## Why We Don't Assess During Registration
@@ -400,7 +400,7 @@ and see the topic from their point of view.
 > ## Modeling Instruction
 >
 > There have been many "models" of teaching/learning in the past.  What 
-> model do you currently use (sub-consciously or consciously)?  
+> model do you currently use (sub-consciously or consciously)?
 {: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
