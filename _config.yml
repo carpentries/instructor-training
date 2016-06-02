@@ -29,6 +29,7 @@ carpentry: "swc"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
+dc_github: "https://github.com/datacarpentry"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"

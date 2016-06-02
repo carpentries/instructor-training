@@ -206,20 +206,66 @@ A learner profile for Software Carpentry might be:
 
 ## Existing Lessons
 
-FIXME
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
+*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
+*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
+*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
+*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+
+but these are less frequently used.
+
+The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
+that crop up in many other areas of computing:
+
+*   the notions of a path and a home directory
+*   the use of history and tab completion to save time (and prevent mistakes)
+*   manipulating text using `head`, `tail`, `grep`, and related tools
+*   combining existing tools using pipes instead of writing new ones
+*   using loops to repeat operations
+
+The aims of the version control lesson are to teach people:
+
+*   how to keep track of their work,
+*   how to collaborate with other people online, and
+*   enough about privacy and licensing that they can begin to make sensible decisions about
+    what to put where and how to share it.
+
+The ostensible aim of the programming lessons are to show people
+how to build modular programs out of small functions
+that can be read, tested, and re-used.
+However,
+these concepts turn out to be hard to convey to people
+who are still learning the syntax of a programming language
+(forest and trees),
+so in practice the programming lessons focus primarily on
+the mechanics of doing common operations in those languages.
+
+FIXME: summarize Data Carpentry lessons.
 
 ### Lesson Development
 
 As stated above, the lesson materials for Software and Data Carpentry
-are hosted on GitHub.
+are hosted on GitHub:
 
 *   [Data Carpentry on GitHub][dc-github]
 *   [Software Carpentry on GitHub][swc-github]
 
-Each lesson is in a separate repository, and consists of narrative 
-lesson material and an associated directory containing the data 
-or scripts needed in the lesson.  This source material is also then 
-served as a website, using GitHubs "gh-pages" feature.
+and are developed collaboratively---in 2015 alone, almost 200 people
+made contributions to various lessons.  Each lesson is in a separate
+repository, and consists of narrative lesson material and an
+associated directory containing the data or scripts needed in the
+lesson.  This source material is also then served as a website, using
+GitHubs "gh-pages" feature.
  
 Lesson contribution is managed within the repository using "issues"
 and "pull requests".  New problems or suggestions can be introduced 
@@ -408,8 +454,10 @@ large organizations invariably prefer uniformity to productivity.
 [amazon-myths]: http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/
 [amazon-slas]: http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/
 [amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
-[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
+[dc-github]: {{ site.dc_github }}
 [parnas-design-pdf]: http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf
+[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
+[swc-github]: {{ site.swc_github }}/
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
