@@ -1,12 +1,11 @@
 ---
 layout: episode
 title: "Afternoon Wrap-Up"
-teaching: 15
+teaching: 30
 exercises: 15
 questions:
 - "What have we learned?"
 ---
-
 The final steps in qualifying as an instructor are to:
 
 1.  submit a change to one of our lessons,

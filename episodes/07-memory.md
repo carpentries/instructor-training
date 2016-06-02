@@ -21,14 +21,14 @@ keypoints:
 ---
 Returning to educational psychology, we now discuss what distinguishes expertise 
 from earlier stages of learning, how expertise can be helpful and harmful, and then 
-describe concept maps, a tool that can help expose expertise.  
+describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
 > ## Discussion
 > 
 > What is something in which you are an expert?  How do you know that 
-> you're an expert?  
+> you're an expert?
 {: .challenge}
 
 An [earlier topic]({{ site.root }}/03-models/) described the key difference between novices and competent practitioners.
@@ -48,7 +48,7 @@ i.e.,
 their mental models are much more densely connected.
 
 To understand expert behavior, think about driving around a city, comparing what it's 
-like for the local and for the out-of-town driver.  
+like for the local and for the out-of-town driver.
 
 This metaphor helps explain many observed aspects of expert behavior:
 
@@ -60,12 +60,12 @@ This metaphor helps explain many observed aspects of expert behavior:
     and it isn't always a good thing:
     when asked to explain her reasoning,
     an expert often can't because she didn't actually go through any intermediate steps.
-    
+  
 	> In our example above, the local probably doesn't even think about which 
 	> turns they're making on their way to the grocery store.  They can drive on 
 	> "autopilot" without really thinking.  If someone asks them to go to a different 
 	> location, they immediately know what they should do next to get to the right place. 
-    
+  
 2.  Experts are frequently so familiar with their subject
     that they can no longer imagine what it's like to *not* see the world that way.
     As a result,
@@ -74,26 +74,26 @@ This metaphor helps explain many observed aspects of expert behavior:
     This is called *expert blind spot*.
     It can be overcome with training,
     but it's part of why world-famous researchers are often poor lecturers.
-    
+  
     > The local driver will know from long experience that the bridge is under construction, or that 
     > there's always a train at 3:00 - knowledge not available to the out-of-towner, even 
-    > on their map.  
-    
+    > on their map.
+  
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
-    
+  
     > The local driver probably can use either the names of streets *or* landmarks when giving 
-    > directions.  The out-of-towner only has street labels.  
+    > directions.  The out-of-towner only has street labels.
 
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
     (And this in turn is why asking programmers to debug during job interviews
     gives a more accurate impression of their ability than asking them to program.)
-    
+  
     > When the out-of-towner finally calls their local friend, saying "well, we just passed 
     > Sycamore Street and we can see a restaurant named Nellie's Cafe", the local can 
-    > more easily figure out where the out-of-towner is, and how to get to their destination.  
+    > more easily figure out where the out-of-towner is, and how to get to their destination.
 
 > ## The J Word
 >
@@ -117,14 +117,14 @@ Similarly,
 the more connections a fact has to other facts,
 the more likely the fact is to be remembered.  This builds on our earlier idea 
 of mental models - a mental model is a way to facilitate making connections between 
-separate facts.  
+separate facts.
 
 ## Concept Maps
 
 Our tool of choice to represent an expert's knowledge graph is the *concept map*.
 A concept map is simply a picture of someone's mental model of a domain:
 facts are bubbles,
-and connections are labelled arcs.  
+and connections are labelled arcs.
 It is important that they are labelled:
 saying "X and Y are related" is only helpful if we explain what the relationship *is*.
 And yes,
@@ -239,7 +239,7 @@ without bumping into each other).
 >
 > Create a hand drawn concept map for something you would teach in five minutes.
 > (Possibly for the same subject that you used to create a multiple choice question 
-> before.)  
+> before.)
 > Trade with a partner, and critique each other's maps.
 > Do they present concepts or surface detail?
 > Which of the relationships in your partner's map do you consider concepts and vice versa?
@@ -351,7 +351,7 @@ memory.
 
 This is why it's very important to use a technique like concept mapping a lesson
 before teaching it - an instructor needs to identify just how many pieces of
-separate information will need to be "stored" in memory as part of the lesson.  
+separate information will need to be "stored" in memory as part of the lesson.
 
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/

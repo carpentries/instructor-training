@@ -18,9 +18,9 @@ This two-day class has two goals:
 *   Introduce participants to the teaching practices that have been adopted by 
     the Software and Data Carpentry communities, and the overall philosophy 
     and procedures of both organizations
-    in order to prepare them to teach at Software and Data Carpentry workshops.  
+    in order to prepare them to teach at Software and Data Carpentry workshops.
 
-The content addressing these goals is linked in the schedule below.  
+The content addressing these goals is linked in the schedule below.
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
