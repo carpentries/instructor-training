@@ -1,9 +1,9 @@
 ---
 title: "The Carpentries"
-teaching: 45
-exercises: 30
+teaching: 60
+exercises: 0
 questions:
-- "What do I need to know about the Software and Data Carpentry organizations?"
+- "How are Software and Data Carpentry organized and run??"
 objectives:
 - "Summarize the history and structure of the Software and Data Carpentry organizations."
 - "Describe at least three similarities and differences between Software and Data Carpentry workshops."
@@ -18,6 +18,15 @@ In becoming an instructor for Software or Data Carpentry,
 you are also becoming part of a community of like-minded volunteers.
 This section provides some background on both organizations,
 and on the final steps toward certification.
+
+> ## Preparation and Discussion
+>
+> This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
+> (which is [assigned as overnight homework]({{ site.root }}/11-summarize/)).
+> Instead of going through this material point by point,
+> trainers should ask each trainee to add one non-overlapping question to a list,
+> then go through that list.
+{: .callout}
 
 ## History
 
@@ -250,11 +259,6 @@ There are several hubs of activity for the Software and Data Carpentry communiti
     *   [Software Carpentry on Twitter][swc-twitter]
     *   [Data Carpentry on Twitter][dc-twitter]
 
-> ## Get Connected
->
-> Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
-{: .challenge}
-
 ### A Culture of Contribution
 
 The administration, policies, practices and content of 
@@ -262,44 +266,21 @@ Software Carpentry and Data Carpentry rest on the shoulders of the
 communities that support them.  In the same way that we hope to promote a 
 culture of openness, sharing, 
 and reproducibility in science and research through training researchers with 
-the tools they need, the  
+the tools they need, the
 Carpentry organizations themselves aim to be open, collaborative, and 
 based on best practices.  Just 
 as we encourage researchers to use packages and modules in their code, to 
 create re-usable pieces, we want to draw together the collective expertise of 
 our teaching community to create collaborative lessons, share other materials, 
-and improve the lessons via "bug fixes" as we go along.  
-
-### Lesson Development
-
-As stated above, the lesson materials for Software and Data Carpentry
-are hosted on GitHub.  
-    *   [Data Carpentry on GitHub][dc-github]
-    *   [Software Carpentry on GitHub][swc-github]
-Each lesson is in a separate repository, and consists of narrative 
-lesson material and an associated directory containing the data 
-or scripts needed in the lesson.  This source material is also then 
-served as a website, using GitHubs "gh-pages" feature.  
- 
-Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced 
-as issues, discussed by the community, and addressed via a pull 
-request, which serves as a "request" to make changes, and can also 
-be discussed before changes are merged.  
-
-We recognize that the medium of GitHub may be restrictive to those 
-who wish to contribute to our lessons.  We are always searching for 
-ways to make the process more friendly to all, whether that be 
-contribution training, or alternative routes to contribution.  If you 
-have any ideas how we might make contribution more contributor-friendly,
-please let us know!  
+and improve the lessons via "bug fixes" as we go along.
+We discuss this in more detail in [a later lesson]({{ site.root }}/20-lessons/).
 
 ### Beyond Lessons
 
 While contribution is frequently seen in terms of contributing 
 to specific lessons in either organization, there 
 are many, many ways to contribute and participate in the Software and Data 
-Carpentry communities.  
+Carpentry communities.
 
 * Contributing to discussion and development of lessons and policies, via 
 discussions on Github issues/pull requests or email discuss lists
@@ -308,7 +289,7 @@ discussions on Github issues/pull requests or email discuss lists
 * Hosting and organizing workshops
 * Contributing to lessons via raising issues or submitting pull requests
 * Leadership and administrative positions, including being a lesson maintainer,
- or serving on a committee.  
+ or serving on a committee.
  
 Here are some examples of ways that people have contributed to the community: 
 * Show a discussion thread on one of the PRs which contains a change in
@@ -322,7 +303,7 @@ So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The 
 [checkout process]({{ site.root }}/checkout/) to become a fully-fledged instructor will be 
 one way to start connecting to the community and find which area will allow you 
-to contribute best.  
+to contribute best.
 
 ### Governance
 
@@ -335,11 +316,10 @@ if you would like Software Carpentry to take a new direction,
 or would like to do more than teach or develop lessons,
 you are very welcome to put your name forward as a candidate.
 
-## Assessment
-
-What impact do our workshops really have? We would like to know, and
-so would our funders.  In order to find out, we need to improve both
-the assessment we do, and how often we do it.
+> ## Get Connected
+>
+> Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
+{: .challenge}
 
 > ## Feedback on Assessment
 >
@@ -352,42 +332,9 @@ the assessment we do, and how often we do it.
 > What would you add, and what would you drop to make room?
 {: .challenge}
 
-> ## Assessing Ourselves
->
-> We believe that our workshops make researchers more productive.
-> If you were a skeptical department chair,
-> what would you accept as proof of this?
->
-> 1.  Testimonials volunteered by workshop learners are suspect
->     because they are opt-in (people who didn't get anything
->     out of it are less likely to respond than people who did)
->     and because self-assessment is unreliable.
-> 2.  Measuring uptake of tools like GitHub is suspect because
->     people might adopt other things instead, and because
->     we would then need to prove that using version control
->     actually makes someone more productive as a researcher
->     (a claim that that is plausible but unproven).
-> 3.  Comparing the publication and citation rates of workshop
->     participants (the treatment group) with non-participants
->     (the control group) will take years, and may confuse
->     correlation with causation, since the people who take
->     our workshops might be intrinsically more highly
->     motivated or skilled than those who don't.
->
-> Work in small groups to develop and critique other assessments
-> that you think would pass the "skeptical chair" test.
-{: .challenge}
-
-> ## Present a Pitch
->
-> In small groups, take turns presenting a two minute "elevator pitch" for a
-> Software or Data Carpentry workshop, as if you were presenting to your boss,
-> department chair, or similar person in leadership.
-{: .challenge}
-
 [dc-blog]: {{ site.dc_site }}/blog/
 [dc-forum]: http://discuss.datacarpentry.org/
-[dc-github]: https://github.com/datacarpentry/
+[dc-github]: {{ site.dc_github }}
 [dc-join]: {{ site.dc_site }}/involved/
 [dc-lessons]: {{ site.dc_site }}/lessons/
 [dc-request]: {{ site.dc_site}}/workshops-host/

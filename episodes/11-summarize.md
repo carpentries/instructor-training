@@ -1,12 +1,11 @@
 ---
 layout: episode
 title: "Afternoon Wrap-Up"
-teaching: 15
-exercises: 15
+teaching: 10
+exercises: 5
 questions:
 - "What have we learned?"
 ---
-
 As homework overnight,
 please read our [operations guide]({{ site.swc_site }}/workshops/operations/)
 and the checklists it links to.

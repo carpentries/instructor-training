@@ -21,9 +21,9 @@ typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and 
 gives general tips for an effective live coding presentation.
 
-## Why Live Coding?  
+## Why Live Coding?
 
-> Teaching is theater not cinema.  
+> Teaching is theater not cinema.
 > - Neal Davis
 
 We do not use slides in our lessons.
@@ -70,7 +70,7 @@ another.
 > ## Discussion
 > 
 > What are some of the advantages of live coding?  What are 
-> some of the challenges?  
+> some of the challenges?
 {: .challenge}
 
 ## Live Coding Top 10
@@ -213,7 +213,7 @@ something covered earlier.  Novices are going to spend most of their
 time making the same and other mistakes, but how to deal with the is
 left out of most textbooks.
 
-> The typos are the pedagogy  
+> The typos are the pedagogy
 > - [Dana Brunson][brunson-twitter]
 
 ### Have Fun

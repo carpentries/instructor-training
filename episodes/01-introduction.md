@@ -20,7 +20,7 @@ keypoints:
 ---
 
 This section outlines the structure of this two-day course and provides some 
-essential terms for discussion.  
+essential terms for discussion.
 
 ## A Master Class
 
@@ -53,9 +53,9 @@ on these three categories of action.  We will:
   researchers.  Besides general teaching knowledge, we'll also learn about 
   the practices specific to Software and Data Carpentry.
 * **Practice**: We will practice developing teaching tools based on the 
-  theory we learn.  We will have multiple opportunities to practice teaching.  
+  theory we learn.  We will have multiple opportunities to practice teaching.
 * **Participate**: We will give feedback to each other to improve our skills. Everyone 
-  will participate in discussions about teaching and learning.   
+  will participate in discussions about teaching and learning. 
 
 The "secret sauce" of Software and Data Carpentry lies
 not in its lessons or workshops, or even the pedagogical skill of its 
@@ -87,7 +87,7 @@ teaching skills, but to connect instructors:
 ## A Common Language: Terms
 
 The following terms will support the discussions and activities in the rest of the training
-by giving us a common vocabulary to talk about teaching and learning to teach.  
+by giving us a common vocabulary to talk about teaching and learning to teach.
 
 ### Educational Psychology
 
@@ -98,7 +98,7 @@ and the philosophical question of what we actually mean by "learning"
 (which turns out to be pretty complicated once you start looking beyond the standardized Western classroom).
 Within the broad scope of educational psychology,
 two specific perspectives have primarily influenced Software and Data Carpentry's lessons and teaching practices
-(and by extension, this instructor training).  
+(and by extension, this instructor training).
 
 One perspective is *cognitivism*,
 which treats learning as a problem in neuropsychology.
@@ -136,7 +136,7 @@ Situated learning thus describes why we teach,
 and recognizes that teaching and learning is necessarily rooted in a social context.
 We then depend on the cognitivist perspective
 to drive *how* we teach the specific content associated with the community of practice.
-Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.  
+Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.
 
 > ## Something to Think About
 > 
@@ -175,7 +175,7 @@ ID is the engineering.
 > ## Discussion
 >
 > Who has heard of phonics, or learned to read using it?  Who has heard
-> of whole language?  
+> of whole language?
 {: .challenge}
 
 For example,
@@ -259,11 +259,11 @@ we will [see later]({{ site.root }}/08-practices/)
 some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
-techniques for that lesson's content.  
+techniques for that lesson's content.
 
 Finally, this training includes times for discussion, observation, and feedback,
 precisely so that participants are able to share their PCK with each other over
-the course of the next two days.  
+the course of the next two days.
 
 > ## Examples of PCK
 >
@@ -271,6 +271,19 @@ the course of the next two days.
 >     is full of PCK for teaching introductory statistics.
 > *   The [CS Teaching Tips][cs-teaching-tips] site
 >     is gathering similar ideas for computing.
+{: .callout}
+
+> ## Pseudoscience
+>
+> One [well-known scheme][wikipedia-learning-modes]
+> characterizes learners as visual, auditory, or kinesthetic
+> according to whether they like to see things, hear things, or do things.
+> This scheme is easy to understand,
+> but are [almost certainly false][amazon-myths]:
+> what little evidence that does exist for it is very weak.
+> Unfortunately,
+> that hasn't stopped a large number of companies from marketing products based on it
+> to parents and school boards.
 {: .callout}
 
 > ## Three Kinds of Knowledge
