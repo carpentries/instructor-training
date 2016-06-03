@@ -22,7 +22,47 @@ no different from drama, music, or athletics.
 And as in those fields,
 we have a collection of small tips and tricks to make teaching work better.
 
-### Challenges
+## The Code of Conduct
+
+Software Carpentry and Data Carpentry have a shared code of conduct
+(online [here]({{ site.swc_site }}/conduct/) and [here]({{ site.dc_site }}/code-of-conduct/))
+and participants in our workshops are required to abide by it.
+Hosts *must* point people at it during registration,
+and instructors *must* remind attendees of it at the start of the workshop.
+The Code of Conduct doesn't just tell everyone what the rules are:
+it tells them that there *are* rules,
+and that they can therefore expect a comfortable learning experience.
+
+What's the purpose of a Code of Conduct?
+:   A Code of Conduct cannot stop people from being offensive, any more
+    than laws against theft stop people from stealing.  What the CoC
+    *can* do is make expectations and consequences clear.
+
+Do workshop participants ever actually violate the Code of Conduct?
+:   Very rarely, but it has happened.
+
+But what about free speech?
+:   People are free to say what they want, but that doesn't mean they
+    are free to say it in our workshops---particularly not if it is
+    making someone else feel uncomfortable or unwelcome.
+
+What should I do if someone violates the Code of Conduct?
+:   If you are an instructor, and believe that someone in a workshop has
+    violated the Code of Conduct, you may warn them, ask them to
+    apologize, and/or expel them, depending on the severity of the
+    violation and whether or not you believe it was intentional.  No
+    matter what you choose to do, you should contact
+    [admin@software-carpentry.org](mailto:admin@software-carpentry.org)
+    as soon as you can, and describe what happened in the next online
+    debriefing session that you're able to attend.
+
+    You also have the right as an instructor to walk out of a workshop
+    if you feel that the participants or hosts are not supporting your
+    attempts to enforce the Code of Conduct.  Again, please [contact
+    us](mailto:admin@software-carpentry.org) as soon as possible if
+    this happens.
+
+## Challenges
 
 With live coding, it is easy for some learners to fall behind, and for other 
 learners to get bored.  Given the diversity of our learners' backgrounds and skills, we will
@@ -84,15 +124,6 @@ All we can do is tell our learners what we're doing and why,
 and hope that they'll understand.
 
 ## Other Practices
-
-Open with the [code of conduct]({{ site.swc_site }}/conduct/).
-:   Software Carpentry and Data Carpentry share a code of conduct,
-    and participants in our workshops are required to abide by it.
-    Pointing people at it during registration,
-    and reminding them of it at the start of the workshop,
-    doesn't just tell everyone what the rules are:
-    it tells them that there *are* rules,
-    and that they can therefore expect a comfortable learning experience.
 
 Sticky notes.
 :   We give each learner two sticky notes of different colors,
