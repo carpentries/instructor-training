@@ -40,6 +40,10 @@ serve :
 site :
 	${JEKYLL} build --config _config.yml,_config_dev.yml
 
+## check      : validate lesson Markdown.
+check :
+	bin/check-lesson -s . -p bin/markdown-ast.rb
+
 ## clean      : clean up junk files.
 clean :
 	@rm -rf ${DST}

@@ -152,11 +152,8 @@ title: "{LESSON-TITLE}"
 # Contact email address.
 email: {USERNAME}@{SITE-NAME}
 
-# What kind of thing is this ("workshop", "lesson")?
-kind: "workshop"
-
-# Which carpentry is this ("swc", "dc")?
-carpentry: "dc"
+# Is this a workshop site (if not, interpreted as a lesson site)?
+is_workshop: true
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
