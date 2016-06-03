@@ -1,33 +1,25 @@
 {% comment %}
-  Generic footer: prev_episode and next_episode will only be set if this is an episode,
-  so previous/next link arrows will not appear for other kinds of pages.
+  Generic footer.
 {% endcomment %}
 {% include episode_find_prev_next.html %}
 <hr/>
 <footer>
   <div class="row">
-    <div class="col-md-1">
-      <h4>{% if prev_episode %}<a href="{{ site.root }}{{ prev_episode.url }}"><span class="glyphicon glyphicon-menu-left"></span></a>{% endif %}</h4>
-    </div>
-    <div class="col-md-10 footertext">
+    <div class="col-md-6" align="left">
       <h4>
 	Copyright &copy; 2016
 	{% if carpentry == "swc" %} Software Carpentry Foundation {% endif %}
 	{% if carpentry == "dc" %} Data Carpentry {% endif %}
       </h4>
     </div>
-    <div class="col-md-1">
-      <h4>{% if next_episode %}<a href="{{ site.root }}{{ next_episode.url }}"><span class="glyphicon glyphicon-menu-right"></span></a>{% endif %}</h4>
+    <div class="col-md-6" align="right">
+      <h4>
+	<a href="{{ site.repo }}">Source</a>
+	/
+	<a href="{{ site.repo }}/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
+	/
+	<a href="mailto:{{site.email}}">Contact</a>
+      </h4>
     </div>
   </div>
-  <div class="row">
-    <div class="col-md-1"></div>
-    <div class="col-md-10 footertext">
-	<a href="{{ site.repo }}">Source</a>
-	&mdash;
-	<a href="{{ site.repo }}/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
-	&mdash;
-	<a href="mailto:{{site.email}}">Contact</a>
-    </div>
-    <div class="col-md-1"></div>
 </footer>
