@@ -1,12 +1,16 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
+      {% if site.carpentry == "swc" %}
       <a href="{{ site.swc_site }}" class="pull-left">
-        <img class="navbar-logo"
-             {% if site.carpentry == "swc" %}src="{{ site.root }}/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo"{% endif %}
-             {% if site.carpentry == "dc" %}src="{{ site.root }}/assets/img/dc-icon-black.svg" alt="Data Carpentry logo"{% endif %}
-        />
+        <img class="navbar-logo" src="{{ site.root }}/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo" />
       </a>
+      {% endif %}
+      {% if site.carpentry == "dc" %}
+      <a href="{{ site.dc_site }}" class="pull-left">
+        <img class="navbar-logo" src="{{ site.root }}/assets/img/dc-icon-black.svg" alt="Data Carpentry logo" />
+      </a>
+      {% endif %}
       <a class="navbar-brand" href="{{ site.root }}/">Home</a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
