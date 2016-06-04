@@ -65,6 +65,7 @@ def main():
 
     args = parse_args()
     args.reporter = Reporter(args)
+    check_config(args)
     docs = read_all_markdown(args, args.source_dir)
     check_fileset(args, docs)
     for filename in docs.keys():
@@ -93,6 +94,16 @@ def parse_args():
             'Unexpected trailing command-line arguments "{0}"'.format(extras))
 
     return args
+
+
+def check_config(args):
+    '''Check configuration file.'''
+
+    config_file = os.path.join(args.source_dir, '_config.yml')
+    with open(config_file, 'r') as reader:
+        config = yaml.load(reader)
+
+    args.reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
 
 
 def read_all_markdown(args, source_dir):
@@ -216,9 +227,9 @@ class CheckBase(object):
 
         self.reporter.check(self.metadata is not None,
                             self.filename,
-                            'Missing metadata entirely in {0}')
+                            'Missing metadata entirely')
 
-        if self.layout is not None:
+        if self.metadata and (self.layout is not None):
             self.reporter.check_field(self.filename, 'metadata', self.metadata, 'layout', self.layout)
 
 
