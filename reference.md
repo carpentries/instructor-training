@@ -131,6 +131,19 @@ and probably address problems you don't yet know will arise.
     they might not like it if they have paid to attend a course where they hoped to learn something new,
     so find ways to acknowledge their help as well.
 
+### How do Students Become Self-Directed Learners?
+
+1.  Learners can become self-directed when they can <ul><li>Assess the demands of a task<li>Evaluate their own knowledge/skills<li>Plan an approach<li>Monitor their own progress and adjust strategy</ul> Emphasizing these steps can help learners on their path to achieving competence.
+2. Learners come to us with a variety of pre-conceptions on *how to learn* and also if they are 'good' at: 'computers', 'coding', etc. We may need to address unfounded pre-conceptions.
+3. Learners can easily ignore instructors/instructions on how to proceed with an exercise (e.g. "Did they even read the assignment?"). As you assign challenges, remind learners about the point/purpose of the exercises and get their feedback to confirm they understand the goals. **Be more explicit than you may think necessary.**
+4. Learners can be (and usually are) poor judges of their knowledge and skills. 
+5.  Novices spend little time in planning approaches and more time trying to find solutions. Emphasize planning as a first-line strategy to problem solving.
+6. Learners will typically continue with strategies that work moderately well rather than change to a new strategy that would work better.
+7. Asking for peer assessment can be a positive and productive learning experience when everyone is given criteria to give feedback on.
+8. Help learners set realistic expectations. Learners should be able develop a sense of how long it may take to develop particular skills. 
+9. Discuss 'Metacognition' in the classroom. The evidence based teaching style of Software Carpentry is not proprietary or hidden, so share what you know about learning in the classroom and why you are taking certain approaches.
+10. Provide heuristics for self-correction. Learners need to develop a skill for evaluating their own work. While this skill will take time to develop, you can provide 'guideposts' for what their code and results should look like.
+
 ## Books
 
 Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][amazon-hlw]*.
