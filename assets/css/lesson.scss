@@ -14,19 +14,6 @@ $color-output:      #303030 !default;
 $color-source:      #6e5494 !default;
 
 // blockquotes
-
-{% if site.carpentry == "swc" %}
-$color-callout:     #00B3A3 !default;
-$color-challenge:   #cf0039 !default;
-$color-checklist:   #ea7f6a !default;
-$color-keypoints:   #98a546 !default;
-$color-objectives:  #98a546 !default;
-$color-prereq:      #b63d00 !default;
-$color-solution:    #9a7366 !default;
-$color-testimonial: #d99600 !default;
-{% endif %}
-
-{% if site.carpentry == "dc" %}
 $color-callout:     #c4e177 !default;
 $color-challenge:   #f4b4aa !default;
 $color-checklist:   #5ac76e !default;
@@ -35,7 +22,6 @@ $color-objectives:  #cf71a9 !default;
 $color-prereq:      #9cd6dc !default;
 $color-solution:    #e3bb70 !default;
 $color-testimonial: #f4fd9c !default;
-{% endif %}
 
 //----------------------------------------
 // Specialized code blocks.
