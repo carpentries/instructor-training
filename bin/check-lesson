@@ -228,7 +228,7 @@ class CheckBase(object):
             cls = self.get_val(node, 'attr', 'class')
             self.reporter.check(cls in KNOWN_BLOCKQUOTES,
                                 (self.filename, self.get_loc(node)),
-                                'Unknown or missing blockquote type {0} in {1}:{2}',
+                                'Unknown or missing blockquote type {0}',
                                 cls)
 
 
@@ -239,7 +239,7 @@ class CheckBase(object):
             cls = self.get_val(node, 'attr', 'class')
             self.reporter.check(cls in KNOWN_CODEBLOCKS,
                                 (self.filename, self.get_loc(node)),
-                                'Unknown or missing code block type {0} in {1}:{2}',
+                                'Unknown or missing code block type {0}',
                                 cls)
 
 
