@@ -172,12 +172,6 @@ This is called *instructional design* (ID);
 if educational psychology is the science,
 ID is the engineering.
 
-> ## Discussion
->
-> Who has heard of phonics, or learned to read using it?  Who has heard
-> of whole language?
-{: .challenge}
-
 For example,
 most children today are taught to read using a bottom-up technique called
 [phonics][wikipedia-phonics],

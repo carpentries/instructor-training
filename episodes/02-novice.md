@@ -28,16 +28,10 @@ Atoms aren't actually balls,
 and their bonds aren't actually springs,
 but the model does a good job of helping people reason about chemical compounds and their reactions.
 
-> ## Discussion
+> ## Your Mental Models
 >
 > What is your primary research domain?  What is one mental model you use to frame 
 > and understand your work?
-{: .challenge}
-
-> ## Discussion
->
-> What mental model has been provided for thinking about the structure 
-> of this course and the act of teaching?
 {: .challenge}
 
 One way to think about the difference between a novice and a "competent 
@@ -101,10 +95,11 @@ and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
-> ## Discussion
+> ## Manuals vs. Tutorials
 >
-> Define the difference between a manual / tutorial.  Which is more appropriate 
-> for novices?  For competent practitioners?
+> What's the difference between a manual and a tutorial?
+> (Think in terms of the differences between novices and competent practitioners.)
+> Can one document do a good job of being both?
 {: .challenge}
 
 > ## Different Kinds of Lessons
@@ -134,17 +129,12 @@ There are many "positive" strategies towards building mental models.  Analogies,
 stories, role-play, diagrams...all can be a way to represent a structure that 
 can be used as a model.
 
-> ## Discussion
-> 
-> What are some mental models you use in the classroom to teach computing concepts?  What 
-> mental models do you use to think about your work?
-{: .challenge}
-
 However, there's another, greater challenge to creating mental models.
 
 > It ain't what you don't know that gets you into trouble.
 > It's what you know for sure that just ain't so.
 > - Mark Twain
+{: .quotation}
 
 Clearing up learners' misconceptions is therefore as important as 
 presenting them with correct information.
@@ -227,23 +217,27 @@ b) 32
 c) 312
 d) 33
 ~~~
+{: .source}
 
 The correct answer is 42,
-but each of the other answers provides valuable insight:
+but each of the other answers provides valuable insight.
 
-> ## Discussion 
+> ## Find the Bug
 >
 > What is the misconception associated with each wrong answer?
 {: .challenge}
 
-*   If the child answers 32, she is throwing away the carry completely.
-*   If she answers 312, she knows that she can't just discard the carried '1',
-    but doesn't understand that it's actually a ten
-    and needs to be added into the next column.
-    In other words,
-    she is treating each column of numbers as unconnected to its neighbors.
-*   If she answers 33 then she knows she has to carry the 1,
-    but is carrying it back into the same column it came from.
+> ## Solution
+>
+> *   If the child answers 32, she is throwing away the carry completely.
+> *   If she answers 312, she knows that she can't just discard the carried '1',
+>     but doesn't understand that it's actually a ten
+>     and needs to be added into the next column.
+>     In other words,
+>     she is treating each column of numbers as unconnected to its neighbors.
+> *   If she answers 33 then she knows she has to carry the 1,
+>     but is carrying it back into the same column it came from.
+{: .solution}
 
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:
@@ -253,7 +247,7 @@ and (b) kids actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what to explain to that particular learner next.
 
-> ## Discussion
+> ## Handling Outcomes
 > 
 > As the instructor, what should you do if most of the class votes for one 
 > of the wrong answers?  For the right answer?  What if the votes are evenly 
@@ -361,11 +355,6 @@ and how they might be broken ---
 in short,
 to put themselves into the learner's head
 and see the topic from their point of view.
-
-> ## Discussion: 
-> 
-> Name a pro and con of assessing learners as they sign up for a workshop.
-{: .challenge} 
 
 > ## Why We Don't Assess During Registration
 >
