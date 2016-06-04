@@ -36,7 +36,7 @@ URL_PATTERN = r'https?://.+'
 
 DEFAULT_CONTACT_EMAIL = 'admin@software-carpentry.org'
 
-USAGE = 'Usage: "check-workshop [path/to/index.html]"\n'
+USAGE = 'Usage: "check-workshop path/to/index.html"\n'
 
 # Country and language codes.  Note that codes mean different things: 'ar'
 # is 'Arabic' as a language but 'Argentina' as a country.
@@ -339,11 +339,10 @@ def get_header(text):
     return raw, yaml.load(raw)
 
 
-def check_file(filename, data):
+def check_file(filename, data, errors):
     '''Get header from file, call all other functions and check file
     for validity. Return list of errors (empty when no errors).'''
 
-    errors = []
     raw, header = get_header(data)
     if header is None:
         msg = ('Cannot find YAML header in given file "{0}".'.format(filename))
@@ -379,29 +378,34 @@ def check_file(filename, data):
     is_valid &= check_categories(seen_categories, REQUIRED.union(OPTIONAL),
                                  errors, 'There are superfluous categories')
 
-    return errors
+
+def check_config(filename, errors):
+    '''Check YAML configuration file.'''
+
+    with open(filename, 'r') as reader:
+        config = yaml.load(reader)
+
+    if config['kind'] != 'workshop':
+        msg = 'Not configured as a workshop: found "{0}" instead'.format(config['kind'])
+        add_error(msg, errors)
 
 
 def main():
     '''Run as the main program.'''
-    filename = None
-    if len(sys.argv) == 1:
-        if os.path.exists('./index.html'):
-            filename = './index.html'
-        elif os.path.exists('../index.html'):
-            filename = '../index.html'
-    elif len(sys.argv) == 2:
-        filename = sys.argv[1]
 
-    if filename is None:
+    if len(sys.argv) != 2:
         print(USAGE, file=sys.stderr)
         sys.exit(1)
 
-    logger.info('Testing "{0}"'.format(filename))
+    index_file = sys.argv[1]
+    config_file = os.path.join(os.path.dirname(index_file), '_config.yml')
+    logger.info('Testing "{0}" and "{1}"'.format(index_file, config_file))
 
-    with open(filename) as reader:
+    errors = []
+    check_config(config_file, errors)
+    with open(index_file) as reader:
         data = reader.read()
-        errors = check_file(filename, data)
+        check_file(index_file, data, errors)
 
     if errors:
         for m in errors:
