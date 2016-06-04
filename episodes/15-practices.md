@@ -53,17 +53,17 @@ What should I do if someone violates the Code of Conduct?
     violated the Code of Conduct, you may warn them, ask them to
     apologize, and/or expel them, depending on the severity of the
     violation and whether or not you believe it was intentional.  No
-    matter what you choose to do, you should contact Carpentry
-    administrator at
+    matter what you choose to do, you should contact the appropriate
+    Carpentry administrator at
     [admin@software-carpentry.org](mailto:admin@software-carpentry.org)
-    as soon as you can, and describe what happened in the next online
+    or [admin@datacarpentry.org](mailto:admin@datacarpentry.org) as
+    soon as you can, and describe what happened in the next online
     debriefing session that you're able to attend.
 
     You also have the right as an instructor to walk out of a workshop
     if you feel that the participants or hosts are not supporting your
-    attempts to enforce the Code of Conduct.  Again, please [contact
-    us](mailto:admin@software-carpentry.org) as soon as possible if
-    this happens.
+    attempts to enforce the Code of Conduct.  Again, please contact us
+    as soon as possible if this happens.
 
 ## Challenges
 
