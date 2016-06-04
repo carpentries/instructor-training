@@ -47,6 +47,7 @@ KNOWN_BLOCKQUOTES = {
     'keypoints',
     'objectives',
     'prereq',
+    'quotation',
     'solution',
     'testimonial'
 }
