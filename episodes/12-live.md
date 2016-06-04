@@ -25,6 +25,7 @@ gives general tips for an effective live coding presentation.
 
 > Teaching is theater not cinema.
 > - Neal Davis
+{: .quotation}
 
 We do not use slides in our lessons.
 Instead, instructors plug their laptop into the projector
@@ -215,6 +216,7 @@ left out of most textbooks.
 
 > The typos are the pedagogy
 > - [Dana Brunson][brunson-twitter]
+{: .quotation}
 
 ### Have Fun
 

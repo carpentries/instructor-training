@@ -203,6 +203,7 @@ A learner profile for Software Carpentry might be:
 > and how to use R to read these files and calculate the required statistics.
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
+{: .quotation}
 
 ## Existing Lessons
 
