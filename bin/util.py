@@ -29,11 +29,11 @@ class Reporter(object):
     def add(self, location, fmt, *args):
         '''Append error unilaterally.'''
 
-        if type(location) is NoneType:
+        if isinstance(location, type(None)):
             extra = ''
-        elif type(location) is str:
+        elif isinstance(location, str):
             extra = 'at {0}'.format(filename)
-        elif type(location) is tuple:
+        elif isinstance(location, tuple):
             filename, line_number = location
             extra = 'at {0}:{1}'.format(*location)
         else:
