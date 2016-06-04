@@ -32,7 +32,7 @@ class Reporter(object):
         if isinstance(location, type(None)):
             extra = ''
         elif isinstance(location, str):
-            extra = ' at {0}'.format(filename)
+            extra = ' at {0}'.format(location)
         elif isinstance(location, tuple):
             filename, line_number = location
             extra = ' at {0}:{1}'.format(*location)
