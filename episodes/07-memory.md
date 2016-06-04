@@ -25,12 +25,6 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-> ## Discussion
->
-> What is something in which you are an expert?  How do you know that
-> you're an expert?
-{: .challenge}
-
 An [earlier topic]({{ site.root }}/03-models/) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:

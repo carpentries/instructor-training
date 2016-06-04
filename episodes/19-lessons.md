@@ -434,9 +434,11 @@ Wiggins and McTighe use the acronym WHERETO:
 > we want the notes we leave behind to present things in the order described above.
 {: .callout}
 
-> ## Discussion
+> ## Teaching to the Test
 >
 > Is reverse instructional design "teaching to the test"?
+> I.e., does it steer teachers toward getting their students to pass an exam
+> rather than learn things?
 {: .challenge}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".

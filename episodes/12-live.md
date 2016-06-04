@@ -68,10 +68,10 @@ another.
 > [discussed earlier]({{ site.root }}/04-study/).
 {: .callout}
 
-> ## Discussion
+> ## Up and Down
 > 
-> What are some of the advantages of live coding?  What are 
-> some of the challenges?
+> What are some of the advantages and challenges of live coding
+> from both a learner's and an instructor's point of view?
 {: .challenge}
 
 ## Live Coding Top 10
