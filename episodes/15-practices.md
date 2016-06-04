@@ -31,7 +31,7 @@ Hosts *must* point people at it during registration,
 and instructors *must* remind attendees of it at the start of the workshop.
 The Code of Conduct doesn't just tell everyone what the rules are:
 it tells them that there *are* rules,
-and that they can therefore expect a comfortable learning experience.
+and that they can therefore expect a safe and welcoming learning experience.
 
 What's the purpose of a Code of Conduct?
 :   A Code of Conduct cannot stop people from being offensive, any more
@@ -43,15 +43,18 @@ Do workshop participants ever actually violate the Code of Conduct?
 
 But what about free speech?
 :   People are free to say what they want, but that doesn't mean they
-    are free to say it in our workshops---particularly not if it is
-    making someone else feel uncomfortable or unwelcome.
+    are free to say it in our workshops.  As in any classroom, the
+    instructor has the right to sanction students who are being
+    disruptive.
 
 What should I do if someone violates the Code of Conduct?
+
 :   If you are an instructor, and believe that someone in a workshop has
     violated the Code of Conduct, you may warn them, ask them to
     apologize, and/or expel them, depending on the severity of the
     violation and whether or not you believe it was intentional.  No
-    matter what you choose to do, you should contact
+    matter what you choose to do, you should contact Carpentry
+    administrator at
     [admin@software-carpentry.org](mailto:admin@software-carpentry.org)
     as soon as you can, and describe what happened in the next online
     debriefing session that you're able to attend.
