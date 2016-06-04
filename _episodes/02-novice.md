@@ -145,6 +145,7 @@ However, there's another, greater challenge to creating mental models.
 > It ain't what you don't know that gets you into trouble.
 > It's what you know for sure that just ain't so.
 > - Mark Twain
+{: .quotation}
 
 Clearing up learners' misconceptions is therefore as important as 
 presenting them with correct information.
@@ -227,23 +228,27 @@ b) 32
 c) 312
 d) 33
 ~~~
+{: .source}
 
 The correct answer is 42,
-but each of the other answers provides valuable insight:
+but each of the other answers provides valuable insight.
 
 > ## Discussion 
 >
 > What is the misconception associated with each wrong answer?
 {: .challenge}
 
-*   If the child answers 32, she is throwing away the carry completely.
-*   If she answers 312, she knows that she can't just discard the carried '1',
-    but doesn't understand that it's actually a ten
-    and needs to be added into the next column.
-    In other words,
-    she is treating each column of numbers as unconnected to its neighbors.
-*   If she answers 33 then she knows she has to carry the 1,
-    but is carrying it back into the same column it came from.
+> ## Solution
+>
+> *   If the child answers 32, she is throwing away the carry completely.
+> *   If she answers 312, she knows that she can't just discard the carried '1',
+>     but doesn't understand that it's actually a ten
+>     and needs to be added into the next column.
+>     In other words,
+>     she is treating each column of numbers as unconnected to its neighbors.
+> *   If she answers 33 then she knows she has to carry the 1,
+>     but is carrying it back into the same column it came from.
+{: .solution}
 
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:

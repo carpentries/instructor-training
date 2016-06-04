@@ -82,12 +82,14 @@ Please note that:
     Everybody will botch a commit message at some point.  This
     exercise introduces them to an easy way to fix those mistakes.
     ~~~
+    {: .source}
 
     will make life much easier for the maintainer than:
 
     ~~~
     Instructor-training assignment
     ~~~
+    {: .source}
 
 5.  You only have to submit *one* change to move on to the next step,
     not one per Carpentry.

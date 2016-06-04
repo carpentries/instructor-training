@@ -84,6 +84,7 @@ In 2014,
 > they trigger an instinctive survival response.
 > You suppress your concern for other people and focus on your own interests...
 > Terrify the living daylights out of people, and they will protect themselves at the expense of others...
+{: .quotation}
 
 A lot of advocates for open science and reproducible research make the same mistake.
 They frighten people with talk of papers that have been retracted
