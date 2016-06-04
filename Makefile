@@ -1,10 +1,51 @@
+## ========================================
+## Commands for both workshop and lesson websites.
+
 # Settings
 MAKEFILES=Makefile $(wildcard *.mk)
 JEKYLL=jekyll
 DST=_site
 
-# Source files in the order they appear in the navigation menu.
-# This does _not_ include files which are typically unmodified.
+# Controls
+.PHONY : commands clean files
+all : commands
+
+## commands       : show all commands.
+commands :
+	@grep -h -E '^##' ${MAKEFILES} | sed -e 's/## //g'
+
+## serve          : run a local server.
+serve :
+	${JEKYLL} serve --config _config.yml,_config_dev.yml
+
+## site           : build files but do not run a server.
+site :
+	${JEKYLL} build --config _config.yml,_config_dev.yml
+
+## clean          : clean up junk files.
+clean :
+	@rm -rf ${DST}
+	@rm -rf .sass-cache
+	@find . -name .DS_Store -exec rm {} \;
+	@find . -name '*~' -exec rm {} \;
+	@find . -name '*.pyc' -exec rm {} \;
+	@find . -name __pycache__ -exec rm {} \;
+
+## ----------------------------------------
+## Commands specific to workshop websites.
+
+.PHONY : workshop-check
+
+## workshop-check : check workshop homepage.
+workshop-check :
+	bin/check-workshop index.html
+
+## ----------------------------------------
+## Commands specific to lesson websites.
+
+.PHONY : lesson-check lesson-files lesson-fixme lesson-single
+
+# Lesson source files in the order they appear in the navigation menu.
 SRC_FILES = \
   index.md \
   CONDUCT.md \
@@ -14,7 +55,7 @@ SRC_FILES = \
   $(wildcard _extras/*.md) \
   LICENSE.md
 
-# Generated files in the order they appear in the navigation menu.
+# Generated lesson files in the order they appear in the navigation menu.
 HTML_FILES = \
   ${DST}/index.html \
   ${DST}/conduct/index.html \
@@ -24,46 +65,25 @@ HTML_FILES = \
   $(patsubst _extras/%.md,${DST}/%/index.html,$(wildcard _extras/*.md)) \
   ${DST}/license/index.html
 
-# Controls
-.PHONY : commands clean files singlepage
-all : commands
-
-## commands   : show all commands.
-commands :
-	@grep -h -E '^##' ${MAKEFILES} | sed -e 's/## //g'
-
-## serve      : run a local server.
-serve :
-	${JEKYLL} serve --config _config.yml,_config_dev.yml
-
-## site       : build files but do not run a server.
-site :
-	${JEKYLL} build --config _config.yml,_config_dev.yml
-
-## check      : validate lesson Markdown.
-check :
+## lesson-check   : validate lesson Markdown.
+lesson-check :
 	bin/check-lesson -s . -p bin/markdown-ast.rb
 
-## clean      : clean up junk files.
-clean :
-	@rm -rf ${DST}
-	@rm -rf .sass-cache
-	@find . -name .DS_Store -exec rm {} \;
-	@find . -name '*~' -exec rm {} \;
-	@find . -name '*.pyc' -exec rm {} \;
-
-## files      : show expected names of generated files for debugging.
-files :
+## lesson-files   : show expected names of generated files for debugging.
+lesson-files :
 	@echo 'source:' ${SRC_FILES}
 	@echo 'generated:' ${HTML_FILES}
 
-## fixme      : show FIXME markers embedded in source files.
-fixme :
+## lesson-fixme   : show FIXME markers embedded in source files.
+lesson-fixme :
 	@fgrep -i -n FIXME ${SRC_FILES} || true
 
-## singlepage : build hacky single-page version of material (after 'make site').
-singlepage :
+## lesson-single  : build hacky single-page version of material (after 'make site').
+lesson-single :
 	bin/jekyllcat -o '</nav>' -c '<footer' ${HTML_FILES} > _site/singlepage.html
 
+#-------------------------------------------------------------------------------
 # Include extra commands if available.
+#-------------------------------------------------------------------------------
+
 -include commands.mk

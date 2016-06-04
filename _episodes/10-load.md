@@ -33,6 +33,7 @@ In the abstract, they say:
 > instructional approaches that place a strong emphasis on guidance of the student learning process.
 > The advantage of guidance begins to recede only when learners have
 > sufficiently high prior knowledge to provide "internal" guidance.
+{: .quotation}
 
 The paper set off a minor academic firestorm,
 because beneath the jargon the authors were claiming that
@@ -112,7 +113,7 @@ def total_length(words):
         total += len(word)
     return total
 ~~~
-{: .input}
+{: .source}
 
 then ask learners to fill in the blanks in:
 
@@ -124,7 +125,7 @@ def word_lengths(words):
         lengths ____
     return lengths
 ~~~
-{: .input}
+{: .source}
 
 The next problem might be:
 
@@ -136,7 +137,7 @@ def concatenate_all(words):
         ____
     return result
 ~~~~
-{: .input}
+{: .source}
 
 and learners would finally be asked to tackle:
 
@@ -145,7 +146,7 @@ and learners would finally be asked to tackle:
 def acronymize(words):
     ____
 ~~~
-{: .input}
+{: .source}
 
 The key to constructing a good faded example is to think about the problem-solving strategy
 or solution pattern that it is meant to teach.

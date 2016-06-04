@@ -142,6 +142,7 @@ Quoting the [Software Carpentry workshop request page][swc-request]:
 > If you wish to offer a workshop that would further these goals,
 > please contact us regarding a waiver for the administration fee at the nonprofit and for-profit scales.
 > Waivers are not required for self-organized workshops. 
+{: .quotation}
 
 Quoting the [Data Carpentry workshops page][dc-request]:
 
@@ -160,6 +161,7 @@ Quoting the [Data Carpentry workshops page][dc-request]:
 > We work to find local instructors,
 > but suggest that you estimate about $2000 for the travel, food and accomodation of the instructors.
 > The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
+{: .quotation}
 
 ### Materials
 

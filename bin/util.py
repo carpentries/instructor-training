@@ -29,17 +29,17 @@ class Reporter(object):
     def add(self, location, fmt, *args):
         '''Append error unilaterally.'''
 
-        if type(location) is NoneType:
-            extra = ''
-        elif type(location) is str:
-            extra = 'at {0}'.format(filename)
-        elif type(location) is tuple:
+        if isinstance(location, type(None)):
+            coords = ''
+        elif isinstance(location, str):
+            coords = '{0}: '.format(location)
+        elif isinstance(location, tuple):
             filename, line_number = location
-            extra = 'at {0}:{1}'.format(*location)
+            coords = '{0}:{1}: '.format(*location)
         else:
             assert False, 'Unknown location "{0}"/{1}'.format(location, type(location))
 
-        self.messages.append(fmt.format(*args) + extra)
+        self.messages.append(coords + fmt.format(*args))
 
 
     def report(self, stream=sys.stdout):

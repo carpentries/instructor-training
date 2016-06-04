@@ -25,6 +25,7 @@ gives general tips for an effective live coding presentation.
 
 > Teaching is theater not cinema.
 > - Neal Davis
+{: .quotation}
 
 We do not use slides in our lessons.
 Instead, instructors plug their laptop into the projector
@@ -67,10 +68,10 @@ another.
 > [discussed earlier]({{ site.root }}/04-study/).
 {: .callout}
 
-> ## Discussion
+> ## Up and Down
 > 
-> What are some of the advantages of live coding?  What are 
-> some of the challenges?
+> What are some of the advantages and challenges of live coding
+> from both a learner's and an instructor's point of view?
 {: .challenge}
 
 ## Live Coding Top 10
@@ -215,6 +216,7 @@ left out of most textbooks.
 
 > The typos are the pedagogy
 > - [Dana Brunson][brunson-twitter]
+{: .quotation}
 
 ### Have Fun
 

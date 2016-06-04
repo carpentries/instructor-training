@@ -203,6 +203,7 @@ A learner profile for Software Carpentry might be:
 > and how to use R to read these files and calculate the required statistics.
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
+{: .quotation}
 
 ## Existing Lessons
 
@@ -433,9 +434,11 @@ Wiggins and McTighe use the acronym WHERETO:
 > we want the notes we leave behind to present things in the order described above.
 {: .callout}
 
-> ## Discussion
+> ## Teaching to the Test
 >
 > Is reverse instructional design "teaching to the test"?
+> I.e., does it steer teachers toward getting their students to pass an exam
+> rather than learn things?
 {: .challenge}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".

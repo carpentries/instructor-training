@@ -59,6 +59,7 @@ Its core begins with a discussion of what James Stigler discovered during a visi
 > asking students to present their different ideas for how to solve the problem on the chalkboard...
 > Finally, the teacher led a discussion,
 > guiding students to a shared conclusion (We).
+{: .quotation}
 
 It's tempting but wrong to think that this particular teaching technique is Japan's secret sauce.
 The actual key is revealed in the description of Akihiko Takahashi's work.
@@ -85,6 +86,7 @@ What was worse:
 > Of course the American teachers' work fell short of the model set by their best thinkers...
 > Without *jugyokenkyu*, his own classes would have been equally drab.
 > Without *jugyokenkyu*, how could you even teach?
+{: .quotation}
 
 So what does *jugyokenkyu* look like in practice?
 
@@ -132,6 +134,7 @@ So what does *jugyokenkyu* look like in practice?
 > this was the most important lesson:
 > not how to give a lesson, but how to study teaching,
 > using the cycle of *jugyokenkyu* to put...work under a microscope and improve it.
+{: .quotation}
 
 Putting work under a microscope in order to improve it is commonplace in sports and music.
 A professional musician, for example,
@@ -176,6 +179,7 @@ The abstract of the latter paper sums up their findings:
 > Most of the changes occurred locally,
 > without input from outside sources,
 > or involved only personal interaction with other educators.
+{: .quotation}
 
 As reported in [this paper]({{ site.root }}/files/papers/barker-practice-adoption-2015.pdf),
 Barker et al found something similar in 2015:
@@ -196,6 +200,7 @@ Barker et al found something similar in 2015:
 > "cover" material, as well as with classroom layouts. Positive
 > student feedback is taken as strong evidence by faculty that they
 > should continue a practice.
+{: .quotation}
 
 > ## Learning Sideways
 >
