@@ -24,7 +24,7 @@ we have a collection of small tips and tricks to make teaching work better.
 
 ### Challenges
 
-With live coding, it is easy for some learners to fall behind, and for other 
+With live coding, it is easy for some learners to fall behind, and for other
 learners to get bored.  Given the diversity of our learners' backgrounds and skills, we will
 always have a mix of more and less advanced people in our classes.  No
 matter what we teach, and how fast or how slow we go, 20% or more of

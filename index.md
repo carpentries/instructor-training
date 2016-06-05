@@ -11,12 +11,12 @@ while many myths about education have proven remarkably persistent.
 
 ## About This Course
 
-This two-day class has two goals: 
+This two-day class has two goals:
 
 *   Introduce participants to a handful of key research findings
     and show how they can be used to help people learn better and faster.
-*   Introduce participants to the teaching practices that have been adopted by 
-    the Software and Data Carpentry communities, and the overall philosophy 
+*   Introduce participants to the teaching practices that have been adopted by
+    the Software and Data Carpentry communities, and the overall philosophy
     and procedures of both organizations
     in order to prepare them to teach at Software and Data Carpentry workshops.
 

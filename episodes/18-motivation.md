@@ -21,9 +21,9 @@ keypoints:
 - "Measures taken to improve accessibility aid everyone."
 ---
 
-In order for learners to step out into new and familiar terrain, they will 
-need encouragement.  This section discusses typical ways that 
-learners are motivated (and can be demotivated!) and describes ways that communities 
+In order for learners to step out into new and familiar terrain, they will
+need encouragement.  This section discusses typical ways that
+learners are motivated (and can be demotivated!) and describes ways that communities
 of practice can be welcoming (or threatening) to new members.
 
 ## Motivation
@@ -101,11 +101,11 @@ to make sure they're doing at least a few of these things.
 > ## Provide an example of examplishing value before launching into the list
 > Insert a personal story here about how you establish value in the classroom.
 > Or, use Rayna's personal story, which goes like this:
-> In the Unix lesson, we use a haiku to teach grep. 
-> This is a great didatic tool, but it can be hard for learners to see how they can use it in their research. 
-> After the grep lesson, I show a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. I emphasize that the students just learned each of the pieces. 
-> (See https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
-> This way, I connect my bioinformatic users with domain-specific examples using an authentic task that is relevant to their research. 
+> In the Unix lesson, we use a haiku to teach grep.
+> This is a great didatic tool, but it can be hard for learners to see how they can use it in their research.
+> After the grep lesson, I show a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. I emphasize that the students just learned each of the pieces.
+> (See https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
+> This way, I connect my bioinformatic users with domain-specific examples using an authentic task that is relevant to their research.
 {: .callout}
 
 *   Strategies to establish value:
@@ -438,29 +438,29 @@ are always welcome.
 
 
 > ## Motivational Strategies - Brainstorm Challenge
-> **Think** back to a time when you demotivated a student (or when you were demotiated as a student). 
+> **Think** back to a time when you demotivated a student (or when you were demotiated as a student).
 > **Pair** up with your neighbor and discuss what you could have done differently in the situtation.
 > **Share** the de-motivational story in the etherpad.
 >
-> Instructor's guide: review the comments in the ether pad. 
+> Instructor's guide: review the comments in the ether pad.
 > Rather than read all outloud, highlight a few of the things that could have been done differently.
 > This will give everyone some confidence in how to handle these situations in the future.
 {: .challenge}
 
 > ## Demotivational Strategies - Brainstorm Challenge
 > **Think** back to a computational (or other) course you took in the past, and
-> identify one thing the instructor did that motivated you. 
-> **Pair** up with your neighbor and discuss what motivated you. 
+> identify one thing the instructor did that motivated you.
+> **Pair** up with your neighbor and discuss what motivated you.
 > **Share** the motivational story in the etherpad.
 >
-> Instructor's guide: review the comments in the ether pad. 
-> Rather than read all outloud, highlight the common themes 
+> Instructor's guide: review the comments in the ether pad.
+> Rather than read all outloud, highlight the common themes
 > (i.e. establish value, positive expectiations, promote self efficiency)
 > or things that stand out our that you can relate to
 {: .challenge}
 
 > ## Why Do You Teach?
-> We all have a different motivation for teaching, and that is a really good thing! 
+> We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
 > Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
 > Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
