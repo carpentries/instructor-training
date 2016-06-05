@@ -30,11 +30,11 @@ but the model does a good job of helping people reason about chemical compounds 
 
 > ## Your Mental Models
 >
-> What is your primary research domain?  What is one mental model you use to frame 
+> What is your primary research domain?  What is one mental model you use to frame
 > and understand your work?
 {: .challenge}
 
-One way to think about the difference between a novice and a "competent 
+One way to think about the difference between a novice and a "competent
 practitioner" is the existence of this big picture mental model.
 Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
@@ -62,9 +62,9 @@ that model has three stages:
     and so on.
     We will discuss expertise in more detail in [a later lesson]({{ site.root }}/05-expertise/).
 
-We assume that most learners coming to Software/Data Carpentry lessons are novices, 
-and do not have a strong mental model of the concepts we are teaching.  Thus, our 
-primary goal is *not* 
+We assume that most learners coming to Software/Data Carpentry lessons are novices,
+and do not have a strong mental model of the concepts we are teaching.  Thus, our
+primary goal is *not*
 to teach the syntax of a particular programming language,
 but to teach people how to think about programming
 (and about using computers in research more generally).
@@ -125,8 +125,8 @@ and without which people cannot understand how to use commands
 
 ## Building Useful Mental Models
 
-There are many "positive" strategies towards building mental models.  Analogies, 
-stories, role-play, diagrams...all can be a way to represent a structure that 
+There are many "positive" strategies towards building mental models.  Analogies,
+stories, role-play, diagrams...all can be a way to represent a structure that
 can be used as a model.
 
 However, there's another, greater challenge to creating mental models.
@@ -136,7 +136,7 @@ However, there's another, greater challenge to creating mental models.
 > - Mark Twain
 {: .quotation}
 
-Clearing up learners' misconceptions is therefore as important as 
+Clearing up learners' misconceptions is therefore as important as
 presenting them with correct information.
 Broadly speaking,
 their misconceptions may fall into three categories:
@@ -152,10 +152,10 @@ their misconceptions may fall into three categories:
     These usually cannot be addressed in class,
     since they are deeply connected to the learner's social identity
     and cannot be reasoned away.
-  
-Again, since Software and Data Carpentry are focused on novices, and the building of 
+
+Again, since Software and Data Carpentry are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
-While teaching, we want to expose broken models so that we can help diagnose and 
+While teaching, we want to expose broken models so that we can help diagnose and
 provide better ones.
 
 > ## What Happens Next?
@@ -174,7 +174,7 @@ provide better ones.
 
 ## Assessing Mental Models
 
-How do we expose misconceptions, especially as they pertain to broken models?  How 
+How do we expose misconceptions, especially as they pertain to broken models?  How
 can we, in-class, know whether the learners already understand this topic
 (so that the class can move on),
 and if not,
@@ -248,16 +248,16 @@ and (b) kids actually don't find them funny.
 what to explain to that particular learner next.
 
 > ## Handling Outcomes
-> 
-> As the instructor, what should you do if most of the class votes for one 
-> of the wrong answers?  For the right answer?  What if the votes are evenly 
+>
+> As the instructor, what should you do if most of the class votes for one
+> of the wrong answers?  For the right answer?  What if the votes are evenly
 > spread between options?
 {: .challenge}
 
-If the majority of the class votes for a single wrong answer, you should go back 
+If the majority of the class votes for a single wrong answer, you should go back
 and work on correcting that particular misconception.  If most of the class votes
-for the right answer, it's probably safe to move on.  If answers are pretty evenly 
-split between options, learners are probably guessing randomly and it's a good 
+for the right answer, it's probably safe to move on.  If answers are pretty evenly
+split between options, learners are probably guessing randomly and it's a good
 idea to go back to a point where everyone was on the same page.
 
 Ideally,
@@ -284,7 +284,7 @@ in which you were going to explain something that your learners already know.
 > it has been studied extensively in a wide variety of contexts, including programming.
 > When it is used,
 > the basic learning cycle is typically something like this:
-> 
+>
 > 1.  Give a brief introduction to the topic.
 > 2.  Give students an MCQ that probes for misconceptions
 >     (rather than simple factual knowledge).
@@ -305,7 +305,7 @@ in which you were going to explain something that your learners already know.
 > or if further explanation is necessary.
 > A final round of additional explanation and discussion after the correct answer is presented
 > gives students one more chance to solidify their understanding.
-> 
+>
 > Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
 > Despite this,
 > we usually do not use it in our workshops because
@@ -388,7 +388,7 @@ and see the topic from their point of view.
 
 > ## Modeling Instruction
 >
-> There have been many "models" of teaching/learning in the past.  What 
+> There have been many "models" of teaching/learning in the past.  What
 > model do you currently use (sub-consciously or consciously)?
 {: .challenge}
 
