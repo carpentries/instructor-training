@@ -19,7 +19,7 @@ keypoints:
 - "Pedagogical content knowledge: connects general understanding of teaching to domain-specific content."
 ---
 
-This section outlines the structure of this two-day course and provides some 
+This section outlines the structure of this two-day course and provides some
 essential terms for discussion.
 
 ## A Master Class
@@ -30,45 +30,45 @@ favorite is to compare teachers to actors, musicians, athletes, and
 other performing artists.  To become an accomplished performer, one
 must do the following:
 
-* **Learn**: Learn the theory and best practices of your art, make 
+* **Learn**: Learn the theory and best practices of your art, make
   choices about your approach, make a plan to train or practice
-* **Practice**: Put your theoretical ideas into practice, repeat the 
+* **Practice**: Put your theoretical ideas into practice, repeat the
   desired skill over and over
-* **Participate**: Watch other performers, have a coach or community 
-  where you can get new ideas, ask questions, and received feedback 
+* **Participate**: Watch other performers, have a coach or community
+  where you can get new ideas, ask questions, and received feedback
   on your performance
 
 One way that classical musicians weave together this type of training
 is a *master class*.  In a master class, a group of students meet with
-a master performer.  As a group, the students learn from the master, 
+a master performer.  As a group, the students learn from the master,
 practice their skills, and perform for each other with
 the goal of receiving feedback and improving their performance.  Not
 only is a master class a chance to practice and learn, it represents
 the performers' membership and participation in a larger community.
 
-This training aims to be a "master class" in teaching, touching 
-on these three categories of action.  We will: 
+This training aims to be a "master class" in teaching, touching
+on these three categories of action.  We will:
 
-* **Learn**: We will learn about how people learn, based on the findings of education 
-  researchers.  Besides general teaching knowledge, we'll also learn about 
+* **Learn**: We will learn about how people learn, based on the findings of education
+  researchers.  Besides general teaching knowledge, we'll also learn about
   the practices specific to Software and Data Carpentry.
-* **Practice**: We will practice developing teaching tools based on the 
+* **Practice**: We will practice developing teaching tools based on the
   theory we learn.  We will have multiple opportunities to practice teaching.
-* **Participate**: We will give feedback to each other to improve our skills. Everyone 
-  will participate in discussions about teaching and learning. 
+* **Participate**: We will give feedback to each other to improve our skills. Everyone
+  will participate in discussions about teaching and learning.
 
 The "secret sauce" of Software and Data Carpentry lies
-not in its lessons or workshops, or even the pedagogical skill of its 
+not in its lessons or workshops, or even the pedagogical skill of its
 instructors, but in the community of people who are
 dedicated to teaching computing and data skills as well as they
 possibly can.  The goal of this training is thus not only to strengthen instructors'
-teaching skills, but to connect instructors: 
+teaching skills, but to connect instructors:
 
 * to each other in a local community
 * to the larger community of Software and Data Carpentry instructors
 
 > ## Key Readings
-> 
+>
 > The best overview of research results in education and learning is
 > Ambrose et al's *[How Learning Works][amazon-hlw]*,
 > which is also an excellent example of what secondary literature ought to look like.
@@ -76,7 +76,7 @@ teaching skills, but to connect instructors:
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
 > and what we should be doing instead.
-> 
+>
 > Shorter pieces include
 > Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
 > and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
@@ -139,11 +139,11 @@ to drive *how* we teach the specific content associated with the community of pr
 Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.
 
 > ## Something to Think About
-> 
+>
 > Throughout the day, take note of how this training is structured.
 > What pieces exemplify the situated learning perspective,
 > i.e., how are you, as an instructor-in-training, being brought into a new community of practice?
-> Are there any places where we are using the cognitivist ideas/techniques described later in the training? 
+> Are there any places where we are using the cognitivist ideas/techniques described later in the training?
 {: .challenge}
 
 > ## Other Perspectives

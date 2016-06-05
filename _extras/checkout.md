@@ -8,28 +8,28 @@ discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
 After you have finished the two-day training class,
-you must go through these steps in order to complete your training and be 
+you must go through these steps in order to complete your training and be
 fully certified as a Data and/or Software Carpentry instructor:
 
 1.  Submit a [small change to one of our lessons](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
-These checkout steps aim to introduce you to key components of being a Software 
-and Data Carpentry instructor that are difficult to fully cover in the classroom 
-setting of the two-day training.  These are: 
+These checkout steps aim to introduce you to key components of being a Software
+and Data Carpentry instructor that are difficult to fully cover in the classroom
+setting of the two-day training.  These are:
 
-1.  Contributing to our lesson materials.  As our materials are developed by the 
-    community, we want to ensure that all instructors know where and how to contribute 
+1.  Contributing to our lesson materials.  As our materials are developed by the
+    community, we want to ensure that all instructors know where and how to contribute
     to our materials, particularly so that you can contribute in the future.
 
-2.  Participating in the larger Software/Data Carpentry instructor community.  We 
-    include the discussion session in the checkout because we hear 
-    from many instructors that one of their favorite aspects of being an 
+2.  Participating in the larger Software/Data Carpentry instructor community.  We
+    include the discussion session in the checkout because we hear
+    from many instructors that one of their favorite aspects of being an
     Software/Data instructor is meeting and talking with other instructors in the community.
 
-3.  Practicing and confirming the skills you need to teach on your own.  Before 
-    signing up for a workshop, you can have the practice of preparing a lesson and 
+3.  Practicing and confirming the skills you need to teach on your own.  Before
+    signing up for a workshop, you can have the practice of preparing a lesson and
     doing a brief session of live coding.
 
 We would like to get everyone through this process within two months of training.
@@ -144,7 +144,7 @@ The lessons you may submit to are:
 
 After you have submitted a change to one of our lessons,
 the next step is to take part in an hour-long discussion session
-led by an experienced instructor. 
+led by an experienced instructor.
 This session gives you a change to familiarize yourself with a particular lesson
 and clarify anything that may be unclear about our operations in general.
 
@@ -167,9 +167,9 @@ make notes about the following:
 2. Was there anything that you found unclear in the material?
    Did you get stuck anywhere?
 3. What are some misconceptions that the students could develop when learning this material?
-   Which bits of the module may be tricky and if poorly explained, they may lead the students to broken mental model? 
+   Which bits of the module may be tricky and if poorly explained, they may lead the students to broken mental model?
 4. What prior knowledge do learners need to have before participating in this module (whole lesson)?
-   If you were to list any prerequsites, what would they be? 
+   If you were to list any prerequsites, what would they be?
 
 The first two questions are intended to help you become more comfortable with
 [our collaborative lesson development methods][blog-collab-lesson].

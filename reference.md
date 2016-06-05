@@ -71,7 +71,7 @@ and probably address problems you don't yet know will arise.
 1.  If the learner comes with incorrect information or misunderstands how the new knowledge relates to their past experience,
     their learning can be hindered until they understand the misconception.
 1.  The nature of misconceptions is that the learner will not realise they have them.
-    Specifically, if asked they may well report that they understand the situation. 
+    Specifically, if asked they may well report that they understand the situation.
 1.  Testing knowledge (e.g., doing diagnostic assessment with well-designed multiple choice questions)
     will reveal the misconceptions and form a basis for correcting them.
 1.  Well-crafted challenges will provide the learner with information about their understanding.
@@ -86,7 +86,7 @@ and probably address problems you don't yet know will arise.
     students may dismiss it as unimportant
     or and switch off to conserve energy because they believe they already understand.
     Some humour or an interesting story will allow you to keep engagement
-    while speaking directly to most people's experiences. 
+    while speaking directly to most people's experiences.
 1.  Analogies are useful in connecting past understanding to a current problem,
     but be explicit about how it applies to the situation
     because the learner may not understand where the analogy breaks down or stops being applicable.
@@ -99,14 +99,14 @@ and probably address problems you don't yet know will arise.
     acknowledge that we are teaching them one way to do things,
     but there are many many tools that could be used to do the same thing (version control, visualisation, etc).
 1.  Examine your assumptions about students:
-    don't expect people to be able (or unable) to do a specific task based on their race, gender, age, experience). 
+    don't expect people to be able (or unable) to do a specific task based on their race, gender, age, experience).
 1.  Reduce anonymity:
     try to remember names (or encourage learners to wear their badges),
     provide opportunity for learners to interact during breaks,
     and as instructor,
     remember to interact as well rather than reading emails during break and looking aloof.
 1.  Establish and reinforce ground rules for interaction:
-    refer to the code of conduct and have a plan of action for when the code of conduct is breached. 
+    refer to the code of conduct and have a plan of action for when the code of conduct is breached.
 1.  Use the syllabus and first day of class to establish the course climate:
     sticking to the published agenda and course timings is one of the things that we get the most consistent positive comment about.
     Tell learners what they can expect and keep to what you told them.
