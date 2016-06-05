@@ -267,11 +267,11 @@ repository, and consists of narrative lesson material and an
 associated directory containing the data or scripts needed in the
 lesson.  This source material is also then served as a website, using
 GitHubs "gh-pages" feature.
- 
+
 Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced 
-as issues, discussed by the community, and addressed via a pull 
-request, which serves as a "request" to make changes, and can also 
+and "pull requests".  New problems or suggestions can be introduced
+as issues, discussed by the community, and addressed via a pull
+request, which serves as a "request" to make changes, and can also
 be discussed before changes are merged.
 
 ### Lesson Incubation
@@ -280,10 +280,10 @@ FIXME: how to add new lessons
 
 > ## Many Ways to Contribute
 >
-> We recognize that the medium of GitHub may be restrictive to those 
-> who wish to contribute to our lessons.  We are always searching for 
-> ways to make the process more friendly to all, whether that be 
-> contribution training, or alternative routes to contribution.  If you 
+> We recognize that the medium of GitHub may be restrictive to those
+> who wish to contribute to our lessons.  We are always searching for
+> ways to make the process more friendly to all, whether that be
+> contribution training, or alternative routes to contribution.  If you
 > have any ideas how we might make contribution more contributor-friendly,
 > please let us know.
 {: .callout}

@@ -15,7 +15,7 @@ keypoints:
 - "Use faded examples to focus attention when learning."
 ---
 
-In our final topic in educational psychology, we'll be learning more about human memory: 
+In our final topic in educational psychology, we'll be learning more about human memory:
 specifically how to remove unnecessary "load" in order to facilitate learning.
 
 ## Battling Theories
@@ -164,7 +164,7 @@ to create the final result.
 > *   novice learners (knowing only basics of computer programming);
 > *   more advanced learners (with some experience in programming but in a language different than Python).
 >
-> Try to identify 3 different kinds of cognitive load (germane, intrinsic, and extraneous) for these two groups of learners. 
+> Try to identify 3 different kinds of cognitive load (germane, intrinsic, and extraneous) for these two groups of learners.
 > What differences between these groups can you notice?
 {: .challenge}
 

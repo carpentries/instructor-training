@@ -15,10 +15,10 @@ keypoints:
 - "The mistakes are the pedagogy."
 ---
 
-One of the cornerstones of Software and Data Carpentry teaching is live 
-coding: instructors don't use slides, but work through the lesson material, 
-typing in the code or instructions, with the workshop participants following 
-along. This section explains how it works, why we use it, and 
+One of the cornerstones of Software and Data Carpentry teaching is live
+coding: instructors don't use slides, but work through the lesson material,
+typing in the code or instructions, with the workshop participants following
+along. This section explains how it works, why we use it, and
 gives general tips for an effective live coding presentation.
 
 ## Why Live Coding?
@@ -69,14 +69,14 @@ another.
 {: .callout}
 
 > ## Up and Down
-> 
+>
 > What are some of the advantages and challenges of live coding
 > from both a learner's and an instructor's point of view?
 {: .challenge}
 
 ## Live Coding Top 10
 
-Below follow ten tips to help you get started with effective live coding: 
+Below follow ten tips to help you get started with effective live coding:
 
 ### Be Seen and Heard
 
@@ -163,7 +163,7 @@ from social media, email, etc.  Seeing notifications flash by on the
 screen distracts you as well as the learners - and may even result in
 awkward situations when a message pops up you'd rather not have others
 see.
- 
+
 ### Stick to the Lesson Material
 
 The core Software and Data Carpentry lessons are developed
