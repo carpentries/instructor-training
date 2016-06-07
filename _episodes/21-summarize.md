@@ -9,7 +9,7 @@ questions:
 The final steps in qualifying as an instructor are to:
 
 1.  submit a change to one of our lessons,
-2.  take part in a discussion session with experienced instructors, and
+2.  take part in a [discussion session](http://pad.software-carpentry.org/instructor-discussion) with experienced instructors, and
 3.  do a 5-minute live coding demo.
 
 [This page]({{ site.root }}/checkout/) explains the procedure in
