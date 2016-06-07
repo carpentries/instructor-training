@@ -3,7 +3,7 @@ title: "The Carpentries"
 teaching: 60
 exercises: 0
 questions:
-- "How are Software and Data Carpentry organized and run??"
+- "How are Software and Data Carpentry organized and run?"
 objectives:
 - "Summarize the history and structure of the Software and Data Carpentry organizations."
 - "Describe at least three similarities and differences between Software and Data Carpentry workshops."
