@@ -59,6 +59,15 @@ KNOWN_CODEBLOCKS = {
     'source'
 }
 
+# What fields are required in episode metadata?
+EPISODE_METADATA_FIELDS = {
+    ('title', str),
+    ('teaching', int),
+    ('exercises', int),
+    ('questions', list),
+    ('objectives', list),
+    ('keypoints', list)
+}
 
 def main():
     '''Main driver.'''
@@ -311,7 +320,7 @@ class CheckNonJekyll(CheckBase):
     def check_metadata(self):
         self.reporter.check(self.metadata is None,
                             self.filename,
-                            'Unexpected metadata in {0}')
+                            'Unexpected metadata')
 
 
 class CheckIndex(CheckBase):
@@ -327,6 +336,15 @@ class CheckEpisode(CheckBase):
 
     def __init__(self, args, filename, metadata, metadata_len, doc):
         super(CheckEpisode, self).__init__(args, filename, metadata, metadata_len, doc)
+
+    def check_metadata(self):
+        super(CheckEpisode, self).check_metadata()
+        if self.metadata:
+            for (name, type_) in EPISODE_METADATA_FIELDS:
+                self.reporter.check(type(self.metadata.get(name, None)) == type_,
+                                    self.filename,
+                                    '"{0}" missing, empty, or has wrong type in metadata',
+                                    name)
 
 
 class CheckReference(CheckBase):
