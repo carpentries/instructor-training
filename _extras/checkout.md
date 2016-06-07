@@ -11,7 +11,7 @@ After you have finished the two-day training class,
 you must go through these steps in order to complete your training and be
 fully certified as a Data and/or Software Carpentry instructor:
 
-1.  Submit a [small change to one of our lessons](#lesson-change).
+1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
@@ -42,6 +42,14 @@ to discuss reasons and options.
 Our lessons are maintained and improved by the people who teach them,
 so this part of the checkout procedure gives you a chance to familiarize yourself
 with our collaborative curriculum development process.
+
+Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
+
+1. Submitting a change request to fix an existing issue.
+2. Proof-reading a lesson and adding a new issue describing something to be improved.
+3. Providing substantive feedback on an existing issue or PR.
+
+Trainees must do their work on one of the lessons for which we are currently seeking improvements. We encourage trainees to submit their changes through GitHub, but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
 
 Pick one of the lessons from the list given later in this section
 and submit a *small* change.
