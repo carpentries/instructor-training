@@ -78,10 +78,6 @@ lesson-files :
 lesson-fixme :
 	@fgrep -i -n FIXME ${SRC_FILES} || true
 
-## lesson-single  : build hacky single-page version of material (after 'make site').
-lesson-single :
-	bin/jekyllcat -o '</nav>' -c '<footer' ${HTML_FILES} > _site/singlepage.html
-
 #-------------------------------------------------------------------------------
 # Include extra commands if available.
 #-------------------------------------------------------------------------------
