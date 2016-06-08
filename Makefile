@@ -38,7 +38,7 @@ clean :
 
 ## workshop-check : check workshop homepage.
 workshop-check :
-	bin/check-workshop index.html
+	bin/workshop-check index.html
 
 ## ----------------------------------------
 ## Commands specific to lesson websites.
@@ -67,7 +67,7 @@ HTML_FILES = \
 
 ## lesson-check   : validate lesson Markdown.
 lesson-check :
-	bin/check-lesson -s . -p bin/markdown-ast.rb
+	bin/lesson-check -s . -p bin/markdown-ast.rb
 
 ## lesson-files   : show expected names of generated files for debugging.
 lesson-files :
