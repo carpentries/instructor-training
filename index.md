@@ -1,5 +1,5 @@
 ---
-layout: lesson_homepage
+layout: lesson
 ---
 
 Over the last hundred years,
