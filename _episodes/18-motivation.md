@@ -357,6 +357,22 @@ for teaching about and dealing with imposter syndrome.
 > they can work together to implement what they've learned.
 {: .callout}
 
+> ## Why Do You Teach? Challenge
+> We all have a different motivation for teaching, and that is a really good thing!
+> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
+> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
+> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
+{: .challenge}
+
+> ## What Do You Believe About Teaching? Challenge
+>
+> Complete the [Teaching Perspectives Inventory][tpi].
+> Do you agree with what it says about your view of teaching?
+> Do you think the questionnaire is valuable and credible?
+{: .challenge}
+
+
+
 ### Mindset
 
 Learners can be demotivated in subtler ways as well.
@@ -460,21 +476,6 @@ are always welcome.
 >     font choices, general text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
-
-
-> ## Why Do You Teach?
-> We all have a different motivation for teaching, and that is a really good thing!
-> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
-> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
-> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-{: .challenge}
-
-> ## What Do You Believe About Teaching?
->
-> Complete the [Teaching Perspectives Inventory][tpi].
-> Do you agree with what it says about your view of teaching?
-> Do you think the questionnaire is valuable and credible?
-{: .challenge}
 
 > ## Thought Record
 >
