@@ -367,8 +367,7 @@ for teaching about and dealing with imposter syndrome.
 > ## What Do You Believe About Teaching? Challenge
 >
 > Complete the [Teaching Perspectives Inventory][tpi].
-> Do you agree with what it says about your view of teaching?
-> Do you think the questionnaire is valuable and credible?
+> Are you surprised about what it says about your view of teaching?
 {: .challenge}
 
 
