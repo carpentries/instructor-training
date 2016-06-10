@@ -401,6 +401,20 @@ and subsequently achieve more.  Studies have also shown that
 the simple action of telling learners about the different mindsets
 before a course can improve learning outcomes for the whole group.
 
+> ## Thought Record
+>
+> Remember a time when you felt like you didn't know what you were doing.
+> Describe the emotions that you felt (such as sad, anxious, scared).
+>
+> *   Where were you? What were you doing? With whom?
+> *   What thoughts were going through your mind at this time?
+> *   What facts or evidence support these thoughts?
+> *   What facts or evidence do not support these thoughts?
+>
+> Write an alternative thought that takes this evidence into account.
+> How do you feel about this situation now?
+{: .challenge}
+
 ## Accessibility
 
 Not providing equal access to lessons and exercises
@@ -476,20 +490,6 @@ are always welcome.
 >     font choices, general text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
-
-> ## Thought Record
->
-> Remember a time when you felt like you didn't know what you were doing.
-> Describe the emotions that you felt (such as sad, anxious, scared).
->
-> *   Where were you? What were you doing? With whom?
-> *   What thoughts were going through your mind at this time?
-> *   What facts or evidence support these thoughts?
-> *   What facts or evidence do not support these thoughts?
->
-> Write an alternative thought that takes this evidence into account.
-> How do you feel about this situation now?
-{: .challenge}
 
 > ## Accessibility Testing
 >
