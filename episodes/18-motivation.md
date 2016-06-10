@@ -89,6 +89,16 @@ It is also *tangible*:
 if the image comes out the wrong size,
 learners have a concrete starting point for debugging.
 
+> ## Authentic Tasks: Think, pair, share
+>
+> **Think** about something you did this week that uses one or more of the skills we teach,
+> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
+> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
+> **Pair** up with your neighbor and decide where this exercise fists on a 2x2 plot of "time to master" and "usefulness"?
+> In the class etherpad, **share** the task and where its fits on the 2x2 plot.
+> As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
+{: .challenge}
+
 ## Strategies for Motivating Learners
 
 *[How Learning Works][amazon-hlw]*
@@ -419,14 +429,6 @@ are always welcome.
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
 
-> ## Authentic Tasks: Think, pair, share
->
-> **Think** about something you did this week that uses one or more of the skills we teach,
-> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
-> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fists on a 2x2 plot of "time to master" and "usefulness"?
-> In the class etherpad, **share** the task and where its fits on the 2x2 plot.
-{: .challenge}
 
 > ## Motivational Checklist
 >
