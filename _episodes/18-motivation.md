@@ -140,6 +140,28 @@ to make sure they're doing at least a few of these things.
     1.  Provide flexibility and control.
     2.  Give students an opportunity to reflect.
 
+> ## Motivational Strategies - Brainstorm Challenge
+> **Think** back to a computational (or other) course you took in the past, and
+> identify one thing the instructor did that motivated you.
+> **Pair** up with your neighbor and discuss what motivated you.
+> **Share** the motivational story in the etherpad.
+>
+> Instructor's guide: review the comments in the ether pad.
+> Rather than read all outloud, highlight the common themes
+> (i.e. establish value, positive expectiations, promote self efficiency)
+> or things that stand out our that you can relate to.
+> Note: this exercise can be done before or going through the above list.
+{: .challenge} 
+
+> ## Motivational Checklist Challenge
+>
+> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
+> to the motivational checklist presented earlier.
+> What is the lesson doing (if anything) to engage learners
+> and convince them its material is worth mastering?
+{: .challenge}
+
+
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
@@ -207,11 +229,21 @@ to alienate a classroom and cause learners to tune out.
 > and about what kind of learning experience they can expect.
 {: .callout}
 
-> ## Personal Story About Demotivation
+> ## Personal Story About Demotivation Challenge
 >
 > Write a paragraph or two about something that happened in your educational career
 > that demotivated you, and explain what could have been done afterward to fix it.
 > After everyone has completed, draw out common demotivational themes.
+{: .challenge}
+
+> ## Demotivational Experience - Brainstorm Challenge
+> **Think** back to a time when you demotivated a student (or when you were demotiated as a student).
+> **Pair** up with your neighbor and discuss what you could have done differently in the situtation.
+> **Share** the de-motivational story in the etherpad.
+>
+> Instructor's guide: review the comments in the ether pad.
+> Rather than read all outloud, highlight a few of the things that could have been done differently.
+> This will give everyone some confidence in how to handle these situations in the future.
 {: .challenge}
 
 ### Stereotype Threat
@@ -429,37 +461,6 @@ are always welcome.
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
 
-
-> ## Motivational Checklist
->
-> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
-> to the motivational checklist presented earlier.
-> What is the lesson doing (if anything) to engage learners
-> and convince them its material is worth mastering?
-{: .challenge}
-
-
-> ## Motivational Strategies - Brainstorm Challenge
-> **Think** back to a time when you demotivated a student (or when you were demotiated as a student).
-> **Pair** up with your neighbor and discuss what you could have done differently in the situtation.
-> **Share** the de-motivational story in the etherpad.
->
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight a few of the things that could have been done differently.
-> This will give everyone some confidence in how to handle these situations in the future.
-{: .challenge}
-
-> ## Demotivational Strategies - Brainstorm Challenge
-> **Think** back to a computational (or other) course you took in the past, and
-> identify one thing the instructor did that motivated you.
-> **Pair** up with your neighbor and discuss what motivated you.
-> **Share** the motivational story in the etherpad.
->
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight the common themes
-> (i.e. establish value, positive expectiations, promote self efficiency)
-> or things that stand out our that you can relate to
-{: .challenge}
 
 > ## Why Do You Teach?
 > We all have a different motivation for teaching, and that is a really good thing!
