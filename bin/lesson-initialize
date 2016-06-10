@@ -200,7 +200,7 @@ highlighter: false
 
 ROOT_INDEX_MD = '''\
 ---
-layout: lesson_homepage
+layout: lesson
 ---
 FIXME: home page introduction
 
