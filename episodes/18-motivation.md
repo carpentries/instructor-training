@@ -296,6 +296,20 @@ to implement these ideas are:
 [This website][reduce-stereotype-threat] has more suggestions
 and links to further reading.
 
+> ## Never Learn Alone
+>
+> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
+> rather than as individuals.
+> If an entire lab group comes,
+> or if attendees are drawn from the same (or closely-related) disciplines,
+> everyone in the room will know in advance
+> that they will be with at least a few people they trust,
+> which increases the chances of them actually coming.
+> It also helps after the workshop:
+> if people come with their labmates,
+> they can work together to implement what they've learned.
+{: .callout}
+
 ### Impostor Syndrome
 
 [Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
@@ -342,20 +356,6 @@ it's much more important to *be* smart than to *look* smart.
 The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
-
-> ## Never Learn Alone
->
-> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
-> rather than as individuals.
-> If an entire lab group comes,
-> or if attendees are drawn from the same (or closely-related) disciplines,
-> everyone in the room will know in advance
-> that they will be with at least a few people they trust,
-> which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
-{: .callout}
 
 > ## Why Do You Teach? Challenge
 > We all have a different motivation for teaching, and that is a really good thing!
