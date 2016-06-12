@@ -248,6 +248,15 @@ keypoints:
 ---
 '''
 
+EXTRAS_ABOUT_MD = '''\
+---
+layout: page
+title: About
+permalink: /about/
+---
+{% include carpentries.html %}
+'''
+
 EXTRAS_DISCUSS_MD = '''\
 ---
 layout: page
@@ -275,6 +284,7 @@ BOILERPLATE = (
     ('reference.md', ROOT_REFERENCE_MD),
     ('setup.md', ROOT_SETUP_MD),
     ('_episodes/01-introduction.md', EPISODES_INTRODUCTION_MD),
+    ('_extras/about.md', EXTRAS_ABOUT_MD),
     ('_extras/discuss.md', EXTRAS_DISCUSS_MD),
     ('_extras/guide.md', EXTRAS_GUIDE_MD)
 )
