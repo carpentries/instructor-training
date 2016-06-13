@@ -174,14 +174,15 @@ to create the final result.
 > What problem-solving strategy does it teach?
 {: .challenge}
 
-
-> ## Create a Faded Example from a SWC Lesson
+> ## Create a Faded Example from a Lesson
 >
-> 1. Get in groups of 2 or 3.
-> 2. Pick a block line of code from on of the following SWC lessons: [R ggplot lesson](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html), the [Python for loop lesson](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html), or the [Shell for loop lesson](http://swcarpentry.github.io/shell-novice/04-loop.html).
-> Replace 2 or 3 pieces of the code with a blank.
-> Write a question to test the students ability to correctly fill in that blank.
-> Paste you're faded example in the etherpad.
+> The following exercise should be done in groups of 2-3.
+>
+> 1.  Pick a block of code from an existing Software or Data Carpentry lesson.
+>     (Your instructor will post links to the lessons in the Etherpad.)
+> 2.  Replace 2-3 pieces of the code with a blank.
+> 3.  Write a question to test the student's ability to correctly fill in that blank.
+> 4.  Paste your faded example in the etherpad.
 {: .challenge}
 
 ## Parsons Problems
