@@ -45,16 +45,20 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1. Submitting a change request to fix an existing issue.
-2. Proof-reading a lesson and adding a new issue describing something to be improved.
-3. Providing substantive feedback on an existing issue or PR.
+1.  Submitting a change request to fix an existing issue.
+2.  Proof-reading a lesson and adding a new issue describing something to be improved.
+3.  Providing substantive feedback on an existing issue or PR.
 
-Trainees must do their work on one of the lessons for which we are currently seeking improvements. We encourage trainees to submit their changes through GitHub, but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
+Trainees must do their work on one of the lessons for which we are currently seeking improvements.
+We encourage trainees to submit their changes through GitHub,
+but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
 
 Pick one of the lessons from the list given later in this section
 and submit a *small* change.
-
-**Note** that you must submit a change to a Software Carpentry lesson when qualifying as a Software Carpentry instructor. Likewise, you must submit a change to a Data Carpentry lesson when qualifying as a Data Carpentry instructor. Insturctors seeking dual certification should submit two changes, one to each repo. The goal is to be sure you are familiar with the process and the materials.
+You must submit a change to a Software Carpentry lesson to qualify as a Software Carpentry instructor,
+and a change to a Data Carpentry lesson to qualify as a Data Carpentry instructor.
+Instructors seeking dual certification should submit two changes (one to each Carpentry)
+to ensure they are familiar with the process and the materials.
 
 Your change can be a new exercise or diagram,
 or an improvement to one or more of the lesson's learning objectives.
