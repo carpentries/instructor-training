@@ -165,39 +165,27 @@ is a good longer discussion of these issues.
 
 > ## Improving Objectives
 >
-> Are the following learning objectives strong or weak?  How could
-> you improve some of the weak objectives?
+> Are the following learning objectives strong or weak?
+> How could you improve some of the weak objectives?
 >
-> * Learn what a Python library is, and what it can be used for.
-> * Be able to use "dplyr" and provide simple examples.
-> * Understand the importance of using version control.
-> * Understand data slicing/manipulation.
+> *   Learn what a Python library is and what it can be used for.
+> *   Be able to use `dplyr` and provide simple examples.
+> *   Understand the importance of using version control.
+> *   Understand data slicing/manipulation.
 {: .challenge}
 
-
-> ## Evaluate real SWC and DC Learning Objects
+> ## Evaluate SWC and DC Learning Objectives
 >
-> Complete the following steps to evaluate real learning objectives from current SWC and DC lessons and then reword them. 
+> Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
+> Take a minute to select one learning objective from one of those lessons,
+> then complete the following steps to evaluate it and reword it to make it sharper.
 >
-> 1. Pick one of the learning objectives listed below. 
-> 2. Identify the learning objective verb. 
-> 3. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation)
-> 4. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa). 
-> 5. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary. 
-> 6. Share the original and your re-worded learning objectives in the Etherpad. 
-
-> **Real SWC and DC Learning Objectives**
-> - [DC Python Ecology Lesson -](http://www.datacarpentry.org/python-ecology-lesson/04-merging-data) join two DataFrames together using a uniqueID found in both DataFrames 
-> - [SWC Programming with Python -](http://swcarpentry.github.io/python-novice-inflammation/04-files.html) use a library function to get a list of filenames that match a simple wildcard pattern
-> - [SWC R for Reproducible Scientific Analysis -](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html) understand the basics of the aesthetics layer and the geometry layer of a ggplot2
-> - [SWC Unix Shell Lesson -](http://swcarpentry.github.io/shell-novice/04-loop.html) explain why spaces and some punctuation characters shouldn’t be used in file names 
-> - [SWC Programming with MATLAB -](http://swcarpentry.github.io/matlab-novice-inflammation/06-defensive.html) - explain what an assertion is
-> - [SWC Version Control with Git](http://swcarpentry.github.io/git-novice/07-github.html) push to and pull from a remote repository
-> - [SWC Instructor Training - ](http://swcarpentry.github.io/instructor-training/07-memory/) construct a concept map for a short lesson showing the lesson's key ideas and the relationships between them
->
-> Instructor’s guide: Ask the trainees how difficult the exercise was. Point out that now they are equiped to evalute our learning objectives and possible submit new or improved learning objectives to our lessons. 
+> 1. Identify the learning objective verb.
+> 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
+> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
+> 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
-
 
 ## Learner Profiles
 
