@@ -429,6 +429,21 @@ and have a rubric to follow.
 *   The terminal window bottom is above the learner's heads for those sitting in the back.
 *   Instructor makes mistake (a typo) and uses the occasion to illustrate how to interpret error-messages.
 
+## Motivation and Demotivation
+
+*   In the exercise on brainstorming motivational challenges,
+    review the comments in the Etherpad.
+    Rather than read all outloud, highlight the common themes
+    (i.e. establish value, positive expectiations, promote self efficiency)
+    or things that stand out our that you can relate to.
+    Note: this exercise can be done before or going through the above list.
+
+*   In the exercise on brainstorming demotivational experiences,
+    review the comments in the Etherpad.
+    Rather than read all out loud,
+    highlight a few of the things that could have been done differently.
+    This will give everyone some confidence in how to handle these situations in the future.
+
 ## Running Discussion Sessions
 
 The purpose of the discussion session is for students to ask questions

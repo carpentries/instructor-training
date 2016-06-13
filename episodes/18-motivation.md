@@ -89,7 +89,7 @@ It is also *tangible*:
 if the image comes out the wrong size,
 learners have a concrete starting point for debugging.
 
-> ## Authentic Tasks: Think, pair, share
+> ## Authentic Tasks: Think, Pair, Share
 >
 > **Think** about something you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
@@ -140,27 +140,21 @@ to make sure they're doing at least a few of these things.
     1.  Provide flexibility and control.
     2.  Give students an opportunity to reflect.
 
-> ## Motivational Strategies - Brainstorm Challenge
-> **Think** back to a computational (or other) course you took in the past, and
-> identify one thing the instructor did that motivated you.
-> **Pair** up with your neighbor and discuss what motivated you.
-> **Share** the motivational story in the etherpad.
+> ## Brainstorming Motivational Strategies
 >
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight the common themes
-> (i.e. establish value, positive expectiations, promote self efficiency)
-> or things that stand out our that you can relate to.
-> Note: this exercise can be done before or going through the above list.
+> *Think* back to a computational (or other) course you took in the past, and
+> identify one thing the instructor did that motivated you.
+> *Pair* up with your neighbor and discuss what motivated you.
+> *Share* the motivational story in the etherpad.
 {: .challenge} 
 
-> ## Motivational Checklist Challenge
+> ## Motivational Checklist
 >
 > Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
 > to the motivational checklist presented earlier.
 > What is the lesson doing (if anything) to engage learners
 > and convince them its material is worth mastering?
 {: .challenge}
-
 
 > ## Not Just Learners
 >
@@ -229,21 +223,18 @@ to alienate a classroom and cause learners to tune out.
 > and about what kind of learning experience they can expect.
 {: .callout}
 
-> ## Personal Story About Demotivation Challenge
+> ## Personal Story About Demotivation
 >
 > Write a paragraph or two about something that happened in your educational career
 > that demotivated you, and explain what could have been done afterward to fix it.
 > After everyone has completed, draw out common demotivational themes.
 {: .challenge}
 
-> ## Demotivational Experience - Brainstorm Challenge
-> **Think** back to a time when you demotivated a student (or when you were demotiated as a student).
-> **Pair** up with your neighbor and discuss what you could have done differently in the situtation.
-> **Share** the de-motivational story in the etherpad.
+> ## Brainstorming Demotivational Experiences
 >
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight a few of the things that could have been done differently.
-> This will give everyone some confidence in how to handle these situations in the future.
+> *Think* back to a time when you demotivated a student (or when you were demotiated as a student).
+> *Pair* up with your neighbor and discuss what you could have done differently in the situtation.
+> *Share* the de-motivational story in the etherpad.
 {: .challenge}
 
 ### Stereotype Threat
@@ -357,7 +348,8 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-> ## Why Do You Teach? Challenge
+> ## Why Do You Teach?
+>
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
 > Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
@@ -369,8 +361,6 @@ for teaching about and dealing with imposter syndrome.
 > Complete the [Teaching Perspectives Inventory][tpi].
 > Are you surprised about what it says about your view of teaching?
 {: .challenge}
-
-
 
 ### Mindset
 
