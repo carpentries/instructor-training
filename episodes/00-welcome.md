@@ -50,7 +50,7 @@ It’s important to first assess the prior knowledge of the workshop participant
 > D. No, but I am familiar with what is taught at a workshop.
 > E. No, and I am not familiar with what is taught at a workshop.
 >
-> I can write multiple choice question with diagnostic power.
+> I know how to write multiple choice questions with diagnostic power.
 > A. Strongly agree
 > B. Agree
 > C. Neutral
