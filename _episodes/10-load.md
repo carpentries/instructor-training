@@ -182,7 +182,7 @@ to create the final result.
 >     (Your instructor will post links to the lessons in the Etherpad.)
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the student's ability to correctly fill in that blank.
-> 4.  Paste your faded example in the etherpad.
+> 4.  Paste your faded example in the Etherpad.
 {: .challenge}
 
 ## Parsons Problems

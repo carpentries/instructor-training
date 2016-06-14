@@ -156,7 +156,7 @@ it behooves us to try to meet those same standards ourselves.
 > and what impact it has on productivity.
 > An example of what we wish existed
 > is [this summary][stefik-summary] by Stefik et al
-> of empirical research on the usability of programming langauges
+> of empirical research on the usability of programming languages
 > (while [this full-length paper][stefik-paper] gives an idea of what's possible).
 {: .callout}
 

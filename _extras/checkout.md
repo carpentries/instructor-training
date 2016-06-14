@@ -180,7 +180,7 @@ make notes about the following:
 3. What are some misconceptions that the students could develop when learning this material?
    Which bits of the module may be tricky and if poorly explained, they may lead the students to broken mental model?
 4. What prior knowledge do learners need to have before participating in this module (whole lesson)?
-   If you were to list any prerequsites, what would they be?
+   If you were to list any prerequisites, what would they be?
 
 The first two questions are intended to help you become more comfortable with
 [our collaborative lesson development methods][blog-collab-lesson].
