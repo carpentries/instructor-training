@@ -279,7 +279,7 @@ made contributions to various lessons.  Each lesson is in a separate
 repository, and consists of narrative lesson material and an
 associated directory containing the data or scripts needed in the
 lesson.  This source material is also then served as a website, using
-GitHubs "gh-pages" feature.
+GitHub's "gh-pages" feature.
 
 Lesson contribution is managed within the repository using "issues"
 and "pull requests".  New problems or suggestions can be introduced

@@ -9,7 +9,7 @@ questions:
 objectives:
 - "Understand final steps required to qualify as an instructor."
 - "Evaluate the utility of the instructor training workshop."
-- "Recognize that training was valueable, useful, and appreciated."
+- "Recognize that training was valuable, useful, and appreciated."
 ---
 
 ## Instructor Checkout
@@ -61,8 +61,8 @@ and improve the content and delivery of the lesson materials.
 ## Thank You
 
 Thank you for taking part in this instructor-training workshop.
-We hope it was a valuable and enjoyable experierence,
-and we look forward to your continued involvment in the Software and Data Carpentry community.
+We hope it was a valuable and enjoyable experience,
+and we look forward to your continued involvement in the Software and Data Carpentry community.
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [survey]: https://www.surveymonkey.com/r/post-instructor-training
