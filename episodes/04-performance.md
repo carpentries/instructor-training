@@ -1,5 +1,5 @@
 ---
-title: "Teaching as a Performance Art"
+title: "Teaching as a Skilled Activity"
 teaching: 15
 exercises: 45
 questions:
@@ -7,14 +7,14 @@ questions:
 objectives:
 - "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
 - "Explain how teaching practices are actually transferred and adopted."
-- "Summarize the strengths and weaknesses of your performance as a lecturer."
+- "Summarize the strengths and weaknesses of your teaching practices."
 keypoints:
 - "Great teachers are made, not born."
 - "Formal written descriptions of teaching practices are ineffective."
 - "Lesson study ('jugyokenkyu') is essential to transferring skills between teachers."
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
-Continuing with our theme of instructor-as-performer,
+Continuing with our theme of teaching as a learned skill,
 let's discuss some research that suggests that improvement in educational outcomes
 must be driven by practice and communities of practice.
 The tricks and techniques that make teaching effective cannot be mandated from above,
