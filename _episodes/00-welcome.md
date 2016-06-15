@@ -50,6 +50,13 @@ It’s important to first assess the prior knowledge of the workshop participant
 > D. No, but I am familiar with what is taught at a workshop.
 > E. No, and I am not familiar with what is taught at a workshop.
 >
+> Which of these most accurately describes your teaching experience?
+> A. I have been the instructor-of-record for my own university/college course.
+> B. I have taught at the K-12 level.
+> C. I have been a graduate or undergraduate teaching assistant for a university/college course.
+> D. I have taught a seminar, workshop, or other short or informal course.
+> E. I have not had any teaching experience in the past.
+>
 > I know how to write multiple choice questions with diagnostic power.
 > A. Strongly agree
 > B. Agree
