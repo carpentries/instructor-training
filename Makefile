@@ -26,10 +26,10 @@ site :
 clean :
 	@rm -rf ${DST}
 	@rm -rf .sass-cache
+	@rm -rf bin/__pycache__
 	@find . -name .DS_Store -exec rm {} \;
 	@find . -name '*~' -exec rm {} \;
 	@find . -name '*.pyc' -exec rm {} \;
-	@find . -name __pycache__ -exec rm {} \;
 
 ## ----------------------------------------
 ## Commands specific to workshop websites.
