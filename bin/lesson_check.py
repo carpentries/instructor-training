@@ -330,7 +330,7 @@ class CheckIndex(CheckBase):
 
     def __init__(self, args, filename, metadata, metadata_len, doc):
         super(CheckIndex, self).__init__(args, filename, metadata, metadata_len, doc)
-        self.layout = 'lesson_homepage'
+        self.layout = 'lesson'
 
 
 class CheckEpisode(CheckBase):
