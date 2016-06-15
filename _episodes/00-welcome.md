@@ -30,13 +30,13 @@ This two-day workshop has two goals:
 - Introduce participants to a handful of key educational research findings and show how they can be used to help people learn better and faster.
 - Introduce participants to the teaching practices that have been adopted by the Software and Data Carpentry communities, and the overall philosophy and procedures of both organizations in order to prepare them to teach at Software and Data Carpentry workshops.
 
-**During the insturctor-trianing workshop** students will listen to short lessons, participate in individual and group practical exercises, practice teaching, and give critical feedback to their peers. 
+**During the insturctor-training workshop** students will listen to short lessons, participate in individual and group practical exercises, practice teaching, and give critical feedback to their peers. 
 
 **After completing the instructor-training workshop**, participants must complete [three short follow-up exercises online](http://swcarpentry.github.io/instructor-training/checkout/) in order to be certified to teach Software Carpentry and/or Data Carpentry. This will be discussed in more detail at the end of Day 2. 
 
 All participants in this course are required to abide by our code of conduct.
 
-There are no specific prerequisites for this training, but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop so that they are familiar with our teaching techniques. In particular, participants are not required to have any specific programming skills (though of course they should know enough about the subjects of one or more of our lessons to be able to teach them).
+There are no specific prerequisites for this training, but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop so that they are familiar with our teaching techniques. In particular, participants are not required to have any specific programming skills (though of course they should know enough about the subjects of one or more of our lessons to be able to teach them). We do not cover the content of Data Carpentry/Software Carpentry workshops in this training, both because there are too many workshop modules to cover in two days, and because you are expected to brush up on the relevant skills for your workshop prior to teaching. Rather than covering specific workshop content, this training will focus on developing teaching skills that are broadly useful across all of our lessons.
 
 ## Assess student motivation and prior knowledge
 It’s important to first assess the prior knowledge of the workshop participants because this will influence (to some extent) how you motivate the activities and how you communicate with the attendees. For instance, participants who have taken or helped with a SWC or DC course will have a much better concept of what goes on during a workshop than those who have never experienced a workshop. Furthermore, someone who live codes frequently and someone who has never live coded will experience the live coding activities differently. 
