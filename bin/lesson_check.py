@@ -142,7 +142,11 @@ def read_markdown(args, path):
         body = reader.read()
     pieces = body.split('---', 2)
     if len(pieces) == 3:
-        metadata = yaml.load(pieces[1])
+        try:
+            metadata = yaml.load(pieces[1])
+        except yaml.parser.ParseError as e:
+            print('Unable to parse YAML header in {0}:\n{1}'.format(path, e))
+            sys.exit(1)
         metadata_len = pieces[1].count('\n')
         body = pieces[2]
 
@@ -310,7 +314,10 @@ class CheckBase(object):
     def get_loc(self, node):
         """Convenience method to get node's line number."""
 
-        return self.get_val(node, 'options', 'location') + self.metadata_len
+        result = self.get_val(node, 'options', 'location')
+        if self.metadata_len is not None:
+            result += self.metadata_len
+        return result
 
 
 class CheckNonJekyll(CheckBase):
