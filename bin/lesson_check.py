@@ -59,7 +59,12 @@ KNOWN_BLOCKQUOTES = {
 KNOWN_CODEBLOCKS = {
     'error',
     'output',
-    'source'
+    'source',
+    'bash',
+    'make',
+    'python',
+    'r',
+    'sql'
 }
 
 # What fields are required in episode metadata?
