@@ -251,7 +251,16 @@ who are still learning the syntax of a programming language
 so in practice the programming lessons focus primarily on
 the mechanics of doing common operations in those languages.
 
-FIXME: summarize Data Carpentry lessons.
+Data Carpentry's [lessons](http://www.datacarpentry.org/lessons/) are domain-specific and cover data organization, manipulation, and visualization skills relevant to the target domain. Currently, there are fully-developed workshops for:  
+*   [Ecology](http://www.datacarpentry.org/lessons/#ecology-workshop)  
+*   [Genomics](http://www.datacarpentry.org/lessons/#genomics-workshop)  
+*   [Geospatial Data](http://www.datacarpentry.org/lessons/#geospatial-data-workshop)  
+
+There are also materials in development and testing for:  
+*   [Social Science](http://www.datacarpentry.org/lessons/#social-science-materials)  
+*   and a [semester-long Biology](http://www.datacarpentry.org/semester-biology/) course.
+
+Other Data Carpentry lessons are in the incubator stage.
 
 ### Lesson Development
 
