@@ -46,6 +46,7 @@ KNOWN_BLOCKQUOTES = {
     'callout',
     'challenge',
     'checklist',
+    'discussion',
     'keypoints',
     'objectives',
     'prereq',
