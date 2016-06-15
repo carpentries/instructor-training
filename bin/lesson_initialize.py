@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-'''Initialize a newly-created repository.'''
+"""Initialize a newly-created repository."""
 
 
 import sys
@@ -291,7 +291,7 @@ BOILERPLATE = (
 
 
 def main():
-    '''Check for collisions, then create.'''
+    """Check for collisions, then create."""
 
     # Check.
     errors = False
