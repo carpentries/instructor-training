@@ -44,25 +44,25 @@ It’s important to first assess the prior knowledge of the workshop participant
 > ## Assess your audience with the following multiple choice questions
 >
 > Have you ever participated in a Software Carpentry or Data Carpentry Workshop?
-> A. Yes, I have taken a workshop.
-> B. Yes, I have been a workshop helper.
-> C. Yes, I organized a workshop.
-> D. No, but I am familiar with what is taught at a workshop.
-> E. No, and I am not familiar with what is taught at a workshop.
+> A. Yes, I have taken a workshop.  
+> B. Yes, I have been a workshop helper.  
+> C. Yes, I organized a workshop.  
+> D. No, but I am familiar with what is taught at a workshop.  
+> E. No, and I am not familiar with what is taught at a workshop.  
 >
-> Which of these most accurately describes your teaching experience?
-> A. I have been the instructor-of-record for my own university/college course.
-> B. I have taught at the K-12 level.
-> C. I have been a graduate or undergraduate teaching assistant for a university/college course.
-> D. I have taught a seminar, workshop, or other short or informal course.
-> E. I have not had any teaching experience in the past.
+> Which of these most accurately describes your teaching experience?  
+> A. I have been a graduate or undergraduate teaching assistant for a university/college course.  
+> B. I have not had any teaching experience in the past.  
+> C. I have taught a seminar, workshop, or other short or informal course.  
+> D. I have been the instructor-of-record for my own university/college course.  
+> E. I have taught at the K-12 level.  
 >
-> I know how to write multiple choice questions with diagnostic power.
-> A. Strongly agree
-> B. Agree
-> C. Neutral
-> D. Disagree
-> E. Strongly disagree 
+> I know how to write multiple choice questions with diagnostic power.  
+> A. Strongly agree  
+> B. Agree  
+> C. Neutral  
+> D. Disagree  
+> E. Strongly disagree   
 >
 > If you teach, how often do you incorporate live coding in your classrooms? If you don't teach, how often have your instructors used live coding?
 > A. Frequently
