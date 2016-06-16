@@ -246,8 +246,6 @@ FIXME: home page introduction
 ROOT_REFERENCE_MD = '''\
 ---
 layout: reference
-title: Reference
-permalink: /reference/
 ---
 
 ## Glossary
