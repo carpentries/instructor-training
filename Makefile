@@ -26,10 +26,10 @@ site :
 clean :
 	@rm -rf ${DST}
 	@rm -rf .sass-cache
+	@rm -rf bin/__pycache__
 	@find . -name .DS_Store -exec rm {} \;
 	@find . -name '*~' -exec rm {} \;
 	@find . -name '*.pyc' -exec rm {} \;
-	@find . -name __pycache__ -exec rm {} \;
 
 ## ----------------------------------------
 ## Commands specific to workshop websites.
@@ -38,7 +38,7 @@ clean :
 
 ## workshop-check : check workshop homepage.
 workshop-check :
-	bin/workshop-check index.html
+	bin/workshop_check.py index.html
 
 ## ----------------------------------------
 ## Commands specific to lesson websites.
@@ -67,7 +67,10 @@ HTML_FILES = \
 
 ## lesson-check   : validate lesson Markdown.
 lesson-check :
-	bin/lesson-check -s . -p bin/markdown-ast.rb
+	bin/lesson_check.py -s . -p bin/markdown-ast.rb
+
+unittest :
+	python bin/test_lesson_check.py
 
 ## lesson-files   : show expected names of generated files for debugging.
 lesson-files :

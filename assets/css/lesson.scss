@@ -38,6 +38,12 @@ $color-testimonial: #fc8dc1 !default;
 .output { @include cdSetup($color-output); }
 .source { @include cdSetup($color-source); }
 
+.bash   { @include cdSetup($color-source); }
+.make   { @include cdSetup($color-source); }
+.python { @include cdSetup($color-source); }
+.r      { @include cdSetup($color-source); }
+.sql    { @include cdSetup($color-source); }
+
 //----------------------------------------
 // Specialized blockquote environments for learning objectives, callouts, etc.
 //----------------------------------------

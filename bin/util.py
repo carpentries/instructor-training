@@ -1,17 +1,17 @@
 import sys
 
 class Reporter(object):
-    '''Collect and report errors.'''
+    """Collect and report errors."""
 
     def __init__(self, args):
-        '''Constructor.'''
+        """Constructor."""
 
         super(Reporter, self).__init__()
         self.messages = []
 
 
     def check_field(self, filename, name, values, key, expected):
-        '''Check that a dictionary has an expected value.'''
+        """Check that a dictionary has an expected value."""
 
         if key not in values:
             self.add(filename, '{0} does not contain {1}', name, key)
@@ -20,14 +20,14 @@ class Reporter(object):
 
 
     def check(self, condition, location, fmt, *args):
-        '''Append error if condition not met.'''
+        """Append error if condition not met."""
 
         if not condition:
             self.add(location, fmt, *args)
 
 
     def add(self, location, fmt, *args):
-        '''Append error unilaterally.'''
+        """Append error unilaterally."""
 
         if isinstance(location, type(None)):
             coords = ''
@@ -43,7 +43,7 @@ class Reporter(object):
 
 
     def report(self, stream=sys.stdout):
-        '''Report all messages.'''
+        """Report all messages."""
 
         if not self.messages:
             return
