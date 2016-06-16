@@ -149,7 +149,7 @@ def read_markdown(args, path):
     if len(pieces) == 3:
         try:
             metadata = yaml.load(pieces[1])
-        except yaml.parser.ParseError as e:
+        except yaml.YAMLError as e:
             print('Unable to parse YAML header in {0}:\n{1}'.format(path, e))
             sys.exit(1)
         metadata_len = pieces[1].count('\n')
