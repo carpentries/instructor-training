@@ -1,9 +1,9 @@
 #------------------------------------------------------------
-# Values for this site.
+# Values for this lesson.
 #------------------------------------------------------------
 
-# Domain for searches.
-domain: "https://swcarpentry.github.io/instructor-training"
+# Which carpentry is this ("swc", "dc")?
+carpentry: "swc"
 
 # URL for repository.
 repo: "https://github.com/swcarpentry/instructor-training"
@@ -11,17 +11,17 @@ repo: "https://github.com/swcarpentry/instructor-training"
 # Root URL for lesson below domain.
 root: "/instructor-training"
 
-# Overall lesson title.
-title: "Instructor Training"
-
 # Contact email address.
-email: training@software-carpentry.org
+email: lessons@software-carpentry.org
 
 # What kind of thing is this ("workshop", "lesson")?
 kind: "lesson"
 
-# Which carpentry is this ("swc", "dc")?
-carpentry: "swc"
+# Overall title for pages.
+title: "Instructor Training"
+
+# Domain for searches.
+domain: "https://swcarpentry.github.io/instructor-training"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -29,15 +29,18 @@ carpentry: "swc"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
-dc_github: "https://github.com/datacarpentry"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
-template_repo: "https://github.com/swcarpentry/new-template"
-example_repo: "https://github.com/swcarpentry/new-lesson-example"
-example_site: "https://swcarpentry.github.com/new-lesson-example"
-workshop_repo: "https://github.com/swcarpentry/new-workshop-template"
-workshop_site: "https://swcarpentry.github.io/new-workshop-template"
+template_repo: "https://github.com/swcarpentry/styles"
+example_repo: "https://github.com/swcarpentry/lesson-example"
+example_site: "https://swcarpentry.github.com/lesson-example"
+workshop_repo: "https://github.com/swcarpentry/workshop-template"
+workshop_site: "https://swcarpentry.github.io/workshop-template"
+
+# Surveys.
+pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
+post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540
@@ -61,6 +64,7 @@ defaults:
 # Files and directories that are not to be copied.
 exclude:
   - Makefile
+  - bin
 
 # Turn off built-in syntax highlighting.
 highlighter: false
