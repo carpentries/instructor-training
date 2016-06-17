@@ -29,12 +29,9 @@ logger.addHandler(console_handler)
 
 
 # TODO: these regexp patterns need comments inside
-EMAIL_PATTERN = r'[^@]+@[^@]+\.[^@]+'
 HUMANTIME_PATTERN = r'((0?[1-9]|1[0-2]):[0-5]\d(am|pm)(-|to)(0?[1-9]|1[0-2]):[0-5]\d(am|pm))|((0?\d|1\d|2[0-3]):[0-5]\d(-|to)(0?\d|1\d|2[0-3]):[0-5]\d)'
 EVENTBRITE_PATTERN = r'\d{9,10}'
 URL_PATTERN = r'https?://.+'
-
-DEFAULT_CONTACT_EMAIL = 'admin@software-carpentry.org'
 
 USAGE = 'Usage: "check-workshop path/to/index.html"\n'
 
@@ -207,16 +204,6 @@ def check_helpers(helpers):
     return isinstance(helpers, list) and len(helpers) >= 0
 
 
-@look_for_fixme
-def check_email(email):
-    '''"contact" must be a valid email address consisting of characters, a
-    @, and more characters.  It should not be the default contact
-    email address "admin@software-carpentry.org".'''
-
-    return bool(re.match(EMAIL_PATTERN, email)) and \
-           (email != DEFAULT_CONTACT_EMAIL)
-
-
 def check_eventbrite(eventbrite):
     '''"eventbrite" (the Eventbrite registration key) must be 9 or more digits.'''
 
@@ -273,10 +260,6 @@ HANDLERS = {
     'helper':     (True, check_helpers,
                    'helper list isn\'t a valid list of format ' +
                    '["First helper", "Second helper",..].'),
-
-    'contact':    (True, check_email,
-                   'contact email invalid or still set to ' +
-                   '"{0}".'.format(DEFAULT_CONTACT_EMAIL)),
 
     'eventbrite': (False, check_eventbrite, 'Eventbrite key appears invalid.'),
     'etherpad':   (False, check_etherpad, 'Etherpad URL appears invalid.'),

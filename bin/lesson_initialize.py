@@ -161,14 +161,13 @@ You can also [reach us by email][contact].
 [swc-site]: http://software-carpentry.org/
 '''
 
-
 ROOT_CONFIG_YML = '''\
 #------------------------------------------------------------
-# Values for this site.
+# Values for this lesson.
 #------------------------------------------------------------
 
-# Domain for searches.
-domain: "https://{USERNAME}.github.io/{LESSON-NAME}"
+# Which carpentry is this ("swc", "dc")?
+carpentry: "swc"
 
 # URL for repository.
 repo: "https://github.com/{USERNAME}/{LESSON-NAME}"
@@ -176,17 +175,17 @@ repo: "https://github.com/{USERNAME}/{LESSON-NAME}"
 # Root URL for lesson below domain.
 root: "/{LESSON-NAME}"
 
-# Overall lesson title.
-title: "{LESSON-TITLE}"
-
 # Contact email address.
-email: {USERNAME}@{SITE-NAME}
+email: admin@software-carpentry.org
 
 # What kind of thing is this ("workshop", "lesson")?
 kind: "lesson"
 
-# Which carpentry is this ("swc", "dc")?
-carpentry: "swc"
+# Overall title for pages.
+title: "Lesson Title"
+
+# Domain for searches.
+domain: "https://{USERNAME}.github.io/{LESSON-NAME}"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -202,6 +201,10 @@ example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
+
+# Surveys.
+pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
+post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
 # Start time in minutes (540 is 09:00 am)
 start_time: 540
