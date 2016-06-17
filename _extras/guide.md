@@ -296,6 +296,10 @@ described in [this episode]({{ site.root }}/17-motivation/).
 
 ## Exercises
 
+*   Have students write answers to the initial MCQ in the Etherpad
+    or create a copy of this [Google Form Questionaire][questionnaire].
+    Briefly summarize the answers. 
+
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
 *   In the two-day versions,
@@ -689,6 +693,7 @@ scheduled.
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
+[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: {{ site.root }}/files/stefik-summary-2016.pdf
 [welcome]: {{ site.root }}/files/welcome.txt
