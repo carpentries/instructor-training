@@ -78,9 +78,9 @@ teaching skills, but to connect instructors:
 > and what we should be doing instead.
 >
 > Shorter pieces include
-> Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-> and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
-> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)",
+> Guzdial's "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+> and "[Top 10 Myths About Teaching Computer Science]({{ site.github.url }}/files/papers/guzdial-10-myths-2015.pdf)",
+> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf)",
 > all of which you should read before starting this class.
 {: .callout}
 
@@ -240,7 +240,7 @@ The things teachers know can be divided into:
     PCK is things like what examples to use when teaching how parameters are passed to a function,
     or what misconceptions about wildcard expansion are most common.
 
-![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
+![Pedagogical Content Knowledge]({{ site.github.url }}/fig/02/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories
@@ -249,7 +249,7 @@ It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
 When it comes to PCK,
-we will [see later]({{ site.root }}/08-practices/)
+we will [see later]({{ site.github.url }}/08-practices/)
 some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching

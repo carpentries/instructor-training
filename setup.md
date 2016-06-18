@@ -4,7 +4,7 @@ title: Setup
 permalink: /setup/
 ---
 
-In order to do the [live coding]({{ site.root }}/12-live/) exercise,
+In order to do the [live coding]({{ site.github.url }}/12-live/) exercise,
 and to get some first-hand experience with what learners at regular workshops have to go through,
 participants in instructor training should install the software that we use when we teach.
 Instructions are found in the [workshop template](http://swcarpentry.github.io/workshop-template/).

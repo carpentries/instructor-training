@@ -280,7 +280,7 @@ and that they'd have a better chance of making next Thursday's conference submis
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ site.root }}/17-motivation/).
+described in [this episode]({{ site.github.url }}/17-motivation/).
 
 > ## Software Carpentry Is Not Computer Science
 >
@@ -686,14 +686,14 @@ scheduled.
 
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ site.root }}/files/checkout.txt
-[completion]: {{ site.root }}/files/completion.txt
-[format]: {{ site.root }}/files/format.txt
+[checkout]: {{ site.github.url }}/files/checkout.txt
+[completion]: {{ site.github.url }}/files/completion.txt
+[format]: {{ site.github.url }}/files/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.root }}/files/stefik-summary-2016.pdf
-[welcome]: {{ site.root }}/files/welcome.txt
+[stefik-summary]: {{ site.github.url }}/files/stefik-summary-2016.pdf
+[welcome]: {{ site.github.url }}/files/welcome.txt

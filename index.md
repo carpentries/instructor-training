@@ -26,7 +26,7 @@ The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online]({{ site.root }}/checkout/)
+and [some short follow-up exercises online]({{ site.github.url }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
@@ -46,6 +46,6 @@ on the Github repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-[conduct]: {{ site.root }}/conduct/
-[license]: {{ site.root }}/license/
-[issues]: {{ site.repo }}/issues
+[conduct]: {{ site.github.url }}/conduct/
+[license]: {{ site.github.url }}/license/
+[issues]: {{ site.github.repository_url }}/issues
