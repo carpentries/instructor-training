@@ -17,9 +17,9 @@ we will ask you to add one question about our operations to a list;
 we will then do our best to answer all of those questions during the day.
 
 If you haven't done so already,
-please also follow the [setup instructions]({{ site.root }}/setup/)
+please also follow the [setup instructions]({{ site.github.url }}/setup/)
 to install the software that we use when we teach a regular workshop.
-You will need this for tomorrow' [live coding]({{ site.root }}/12-live/) exercise,
+You will need this for tomorrow' [live coding]({{ site.github.url }}/12-live/) exercise,
 and it will also give you first-hand knowledge of what we ask our learners to do.
 
 > ## End-of-Day Feedback
