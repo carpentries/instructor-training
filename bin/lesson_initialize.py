@@ -166,26 +166,23 @@ ROOT_CONFIG_YML = '''\
 # Values for this lesson.
 #------------------------------------------------------------
 
-# Which carpentry is this ("swc", "dc")?
+# Which carpentry is this ("swc" or "dc")?
 carpentry: "swc"
 
-# URL for repository.
-repo: "https://github.com/{USERNAME}/{LESSON-NAME}"
+# What kind of thing is this ("workshop" or "lesson")?
+kind: "lesson"
 
-# Root URL for lesson below domain.
+# Account (without slashes).
+account: "{USERNAME}"
+
+# Root URL below account (with leading slash).
 root: "/{LESSON-NAME}"
 
 # Contact email address.
-email: admin@software-carpentry.org
-
-# What kind of thing is this ("workshop", "lesson")?
-kind: "lesson"
+email: "lessons@software-carpentry.org"
 
 # Overall title for pages.
 title: "Lesson Title"
-
-# Domain for searches.
-domain: "https://{USERNAME}.github.io/{LESSON-NAME}"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
