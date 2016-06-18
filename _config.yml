@@ -2,26 +2,23 @@
 # Values for this lesson.
 #------------------------------------------------------------
 
-# Which carpentry is this ("swc", "dc")?
+# Which carpentry is this ("swc" or "dc")?
 carpentry: "swc"
 
-# URL for repository.
-repo: "https://github.com/swcarpentry/instructor-training"
+# What kind of thing is this ("workshop" or "lesson")?
+kind: "lesson"
 
-# Root URL for lesson below domain.
+# Account (without slashes).
+account: "swcarpentry"
+
+# Root URL below account (with leading slash).
 root: "/instructor-training"
 
 # Contact email address.
 email: lessons@software-carpentry.org
 
-# What kind of thing is this ("workshop", "lesson")?
-kind: "lesson"
-
 # Overall title for pages.
 title: "Instructor Training"
-
-# Domain for searches.
-domain: "https://swcarpentry.github.io/instructor-training"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
