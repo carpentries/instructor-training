@@ -6,8 +6,5 @@
 #    jekyll serve --config _config.yml,_config_dev.yml
 #------------------------------------------------------------
 
-# Website domain (no trailing slash).
-domain: "http://0.0.0.0:4000"
-
-# Root.
+# Override root so that CSS and other resources will load locally.
 root: "http://0.0.0.0:4000"
