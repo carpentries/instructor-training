@@ -172,21 +172,24 @@ carpentry: "swc"
 # What kind of thing is this ("workshop" or "lesson")?
 kind: "lesson"
 
-# Account (without slashes).
-account: "{USERNAME}"
-
-# Root URL below account (with leading slash).
-root: "/{LESSON-NAME}"
-
-# Contact email address.
-email: "lessons@software-carpentry.org"
-
 # Overall title for pages.
 title: "Lesson Title"
+
+# Account (without slashes).
+account: "[[USER-NAME]]"
+
+# Root URL below account (without slashes).
+project: "[[REPO-NAME]]"
+
+# Contact email address.
+email: "[[CONTACT-ADDRESS]]"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
+
+# Is this production or development? (Overridden in _config_dev.yml.)
+is_production: true
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
