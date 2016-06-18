@@ -6,5 +6,9 @@
 #    jekyll serve --config _config.yml,_config_dev.yml
 #------------------------------------------------------------
 
+# Is this production or development? (Overrides _config.yml.)
+is_production: false
+
 # Override root so that CSS and other resources will load locally.
-root: "http://0.0.0.0:4000"
+github:
+  url: http://0.0.0.0:4000
