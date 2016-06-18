@@ -29,9 +29,13 @@ logger.addHandler(console_handler)
 
 
 # TODO: these regexp patterns need comments inside
+EMAIL_PATTERN = r'[^@]+@[^@]+\.[^@]+'
 HUMANTIME_PATTERN = r'((0?[1-9]|1[0-2]):[0-5]\d(am|pm)(-|to)(0?[1-9]|1[0-2]):[0-5]\d(am|pm))|((0?\d|1\d|2[0-3]):[0-5]\d(-|to)(0?\d|1\d|2[0-3]):[0-5]\d)'
 EVENTBRITE_PATTERN = r'\d{9,10}'
 URL_PATTERN = r'https?://.+'
+
+CARPENTRIES = ("dc", "swc")
+DEFAULT_CONTACT_EMAIL = 'admin@software-carpentry.org'
 
 USAGE = 'Usage: "check-workshop path/to/index.html"\n'
 
@@ -108,6 +112,13 @@ def check_layout(layout):
     '''"layout" in YAML header must be "workshop".'''
 
     return layout == 'workshop'
+
+
+@look_for_fixme
+def check_carpentry(layout):
+    '''"carpentry" in YAML header must be "dc" or "swc".'''
+
+    return layout in CARPENTRIES
 
 
 @look_for_fixme
@@ -204,6 +215,16 @@ def check_helpers(helpers):
     return isinstance(helpers, list) and len(helpers) >= 0
 
 
+@look_for_fixme
+def check_email(email):
+    '''"contact" must be a valid email address consisting of characters, a
+    @, and more characters.  It should not be the default contact
+    email address "admin@software-carpentry.org".'''
+
+    return bool(re.match(EMAIL_PATTERN, email)) and \
+           (email != DEFAULT_CONTACT_EMAIL)
+
+
 def check_eventbrite(eventbrite):
     '''"eventbrite" (the Eventbrite registration key) must be 9 or more digits.'''
 
@@ -231,9 +252,13 @@ def check_pass(value):
 HANDLERS = {
     'layout':     (True, check_layout, 'layout isn\'t "workshop"'),
 
+    'carpentry':  (True, check_carpentry, 'carpentry isn\'t in ' +
+                   ', '.join(CARPENTRIES)),
+
     'country':    (True, check_country,
                    'country invalid: must use lowercase two-letter ISO code ' +
                    'from ' + ', '.join(ISO_COUNTRY)),
+
     'language':   (False,  check_language,
                    'language invalid: must use lowercase two-letter ISO code' +
                    ' from ' + ', '.join(ISO_LANGUAGE)),
@@ -241,11 +266,14 @@ HANDLERS = {
     'humandate':  (True, check_humandate,
                    'humandate invalid. Please use three-letter months like ' +
                    '"Jan" and four-letter years like "2025".'),
+
     'humantime':  (True, check_humantime,
                    'humantime doesn\'t include numbers'),
+
     'startdate':  (True, check_date,
                    'startdate invalid. Must be of format year-month-day, ' +
                    'i.e., 2014-01-31.'),
+
     'enddate':    (False, check_date,
                    'enddate invalid. Must be of format year-month-day, i.e.,' +
                    ' 2014-01-31.'),
@@ -257,14 +285,21 @@ HANDLERS = {
     'instructor': (True, check_instructors,
                    'instructor list isn\'t a valid list of format ' +
                    '["First instructor", "Second instructor",..].'),
+
     'helper':     (True, check_helpers,
                    'helper list isn\'t a valid list of format ' +
                    '["First helper", "Second helper",..].'),
 
+    'contact':    (True, check_email,
+                   'contact email invalid or still set to ' +
+                   '"{0}".'.format(DEFAULT_CONTACT_EMAIL)),
+
     'eventbrite': (False, check_eventbrite, 'Eventbrite key appears invalid.'),
+
     'etherpad':   (False, check_etherpad, 'Etherpad URL appears invalid.'),
 
     'venue':      (False, check_pass, 'venue name not specified'),
+
     'address':    (False, check_pass, 'address not specified')
 }
 
