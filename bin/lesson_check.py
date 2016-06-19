@@ -17,26 +17,25 @@ from util import Reporter
 
 __version__ = '0.2'
 
-# Where to look for source Markdown files.
-SOURCE_DIRS = ['', '_episodes', '_extras']
-
-# Required files: each item is a tuple of (YAML_required, path).
-# FIXME: We do not yet validate whether any files have the required
-#   YAML headers, but should in the future.
+# Required files: each entry is 'path_pattern: YAML_required'.
 # The '%' is replaced with the source directory path for checking.
 # Episodes are handled specially, and extra files in '_extras' are also handled specially.
-# This list must include all the Markdown files listed in the 'bin/initialize' script.
-REQUIRED_FILES = [
-    (True, '%/CONDUCT.md'),
-    (False, '%/CONTRIBUTING.md'),
-    (True, '%/LICENSE.md'),
-    (False, '%/README.md'),
-    (True, '%/_extras/discuss.md'),
-    (True, '%/_extras/guide.md'),
-    (True, '%/index.md'),
-    (True, '%/reference.md'),
-    (True, '%/setup.md')
-]
+# This list must include all the Markdown files listed in the 'bin/lesson_initialize.py' script.
+REQUIRED_FILES = {
+    '%/CONDUCT.md': True,
+    '%/CONTRIBUTING.md': False,
+    '%/LICENSE.md': True,
+    '%/README.md': False,
+    '%/_extras/discuss.md': True,
+    '%/_extras/guide.md': True,
+    '%/index.md': True,
+    '%/reference.md': True,
+    '%/setup.md': True
+}
+
+# Where to look for source Markdown files.
+# FIXME: should derive this from REQUIRED_FILES.
+SOURCE_DIRS = ['', '_episodes', '_extras']
 
 # Episode filename pattern.
 P_EPISODE_FILENAME = re.compile(r'/_episodes/(\d\d)-[-\w]+.md$')
@@ -178,7 +177,7 @@ def check_fileset(source_dir, reporter, filenames_present):
     """Are all required files present? Are extraneous files present?"""
 
     # Check files with predictable names.
-    required = [p[1].replace('%', source_dir) for p in REQUIRED_FILES]
+    required = [p.replace('%', source_dir) for p in REQUIRED_FILES]
     missing = set(required) - set(filenames_present)
     for m in missing:
         reporter.add(m, 'Missing required file')
