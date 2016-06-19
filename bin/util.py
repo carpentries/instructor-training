@@ -47,5 +47,5 @@ class Reporter(object):
 
         if not self.messages:
             return
-        for m in self.messages:
+        for m in sorted(self.messages):
             print(m, file=stream)

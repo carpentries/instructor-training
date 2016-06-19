@@ -38,7 +38,7 @@ clean :
 
 ## workshop-check : check workshop homepage.
 workshop-check :
-	bin/workshop_check.py index.html
+	@bin/workshop_check.py .
 
 ## ----------------------------------------
 ## Commands specific to lesson websites.
@@ -67,7 +67,7 @@ HTML_FILES = \
 
 ## lesson-check   : validate lesson Markdown.
 lesson-check :
-	bin/lesson_check.py -s . -p bin/markdown-ast.rb
+	@bin/lesson_check.py -s . -p bin/markdown-ast.rb
 
 unittest :
 	python bin/test_lesson_check.py

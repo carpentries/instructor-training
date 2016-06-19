@@ -119,11 +119,13 @@ def parse_args():
 def check_config(args):
     """Check configuration file."""
 
-    config_file = os.path.join(args.source_dir, '_config.yml')
-    with open(config_file, 'r') as reader:
-        config = yaml.load(reader)
-
-    args.reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
+    try:
+        config_file = os.path.join(args.source_dir, '_config.yml')
+        with open(config_file, 'r') as reader:
+            config = yaml.load(reader)
+        args.reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
+    except FileNotFoundError as e:
+        args.reporter.add('_config.yml', 'Missing required file')
 
 
 def read_all_markdown(args, source_dir):
@@ -176,11 +178,10 @@ def check_fileset(source_dir, reporter, filenames_present):
     """Are all required files present? Are extraneous files present?"""
 
     # Check files with predictable names.
-
     required = [p[1].replace('%', source_dir) for p in REQUIRED_FILES]
     missing = set(required) - set(filenames_present)
     for m in missing:
-        reporter.add(None, 'Missing required file {0}', m)
+        reporter.add(m, 'Missing required file')
 
     # Check episode files' names.
     seen = []
@@ -191,7 +192,7 @@ def check_fileset(source_dir, reporter, filenames_present):
         if m and m.group(1):
             seen.append(m.group(1))
         else:
-            reporter.add(None, 'Episode {0} has badly-formatted filename', filename)
+            reporter.add(filename, 'Episode has badly-formatted filename')
 
     # Check episode filename numbering.
     reporter.check(len(seen) == len(set(seen)),

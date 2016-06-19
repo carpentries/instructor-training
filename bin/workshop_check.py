@@ -28,7 +28,7 @@ console_handler.setFormatter(formatter)
 logger.addHandler(console_handler)
 
 
-# TODO: these regexp patterns need comments inside
+# FIXME: these regexp patterns need comments inside
 EMAIL_PATTERN = r'[^@]+@[^@]+\.[^@]+'
 HUMANTIME_PATTERN = r'((0?[1-9]|1[0-2]):[0-5]\d(am|pm)(-|to)(0?[1-9]|1[0-2]):[0-5]\d(am|pm))|((0?\d|1\d|2[0-3]):[0-5]\d(-|to)(0?\d|1\d|2[0-3]):[0-5]\d)'
 EVENTBRITE_PATTERN = r'\d{9,10}'
@@ -400,12 +400,15 @@ def check_file(filename, data, errors):
 def check_config(filename, errors):
     '''Check YAML configuration file.'''
 
-    with open(filename, 'r') as reader:
-        config = yaml.load(reader)
+    try:
+        with open(filename, 'r') as reader:
+            config = yaml.load(reader)
 
-    if config['kind'] != 'workshop':
-        msg = 'Not configured as a workshop: found "{0}" instead'.format(config['kind'])
-        add_error(msg, errors)
+        if config['kind'] != 'workshop':
+            msg = 'Not configured as a workshop: found "{0}" instead'.format(config['kind'])
+            add_error(msg, errors)
+    except FileNotFoundError as e:
+        add_error('_config.yml not found', errors)
 
 
 def main():
@@ -415,15 +418,19 @@ def main():
         print(USAGE, file=sys.stderr)
         sys.exit(1)
 
-    index_file = sys.argv[1]
-    config_file = os.path.join(os.path.dirname(index_file), '_config.yml')
+    root_dir = sys.argv[1]
+    index_file = os.path.join(root_dir, 'index.html')
+    config_file = os.path.join(root_dir, '_config.yml')
     logger.info('Testing "{0}" and "{1}"'.format(index_file, config_file))
 
     errors = []
     check_config(config_file, errors)
-    with open(index_file) as reader:
-        data = reader.read()
-        check_file(index_file, data, errors)
+    try:
+        with open(index_file) as reader:
+            data = reader.read()
+            check_file(index_file, data, errors)
+    except FileNotFoundError as e:
+        add_error('index.html not found', errors)
 
     if errors:
         for m in errors:
