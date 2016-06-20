@@ -321,34 +321,7 @@ but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
 
-> ## Feedback on Feedback
->
-> Watch either [this video][scipy-video-1] (8:40)
-> or [this one][scipy-video-2] (11:42).
-> Take notes about the presentation,
-> and divide those into four groups
-> based on whether they are positive or negative
-> and whether they are about the content (what was said)
-> or the presentation (how it was said, e.g., body language).
-> Compare your notes with those made by other people,
-> and with the feedback given by your instructor.
-{: .challenge}
 
-> ## Feedback on Yourself, Part II
->
-> Later in the training,
-> repeat the first challenge exercise; however, when it comes time to give feedback,
-> use the same 2x2 scheme in the previous challenge.
-{: .challenge}
-
-> ## Learn More About Feedback
->
-> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.github.url }}/files/papers/gormally-teaching-feedback-2014.pdf)"
-> and discuss ways you could make peer-to-peer feedback
-> a routine part of your teaching.
-> You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
-> which looks at the value of having a coach.
-{: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U

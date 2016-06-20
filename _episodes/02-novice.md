@@ -373,23 +373,11 @@ and see the topic from their point of view.
 > We were therefore scaring off many of the people we most wanted to help.
 {: .callout}
 
-> ## Confronting the Contradiction
->
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
-{: .challenge}
-
 > ## Other Kinds of Formative Assessment
 >
 > Describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
-{: .challenge}
-
-> ## Modeling Instruction
->
-> There have been many "models" of teaching/learning in the past.  What
-> model do you currently use (sub-consciously or consciously)?
 {: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591

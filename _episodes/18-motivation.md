@@ -148,13 +148,6 @@ to make sure they're doing at least a few of these things.
 > *Share* the motivational story in the Etherpad.
 {: .challenge} 
 
-> ## Motivational Checklist
->
-> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
-> to the motivational checklist presented earlier.
-> What is the lesson doing (if anything) to engage learners
-> and convince them its material is worth mastering?
-{: .challenge}
 
 > ## Not Just Learners
 >
@@ -165,6 +158,15 @@ to make sure they're doing at least a few of these things.
 > particularly when they are volunteers.  For one instructor's motivation,
 > keep reading.
 {: .callout}
+
+> ## Why Do You Teach?
+>
+> We all have a different motivation for teaching, and that is a really good thing!
+> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
+> Read the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
+> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
+{: .challenge}
+
 
 ## Demotivation
 
@@ -222,13 +224,6 @@ to alienate a classroom and cause learners to tune out.
 > tells people a great deal about our values
 > and about what kind of learning experience they can expect.
 {: .callout}
-
-> ## Personal Story About Demotivation
->
-> Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.
-> After everyone has completed, draw out common demotivational themes.
-{: .challenge}
 
 > ## Brainstorming Demotivational Experiences
 >
@@ -348,19 +343,6 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-> ## Why Do You Teach?
->
-> We all have a different motivation for teaching, and that is a really good thing!
-> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
-> Read the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
-> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-{: .challenge}
-
-> ## What Do You Believe About Teaching? Challenge
->
-> Complete the [Teaching Perspectives Inventory][tpi].
-> Are you surprised about what it says about your view of teaching?
-{: .challenge}
 
 ### Mindset
 
@@ -389,20 +371,6 @@ she is likely to develop a growth mindset,
 and subsequently achieve more.  Studies have also shown that
 the simple action of telling learners about the different mindsets
 before a course can improve learning outcomes for the whole group.
-
-> ## Thought Record
->
-> Remember a time when you felt like you didn't know what you were doing.
-> Describe the emotions that you felt (such as sad, anxious, scared).
->
-> *   Where were you? What were you doing? With whom?
-> *   What thoughts were going through your mind at this time?
-> *   What facts or evidence support these thoughts?
-> *   What facts or evidence do not support these thoughts?
->
-> Write an alternative thought that takes this evidence into account.
-> How do you feel about this situation now?
-{: .challenge}
 
 ## Accessibility
 
@@ -489,7 +457,7 @@ are always welcome.
 > How complete was your list of challenges?
 > And did you notice that the first sentence in this challenge
 > assumed you could actually walk?
-{: .challenge}
+{: .callout}
 
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
