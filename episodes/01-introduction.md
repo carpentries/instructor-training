@@ -7,7 +7,7 @@ questions:
 - "How can we describe teaching and learning how to teach?"
 - "What common vocabulary do we need to talk about teaching and learning?"
 objectives:
-- "Describe how that learning to teach is like learning any other complex skill."
+- "Describe how learning to teach is like learning a performing art."
 - "Identify where in a lesson the instructor is using content knowledge, general knowledge, and pedagogical content knowledge."
 - "Use an example to illustrate the difference between top-down and bottom-up learning."
 keypoints:
@@ -57,7 +57,7 @@ teaching skills, but to connect instructors:
 > ## Key Readings
 >
 > An excellent overview of research results in education and learning is
-> Ambrose et al's *[How Learning Works][amazon-hlw]*.
+> Ambrose et al's *[How Learning Works][amazon-hlw]* (which is also an excellent example of what secondary literature ought to look like).
 > Green's *[Building a Better Teacher][amazon-babt]*
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
@@ -91,7 +91,9 @@ two specific perspectives have primarily influenced Software and Data Carpentry'
 One perspective is *cognitivism*,
 which treats learning as a problem in neuropsychology.
 Cognitivists focus their attention on things like pattern recognition,
-memory formation, and recall.
+memory formation, and recall. It is good at answering low-level questions,
+but generally ignores larger issues like, "What do we mean by 'learning'?"
+and, "Who gets to decide?"
 
 Our other guiding perspective is
 *[situated learning][wikipedia-situated-learning]*,
