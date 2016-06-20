@@ -138,14 +138,6 @@ We then depend on the cognitivist perspective
 to drive *how* we teach the specific content associated with the community of practice.
 Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.
 
-> ## Something to Think About
->
-> Throughout the day, take note of how this training is structured.
-> What pieces exemplify the situated learning perspective,
-> i.e., how are you, as an instructor-in-training, being brought into a new community of practice?
-> Are there any places where we are using the cognitivist ideas/techniques described later in the training?
-{: .challenge}
-
 > ## Other Perspectives
 >
 > There are many other perspectives outside cognitivist theory ---
@@ -295,15 +287,6 @@ the course of the next two days.
 > about using computers in research:
 > bottom up, top down, or a mix of both?
 > Is that how you prefer to learn?
-{: .challenge}
-
-> ## Who Decides?
->
-> In Littky and Grabelle's *[The Big Picture: Education is Everyone's Business][amazon-big-picture]*,
-> Kenneth Wesson wrote,
-> "If poor inner-city children consistently outscored children from wealthy suburban homes on standardized tests,
-> is anyone naive enough to believe that we would still insist on using these tests as indicators of success?"
-> What are examples in your own experience of "objective" assessments that reinforce the status quo?
 {: .challenge}
 
 

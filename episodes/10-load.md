@@ -168,12 +168,6 @@ to create the final result.
 > What differences between these groups can you notice?
 {: .challenge}
 
-> ## Faded Examples
->
-> Construct a 3-step faded example to introduce an idea of your choice.
-> What problem-solving strategy does it teach?
-{: .challenge}
-
 > ## Create a Faded Example from a Lesson
 >
 > The following exercise should be done in groups of 2-3.

@@ -163,17 +163,6 @@ Baume's guide to
 [writing and using good learning outcomes]({{ site.github.url }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
-> ## Improving Objectives
->
-> Are the following learning objectives strong or weak?
-> How could you improve some of the weak objectives?
->
-> *   Learn what a Python library is and what it can be used for.
-> *   Be able to use `dplyr` and provide simple examples.
-> *   Understand the importance of using version control.
-> *   Understand data slicing/manipulation.
-{: .challenge}
-
 > ## Evaluate SWC and DC Learning Objectives
 >
 > Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
@@ -217,6 +206,17 @@ A learner profile for Software Carpentry might be:
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 {: .quotation}
+
+> ## Learner Profiles
+>
+> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
+> and then write one that describes a fictional colleague of your own.
+> Who are they,
+> what problems do they face,
+> and how will this training help them?
+> Try to be as specific as possible.
+{: .challenge}
+
 
 ## Existing Lessons
 
@@ -300,57 +300,6 @@ FIXME: how to add new lessons
 > have any ideas how we might make contribution more contributor-friendly,
 > please let us know.
 {: .callout}
-
-> ## Learner Profiles
->
-> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
-> and then write one that describes a fictional colleague of your own.
-> Who are they,
-> what problems do they face,
-> and how will this training help them?
-> Try to be as specific as possible.
-{: .challenge}
-
-> ## Classify Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> lesson and classify its learning objectives according to their level in Bloom's Taxonomy.
-{: .challenge}
-
-> ## Validate Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> and read through its learning objectives.
-> Does this lesson accomplish what it sets out to achieve?
-> Does it contain too much?
-> Is the content on point with the learning objectives?
-{: .challenge}
-
-> ## Develop Learning Objectives
->
-> In groups of 2-4,
-> choose one of the following topics
-> (or something else that you might explain to a senior high school class)
-> and develop learning objectives for a 10-minute introductory lesson on it.
-> Compare your learning objectives to those developed by other groups:
-> how easy or hard would it be for an independent observer
-> to determine whether your objectives or the other groups' had been achieved?
->
-> *   The difference between velocity and momentum.
-> *   Volcanic, fold, and block mountain formation.
-> *   The gambler's fallacy in statistics.
-{: .challenge}
-
-> ## Summing Up
->
-> You have been asked to interview an undergraduate who wants to work with your group for the summer.
-> What task could you ask her to do that would tell you whether she has the technical skills the job requires?
-> (Try to choose something that she could reasonably be expected to accomplish in under 15 minutes.)
-> How would you describe the task to her?
-> And how would you describe the criteria for completing it successfully?
-{: .challenge}
 
 ## Reverse Instructional Design
 
@@ -468,6 +417,17 @@ centralized, standardized testing is appealing (particularly to those with the p
 but as Scott pointed out in
 *[Seeing Like a State][amazon-slas]*,
 large organizations invariably prefer uniformity to productivity.
+
+> ## Validate Learning Objectives
+>
+> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
+> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
+> and read through its learning objectives.
+> Does this lesson accomplish what it sets out to achieve?
+> Does it contain too much?
+> Is the content on point with the learning objectives?
+{: .challenge}
+
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
 [amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/
