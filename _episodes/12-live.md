@@ -38,7 +38,7 @@ and talking as we go.
 >
 > What are some of the advantages and challenges of live coding
 > from both a learner's and an instructor's point of view?
-{: .challenge}
+{: .discussion}
 
 Its advantages are:
 
