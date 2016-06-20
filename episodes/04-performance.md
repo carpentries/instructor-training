@@ -1,5 +1,5 @@
 ---
-title: "Teaching as a Skilled Activity"
+title: "Teaching as a Performance Art"
 teaching: 15
 exercises: 45
 questions:
@@ -14,7 +14,7 @@ keypoints:
 - "Lesson study ('jugyokenkyu') is essential to transferring skills between teachers."
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
-Continuing with our theme of teaching as a learned skill,
+Continuing with our theme of instructor-as-performer,
 let's discuss some research that suggests that improvement in educational outcomes
 must be driven by practice and communities of practice.
 The tricks and techniques that make teaching effective cannot be mandated from above,
