@@ -22,6 +22,10 @@ serve :
 site :
 	${JEKYLL} build --config _config.yml,_config_dev.yml
 
+## figures        : re-generate inclusion displaying all figures.
+figures :
+	@bin/extract_figures.py -s _episodes -p bin/markdown-ast.rb > _includes/all_figures.html
+
 ## clean          : clean up junk files.
 clean :
 	@rm -rf ${DST}

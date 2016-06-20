@@ -10,32 +10,33 @@ import glob
 import json
 import yaml
 import re
-from subprocess import Popen, PIPE
 from optparse import OptionParser
 
-from util import Reporter
+from util import Reporter, read_markdown
 
 __version__ = '0.2'
 
-# Required files: each entry is 'path_pattern: YAML_required'.
+# Where to look for source Markdown files.
+SOURCE_DIRS = ['', '_episodes', '_extras']
+
+# Required files: each entry is ('path': YAML_required).
+# FIXME: We do not yet validate whether any files have the required
+#   YAML headers, but should in the future.
 # The '%' is replaced with the source directory path for checking.
 # Episodes are handled specially, and extra files in '_extras' are also handled specially.
-# This list must include all the Markdown files listed in the 'bin/lesson_initialize.py' script.
+# This list must include all the Markdown files listed in the 'bin/initialize' script.
 REQUIRED_FILES = {
     '%/CONDUCT.md': True,
     '%/CONTRIBUTING.md': False,
     '%/LICENSE.md': True,
     '%/README.md': False,
     '%/_extras/discuss.md': True,
+    '%/_extras/figures.md': True,
     '%/_extras/guide.md': True,
     '%/index.md': True,
     '%/reference.md': True,
-    '%/setup.md': True
+    '%/setup.md': True,
 }
-
-# Where to look for source Markdown files.
-# FIXME: should derive this from REQUIRED_FILES.
-SOURCE_DIRS = ['', '_episodes', '_extras']
 
 # Episode filename pattern.
 P_EPISODE_FILENAME = re.compile(r'/_episodes/(\d\d)-[-\w]+.md$')
@@ -118,13 +119,11 @@ def parse_args():
 def check_config(args):
     """Check configuration file."""
 
-    try:
-        config_file = os.path.join(args.source_dir, '_config.yml')
-        with open(config_file, 'r') as reader:
-            config = yaml.load(reader)
-        args.reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
-    except FileNotFoundError as e:
-        args.reporter.add('_config.yml', 'Missing required file')
+    config_file = os.path.join(args.source_dir, '_config.yml')
+    with open(config_file, 'r') as reader:
+        config = yaml.load(reader)
+
+    args.reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
 
 
 def read_all_markdown(args, source_dir):
@@ -135,42 +134,10 @@ def read_all_markdown(args, source_dir):
     result = {}
     for pat in all_patterns:
         for filename in glob.glob(pat):
-            data = read_markdown(args, filename)
+            data = read_markdown(args.parser, filename)
             if data:
                 result[filename] = data
     return result
-
-
-def read_markdown(args, path):
-    """Get YAML and AST for Markdown file, returning {'metadata':yaml, 'text': text, 'doc':doc}."""
-
-    # Split and extract YAML (if present).
-    metadata = None
-    metadata_len = None
-    with open(path, 'r') as reader:
-        body = reader.read()
-    pieces = body.split('---', 2)
-    if len(pieces) == 3:
-        try:
-            metadata = yaml.load(pieces[1])
-        except yaml.YAMLError as e:
-            print('Unable to parse YAML header in {0}:\n{1}'.format(path, e))
-            sys.exit(1)
-        metadata_len = pieces[1].count('\n')
-        body = pieces[2]
-
-    # Parse Markdown.
-    cmd = 'ruby {0}'.format(args.parser)
-    p = Popen(cmd, shell=True, stdin=PIPE, stdout=PIPE, close_fds=True, universal_newlines=True)
-    stdout_data, stderr_data = p.communicate(body)
-    doc = json.loads(stdout_data)
-
-    return {
-        'metadata': metadata,
-        'metadata_len': metadata_len,
-        'text': body,
-        'doc': doc
-    }
 
 
 def check_fileset(source_dir, reporter, filenames_present):
@@ -180,7 +147,7 @@ def check_fileset(source_dir, reporter, filenames_present):
     required = [p.replace('%', source_dir) for p in REQUIRED_FILES]
     missing = set(required) - set(filenames_present)
     for m in missing:
-        reporter.add(m, 'Missing required file')
+        reporter.add(None, 'Missing required file {0}', m)
 
     # Check episode files' names.
     seen = []
@@ -191,7 +158,7 @@ def check_fileset(source_dir, reporter, filenames_present):
         if m and m.group(1):
             seen.append(m.group(1))
         else:
-            reporter.add(filename, 'Episode has badly-formatted filename')
+            reporter.add(None, 'Episode {0} has badly-formatted filename', filename)
 
     # Check episode filename numbering.
     reporter.check(len(seen) == len(set(seen)),
