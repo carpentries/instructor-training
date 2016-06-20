@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
 - "Explain how teaching practices are actually transferred and adopted."
-- "Summarize the strengths and weaknesses of your performance as a lecturer."
+- "Summarize the strengths and weaknesses of your teaching practices."
 keypoints:
 - "Great teachers are made, not born."
 - "Formal written descriptions of teaching practices are ineffective."
