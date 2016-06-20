@@ -279,7 +279,7 @@ the course of the next two days.
 > and explain how the instructor used domain knowledge,
 > general pedagogical knowledge,
 > and pedagogical content knowledge to create that moment.
-{: .challenge}
+{: .discussion}
 
 > ## Bottom Up or Top Down?
 >
@@ -287,7 +287,7 @@ the course of the next two days.
 > about using computers in research:
 > bottom up, top down, or a mix of both?
 > Is that how you prefer to learn?
-{: .challenge}
+{: .discussion}
 
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/

@@ -401,7 +401,7 @@ Wiggins and McTighe use the acronym WHERETO:
 > Is reverse instructional design "teaching to the test"?
 > I.e., does it steer teachers toward getting their students to pass an exam
 > rather than learn things?
-{: .challenge}
+{: .discussion}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
 When using RID, teachers set goals to aid in lesson design,

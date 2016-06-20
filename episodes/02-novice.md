@@ -32,7 +32,7 @@ but the model does a good job of helping people reason about chemical compounds 
 >
 > What is your primary research domain?  What is one mental model you use to frame
 > and understand your work?
-{: .challenge}
+{: .discussion}
 
 One way to think about the difference between a novice and a "competent
 practitioner" is the existence of this big picture mental model.
@@ -100,7 +100,7 @@ and without which people cannot understand how to use commands
 > What's the difference between a manual and a tutorial?
 > (Think in terms of the differences between novices and competent practitioners.)
 > Can one document do a good job of being both?
-{: .challenge}
+{: .discussion}
 
 > ## Different Kinds of Lessons
 >
@@ -225,7 +225,7 @@ but each of the other answers provides valuable insight.
 > ## Find the Bug
 >
 > What is the misconception associated with each wrong answer?
-{: .challenge}
+{: .discussion}
 
 > ## Solution
 >
@@ -252,7 +252,7 @@ what to explain to that particular learner next.
 > As the instructor, what should you do if most of the class votes for one
 > of the wrong answers?  For the right answer?  What if the votes are evenly
 > spread between options?
-{: .challenge}
+{: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
 and work on correcting that particular misconception.  If most of the class votes
@@ -378,7 +378,7 @@ and see the topic from their point of view.
 > Describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
-{: .challenge}
+{: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-benner]: http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/

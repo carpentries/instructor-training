@@ -155,17 +155,13 @@ to make sure they're doing at least a few of these things.
 > As we said in [the introduction]({{ site.github.url }}/02-terms/),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.  For one instructor's motivation,
-> keep reading.
-{: .callout}
-
-> ## Why Do You Teach?
+> particularly when they are volunteers.  
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
 > Read the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
 > Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-{: .challenge}
+{: .callout}
 
 
 ## Demotivation

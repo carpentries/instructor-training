@@ -252,7 +252,7 @@ Barker et al found something similar in 2015:
 >
 > How was the experience of being videoed/receiving feedback?  What
 > did people notice?  What are some of your "tells"?
-{: .challenge}
+{: .discussion}
 
 Everyone has nervous habits.  While these habits are often not as noticeable
 as you would think, it's good to identify ways to keep yourself from pacing,
@@ -272,7 +272,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 >
 > If you were a cartoon character teacher, who would you be?  What does that say about your
 > teaching style?
-{: .challenge}
+{: .discussion}
 
 ## Feedback
 
