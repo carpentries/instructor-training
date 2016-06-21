@@ -538,23 +538,7 @@ scheduled.
 
 > ## Christina Koch
 >
-> I love ideas.
-> As a mathematician, bibliophile, and general enthusiast for most things,
-> I am a self-proclaimed nerd---a term I use to mean
-> "someone who loves thinking, ideas, and learning new things."
->
-> I love people (at least, I try).
-> Most wisdom traditions,
-> and my own experience,
-> tell me that I'm not here to live for myself,
-> but that we're all in this together.
->
-> Most of all, I love sharing ideas with people.
-> The best moments in life, for me,
-> are facilitating intellectual insights along with personal connections.
-> Those moments are what build a community that continues living in hope and adventure,
-> especially important in times of fear and division.
-> I teach to make those moments possible for myself and for others.
+> <img src="/fig/guide/christinalk_whyiteach.png" width="50%">
 {: .testimonial}
 
 > ## Lex Nederbragt
