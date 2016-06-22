@@ -24,10 +24,10 @@
         <img class="navbar-logo" src="{{ site.github.url }}/assets/img/dc-icon-black.svg" alt="Data Carpentry logo" />
       </a>
       {% endif %}
-      <a class="navbar-brand" href="{{ site.github.url }}/">Home</a>
+      <a class="navbar-brand" href="{{ site.github.url }}/"><span class="glyphicon glyphicon-home"></span></a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav" style="margin: 3.5px -15px;">
         <li><a href="{{ site.github.url }}/conduct/">Code of Conduct</a></li>
         {% if site.kind == "lesson" %}
         <li><a href="{{ site.github.url }}/setup/">Setup</a></li>
@@ -49,11 +49,11 @@
         </li>
         <li><a href="{{ site.github.url }}/reference/">Reference</a></li>
         {% endif %}
-        <li><a href="{{ site.github.url }}/license/">License</a></li>
+
       </ul>
       <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
         <div class="form-group">
-          <input type="text" id="google-search" placeholder="Search...">
+          <input style="width: 100px; margin-top:8px;" type="text" id="google-search" placeholder="Search...">
         </div>
       </form>
     </div>
