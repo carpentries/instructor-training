@@ -1,5 +1,4 @@
 ---
-layout: episode
 title: "Afternoon Wrap-Up"
 teaching: 30
 exercises: 15
