@@ -43,7 +43,7 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
-![What to Teach]({{ site.github.url }}/fig/17/what-to-teach.png)
+![What to Teach]({{ site.root }}/fig/17/what-to-teach.png)
 
 > ## Actual Time
 >
@@ -56,7 +56,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ site.github.url }}/05-expertise/).
+> please revisit the discussion of [expert blind spot]({{ site.root }}/05-expertise/).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -76,7 +76,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-studied use of this idea is
-the *[media computation]({{ site.github.url }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
+the *[media computation]({{ site.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
@@ -159,7 +159,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ site.github.url }}/02-terms/),
+> As we said in [the introduction]({{ site.root }}/02-terms/),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.  For one instructor's motivation,
@@ -168,7 +168,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
-As noted in [the introduction]({{ site.github.url }}/02-terms/),
+As noted in [the introduction]({{ site.root }}/02-terms/),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
@@ -199,7 +199,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier]({{ site.github.url }}/07-memory/),
+>     As [discussed earlier]({{ site.root }}/07-memory/),
 >     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
@@ -352,7 +352,7 @@ for teaching about and dealing with imposter syndrome.
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
-> Read the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
+> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
 > Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
 {: .challenge}
 

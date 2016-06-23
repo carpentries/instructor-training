@@ -34,7 +34,7 @@ certification
 ## Effecting Change
 
 Henderson et al's
-"[Facilitating Change in Undergraduate STEM Instructional Practices]({{ site.github.url }}/files/papers/henderson-facilitating-stem-teaching-change-2011.pdf)"
+"[Facilitating Change in Undergraduate STEM Instructional Practices]({{ site.root }}/files/papers/henderson-facilitating-stem-teaching-change-2011.pdf)"
 discusses ways to get educational institutions to actually change what they teach.
 Their findings are summarized in this table:
 

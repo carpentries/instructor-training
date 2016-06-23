@@ -22,7 +22,7 @@ and on the final steps toward certification.
 > ## Preparation and Discussion
 >
 > This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
-> (which is [assigned as overnight homework]({{ site.github.url }}/11-summarize/)).
+> (which is [assigned as overnight homework]({{ site.root }}/11-summarize/)).
 > Instead of going through this material point by point,
 > trainers should ask each trainee to add one non-overlapping question to a list,
 > then go through that list.
@@ -76,7 +76,7 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
-![Software Carpentry and Data Carpentry Comparison]({{ site.github.url }}/fig/10/SWCvsDC.png)
+![Software Carpentry and Data Carpentry Comparison]({{ site.root }}/fig/10/SWCvsDC.png)
 
 ## Workshop Operations
 
@@ -200,7 +200,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 Software Carpentry and Data Carpentry share a single instructor training program,
 but instructors must certify separately for each at the end:
-see the description of [the instructor checkout procedure]({{ site.github.url }}/checkout/)
+see the description of [the instructor checkout procedure]({{ site.root }}/checkout/)
 for details.
 
 ## Setting Up
@@ -275,7 +275,7 @@ as we encourage researchers to use packages and modules in their code, to
 create re-usable pieces, we want to draw together the collective expertise of
 our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
-We discuss this in more detail in [a later lesson]({{ site.github.url }}/20-lessons/).
+We discuss this in more detail in [a later lesson]({{ site.root }}/20-lessons/).
 
 ### Beyond Lessons
 
@@ -303,7 +303,7 @@ examples of good discussions under pull requests (possibly controversial PRs).
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
-[checkout process]({{ site.github.url }}/checkout/) to become a fully-fledged instructor will be
+[checkout process]({{ site.root }}/checkout/) to become a fully-fledged instructor will be
 one way to start connecting to the community and find which area will allow you
 to contribute best.
 
@@ -344,7 +344,7 @@ you are very welcome to put your name forward as a candidate.
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: {{ site.dc_site }}
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
-[license]: {{ site.github.url }}/license/
+[license]: {{ site.root }}/license/
 [scf-history]: {{ site.swc_site }}/scf/history/
 [scf]: {{ site.swc_site }}/scf/
 [swc-blog]: {{ site.swc_site }}/blog/
