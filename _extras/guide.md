@@ -686,14 +686,14 @@ scheduled.
 
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ site.github.url }}/files/checkout.txt
-[completion]: {{ site.github.url }}/files/completion.txt
-[format]: {{ site.github.url }}/files/format.txt
+[checkout]: {{ site.github.url }}/files/messages/checkout.txt
+[completion]: {{ site.github.url }}/files/messages/completion.txt
+[format]: {{ site.github.url }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.github.url }}/files/stefik-summary-2016.pdf
-[welcome]: {{ site.github.url }}/files/welcome.txt
+[stefik-summary]: {{ site.github.url }}/files/papers/stefik-summary-2016.pdf
+[welcome]: {{ site.github.url }}/files/messages/welcome.txt
