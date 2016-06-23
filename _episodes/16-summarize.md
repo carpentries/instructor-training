@@ -9,5 +9,5 @@ questions:
 > ## Minute Cards Revisited
 >
 > Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ site.github.url }}/05-summarize/).
+> as discussed [yesterday]({{ site.root }}/05-summarize/).
 {: .challenge}
