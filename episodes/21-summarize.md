@@ -9,6 +9,8 @@ objectives:
 - "Understand final steps required to qualify as an instructor."
 - "Evaluate the utility of the instructor training workshop."
 - "Recognize that training was valuable, useful, and appreciated."
+keypoints:
+- "Final steps to qualify are to make a contribution, take part in a discussion, and do a teaching demo."
 ---
 
 ## Instructor Checkout
@@ -27,8 +29,6 @@ please review it with your instructor before you leave.
 
 ## Provide Feedback
 
-### One Up, One Down
-
 We frequently ask for summary feedback at the end of each day.
 The instructors ask the learners to alternately give one positive and one negative point about the day,
 without repeating anything that has already been said.
@@ -44,8 +44,6 @@ Each mode has its strengths and weaknesses, and by providing both, we hope to ge
 >
 > Provide one up, one down feedback on the entire two-day course.
 {: .challenge}
-
-### Post-Workshop Survey
 
 Just as in our regular workshops,
 we collect post-instructor-training-workshop feedback.

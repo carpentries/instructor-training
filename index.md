@@ -9,8 +9,6 @@ Unfortunately,
 much of that knowledge has not yet been translated into common classroom practice,
 while many myths about education have proven remarkably persistent.
 
-## About This Course
-
 This two-day class has two goals:
 
 *   Introduce participants to a handful of key research findings
