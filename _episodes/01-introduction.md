@@ -294,7 +294,6 @@ the course of the next two days.
 > What are examples in your own experience of "objective" assessments that reinforce the status quo?
 {: .challenge}
 
-
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/

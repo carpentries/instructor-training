@@ -163,6 +163,7 @@ it behooves us to try to meet those same standards ourselves.
 ## Why We're Not a MOOC
 
 > If you use robots to teach, you teach people to be robots.
+{: .quotation}
 
 This difference between what novices are doing when they learn,
 and what competent practitioners are doing,

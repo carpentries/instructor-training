@@ -259,7 +259,7 @@ without bumping into each other).
 
 ## Seven Plus or Minus Two
 
-> ## The serial position effect
+> ## The Serial Position Effect
 >
 > Read the following list and try to memorize the items in it:
 >
