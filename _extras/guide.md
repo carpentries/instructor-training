@@ -538,7 +538,7 @@ scheduled.
 
 > ## Christina Koch
 >
-> <img src="/fig/guide/christinalk_whyiteach.png" width="50%">
+> <img src="{{ site.root }}/fig/guide/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
 {: .testimonial}
 
 > ## Lex Nederbragt
