@@ -1,5 +1,6 @@
 ---
 title: "Welcome"
+start: true
 teaching: 8
 exercises: 2
 questions:
