@@ -243,7 +243,9 @@ to alienate a classroom and cause learners to tune out.
 
 ### Stereotype Threat
 
-Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*.
+Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*:
+a self-confirming belief that one may be evaluated based on a negative stereotype
+(definition from [study.com][study-com-stereotype-threat]).
 In brief,
 reminding people of negative stereotypes,
 even in subtle ways,
@@ -504,6 +506,7 @@ are always welcome.
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
+[study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
 [tpi]: http://www.teachingperspectives.com/tpi/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
