@@ -74,6 +74,13 @@ another.
 > from both a learner's and an instructor's point of view?
 {: .challenge}
 
+> ## The Bad and the Good
+>
+> Watch this video of [live coding done poorly][live-coding-bad]
+> and this video of [live coding done right][live-coding-good]
+> as a group and then summarize your feedback on both.
+{: .challenge}
+
 ## Live Coding Top 10
 
 Below follow ten tips to help you get started with effective live coding:
@@ -234,13 +241,6 @@ environment - a misplaced joke can ruin this in an instant.  Start
 small, even just saying 'that was fun' after something worked well is
 a good start.  Ask your co-instructors and helpers for feedback when
 you are unsure of the effect you behaviour has on the workshop.
-
-> ## The Bad and the Good
->
-> Watch this video of [live coding done poorly][live-coding-bad]
-> and this video of [live coding done right][live-coding-good]
-> as a group and then summarize your feedback on both.
-{: .challenge}
 
 > ## See Then Do
 >
