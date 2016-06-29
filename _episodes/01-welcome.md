@@ -20,59 +20,72 @@ keypoints:
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 
-To begin your class, the instructors should give a brief introduction
-that will convey their capacity to teach the material,
-accessibility/approachability, desire for student success, and
-enthusiasm.  Tailor your introduction to the students’ skill level so
-that you convey competence (without seeming too advanced) and
-demonstrate that you can relate to the students.  Throughout the
-workshop, continually demonstrate that you are interested in student
-progress and that you are enthusiastic about the topics.
+> ## Favorite Class
+> 
+> In the etherpad, write down your name, the best class you ever 
+> took (or one class from your top ten, if you can't decide), and 
+> what made it so great.  
+{.challenge}
 
-Students should also introduce themselves (preferably verbally).  At
-the very least, everyone should add their name to the Etherpad, but
-its also good for everyone at a given site to know who all is in the
-group.  Note: this can be done while setting up before the start of
-the class.
+Hello everyone, and welcome to the Data Carpentry and Software Carpentry 
+instructor training.  We're very pleased to have you with us.  
 
-## Workshop Overview
+As a brief introduction to Software and Data Carpentry, so that everyone 
+has some context about why we're here.  Software and Data Carpentry are 
+both communities of volunteer researchers, educators, and more who develop 
+lessons and teach 2 day workshops on basic computing and data skills for 
+researchers.  Software Carpentry focuses on how researchers can be effective 
+computationally and developing software; Data Carpentry focuses on how 
+researchers can effectively manage their data.  
+Both organizations aren't out to teach specific skills, per se - those 
+are covered, but instead, the main goal is best practices that will enable 
+researchers to be more productive and do better research.  
 
-This two-day workshop has two goals:
+In the same way, this training will cover specific teaching skills, but 
+one of our main emphases will be the "best practices" of teaching.  A lot 
+of what we cover is based on current research and recommendations.  Similarly, 
+we will be introducing you to a lot of the practices and philosophies that 
+make Software and Data Carpentry unique.  We will *not* be going 
+over the workshop content in detail (maybe a little bit on day 2), but instead
+focus on developing teaching skills that are broadly
+useful across all of our lessons.  Part of this is because 
+this two day training is the first step in getting fully certified 
+to teach Software and/or Data Carpentry workshops.  
+The follow-up steps for full certification will require that you dig into the workshop 
+content yourself and we'll talk about that more tomorrow afternoon.  
 
-*   Introduce participants to a handful of key educational research
-    findings and show how they can be used to help people learn better
-    and faster.
+To orient yourself, there is a schedule on the workshop webpage.  
 
-*   Introduce participants to the teaching practices that have been
-    adopted by the Software and Data Carpentry communities, and the
-    overall philosophy and procedures of both organizations in order
-    to prepare them to teach at Software and Data Carpentry workshops.
+One aspect of this course's design is its relationship to teaching 
+as a performance art.  Just as musicians learn theory, practice techniques, 
+and perform for each other, we're going to be looking at some learning 
+theory (also known as educational psychology), why they matter to us 
+as Software and Data Carpentry instructors, create exercises and learning 
+materials, and practice our teaching.  You can expect a lot of 
+hands-on work and discussion.  We'll be using the the etherpad to collect 
+answers and help facilitate discussion - if you ever have any questions, 
+feel free to put them into the notes or chatbox of the etherpad and we'll 
+make sure we get to them by the end of the day.  
 
-During the insturctor-training workshop students will listen to short
-lessons, participate in individual and group practical exercises,
-practice teaching, and give critical feedback to their peers.
+The greatest asset of Software and 
+Data Carpentry is people like yourself - instructors who want to help 
+people learn about these things and the experience/enthusiasm they bring 
+to teaching.  
 
-After completing the instructor-training workshop,
-participants must complete
-[these follow-up exercises online]({{ site.root }}/checkout/)
-in order to be certified to teach Software Carpentry and/or Data Carpentry.
-This will be discussed in more detail at the end of Day 2. 
+One part of making this a productive two days for all of us, is a 
+community effort to treat one another with kindness and respect.  This 
+training, as in all Software/Data Carpentry workshops is subject to 
+the SWC/DC Code of Conduct.  We will be able to have our most productive 
+effort (and the most fun!) if everyone abides by these guidelines.  
 
-All participants in this course are required to abide by our code of conduct.
+On that note, hopefully you've all met at least someone else in the room 
+and have had a chance to read through the etherpad.  The trainers for 
+this two day training will now introduce themselves.  
 
-There are no specific prerequisites for this training, but
-participants will benefit from having been through a Data Carpentry or
-Software Carpentry workshop so that they are familiar with our
-teaching techniques. In particular, participants are not required to
-have any specific programming skills (though of course they should
-know enough about the subjects of one or more of our lessons to be
-able to teach them). We do not cover the content of Data Carpentry and
-Software Carpentry workshops in this training, both because there are
-too many workshop modules to cover in two days, and because you are
-expected to brush up on the relevant skills for your workshop prior to
-teaching. Rather than covering specific workshop content, this
-training will focus on developing teaching skills that are broadly
-useful across all of our lessons.
+> ## Today's Trainers
+> 
+> Each trainer can introduce themselves.  
+{.discussion}
 
 ## Assessing Trainee Motivation and Prior Knowledge
 
