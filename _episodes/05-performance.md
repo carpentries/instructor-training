@@ -281,7 +281,11 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 ![Feedback Feelings]({{ site.root }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved 
-can share ground rules and expectations.  Here is a list of different 
+can share ground rules and expectations.  This is especially important 
+when the instructor and/or students are have different cultural or 
+domain expectations about feedback.  
+
+Here is a list of different 
 ways that you, as the instructor, can set the stage for receiving feedback
 in a way that helps you improve:
 
