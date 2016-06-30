@@ -36,24 +36,26 @@ instructor training.  We're very pleased to have you with us.
 {.discussion}
 
 Most of you are probably here because you have attended or helped at 
-a Software or Data Carpetnry workshops.  For context
-As a brief introduction to Software and Data Carpentry, so that everyone 
-has some context about why we're here.  Software and Data Carpentry are 
+a Software or Data Carpentry workshops.  To make sure everyone has the 
+same context, we'll give a brief overview of the Software and Data 
+Carpentry organizations.  
+
+Software and Data Carpentry are 
 both communities of volunteer researchers, educators, and more who develop 
-lessons and teach 2 day workshops on basic computing and data skills for 
+lessons and teach two day workshops on basic computing and data skills for 
 researchers.  Software Carpentry focuses on how researchers can be effective 
 computationally and developing software; Data Carpentry focuses on how 
 researchers can effectively manage their data.  
 Both organizations aren't out to teach specific skills, per se - those 
-are covered, but instead, the main goal is best practices that will enable 
+are covered, but instead, the main goal is to convey best practices that will enable 
 researchers to be more productive and do better research.  
 
 In the same way, this training will cover specific teaching skills, but 
 one of our main emphases will be the "best practices" of teaching.  A lot 
 of what we cover is based on current research and recommendations.  Similarly, 
 we will be introducing you to a lot of the practices and philosophies that 
-make Software and Data Carpentry unique.  We will *not* be going 
-over the workshop content in detail (although we will talke about 
+make Software and Data Carpentry unique.  We will not be going 
+over the workshop content in detail (although we will talk about 
 the lessons tomorrow), but instead
 focus on developing teaching skills that are broadly
 useful across all of our lessons.  Part of this is because 
@@ -78,13 +80,13 @@ make sure we get to them by the end of the day.
 One part of making this a productive two days for all of us, is a 
 community effort to treat one another with kindness and respect.  This 
 training, as in all Software/Data Carpentry workshops is subject to 
-the SWC/DC Code of Conduct.  We will be able to have our most productive 
-effort (and the most fun!) if everyone abides by these guidelines.  
+the Software and Data Carpentry Code of Conduct.  We will be able to give our 
+best effort (and have the most fun!) if everyone abides by these guidelines.  
 
 The greatest asset of Software and 
-Data Carpentry is people like yourself - instructors who want to help 
-people learn about these things and the experience/enthusiasm they bring 
-to teaching.  We hope that this training gives everyone a chance to 
+Data Carpentry is people like yourself - people who want to help 
+researchers learn about these ideas and share their own experience
+and enthusiasm.  We hope that this training gives everyone a chance to 
 meet new people and share ideas.  
 
 ## Assessing Trainee Motivation and Prior Knowledge
@@ -124,12 +126,7 @@ motivate the activities and how you communicate with the attendees.
 > 
 {: .discussion}
 
-Now that we have a better idea of everyone's prior knowledge and
-familiarity with some of the SWC and DC teaching practices, we're
-ready to begin our training. Our goal is that by the end, you will
-have acquired some knew knowledge, confidence, and skills that you can
-use in your teaching practice in general and in teaching SWC and DC
-workshops specifically.
-
-Let's dive into the theory and practice behind designing multiple
+Now that we have a better idea of everyone's prior knowledge, 
+let's dive into the training.  Our first topic will be 
+the theory and practice behind designing multiple
 choice questions.
