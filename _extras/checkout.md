@@ -121,17 +121,17 @@ Please note that:
 
 The lessons you may submit to are:
 
-1.  [Data Carpentry lessons](http://www.datacarpentry.org/lessons/):
+1.  [Data Carpentry lessons]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
-    *   R-ecology: <https://github.com/datacarpentry/R-ecology/>
-    *   Python-ecology: <https://github.com/datacarpentry/python-ecology/>
-    *   SQL-ecology: <https://github.com/datacarpentry/sql-ecology/>
-    *   OpenRefine-ecology: <https://github.com/datacarpentry/OpenRefine-ecology/>
-2.  [New Software Carpentry Python lesson](https://github.com/swcarpentry/python-novice-gapminder/):
+    *   R-ecology: <{{ site.dc_github }}/R-ecology/>
+    *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
+    *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
+    *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
+2.  [New Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/):
     This lesson is an experiment to see if we can start collaboration much earlier than we have in the past.
     If you want to add to this, please submit an exercise that uses the Gapminder data set (in the "data" directory).
     Please don't worry too much about formatting, and please only submit the Markdown files (not generated HTML) in pull requests.
-3.  [Stable Software Carpentry lessons](https://software-carpentry.org/lessons/):
+3.  [Stable Software Carpentry lessons]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives.
 
 > ## What Makes a Good Exercise?
@@ -156,7 +156,7 @@ The lessons you may submit to are:
 After you have submitted a change to one of our lessons,
 the next step is to take part in an hour-long discussion session
 led by an experienced instructor.
-This session gives you a change to familiarize yourself with a particular lesson
+This session gives you a chance to familiarize yourself with a particular lesson
 and clarify anything that may be unclear about our operations in general.
 
 Our discussion sessions are run as weekly video conferences:

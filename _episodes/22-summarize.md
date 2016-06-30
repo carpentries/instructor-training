@@ -1,5 +1,4 @@
 ---
-layout: episode
 title: "Afternoon Wrap-Up"
 teaching: 30
 exercises: 15
@@ -10,6 +9,8 @@ objectives:
 - "Understand final steps required to qualify as an instructor."
 - "Evaluate the utility of the instructor training workshop."
 - "Recognize that training was valuable, useful, and appreciated."
+keypoints:
+- "Final steps to qualify are to make a contribution, take part in a discussion, and do a teaching demo."
 ---
 
 ## Instructor Checkout
@@ -23,12 +24,10 @@ The final three steps in qualifying as an instructor are to:
 2.  Take part in a [discussion session][discussion] with experienced instructors.
 3.  Do a 5-minute live coding demo.
 
-[This page]({{ site.github.url }}/checkout/) explains the procedure in detail;
+[This page]({{ site.root }}/checkout/) explains the procedure in detail;
 please review it with your instructor before you leave.
 
 ## Provide Feedback
-
-### One Up, One Down
 
 We frequently ask for summary feedback at the end of each day.
 The instructors ask the learners to alternately give one positive and one negative point about the day,
@@ -37,7 +36,7 @@ This requirement forces people to say things they otherwise might not:
 once all the "safe" feedback has been given,
 participants will start saying what they really think.
 
-[Minute cards]({{ site.github.url }}/15-minute/#other-practices) are anonymous;
+[Minute cards]({{ site.root }}/15-minute/#other-practices) are anonymous;
 the alternating up-and-down feedback is not.
 Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 
@@ -45,8 +44,6 @@ Each mode has its strengths and weaknesses, and by providing both, we hope to ge
 >
 > Provide one up, one down feedback on the entire two-day course.
 {: .challenge}
-
-### Post-Workshop Survey
 
 Just as in our regular workshops,
 we collect post-instructor-training-workshop feedback.

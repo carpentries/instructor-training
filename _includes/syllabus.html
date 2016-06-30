@@ -34,14 +34,19 @@
       {% if multiday %}<td class="col-md-1">{% if episode.start %}Day {{ day }}{% endif %}</td>{% endif %}
       <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
-        <a href="{{ site.github.url }}{{ episode.url }}">{{ episode.title }}</a>
+        <a href="{{ site.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
       <td class="col-md-7">
         {% if episode.break %}
           Break
         {% else %}
           {% if episode.questions %}
-            {{ episode.questions | join: '<br/>' }}
+            {% for question in episode.questions %}
+              {{question|markdownify|strip_html}}
+              {% unless forloop.last %}
+              <br/>
+              {% endunless %}
+            {% endfor %}
           {% endif %}
         {% endif %}
       </td>

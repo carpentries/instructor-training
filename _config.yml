@@ -11,11 +11,12 @@ kind: "lesson"
 # Overall title for pages.
 title: "Instructor Training"
 
-# Account (without slashes).
-account: "swcarpentry"
+# Repository URL (without trailing slash).
+repo: https://github.com/swcarpentry/instructor-training
 
-# Root URL below account (without slashes).
-project: "instructor-training"
+# Root URL below username.github.io domain, with leading slash but no trailing slash.
+# For example, for 'https://swcarpentry.github.io/lesson-example', use '/lesson-example'.
+root: "/instructor-training"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -29,6 +30,7 @@ is_production: true
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
+dc_github: "https://github.com/datacarpentry"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"

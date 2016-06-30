@@ -1,17 +1,15 @@
 ---
 title: "Introduction"
-start: true
 teaching: 30
 exercises: 0
 questions:
 - "How can we describe teaching and learning how to teach?"
 - "What common vocabulary do we need to talk about teaching and learning?"
 objectives:
-- "Describe the ways that learning to teach is comparable to a performing art."
+- "Describe how learning to teach is like learning a performing art."
 - "Identify where in a lesson the instructor is using content knowledge, general knowledge, and pedagogical content knowledge."
 - "Use an example to illustrate the difference between top-down and bottom-up learning."
 keypoints:
-- "This is a master class in teaching."
 - "Aims to strengthen participants' teaching skills."
 - "And to connect them with each other."
 - "Educational psychology: the study of how people learn."
@@ -22,40 +20,30 @@ keypoints:
 This section outlines the structure of this two-day course and provides some
 essential terms for discussion.
 
-## A Master Class
+## Practice and Feedback
 
-Many metaphors can be used to describe teaching and learning: filling
-up a container, lighting a fire, growing a seed, and more.  Our
-favorite is to compare teachers to actors, musicians, athletes, and
-other performing artists.  To become an accomplished performer, one
-must do the following:
+To become accomplished at any complex skill (such as playing a sport or musical instrument), 
+one must do the following:
 
-* **Learn**: Learn the theory and best practices of your art, make
-  choices about your approach, make a plan to train or practice
+* **Learn**: Learn the theory and best practices of your skill, make
+  choices about your approach, make a plan to train or practice.
+
 * **Practice**: Put your theoretical ideas into practice, repeat the
-  desired skill over and over
+  desired skill over and over.
+
 * **Participate**: Watch other performers, have a coach or community
   where you can get new ideas, ask questions, and received feedback
-  on your performance
+  on your performance.
 
-One way that classical musicians weave together this type of training
-is a *master class*.  In a master class, a group of students meet with
-a master performer.  As a group, the students learn from the master,
-practice their skills, and perform for each other with
-the goal of receiving feedback and improving their performance.  Not
-only is a master class a chance to practice and learn, it represents
-the performers' membership and participation in a larger community.
+Learning a new skill requires sustained and deliberate practice, and 
+feedback from experts and fellow practitioners.
 
-This training aims to be a "master class" in teaching, touching
-on these three categories of action.  We will:
+In this training we will:
 
-* **Learn**: We will learn about how people learn, based on the findings of education
-  researchers.  Besides general teaching knowledge, we'll also learn about
-  the practices specific to Software and Data Carpentry.
-* **Practice**: We will practice developing teaching tools based on the
-  theory we learn.  We will have multiple opportunities to practice teaching.
-* **Participate**: We will give feedback to each other to improve our skills. Everyone
-  will participate in discussions about teaching and learning.
+* **Learn**: about how people learn, based on the findings of education
+  researchers.  We'll also learn how these principles are applied in Software and Data Carpentry.
+* **Practice**: practice our teaching skills.
+* **Participate**: by giving feedback to each other to improve our skills.
 
 The "secret sauce" of Software and Data Carpentry lies
 not in its lessons or workshops, or even the pedagogical skill of its
@@ -69,18 +57,20 @@ teaching skills, but to connect instructors:
 
 > ## Key Readings
 >
-> The best overview of research results in education and learning is
-> Ambrose et al's *[How Learning Works][amazon-hlw]*,
-> which is also an excellent example of what secondary literature ought to look like.
+> An excellent overview of research results in education and learning is
+> Ambrose et al's *[How Learning Works][amazon-hlw]*
+> (which is also an excellent example of what secondary literature ought to look like).
 > Green's *[Building a Better Teacher][amazon-babt]*
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
 > and what we should be doing instead.
+> The ultra-short summary "[Deans for Impact report]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+> contains useful, practical insights, and is required reading for this training.
 >
-> Shorter pieces include
-> Guzdial's "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-> and "[Top 10 Myths About Teaching Computer Science]({{ site.github.url }}/files/papers/guzdial-10-myths-2015.pdf)",
-> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf)",
+> Pieces focusing specifically on computer science education include
+> Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+> and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
+> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)",
 > all of which you should read before starting this class.
 {: .callout}
 
@@ -103,9 +93,7 @@ two specific perspectives have primarily influenced Software and Data Carpentry'
 One perspective is *cognitivism*,
 which treats learning as a problem in neuropsychology.
 Cognitivists focus their attention on things like pattern recognition,
-memory formation,
-and recall.
-It is good at answering low-level questions,
+memory formation, and recall. It is good at answering low-level questions,
 but generally ignores larger issues like, "What do we mean by 'learning'?"
 and, "Who gets to decide?"
 
@@ -115,10 +103,10 @@ which focuses on the way that
 *[legitimate peripheral practice][wikipedia-peripheral]*
 leads to people becoming members of
 a *[community of practice][wikipedia-cop]*.
+
 Unpacking those terms,
 the situated learning perspective focuses on the transition from
-being a newcomer to being accepted as a peer by those who already do the activity in question,
-whether it is speaking a language or doing heart surgery.
+being a newcomer to being accepted as a peer by those who already do the activity in question.
 Situated learning is directly relevant to our learners,
 many of whom ease into scientific computing by doing small tasks
 that experienced practitioners would regard as straightforward,
@@ -136,7 +124,6 @@ Situated learning thus describes why we teach,
 and recognizes that teaching and learning is necessarily rooted in a social context.
 We then depend on the cognitivist perspective
 to drive *how* we teach the specific content associated with the community of practice.
-Many of our teaching techniques and lesson development strategies incorporate ideas from this perspective.
 
 > ## Other Perspectives
 >
@@ -232,7 +219,7 @@ The things teachers know can be divided into:
     PCK is things like what examples to use when teaching how parameters are passed to a function,
     or what misconceptions about wildcard expansion are most common.
 
-![Pedagogical Content Knowledge]({{ site.github.url }}/fig/02/pck.svg)
+![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories
@@ -241,7 +228,7 @@ It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
 When it comes to PCK,
-we will [see later]({{ site.github.url }}/08-practices/)
+we will [see later]({{ site.root }}/08-practices/)
 some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
@@ -288,7 +275,6 @@ the course of the next two days.
 > bottom up, top down, or a mix of both?
 > Is that how you prefer to learn?
 {: .discussion}
-
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/

@@ -1,10 +1,14 @@
 ---
-layout: episode
 title: "Afternoon Wrap-Up"
 teaching: 10
 exercises: 5
 questions:
 - "What have we learned?"
+objectives:
+- "Understand overnight homework."
+- "Explain pros and cons of 'one up, one down' feedback."
+keypoints:
+- "Use 'one up, one down' to get wide-ranging feedback."
 ---
 As homework overnight,
 please read our [operations guide]({{ site.swc_site }}/workshops/operations/)
@@ -17,9 +21,9 @@ we will ask you to add one question about our operations to a list;
 we will then do our best to answer all of those questions during the day.
 
 If you haven't done so already,
-please also follow the [setup instructions]({{ site.github.url }}/setup/)
+please also follow the [setup instructions]({{ site.root }}/setup/)
 to install the software that we use when we teach a regular workshop.
-You will need this for tomorrow' [live coding]({{ site.github.url }}/12-live/) exercise,
+You will need this for tomorrow's [live coding]({{ site.root }}/12-live/) exercise,
 and it will also give you first-hand knowledge of what we ask our learners to do.
 
 > ## End-of-Day Feedback

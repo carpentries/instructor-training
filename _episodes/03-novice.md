@@ -15,7 +15,7 @@ keypoints:
 - "Goal when teaching novices is to help them construct a usable mental model."
 - "To do this, must clear up their misconceptions."
 - "Summative assessment: done at the end of teaching to see whether learning took place."
-- "Formative assessment: done during teaching to guide it."
+- "Formative assessment: done during teaching to guide learning."
 - "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 
@@ -60,13 +60,13 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ site.github.url }}/05-expertise/).
+    We will discuss expertise in more detail in [a later lesson]({{ site.root }}/05-expertise/).
 
 We assume that most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our
 primary goal is *not*
 to teach the syntax of a particular programming language,
-but to teach people how to think about programming
+but to teach people how to think about programming and data management
 (and about using computers in research more generally).
 
 One key insight from research on cognitive development is that
@@ -75,7 +75,7 @@ In particular,
 presenting novices with a pile of facts early on is counter-productive,
 because they don't yet have a model to fit those facts into.
 (In fact,
-some research suggests that presenting too many facts too soon can actually reinforce
+presenting too many facts too soon can actually reinforce
 the incorrect mental model they've cobbled together.)
 Instead,
 our goal with novices is *to help them construct a working mental model*
@@ -132,8 +132,8 @@ can be used as a model.
 However, there's another, greater challenge to creating mental models.
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.
-> - Mark Twain
+> It's what you know for sure that just ain't so.  
+> — Mark Twain
 {: .quotation}
 
 Clearing up learners' misconceptions is therefore as important as
@@ -151,7 +151,7 @@ their misconceptions may fall into three categories:
     or "human beings cannot be affecting the planet's climate".
     These usually cannot be addressed in class,
     since they are deeply connected to the learner's social identity
-    and cannot be reasoned away.
+    and often cannot be reasoned away.
 
 Again, since Software and Data Carpentry are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
@@ -184,20 +184,22 @@ Instructors need feedback on their learners' progress,
 and insight into their learners' mental models.
 This is usually done through two kinds of assessment:
 
-*   *Summative assessment* is done at end of teaching
-    to tell whether the learning took place
+*   *Summative assessment* is used
+    to tell whether the desired learning took place
     and whether the learner is ready to move on.
+    Learners either "pass" or "fail" a summative assessment.
     One example is a driving exam,
     which tells the rest of society whether someone can safely be allowed on the road.
 *   *Formative assessment* takes place during teaching and learning.
     Its main purpose is to guide by telling both the instructor and the learner what to focus on.
+    Learners don't "pass" or "fail" formative assessments.
     For example,
     a music teacher might ask a student to play a scale very slowly
     in order to see whether she is breathing correctly,
     and if she is not,
     what she should change.
-    Its second purpose is to prepare learners for the final summative assessment:
-    no one should ever encounter a question on a final exam
+    Its second purpose is to prepare learners for summative assessments:
+    no one should ever encounter a question on an exam
     for which the teaching did not prepare them.
 
 For our in-class purposes, we're most interested in formative assessment.
@@ -241,9 +243,9 @@ but each of the other answers provides valuable insight.
 
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:
-adults will often put supposedly-silly answers like "a fish!" on MCQs,
+instructors will often put supposedly-silly answers like "a fish!" on MCQs,
 but (a) they don't provide any insight
-and (b) kids actually don't find them funny.
+and (b) learners actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what to explain to that particular learner next.
 
@@ -260,11 +262,13 @@ for the right answer, it's probably safe to move on.  If answers are pretty even
 split between options, learners are probably guessing randomly and it's a good
 idea to go back to a point where everyone was on the same page.
 
-Ideally,
-instructors should use MCQs
+Instructors should use MCQs
 or some other kind of formative assessment
-every 10-15 minutes
+at least every 10-15 minutes
 in order to make sure that the class is actually learning.
+Since the average attention span is usually only this long, 
+formative assessments also help break up instructional time
+and re-focus attention.
 Formative assessments can also be used preemptively:
 if you start a class with an MCQ and everyone can answer it correctly,
 then you can safely skip the part of the lecture
@@ -282,13 +286,13 @@ in which you were going to explain something that your learners already know.
 > *[peer instruction][wikipedia-peer-instruction]*.
 > Originally created by Eric Mazur at Harvard,
 > it has been studied extensively in a wide variety of contexts, including programming.
-> When it is used,
-> the basic learning cycle is typically something like this:
+> Peer instruction combines formative assessment with student discussion and looks
+> something like this:
 >
 > 1.  Give a brief introduction to the topic.
 > 2.  Give students an MCQ that probes for misconceptions
 >     (rather than simple factual knowledge).
-> 3.  Have all the students vote publicly on their answers to the MCQ.
+> 3.  Have all the students vote on their answers to the MCQ.
 >     1.  If the students all have the right answer, move on.
 >     2.  If they all have the same wrong answer,
 >         address that specific misconception.

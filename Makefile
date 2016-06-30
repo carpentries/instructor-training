@@ -4,6 +4,7 @@
 # Settings
 MAKEFILES=Makefile $(wildcard *.mk)
 JEKYLL=jekyll
+PARSER=bin/markdown_ast.rb
 DST=_site
 
 # Controls
@@ -15,12 +16,16 @@ commands :
 	@grep -h -E '^##' ${MAKEFILES} | sed -e 's/## //g'
 
 ## serve          : run a local server.
-serve :
+serve : lesson-rmd
 	${JEKYLL} serve --config _config.yml,_config_dev.yml
 
 ## site           : build files but do not run a server.
-site :
+site : lesson-rmd
 	${JEKYLL} build --config _config.yml,_config_dev.yml
+
+## figures        : re-generate inclusion displaying all figures.
+figures :
+	@bin/extract_figures.py -s _episodes -p ${PARSER} > _includes/all_figures.html
 
 ## clean          : clean up junk files.
 clean :
@@ -31,6 +36,11 @@ clean :
 	@find . -name '*~' -exec rm {} \;
 	@find . -name '*.pyc' -exec rm {} \;
 
+## clean-rmd      : clean intermediate R files (that need to be committed to the repo).
+clear-rmd :
+	@rm -rf ${RMD_DST}
+	@rm -rf fig/rmd-*
+
 ## ----------------------------------------
 ## Commands specific to workshop websites.
 
@@ -38,15 +48,19 @@ clean :
 
 ## workshop-check : check workshop homepage.
 workshop-check :
-	bin/workshop_check.py index.html
+	@bin/workshop_check.py .
 
 ## ----------------------------------------
 ## Commands specific to lesson websites.
 
-.PHONY : lesson-check lesson-files lesson-fixme lesson-single
+.PHONY : lesson-check lesson-rmd lesson-files lesson-fixme
+
+# RMarkdown files
+RMD_SRC = $(wildcard _episodes_rmd/??-*.Rmd)
+RMD_DST = $(patsubst _episodes_rmd/%.Rmd,_episodes/%.md,$(RMD_SRC))
 
 # Lesson source files in the order they appear in the navigation menu.
-SRC_FILES = \
+MARKDOWN_SRC = \
   index.md \
   CONDUCT.md \
   setup.md \
@@ -56,7 +70,7 @@ SRC_FILES = \
   LICENSE.md
 
 # Generated lesson files in the order they appear in the navigation menu.
-HTML_FILES = \
+HTML_DST = \
   ${DST}/index.html \
   ${DST}/conduct/index.html \
   ${DST}/setup/index.html \
@@ -65,21 +79,27 @@ HTML_FILES = \
   $(patsubst _extras/%.md,${DST}/%/index.html,$(wildcard _extras/*.md)) \
   ${DST}/license/index.html
 
+## lesson-rmd:    : convert Rmarkdown files to markdown
+lesson-rmd: $(RMD_SRC)
+	@bin/knit_lessons.sh $(RMD_SRC)
+
 ## lesson-check   : validate lesson Markdown.
 lesson-check :
-	bin/lesson_check.py -s . -p bin/markdown-ast.rb
+	@bin/lesson_check.py -s . -p ${PARSER}
 
 unittest :
 	python bin/test_lesson_check.py
 
 ## lesson-files   : show expected names of generated files for debugging.
 lesson-files :
-	@echo 'source:' ${SRC_FILES}
-	@echo 'generated:' ${HTML_FILES}
+	@echo 'RMD_SRC:' ${RMD_SRC}
+	@echo 'RMD_DST:' ${RMD_DST}
+	@echo 'MARKDOWN_SRC:' ${MARKDOWN_SRC}
+	@echo 'HTML_DST:' ${HTML_DST}
 
 ## lesson-fixme   : show FIXME markers embedded in source files.
 lesson-fixme :
-	@fgrep -i -n FIXME ${SRC_FILES} || true
+	@fgrep -i -n FIXME ${MARKDOWN_SRC} || true
 
 #-------------------------------------------------------------------------------
 # Include extra commands if available.

@@ -1,5 +1,6 @@
 ---
 title: "Welcome"
+start: true
 teaching: 8
 exercises: 2
 questions:
@@ -15,10 +16,9 @@ keypoints:
 
 ## Introductions 
 
-> ## `.testimonial`
->
-> Introductions set the stage for learning. - Tracy Teal, Executive Director, Data Carpentry
-{: .testimonial}
+> Introductions set the stage for learning.  
+> — Tracy Teal, Executive Director, Data Carpentry
+{: .quotation}
 
 To begin your class, the instructors should give a brief introduction
 that will convey their capacity to teach the material,
@@ -54,7 +54,7 @@ practice teaching, and give critical feedback to their peers.
 
 After completing the instructor-training workshop,
 participants must complete
-[these follow-up exercises online]({{ site.github.url }}/checkout/)
+[these follow-up exercises online]({{ site.root }}/checkout/)
 in order to be certified to teach Software Carpentry and/or Data Carpentry.
 This will be discussed in more detail at the end of Day 2. 
 

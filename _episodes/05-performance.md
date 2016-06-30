@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
 - "Explain how teaching practices are actually transferred and adopted."
-- "Summarize the strengths and weaknesses of your performance as a lecturer."
+- "Summarize the strengths and weaknesses of your teaching practices."
 keypoints:
 - "Great teachers are made, not born."
 - "Formal written descriptions of teaching practices are ineffective."
@@ -161,9 +161,9 @@ the theory they've learned in education school
 to deliver an actual lesson in an actual classroom for actual students.
 
 Fincher and her colleagues studied how teaching practices are actually transferred
-using both [a detailed case study]({{ site.github.url }}/files/papers/fincher-warrens-questions-2007.pdf)
+using both [a detailed case study]({{ site.root }}/files/papers/fincher-warrens-questions-2007.pdf)
 and
-[analysis of change stories]({{ site.github.url }}/files/papers/fincher-stories-change-2012.pdf).
+[analysis of change stories]({{ site.root }}/files/papers/fincher-stories-change-2012.pdf).
 The abstract of the latter paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by educators in the field,
@@ -181,7 +181,7 @@ The abstract of the latter paper sums up their findings:
 > or involved only personal interaction with other educators.
 {: .quotation}
 
-As reported in [this paper]({{ site.github.url }}/files/papers/barker-practice-adoption-2015.pdf),
+As reported in [this paper]({{ site.root }}/files/papers/barker-practice-adoption-2015.pdf),
 Barker et al found something similar in 2015:
 
 > Adoption is not a "rational action," however, but an iterative
@@ -278,7 +278,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 Sometimes it can be hard to receive negative feedback.
 
-![Feedback Feelings]({{ site.github.url }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings]({{ site.root }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Here is a list of some strategies to make sure that you can receive feedback
 in a way that helps you improve:
@@ -320,8 +320,6 @@ Having another instructor in the classroom saves your voice
 but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
-
-
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
