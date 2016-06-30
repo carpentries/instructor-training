@@ -268,12 +268,6 @@ in very different ways.  The uniqueness of your teaching style can and should
 be based on your strengths.  This is why it's just as important to identify strengths
 as weaknesses when trying to improve your teaching.  It's good to know what you do well!
 
-> ## The Two-Dimensional You
->
-> If you were a cartoon character teacher, who would you be?  What does that say about your
-> teaching style?
-{: .discussion}
-
 ## Feedback
 
 Sometimes it can be hard to receive negative feedback.

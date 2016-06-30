@@ -37,7 +37,13 @@ permalink: /exercises/
 > and how to get learners to confront it.
 {: .challenge}
 
-## Feedback
+## Performance and Feedback
+
+> ## The Two-Dimensional You
+>
+> If you were a cartoon character teacher, who would you be?  What does that say about your
+> teaching style?
+{: .discussion}
 
 > ## Feedback on Feedback
 >
