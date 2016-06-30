@@ -100,60 +100,6 @@ This is called *instructional design* (ID);
 if educational psychology is the science,
 ID is the engineering.
 
-For example,
-most children today are taught to read using a bottom-up technique called
-[phonics][wikipedia-phonics],
-which introduces them to the sounds of letters,
-then puts those letters and their sounds together to make simple words like "bug" and "run",
-then assembles the words into sentences and stories.
-But another technique called [whole language][wikipedia-whole-language]
-takes a different approach.
-Instead of starting with letters,
-its proponents teach children to recognize entire words
-so that they get the positive feedback of being able to read whole stories as early as possible.
-The basic idea is that once children find reading rewarding,
-they'll be motivated to go back and figure out the letters.
-
-These approaches are not equally consistent with what we know about how children
-learn to read. There is some evidence that proficient, adult readers identify
-whole word patterns. But humans are really good at associating sounds with
-meaning, and the scientific consensus among linguists, psychologists and
-neuroscientists is that the bridge phonics builds from letters to sounds makes
-learning to read easier.
-
-So while whole-language instruction takes an optimistic and student-centered
-view on learning -- encouraging enjoyment in learning as a key element in the
-process -- it is not consistent with the scientific view of the way that
-learning to read actually takes place. Nevertheless, when these methods were
-studied in classrooms, the findings have been contradictory: while some
-classroom studies find that phonics works best, others show that whole language
-yields better results.
-
-One explanation is that a third factor is at play. If children sense that their
-teachers are enthusiastic about something, they will respond to that enthusiasm
-and learn better. If they feel their teachers are just marking time, though,
-they will emulate that instead. Thus, when studies are done by people who are
-proponents of a new technique (as they often are), they are likely to produce
-positive results, but when those techniques are deployed more widely to teachers
-who have seen one bandwagon after another roll by, results will regress to the
-mean, or even beyond.
-
-> ## Quantitative and Qualitative Research
->
-> One of the major challenges in educational research is that
-> human beings are very different from one another.
-> In order to get meaningful quantitative results,
-> studies must therefore include large numbers of subjects,
-> which is expensive.
-> Quantitative studies are also not able to answer many "why" questions.
-> For those,
-> researchers need to use qualitative methods,
-> such as [grounded theory][wikipedia-grounded-theory].
-> Physical scientists are sometimes skeptical of such studies and their findings,
-> but done rigorously,
-> they can provide actionable insights that quantitative methods cannot.
-{: .callout}
-
 ### Pedagogical Content Knowledge
 
 In the end, effective teaching often depends on what the teacher knows.
