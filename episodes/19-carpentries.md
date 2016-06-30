@@ -78,6 +78,42 @@ Its workshops are:
 
 ![Software Carpentry and Data Carpentry Comparison]({{ site.root }}/fig/10/SWCvsDC.png)
 
+## Existing Lessons
+
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
+*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
+*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
+*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
+*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+
+but these are less frequently used.
+
+Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
+are domain-specific and cover data organization, manipulation, and visualization skills
+relevant to the target domain.
+Currently, there are fully-developed workshops for:
+
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop) 
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
+
+Other Data Carpentry lessons are in the incubator stage.
+
 ## Workshop Operations
 
 We have recorded what we've learned about writing workshops
