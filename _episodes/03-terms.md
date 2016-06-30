@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-teaching: 30
+teaching: 10
 exercises: 0
 questions:
 - "How can we describe teaching and learning how to teach?"
