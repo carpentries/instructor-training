@@ -1,7 +1,7 @@
 ---
 title: "Morning Wrap-Up"
-teaching: 5
-exercises: 10
+teaching: 0
+exercises: 5
 questions:
 - "What have we learned?"
 objectives:
