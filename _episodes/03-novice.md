@@ -292,7 +292,7 @@ in which you were going to explain something that your learners already know.
 > 1.  Give a brief introduction to the topic.
 > 2.  Give students an MCQ that probes for misconceptions
 >     (rather than simple factual knowledge).
-> 3.  Have all the students vote on their answers to the MCQ.
+> 3.  Have all the students vote on their answers to the MCQ. After the vote, show them the tally.
 >     1.  If the students all have the right answer, move on.
 >     2.  If they all have the same wrong answer,
 >         address that specific misconception.
