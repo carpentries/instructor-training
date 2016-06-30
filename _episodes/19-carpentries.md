@@ -277,6 +277,27 @@ our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
 We discuss this in more detail in [a later lesson]({{ site.root }}/20-lessons/).
 
+### Lesson Contribution
+
+The lesson materials for Software and Data Carpentry
+are hosted on GitHub:
+
+*   [Data Carpentry on GitHub][dc-github]
+*   [Software Carpentry on GitHub][swc-github]
+
+and are developed collaboratively---in 2015 alone, almost 200 people
+made contributions to various lessons.  Each lesson is in a separate
+repository, and consists of narrative lesson material and an
+associated directory containing the data or scripts needed in the
+lesson.  This source material is also then served as a website, using
+GitHub's "gh-pages" feature.
+
+Lesson contribution is managed within the repository using "issues"
+and "pull requests".  New problems or suggestions can be introduced
+as issues, discussed by the community, and addressed via a pull
+request, which serves as a "request" to make changes, and can also
+be discussed before changes are merged.  
+
 ### Beyond Lessons
 
 While contribution is frequently seen in terms of contributing
