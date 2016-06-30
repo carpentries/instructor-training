@@ -399,8 +399,13 @@ are domain-specific and cover data organization, manipulation, and visualization
 relevant to the target domain.
 Currently, there are fully-developed workshops for:
 
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)  
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)  
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+	* Focuses on general data management skills (proper 
+	data formatting and tracking) and tools for manipulating and 
+	visualizing tabular data.  
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop) 
+	* Specialized for researchers with sequence data, includes specific 
+	bioinformatics tools and how to use large-scale computing resources.  
 *   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
 
 There are also materials in development and testing for:
