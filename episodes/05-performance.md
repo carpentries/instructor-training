@@ -282,7 +282,7 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 
 Feedback is most effective when the people involved 
 can share ground rules and expectations.  This is especially important 
-when the instructor and/or students are have different cultural or 
+when the instructor and/or students have different cultural or 
 domain expectations about feedback.  
 
 Here is a list of different 
@@ -291,13 +291,16 @@ in a way that helps you improve:
 
 * Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
-* Choose your own questions.  For example: 
-	* "What is one thing I could have done as a teacher to make this lesson more
+* Choose your own questions and ask for specific feedback.  For example: 
+	* "What is one thing I could have done as an instructor to make this lesson more
   effective?"  
 	* "If you could pick one thing from the lesson to go over again, what 
 	would it be?"
-These questions reveal what didn't work in your teaching, but 
-read as professional suggestions rather than personal judgments.
+Specific feedback like this is more useful than a generic "that was great!" or "that 
+was terrible!"  Also, writing your own feedback questions allows you to frame 
+feedback in a way that is helpful to you - the questions above 
+reveal what didn't work in your teaching, but 
+read as professional suggestions rather than personal judgments.  
 
 * Communicate expectations. If your teaching feedback is taking the form of an
   observation (and you're comfortable enough with the observer), tell
