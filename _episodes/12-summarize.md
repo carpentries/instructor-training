@@ -30,11 +30,13 @@ and it will also give you first-hand knowledge of what we ask our learners to do
 >
 > We frequently ask workshop participants to give us feedback at the end
 > of each day using a technique called "one up, one down".  The
-> instructor asks the learners to alternately give one positive and one
+> instructor asks the learners to alternatively give one positive and one
 > negative point about the day, without repeating anything that has
 > already been said.  This requirement forces people to say things they
 > otherwise might not: once all the "safe" feedback has been given,
-> participants will start saying what they really think.
+> participants will start saying what they really think. The instructor
+> writes down the feedback in the etherpad or a text editor,
+> but is not supposed to comment on the feedback while collecting it.
 >
 > When called upon by the instructor, add one positive or one negative
 > point to the growing list *without* repeating anything that has
