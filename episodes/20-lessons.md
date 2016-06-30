@@ -160,7 +160,7 @@ in learning objectives written for each level.
 </table>
 
 Baume's guide to
-[writing and using good learning outcomes]({{ site.github.url }}/files/papers/baume-learning-outcomes-2009.pdf)
+[writing and using good learning outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
 > ## Evaluate SWC and DC Learning Objectives
@@ -264,7 +264,21 @@ who are still learning the syntax of a programming language
 so in practice the programming lessons focus primarily on
 the mechanics of doing common operations in those languages.
 
-FIXME: summarize Data Carpentry lessons.
+Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
+are domain-specific and cover data organization, manipulation, and visualization skills
+relevant to the target domain.
+Currently, there are fully-developed workshops for:
+
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)  
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)  
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
+
+Other Data Carpentry lessons are in the incubator stage.
 
 ### Lesson Development
 

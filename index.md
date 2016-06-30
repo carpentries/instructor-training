@@ -9,8 +9,6 @@ Unfortunately,
 much of that knowledge has not yet been translated into common classroom practice,
 while many myths about education have proven remarkably persistent.
 
-## About This Course
-
 This two-day class has two goals:
 
 *   Introduce participants to a handful of key research findings
@@ -26,7 +24,7 @@ The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online]({{ site.github.url }}/checkout/)
+and [some short follow-up exercises online]({{ site.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
@@ -46,6 +44,6 @@ on the Github repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-[conduct]: {{ site.github.url }}/conduct/
-[license]: {{ site.github.url }}/license/
+[conduct]: {{ site.root }}/conduct/
+[license]: {{ site.root }}/license/
 [issues]: {{ site.github.repository_url }}/issues
