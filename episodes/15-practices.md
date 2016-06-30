@@ -184,6 +184,11 @@ Peak rule.
     While it has been criticized for not strongly predicting what's remembered,
     it's always worth trying to end a lesson on a high note.
 
+Instructor guides.
+:   Each Software and Data Carpentry lesson has an instructor's guide, with notes 
+    from instructors who have already taught the material.  This can be a valuable 
+    resource when preparing lessons, especially when teaching a lesson for the first time.  
+
 ## The Code of Conduct
 
 Beyond the teaching practices and philosophies found in Software and Data 
