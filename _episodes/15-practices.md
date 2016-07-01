@@ -185,9 +185,13 @@ Peak rule.
     it's always worth trying to end a lesson on a high note.
 
 Instructor guides.
-:   Each Software and Data Carpentry lesson has an instructor's guide, with notes 
+:   Many of the Software and Data Carpentry lessons have an 
+    instructor's guide, with notes 
     from instructors who have already taught the material.  This can be a valuable 
     resource when preparing lessons, especially when teaching a lesson for the first time.  
+    The Software Carpentry instructor guides are linked on each lesson page; the 
+    instructor guides for Data Carpentry lessons are on 
+    their [main lesson page][here]({{ site.dc_site }}/lessons/).  
 
 ## The Code of Conduct
 
