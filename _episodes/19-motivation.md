@@ -89,6 +89,16 @@ It is also *tangible*:
 if the image comes out the wrong size,
 learners have a concrete starting point for debugging.
 
+> ## Authentic Tasks: Think, Pair, Share
+>
+> **Think** about something you did this week that uses one or more of the skills we teach,
+> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
+> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
+> **Pair** up with your neighbor and decide where this exercise fists on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
+> In the class Etherpad, **share** the task and where its fits on the 2x2 grid.
+> As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
+{: .challenge}
+
 ## Strategies for Motivating Learners
 
 *[How Learning Works][amazon-hlw]*
@@ -98,14 +108,18 @@ it's hard to imagine someone saying that we *shouldn't* identify and reward what
 but it's useful to check lessons against these points
 to make sure they're doing at least a few of these things.
 
-> ## Provide an example of examplishing value before launching into the list
+> ## Provide an Example
+>
 > Insert a personal story here about how you establish value in the classroom.
 > Or, use Rayna's personal story, which goes like this:
 > In the Unix lesson, we use a haiku to teach grep.
-> This is a great didatic tool, but it can be hard for learners to see how they can use it in their research.
-> After the grep lesson, I show a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. I emphasize that the students just learned each of the pieces.
-> (See https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> This way, I connect my bioinformatic users with domain-specific examples using an authentic task that is relevant to their research.
+> This is a great didactic tool, but it can be hard for learners to see how they can use it in their research.
+> After the grep lesson, I show a one liner that combines head, grep, sort, and uniq
+>  to produce a ranked list of the most abundant sequences.
+> I emphasize that the students just learned each of the pieces
+> (see <https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners>).
+> This way, I connect my bioinformatics users with domain-specific examples
+> using an authentic task that is relevant to their research.
 {: .callout}
 
 *   Strategies to establish value:
@@ -129,6 +143,22 @@ to make sure they're doing at least a few of these things.
 *   Strategies for self-efficacy:
     1.  Provide flexibility and control.
     2.  Give students an opportunity to reflect.
+
+> ## Brainstorming Motivational Strategies
+>
+> *Think* back to a computational (or other) course you took in the past, and
+> identify one thing the instructor did that motivated you.
+> *Pair* up with your neighbor and discuss what motivated you.
+> *Share* the motivational story in the Etherpad.
+{: .challenge} 
+
+> ## Motivational Checklist
+>
+> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
+> to the motivational checklist presented earlier.
+> What is the lesson doing (if anything) to engage learners
+> and convince them its material is worth mastering?
+{: .challenge}
 
 > ## Not Just Learners
 >
@@ -182,7 +212,7 @@ to alienate a classroom and cause learners to tune out.
 >     or "you've never heard of Y?" signals to the learner that they do not have
 >     some required pre-knowledge of the material you are teaching, that they
 >     are in the wrong place, and it may prevent them from asking questions in
->     the future. (This idea is due to the Recurse center's [Social Rules][recurse-social-rules]).
+>     the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
 {: .callout}
 
 > ## The Importance of Having Rules
@@ -202,6 +232,13 @@ to alienate a classroom and cause learners to tune out.
 > Write a paragraph or two about something that happened in your educational career
 > that demotivated you, and explain what could have been done afterward to fix it.
 > After everyone has completed, draw out common demotivational themes.
+{: .challenge}
+
+> ## Brainstorming Demotivational Experiences
+>
+> *Think* back to a time when you demotivated a student (or when you were demotivated as a student).
+> *Pair* up with your neighbor and discuss what you could have done differently in the situation.
+> *Share* the demotivational story in the Etherpad.
 {: .challenge}
 
 ### Stereotype Threat
@@ -254,6 +291,20 @@ to implement these ideas are:
 [This website][reduce-stereotype-threat] has more suggestions
 and links to further reading.
 
+> ## Never Learn Alone
+>
+> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
+> rather than as individuals.
+> If an entire lab group comes,
+> or if attendees are drawn from the same (or closely-related) disciplines,
+> everyone in the room will know in advance
+> that they will be with at least a few people they trust,
+> which increases the chances of them actually coming.
+> It also helps after the workshop:
+> if people come with their labmates,
+> they can work together to implement what they've learned.
+{: .callout}
+
 ### Impostor Syndrome
 
 [Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
@@ -301,19 +352,19 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-> ## Never Learn Alone
+> ## Why Do You Teach?
 >
-> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
-> rather than as individuals.
-> If an entire lab group comes,
-> or if attendees are drawn from the same (or closely-related) disciplines,
-> everyone in the room will know in advance
-> that they will be with at least a few people they trust,
-> which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
-{: .callout}
+> We all have a different motivation for teaching, and that is a really good thing!
+> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
+> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
+> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
+{: .challenge}
+
+> ## What Do You Believe About Teaching? Challenge
+>
+> Complete the [Teaching Perspectives Inventory][tpi].
+> Are you surprised about what it says about your view of teaching?
+{: .challenge}
 
 ### Mindset
 
@@ -342,6 +393,20 @@ she is likely to develop a growth mindset,
 and subsequently achieve more.  Studies have also shown that
 the simple action of telling learners about the different mindsets
 before a course can improve learning outcomes for the whole group.
+
+> ## Thought Record
+>
+> Remember a time when you felt like you didn't know what you were doing.
+> Describe the emotions that you felt (such as sad, anxious, scared).
+>
+> *   Where were you? What were you doing? With whom?
+> *   What thoughts were going through your mind at this time?
+> *   What facts or evidence support these thoughts?
+> *   What facts or evidence do not support these thoughts?
+>
+> Write an alternative thought that takes this evidence into account.
+> How do you feel about this situation now?
+{: .challenge}
 
 ## Accessibility
 
@@ -418,74 +483,6 @@ are always welcome.
 >     font choices, general text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
-
-> ## Authentic Tasks: Think, pair, share
->
-> **Think** about something you did this week that uses one or more of the skills we teach,
-> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
-> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fists on a 2x2 plot of "time to master" and "usefulness"?
-> In the class etherpad, **share** the task and where its fits on the 2x2 plot.
-{: .challenge}
-
-> ## Motivational Checklist
->
-> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
-> to the motivational checklist presented earlier.
-> What is the lesson doing (if anything) to engage learners
-> and convince them its material is worth mastering?
-{: .challenge}
-
-
-> ## Motivational Strategies - Brainstorm Challenge
-> **Think** back to a time when you demotivated a student (or when you were demotiated as a student).
-> **Pair** up with your neighbor and discuss what you could have done differently in the situtation.
-> **Share** the de-motivational story in the etherpad.
->
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight a few of the things that could have been done differently.
-> This will give everyone some confidence in how to handle these situations in the future.
-{: .challenge}
-
-> ## Demotivational Strategies - Brainstorm Challenge
-> **Think** back to a computational (or other) course you took in the past, and
-> identify one thing the instructor did that motivated you.
-> **Pair** up with your neighbor and discuss what motivated you.
-> **Share** the motivational story in the etherpad.
->
-> Instructor's guide: review the comments in the ether pad.
-> Rather than read all outloud, highlight the common themes
-> (i.e. establish value, positive expectiations, promote self efficiency)
-> or things that stand out our that you can relate to
-{: .challenge}
-
-> ## Why Do You Teach?
-> We all have a different motivation for teaching, and that is a really good thing!
-> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
-> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
-> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-{: .challenge}
-
-> ## What Do You Believe About Teaching?
->
-> Complete the [Teaching Perspectives Inventory][tpi].
-> Do you agree with what it says about your view of teaching?
-> Do you think the questionnaire is valuable and credible?
-{: .challenge}
-
-> ## Thought Record
->
-> Remember a time when you felt like you didn't know what you were doing.
-> Describe the emotions that you felt (such as sad, anxious, scared).
->
-> *   Where were you? What were you doing? With whom?
-> *   What thoughts were going through your mind at this time?
-> *   What facts or evidence support these thoughts?
-> *   What facts or evidence do not support these thoughts?
->
-> Write an alternative thought that takes this evidence into account.
-> How do you feel about this situation now?
-{: .challenge}
 
 > ## Accessibility Testing
 >

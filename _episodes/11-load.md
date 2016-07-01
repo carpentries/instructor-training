@@ -174,6 +174,17 @@ to create the final result.
 > What problem-solving strategy does it teach?
 {: .challenge}
 
+> ## Create a Faded Example from a Lesson
+>
+> The following exercise should be done in groups of 2-3.
+>
+> 1.  Pick a block of code from an existing Software or Data Carpentry lesson.
+>     (Your instructor will post links to the lessons in the Etherpad.)
+> 2.  Replace 2-3 pieces of the code with a blank.
+> 3.  Write a question to test the student's ability to correctly fill in that blank.
+> 4.  Paste your faded example in the Etherpad.
+{: .challenge}
+
 ## Parsons Problems
 
 Another kind of exercise designed to reduce cognitive load is a *Parsons Problem*,

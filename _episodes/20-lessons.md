@@ -165,13 +165,26 @@ is a good longer discussion of these issues.
 
 > ## Improving Objectives
 >
-> Are the following learning objectives strong or weak?  How could
-> you improve some of the weak objectives?
+> Are the following learning objectives strong or weak?
+> How could you improve some of the weak objectives?
 >
-> * Learn what a Python library is, and what it can be used for.
-> * Be able to use "dplyr" and provide simple examples.
-> * Understand the importance of using version control.
-> * Understand data slicing/manipulation.
+> *   Learn what a Python library is and what it can be used for.
+> *   Be able to use `dplyr` and provide simple examples.
+> *   Understand the importance of using version control.
+> *   Understand data slicing/manipulation.
+{: .challenge}
+
+> ## Evaluate SWC and DC Learning Objectives
+>
+> Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
+> Take a minute to select one learning objective from one of those lessons,
+> then complete the following steps to evaluate it and reword it to make it sharper.
+>
+> 1. Identify the learning objective verb.
+> 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
+> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
+> 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
 
 ## Learner Profiles
@@ -251,14 +264,19 @@ who are still learning the syntax of a programming language
 so in practice the programming lessons focus primarily on
 the mechanics of doing common operations in those languages.
 
-Data Carpentry's [lessons](http://www.datacarpentry.org/lessons/) are domain-specific and cover data organization, manipulation, and visualization skills relevant to the target domain. Currently, there are fully-developed workshops for:  
-*   [Ecology](http://www.datacarpentry.org/lessons/#ecology-workshop)  
-*   [Genomics](http://www.datacarpentry.org/lessons/#genomics-workshop)  
-*   [Geospatial Data](http://www.datacarpentry.org/lessons/#geospatial-data-workshop)  
+Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
+are domain-specific and cover data organization, manipulation, and visualization skills
+relevant to the target domain.
+Currently, there are fully-developed workshops for:
 
-There are also materials in development and testing for:  
-*   [Social Science](http://www.datacarpentry.org/lessons/#social-science-materials)  
-*   and a [semester-long Biology](http://www.datacarpentry.org/semester-biology/) course.
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)  
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)  
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
 
 Other Data Carpentry lessons are in the incubator stage.
 
@@ -275,7 +293,7 @@ made contributions to various lessons.  Each lesson is in a separate
 repository, and consists of narrative lesson material and an
 associated directory containing the data or scripts needed in the
 lesson.  This source material is also then served as a website, using
-GitHubs "gh-pages" feature.
+GitHub's "gh-pages" feature.
 
 Lesson contribution is managed within the repository using "issues"
 and "pull requests".  New problems or suggestions can be introduced

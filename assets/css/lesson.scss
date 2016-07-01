@@ -17,6 +17,7 @@ $color-source:      #6e5494 !default;
 $color-callout:     #f4fd9c !default;
 $color-challenge:   #eec275 !default;
 $color-checklist:   #dfd2a0 !default;
+$color-discussion:  #eec275 !default;
 $color-keypoints:   #7ae78e !default;
 $color-objectives:  #daee84 !default;
 $color-prereq:      #9cd6dc !default;
@@ -36,6 +37,12 @@ $color-testimonial: #fc8dc1 !default;
 .error  { @include cdSetup($color-error); }
 .output { @include cdSetup($color-output); }
 .source { @include cdSetup($color-source); }
+
+.bash   { @include cdSetup($color-source); }
+.make   { @include cdSetup($color-source); }
+.python { @include cdSetup($color-source); }
+.r      { @include cdSetup($color-source); }
+.sql    { @include cdSetup($color-source); }
 
 //----------------------------------------
 // Specialized blockquote environments for learning objectives, callouts, etc.
@@ -80,6 +87,7 @@ $codeblock-padding: 5px !default;
 .callout{ @include bkSetup($color-callout, "\e146"); }
 .challenge{ @include bkSetup($color-challenge, "\270f"); }
 .checklist{ @include bkSetup($color-checklist, "\e067"); }
+.discussion{ @include bkSetup($color-discussion, "\e123"); }
 .keypoints{ @include bkSetup($color-keypoints, "\e101"); }
 .objectives{ @include bkSetup($color-objectives, "\e085"); }
 .prereq{ @include bkSetup($color-prereq, "\e124"); }
@@ -122,7 +130,6 @@ ul,
 ol {
   padding-left: 1em;
 }
-
 
 span.fold-unfold {
   margin-left: 1em;

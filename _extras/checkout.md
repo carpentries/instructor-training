@@ -45,17 +45,20 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1. Submitting a change request to fix an existing issue.
-2. Proof-reading a lesson and adding a new issue describing something to be improved.
-3. Providing substantive feedback on an existing issue or PR.
+1.  Submitting a change request to fix an existing issue.
+2.  Proof-reading a lesson and adding a new issue describing something to be improved.
+3.  Providing substantive feedback on an existing issue or PR.
 
-Trainees must do their work on one of the lessons for which we are currently seeking improvements. We encourage trainees to submit their changes through GitHub, but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
+Trainees must do their work on one of the lessons for which we are currently seeking improvements.
+We encourage trainees to submit their changes through GitHub,
+but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
 
 Pick one of the lessons from the list given later in this section
 and submit a *small* change.
-Note that you may submit a change to a Data Carpentry lesson
-when qualifying as a Software Carpentry instructor:
-the goal is to be sure you are familiar with the process.
+You must submit a change to a Software Carpentry lesson to qualify as a Software Carpentry instructor,
+and a change to a Data Carpentry lesson to qualify as a Data Carpentry instructor.
+Instructors seeking dual certification should submit two changes (one to each Carpentry)
+to ensure they are familiar with the process and the materials.
 
 Your change can be a new exercise or diagram,
 or an improvement to one or more of the lesson's learning objectives.
@@ -118,17 +121,17 @@ Please note that:
 
 The lessons you may submit to are:
 
-1.  [Data Carpentry lessons](http://www.datacarpentry.org/lessons/):
+1.  [Data Carpentry lessons]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
-    *   R-ecology: <https://github.com/datacarpentry/R-ecology/>
-    *   Python-ecology: <https://github.com/datacarpentry/python-ecology/>
-    *   SQL-ecology: <https://github.com/datacarpentry/sql-ecology/>
-    *   OpenRefine-ecology: <https://github.com/datacarpentry/OpenRefine-ecology/>
-2.  [New Software Carpentry Python lesson](https://github.com/swcarpentry/python-novice-gapminder/):
+    *   R-ecology: <{{ site.dc_github }}/R-ecology/>
+    *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
+    *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
+    *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
+2.  [New Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/):
     This lesson is an experiment to see if we can start collaboration much earlier than we have in the past.
     If you want to add to this, please submit an exercise that uses the Gapminder data set (in the "data" directory).
     Please don't worry too much about formatting, and please only submit the Markdown files (not generated HTML) in pull requests.
-3.  [Stable Software Carpentry lessons](https://software-carpentry.org/lessons/):
+3.  [Stable Software Carpentry lessons]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives.
 
 > ## What Makes a Good Exercise?
@@ -177,7 +180,7 @@ make notes about the following:
 3. What are some misconceptions that the students could develop when learning this material?
    Which bits of the module may be tricky and if poorly explained, they may lead the students to broken mental model?
 4. What prior knowledge do learners need to have before participating in this module (whole lesson)?
-   If you were to list any prerequsites, what would they be?
+   If you were to list any prerequisites, what would they be?
 
 The first two questions are intended to help you become more comfortable with
 [our collaborative lesson development methods][blog-collab-lesson].

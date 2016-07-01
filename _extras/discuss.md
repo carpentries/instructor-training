@@ -156,13 +156,14 @@ it behooves us to try to meet those same standards ourselves.
 > and what impact it has on productivity.
 > An example of what we wish existed
 > is [this summary][stefik-summary] by Stefik et al
-> of empirical research on the usability of programming langauges
+> of empirical research on the usability of programming languages
 > (while [this full-length paper][stefik-paper] gives an idea of what's possible).
 {: .callout}
 
 ## Why We're Not a MOOC
 
 > If you use robots to teach, you teach people to be robots.
+{: .quotation}
 
 This difference between what novices are doing when they learn,
 and what competent practitioners are doing,
