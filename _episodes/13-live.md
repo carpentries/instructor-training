@@ -78,7 +78,12 @@ another.
 >
 > Watch this video of [live coding done poorly][live-coding-bad]
 > and this video of [live coding done right][live-coding-good]
-> as a group and then summarize your feedback on both.
+> as a group and then summarize your feedback on both. 
+> In the videos, the bash shell `for` loop is taught, 
+> and it is assumed learners are familiar with how to use a variable,
+> the `head `command and the content of the `basilisk.dat unicorn.dat`
+> files.
+
 {: .challenge}
 
 ## Live Coding Top 10
