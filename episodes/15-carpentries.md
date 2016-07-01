@@ -159,7 +159,7 @@ Quoting the [Data Carpentry workshops page][dc-request]:
 >
 > All instructors are volunteers, but the Host needs to cover their travel expenses.
 > We work to find local instructors,
-> but suggest that you estimate about $2000 for the travel, food and accomodation of the instructors.
+> but suggest that you estimate about $2000 for the travel, food and accommodation of the instructors.
 > The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
 {: .quotation}
 
@@ -230,7 +230,7 @@ and does the following:
 *   Installs GNU Make and makes it accessible from msysGit
 *   Installs nano and makes it accessible from msysGit
 *   Installs SQLite and makes it accessible from msysGit
-*   Creates a ~/nano.rc with links to syntax highlighting configs
+*   Creates a ~/nano.rc with links to syntax highlighting configurations
 *   Provides standard nosetests behavior for msysGit
 *   Adds R's bin directory to the path (if we can find it)
 
@@ -294,12 +294,12 @@ discussions on Github issues/pull requests or email discuss lists
  or serving on a committee.
 
 Here are some examples of ways that people have contributed to the community:
-* Show a discussion thread on one of the PRs which contains a change in
+* Show a discussion thread on one of the pull requests which contains a change in
 materials.
 * I also showed how the thread on Discuss list about "Leaving novices
 behind" turned into blog post.
 * I would also cover more about how friendly the community is - showing
-examples of good discussions under PRs (possibly controversial PRs).
+examples of good discussions under pull requests (possibly controversial PRs).
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The

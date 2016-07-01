@@ -1,10 +1,14 @@
 ---
-layout: episode
 title: "Morning Wrap-Up"
 teaching: 5
 exercises: 10
 questions:
 - "What have we learned?"
+objectives:
+- "Explain pros and cons of minute cards as a feedback mechanism."
+- "Summarize morning's lessons."
+keypoints:
+- "Have learners write minute cards as exit tickets to get actionable feedback."
 ---
 
 We frequently use sticky notes as *minute cards*: before each break,

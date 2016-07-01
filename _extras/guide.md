@@ -296,6 +296,10 @@ described in [this episode]({{ site.root }}/17-motivation/).
 
 ## Exercises
 
+*   Have students write answers to the initial MCQ in the Etherpad
+    or create a copy of this [Google Form Questionaire][questionnaire].
+    Briefly summarize the answers. 
+
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
 *   In the two-day versions,
@@ -311,7 +315,7 @@ described in [this episode]({{ site.root }}/17-motivation/).
 *   Have them work in pairs for the live coding exercise rather than threes,
     and don't bother recording:
     the camera can't pick up both the speaker's body language and what's on the screen.
-    Afterwards, have learners put answers to the following questions in the etherpad:
+    Afterwards, have learners put answers to the following questions in the Etherpad:
     * What felt different about live coding (vs. standing up and lecturing)? What was harder/easier?
     * Did you make any mistakes? If so, how did you handle them?
     * Did you talk and type at the same time, or alternate?
@@ -366,7 +370,7 @@ and it has evolved to the following:
     writing out feedback on the same 2x2 grid introduced above.
     Once all the videos have been reviewed,
     the group rejoins the class;
-    each person puts all the feedback on themseles into the Etherpad.
+    each person puts all the feedback on themselves into the Etherpad.
 
 In order for this exercise to work well:
 
@@ -428,6 +432,21 @@ and have a rubric to follow.
 *   Instructor uses big font in wide-screen terminal window with white background.
 *   The terminal window bottom is above the learner's heads for those sitting in the back.
 *   Instructor makes mistake (a typo) and uses the occasion to illustrate how to interpret error-messages.
+
+## Motivation and Demotivation
+
+*   In the exercise on brainstorming motivational challenges,
+    review the comments in the Etherpad.
+    Rather than read all out loud, highlight the common themes
+    (i.e. establish value, positive expectations, promote self efficiency)
+    or things that stand out our that you can relate to.
+    Note: this exercise can be done before or going through the above list.
+
+*   In the exercise on brainstorming demotivational experiences,
+    review the comments in the Etherpad.
+    Rather than read all out loud,
+    highlight a few of the things that could have been done differently.
+    This will give everyone some confidence in how to handle these situations in the future.
 
 ## Running Discussion Sessions
 
@@ -519,23 +538,7 @@ scheduled.
 
 > ## Christina Koch
 >
-> I love ideas.
-> As a mathematician, bibliophile, and general enthusiast for most things,
-> I am a self-proclaimed nerd---a term I use to mean
-> "someone who loves thinking, ideas, and learning new things."
->
-> I love people (at least, I try).
-> Most wisdom traditions,
-> and my own experience,
-> tell me that I'm not here to live for myself,
-> but that we're all in this together.
->
-> Most of all, I love sharing ideas with people.
-> The best moments in life, for me,
-> are facilitating intellectual insights along with personal connections.
-> Those moments are what build a community that continues living in hope and adventure,
-> especially important in times of fear and division.
-> I teach to make those moments possible for myself and for others.
+> <img src="{{ site.root }}/fig/guide/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
 {: .testimonial}
 
 > ## Lex Nederbragt
@@ -589,11 +592,11 @@ scheduled.
 > ## Anelda van der Walt
 >
 > The most attractive advantage of being part of the Software Carpentry community is exactly that: the community.
-> I have been actively involved in Software Carpentry since the end of 2014 as a learner, helper, organiser, and instructor at several workshops.
+> I have been actively involved in Software Carpentry since the end of 2014 as a learner, helper, organizer, and instructor at several workshops.
 > Over the last 18 months I never felt isolated from the international Software Carpentry movement
 > despite being on a different continent from most of the activity.
 > Our South African initiatives have been supported every step of the way
-> by the organisation's leadership and the wonderful people who volunteer as instructors.
+> by the organization's leadership and the wonderful people who volunteer as instructors.
 >
 > I believe the Software Carpentry model is extremely well-suited to building capacity in low and middle income countries.
 > I have heard wonderful testimonials from many people who've been learners in Software Carpentry workshops in South Africa
@@ -604,7 +607,7 @@ scheduled.
 > ## Alistair Walsh
 >
 > I love teaching.
-> Seeing the wide eyed moment of realisation that I see on learners faces when something "clicks" is one of the best feelings in the world.
+> Seeing the wide eyed moment of realization that I see on learners faces when something "clicks" is one of the best feelings in the world.
 > Why I want to teach the Software Carpentry method in particular is because
 > I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that.
 >
@@ -624,7 +627,7 @@ scheduled.
 >
 > Research training barely addresses the fact that all researchers now need to think
 > computationally, and that they desperately need tools to increase their speed and efficiency
-> in analysing data. This is a gap that Software and Data Carpentry training can fill.
+> in analyzing data. This is a gap that Software and Data Carpentry training can fill.
 >
 > It's not a good day for me if I haven't helped *someone*. Being able to introduce people to
 > useful, time-saving tools has been a big - and immensely satisfying - part of my working life.
@@ -635,7 +638,7 @@ scheduled.
 >
 > I am fascinated and privileged to have the opportunity to work at the intersection of the biological and the technological.
 > Working in the world of bioinformatics and education,
-> I actually spend a fair amount of time traveling to institutions across the U.S. and abroad.
+> I actually spend a fair amount of time travelling to institutions across the U.S. and abroad.
 > I'm amazed at the people I get to work with
 > and believe Software Carpentry's mission creates an opportunity to add the distinctiveness of our learners
 > and their perspectives to our own unique approach to education.
@@ -667,13 +670,14 @@ scheduled.
 
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ site.root }}/files/checkout.txt
-[completion]: {{ site.root }}/files/completion.txt
-[format]: {{ site.root }}/files/format.txt
+[checkout]: {{ site.root }}/files/messages/checkout.txt
+[completion]: {{ site.root }}/files/messages/completion.txt
+[format]: {{ site.root }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
+[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.root }}/files/stefik-summary-2016.pdf
-[welcome]: {{ site.root }}/files/welcome.txt
+[stefik-summary]: {{ site.root }}/files/papers/stefik-summary-2016.pdf
+[welcome]: {{ site.root }}/files/messages/welcome.txt

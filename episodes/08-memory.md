@@ -77,8 +77,9 @@ This metaphor helps explain many observed aspects of expert behavior:
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 
-    *The local driver probably can use either the names of streets *or* landmarks when giving
-    directions.  The out-of-towner only has street labels.*
+    *The local driver probably can use either the names of streets* 
+    or
+    *landmarks when giving directions. The out-of-towner only has street labels.*
 
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
@@ -95,7 +96,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> As [we discuss later]({{ site.root }}/17-motivation/),
+> As [we discuss later]({{ site.root }}/18-motivation/),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
@@ -259,7 +260,7 @@ without bumping into each other).
 
 ## Seven Plus or Minus Two
 
-> ## The serial position effect
+> ## The Serial Position Effect
 >
 > Read the following list and try to memorize the items in it:
 >

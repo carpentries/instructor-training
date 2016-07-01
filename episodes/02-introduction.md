@@ -1,6 +1,5 @@
 ---
 title: "Introduction"
-start: true
 teaching: 30
 exercises: 0
 questions:
@@ -28,8 +27,10 @@ one must do the following:
 
 * **Learn**: Learn the theory and best practices of your skill, make
   choices about your approach, make a plan to train or practice.
+
 * **Practice**: Put your theoretical ideas into practice, repeat the
   desired skill over and over.
+
 * **Participate**: Watch other performers, have a coach or community
   where you can get new ideas, ask questions, and received feedback
   on your performance.
@@ -57,7 +58,8 @@ teaching skills, but to connect instructors:
 > ## Key Readings
 >
 > An excellent overview of research results in education and learning is
-> Ambrose et al's *[How Learning Works][amazon-hlw]* (which is also an excellent example of what secondary literature ought to look like).
+> Ambrose et al's *[How Learning Works][amazon-hlw]*
+> (which is also an excellent example of what secondary literature ought to look like).
 > Green's *[Building a Better Teacher][amazon-babt]*
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
@@ -290,7 +292,6 @@ the course of the next two days.
 > is anyone naive enough to believe that we would still insist on using these tests as indicators of success?"
 > What are examples in your own experience of "objective" assessments that reinforce the status quo?
 {: .challenge}
-
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/

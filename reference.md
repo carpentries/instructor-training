@@ -70,7 +70,7 @@ and probably address problems you don't yet know will arise.
     and the amplifying effect of their past experience and their declarative and procedural knowledge.
 1.  If the learner comes with incorrect information or misunderstands how the new knowledge relates to their past experience,
     their learning can be hindered until they understand the misconception.
-1.  The nature of misconceptions is that the learner will not realise they have them.
+1.  The nature of misconceptions is that the learner will not realize they have them.
     Specifically, if asked they may well report that they understand the situation.
 1.  Testing knowledge (e.g., doing diagnostic assessment with well-designed multiple choice questions)
     will reveal the misconceptions and form a basis for correcting them.
@@ -80,7 +80,7 @@ and probably address problems you don't yet know will arise.
 1.  Successfully completing a challenge while still holding a misconception about the subject of the challenge is a very bad thing,
     because it increases the learners' confidence in their incorrect model.
 1.  Using examples that involve universal activities rather than domain specific or highly technical examples
-    will maximise the number of correct connections that form the basis of transferring knowledge.
+    will maximize the number of correct connections that form the basis of transferring knowledge.
     It is a delicate balance:
     if the problem is too simple,
     students may dismiss it as unimportant
@@ -97,7 +97,7 @@ and probably address problems you don't yet know will arise.
     support students who are uncomfortable with ambiguity (i.e. there are various solutions to an answer).
 1.  Resist a single right answer:
     acknowledge that we are teaching them one way to do things,
-    but there are many many tools that could be used to do the same thing (version control, visualisation, etc).
+    but there are many many tools that could be used to do the same thing (version control, visualization, etc).
 1.  Examine your assumptions about students:
     don't expect people to be able (or unable) to do a specific task based on their race, gender, age, experience).
 1.  Reduce anonymity:

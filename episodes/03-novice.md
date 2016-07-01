@@ -132,8 +132,8 @@ can be used as a model.
 However, there's another, greater challenge to creating mental models.
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.
-> - Mark Twain
+> It's what you know for sure that just ain't so.  
+> — Mark Twain
 {: .quotation}
 
 Clearing up learners' misconceptions is therefore as important as

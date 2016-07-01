@@ -23,8 +23,8 @@ gives general tips for an effective live coding presentation.
 
 ## Why Live Coding?
 
-> Teaching is theater not cinema.
-> - Neal Davis
+> Teaching is theater not cinema.  
+> — Neal Davis
 {: .quotation}
 
 We do not use slides in our lessons.
@@ -83,7 +83,7 @@ Below follow ten tips to help you get started with effective live coding:
 If you are physically able to stand up for a couple of hours, do it
 while you are teaching.  When you sit down, you are hiding yourself
 behind others for those sitting in the back rows.  Make sure to notify
-the workshop organisers of your wish to stand up and ask them to
+the workshop organizers of your wish to stand up and ask them to
 arrange a high table/standing desk or
 [lectern](https://en.wikipedia.org/wiki/Lectern#Academic_context).
 
@@ -128,7 +128,7 @@ being taught (e.g. Github).
 
 ### Use The Screen Wisely
 
-Use a big font, and maximise the window.  A black font on a white
+Use a big font, and maximize the window.  A black font on a white
 background works better than a light font on a dark background.  When
 the bottom of the projector screen is at the same height, or below,
 the heads of the learners, people in the back won't be able to see the
@@ -147,7 +147,7 @@ learners.
 ### Use Illustrations
 
 Most lesson material comes with illustrations, and these may help
-learners to understand the stages of the lesson and to organise the
+learners to understand the stages of the lesson and to organize the
 material.  What can work really well is when you as instructor
 generate the illustrations on the white/blackboard as you progress
 through the material.  This allows you to build up diagrams, making
@@ -214,8 +214,8 @@ something covered earlier.  Novices are going to spend most of their
 time making the same and other mistakes, but how to deal with the is
 left out of most textbooks.
 
-> The typos are the pedagogy
-> - [Dana Brunson][brunson-twitter]
+> The typos are the pedagogy  
+> — [Dana Brunson][brunson-twitter]
 {: .quotation}
 
 ### Have Fun
