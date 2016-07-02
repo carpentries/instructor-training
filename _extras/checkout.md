@@ -29,14 +29,18 @@ setting of the two-day training.  These are:
     Software/Data instructor is meeting and talking with other instructors in the community.
 
 3.  Practicing and confirming the skills you need to teach on your own.  Before
-    signing up for a workshop, you can have the practice of preparing a lesson and
+    signing up for a workshop, you will have practiced preparing a lesson and
     doing a brief session of live coding.
 
 We would like to get everyone through this process within two months of training.
 Anyone who has not completed within 90 days should [contact us](mailto:{{ site.email }})
 to discuss reasons and options.
 
-## Part 1: Submit a Small Change to One of Our Lessons
+Although all instructors must complete these three steps, there are some differences
+depending on whether you are qualifying as a Data Carpentry or Software Carpentry instructor.
+These differences are noted below.
+
+## Part 1: Submit a Small Contribution to One of Our Lessons
 <a name="lesson-change"></a>
 
 Our lessons are maintained and improved by the people who teach them,
@@ -45,45 +49,33 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1.  Submitting a change request to fix an existing issue.
+1.  Submitting a change to fix an existing issue.
 2.  Proof-reading a lesson and adding a new issue describing something to be improved.
-3.  Providing substantive feedback on an existing issue or PR.
+3.  Providing substantive feedback on an existing issue or pull request.
+
+Your contribution must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are 
+qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
+and a Software Carpentry lesson.
+
+Data Carpentry instructors may submit their contributions by [email](mailto:{{ site.email }}) or through GitHub.
+Software Carpentry instructors must submit their contributions through GitHub.
 
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
-We encourage trainees to submit their changes through GitHub,
-but will accept submissions for #1 and #2 via email from those who are more comfortable working out of public view.
 
-Pick one of the lessons from the list given later in this section
-and submit a *small* change.
-You must submit a change to a Software Carpentry lesson to qualify as a Software Carpentry instructor,
-and a change to a Data Carpentry lesson to qualify as a Data Carpentry instructor.
-Instructors seeking dual certification should submit two changes (one to each Carpentry)
-to ensure they are familiar with the process and the materials.
-
-Your change can be a new exercise or diagram,
-or an improvement to one or more of the lesson's learning objectives.
 Please note that:
 
-1.  If you want to teach Software Carpentry,
-    you must submit the change as a pull request on GitHub.
-    If you want to teach Data Carpentry,
-    you may submit the change either as a pull request
-    or by filing an issue in GitHub that describes your proposed change.
-    Either way,
-    send a link to the pull request or issue to [{{site.email}}](mailto:{{site.email}})
-    so that she can shepherd it through the review process.
+1. If you submit your contribution through GitHub, you need to notify us by email by
+    sending a link to the pull request or issue to [{{site.email}}](mailto:{{site.email}})
+    so that we can track your progress through checkout.
 
-2.  Your change doesn't have to be accepted in order for you to become an instructor:
+2.  Your contribution doesn't need to be accepted in order for you to become an instructor:
     the point is to make sure that you understand the process and have met the people who review material.
 
 3.  Be sure to format your submission in the same way as the content that's already there.
-    For example,
-    lessons should include the 'challenge' style,
-    while learning objectives should be in the quoted block at the top of the lesson.
     The `CONTRIBUTING.md` file in each lesson has guidelines
     (and improvements to these guidelines are welcome).
 
-4.  The lesson maintainers get many pull requests like this,
+4.  The lesson maintainers get many pull requests,
     so please take some time to write a good commit message to help them understand what you're doing.
     For example:
 
@@ -102,44 +94,37 @@ Please note that:
     ~~~
     {: .source}
 
-5.  You only have to submit *one* change to move on to the next step,
-    not one per Carpentry.
+5.  We do *not* want exercises or other material that introduce new concepts:
+    our lessons are already full to bursting. If you are a Software Carpentry instructor and are
+    submitting an exercise, we will accept contributions to our fledgling "Python for complete novices" lesson.
 
-6.  We do *not* want exercises or other material that introduce new concepts:
-    our lessons are already full to bursting.
-
-7.  If you are writing an exercise,
-    we strongly prefer contributions to the Data Carpentry lessons right now (since that material is much younger)
-    or to our fledgling "Python for complete novices" lesson.
-
-8.  If you would rather do a diagram, we are happy to take submissions to any of our lessons.
+6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG, since vector formats are easier to manipulate than raster formats.
 
-9.  We also appreciate improvements to our lessons' learning objectives.
-    In particular, we would like checked against the actual lesson content,
-    and would also like them labelled according to the levels of Bloom's Taxonomy.
+7.  We also appreciate improvements to our lessons' learning objectives.
+    In particular, we would like our current learning objectives to be checked against the actual lesson content.
 
 The lessons you may submit to are:
 
-1.  [Data Carpentry lessons]({{ site.dc_site }}/lessons/):
+1.  [For Data Carpentry instructors]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
     *   R-ecology: <{{ site.dc_github }}/R-ecology/>
     *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
     *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
     *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
-2.  [New Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/):
-    This lesson is an experiment to see if we can start collaboration much earlier than we have in the past.
-    If you want to add to this, please submit an exercise that uses the Gapminder data set (in the "data" directory).
-    Please don't worry too much about formatting, and please only submit the Markdown files (not generated HTML) in pull requests.
-3.  [Stable Software Carpentry lessons]({{ site.swc_site }}/lessons/):
-    we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives.
+2.  [For Software Carpentry instructors]({{ site.swc_site }}/lessons/): 
+    we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
+    for any lesson. We are also accepting new exercises using the Gapminder data set (in the "data" directory) for 
+    our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
+    Please don't worry too much about formatting, and please only submit the Markdown files 
+    (not generated HTML) in pull requests.
+
 
 > ## What Makes a Good Exercise?
+> If you are submitting a new exercise for the Software Carpentry Python lesson:
 >
 > 1.  Follow the coding style of the lesson you're submitting to.
->     For example,
->     [our SQL lesson][swc-sql] capitalizes keywords but uses lower case for table and field names,
->     and many of the lessons have a `CONTRIBUTING` file with explicit guidelines.
+>     Read the lesson's `CONTRIBUTING` file for explicit guidelines.
 > 2.  Include a solution to your exercise.
 > 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
 >     since most workshops have users on all three platforms.
@@ -153,83 +138,58 @@ The lessons you may submit to are:
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
 
-After you have submitted a change to one of our lessons,
+After you have submitted a contribution to one of our lessons,
 the next step is to take part in an hour-long discussion session
 led by an experienced instructor.
-This session gives you a chance to familiarize yourself with a particular lesson
-and clarify anything that may be unclear about our operations in general.
+This session gives you a chance to ask questions about the material
+you plan on teaching 
+and to clarify anything that may be unclear about our operations in general.
 
-Our discussion sessions are run as weekly video conferences:
+Regardless of whether you are qualifying as an instructor for one or both Carpentries, you 
+only need to participate in one discussion session. You are, however, welcome to join the discussions 
+as often as you like. 
+
+Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [this Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
 please [let us know](mailto:{{site.email}})
 
-To prepare for your session,
-pick a particular lesson such as Data Carpentry's lesson on OpenRefine
-or the Software Carpentry lesson on Python
-and read the *whole* lesson.
-As you are reading,
-make notes about the following:
+The link to connect to the video conference is at the top of the Etherpad.
+Please be sure to use a headset with a built-in microphone during the session
+rather than open-air speakers and your laptop's built-in microphone,
+since the latter often lead to audio quality problems.
 
-1. Did you feel like you would like to change the flow or present the concepts differently?
-   If so, what and why?
-2. Was there anything that you found unclear in the material?
-   Did you get stuck anywhere?
-3. What are some misconceptions that the students could develop when learning this material?
-   Which bits of the module may be tricky and if poorly explained, they may lead the students to broken mental model?
-4. What prior knowledge do learners need to have before participating in this module (whole lesson)?
-   If you were to list any prerequisites, what would they be?
+To prepare for your session, pick one lesson that you plan on teaching and read the whole lesson. 
+As you are reading, make notes about the following:
 
-The first two questions are intended to help you become more comfortable with
-[our collaborative lesson development methods][blog-collab-lesson].
-The third and fourth question refer back to the instructor training course,
-and are meant to give you a chance to apply some of what you've learned to these specific lessons.
+1. Was there anything that you found unclear in the material? Did you get stuck anywhere?  
+2. Did you feel like you would like to change the flow or present the concepts differently? If so, what and why?  
+3. What are some misconceptions that the students may have when learning this material? 
+Which bits of the lesson may be tricky and if poorly explained, may lead the students to broken mental models?  
+4. What prior knowledge do learners need to have before participating in this lesson? If you were to list any prerequisites, what would they be?  
 
-Once you are familiar with a lesson:
-
-1. Add yourself to an upcoming discussion session on [this Etherpad]({{page.discussionpad}})
-   (or put yourself in the list at the top
-   if there isn't an upcoming discussion session for your lesson that fits your schedule).
-2. The person running your discussion session
-   will add video conferencing details to [the Etherpad]({{page.discussionpad}})
-   before the session starts.
-   At present,
-   most sessions use Google Hangouts,
-   so please make sure you have a Google account or some other login that will work with Hangouts.
-3. Please also use a headset with a built-in microphone during the session
-   rather than open-air speakers and your laptop's built-in microphone,
-   since the latter often lead to audio quality problems.
+The first two questions are intended to help you become more comfortable with our collaborative lesson development methods. 
+The third and fourth question refer back to the instructor training course, and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
 
 During the session,
-you are expected to ask questions about issues you noticed while reading your chosen lesson,
-and about our operations in general.
-If the discussion leader feels that you have adequately prepared,
-she will notify the training coordinator
-and ask you to sign up for a demonstration lesson (described in the next session).
-If she feels you have not prepared,
-she may ask you to come back for another session later.
+you are expected to ask questions to show that they've thought about what they're going to teach,
+and about how our workshops are run in general.
 
-### Rubric
-<a name="rubric"></a>
-
-Trainees are expected to ask questions during their discussion session
-to show that they've thought about what they're going to teach,
-and about workshops in general.
 Sample questions include:
 
 *   What were the most interesting or surprising things existing instructors learned
-    when they attended or taught their first workshop?
+when they attended or taught their first workshop?
 *   What pre- and during-workshop responsibilities did each instructor have?
 *   What lessons did people teach?
 *   How did instructors test installation of the required software?
 *   How long did lessons actually take to teach?
-    (Alternatively, how far did instructors actually get?)
+(Alternatively, how far did instructors actually get?)
 *   Did people adapt or modify the lesson material?
-    If so, how and why?
+If so, how and why?
 *   Where in the material are learners most likely to misunderstand things or get lost,
-    and why?
+and why?
 
 Trainees may also ask about:
 
@@ -237,29 +197,35 @@ Trainees may also ask about:
 *   how teaching these workshops has helped people's own work or careers, and
 *   anything else that comes to mind.
 
+If the discussion leader feels that you have adequately participated in the conversation,
+she will notify the training coordinator 
+who will then ask you to sign up for a teaching demonstration (described in the next session).
+
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 
 Once you have completed your discussion session,
-the final step is to sign up for a 5-minute online demonstration lesson
+the final step is to sign up for a 5-minute teaching demonstration online
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
-Like the discussion sessions,
-these demonstration lessons are run as video conferences using Google Hangouts,
-and the instructor leading the session will post connection details and other information
-in [the Etherpad]({{page.demopad}})
-shortly before it begins.
+These demonstrations are run as video conferences using Google Hangouts. 
+The instructor leading the session will post connection details and other information
+in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
-For your teaching demonstration,
-will ask you to teach a short segment from your chosen lesson.
-If you want to do your final demonstration(s) in a language other than English,
+Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are 
+qualifying. Instructors seeking to qualify for both Carpentries, must teach 5-minute demonstrations for both
+a Data Carpentry and a Software Carpentry lesson. You may choose to do these two demonstrations in the same sessions
+or on separate days.
+
+If you want to do your demonstration(s) in a language other than English,
 please let us know in advance so that we can find someone to moderate.
 
-**Note:** we will pick the segment of the lesson you are to teach
+For your teaching demonstration, you will teach a short segment from your chosen lesson(s). 
+We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
-so you must be prepared to teach any part of your chosen lesson.
+so you must be prepared to teach any part of your chosen lesson(s).
 
-For your demonstration,
+For your demonstration(s),
 you will screen-share through Google Hangouts
 and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
@@ -286,8 +252,5 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please contact your trainer
-or mail us at [{{site.email}}](mailto:{{site.email}}).
+mail us at [{{site.email}}](mailto:{{site.email}}).
 
-[blog-collab-lesson]: {{ site.swc_site }}/blog/2014/03/collaborative-lesson-development.html
-[swc-sql]: https://swcarpentry.github.io/sql-novice-survey/
