@@ -96,7 +96,7 @@ Please note that:
 
 5.  We do *not* want exercises or other material that introduce new concepts:
     our lessons are already full to bursting. If you are a Software Carpentry instructor and are
-    submitting an exercise, we will accept contributions to our fledgling "Python for complete novices" lesson.
+    submitting an exercise, we will accept contributions to our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
 
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG, since vector formats are easier to manipulate than raster formats.
@@ -174,7 +174,7 @@ The first two questions are intended to help you become more comfortable with ou
 The third and fourth question refer back to the instructor training course, and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that they've thought about what they're going to teach,
+you are expected to ask questions to show that you've thought about what you're going to teach,
 and about how our workshops are run in general.
 
 Sample questions include:
@@ -205,7 +205,7 @@ who will then ask you to sign up for a teaching demonstration (described in the 
 <a name="demo-lesson"></a>
 
 Once you have completed your discussion session,
-the final step is to sign up for a 5-minute teaching demonstration online
+the final step is to sign up for a 5-minute teaching demonstration online using
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 These demonstrations are run as video conferences using Google Hangouts. 
@@ -213,8 +213,8 @@ The instructor leading the session will post connection details and other inform
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
 Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are 
-qualifying. Instructors seeking to qualify for both Carpentries, must teach 5-minute demonstrations for both
-a Data Carpentry and a Software Carpentry lesson. You may choose to do these two demonstrations in the same sessions
+qualifying. Instructors seeking to qualify for both Carpentries must teach 5-minute demonstrations for both
+a Data Carpentry and a Software Carpentry lesson. You may choose to do these two demonstrations in the same session
 or on separate days.
 
 If you want to do your demonstration(s) in a language other than English,
