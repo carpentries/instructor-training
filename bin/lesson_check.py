@@ -11,7 +11,7 @@ import json
 import re
 from optparse import OptionParser
 
-from util import Reporter, read_markdown
+from util import Reporter, read_markdown, load_yaml, check_unwanted_files
 
 __version__ = '0.2'
 
@@ -39,6 +39,12 @@ REQUIRED_FILES = {
 
 # Episode filename pattern.
 P_EPISODE_FILENAME = re.compile(r'/_episodes/(\d\d)-[-\w]+.md$')
+
+# Pattern to match lines ending with whitespace.
+P_TRAILING_WHITESPACE = re.compile(r'\s+$')
+
+# Pattern to match figure references in HTML.
+P_FIGURE_REFS = re.compile(r'<img[^>]+src="([^"]+)"[^>]*>')
 
 # What kinds of blockquotes are allowed?
 KNOWN_BLOCKQUOTES = {
@@ -94,9 +100,11 @@ def main():
     check_config(args.reporter, args.source_dir)
     docs = read_all_markdown(args.source_dir, args.parser)
     check_fileset(args.source_dir, args.reporter, docs.keys())
+    check_unwanted_files(args.source_dir, args.reporter)
     for filename in docs.keys():
         checker = create_checker(args, filename, docs[filename])
         checker.check()
+    check_figures(args.source_dir, args.reporter)
     args.reporter.report()
 
 
@@ -106,7 +114,8 @@ def parse_args():
     parser = OptionParser()
     parser.add_option('-l', '--linelen',
                       default=False,
-                      dest='line_len',
+                      action="store_true",
+                      dest='line_lengths',
                       help='Check line lengths')
     parser.add_option('-p', '--parser',
                       default=None,
@@ -116,6 +125,11 @@ def parse_args():
                       default=os.curdir,
                       dest='source_dir',
                       help='source directory')
+    parser.add_option('-w', '--whitespace',
+                      default=False,
+                      action="store_true",
+                      dest='trailing_whitespace',
+                      help='Check for trailing whitespace')
 
     args, extras = parser.parse_args()
     require(args.parser is not None,
@@ -188,6 +202,38 @@ def check_fileset(source_dir, reporter, filenames_present):
                    seen)
 
 
+def check_figures(source_dir, reporter):
+    """Check that all figures are present and referenced."""
+
+    # Get references.
+    try:
+        all_figures_html = os.path.join(source_dir, '_includes', 'all_figures.html')
+        with open(all_figures_html, 'r') as reader:
+            text = reader.read()
+        figures = P_FIGURE_REFS.findall(text)
+        referenced = [os.path.split(f)[1] for f in figures if '/fig/' in f]
+    except FileNotFoundError as e:
+        reporter.add(all_figures_html,
+                     'File not found')
+        return
+
+    # Get actual files.
+    fig_dir_path = os.path.join(source_dir, 'fig')
+    actual = [f for f in os.listdir(fig_dir_path) if not f.startswith('.')]
+
+    # Report differences.
+    unexpected = set(actual) - set(referenced)
+    reporter.check(not unexpected,
+                   None,
+                   'Unexpected image files: {0}',
+                   ', '.join(sorted(unexpected)))
+    missing = set(referenced) - set(actual)
+    reporter.check(not missing,
+                   None,
+                   'Missing image files: {0}',
+                   ', '.join(sorted(missing)))
+
+
 def create_checker(args, filename, info):
     """Create appropriate checker for file."""
 
@@ -227,7 +273,8 @@ class CheckBase(object):
         """Run tests on metadata."""
 
         self.check_metadata()
-        self.check_text()
+        self.check_line_lengths()
+        self.check_trailing_whitespace()
         self.check_blockquote_classes()
         self.check_codeblock_classes()
 
@@ -243,15 +290,26 @@ class CheckBase(object):
             self.reporter.check_field(self.filename, 'metadata', self.metadata, 'layout', self.layout)
 
 
-    def check_text(self):
+    def check_line_lengths(self):
         """Check the raw text of the lesson body."""
 
-        if self.args.line_len:
+        if self.args.line_lengths:
             over = [i for (i, l, n) in self.lines if (n > MAX_LINE_LEN) and (not l.startswith('!'))]
             self.reporter.check(not over,
                                 self.filename,
                                 'Line(s) are too long: {0}',
                                 ', '.join([str(i) for i in over]))
+
+
+    def check_trailing_whitespace(self):
+        """Check for whitespace at the ends of lines."""
+
+        if self.args.trailing_whitespace:
+            trailing = [i for (i, l, n) in self.lines if P_TRAILING_WHITESPACE.match(l)]
+            self.reporter.check(not trailing,
+                                self.filename,
+                                'Line(s) end with whitespace: {0}',
+                                ', '.join([str(i) for i in trailing]))
 
 
     def check_blockquote_classes(self):
