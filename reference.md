@@ -1,6 +1,5 @@
 ---
 layout: reference
-title: Reference
 permalink: /reference/
 ---
 ## Top Ten
