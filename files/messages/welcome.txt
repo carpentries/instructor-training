@@ -1,13 +1,11 @@
 Hello everyone, and thank you for signing up for our upcoming instructor training session. In order to prepare:
 
-1.  Please read:
+1.  Please read these two short papers, which provide a brief overview of some key evidence-based results in teaching:
 
-    * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
-    * "Top 10 Myths About Teaching Computer Science" (https://swcarpentry.github.io/instructor-training/files/papers/guzdial-10-myths-2015.pdf)
     * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    * "Software Carpentry: Lessons Learned" (http://f1000research.com/articles/3-62/v2)
+    * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
 
-2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/) and have a look at what we currently teach.  You are *not* expected to go through all of these in detail, but please familiarize yourself with the major topics and lesson format.
+2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
 3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
@@ -25,3 +23,23 @@ p.s. If you are interested in doing more reading, you may enjoy:
 * Building a Better Teacher (http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/), a well-written look at why educational reforms in the past 50 years have mostly missed the mark and about what we should be doing instead.
 
 * Teaching What You Don't Know (http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/), which is a situation many of us find ourselves in more often that we'd like.
+
+Episodes
+--------
+
+Please read through *one* of the episodes below carefully, so that you can do some exercises based on it on the first day of the class.
+
+Data Carpentry
+
+* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine.html
+* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html
+* Starting with Data in R: http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html
+* Starting with Data in Python: http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
+
+Software Carpentry
+
+* Working with Files and Directories in the Unix Shell: http://swcarpentry.github.io/shell-novice/02-create.html
+* Tracking Changes in Git: http://swcarpentry.github.io/git-novice/04-changes.html
+* Selecting Data in SQL: http://swcarpentry.github.io/sql-novice-survey/01-select.html
+* Repeating Actions with Loops in Python: http://swcarpentry.github.io/python-novice-inflammation/02-loop.html
+* Exploring Data Frames in R: http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html
