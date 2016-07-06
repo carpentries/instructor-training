@@ -10,7 +10,7 @@ training_site: https://swcarpentry.github.io/instructor-training
     * "The Science of Learning" <{{ page.training_site }}/files/papers/science-of-learning-2015.pdf>
     * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>
 
-2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/> and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>, have a look at what we currently teach, and then choose one episode from the list at the bottom of this message and read through it carefully---we will ask you to do some exercises based on your choice on the first day of the course.
+2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/> and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>, have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this page and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
 3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 

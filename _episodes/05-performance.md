@@ -227,8 +227,8 @@ Barker et al found something similar in 2015:
 >
 > 1.  Split into groups of three
 > 2.  Have each person introduce themselves
->     and then teach a 90-second lesson on
->     the most interesting aspect of their own research or work
+>     and then explain the key idea or ideas from
+>     the Carpentry lesson episode they chose before the start of the training course
 >     to another person in the group
 >     while the third person records it (video and audio)
 >     using a cell phone or some other handheld device.
