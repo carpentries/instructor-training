@@ -244,7 +244,7 @@ you are unsure of the effect you behaviour has on the workshop.
 
 > ## See Then Do
 >
-> Teach 3-4 minutes of the lesson you just saw demonstrated to a
+> Teach 3-4 minutes of your chosen lesson episode using live coding to a
 > fellow trainee, then swap and watch while that person live codes for
 > you.  Don't bother trying to record the live coding sessions---we
 > have found that it's difficult to capture both the person and the
