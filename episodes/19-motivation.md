@@ -43,7 +43,7 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
-![What to Teach]({{ site.root }}/fig/17/what-to-teach.png)
+![What to Teach]({{ site.root }}/fig/what-to-teach.png)
 
 > ## Actual Time
 >

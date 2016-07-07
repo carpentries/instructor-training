@@ -278,7 +278,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 Sometimes it can be hard to receive negative feedback.
 
-![Feedback Feelings]({{ site.root }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings]({{ site.root }}/fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Here is a list of some strategies to make sure that you can receive feedback
 in a way that helps you improve:

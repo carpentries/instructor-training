@@ -133,7 +133,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram]({{ site.root }}/fig/05/choosing-a-good-chart-09.pdf)
+> [this diagram]({{ site.root }}/fig/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post][abela-presentation] by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
@@ -150,7 +150,7 @@ for ch in "abc":
 
 The three key concepts used in this loop are:
 
-![Key Concepts]({{ site.root }}/fig/05/for-loop-concepts.png)
+![Key Concepts]({{ site.root }}/fig/for-loop-concepts.png)
 
 (In this case it's easy to connect the concepts to concrete elements in the program,
 but that may not always be the case.)
@@ -158,26 +158,26 @@ The key relationships,
 which are as important as the concepts themselves,
 are:
 
-![Relationships]({{ site.root }}/fig/05/for-loop-arcs.png)
+![Relationships]({{ site.root }}/fig/for-loop-arcs.png)
 
 A quick count shows that there are actually 6 things here,
 not just 3,
 so we're already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
-![Recommendations]({{ site.root }}/fig/05/for-loop-rec.png)
+![Recommendations]({{ site.root }}/fig/for-loop-rec.png)
 
 the count rises to 8,
 which is a good size for a single teaching episode.
 A few other concept maps drawn by previous participants in this training course
 are listed below:
 
-* [Array Math]({{ site.root }}/fig/05/array-math.png)
-* [Conditionals]({{ site.root }}/fig/05/conditionals.png)
-* [Creating and Destroying Files]({{ site.root }}/fig/05/create-destroy.png)
-* [Sets and Dictionaries in Python]({{ site.root }}/fig/05/dict-set.png)
-* [Input and Output]({{ site.root }}/fig/05/io.png)
-* [Lists and Loops]({{ site.root }}/fig/05/lists-loops.png)
+* [Array Math]({{ site.root }}/fig/array-math.png)
+* [Conditionals]({{ site.root }}/fig/conditionals.png)
+* [Creating and Destroying Files]({{ site.root }}/fig/create-destroy.png)
+* [Sets and Dictionaries in Python]({{ site.root }}/fig/dict-set.png)
+* [Input and Output]({{ site.root }}/fig/io.png)
+* [Lists and Loops]({{ site.root }}/fig/lists-loops.png)
 
 Most of these are larger than our recommended limit,
 but that's not necessarily a bad thing:

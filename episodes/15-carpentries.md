@@ -76,7 +76,7 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
-![Software Carpentry and Data Carpentry Comparison]({{ site.root }}/fig/10/SWCvsDC.png)
+![Software Carpentry and Data Carpentry Comparison]({{ site.root }}/fig/SWCvsDC.png)
 
 ## Existing Lessons
 
