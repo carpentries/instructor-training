@@ -82,19 +82,24 @@ Its workshops are:
 
 Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
 
-*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
-*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
-*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
-*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
-*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|The Unix Shell|[Site]({{site.github_io_url}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.github_io_url}}/shell-novice/instructors.html)
+|Version Control with Git|[Site]({{site.github_io_url}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.github_io_url}}/python-novice-inflammation/instructors.html)|
+|Programming with Python|[Site]({{site.github_io_url}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/git-novice/instructors.html)|
+|Programming with R|[Site]({{site.github_io_url}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/r-novice-inflammation/instructors.html)|
+|R for Reproducible Scientific Analysis|[Site]({{site.github_io_url}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.github_io_url}}/r-novice-gapminder/instructors.html)|
+
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
 Software Carpentry also maintains lessons on:
 
-*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
-*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
-*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
-*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|Version Control with Mercurial|[Site]({{site.github_io_url}}/hg-novice/)|[Repository](https://github.com/swcarpentry/hg-novice)|[Instructor guide]({{site.github_io_url}}/hg-novice/instructors.html)
+|Using Databases and SQL|[Site]({{site.github_io_url}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.github_io_url}}/sql-novice-survey/instructors.html)
+|Programming with MATLAB|[Site]({{site.github_io_url}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/matlab-novice-inflammation/instructors.html)
+|Automation and Make|[Site]({{site.github_io_url}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.github_io_url}}/make-novice/instructors.html)
 
 but these are less frequently used.
 
