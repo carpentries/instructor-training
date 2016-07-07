@@ -133,7 +133,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram]({{ site.root }}/fig/choosing-a-good-chart-09.pdf)
+> [this diagram]({{ site.root }}/files/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post][abela-presentation] by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
