@@ -89,7 +89,7 @@ Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) 
 |Programming with Python|[Site]({{site.github_io_url}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/git-novice/instructors.html)|
 |Programming with R|[Site]({{site.github_io_url}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/r-novice-inflammation/instructors.html)|
 |R for Reproducible Scientific Analysis|[Site]({{site.github_io_url}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.github_io_url}}/r-novice-gapminder/instructors.html)|
-
+{: table table-striped}
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
 Software Carpentry also maintains lessons on:
@@ -100,6 +100,7 @@ Software Carpentry also maintains lessons on:
 |Using Databases and SQL|[Site]({{site.github_io_url}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.github_io_url}}/sql-novice-survey/instructors.html)
 |Programming with MATLAB|[Site]({{site.github_io_url}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.github_io_url}}/matlab-novice-inflammation/instructors.html)
 |Automation and Make|[Site]({{site.github_io_url}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.github_io_url}}/make-novice/instructors.html)
+{: table table-striped}
 
 but these are less frequently used.
 
