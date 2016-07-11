@@ -297,7 +297,7 @@ described in [this episode]({{ site.root }}/17-motivation/).
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
-    or create a copy of this [Google Form Questionaire][questionnaire].
+    or create a copy of this [Google Form Questionnaire][questionnaire].
     Briefly summarize the answers. 
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
