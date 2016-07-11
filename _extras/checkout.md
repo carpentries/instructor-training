@@ -57,7 +57,7 @@ Your contribution must be for a lesson in the curriculum of the Carpentry (Softw
 qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
 and a Software Carpentry lesson.
 
-Data Carpentry instructors may submit their contributions by [email](mailto:{{ site.email }}) or through GitHub.
+Data Carpentry instructors may submit their contributions through GitHub or by [email](mailto:{{ site.email }}).
 Software Carpentry instructors must submit their contributions through GitHub.
 
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
@@ -95,24 +95,25 @@ Please note that:
     {: .source}
 
 5.  We do *not* want exercises or other material that introduce new concepts:
-    our lessons are already full to bursting. If you are a Software Carpentry instructor and are
-    submitting an exercise, we will accept contributions to our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
+    our lessons are already full to bursting. 
 
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
-    Please use SVG, since vector formats are easier to manipulate than raster formats.
+    Please use SVG (scalable vector graphics), since vector formats are easier to manipulate than raster formats. SVG files can be produced in the free graphics software 
+    [Inkscape](https://inkscape.org/en/) as well as other graphics programs.
 
 7.  We also appreciate improvements to our lessons' learning objectives.
-    In particular, we would like our current learning objectives to be checked against the actual lesson content.
+    In particular, we would like our current learning objectives to be checked against the actual lesson content, and to be framed in terms of observables 
+    (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
 The lessons you may submit to are:
 
-1.  [For Data Carpentry instructors]({{ site.dc_site }}/lessons/):
+1.  For [Data Carpentry instructors]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
     *   R-ecology: <{{ site.dc_github }}/R-ecology/>
     *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
     *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
     *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
-2.  [For Software Carpentry instructors]({{ site.swc_site }}/lessons/): 
+2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/): 
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
     for any lesson. We are also accepting new exercises using the Gapminder data set (in the "data" directory) for 
     our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
@@ -121,7 +122,7 @@ The lessons you may submit to are:
 
 
 > ## What Makes a Good Exercise?
-> If you are submitting a new exercise for the Software Carpentry Python lesson:
+> If you are submitting a new exercise for the new Software Carpentry Python lesson:
 >
 > 1.  Follow the coding style of the lesson you're submitting to.
 >     Read the lesson's `CONTRIBUTING` file for explicit guidelines.
@@ -174,7 +175,7 @@ The first two questions are intended to help you become more comfortable with ou
 The third and fourth question refer back to the instructor training course, and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that you've thought about what you're going to teach,
+you are expected to ask questions to show that you've thought about what you're going to teach (including questions you had while reading through your chosen lesson),
 and about how our workshops are run in general.
 
 Sample questions include:
@@ -218,7 +219,8 @@ a Data Carpentry and a Software Carpentry lesson. You may choose to do these two
 or on separate days.
 
 If you want to do your demonstration(s) in a language other than English,
-please let us know in advance so that we can find someone to moderate.
+please let us know in advance so that we can attempt to find someone to moderate.
+We may not be able to accomodate all languages.
 
 For your teaching demonstration, you will teach a short segment from your chosen lesson(s). 
 We will pick the segment of the lesson(s) you are to teach
@@ -226,7 +228,7 @@ on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
 
 For your demonstration(s),
-you will screen-share through Google Hangouts
+you will screen-share
 and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
 You may use whatever notes you want,
