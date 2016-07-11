@@ -14,7 +14,7 @@ keypoints:
 - "Can represent mental models using concept maps."
 - "Relationships are as important as concepts."
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
-- "Most adults can store 7&plusmn;2 items in short-term memory for a few seconds before loss."
+- "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
 - "Things seen together repeatedly are remembered (or mis-remembered) in chunks."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
 - "Lesson episodes should not overload short-term memory."
@@ -293,7 +293,7 @@ It is much faster,
 but also much smaller:
 in 1956,
 Miller estimated that the average adult's working memory could hold
-[7&plusmn;2 items][wikipedia-7]
+[7±2 items][wikipedia-7]
 for a few seconds
 before things started to drop out.
 This is why phone numbers are typically 7 or 8 digits long:
@@ -324,7 +324,7 @@ together form the
 > see it as something it isn't.
 {: .callout}
 
-7&plusmn;2 is probably the most important number in programming.
+7±2 is probably the most important number in programming.
 When someone is trying to write the next line of a program,
 or understand what's already there,
 she needs to keep a bunch of arbitrary facts straight in her head:
@@ -335,7 +335,7 @@ If the number of facts grows too large,
 her mental model of the program comes crashing down
 (something we have all experienced).
 
-7&plusmn;2 is also the most important number in teaching.
+7±2 is also the most important number in teaching.
 An instructor cannot push information directly into a learner's long-term memory.
 Instead,
 whatever she presents is first represented in the learner's short-term memory,
