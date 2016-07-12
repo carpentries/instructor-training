@@ -135,13 +135,13 @@ are domain-specific and cover data organization, manipulation, and visualization
 relevant to the target domain.
 Currently, there are fully-developed workshops for:
 
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)  
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)  
-*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)
 
 There are also materials in development and testing for:
 
-*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
 *   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
 
 Other Data Carpentry lessons are in the incubator stage.

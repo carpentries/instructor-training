@@ -10,21 +10,36 @@ training_site: https://swcarpentry.github.io/instructor-training
     * "The Science of Learning" <{{ page.training_site }}/files/papers/science-of-learning-2015.pdf>
     * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>
 
-2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/> and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>, have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this page and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
+2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/>
+    and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>,
+    have a look at what we currently teach,
+    and then choose *one* episode from the list at the bottom of this page and read through it carefully.
+    You will be using your selected episode for several in-class exercises,
+    so be sure you are comfortable with the content.
 
-3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
+3.  We will be recording one another teaching in pairs or threes during the class,
+    so please bring a cell phone or hand-held camera that can record audio and video.
+    It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet won't be sufficient).
+4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
+    (a tablet won't be sufficient).
 
-Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at {{ page.training_site }}/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch.
+Please note that after this course is over,
+you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
+the details are available at {{ page.training_site }}/checkout/.
+If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
 If you are interested in doing more reading, you may enjoy:
 
-* *[How Learning Works](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*, which is an excellent summary of current research in teaching and learning
+*   *[How Learning Works](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*,
+    which is an excellent summary of current research in teaching and learning
 
-* *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/)*, a well-written look at why educational reforms in the past 50 years have mostly missed the mark and about what we should be doing instead.
+*   *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/)*,
+    a well-written look at why educational reforms in the past 50 years have mostly missed the mark
+    and about what we should be doing instead.
 
-* *[Teaching What You Don't Know](http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/)*, which is a situation many of us find ourselves in more often that we'd like.
+*   *[Teaching What You Don't Know](http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/)*,
+    which is a situation many of us find ourselves in more often that we'd like.
 
 Episodes
 --------

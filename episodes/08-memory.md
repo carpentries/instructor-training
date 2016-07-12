@@ -77,7 +77,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 
-    *The local driver probably can use either the names of streets* 
+    *The local driver probably can use either the names of streets*
     or
     *landmarks when giving directions. The out-of-towner only has street labels.*
 
