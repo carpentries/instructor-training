@@ -270,40 +270,43 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 ## Feedback
 
-Sometimes it can be hard to receive negative feedback.
+Sometimes it can be hard to receive feedback, especially negative feedback.
 
 ![Feedback Feelings]({{ site.root }}/fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
-Here is a list of some strategies to make sure that you can receive feedback
-in a way that helps you improve:
+Feedback is most effective when the people involved 
+can share ground rules and expectations.  This is especially important 
+when the instructor and/or students have different cultural or 
+domain expectations about feedback.  
 
-* Mental habits matter!  Tell yourself the right things, like:
-    * "It's not personal."
-    * "Look at the positives along with the negatives."
-	* etc.
+Here is a list of different 
+ways that you, as the instructor, can set the stage for receiving feedback
+in a way that helps you improve:
 
 * Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
-* Choose your own questions.  I'm a big fan of feedback questions like "what is
-  one thing I could have done as a teacher to make this lesson more
-  effective?"  Or "If you could pick one thing from the lesson to go over
-  again, what would it be?"  These questions (hopefully)
-  reveal what didn't work in your teaching, but read as professional suggestions
-  rather than personal judgments.
-
-* Balance positive and negative feedback:
-    * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
-    * ask for both types of feedback
+* Choose your own questions and ask for specific feedback.  For example: 
+	* "What is one thing I could have done as an instructor to make this lesson more
+  effective?"  
+	* "If you could pick one thing from the lesson to go over again, what 
+	would it be?"
+Specific feedback like this is more useful than a generic "that was great!" or "that 
+was terrible!"  Also, writing your own feedback questions allows you to frame 
+feedback in a way that is helpful to you - the questions above 
+reveal what didn't work in your teaching, but 
+read as professional suggestions rather than personal judgments.  
 
 * Communicate expectations. If your teaching feedback is taking the form of an
   observation (and you're comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* Use a feedback translator.  This is one of my favorite ways to get feedback when
-  I have to read it right away (mid-lesson feedback during Software
-  Carpentry workshops, for example).  I have my fellow
-  instructor (or other trusted person in the room) read over all the feedback and give me
-  an executive summary.  It's much easier for me to hear "It sounds like most people
+* Balance positive and negative feedback. 
+    * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
+    * Ask for both types of feedback
+    
+* Use a feedback translator.  Have a fellow
+  instructor (or other trusted person in the room) read over all the feedback and give 
+  an executive summary.   It can be easier to hear "It sounds like most people
   are following, so you could speed up" than to read several notes all saying, "this is
   too slow" or "this is boring".
 
@@ -314,6 +317,43 @@ Having another instructor in the classroom saves your voice
 but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
+
+Finally, be kind to yourself.
+Mental habits matter: if you're a self-critical person,
+it's okay to remind yourself that: 
+
+*   It's not personal.
+*   Look at the positives along with the negatives.
+*   Etc.
+
+> ## Feedback on Feedback
+>
+> Watch either [this video][scipy-video-1] (8:40)
+> or [this one][scipy-video-2] (11:42).
+> Take notes about the presentation,
+> and divide those into four groups
+> based on whether they are positive or negative
+> and whether they are about the content (what was said)
+> or the presentation (how it was said, e.g., body language).
+> Compare your notes with those made by other people,
+> and with the feedback given by your instructor.
+{: .challenge}
+
+> ## Feedback on Yourself, Part II
+>
+> Later in the training,
+> repeat the first challenge exercise; however, when it comes time to give feedback,
+> use the same 2x2 scheme in the previous challenge.
+{: .challenge}
+
+> ## Learn More About Feedback
+>
+> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+> and discuss ways you could make peer-to-peer feedback
+> a routine part of your teaching.
+> You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
+> which looks at the value of having a coach.
+{: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
