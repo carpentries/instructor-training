@@ -163,17 +163,6 @@ Baume's guide to
 [writing and using good learning outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
-> ## Improving Objectives
->
-> Are the following learning objectives strong or weak?
-> How could you improve some of the weak objectives?
->
-> *   Learn what a Python library is and what it can be used for.
-> *   Be able to use `dplyr` and provide simple examples.
-> *   Understand the importance of using version control.
-> *   Understand data slicing/manipulation.
-{: .challenge}
-
 > ## Evaluate SWC and DC Learning Objectives
 >
 > Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
@@ -218,6 +207,79 @@ A learner profile for Software Carpentry might be:
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 {: .quotation}
 
+> ## Learner Profiles
+>
+> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
+> and then write one that describes a fictional colleague of your own.
+> Who are they,
+> what problems do they face,
+> and how will this training help them?
+> Try to be as specific as possible.
+{: .challenge}
+
+
+## Existing Lessons
+
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
+*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
+*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
+*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
+*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+
+but these are less frequently used.
+
+The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
+that crop up in many other areas of computing:
+
+*   the notions of a path and a home directory
+*   the use of history and tab completion to save time (and prevent mistakes)
+*   manipulating text using `head`, `tail`, `grep`, and related tools
+*   combining existing tools using pipes instead of writing new ones
+*   using loops to repeat operations
+
+The aims of the version control lesson are to teach people:
+
+*   how to keep track of their work,
+*   how to collaborate with other people online, and
+*   enough about privacy and licensing that they can begin to make sensible decisions about
+    what to put where and how to share it.
+
+The ostensible aim of the programming lessons are to show people
+how to build modular programs out of small functions
+that can be read, tested, and re-used.
+However,
+these concepts turn out to be hard to convey to people
+who are still learning the syntax of a programming language
+(forest and trees),
+so in practice the programming lessons focus primarily on
+the mechanics of doing common operations in those languages.
+
+Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
+are domain-specific and cover data organization, manipulation, and visualization skills
+relevant to the target domain.
+Currently, there are fully-developed workshops for:
+
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)
+
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
+
+Other Data Carpentry lessons are in the incubator stage.
+
 ### Lesson Development
 
 As stated above, the lesson materials for Software and Data Carpentry
@@ -239,10 +301,6 @@ as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
 be discussed before changes are merged.
 
-### Lesson Incubation
-
-FIXME: how to add new lessons
-
 > ## Many Ways to Contribute
 >
 > We recognize that the medium of GitHub may be restrictive to those
@@ -252,57 +310,6 @@ FIXME: how to add new lessons
 > have any ideas how we might make contribution more contributor-friendly,
 > please let us know.
 {: .callout}
-
-> ## Learner Profiles
->
-> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
-> and then write one that describes a fictional colleague of your own.
-> Who are they,
-> what problems do they face,
-> and how will this training help them?
-> Try to be as specific as possible.
-{: .challenge}
-
-> ## Classify Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> lesson and classify its learning objectives according to their level in Bloom's Taxonomy.
-{: .challenge}
-
-> ## Validate Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> and read through its learning objectives.
-> Does this lesson accomplish what it sets out to achieve?
-> Does it contain too much?
-> Is the content on point with the learning objectives?
-{: .challenge}
-
-> ## Develop Learning Objectives
->
-> In groups of 2-4,
-> choose one of the following topics
-> (or something else that you might explain to a senior high school class)
-> and develop learning objectives for a 10-minute introductory lesson on it.
-> Compare your learning objectives to those developed by other groups:
-> how easy or hard would it be for an independent observer
-> to determine whether your objectives or the other groups' had been achieved?
->
-> *   The difference between velocity and momentum.
-> *   Volcanic, fold, and block mountain formation.
-> *   The gambler's fallacy in statistics.
-{: .challenge}
-
-> ## Summing Up
->
-> You have been asked to interview an undergraduate who wants to work with your group for the summer.
-> What task could you ask her to do that would tell you whether she has the technical skills the job requires?
-> (Try to choose something that she could reasonably be expected to accomplish in under 15 minutes.)
-> How would you describe the task to her?
-> And how would you describe the criteria for completing it successfully?
-{: .challenge}
 
 ## Reverse Instructional Design
 
@@ -404,7 +411,7 @@ Wiggins and McTighe use the acronym WHERETO:
 > Is reverse instructional design "teaching to the test"?
 > I.e., does it steer teachers toward getting their students to pass an exam
 > rather than learn things?
-{: .challenge}
+{: .discussion}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
 When using RID, teachers set goals to aid in lesson design,
@@ -420,6 +427,16 @@ centralized, standardized testing is appealing (particularly to those with the p
 but as Scott pointed out in
 *[Seeing Like a State][amazon-slas]*,
 large organizations invariably prefer uniformity to productivity.
+
+> ## Validate Learning Objectives
+>
+> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
+> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
+> and read through its learning objectives.
+> Does this lesson accomplish what it sets out to achieve?
+> Does it contain too much?
+> Is the content on point with the learning objectives?
+{: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
 [amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/

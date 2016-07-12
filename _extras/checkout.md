@@ -53,7 +53,7 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2.  Proof-reading a lesson and adding a new issue describing something to be improved.
 3.  Providing substantive feedback on an existing issue or pull request.
 
-Your contribution must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are 
+Your contribution must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are
 qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
 and a Software Carpentry lesson.
 
@@ -95,7 +95,7 @@ Please note that:
     {: .source}
 
 5.  We do *not* want exercises or other material that introduce new concepts:
-    our lessons are already full to bursting. 
+    our lessons are already full to bursting.
 
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG (scalable vector graphics),
@@ -106,7 +106,7 @@ Please note that:
 7.  We also appreciate improvements to our lessons' learning objectives.
     In particular,
     we would like our current learning objectives to be checked against the actual lesson content,
-    and to be framed in terms of observables 
+    and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
 The lessons you may submit to are:
@@ -117,11 +117,11 @@ The lessons you may submit to are:
     *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
     *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
     *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
-2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/): 
+2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
     for any lesson. We are also accepting new exercises using the Gapminder data set
     for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
-    Please don't worry too much about formatting, and please only submit the Markdown files 
+    Please don't worry too much about formatting, and please only submit the Markdown files
     (not generated HTML) in pull requests.
 
 > ## What Makes a Good Exercise?
@@ -147,12 +147,12 @@ After you have submitted a contribution to one of our lessons,
 the next step is to take part in an hour-long discussion session
 led by an experienced instructor.
 This session gives you a chance to ask questions about the material
-you plan on teaching 
+you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
 Regardless of whether you are qualifying as an instructor for one or both Carpentries,
 you only need to participate in one discussion session.
-You are, however, welcome to join the discussions as often as you like. 
+You are, however, welcome to join the discussions as often as you like.
 
 Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
@@ -167,20 +167,20 @@ rather than open-air speakers and your laptop's built-in microphone,
 since the latter often lead to audio quality problems.
 
 To prepare for your session,
-pick one lesson that you plan on teaching and read the whole lesson. 
+pick one lesson that you plan on teaching and read the whole lesson.
 As you are reading, make notes about the following:
 
-1.  Was there anything that you found unclear in the material? Did you get stuck anywhere?  
+1.  Was there anything that you found unclear in the material? Did you get stuck anywhere?
 2.  Did you feel like you would like to change the flow or present the concepts differently?
-    If so, what and why?  
-3.  What are some misconceptions that the students may have when learning this material? 
+    If so, what and why?
+3.  What are some misconceptions that the students may have when learning this material?
     Which bits of the lesson may be tricky and if poorly explained,
-    may lead the students to broken mental models?  
+    may lead the students to broken mental models?
 4.  What prior knowledge do learners need to have before participating in this lesson?
-    If you were to list any prerequisites, what would they be?  
+    If you were to list any prerequisites, what would they be?
 
 The first two questions are intended to help you become more comfortable
-with our collaborative lesson development methods. 
+with our collaborative lesson development methods.
 The third and fourth question refer back to the instructor training course,
 and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
 
@@ -210,7 +210,7 @@ Trainees may also ask about:
 *   anything else that comes to mind.
 
 If the discussion leader feels that you have adequately participated in the conversation,
-she will notify the training coordinator 
+she will notify the training coordinator
 who will then ask you to sign up for a teaching demonstration (described in the next session).
 
 ## Part 3: Teach a Short Demonstration Lesson
@@ -220,7 +220,7 @@ Once you have completed your discussion session,
 the final step is to sign up for a 5-minute teaching demonstration online using
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
-These demonstrations are run as video conferences using Google Hangouts. 
+These demonstrations are run as video conferences using Google Hangouts.
 The instructor leading the session will post connection details and other information
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
@@ -234,7 +234,7 @@ If you want to do your demonstration(s) in a language other than English,
 please let us know in advance so that we can attempt to find someone to moderate.
 We may not be able to accomodate all languages.
 
-For your teaching demonstration, you will teach a short segment from your chosen lesson(s). 
+For your teaching demonstration, you will teach a short segment from your chosen lesson(s).
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).

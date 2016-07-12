@@ -33,6 +33,13 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
+
+> ## Up and Down
+>
+> What are some of the advantages and challenges of live coding
+> from both a learner's and an instructor's point of view?
+{: .discussion}
+
 Its advantages are:
 
 *   Watching a program being written is more compelling than
@@ -67,12 +74,6 @@ another.
 > Live coding is an example of the "I/We/You" approach to teaching
 > [discussed earlier]({{ site.root }}/04-study/).
 {: .callout}
-
-> ## Up and Down
->
-> What are some of the advantages and challenges of live coding
-> from both a learner's and an instructor's point of view?
-{: .challenge}
 
 ## Live Coding Top 10
 
