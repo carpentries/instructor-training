@@ -22,7 +22,7 @@ and on the final steps toward certification.
 > ## Preparation and Discussion
 >
 > This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
-> (which is [assigned as overnight homework]({{ site.root }}/11-summarize/)).
+> (which is [assigned as overnight homework]({{ site.root }}/12-summarize/)).
 > Instead of going through this material point by point,
 > trainers should ask each trainee to add one non-overlapping question to a list,
 > then go through that list.
