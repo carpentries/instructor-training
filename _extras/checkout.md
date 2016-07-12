@@ -98,11 +98,15 @@ Please note that:
     our lessons are already full to bursting. 
 
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
-    Please use SVG (scalable vector graphics), since vector formats are easier to manipulate than raster formats. SVG files can be produced in the free graphics software 
-    [Inkscape](https://inkscape.org/en/) as well as other graphics programs.
+    Please use SVG (scalable vector graphics),
+    since vector formats are easier to manipulate than raster formats.
+    SVG files can be produced using [Inkscape](https://inkscape.org/en/)
+    as well as other graphics programs.
 
 7.  We also appreciate improvements to our lessons' learning objectives.
-    In particular, we would like our current learning objectives to be checked against the actual lesson content, and to be framed in terms of observables 
+    In particular,
+    we would like our current learning objectives to be checked against the actual lesson content,
+    and to be framed in terms of observables 
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
 The lessons you may submit to are:
@@ -115,13 +119,13 @@ The lessons you may submit to are:
     *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
 2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/): 
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
-    for any lesson. We are also accepting new exercises using the Gapminder data set (in the "data" directory) for 
-    our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
+    for any lesson. We are also accepting new exercises using the Gapminder data set
+    for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
     Please don't worry too much about formatting, and please only submit the Markdown files 
     (not generated HTML) in pull requests.
 
-
 > ## What Makes a Good Exercise?
+>
 > If you are submitting a new exercise for the new Software Carpentry Python lesson:
 >
 > 1.  Follow the coding style of the lesson you're submitting to.
@@ -146,9 +150,9 @@ This session gives you a chance to ask questions about the material
 you plan on teaching 
 and to clarify anything that may be unclear about our operations in general.
 
-Regardless of whether you are qualifying as an instructor for one or both Carpentries, you 
-only need to participate in one discussion session. You are, however, welcome to join the discussions 
-as often as you like. 
+Regardless of whether you are qualifying as an instructor for one or both Carpentries,
+you only need to participate in one discussion session.
+You are, however, welcome to join the discussions as often as you like. 
 
 Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
@@ -162,35 +166,42 @@ Please be sure to use a headset with a built-in microphone during the session
 rather than open-air speakers and your laptop's built-in microphone,
 since the latter often lead to audio quality problems.
 
-To prepare for your session, pick one lesson that you plan on teaching and read the whole lesson. 
+To prepare for your session,
+pick one lesson that you plan on teaching and read the whole lesson. 
 As you are reading, make notes about the following:
 
-1. Was there anything that you found unclear in the material? Did you get stuck anywhere?  
-2. Did you feel like you would like to change the flow or present the concepts differently? If so, what and why?  
-3. What are some misconceptions that the students may have when learning this material? 
-Which bits of the lesson may be tricky and if poorly explained, may lead the students to broken mental models?  
-4. What prior knowledge do learners need to have before participating in this lesson? If you were to list any prerequisites, what would they be?  
+1.  Was there anything that you found unclear in the material? Did you get stuck anywhere?  
+2.  Did you feel like you would like to change the flow or present the concepts differently?
+    If so, what and why?  
+3.  What are some misconceptions that the students may have when learning this material? 
+    Which bits of the lesson may be tricky and if poorly explained,
+    may lead the students to broken mental models?  
+4.  What prior knowledge do learners need to have before participating in this lesson?
+    If you were to list any prerequisites, what would they be?  
 
-The first two questions are intended to help you become more comfortable with our collaborative lesson development methods. 
-The third and fourth question refer back to the instructor training course, and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
+The first two questions are intended to help you become more comfortable
+with our collaborative lesson development methods. 
+The third and fourth question refer back to the instructor training course,
+and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that you've thought about what you're going to teach (including questions you had while reading through your chosen lesson),
+you are expected to ask questions to show that you've thought about what you're going to teach
+(including questions you had while reading through your chosen lesson),
 and about how our workshops are run in general.
 
 Sample questions include:
 
 *   What were the most interesting or surprising things existing instructors learned
-when they attended or taught their first workshop?
+    when they attended or taught their first workshop?
 *   What pre- and during-workshop responsibilities did each instructor have?
 *   What lessons did people teach?
 *   How did instructors test installation of the required software?
 *   How long did lessons actually take to teach?
-(Alternatively, how far did instructors actually get?)
+    (Alternatively, how far did instructors actually get?)
 *   Did people adapt or modify the lesson material?
-If so, how and why?
+    If so, how and why?
 *   Where in the material are learners most likely to misunderstand things or get lost,
-and why?
+    and why?
 
 Trainees may also ask about:
 
@@ -213,10 +224,11 @@ These demonstrations are run as video conferences using Google Hangouts.
 The instructor leading the session will post connection details and other information
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
-Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are 
-qualifying. Instructors seeking to qualify for both Carpentries must teach 5-minute demonstrations for both
-a Data Carpentry and a Software Carpentry lesson. You may choose to do these two demonstrations in the same session
-or on separate days.
+Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data)
+for which you are qualifying.
+Instructors seeking to qualify for both Carpentries must teach 5-minute demonstrations
+for both a Data Carpentry and a Software Carpentry lesson.
+You may choose to do these two demonstrations in the same session or on separate days.
 
 If you want to do your demonstration(s) in a language other than English,
 please let us know in advance so that we can attempt to find someone to moderate.
@@ -238,7 +250,8 @@ instead,
 you are to teach as you would in an actual workshop.
 When your five minutes are up,
 the trainer leading the session will call time,
-and then you and everyone else taking part in the session will give feedback on your teaching in the session's Etherpad.
+and then you and everyone else taking part in the session will give feedback on your teaching
+in the session's Etherpad.
 Note that people are required to give feedback on themselves as well as on others;
 note also that it's useful to organize your feedback along the two axes of positive vs. negative
 and content vs. presentation,
@@ -255,4 +268,3 @@ and when and where to sign up for another session.
 
 If you have any questions or suggestions about any of the above,
 mail us at [{{site.email}}](mailto:{{site.email}}).
-
