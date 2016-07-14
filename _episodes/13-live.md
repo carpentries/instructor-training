@@ -251,6 +251,10 @@ you are unsure of the effect you behaviour has on the workshop.
 > have found that it's difficult to capture both the person and the
 > screen with a handheld device---but give feedback the same way you
 > have previously (positive and negative, content and presentation).
+> If you decide to instead teach something from the lesson episode
+> you selected in preparation for this workshop,
+> explain in advance to your fellow trainee what you will be teaching
+> and what the learners you teach it to are expected to be familiar with.
 {: .challenge}
 
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
