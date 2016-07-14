@@ -20,7 +20,7 @@ When you arrive tomorrow,
 we will ask you to add one question about our operations to a list;
 we will then do our best to answer all of those questions during the day.
 
-Please also read "[Software Carpentry: Lessons Learned]({{ site.root }}/files/papers/wilson-lessons-learned-2016.pdf)",
+Please also read "[Software Carpentry: Lessons Learned]({{ site.github.url }}/files/papers/wilson-lessons-learned-2016.pdf)",
 which summarizes what we have learned over 18 years of teaching basic computing skills to researchers.
 
 > ## End-of-Day Feedback

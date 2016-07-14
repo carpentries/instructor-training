@@ -161,9 +161,9 @@ the theory they've learned in education school
 to deliver an actual lesson in an actual classroom for actual students.
 
 Fincher and her colleagues studied how teaching practices are actually transferred
-using both [a detailed case study]({{ site.root }}/files/papers/fincher-warrens-questions-2007.pdf)
+using both [a detailed case study]({{ site.github.url }}/files/papers/fincher-warrens-questions-2007.pdf)
 and
-[analysis of change stories]({{ site.root }}/files/papers/fincher-stories-change-2012.pdf).
+[analysis of change stories]({{ site.github.url }}/files/papers/fincher-stories-change-2012.pdf).
 The abstract of the latter paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by educators in the field,
@@ -181,7 +181,7 @@ The abstract of the latter paper sums up their findings:
 > or involved only personal interaction with other educators.
 {: .quotation}
 
-As reported in [this paper]({{ site.root }}/files/papers/barker-practice-adoption-2015.pdf),
+As reported in [this paper]({{ site.github.url }}/files/papers/barker-practice-adoption-2015.pdf),
 Barker et al found something similar in 2015:
 
 > Adoption is not a "rational action," however, but an iterative
@@ -272,7 +272,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
 
-![Feedback Feelings]({{ site.root }}/fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings]({{ site.github.url }}/fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved 
 can share ground rules and expectations.  This is especially important 
@@ -348,7 +348,7 @@ it's okay to remind yourself that:
 
 > ## Learn More About Feedback
 >
-> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.github.url }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 > and discuss ways you could make peer-to-peer feedback
 > a routine part of your teaching.
 > You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",

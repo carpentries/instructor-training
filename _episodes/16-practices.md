@@ -144,7 +144,7 @@ Sticky notes.
         what state the class is in.
 
 Minute cards.
-:   As explained [yesterday]({{ site.root }}/05-summarize/), we also
+:   As explained [yesterday]({{ site.github.url }}/05-summarize/), we also
     use sticky notes as minute cards: before each coffee or meal break,
     learners take a minute to write one positive thing on the green
     sticky note (e.g., one thing they've learned that they think will
@@ -206,7 +206,7 @@ Collaborative note-taking.
 
 Pair programming.
 :   Pairing is a good practice in real life, and also
-    [a good way to teach]({{ site.root }}/files/porter-what-works-2013.pdf).
+    [a good way to teach]({{ site.github.url }}/files/porter-what-works-2013.pdf).
     Partners can not only help each other out during the practical,
     but can also clarify each other's misconceptions when the solution is
     presented, and discuss common research interests during breaks. To
