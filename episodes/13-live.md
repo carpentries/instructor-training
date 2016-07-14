@@ -72,7 +72,7 @@ another.
 > ## I/We/You vs. You/Y'all/We
 >
 > Live coding is an example of the "I/We/You" approach to teaching
-> [discussed earlier]({{ site.root }}/04-study/).
+> [discussed earlier]({{ site.github.url }}/04-study/).
 {: .callout}
 
 ## Live Coding Top 10

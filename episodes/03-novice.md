@@ -60,7 +60,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ site.root }}/05-expertise/).
+    We will discuss expertise in more detail in [a later lesson]({{ site.github.url }}/05-expertise/).
 
 We assume that most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our

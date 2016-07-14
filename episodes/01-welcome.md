@@ -54,7 +54,7 @@ practice teaching, and give critical feedback to their peers.
 
 After completing the instructor-training workshop,
 participants must complete
-[these follow-up exercises online]({{ site.root }}/checkout/)
+[these follow-up exercises online]({{ site.github.url }}/checkout/)
 in order to be certified to teach Software Carpentry and/or Data Carpentry.
 This will be discussed in more detail at the end of Day 2.
 

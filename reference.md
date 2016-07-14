@@ -177,51 +177,51 @@ Dani Byrd and Toben H. Mintz: *[Discovering Speech, Words, and Mind][discovering
 
 ## Papers
 
-Baume: "[Writing and Using Good Learning Outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)"
+Baume: "[Writing and Using Good Learning Outcomes]({{ site.github.url }}/files/papers/baume-learning-outcomes-2009.pdf)"
 :   A useful detailed guide to constructing useful learning outcomes.
 
-Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies]({{ site.root }}/files/papers/borrego-henderson-change-strategies-2014.pdf)"
+Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies]({{ site.github.url }}/files/papers/borrego-henderson-change-strategies-2014.pdf)"
 :   Describes eight approaches to effecting change in STEM education
     that form a useful framework for thinking about how Software Carpentry and Data Carpentry can change the world.
 
-Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data]({{ site.root }}/files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
+Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data]({{ site.github.url }}/files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
 :   Compares teachers' opinions about common programming errors with data from over 100,000 students,
     and finds only weak consensus amongst teachers and between teachers and data.
 
-Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results]({{ site.root }}/files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
+Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results]({{ site.github.url }}/files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
 :   An early report on peer instruction and its effects in the classroom.
 
-Deans for Impact: "[The Science of Learning]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+Deans for Impact: "[The Science of Learning]({{ site.github.url }}/files/papers/science-of-learning-2015.pdf)"
 :   Summarizes cognitive science research related to how students learn,
     and connects it to practical implications for teaching and learning.
 
-Guzdial: "[Exploring Hypotheses about Media Computation]({{ site.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)"
+Guzdial: "[Exploring Hypotheses about Media Computation]({{ site.github.url }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)"
 :   A look back on 10 years of media computation research.
 
-De Bruyckere et al: "[Urban Myths About Learning and Education]({{ site.root }}/files/papers/de-bruyckere-urban-myths-2015.pdf)"
+De Bruyckere et al: "[Urban Myths About Learning and Education]({{ site.github.url }}/files/papers/de-bruyckere-urban-myths-2015.pdf)"
 :   A one-page summary drawn from their book of the same name.
 
-Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change]({{ site.github.url }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 :   Summarizes best practices for providing instructional feedback and recommends specific strategies for sharing instructional expertise.
 
-Guzdial: "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+Guzdial: "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
 :   A chapter from
     *[Making Software][amazon-making-software]*
     that explores why programming seems so much harder to teach than
     some other standard subjects.
 
-Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching]({{ site.root }}/files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
+Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching]({{ site.github.url }}/files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
 :   Argues that inquiry-based learning is less effective for novices than guided instruction.
 
-Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning]({{ site.root }}/files/papers/mayer-reduce-cognitive-load-2003.pdf)"
+Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning]({{ site.github.url }}/files/papers/mayer-reduce-cognitive-load-2003.pdf)"
 :   Shows how research into how we absorb and process information
     can be applied to the design of instructional materials.
 
-Porter et al: "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)"
+Porter et al: "[Success in Introductory Programming: What Works?]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf)"
 :   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
     significantly improve outcomes in introductory programming courses.
 
-Wiggins and McTighe: "[UbD in a Nutshell]({{ site.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
+Wiggins and McTighe: "[UbD in a Nutshell]({{ site.github.url }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
