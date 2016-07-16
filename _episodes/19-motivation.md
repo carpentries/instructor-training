@@ -159,7 +159,7 @@ to make sure they're doing at least a few of these things.
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.
-{.callout}
+{: .callout}
 
 > ## Why Do You Teach?
 >
