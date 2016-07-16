@@ -23,7 +23,7 @@ gives general tips for an effective live coding presentation.
 
 ## Why Live Coding?
 
-> Teaching is theater not cinema.  
+> Teaching is theater not cinema.
 > — Neal Davis
 {: .quotation}
 
@@ -215,7 +215,7 @@ something covered earlier.  Novices are going to spend most of their
 time making the same and other mistakes, but how to deal with the is
 left out of most textbooks.
 
-> The typos are the pedagogy  
+> The typos are the pedagogy
 > — [Dana Brunson][brunson-twitter]
 {: .quotation}
 

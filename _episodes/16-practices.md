@@ -227,7 +227,6 @@ Peak rule.
     While it has been criticized for not strongly predicting what's remembered,
     it's always worth trying to end a lesson on a high note.
 
-[brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [wikipedia-peak-rule]: https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule

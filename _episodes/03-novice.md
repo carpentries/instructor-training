@@ -132,7 +132,7 @@ can be used as a model.
 However, there's another, greater challenge to creating mental models.
 
 > It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.  
+> It's what you know for sure that just ain't so.
 > — Mark Twain
 {: .quotation}
 
@@ -384,25 +384,14 @@ and see the topic from their point of view.
 > where they are and what they need to do next.
 {: .discussion}
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-benner]: http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
 [amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
-[amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
 [amazon-thinking-physics]: http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r
 [amazon-unix-vsg]: http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/
 [amazon-upe]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/
-[cs-teaching-tips]: http://csteachingtips.org/
-[learning-theories]: http://www.learning-theories.com/
 [peer-instruction-video]: https://www.youtube.com/watch?t=1&v=2LbuoxAy56o
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
-[wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
-[wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-phonics]: http://en.wikipedia.org/wiki/Phonics
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
-[wikipedia-whole-language]: http://en.wikipedia.org/wiki/Whole_language
