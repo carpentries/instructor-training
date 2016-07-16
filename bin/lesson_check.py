@@ -388,10 +388,6 @@ class CheckBase(object):
 class CheckNonJekyll(CheckBase):
     """Check a file that isn't translated by Jekyll."""
 
-    def __init__(self, args, filename, metadata, metadata_len, text, lines, doc):
-        super(CheckNonJekyll, self).__init__(args, filename, metadata, metadata_len, text, lines, doc)
-
-
     def check_metadata(self):
         self.reporter.check(self.metadata is None,
                             self.filename,
@@ -408,9 +404,6 @@ class CheckIndex(CheckBase):
 
 class CheckEpisode(CheckBase):
     """Check an episode page."""
-
-    def __init__(self, args, filename, metadata, metadata_len, text, lines, doc):
-        super(CheckEpisode, self).__init__(args, filename, metadata, metadata_len, text, lines, doc)
 
     def check_metadata(self):
         super(CheckEpisode, self).check_metadata()
