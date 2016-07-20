@@ -164,3 +164,8 @@ permalink: /exercises/
 > How would you describe the task to her?
 > And how would you describe the criteria for completing it successfully?
 {: .challenge}
+
+[amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
+[scipy-video-1]: https://vimeo.com/139316669
+[scipy-video-2]: https://vimeo.com/139181120
+[tpi]: http://www.teachingperspectives.com/tpi/
