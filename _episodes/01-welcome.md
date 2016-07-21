@@ -16,7 +16,7 @@ keypoints:
 
 ## Introductions
 
-> Introductions set the stage for learning.  
+> Introductions set the stage for learning.
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 

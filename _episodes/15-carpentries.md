@@ -406,9 +406,7 @@ you are very welcome to put your name forward as a candidate.
 [dc-forum]: http://discuss.datacarpentry.org/
 [dc-github]: {{ site.dc_github }}
 [dc-join]: {{ site.dc_site }}/involved/
-[dc-lessons]: {{ site.dc_site }}/lessons/
 [dc-request]: {{ site.dc_site}}/workshops-host/
-[dc-submission-page]: {{ site.dc_site }}/instructor-checkout-exercises/
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: {{ site.dc_site }}
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
@@ -418,7 +416,6 @@ you are very welcome to put your name forward as a candidate.
 [swc-blog]: {{ site.swc_site }}/blog/
 [swc-github]: {{ site.swc_github }}/
 [swc-join]: {{ site.swc_site }}/join/
-[swc-lessons]: {{ site.swc_site }}/lessons/
 [swc-operations]: {{ site.swc_site }}/workshops/operations.html
 [swc-request]: {{ site.swc_site}}/workshops/request/
 [swc-steering-committee]: {{ site.swc_site }}/scf/

@@ -440,7 +440,6 @@ large organizations invariably prefer uniformity to productivity.
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
 [amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/
-[amazon-myths]: http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/
 [amazon-slas]: http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/
 [amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
 [dc-github]: {{ site.dc_github }}
@@ -448,5 +447,4 @@ large organizations invariably prefer uniformity to productivity.
 [parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
 [swc-github]: {{ site.swc_github }}/
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
-[wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

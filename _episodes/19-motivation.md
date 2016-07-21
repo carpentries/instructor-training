@@ -475,7 +475,6 @@ are always welcome.
 [reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
-[tpi]: http://www.teachingperspectives.com/tpi/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
 [w3c-accessible]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
