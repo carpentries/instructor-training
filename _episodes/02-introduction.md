@@ -219,7 +219,7 @@ The things teachers know can be divided into:
     PCK is things like what examples to use when teaching how parameters are passed to a function,
     or what misconceptions about wildcard expansion are most common.
 
-![Pedagogical Content Knowledge]({{ site.github.url }}/fig/pck.svg)
+![Pedagogical Content Knowledge](../fig/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories

@@ -272,7 +272,7 @@ as weaknesses when trying to improve your teaching.  It's good to know what you 
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
 
-![Feedback Feelings]({{ site.github.url }}/fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved 
 can share ground rules and expectations.  This is especially important 
