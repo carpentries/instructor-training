@@ -295,10 +295,10 @@ associated directory containing the data or scripts needed in the
 lesson.  This source material is also then served as a website, using
 GitHub's "gh-pages" feature.
 
-Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced
+Lesson contribution is managed within the repository using issues
+and pull requests.  New problems or suggestions can be introduced
 as issues, discussed by the community, and addressed via a pull
-request, which serves as a "request" to make changes, and can also
+request, which serves as a request to make changes, and can also
 be discussed before changes are merged.
 
 > ## Many Ways to Contribute
@@ -309,6 +309,12 @@ be discussed before changes are merged.
 > contribution training, or alternative routes to contribution.  If you
 > have any ideas how we might make contribution more contributor-friendly,
 > please let us know.
+{: .callout}
+
+> ## Incubating New Lessons
+>
+> Our [lesson incubation guidelines]({{ site.swc_site }}/lessons/incubation/)
+> explain how we work with partners to develop new lesson materials.
 {: .callout}
 
 ## Reverse Instructional Design
