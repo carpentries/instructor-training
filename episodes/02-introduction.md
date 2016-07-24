@@ -248,7 +248,7 @@ the course of the next two days.
 
 > ## Pseudoscience
 >
-> One [well-known scheme][wikipedia-learning-modes]
+> One [well-known scheme][wikipedia-learning-modalities]
 > characterizes learners as visual, auditory, or kinesthetic
 > according to whether they like to see things, hear things, or do things.
 > This scheme is easy to understand,
@@ -279,10 +279,13 @@ the course of the next two days.
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
+[amazon-myths]: https://www.amazon.com/Urban-Myths-about-Learning-Education/dp/0128015373/
 [amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
+[cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/
 [wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
+[wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
 [wikipedia-phonics]: http://en.wikipedia.org/wiki/Phonics
 [wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning

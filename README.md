@@ -9,10 +9,11 @@ or run `make` in this directory for a list of helpful commands.
 
 Maintainer(s):
 
-* [Christina Koch][koch-christina]
-* [Greg Wilson][wilson-greg]
+* [Christina Koch][koch_christina]
+* [Greg Wilson][wilson_greg]
 
 [dc-site]: http://datacarpentry.org
-[koch-christina]: http://software-carpentry.org/team/#koch_christina
+[lesson-example]: https://swcarpentry.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
-[wilson-greg]: http://software-carpentry.org/team/#wilson_g
+[koch_christina]: http://software-carpentry.org/team/#koch_christina
+[wilson_greg]: http://software-carpentry.org/team/#wilson_g
