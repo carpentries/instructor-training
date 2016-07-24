@@ -40,17 +40,13 @@ Their findings are summarized in this table:
 
 <table>
   <tr>
-    <th colspan="2"></th>
-    <th colspan="2" align="center">Intended Outcome</td>
-  <tr>
-  <tr>
-    <th colspan="2"></th>
-    <th align="center">Prescribed</th>
-    <th align="center">Emergent</th>
+    <td><strong>Aspect&nbsp;of&nbsp;System<br/>to be Changed</strong></td>
+    <td><strong>Intended Outcome</strong></td>
+    <td></td>
   </tr>
   <tr>
-    <th rowspan="2">Aspect of System<br/>to be Changed</th>
-    <th>Individuals</th>
+    <td><strong>Individuals</strong></td>
+    <td><strong>Prescribed</strong></td>
     <td>
       <strong>I. Disseminating: Curriculum &amp; Pedagogy</strong>
       <br/>
@@ -60,6 +56,10 @@ Their findings are summarized in this table:
       <br/>
       <em>Implementation</em>
     </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Emergent</strong></td>
     <td>
       <strong>II. Developing: Reflective Teachers</strong>
       <br/>
@@ -71,7 +71,8 @@ Their findings are summarized in this table:
     </td>
   </tr>
   <tr>
-    <th>Environments<br/>and<br/>Structures</th>
+    <td><strong>Environments<br/>and Structures</strong></td>
+    <td><strong>Prescribed</strong></td>
     <td>
       <strong>III. Enacting: Policy</strong>
       <br/>
@@ -81,6 +82,10 @@ Their findings are summarized in this table:
       <br/>
       <em>Organizational Development</em>
     </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Emergent</strong></td>
     <td>
       <strong>IV. Developing: Shared Vision</strong>
       <br/>
@@ -206,3 +211,6 @@ This exercise always generates a lot of discussion,
 but end-of-day assessment has usually indicated that trainees don't find it particularly useful.
 We have therefore cut it,
 but may re-introduce it if and when we include a module on program assessment.
+
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
+[stefik-summary]: {{ site.github.url }}/files/papers/stefik-summary-2016.pdf
