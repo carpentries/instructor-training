@@ -56,7 +56,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ site.github.url }}/05-expertise/).
+> please revisit the discussion of [expert blind spot]({{ site.github.url }}/08-memory/).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -155,7 +155,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ site.github.url }}/02-terms/),
+> As we said in [the introduction]({{ site.github.url }}/02-introduction/),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.
@@ -174,7 +174,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
-As noted in [the introduction]({{ site.github.url }}/02-terms/),
+As noted in [the introduction]({{ site.github.url }}/02-introduction/),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
@@ -205,7 +205,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier]({{ site.github.url }}/07-memory/),
+>     As [discussed earlier]({{ site.github.url }}/08-memory/),
 >     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
