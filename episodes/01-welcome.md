@@ -48,7 +48,7 @@ This two-day workshop has two goals:
     overall philosophy and procedures of both organizations in order
     to prepare them to teach at Software and Data Carpentry workshops.
 
-During the insturctor-training workshop students will listen to short
+During the instructor-training workshop students will listen to short
 lessons, participate in individual and group practical exercises,
 practice teaching, and give critical feedback to their peers.
 
