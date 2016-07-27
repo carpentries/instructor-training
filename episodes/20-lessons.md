@@ -171,7 +171,7 @@ is a good longer discussion of these issues.
 >
 > 1. Identify the learning objective verb.
 > 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
-> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 3. Reword the learning objective for a different learning outcome (eg, from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
