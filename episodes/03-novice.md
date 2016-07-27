@@ -357,7 +357,7 @@ even if it is never used in class
 because it forces the instructor to think about the learners' mental models
 and how they might be broken ---
 in short,
-to put themselves into the learner's head
+to put themselves into the learners' heads
 and see the topic from their point of view.
 
 > ## Why We Don't Assess During Registration
