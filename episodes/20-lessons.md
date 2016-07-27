@@ -190,7 +190,7 @@ the problem they face,
 and how the course will help them.
 A learner profile for Software Carpentry might be:
 
-> João is an agricultural engineer doing his masters in soil physics.
+> João is an agricultural engineer doing his Master's degree in soil physics.
 > His programming experience is a first year programming course using C.
 > He was never able to use this low-level programming into his activities,
 > and never programmed after the first year.
