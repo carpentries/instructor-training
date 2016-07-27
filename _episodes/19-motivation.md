@@ -192,7 +192,7 @@ to alienate a classroom and cause learners to tune out.
 
 > ## Things You Shouldn't Do in a Workshop
 >
-> *   Tell learners they are rubbish because they use Excel and/or Word
+> *   Tell learners they are rubbish because they use Excel and/or Word,
 >     don't modularize their code, etc.
 > *   Repeatedly make digs about Windows and praise Linux, e.g., say that
 >     the former is for amateurs.
