@@ -192,7 +192,7 @@ A learner profile for Software Carpentry might be:
 
 > João is an agricultural engineer doing his Master's degree in soil physics.
 > His programming experience is a first year programming course using C.
-> He was never able to use this low-level programming into his activities,
+> He was never able to use this low-level programming in his activities,
 > and never programmed after the first year.
 >
 > His work consists of evaluating physical properties of soil samples from different conditions.
