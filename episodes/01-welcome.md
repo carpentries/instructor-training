@@ -122,7 +122,7 @@ the live coding activities differently.
 Now that we have a better idea of everyone's prior knowledge and
 familiarity with some of the SWC and DC teaching practices, we're
 ready to begin our training. Our goal is that by the end, you will
-have acquired some knew knowledge, confidence, and skills that you can
+have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching SWC and DC
 workshops specifically.
 
