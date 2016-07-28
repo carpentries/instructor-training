@@ -280,7 +280,7 @@ and that they'd have a better chance of making next Thursday's conference submis
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ site.github.url }}/17-motivation/).
+described in [this episode]({{ site.github.url }}/19-motivation/).
 
 > ## Software Carpentry Is Not Computer Science
 >
