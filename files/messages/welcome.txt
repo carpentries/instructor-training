@@ -38,8 +38,8 @@ Data Carpentry
 
 Software Carpentry
 
-* Working with Files and Directories in the Unix Shell: http://swcarpentry.github.io/shell-novice/02-create.html
-* Tracking Changes in Git: http://swcarpentry.github.io/git-novice/04-changes.html
-* Selecting Data in SQL: http://swcarpentry.github.io/sql-novice-survey/01-select.html
-* Repeating Actions with Loops in Python: http://swcarpentry.github.io/python-novice-inflammation/02-loop.html
-* Exploring Data Frames in R: http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html
+* Working with Files and Directories in the Unix Shell: http://swcarpentry.github.io/shell-novice/03-create/
+* Tracking Changes in Git: http://swcarpentry.github.io/git-novice/04-changes/
+* Selecting Data in SQL: http://swcarpentry.github.io/sql-novice-survey/01-select/
+* Repeating Actions with Loops in Python: http://swcarpentry.github.io/python-novice-inflammation/02-loop/
+* Exploring Data Frames in R: http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
