@@ -36,7 +36,7 @@ This requirement forces people to say things they otherwise might not:
 once all the "safe" feedback has been given,
 participants will start saying what they really think.
 
-[Minute cards]({{ site.github.url }}/15-minute/#other-practices) are anonymous;
+[Minute cards]({{ site.github.url }}/06-summarize/) are anonymous;
 the alternating up-and-down feedback is not.
 Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 

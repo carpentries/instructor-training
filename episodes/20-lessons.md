@@ -222,19 +222,19 @@ A learner profile for Software Carpentry might be:
 
 Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
 
-*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
-*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
-*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
-*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
-*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+*   [The Unix Shell]({{site.swc_pages}}/shell-novice/)
+*   [Version Control with Git]({{site.swc_pages}}/git-novice/)
+*   [Programming with Python]({{site.swc_pages}}/python-novice-inflammation/)
+*   [Programming with R]({{site.swc_pages}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.swc_pages}}/r-novice-gapminder/)
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
 Software Carpentry also maintains lessons on:
 
-*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
-*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
-*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
-*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+*   [Version Control with Mercurial]({{site.swc_pages}}/hg-novice/)
+*   [Using Databases and SQL]({{site.swc_pages}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.swc_pages}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.swc_pages}}/make-novice/)
 
 but these are less frequently used.
 

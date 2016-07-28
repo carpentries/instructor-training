@@ -160,7 +160,7 @@ it behooves us to try to meet those same standards ourselves.
 > but very little research has been done on what researchers actually use
 > and what impact it has on productivity.
 > An example of what we wish existed
-> is [this summary][stefik-summary] by Stefik et al
+> is [this summary][stefik-evidence] by Stefik et al
 > of empirical research on the usability of programming languages
 > (while [this full-length paper][stefik-paper] gives an idea of what's possible).
 {: .callout}
@@ -213,4 +213,4 @@ We have therefore cut it,
 but may re-introduce it if and when we include a module on program assessment.
 
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.github.url }}/files/papers/stefik-summary-2016.pdf
+[stefik-evidence]: {{ site.github.url }}/files/papers/stefik-evidence-2016.pdf

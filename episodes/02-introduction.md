@@ -228,7 +228,7 @@ It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
 When it comes to PCK,
-we will [see later]({{ site.github.url }}/08-practices/)
+we will [see later]({{ site.github.url }}/16-practices/)
 some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
