@@ -126,7 +126,7 @@ and without which people cannot understand how to use commands
 ## Building Useful Mental Models
 
 There are many "positive" strategies towards building mental models.  Analogies,
-stories, role-play, diagrams...all can be a way to represent a structure that
+stories, role-play, and diagrams are ways to represent a structure that
 can be used as a model.
 
 However, there's another, greater challenge to creating mental models.
@@ -357,7 +357,7 @@ even if it is never used in class
 because it forces the instructor to think about the learners' mental models
 and how they might be broken ---
 in short,
-to put themselves into the learner's head
+to put themselves into the learners' heads
 and see the topic from their point of view.
 
 > ## Why We Don't Assess During Registration

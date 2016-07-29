@@ -48,7 +48,7 @@ This two-day workshop has two goals:
     overall philosophy and procedures of both organizations in order
     to prepare them to teach at Software and Data Carpentry workshops.
 
-During the insturctor-training workshop students will listen to short
+During the instructor-training workshop students will listen to short
 lessons, participate in individual and group practical exercises,
 practice teaching, and give critical feedback to their peers.
 
@@ -122,7 +122,7 @@ the live coding activities differently.
 Now that we have a better idea of everyone's prior knowledge and
 familiarity with some of the SWC and DC teaching practices, we're
 ready to begin our training. Our goal is that by the end, you will
-have acquired some knew knowledge, confidence, and skills that you can
+have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching SWC and DC
 workshops specifically.
 
