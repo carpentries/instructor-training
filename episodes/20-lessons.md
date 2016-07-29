@@ -171,7 +171,7 @@ is a good longer discussion of these issues.
 >
 > 1. Identify the learning objective verb.
 > 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
-> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 3. Reword the learning objective for a different learning outcome (eg, from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
@@ -190,9 +190,9 @@ the problem they face,
 and how the course will help them.
 A learner profile for Software Carpentry might be:
 
-> João is an agricultural engineer doing his masters in soil physics.
+> João is an agricultural engineer doing his Master's degree in soil physics.
 > His programming experience is a first year programming course using C.
-> He was never able to use this low-level programming into his activities,
+> He was never able to use this low-level programming in his activities,
 > and never programmed after the first year.
 >
 > His work consists of evaluating physical properties of soil samples from different conditions.
