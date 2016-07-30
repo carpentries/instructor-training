@@ -115,12 +115,14 @@ In brief:
     since that will make it difficult for you to work on other contributions.
 
 2.  We use [GitHub flow][github-flow] to manage changes:
-    1.  Create a new branch in your desktop copy of this repository for each significant change.
-    2.  Commit the change in that branch.
-    3.  Push that branch to your fork of this repository on GitHub.
-    4.  Submit a pull request from that branch to the [master repository][repo].
-    5.  If you receive feedback,
-        make changes on your desktop and push to your branch on GitHub:
+    1.  Create a fork of this repository on GitHub.
+    2.  Clone your fork of this repository to create a local copy on your computer.
+    3.  Create a new branch in your local copy for each significant change.
+    4.  Commit the change in that branch.
+    5.  Push that branch to your fork of this repository on GitHub.
+    6.  Submit a pull request from that branch to the [master repository][repo].
+    7.  If you receive feedback,
+        make changes in your local clone and push to your branch on GitHub:
         the pull request will update automatically.
 
 Each lesson has two maintainers who review issues and pull requests
