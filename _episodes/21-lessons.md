@@ -88,27 +88,29 @@ A learner profile for Software Carpentry might be:
 
 ### Writing Learning Objectives
 
-Your lessons will be better if the "what you want them to learn" piece is very clear.  One way to make it clear is with learning objectives.  A learning objective is a single sentence describing what a learner will be able to do once they have sat through the lesson, in order to demonstrate "learning."  That requires thinking critically about what exactly you want people to learn: 
- "understand git"
- - revert a change to a file using git
- - name three benefits of using a version control system like git
- - compare the collaboration features of git and dropbox
-Admit that I once thought this was boring - it's become SUPER important to me.  
-
 Summative and formative assessments help instructors figure out what they're going to teach,
 but in order to communicate that to learners and other instructors,
-we should also write *learning objectives*.
-It's easy to come up with fuzzy ones like,
-"Learners will gain an appreciation of the role of research software engineers in the research process."
-Useful ones take a bit more work.
+we should also write *learning objectives*. A 
+learning objective is a single sentence describing what a learner will be 
+able to do once they have sat through the lesson, in order to demonstrate 
+"learning."  That requires thinking critically about what exactly you want 
+people to learn.  
+
+It's too easy to come up with fuzzy learning objectives.  A 
+broad statement like "Understand git" could 
+mean many different specific goals, like: 
+* Learners can revert a change to a file using git. 
+* Learners will name three benefits of using a version control system like git. 
+* Learners will compare the collaboration features of git and dropbox. 
 
 What we want are specific, verifiable descriptions of what learners can do to demonstrate their learning.
 Each learning objective should have *a measurable or verifiable verb* specifying what the learner will do,
 and should specify the *criteria for acceptable performance*.
-For example,
-a better learning objective than the one above would be,
-"Learners will list three things that make research software engineers distinct from
-other specialists involved in the research process."
+
+Writing these kinds of learning objectives may seem restrictive or limiting, but 
+will make both you and your learners happier in the long run.  You will 
+end up with clear guidelines for both your teaching and assessment, 
+and your learners will appreciate the clear expectations.  
 
 In order to formulate good learning objectives we need to decide what kinds of learning we are aiming for.
 There is a difference between knowing the atomic weight of fluorine
