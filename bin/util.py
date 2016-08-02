@@ -1,12 +1,33 @@
+from __future__ import print_function
 import sys
+import os
 import json
 from subprocess import Popen, PIPE
 
+# Import this way to produce a more useful error message.
 try:
     import yaml
 except ImportError:
     print('Unable to import YAML module: please install PyYAML', file=sys.stderr)
     sys.exit(1)
+
+
+# Things an image file's name can end with.
+IMAGE_FILE_SUFFIX = {
+    '.gif',
+    '.jpg',
+    '.png',
+    '.svg'
+}
+
+# Files that shouldn't be present.
+UNWANTED_FILES = [
+    '.nojekyll'
+]
+
+# Marker to show that an expected value hasn't been provided.
+# (Can't use 'None' because that might be a legitimate value.)
+REPORTER_NOT_SET = []
 
 class Reporter(object):
     """Collect and report errors."""
@@ -18,11 +39,16 @@ class Reporter(object):
         self.messages = []
 
 
-    def check_field(self, filename, name, values, key, expected):
+    def check_field(self, filename, name, values, key, expected=REPORTER_NOT_SET):
         """Check that a dictionary has an expected value."""
 
         if key not in values:
             self.add(filename, '{0} does not contain {1}', name, key)
+        elif expected is REPORTER_NOT_SET:
+            pass
+        elif type(expected) in (tuple, set, list):
+            if values[key] not in expected:
+                self.add(filename, '{0} {1} value {2} is not in {3}', name, key, values[key], expected)
         elif values[key] != expected:
             self.add(filename, '{0} {1} is {2} not {3}', name, key, values[key], expected)
 
@@ -37,26 +63,39 @@ class Reporter(object):
     def add(self, location, fmt, *args):
         """Append error unilaterally."""
 
-        if isinstance(location, type(None)):
-            coords = ''
-        elif isinstance(location, str):
-            coords = '{0}: '.format(location)
-        elif isinstance(location, tuple):
-            filename, line_number = location
-            coords = '{0}:{1}: '.format(*location)
-        else:
-            assert False, 'Unknown location "{0}"/{1}'.format(location, type(location))
-
-        self.messages.append(coords + fmt.format(*args))
+        self.messages.append((location, fmt.format(*args)))
 
 
     def report(self, stream=sys.stdout):
-        """Report all messages."""
+        """Report all messages in order."""
 
         if not self.messages:
             return
-        for m in sorted(self.messages):
-            print(m, file=stream)
+
+        def pretty(item):
+            location, message = item
+            if isinstance(location, type(None)):
+                return message
+            elif isinstance(location, str):
+                return location + ': ' + message
+            elif isinstance(location, tuple):
+                return '{0}:{1}: '.format(*location) + message
+            else:
+                assert False, 'Unknown item "{0}"'.format(item)
+
+        def key(item):
+            location, message = item
+            if isinstance(location, type(None)):
+                return ('', -1, message)
+            elif isinstance(location, str):
+                return (location, -1, message)
+            elif isinstance(location, tuple):
+                return (location[0], location[1], message)
+            else:
+                assert False, 'Unknown item "{0}"'.format(item)
+
+        for m in sorted(self.messages, key=key):
+            print(pretty(m), file=stream)
 
 
 def read_markdown(parser, path):
@@ -114,9 +153,33 @@ def split_metadata(path, text):
 
 def load_yaml(filename):
     """
-    Wrapper around YAML loading so that 'import yaml' and error
-    handling is only needed in one place.
+    Wrapper around YAML loading so that 'import yaml' is only needed
+    in one file.
     """
 
-    with open(filename, 'r') as reader:
-        return yaml.load(reader)
+    try:
+        with open(filename, 'r') as reader:
+            return yaml.load(reader)
+    except (yaml.YAMLError, FileNotFoundError) as e:
+        print('Unable to load YAML file {0}:\n{1}'.format(filename, e), file=sys.stderr)
+        sys.exit(1)
+
+
+def check_unwanted_files(dir_path, reporter):
+    """
+    Check that unwanted files are not present.
+    """
+
+    for filename in UNWANTED_FILES:
+        path = os.path.join(dir_path, filename)
+        reporter.check(not os.path.exists(path),
+                       path,
+                       "Unwanted file found")
+
+
+def require(condition, message):
+    """Fail if condition not met."""
+
+    if not condition:
+        print(message, file=sys.stderr)
+        sys.exit(1)

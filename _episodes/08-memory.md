@@ -14,7 +14,7 @@ keypoints:
 - "Can represent mental models using concept maps."
 - "Relationships are as important as concepts."
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
-- "Most adults can store 7&plusmn;2 items in short-term memory for a few seconds before loss."
+- "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
 - "Things seen together repeatedly are remembered (or mis-remembered) in chunks."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
 - "Lesson episodes should not overload short-term memory."
@@ -25,7 +25,7 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-An [earlier topic]({{ site.root }}/03-models/) described the key difference between novices and competent practitioners.
+An [earlier topic]({{ site.github.url }}/03-novice/) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:
 competent practitioners can memorize a lot of trivia
@@ -77,7 +77,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 
-    *The local driver probably can use either the names of streets* 
+    *The local driver probably can use either the names of streets*
     or
     *landmarks when giving directions. The out-of-towner only has street labels.*
 
@@ -96,7 +96,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> As [we discuss later]({{ site.root }}/18-motivation/),
+> As [we discuss later]({{ site.github.url }}/19-motivation/),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
@@ -133,7 +133,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram]({{ site.root }}/fig/05/choosing-a-good-chart-09.pdf)
+> [this diagram]({{ site.github.url }}/files/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post][abela-presentation] by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
@@ -150,7 +150,7 @@ for ch in "abc":
 
 The three key concepts used in this loop are:
 
-![Key Concepts]({{ site.root }}/fig/05/for-loop-concepts.png)
+![Key Concepts](../fig/for-loop-concepts.png)
 
 (In this case it's easy to connect the concepts to concrete elements in the program,
 but that may not always be the case.)
@@ -158,26 +158,26 @@ The key relationships,
 which are as important as the concepts themselves,
 are:
 
-![Relationships]({{ site.root }}/fig/05/for-loop-arcs.png)
+![Relationships](../fig/for-loop-arcs.png)
 
 A quick count shows that there are actually 6 things here,
 not just 3,
 so we're already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
-![Recommendations]({{ site.root }}/fig/05/for-loop-rec.png)
+![Recommendations](../fig/for-loop-rec.png)
 
 the count rises to 8,
 which is a good size for a single teaching episode.
 A few other concept maps drawn by previous participants in this training course
 are listed below:
 
-* [Array Math]({{ site.root }}/fig/05/array-math.png)
-* [Conditionals]({{ site.root }}/fig/05/conditionals.png)
-* [Creating and Destroying Files]({{ site.root }}/fig/05/create-destroy.png)
-* [Sets and Dictionaries in Python]({{ site.root }}/fig/05/dict-set.png)
-* [Input and Output]({{ site.root }}/fig/05/io.png)
-* [Lists and Loops]({{ site.root }}/fig/05/lists-loops.png)
+* [Array Math](../fig/array-math.png)
+* [Conditionals](../fig/conditionals.png)
+* [Creating and Destroying Files](../fig/create-destroy.png)
+* [Sets and Dictionaries in Python](../fig/dict-set.png)
+* [Input and Output](../fig/io.png)
+* [Lists and Loops](../fig/lists-loops.png)
 
 Most of these are larger than our recommended limit,
 but that's not necessarily a bad thing:
@@ -293,7 +293,7 @@ It is much faster,
 but also much smaller:
 in 1956,
 Miller estimated that the average adult's working memory could hold
-[7&plusmn;2 items][wikipedia-7]
+[7±2 items][wikipedia-7]
 for a few seconds
 before things started to drop out.
 This is why phone numbers are typically 7 or 8 digits long:
@@ -324,7 +324,7 @@ together form the
 > see it as something it isn't.
 {: .callout}
 
-7&plusmn;2 is probably the most important number in programming.
+7±2 is probably the most important number in programming.
 When someone is trying to write the next line of a program,
 or understand what's already there,
 she needs to keep a bunch of arbitrary facts straight in her head:
@@ -335,7 +335,7 @@ If the number of facts grows too large,
 her mental model of the program comes crashing down
 (something we have all experienced).
 
-7&plusmn;2 is also the most important number in teaching.
+7±2 is also the most important number in teaching.
 An instructor cannot push information directly into a learner's long-term memory.
 Instead,
 whatever she presents is first represented in the learner's short-term memory,

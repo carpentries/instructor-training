@@ -33,6 +33,13 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
+
+> ## Up and Down
+>
+> What are some of the advantages and challenges of live coding
+> from both a learner's and an instructor's point of view?
+{: .discussion}
+
 Its advantages are:
 
 *   Watching a program being written is more compelling than
@@ -65,14 +72,8 @@ another.
 > ## I/We/You vs. You/Y'all/We
 >
 > Live coding is an example of the "I/We/You" approach to teaching
-> [discussed earlier]({{ site.root }}/04-study/).
+> [discussed earlier]({{ site.github.url }}/05-performance/).
 {: .callout}
-
-> ## Up and Down
->
-> What are some of the advantages and challenges of live coding
-> from both a learner's and an instructor's point of view?
-{: .challenge}
 
 ## Live Coding Top 10
 
@@ -211,7 +212,7 @@ instructions, etc.  This is OK! It allows learners to see instructors'
 mistakes and how to diagnose and correct them.  Some mistakes are
 actually an opportunity to point something out, or reflect back on
 something covered earlier.  Novices are going to spend most of their
-time making the same and other mistakes, but how to deal with the is
+time making the same and other mistakes, but how to deal with them is
 left out of most textbooks.
 
 > The typos are the pedagogy  
@@ -244,12 +245,16 @@ you are unsure of the effect you behaviour has on the workshop.
 
 > ## See Then Do
 >
-> Teach 3-4 minutes of the lesson you just saw demonstrated to a
+> Teach 3-4 minutes of your chosen lesson episode using live coding to a
 > fellow trainee, then swap and watch while that person live codes for
 > you.  Don't bother trying to record the live coding sessions---we
 > have found that it's difficult to capture both the person and the
 > screen with a handheld device---but give feedback the same way you
 > have previously (positive and negative, content and presentation).
+> If you decide to instead teach something from the lesson episode
+> you selected in preparation for this workshop,
+> explain in advance to your fellow trainee what you will be teaching
+> and what the learners you teach it to are expected to be familiar with.
 {: .challenge}
 
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800

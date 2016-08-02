@@ -95,13 +95,14 @@ Sticky notes.
     if they run into a problem and need help,
     the put up the red one.
     This is better than having people raise their hands because:
-    *   it's more discreet (which means they're more likely to actually do it),
-    *   they can keep working while their flag is raised, and
-    *   the instructor can quickly see from the front of the room
-        what state the class is in.
+
+    *    it's more discreet (which means they're more likely to actually do it),
+    *    they can keep working while their flag is raised, and
+    *    the instructor can quickly see from the front of the room
+         what state the class is in.
 
 Minute cards.
-:   As explained [yesterday]({{ site.root }}/05-summarize/), we also
+:   As explained [yesterday]({{ site.github.url }}/06-summarize/), we also
     use sticky notes as minute cards: before each coffee or meal break,
     learners take a minute to write one positive thing on the green
     sticky note (e.g., one thing they've learned that they think will
@@ -163,7 +164,7 @@ Collaborative note-taking.
 
 Pair programming.
 :   Pairing is a good practice in real life, and also
-    [a good way to teach]({{ site.root }}/files/porter-what-works-2013.pdf).
+    [a good way to teach]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf).
     Partners can not only help each other out during the practical,
     but can also clarify each other's misconceptions when the solution is
     presented, and discuss common research interests during breaks. To

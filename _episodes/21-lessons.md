@@ -228,7 +228,7 @@ in learning objectives written for each level.
 </table>
 
 Baume's guide to
-[writing and using good learning outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)
+[writing and using good learning outcomes]({{ site.github.url }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
 > ## Evaluate SWC and DC Learning Objectives
@@ -239,12 +239,12 @@ is a good longer discussion of these issues.
 >
 > 1. Identify the learning objective verb.
 > 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
-> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 3. Reword the learning objective for a different learning outcome (eg, from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
 
-### Reverse Instructional Design
+## Reverse Instructional Design
 
 Most people design courses as follows:
 
@@ -322,7 +322,7 @@ It also ensures that learners don't face anything on the final exam that the cou
 > Is reverse instructional design "teaching to the test"?
 > I.e., does it steer teachers toward getting their students to pass an exam
 > rather than learn things?
-{: .challenge}
+{: .discussion}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
 When using RID, teachers set goals to aid in lesson design,
@@ -389,6 +389,13 @@ relevant to the target domain.  These goals include:
 	bioinformatics tools and how to use large-scale computing resources.  
 *   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
 
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
+
+Other Data Carpentry lessons are in the incubator stage.
+
 ### Lesson Development
 
 As [stated earlier]({{ site.root }}/19-carpentries.md), the Software and 
@@ -412,6 +419,12 @@ lists to find out if anyone is interested.  If so, one person will typically
 take the lead and be the lesson's director and maintainer until it's ready to 
 be taught.  
 
+> ## Incubating New Lessons
+>
+> Our [lesson incubation guidelines]({{ site.swc_site }}/lessons/incubation/)
+> explain how we work with partners to develop new lesson materials.
+{: .callout}
+
 > ## Many Ways to Contribute
 >
 > We recognize that the medium of GitHub may be restrictive to those
@@ -421,6 +434,7 @@ be taught.
 > have any ideas how we might make contribution more contributor-friendly,
 > please let us know.
 {: .callout}
+
 
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/

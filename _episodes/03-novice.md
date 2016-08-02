@@ -32,7 +32,7 @@ but the model does a good job of helping people reason about chemical compounds 
 >
 > What is your primary research domain?  What is one mental model you use to frame
 > and understand your work?
-{: .challenge}
+{: .discussion}
 
 One way to think about the difference between a novice and a "competent
 practitioner" is the existence of this big picture mental model.
@@ -60,7 +60,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ site.root }}/05-expertise/).
+    We will discuss expertise in more detail in [a later lesson]({{ site.github.url }}/08-memory/).
 
 We assume that most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our
@@ -100,7 +100,7 @@ and without which people cannot understand how to use commands
 > What's the difference between a manual and a tutorial?
 > (Think in terms of the differences between novices and competent practitioners.)
 > Can one document do a good job of being both?
-{: .challenge}
+{: .discussion}
 
 > ## Different Kinds of Lessons
 >
@@ -126,7 +126,7 @@ and without which people cannot understand how to use commands
 ## Building Useful Mental Models
 
 There are many "positive" strategies towards building mental models.  Analogies,
-stories, role-play, diagrams...all can be a way to represent a structure that
+stories, role-play, and diagrams are ways to represent a structure that
 can be used as a model.
 
 However, there's another, greater challenge to creating mental models.
@@ -227,7 +227,7 @@ but each of the other answers provides valuable insight.
 > ## Find the Bug
 >
 > What is the misconception associated with each wrong answer?
-{: .challenge}
+{: .discussion}
 
 > ## Solution
 >
@@ -254,7 +254,7 @@ what to explain to that particular learner next.
 > As the instructor, what should you do if most of the class votes for one
 > of the wrong answers?  For the right answer?  What if the votes are evenly
 > spread between options?
-{: .challenge}
+{: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
 and work on correcting that particular misconception.  If most of the class votes
@@ -266,7 +266,7 @@ Instructors should use MCQs
 or some other kind of formative assessment
 at least every 10-15 minutes
 in order to make sure that the class is actually learning.
-Since the average attention span is usually only this long, 
+Since the average attention span is usually only this long,
 formative assessments also help break up instructional time
 and re-focus attention.
 Formative assessments can also be used preemptively:
@@ -357,7 +357,7 @@ even if it is never used in class
 because it forces the instructor to think about the learners' mental models
 and how they might be broken ---
 in short,
-to put themselves into the learner's head
+to put themselves into the learners' heads
 and see the topic from their point of view.
 
 > ## Why We Don't Assess During Registration
@@ -377,24 +377,12 @@ and see the topic from their point of view.
 > We were therefore scaring off many of the people we most wanted to help.
 {: .callout}
 
-> ## Confronting the Contradiction
->
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
-{: .challenge}
-
 > ## Other Kinds of Formative Assessment
 >
 > Describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
-{: .challenge}
-
-> ## Modeling Instruction
->
-> There have been many "models" of teaching/learning in the past.  What
-> model do you currently use (sub-consciously or consciously)?
-{: .challenge}
+{: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-benner]: http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/
