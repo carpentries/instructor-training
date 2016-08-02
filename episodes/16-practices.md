@@ -138,10 +138,11 @@ Sticky notes.
     if they run into a problem and need help,
     the put up the red one.
     This is better than having people raise their hands because:
-    *   it's more discreet (which means they're more likely to actually do it),
-    *   they can keep working while their flag is raised, and
-    *   the instructor can quickly see from the front of the room
-        what state the class is in.
+
+    *    it's more discreet (which means they're more likely to actually do it),
+    *    they can keep working while their flag is raised, and
+    *    the instructor can quickly see from the front of the room
+         what state the class is in.
 
 Minute cards.
 :   As explained [yesterday]({{ site.github.url }}/06-summarize/), we also

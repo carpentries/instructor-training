@@ -212,7 +212,7 @@ instructions, etc.  This is OK! It allows learners to see instructors'
 mistakes and how to diagnose and correct them.  Some mistakes are
 actually an opportunity to point something out, or reflect back on
 something covered earlier.  Novices are going to spend most of their
-time making the same and other mistakes, but how to deal with the is
+time making the same and other mistakes, but how to deal with them is
 left out of most textbooks.
 
 > The typos are the pedagogy  
