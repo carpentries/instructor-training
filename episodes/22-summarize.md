@@ -19,12 +19,12 @@ The final three steps in qualifying as an instructor are to:
 
 1.  Make a contribution to a lesson's content, exercises, or instructor's guide by doing **one** of the following:
     1.  Submit a change request to fix an existing issue.
-    2.  Proof-read a lesson and adding a new issue describing something to be improved.
+    2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [discussion session][discussion] with experienced instructors.
 3.  Do a 5-minute live coding demo.
 
-[This page]({{ site.root }}/checkout/) explains the procedure in detail;
+[This page]({{ site.github.url }}/checkout/) explains the procedure in detail;
 please review it with your instructor before you leave.
 
 ## Provide Feedback
@@ -36,7 +36,7 @@ This requirement forces people to say things they otherwise might not:
 once all the "safe" feedback has been given,
 participants will start saying what they really think.
 
-[Minute cards]({{ site.root }}/15-minute/#other-practices) are anonymous;
+[Minute cards]({{ site.github.url }}/06-summarize/) are anonymous;
 the alternating up-and-down feedback is not.
 Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 

@@ -43,7 +43,7 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
-![What to Teach]({{ site.root }}/fig/17/what-to-teach.png)
+![What to Teach](../fig/what-to-teach.png)
 
 > ## Actual Time
 >
@@ -56,7 +56,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ site.root }}/05-expertise/).
+> please revisit the discussion of [expert blind spot]({{ site.github.url }}/08-memory/).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -76,7 +76,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-studied use of this idea is
-the *[media computation]({{ site.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
+the *[media computation]({{ site.github.url }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
@@ -94,8 +94,8 @@ learners have a concrete starting point for debugging.
 > **Think** about something you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fists on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
-> In the class Etherpad, **share** the task and where its fits on the 2x2 grid.
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
+> In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 {: .challenge}
 
@@ -150,29 +150,31 @@ to make sure they're doing at least a few of these things.
 > identify one thing the instructor did that motivated you.
 > *Pair* up with your neighbor and discuss what motivated you.
 > *Share* the motivational story in the Etherpad.
-{: .challenge} 
-
-> ## Motivational Checklist
->
-> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
-> to the motivational checklist presented earlier.
-> What is the lesson doing (if anything) to engage learners
-> and convince them its material is worth mastering?
 {: .challenge}
 
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ site.root }}/02-terms/),
+> As we said in [the introduction]({{ site.github.url }}/02-introduction/),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.  For one instructor's motivation,
-> keep reading.
+> particularly when they are volunteers.
 {: .callout}
+
+> ## Why Do You Teach?
+>
+> We all have a different motivation for teaching, and that is a really good thing!
+> SWC wants instructors with diverse backgrounds because you each bring something
+> unique to our community.  Read
+> the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors,
+> to see what motivates them to teach.  After this class, or during a break,
+> write a short explanation of what motivates you to teach. Save this as part of
+> your teaching philosophy for future reference.
+{: .challenge}
 
 ## Demotivation
 
-As noted in [the introduction]({{ site.root }}/02-terms/),
+As noted in [the introduction]({{ site.github.url }}/02-introduction/),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
@@ -190,7 +192,7 @@ to alienate a classroom and cause learners to tune out.
 
 > ## Things You Shouldn't Do in a Workshop
 >
-> *   Tell learners they are rubbish because they use Excel and/or Word
+> *   Tell learners they are rubbish because they use Excel and/or Word,
 >     don't modularize their code, etc.
 > *   Repeatedly make digs about Windows and praise Linux, e.g., say that
 >     the former is for amateurs.
@@ -203,7 +205,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier]({{ site.root }}/07-memory/),
+>     As [discussed earlier]({{ site.github.url }}/08-memory/),
 >     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
@@ -227,13 +229,6 @@ to alienate a classroom and cause learners to tune out.
 > and about what kind of learning experience they can expect.
 {: .callout}
 
-> ## Personal Story About Demotivation
->
-> Write a paragraph or two about something that happened in your educational career
-> that demotivated you, and explain what could have been done afterward to fix it.
-> After everyone has completed, draw out common demotivational themes.
-{: .challenge}
-
 > ## Brainstorming Demotivational Experiences
 >
 > *Think* back to a time when you demotivated a student (or when you were demotivated as a student).
@@ -243,7 +238,9 @@ to alienate a classroom and cause learners to tune out.
 
 ### Stereotype Threat
 
-Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*.
+Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*:
+a self-confirming belief that one may be evaluated based on a negative stereotype
+(definition from [study.com][study-com-stereotype-threat]).
 In brief,
 reminding people of negative stereotypes,
 even in subtle ways,
@@ -352,20 +349,6 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-> ## Why Do You Teach?
->
-> We all have a different motivation for teaching, and that is a really good thing!
-> SWC wants instructors with diverse backgrounds because you each bring something unique to our community.
-> Read the [testimonials]({{ site.root }}/guide/#testimonials) from other instructors, to see what motivates them to teach.
-> Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-{: .challenge}
-
-> ## What Do You Believe About Teaching? Challenge
->
-> Complete the [Teaching Perspectives Inventory][tpi].
-> Are you surprised about what it says about your view of teaching?
-{: .challenge}
-
 ### Mindset
 
 Learners can be demotivated in subtler ways as well.
@@ -393,20 +376,6 @@ she is likely to develop a growth mindset,
 and subsequently achieve more.  Studies have also shown that
 the simple action of telling learners about the different mindsets
 before a course can improve learning outcomes for the whole group.
-
-> ## Thought Record
->
-> Remember a time when you felt like you didn't know what you were doing.
-> Describe the emotions that you felt (such as sad, anxious, scared).
->
-> *   Where were you? What were you doing? With whom?
-> *   What thoughts were going through your mind at this time?
-> *   What facts or evidence support these thoughts?
-> *   What facts or evidence do not support these thoughts?
->
-> Write an alternative thought that takes this evidence into account.
-> How do you feel about this situation now?
-{: .challenge}
 
 ## Accessibility
 
@@ -493,7 +462,7 @@ are always welcome.
 > How complete was your list of challenges?
 > And did you notice that the first sentence in this challenge
 > assumed you could actually walk?
-{: .challenge}
+{: .callout}
 
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
@@ -504,6 +473,7 @@ are always welcome.
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
+[study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
 [tpi]: http://www.teachingperspectives.com/tpi/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community

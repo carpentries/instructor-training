@@ -14,7 +14,7 @@ keypoints:
 - "Trainee motivation and prior knowledge vary widely, but can be explored with a quick multiple choice quiz."
 ---
 
-## Introductions 
+## Introductions
 
 > Introductions set the stage for learning.  
 > — Tracy Teal, Executive Director, Data Carpentry
@@ -48,15 +48,15 @@ This two-day workshop has two goals:
     overall philosophy and procedures of both organizations in order
     to prepare them to teach at Software and Data Carpentry workshops.
 
-During the insturctor-training workshop students will listen to short
+During the instructor-training workshop students will listen to short
 lessons, participate in individual and group practical exercises,
 practice teaching, and give critical feedback to their peers.
 
 After completing the instructor-training workshop,
 participants must complete
-[these follow-up exercises online]({{ site.root }}/checkout/)
+[these follow-up exercises online]({{ site.github.url }}/checkout/)
 in order to be certified to teach Software Carpentry and/or Data Carpentry.
-This will be discussed in more detail at the end of Day 2. 
+This will be discussed in more detail at the end of Day 2.
 
 All participants in this course are required to abide by our code of conduct.
 
@@ -89,27 +89,27 @@ the live coding activities differently.
 >
 > *Have you ever participated in a Software Carpentry or Data Carpentry Workshop?*
 >
-> 1.  Yes, I have taken a workshop.  
-> 2.  Yes, I have been a workshop helper.  
-> 3.  Yes, I organized a workshop.  
-> 4.  No, but I am familiar with what is taught at a workshop.  
-> 5.  No, and I am not familiar with what is taught at a workshop.  
+> 1.  Yes, I have taken a workshop.
+> 2.  Yes, I have been a workshop helper.
+> 3.  Yes, I organized a workshop.
+> 4.  No, but I am familiar with what is taught at a workshop.
+> 5.  No, and I am not familiar with what is taught at a workshop.
 >
 > *Which of these most accurately describes your teaching experience?*
 >
-> 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.  
-> 2.  I have not had any teaching experience in the past.  
-> 3.  I have taught a seminar, workshop, or other short or informal course.  
-> 4.  I have been the instructor-of-record for my own university/college course.  
-> 5.  I have taught at the K-12 level.  
+> 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
+> 2.  I have not had any teaching experience in the past.
+> 3.  I have taught a seminar, workshop, or other short or informal course.
+> 4.  I have been the instructor-of-record for my own university/college course.
+> 5.  I have taught at the K-12 level.
 >
 > *I know how to write multiple choice questions with diagnostic power.*
 >
-> 1.  Strongly agree  
-> 2.  Agree  
-> 3.  Neutral  
-> 4.  Disagree  
-> 5.  Strongly disagree   
+> 1.  Strongly agree
+> 2.  Agree
+> 3.  Neutral
+> 4.  Disagree
+> 5.  Strongly disagree
 >
 > *If you teach, how often do you incorporate live coding in your classrooms? If you don't teach, how often have your instructors used live coding?*
 >
@@ -122,7 +122,7 @@ the live coding activities differently.
 Now that we have a better idea of everyone's prior knowledge and
 familiarity with some of the SWC and DC teaching practices, we're
 ready to begin our training. Our goal is that by the end, you will
-have acquired some knew knowledge, confidence, and skills that you can
+have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching SWC and DC
 workshops specifically.
 

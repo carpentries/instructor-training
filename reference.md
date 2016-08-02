@@ -1,6 +1,5 @@
 ---
 layout: reference
-title: Reference
 permalink: /reference/
 ---
 ## Top Ten
@@ -136,11 +135,11 @@ and probably address problems you don't yet know will arise.
 1.  Learners can become self-directed when they can assess the demands of a task, evaluate their own knowledge and skills, plan an approach, monitor their own progress, and adjust strategy. Emphasizing these steps can help learners on their path to achieving competence.
 1.  Learners come to us with a variety of pre-conceptions on *how to learn* and also if they are "good" at "computers", "programming", etc. We may need to address unfounded pre-conceptions.
 1.  Learners can easily ignore instructors/instructions on how to proceed with an exercise (e.g. "Did they even read the assignment?"). As you assign challenges, remind learners about the point/purpose of the exercises and get their feedback to confirm they understand the goals. **Be more explicit than you may think necessary.**
-1.  Learners can be (and usually are) poor judges of their knowledge and skills. 
+1.  Learners can be (and usually are) poor judges of their knowledge and skills.
 1.  Novices spend little time in planning approaches and more time trying to find solutions. Emphasize planning as a first-line strategy to problem solving.
 1.  Learners will typically continue with strategies that work moderately well rather than change to a new strategy that would work better.
 1.  Asking for peer assessment can be a positive and productive learning experience when everyone is given criteria to give feedback on.
-1.  Help learners set realistic expectations. Learners should be able develop a sense of how long it may take to develop particular skills. 
+1.  Help learners set realistic expectations. Learners should be able develop a sense of how long it may take to develop particular skills.
 1.  Discuss metacognition in the classroom. The evidence-based teaching style of Software Carpentry is not proprietary or hidden, so share what you know about learning in the classroom and why you are taking certain approaches.
 1.  Provide heuristics for self-correction. Learners need to develop a skill for evaluating their own work. While this skill will take time to develop, you can provide 'guideposts' for what their code and results should look like.
 
@@ -178,51 +177,51 @@ Dani Byrd and Toben H. Mintz: *[Discovering Speech, Words, and Mind][discovering
 
 ## Papers
 
-Baume: "[Writing and Using Good Learning Outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)"
+Baume: "[Writing and Using Good Learning Outcomes]({{ site.github.url }}/files/papers/baume-learning-outcomes-2009.pdf)"
 :   A useful detailed guide to constructing useful learning outcomes.
 
-Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies]({{ site.root }}/files/papers/borrego-henderson-change-strategies-2014.pdf)"
+Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies]({{ site.github.url }}/files/papers/borrego-henderson-change-strategies-2014.pdf)"
 :   Describes eight approaches to effecting change in STEM education
     that form a useful framework for thinking about how Software Carpentry and Data Carpentry can change the world.
 
-Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data]({{ site.root }}/files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
+Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data]({{ site.github.url }}/files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
 :   Compares teachers' opinions about common programming errors with data from over 100,000 students,
     and finds only weak consensus amongst teachers and between teachers and data.
 
-Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results]({{ site.root }}/files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
+Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results]({{ site.github.url }}/files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
 :   An early report on peer instruction and its effects in the classroom.
 
-Deans for Impact: "[The Science of Learning]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+Deans for Impact: "[The Science of Learning]({{ site.github.url }}/files/papers/science-of-learning-2015.pdf)"
 :   Summarizes cognitive science research related to how students learn,
     and connects it to practical implications for teaching and learning.
 
-Guzdial: "[Exploring Hypotheses about Media Computation]({{ site.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)"
+Guzdial: "[Exploring Hypotheses about Media Computation]({{ site.github.url }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)"
 :   A look back on 10 years of media computation research.
 
-De Bruyckere et al: "[Urban Myths About Learning and Education]({{ site.root }}/files/papers/de-bruyckere-urban-myths-2015.pdf)"
+De Bruyckere et al: "[Urban Myths About Learning and Education]({{ site.github.url }}/files/papers/de-bruyckere-urban-myths-2015.pdf)"
 :   A one-page summary drawn from their book of the same name.
 
-Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change]({{ site.github.url }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 :   Summarizes best practices for providing instructional feedback and recommends specific strategies for sharing instructional expertise.
 
-Guzdial: "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+Guzdial: "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
 :   A chapter from
     *[Making Software][amazon-making-software]*
     that explores why programming seems so much harder to teach than
     some other standard subjects.
 
-Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching]({{ site.root }}/files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
+Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching]({{ site.github.url }}/files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
 :   Argues that inquiry-based learning is less effective for novices than guided instruction.
 
-Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning]({{ site.root }}/files/papers/mayer-reduce-cognitive-load-2003.pdf)"
+Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning]({{ site.github.url }}/files/papers/mayer-reduce-cognitive-load-2003.pdf)"
 :   Shows how research into how we absorb and process information
     can be applied to the design of instructional materials.
 
-Porter et al: "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)"
+Porter et al: "[Success in Introductory Programming: What Works?]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf)"
 :   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
     significantly improve outcomes in introductory programming courses.
 
-Wiggins and McTighe: "[UbD in a Nutshell]({{ site.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
+Wiggins and McTighe: "[UbD in a Nutshell]({{ site.github.url }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"

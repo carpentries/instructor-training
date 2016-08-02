@@ -22,7 +22,7 @@ essential terms for discussion.
 
 ## Practice and Feedback
 
-To become accomplished at any complex skill (such as playing a sport or musical instrument), 
+To become accomplished at any complex skill (such as playing a sport or musical instrument),
 one must do the following:
 
 * **Learn**: Learn the theory and best practices of your skill, make
@@ -35,7 +35,7 @@ one must do the following:
   where you can get new ideas, ask questions, and received feedback
   on your performance.
 
-Learning a new skill requires sustained and deliberate practice, and 
+Learning a new skill requires sustained and deliberate practice, and
 feedback from experts and fellow practitioners.
 
 In this training we will:
@@ -64,13 +64,13 @@ teaching skills, but to connect instructors:
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
 > and what we should be doing instead.
-> The ultra-short summary "[Deans for Impact report]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+> The ultra-short summary "[Deans for Impact report]({{ site.github.url }}/files/papers/science-of-learning-2015.pdf)"
 > contains useful, practical insights, and is required reading for this training.
 >
 > Pieces focusing specifically on computer science education include
-> Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-> and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
-> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)",
+> Guzdial's "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+> and "[Top 10 Myths About Teaching Computer Science]({{ site.github.url }}/files/papers/guzdial-10-myths-2015.pdf)",
+> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.github.url }}/files/papers/porter-what-works-2013.pdf)",
 > all of which you should read before starting this class.
 {: .callout}
 
@@ -124,14 +124,6 @@ Situated learning thus describes why we teach,
 and recognizes that teaching and learning is necessarily rooted in a social context.
 We then depend on the cognitivist perspective
 to drive *how* we teach the specific content associated with the community of practice.
-
-> ## Something to Think About
->
-> Throughout the day, take note of how this training is structured.
-> What pieces exemplify the situated learning perspective,
-> i.e., how are you, as an instructor-in-training, being brought into a new community of practice?
-> Are there any places where we are using the cognitivist ideas/techniques described later in the training?
-{: .challenge}
 
 > ## Other Perspectives
 >
@@ -227,7 +219,7 @@ The things teachers know can be divided into:
     PCK is things like what examples to use when teaching how parameters are passed to a function,
     or what misconceptions about wildcard expansion are most common.
 
-![Pedagogical Content Knowledge]({{ site.root }}/fig/02/pck.svg)
+![Pedagogical Content Knowledge](../fig/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories
@@ -236,7 +228,7 @@ It assumes you know as much as you need to about basic programming
 (our content knowledge).
 
 When it comes to PCK,
-we will [see later]({{ site.root }}/08-practices/)
+we will [see later]({{ site.github.url }}/16-practices/)
 some of the PCK of the Software and Data Carpentry communities at work.  Within
 Software Carpentry, we are also trying to support the curation of PCK by including
 an instructor's guide with each lesson that describes particular teaching
@@ -256,7 +248,7 @@ the course of the next two days.
 
 > ## Pseudoscience
 >
-> One [well-known scheme][wikipedia-learning-modes]
+> One [well-known scheme][wikipedia-learning-modalities]
 > characterizes learners as visual, auditory, or kinesthetic
 > according to whether they like to see things, hear things, or do things.
 > This scheme is easy to understand,
@@ -274,7 +266,7 @@ the course of the next two days.
 > and explain how the instructor used domain knowledge,
 > general pedagogical knowledge,
 > and pedagogical content knowledge to create that moment.
-{: .challenge}
+{: .discussion}
 
 > ## Bottom Up or Top Down?
 >
@@ -282,24 +274,18 @@ the course of the next two days.
 > about using computers in research:
 > bottom up, top down, or a mix of both?
 > Is that how you prefer to learn?
-{: .challenge}
-
-> ## Who Decides?
->
-> In Littky and Grabelle's *[The Big Picture: Education is Everyone's Business][amazon-big-picture]*,
-> Kenneth Wesson wrote,
-> "If poor inner-city children consistently outscored children from wealthy suburban homes on standardized tests,
-> is anyone naive enough to believe that we would still insist on using these tests as indicators of success?"
-> What are examples in your own experience of "objective" assessments that reinforce the status quo?
-{: .challenge}
+{: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
+[amazon-myths]: https://www.amazon.com/Urban-Myths-about-Learning-Education/dp/0128015373/
 [amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
+[cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/
 [wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
+[wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
 [wikipedia-phonics]: http://en.wikipedia.org/wiki/Phonics
 [wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
