@@ -69,9 +69,11 @@ This metaphor helps explain many observed aspects of expert behavior:
     It can be overcome with training,
     but it's part of why world-famous researchers are often poor lecturers.
 
-    *The local driver will know from long experience that the bridge is under construction, or that
-    there's always a train at 3:00 - knowledge not available to the out-of-towner, even
-    on their map.*
+    *The local driver will forget to tell the out-of-towner that the
+    bridge is under construction, or that there's always a train at
+    3:00, because it has been like that for years.  The local driver
+    will tell the out-of-towner to turn "where the gas station used to
+    be".*
 
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
