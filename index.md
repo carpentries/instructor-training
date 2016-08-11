@@ -18,7 +18,9 @@ This two-day class has two goals:
     and procedures of both organizations
     in order to prepare them to teach at Software and Data Carpentry workshops.
 
-The content addressing these goals is linked in the schedule below.
+*Please fill in [this form][application-form] if you wish to take part in this course.
+Priority is given to members of our partner organizations,
+but we run several open-enrolment classes each year as well.*
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
@@ -44,6 +46,7 @@ on the Github repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 
+[application-form]: https://amy.software-carpentry.org/workshops/request_training/
 [conduct]: {{ site.github.url }}/conduct/
 [license]: {{ site.github.url }}/license/
 [issues]: {{ site.github.repository_url }}/issues
