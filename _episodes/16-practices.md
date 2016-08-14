@@ -228,6 +228,40 @@ Peak rule.
     While it has been criticized for not strongly predicting what's remembered,
     it's always worth trying to end a lesson on a high note.
 
+> ## Why Not a MOOC?
+>
+> Many learners find it difficult to get to a workshop,
+> either because there isn't one locally
+> or because it's difficult to schedule time around other commitments,
+> so why don't we create video recordings of the lessons
+> and offer the workshop as a MOOC (Massive Open Online Course)?
+>
+> The first answer is that we did in 2010-11,
+> but found the maintenance costs unsustainable.
+> Making a small change to a text file like this one only takes a few minutes.
+> but making *any* change to a video takes an hour or more.
+> In addition,
+> most people are much less comfortable recording themselves
+> than contributing written material.
+>
+> The second answer is that doing significantly outperforms watching.
+> A [recent paper by Koedinger et al]({{ site.github.url }}/files/papers/koedinger-doing-watching-2015.pdf)
+> estimated "...the learning benefit from extra doing (1 SD increase)
+> to be more than six times that of extra watching or reading."
+> And while we do not (yet) have empirical data,
+> we believe very strongly that many noviceswould give up in despair
+> if required to debug setup and installation lessons on their own,
+> but are more likely to get past these obstacles if someone is present to help them.
+>
+> An intermediate approach that we are experimenting with is real-time remote instruction,
+> in which the learners are co-located at one (or a few) sites,
+> with helpers present,
+> while the instructor(s) teaching via online video.
+> This model has worked well for this instructor training course,
+> and for a handful of regular workshops,
+> but more work is needed to figure out its pros and cons.
+{: .callout}
+
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
