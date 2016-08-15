@@ -249,7 +249,7 @@ Peak rule.
 > estimated "...the learning benefit from extra doing (1 SD increase)
 > to be more than six times that of extra watching or reading."
 > And while we do not (yet) have empirical data,
-> we believe very strongly that many noviceswould give up in despair
+> we believe very strongly that many novices would give up in despair
 > if required to debug setup and installation lessons on their own,
 > but are more likely to get past these obstacles if someone is present to help them.
 >
