@@ -113,10 +113,10 @@ The lessons you may submit to are:
 
 1.  For [Data Carpentry instructors]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
-    *   R-ecology: <{{ site.dc_github }}/R-ecology/>
-    *   Python-ecology: <{{ site.dc_github }}/python-ecology/>
-    *   SQL-ecology: <{{ site.dc_github }}/sql-ecology/>
-    *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology/>
+    *   R-ecology: <{{ site.dc_github }}/R-ecology-lesson/>
+    *   Python-ecology: <{{ site.dc_github }}/python-ecology-lesson/>
+    *   SQL-ecology: <{{ site.dc_github }}/sql-ecology-lesson/>
+    *   OpenRefine-ecology: <{{ site.dc_github }}/OpenRefine-ecology-lesson/>
 2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
     for any lesson. We are also accepting new exercises using the Gapminder data set
