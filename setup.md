@@ -48,15 +48,15 @@ Please read through *one* of the episodes below carefully, so that you can do so
 
 **Data Carpentry**
 
-* Faceting and Clustering in OpenRefine: <http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine.html>
-* Basic Queries in SQL: <http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html>
-* Starting with Data in R: <http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html>
-* Starting with Data in Python: <http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data>
+* Faceting and Clustering in OpenRefine: <{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine.html>
+* Basic Queries in SQL: <{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries.html>
+* Starting with Data in R: <{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>
+* Starting with Data in Python: <{{ site.dc_site }}/python-ecology-lesson/01-starting-with-data>
 
 **Software Carpentry**
 
-* Working with Files and Directories in the Unix Shell: <http://swcarpentry.github.io/shell-novice/02-create.html>
-* Tracking Changes in Git: <http://swcarpentry.github.io/git-novice/04-changes.html>
-* Selecting Data in SQL: <http://swcarpentry.github.io/sql-novice-survey/01-select.html>
-* Repeating Actions with Loops in Python: <http://swcarpentry.github.io/python-novice-inflammation/02-loop.html>
-* Exploring Data Frames in R: <http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html>
+* Working with Files and Directories in the Unix Shell: <{{ site.swc_pages }}/shell-novice/03-create/>
+* Tracking Changes in Git: <{{ site.swc_pages }}/git-novice/04-changes/>
+* Selecting Data in SQL: <{{ site.swc_pages }}/sql-novice-survey/01-select/>
+* Repeating Actions with Loops in Python: <{{ site.swc_pages }}/python-novice-inflammation/02-loop/>
+* Exploring Data Frames in R: <{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>
