@@ -419,9 +419,9 @@ you are very welcome to put your name forward as a candidate.
 [swc-github]: {{ site.swc_github }}/
 [swc-join]: {{ site.swc_site }}/join/
 [swc-lessons]: {{ site.swc_site }}/lessons/
-[swc-operations]: {{ site.swc_site }}/workshops/operations.html
+[swc-operations]: {{ site.swc_site }}/workshops/operations/
 [swc-request]: {{ site.swc_site}}/workshops/request/
 [swc-steering-committee]: {{ site.swc_site }}/scf/
 [swc-twitter]: https://twitter.com/swcarpentry
 [swc]: {{ site.swc_site }}
-[workshop-template]: {{ site.swc_github }}/workshop-template
+[workshop-template]: {{ site.swc_github }}/workshop-template/
