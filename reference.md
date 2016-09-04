@@ -213,6 +213,9 @@ Guzdial: "[Why Programming is Hard to Teach]({{ site.github.url }}/files/papers/
 Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching]({{ site.github.url }}/files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
 :   Argues that inquiry-based learning is less effective for novices than guided instruction.
 
+Lee: "[What can I do today to create a more inclusive community in CS?]({{ site.github.url }}/files/papers/lee-create-inclusive-community-2015.pdf)".
+:   A brief, practical guide on exactly that with references to the research literature.
+
 Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning]({{ site.github.url }}/files/papers/mayer-reduce-cognitive-load-2003.pdf)"
 :   Shows how research into how we absorb and process information
     can be applied to the design of instructional materials.
