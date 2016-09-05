@@ -25,7 +25,7 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-An [earlier topic]({{ site.github.url }}/03-novice/) described the key difference between novices and competent practitioners.
+An [earlier topic]({{ page.root }}/03-novice/) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:
 competent practitioners can memorize a lot of trivia
@@ -98,7 +98,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style --- no problem."
-> As [we discuss later]({{ site.github.url }}/19-motivation/),
+> As [we discuss later]({{ page.root }}/19-motivation/),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
@@ -135,7 +135,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram]({{ site.github.url }}/files/choosing-a-good-chart-09.pdf)
+> [this diagram]({{ page.root }}/files/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post][abela-presentation] by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
