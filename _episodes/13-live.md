@@ -72,7 +72,7 @@ another.
 > ## I/We/You vs. You/Y'all/We
 >
 > Live coding is an example of the "I/We/You" approach to teaching
-> [discussed earlier]({{ site.github.url }}/05-performance/).
+> [discussed earlier]({{ page.root }}/05-performance/).
 {: .callout}
 
 ## Live Coding Top 10
@@ -216,7 +216,7 @@ time making the same and other mistakes, but how to deal with them is
 left out of most textbooks.
 
 > The typos are the pedagogy  
-> — [Dana Brunson][brunson-twitter]
+> — Emily Jane McTavish
 {: .quotation}
 
 ### Have Fun
@@ -257,6 +257,5 @@ you are unsure of the effect you behaviour has on the workshop.
 > and what the learners you teach it to are expected to be familiar with.
 {: .challenge}
 
-[brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY

@@ -56,7 +56,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ site.github.url }}/08-memory/).
+> please revisit the discussion of [expert blind spot]({{ page.root }}/08-memory/).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -76,7 +76,7 @@ so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
 Perhaps the best-studied use of this idea is
-the *[media computation]({{ site.github.url }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
+the *[media computation]({{ page.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
 developed by Guzdial and Ericson at Georgia Tech.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image,
@@ -155,7 +155,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ site.github.url }}/02-introduction/),
+> As we said in [the introduction]({{ page.root }}/02-introduction/),
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.
@@ -166,7 +166,7 @@ to make sure they're doing at least a few of these things.
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something
 > unique to our community.  Read
-> the [testimonials]({{ site.github.url }}/guide/#testimonials) from other instructors,
+> the [testimonials]({{ page.root }}/guide/#testimonials) from other instructors,
 > to see what motivates them to teach.  After this class, or during a break,
 > write a short explanation of what motivates you to teach. Save this as part of
 > your teaching philosophy for future reference.
@@ -174,7 +174,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
-As noted in [the introduction]({{ site.github.url }}/02-introduction/),
+As noted in [the introduction]({{ page.root }}/02-introduction/),
 we are privileged:
 most of our learners are physically safe, well fed, well educated, and highly motivated.
 Our challenge is therefore not demotivating them.
@@ -205,7 +205,7 @@ to alienate a classroom and cause learners to tune out.
 >     more if you are frank about the limitations of your knowledge, and
 >     will be more likely to ask questions and seek help.
 > *   Use the J word ("just").
->     As [discussed earlier]({{ site.github.url }}/08-memory/),
+>     As [discussed earlier]({{ page.root }}/08-memory/),
 >     this signals to the learner that
 >     the instructor thinks their problem is trivial
 >     and by extension that they therefore must be stupid
