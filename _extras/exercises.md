@@ -67,7 +67,7 @@ permalink: /exercises/
 
 > ## Learn More About Feedback
 >
-> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.github.url }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ page.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 > and discuss ways you could make peer-to-peer feedback
 > a routine part of your teaching.
 > You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
