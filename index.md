@@ -1,5 +1,6 @@
 ---
 layout: lesson
+root: .
 ---
 
 Over the last hundred years,
@@ -26,7 +27,7 @@ The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online]({{ site.github.url }}/checkout/)
+and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
@@ -47,6 +48,6 @@ on the Github repository that hosts this site.
 **These materials are freely available under a [Creative Commons license][license].**
 
 [application-form]: https://amy.software-carpentry.org/workshops/request_training/
-[conduct]: {{ site.github.url }}/conduct/
-[license]: {{ site.github.url }}/license/
+[conduct]: {{ page.root }}/conduct/
+[license]: {{ page.root }}/license/
 [issues]: {{ site.github.repository_url }}/issues
