@@ -116,6 +116,27 @@ the more likely the fact is to be remembered.  This builds on our earlier idea
 of mental models - a mental model is a way to facilitate making connections between
 separate facts.
 
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> First,
+> practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+>
+> Second,
+> a [meta-study in 2014][macnamara-practice] found that
+> "...deliberate practice explained 26% of the variance in performance for games,
+> 21% for music, 18% for sports, 4% for education, and less than 1% for professions."
+> One explanation for this variation is that
+> deliberate practice works best when the rules are very stable,
+> but is much less effective when they are fluid or nonexistent.
+{: .callout}
+
 ## Concept Maps
 
 Our tool of choice to represent an expert's knowledge graph is the *concept map*.
@@ -352,6 +373,7 @@ separate information will need to be "stored" in memory as part of the lesson.
 
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
+[macnamara-practice]: http://pss.sagepub.com/content/25/8/1608
 [memory-test]: http://cat.xula.edu/thinker/memory/working/serial
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [wikipedia-serial-position]: https://en.wikipedia.org/wiki/Serial_position_effect
