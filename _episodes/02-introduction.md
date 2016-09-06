@@ -246,18 +246,57 @@ the course of the next two days.
 >     is gathering similar ideas for computing.
 {: .callout}
 
-> ## Pseudoscience
->
-> One [well-known scheme][wikipedia-learning-modalities]
-> characterizes learners as visual, auditory, or kinesthetic
-> according to whether they like to see things, hear things, or do things.
-> This scheme is easy to understand,
-> but are [almost certainly false][amazon-myths]:
-> what little evidence that does exist for it is very weak.
-> Unfortunately,
-> that hasn't stopped a large number of companies from marketing products based on it
-> to parents and school boards.
-{: .callout}
+## Myths and Pseudoscience
+
+One [well-known scheme][wikipedia-learning-modalities]
+characterizes learners as visual, auditory, or kinesthetic
+according to whether they like to see things, hear things, or do things.
+This scheme is easy to understand,
+but as de Bruyckere and colleagues point out in *[Urban Myths About Learning and Education][amazon-myths]*,
+it is almost certainly false.
+Unfortunately,
+that hasn't stopped a large number of companies from marketing products based on it
+to parents and school boards.
+
+This is not the only myth to plague education.
+The learning pyramid that shows we remember 10% of what we read,
+20% of what we hear,
+and so on?
+Myth.
+The idea that "brain games" can improve our intelligence,
+or at least slow its decline in old age?
+Also a myth,
+as are the claims that the Internet is making us dumber
+or that young people read less than they used to.
+
+Computing education has its own myths.
+Mark Guzdial's "[Top 10 Myths About Teaching Computer Science]({{ page.root }}/files/papers/guzdial-10-myths-2015.pdf)"
+(mentioned earlier)
+lists ten:
+
+<ol>
+  <li value="10">The lack of women in Computer Science is just like all the other STEM fields.</li>
+  <li value="9">To get more women in CS, we need more female CS faculty.</li>
+  <li value="8">A good CS teacher is a good lecturer.</li>
+  <li value="7">Clickers and the like are an add-on for a good teacher.</li>
+  <li value="6">Student evaluations are the best way to evaluate teaching.</li>
+  <li value="5">Good teachers personalize education for students' learning styles.</li>
+  <li value="4">High schools just can't teach CS well, so they shouldn't do it at all.</li>
+  <li value="3">The real problem is to get more CS curriculum out into the hands of teachers.</li>
+  <li value="2">All I need to do to be a good CS teacher is model good software development practice, because my job is to produce excellent software engineers.</li>
+  <li value="1">Some people are just born to program.</li>
+</ol>
+
+The last of these --- the idea that there is a "geek gene" --- is as pervasive as it is damaging.
+Elizabeth Patitsas and others have shown that,
+contrary to a widely-held belief,
+[grades in computing classes are *not* bimodal][patitsas-bimodal],
+i.e.,
+there isn't one group that gets it and another that doesn't.
+Many of the participants in our workshops have advanced degrees in intellectually demanding subjects,
+but have convinced themselves that they just don't have what it takes to be programmers.
+If all we do is dispel that belief,
+we will have done them a service.
 
 > ## Three Kinds of Knowledge
 >
@@ -283,6 +322,7 @@ the course of the next two days.
 [amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
 [cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/
+[patitsas-bimodal]: http://dl.acm.org/citation.cfm?id=2960312
 [wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
 [wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
