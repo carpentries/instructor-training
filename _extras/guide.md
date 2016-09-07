@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructors' Guide"
+title: "Instructor Notes"
 permalink: /guide/
 ---
 ## Checklists
