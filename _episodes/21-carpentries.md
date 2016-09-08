@@ -306,7 +306,7 @@ be discussed before changes are merged.
 
 Maybe this instructor training has inspired you to go home and write your 
 own fantastic lesson!  If you'd like to model it after the Software and 
-Data Carpentry lesson format, you can go to [this repository][lesson-example] for 
+Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for 
 a template and instructions.  
 
 Writing a new lesson can be a lot of work.  While some people have written 
