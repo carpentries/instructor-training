@@ -14,12 +14,13 @@ keypoints:
 - "Trainee motivation and prior knowledge vary widely, but can be explored with a quick multiple choice quiz."
 ---
 
-## Introductions 
+## Introductions
 
 > Introductions set the stage for learning.  
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 
+<<<<<<< HEAD
 > ## Favorite Class
 > 
 > In the etherpad, write down your name, the best class you ever 
@@ -46,15 +47,21 @@ lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on how researchers can be effective 
 computationally and developing software; Data Carpentry focuses on how 
 researchers can effectively manage their data.  
-Both organizations aren't out to teach specific skills, per se - those 
-are covered, but instead, the main goal is to convey best practices that will enable 
+Both organizations aren't out to teach specific skills, per se - although those 
+are covered - but instead, the main goal is to convey best practices that will enable 
 researchers to be more productive and do better research.  
 
 In the same way, this training will cover specific teaching skills, but 
-one of our main emphases will be the "best practices" of teaching.  A lot 
-of what we cover is based on current research and recommendations.  Similarly, 
-we will be introducing you to a lot of the practices and philosophies that 
-make Software and Data Carpentry unique.  We will not be going 
+one of our main emphases will be the "best practices" of teaching.  We 
+want to introduce you to a handful of key educational research
+findings and show how they can be used to help people learn better
+and faster.  We will also 
+be introducing you to the teaching practices that have been
+adopted by the Software and Data Carpentry communities, and the
+overall philosophy and procedures of both organizations in order
+to prepare you to teach at Software and Data Carpentry workshops.
+
+We will not be going 
 over the workshop content in detail (although we will talk about 
 the lessons tomorrow), but instead
 focus on developing teaching skills that are broadly
@@ -77,7 +84,7 @@ answers and help facilitate discussion - if you ever have any questions,
 feel free to put them into the notes or chatbox of the etherpad and we'll 
 make sure we get to them by the end of the day.  
 
-One part of making this a productive two days for all of us, is a 
+One part of making this a productive two days for all of us is a 
 community effort to treat one another with kindness and respect.  This 
 training, as in all Software/Data Carpentry workshops is subject to 
 the Software and Data Carpentry Code of Conduct.  We will be able to give our 
@@ -96,6 +103,14 @@ participants because this will influence (to some extent) how you
 motivate the activities and how you communicate with the attendees.
 
 > ## Background
+>
+> *Have you ever participated in a Software Carpentry or Data Carpentry Workshop?*
+>
+> 1.  Yes, I have taken a workshop.
+> 2.  Yes, I have been a workshop helper.
+> 3.  Yes, I organized a workshop.
+> 4.  No, but I am familiar with what is taught at a workshop.
+> 5.  No, and I am not familiar with what is taught at a workshop.
 > 
 > *Which of these most accurately describes your teaching experience?*
 >
@@ -126,7 +141,13 @@ motivate the activities and how you communicate with the attendees.
 > 
 {: .discussion}
 
-Now that we have a better idea of everyone's prior knowledge, 
-let's dive into the training.  Our first topic will be 
-the theory and practice behind designing multiple
-choice questions.
+Now that we have a better idea of everyone's prior knowledge and
+familiarity with some of the SWC and DC teaching practices, we're
+ready to begin our training. Our goal is that by the end, you will
+have acquired some new knowledge, confidence, and skills that you can
+use in your teaching practice in general and in teaching SWC and DC
+workshops specifically.
+
+Our first topic will be cognitive development and mental models, 
+which will lead into the theory and practice behind multiple choice 
+questions, like the ones you just answered.  
