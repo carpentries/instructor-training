@@ -160,19 +160,8 @@ in learning objectives written for each level.
 </table>
 
 Baume's guide to
-[writing and using good learning outcomes]({{ site.root }}/files/papers/baume-learning-outcomes-2009.pdf)
+[writing and using good learning outcomes]({{ page.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
-
-> ## Improving Objectives
->
-> Are the following learning objectives strong or weak?
-> How could you improve some of the weak objectives?
->
-> *   Learn what a Python library is and what it can be used for.
-> *   Be able to use `dplyr` and provide simple examples.
-> *   Understand the importance of using version control.
-> *   Understand data slicing/manipulation.
-{: .challenge}
 
 > ## Evaluate SWC and DC Learning Objectives
 >
@@ -182,7 +171,7 @@ is a good longer discussion of these issues.
 >
 > 1. Identify the learning objective verb.
 > 2. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation).
-> 3. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa).
+> 3. Reword the learning objective for a different learning outcome (eg, from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
 {: .challenge}
@@ -201,9 +190,9 @@ the problem they face,
 and how the course will help them.
 A learner profile for Software Carpentry might be:
 
-> João is an agricultural engineer doing his masters in soil physics.
+> João is an agricultural engineer doing his Master's degree in soil physics.
 > His programming experience is a first year programming course using C.
-> He was never able to use this low-level programming into his activities,
+> He was never able to use this low-level programming in his activities,
 > and never programmed after the first year.
 >
 > His work consists of evaluating physical properties of soil samples from different conditions.
@@ -218,23 +207,34 @@ A learner profile for Software Carpentry might be:
 > so that he can re-run analyses and figure out which results may have been affected by changes.
 {: .quotation}
 
+> ## Learner Profiles
+>
+> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
+> and then write one that describes a fictional colleague of your own.
+> Who are they,
+> what problems do they face,
+> and how will this training help them?
+> Try to be as specific as possible.
+{: .challenge}
+
+
 ## Existing Lessons
 
 Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
 
-*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
-*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
-*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
-*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
-*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
+*   [The Unix Shell]({{site.swc_pages}}/shell-novice/)
+*   [Version Control with Git]({{site.swc_pages}}/git-novice/)
+*   [Programming with Python]({{site.swc_pages}}/python-novice-inflammation/)
+*   [Programming with R]({{site.swc_pages}}/r-novice-inflammation/)
+*   [R for Reproducible Scientific Analysis]({{site.swc_pages}}/r-novice-gapminder/)
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
 Software Carpentry also maintains lessons on:
 
-*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
-*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
-*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
-*   [Automation and Make]({{site.github_io_url}}/make-novice/)
+*   [Version Control with Mercurial]({{site.swc_pages}}/hg-novice/)
+*   [Using Databases and SQL]({{site.swc_pages}}/sql-novice-survey/)
+*   [Programming with MATLAB]({{site.swc_pages}}/matlab-novice-inflammation/)
+*   [Automation and Make]({{site.swc_pages}}/make-novice/)
 
 but these are less frequently used.
 
@@ -269,13 +269,13 @@ are domain-specific and cover data organization, manipulation, and visualization
 relevant to the target domain.
 Currently, there are fully-developed workshops for:
 
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)  
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)  
-*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)
 
 There are also materials in development and testing for:
 
-*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
 *   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
 
 Other Data Carpentry lessons are in the incubator stage.
@@ -295,15 +295,11 @@ associated directory containing the data or scripts needed in the
 lesson.  This source material is also then served as a website, using
 GitHub's "gh-pages" feature.
 
-Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced
+Lesson contribution is managed within the repository using issues
+and pull requests.  New problems or suggestions can be introduced
 as issues, discussed by the community, and addressed via a pull
-request, which serves as a "request" to make changes, and can also
+request, which serves as a request to make changes, and can also
 be discussed before changes are merged.
-
-### Lesson Incubation
-
-FIXME: how to add new lessons
 
 > ## Many Ways to Contribute
 >
@@ -315,56 +311,11 @@ FIXME: how to add new lessons
 > please let us know.
 {: .callout}
 
-> ## Learner Profiles
+> ## Incubating New Lessons
 >
-> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
-> and then write one that describes a fictional colleague of your own.
-> Who are they,
-> what problems do they face,
-> and how will this training help them?
-> Try to be as specific as possible.
-{: .challenge}
-
-> ## Classify Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> lesson and classify its learning objectives according to their level in Bloom's Taxonomy.
-{: .challenge}
-
-> ## Validate Learning Objectives
->
-> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
-> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-> and read through its learning objectives.
-> Does this lesson accomplish what it sets out to achieve?
-> Does it contain too much?
-> Is the content on point with the learning objectives?
-{: .challenge}
-
-> ## Develop Learning Objectives
->
-> In groups of 2-4,
-> choose one of the following topics
-> (or something else that you might explain to a senior high school class)
-> and develop learning objectives for a 10-minute introductory lesson on it.
-> Compare your learning objectives to those developed by other groups:
-> how easy or hard would it be for an independent observer
-> to determine whether your objectives or the other groups' had been achieved?
->
-> *   The difference between velocity and momentum.
-> *   Volcanic, fold, and block mountain formation.
-> *   The gambler's fallacy in statistics.
-{: .challenge}
-
-> ## Summing Up
->
-> You have been asked to interview an undergraduate who wants to work with your group for the summer.
-> What task could you ask her to do that would tell you whether she has the technical skills the job requires?
-> (Try to choose something that she could reasonably be expected to accomplish in under 15 minutes.)
-> How would you describe the task to her?
-> And how would you describe the criteria for completing it successfully?
-{: .challenge}
+> Our [lesson incubation guidelines]({{ site.swc_site }}/lessons/incubation/)
+> explain how we work with partners to develop new lesson materials.
+{: .callout}
 
 ## Reverse Instructional Design
 
@@ -466,7 +417,7 @@ Wiggins and McTighe use the acronym WHERETO:
 > Is reverse instructional design "teaching to the test"?
 > I.e., does it steer teachers toward getting their students to pass an exam
 > rather than learn things?
-{: .challenge}
+{: .discussion}
 
 Reverse instructional design is *not* the same thing as "teaching to the test".
 When using RID, teachers set goals to aid in lesson design,
@@ -482,6 +433,16 @@ centralized, standardized testing is appealing (particularly to those with the p
 but as Scott pointed out in
 *[Seeing Like a State][amazon-slas]*,
 large organizations invariably prefer uniformity to productivity.
+
+> ## Validate Learning Objectives
+>
+> Choose one topic from a [Data Carpentry]({{ site.dc_site }}/lessons/)
+> or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
+> and read through its learning objectives.
+> Does this lesson accomplish what it sets out to achieve?
+> Does it contain too much?
+> Is the content on point with the learning objectives?
+{: .challenge}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
 [amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/
