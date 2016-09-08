@@ -20,7 +20,6 @@ keypoints:
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 
-<<<<<<< HEAD
 > ## Favorite Class
 > 
 > In the etherpad, write down your name, the best class you ever 
