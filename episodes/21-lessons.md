@@ -96,7 +96,7 @@ able to do once they have sat through the lesson, in order to demonstrate
 "learning."  That requires thinking critically about what exactly you want 
 people to learn.  
 
-It's too easy to come up with fuzzy learning objectives.  A 
+It's dangerously easy to come up with fuzzy learning objectives.  A 
 broad statement like "Understand git" could 
 mean many different specific goals, like: 
 * Learners can revert a change to a file using git. 
@@ -350,6 +350,30 @@ core objectives in mind.
 
 ### Software Carpentry
 
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
+|Version Control with Git|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
+|Programming with Python|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
+|Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
+|R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
+{: table table-striped}
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|Version Control with Mercurial|[Site]({{site.swc_pages}}/hg-novice/)|[Repository](https://github.com/swcarpentry/hg-novice)|[Instructor guide]({{site.swc_pages}}/hg-novice/guide/)
+|Using Databases and SQL|[Site]({{site.swc_pages}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.swc_pages}}/sql-novice-survey/guide/)
+|Programming with MATLAB|[Site]({{site.swc_pages}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/matlab-novice-inflammation/guide/)
+|Automation and Make|[Site]({{site.swc_pages}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.swc_pages}}/make-novice/guide/)
+{: table table-striped}
+
+but these are less frequently used.
+
 The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
 that crop up in many other areas of computing:
 
@@ -397,47 +421,6 @@ There are also materials in development and testing for:
 *   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
 
 Other Data Carpentry lessons are in the incubator stage.
-
-### Lesson Development
-
-As [stated earlier]({{ site.root }}/19-carpentries.md), the Software and 
-Data Carpentry lessons are on GitHub and open to contribution from all community 
-members.  It is useful to know the main objectives for each lesson to understand 
-what frames the discussion about what to include in a lesson, and why certain 
-changes are accepted and others are not.  
-
-### Lesson Incubation
-
-Maybe this instructor training has inspired you to go home and write your 
-own fantastic lesson!  If you'd like to model it after the Software and 
-Data Carpentry lesson format, you can go to [this repository][lesson-example] for 
-a template and instructions.  
-
-Writing a new lesson can be a lot of work.  While some people have written 
-new lessons on their own, other people have asked people in the community to 
-help them.  If you think there are other people who would be interested in 
-your lesson idea, you can email the Software and Data Carpentry discussion 
-lists to find out if anyone is interested.  If so, one person will typically
-take the lead and be the lesson's director and maintainer until it's ready to 
-be taught.  
-
-> ## Incubating New Lessons
->
-> Our [lesson incubation guidelines]({{ site.swc_site }}/lessons/incubation/)
-> explain how we work with partners to develop new lesson materials.
-{: .callout}
-
-> ## Many Ways to Contribute
->
-> We recognize that the medium of GitHub may be restrictive to those
-> who wish to contribute to our lessons.  We are always searching for
-> ways to make the process more friendly to all, whether that be
-> contribution training, or alternative routes to contribution.  If you
-> have any ideas how we might make contribution more contributor-friendly,
-> please let us know.
-{: .callout}
-
-
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
 [amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/

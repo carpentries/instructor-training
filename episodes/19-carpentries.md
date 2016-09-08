@@ -78,110 +78,6 @@ Its workshops are:
 
 ![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
 
-## Existing Lessons
-
-Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
-
-|Lesson|Site|Repository|Instructor guide|
-|------|----|----------|----------------|
-|The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
-|Version Control with Git|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
-|Programming with Python|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
-|Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
-|R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
-{: table table-striped}
-
-Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
-Software Carpentry also maintains lessons on:
-
-|Lesson|Site|Repository|Instructor guide|
-|------|----|----------|----------------|
-|Version Control with Mercurial|[Site]({{site.swc_pages}}/hg-novice/)|[Repository](https://github.com/swcarpentry/hg-novice)|[Instructor guide]({{site.swc_pages}}/hg-novice/guide/)
-|Using Databases and SQL|[Site]({{site.swc_pages}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.swc_pages}}/sql-novice-survey/guide/)
-|Programming with MATLAB|[Site]({{site.swc_pages}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/matlab-novice-inflammation/guide/)
-|Automation and Make|[Site]({{site.swc_pages}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.swc_pages}}/make-novice/guide/)
-{: table table-striped}
-
-but these are less frequently used.
-
-The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
-that crop up in many other areas of computing:
-
-*   the notions of a path and a home directory
-*   the use of history and tab completion to save time (and prevent mistakes)
-*   manipulating text using `head`, `tail`, `grep`, and related tools
-*   combining existing tools using pipes instead of writing new ones
-*   using loops to repeat operations
-
-The aims of the version control lesson are to teach people:
-
-*   how to keep track of their work,
-*   how to collaborate with other people online, and
-*   enough about privacy and licensing that they can begin to make sensible decisions about
-    what to put where and how to share it.
-
-The ostensible aim of the programming lessons are to show people
-how to build modular programs out of small functions
-that can be read, tested, and re-used.
-However,
-these concepts turn out to be hard to convey to people
-who are still learning the syntax of a programming language
-(forest and trees),
-so in practice the programming lessons focus primarily on
-the mechanics of doing common operations in those languages.
-
-Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
-are domain-specific and cover data organization, manipulation, and visualization skills
-relevant to the target domain.
-Currently, there are fully-developed workshops for:
-
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)
-*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)
-
-There are also materials in development and testing for:
-
-*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
-*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
-
-Other Data Carpentry lessons are in the incubator stage.
-
-## Existing Lessons
-
-Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
-
-*   [The Unix Shell]({{site.github_io_url}}/shell-novice/)
-*   [Version Control with Git]({{site.github_io_url}}/git-novice/)
-*   [Programming with Python]({{site.github_io_url}}/python-novice-inflammation/)
-*   [Programming with R]({{site.github_io_url}}/r-novice-inflammation/)
-*   [R for Reproducible Scientific Analysis]({{site.github_io_url}}/r-novice-gapminder/)
-
-Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
-Software Carpentry also maintains lessons on:
-
-*   [Version Control with Mercurial]({{site.github_io_url}}/hg-novice/)
-*   [Using Databases and SQL]({{site.github_io_url}}/sql-novice-survey/)
-*   [Programming with MATLAB]({{site.github_io_url}}/matlab-novice-inflammation/)
-*   [Automation and Make]({{site.github_io_url}}/make-novice/)
-
-but these are less frequently used.
-
-Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
-are domain-specific and cover data organization, manipulation, and visualization skills
-relevant to the target domain.
-Currently, there are fully-developed workshops for:
-
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop) 
-*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
-
-There are also materials in development and testing for:
-
-*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)  
-*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
-
-Other Data Carpentry lessons are in the incubator stage.
-
 ## Workshop Operations
 
 We have recorded what we've learned about writing workshops
@@ -307,7 +203,7 @@ but instructors must certify separately for each at the end:
 see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
 for details.
 
-## Setting Up
+### Setting Up
 
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
@@ -365,6 +261,11 @@ There are several hubs of activity for the Software and Data Carpentry communiti
     *   [Software Carpentry on Twitter][swc-twitter]
     *   [Data Carpentry on Twitter][dc-twitter]
 
+> ## Get Connected
+>
+> Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
+{: .challenge}
+
 ### A Culture of Contribution
 
 The administration, policies, practices and content of
@@ -379,7 +280,6 @@ as we encourage researchers to use packages and modules in their code, to
 create re-usable pieces, we want to draw together the collective expertise of
 our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
-We discuss this in more detail in [a later lesson]({{ page.root }}/20-lessons/).
 
 ### Lesson Contribution
 
@@ -402,6 +302,31 @@ as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
 be discussed before changes are merged.  
 
+### Lesson Incubation
+
+Maybe this instructor training has inspired you to go home and write your 
+own fantastic lesson!  If you'd like to model it after the Software and 
+Data Carpentry lesson format, you can go to [this repository][lesson-example] for 
+a template and instructions.  
+
+Writing a new lesson can be a lot of work.  While some people have written 
+new lessons on their own, other people have asked people in the community to 
+help them.  If you think there are other people who would be interested in 
+your lesson idea, you can email the Software and Data Carpentry discussion 
+lists to find out if anyone is interested.  If so, one person will typically
+take the lead and be the lesson's director and maintainer until it's ready to 
+be taught.  
+
+> ## Many Ways to Contribute
+> 
+> We recognize that the medium of GitHub may be restrictive to those
+> who wish to contribute to our lessons.  We are always searching for
+> ways to make the process more friendly to all, whether that be
+> contribution training, or alternative routes to contribution.  If you
+> have any ideas how we might make contribution more contributor-friendly,
+> please let us know.
+{: .callout}
+
 ### Beyond Lessons
 
 While contribution is frequently seen in terms of contributing
@@ -419,12 +344,11 @@ discussions on Github issues/pull requests or email discuss lists
  or serving on a committee.
 
 Here are some examples of ways that people have contributed to the community:
-* Show a discussion thread on one of the pull requests which contains a change in
-materials.
-* I also showed how the thread on Discuss list about "Leaving novices
-behind" turned into blog post.
-* I would also cover more about how friendly the community is - showing
-examples of good discussions under pull requests (possibly controversial PRs).
+* [This email thread](http://lists.software-carpentry.org/pipermail/discuss/2015-October/003396.html)
+is a good example of many instructors chiming in on a topic, resulting in a 
+[blog post](http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html), 
+summarizing the discussion. 
+* [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89)
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
@@ -442,11 +366,6 @@ The Steering Committee has final say on all strategic and financial decisions;
 if you would like Software Carpentry to take a new direction,
 or would like to do more than teach or develop lessons,
 you are very welcome to put your name forward as a candidate.
-
-> ## Get Connected
->
-> Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
-{: .challenge}
 
 > ## Feedback on Assessment
 >
