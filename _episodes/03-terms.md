@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-teaching: 30
+title: "Terms"
+teaching: 10
 exercises: 0
 questions:
 - "How can we describe teaching and learning how to teach?"
@@ -16,65 +16,6 @@ keypoints:
 - "Instructional design: the engineering of lessons."
 - "Pedagogical content knowledge: connects general understanding of teaching to domain-specific content."
 ---
-
-This section outlines the structure of this two-day course and provides some
-essential terms for discussion.
-
-## Practice and Feedback
-
-To become accomplished at any complex skill (such as playing a sport or musical instrument),
-one must do the following:
-
-* **Learn**: Learn the theory and best practices of your skill, make
-  choices about your approach, make a plan to train or practice.
-
-* **Practice**: Put your theoretical ideas into practice, repeat the
-  desired skill over and over.
-
-* **Participate**: Watch other performers, have a coach or community
-  where you can get new ideas, ask questions, and received feedback
-  on your performance.
-
-Learning a new skill requires sustained and deliberate practice, and
-feedback from experts and fellow practitioners.
-
-In this training we will:
-
-* **Learn**: about how people learn, based on the findings of education
-  researchers.  We'll also learn how these principles are applied in Software and Data Carpentry.
-* **Practice**: practice our teaching skills.
-* **Participate**: by giving feedback to each other to improve our skills.
-
-The "secret sauce" of Software and Data Carpentry lies
-not in its lessons or workshops, or even the pedagogical skill of its
-instructors, but in the community of people who are
-dedicated to teaching computing and data skills as well as they
-possibly can.  The goal of this training is thus not only to strengthen instructors'
-teaching skills, but to connect instructors:
-
-* to each other in a local community
-* to the larger community of Software and Data Carpentry instructors
-
-> ## Key Readings
->
-> An excellent overview of research results in education and learning is
-> Ambrose et al's *[How Learning Works][amazon-hlw]*
-> (which is also an excellent example of what secondary literature ought to look like).
-> Green's *[Building a Better Teacher][amazon-babt]*
-> is lighter but no less informative:
-> it explores why educational reforms in the past 50 years have mostly missed the mark,
-> and what we should be doing instead.
-> The ultra-short summary "[Deans for Impact report]({{ page.root }}/files/papers/science-of-learning-2015.pdf)"
-> contains useful, practical insights, and is required reading for this training.
->
-> Pieces focusing specifically on computer science education include
-> Guzdial's "[Why Programming is Hard to Teach]({{ page.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-> and "[Top 10 Myths About Teaching Computer Science]({{ page.root }}/files/papers/guzdial-10-myths-2015.pdf)",
-> and Porter et al's "[Success in Introductory Programming: What Works?]({{ page.root }}/files/papers/porter-what-works-2013.pdf)",
-> all of which you should read before starting this class.
-{: .callout}
-
-## A Common Language: Terms
 
 The following terms will support the discussions and activities in the rest of the training
 by giving us a common vocabulary to talk about teaching and learning to teach.
@@ -151,60 +92,6 @@ This is called *instructional design* (ID);
 if educational psychology is the science,
 ID is the engineering.
 
-For example,
-most children today are taught to read using a bottom-up technique called
-[phonics][wikipedia-phonics],
-which introduces them to the sounds of letters,
-then puts those letters and their sounds together to make simple words like "bug" and "run",
-then assembles the words into sentences and stories.
-But another technique called [whole language][wikipedia-whole-language]
-takes a different approach.
-Instead of starting with letters,
-its proponents teach children to recognize entire words
-so that they get the positive feedback of being able to read whole stories as early as possible.
-The basic idea is that once children find reading rewarding,
-they'll be motivated to go back and figure out the letters.
-
-These approaches are not equally consistent with what we know about how children
-learn to read. There is some evidence that proficient, adult readers identify
-whole word patterns. But humans are really good at associating sounds with
-meaning, and the scientific consensus among linguists, psychologists and
-neuroscientists is that the bridge phonics builds from letters to sounds makes
-learning to read easier.
-
-So while whole-language instruction takes an optimistic and student-centered
-view on learning -- encouraging enjoyment in learning as a key element in the
-process -- it is not consistent with the scientific view of the way that
-learning to read actually takes place. Nevertheless, when these methods were
-studied in classrooms, the findings have been contradictory: while some
-classroom studies find that phonics works best, others show that whole language
-yields better results.
-
-One explanation is that a third factor is at play. If children sense that their
-teachers are enthusiastic about something, they will respond to that enthusiasm
-and learn better. If they feel their teachers are just marking time, though,
-they will emulate that instead. Thus, when studies are done by people who are
-proponents of a new technique (as they often are), they are likely to produce
-positive results, but when those techniques are deployed more widely to teachers
-who have seen one bandwagon after another roll by, results will regress to the
-mean, or even beyond.
-
-> ## Quantitative and Qualitative Research
->
-> One of the major challenges in educational research is that
-> human beings are very different from one another.
-> In order to get meaningful quantitative results,
-> studies must therefore include large numbers of subjects,
-> which is expensive.
-> Quantitative studies are also not able to answer many "why" questions.
-> For those,
-> researchers need to use qualitative methods,
-> such as [grounded theory][wikipedia-grounded-theory].
-> Physical scientists are sometimes skeptical of such studies and their findings,
-> but done rigorously,
-> they can provide actionable insights that quantitative methods cannot.
-{: .callout}
-
 ### Pedagogical Content Knowledge
 
 In the end, effective teaching often depends on what the teacher knows.
@@ -257,6 +144,24 @@ the course of the next two days.
 > Unfortunately,
 > that hasn't stopped a large number of companies from marketing products based on it
 > to parents and school boards.
+{: .callout}
+
+> ## Key Readings
+> An excellent overview of research results in education and learning is
+> Ambrose et al's *[How Learning Works][amazon-hlw]*
+> (which is also an excellent example of what secondary literature ought to look like).
+> Green's *[Building a Better Teacher][amazon-babt]*
+> is lighter but no less informative:
+> it explores why educational reforms in the past 50 years have mostly missed the mark,
+> and what we should be doing instead.
+> The ultra-short summary "[Deans for Impact report]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+> contains useful, practical insights, and is required reading for this training.
+>
+> Pieces focusing specifically on computer science education include
+> Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+> and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
+> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)",
+> all of which you should read before starting this class.
 {: .callout}
 
 > ## Three Kinds of Knowledge
