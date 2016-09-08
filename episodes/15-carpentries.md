@@ -22,7 +22,7 @@ and on the final steps toward certification.
 > ## Preparation and Discussion
 >
 > This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
-> (which is [assigned as overnight homework]({{ site.root }}/11-summarize/)).
+> (which is [assigned as overnight homework]({{ page.root }}/12-summarize/)).
 > Instead of going through this material point by point,
 > trainers should ask each trainee to add one non-overlapping question to a list,
 > then go through that list.
@@ -76,7 +76,75 @@ Its workshops are:
 *   not domain-specific, and
 *   modular --- each Software Carpentry lesson is standalone.
 
-![Software Carpentry and Data Carpentry Comparison]({{ site.root }}/fig/10/SWCvsDC.png)
+![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
+
+## Existing Lessons
+
+Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) are:
+
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
+|Version Control with Git|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
+|Programming with Python|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
+|Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
+|R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
+{: table table-striped}
+
+Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
+Software Carpentry also maintains lessons on:
+
+|Lesson|Site|Repository|Instructor guide|
+|------|----|----------|----------------|
+|Version Control with Mercurial|[Site]({{site.swc_pages}}/hg-novice/)|[Repository](https://github.com/swcarpentry/hg-novice)|[Instructor guide]({{site.swc_pages}}/hg-novice/guide/)
+|Using Databases and SQL|[Site]({{site.swc_pages}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.swc_pages}}/sql-novice-survey/guide/)
+|Programming with MATLAB|[Site]({{site.swc_pages}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/matlab-novice-inflammation/guide/)
+|Automation and Make|[Site]({{site.swc_pages}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.swc_pages}}/make-novice/guide/)
+{: table table-striped}
+
+but these are less frequently used.
+
+The main aim of the Unix shell lesson is to familiarize people with a handful of basic concepts
+that crop up in many other areas of computing:
+
+*   the notions of a path and a home directory
+*   the use of history and tab completion to save time (and prevent mistakes)
+*   manipulating text using `head`, `tail`, `grep`, and related tools
+*   combining existing tools using pipes instead of writing new ones
+*   using loops to repeat operations
+
+The aims of the version control lesson are to teach people:
+
+*   how to keep track of their work,
+*   how to collaborate with other people online, and
+*   enough about privacy and licensing that they can begin to make sensible decisions about
+    what to put where and how to share it.
+
+The ostensible aim of the programming lessons are to show people
+how to build modular programs out of small functions
+that can be read, tested, and re-used.
+However,
+these concepts turn out to be hard to convey to people
+who are still learning the syntax of a programming language
+(forest and trees),
+so in practice the programming lessons focus primarily on
+the mechanics of doing common operations in those languages.
+
+Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
+are domain-specific and cover data organization, manipulation, and visualization skills
+relevant to the target domain.
+Currently, there are fully-developed workshops for:
+
+*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop)
+*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)
+
+There are also materials in development and testing for:
+
+*   [Social Science]({{ site.dc_site }}/lessons/#social-science-materials)
+*   and [a semester-long Biology course]({{ site.dc_site }}/semester-biology/).
+
+Other Data Carpentry lessons are in the incubator stage.
 
 ## Workshop Operations
 
@@ -200,7 +268,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 Software Carpentry and Data Carpentry share a single instructor training program,
 but instructors must certify separately for each at the end:
-see the description of [the instructor checkout procedure]({{ site.root }}/checkout/)
+see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
 for details.
 
 ## Setting Up
@@ -275,7 +343,7 @@ as we encourage researchers to use packages and modules in their code, to
 create re-usable pieces, we want to draw together the collective expertise of
 our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
-We discuss this in more detail in [a later lesson]({{ site.root }}/20-lessons/).
+We discuss this in more detail in [a later lesson]({{ page.root }}/20-lessons/).
 
 ### Beyond Lessons
 
@@ -303,7 +371,7 @@ examples of good discussions under pull requests (possibly controversial PRs).
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
-[checkout process]({{ site.root }}/checkout/) to become a fully-fledged instructor will be
+[checkout process]({{ page.root }}/checkout/) to become a fully-fledged instructor will be
 one way to start connecting to the community and find which area will allow you
 to contribute best.
 
@@ -344,16 +412,16 @@ you are very welcome to put your name forward as a candidate.
 [dc-twitter]: https://twitter.com/datacarpentry
 [dc]: {{ site.dc_site }}
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
-[license]: {{ site.root }}/license/
+[license]: {{ page.root }}/license/
 [scf-history]: {{ site.swc_site }}/scf/history/
 [scf]: {{ site.swc_site }}/scf/
 [swc-blog]: {{ site.swc_site }}/blog/
 [swc-github]: {{ site.swc_github }}/
 [swc-join]: {{ site.swc_site }}/join/
 [swc-lessons]: {{ site.swc_site }}/lessons/
-[swc-operations]: {{ site.swc_site }}/workshops/operations.html
+[swc-operations]: {{ site.swc_site }}/workshops/operations/
 [swc-request]: {{ site.swc_site}}/workshops/request/
 [swc-steering-committee]: {{ site.swc_site }}/scf/
 [swc-twitter]: https://twitter.com/swcarpentry
 [swc]: {{ site.swc_site }}
-[workshop-template]: {{ site.swc_github }}/workshop-template
+[workshop-template]: {{ site.swc_github }}/workshop-template/

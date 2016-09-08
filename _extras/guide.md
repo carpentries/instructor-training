@@ -280,7 +280,7 @@ and that they'd have a better chance of making next Thursday's conference submis
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ site.root }}/17-motivation/).
+described in [this episode]({{ page.root }}/19-motivation/).
 
 > ## Software Carpentry Is Not Computer Science
 >
@@ -297,8 +297,8 @@ described in [this episode]({{ site.root }}/17-motivation/).
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
-    or create a copy of this [Google Form Questionaire][questionnaire].
-    Briefly summarize the answers. 
+    or create a copy of this [Google Form Questionnaire][questionnaire].
+    Briefly summarize the answers.
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
@@ -538,7 +538,7 @@ scheduled.
 
 > ## Christina Koch
 >
-> <img src="{{ site.root }}/fig/guide/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
+> <img src="../fig/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
 {: .testimonial}
 
 > ## Lex Nederbragt
@@ -670,14 +670,14 @@ scheduled.
 
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ site.root }}/files/messages/checkout.txt
-[completion]: {{ site.root }}/files/messages/completion.txt
-[format]: {{ site.root }}/files/messages/format.txt
+[checkout]: {{ page.root }}/files/messages/checkout.txt
+[completion]: {{ page.root }}/files/messages/completion.txt
+[format]: {{ page.root }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ site.root }}/files/papers/stefik-summary-2016.pdf
-[welcome]: {{ site.root }}/files/messages/welcome.txt
+[stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
+[welcome]: {{ page.root }}/files/messages/welcome.txt

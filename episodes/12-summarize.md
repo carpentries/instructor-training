@@ -20,11 +20,8 @@ When you arrive tomorrow,
 we will ask you to add one question about our operations to a list;
 we will then do our best to answer all of those questions during the day.
 
-If you haven't done so already,
-please also follow the [setup instructions]({{ site.root }}/setup/)
-to install the software that we use when we teach a regular workshop.
-You will need this for tomorrow's [live coding]({{ site.root }}/12-live/) exercise,
-and it will also give you first-hand knowledge of what we ask our learners to do.
+Please also read "[Software Carpentry: Lessons Learned]({{ page.root }}/files/papers/wilson-lessons-learned-2016.pdf)",
+which summarizes what we have learned over 18 years of teaching basic computing skills to researchers.
 
 > ## End-of-Day Feedback
 >
@@ -34,7 +31,9 @@ and it will also give you first-hand knowledge of what we ask our learners to do
 > negative point about the day, without repeating anything that has
 > already been said.  This requirement forces people to say things they
 > otherwise might not: once all the "safe" feedback has been given,
-> participants will start saying what they really think.
+> participants will start saying what they really think. The instructor
+> writes down the feedback in the etherpad or a text editor,
+> but is not supposed to comment on the feedback while collecting it.
 >
 > When called upon by the instructor, add one positive or one negative
 > point to the growing list *without* repeating anything that has
