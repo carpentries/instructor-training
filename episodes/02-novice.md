@@ -19,6 +19,9 @@ keypoints:
 - "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 
+We'll now get started with our first round of learning some theory, how it 
+relates to Software and Data Carpentry, and putting that theory into practice.  
+
 ## Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a mental model of the domain,
