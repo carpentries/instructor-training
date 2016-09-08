@@ -518,7 +518,13 @@ described in [this episode]({{ page.root }}/19-motivation/).
 
 > ## Christina Koch
 >
-> <img src="../fig/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
+> <img src="../fig/christinalk_whyiteach.png" alt="Tweet by realscientists.  Image of a little girl staring at a snake, with accompanying text 'That moment in the photo, the transition from OMG it's going to kill me to OMG this is cool! and I'm not afraid!' Retweeted by _christinaLK with the hashtag why i teach">
+>  
+> I love sharing ideas with people. The best moments in life, for me, are facilitating 
+> intellectual insights along with personal connections. Those moments are what build 
+> a community that continues living in hope and adventure, especially important in 
+> times of fear and division. I teach to make those moments possible for myself 
+> and for others.
 {: .testimonial}
 
 > ## Lex Nederbragt
