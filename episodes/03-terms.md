@@ -154,13 +154,13 @@ the course of the next two days.
 > is lighter but no less informative:
 > it explores why educational reforms in the past 50 years have mostly missed the mark,
 > and what we should be doing instead.
-> The ultra-short summary "[Deans for Impact report]({{ site.root }}/files/papers/science-of-learning-2015.pdf)"
+> The ultra-short summary "[Deans for Impact report]({{ page.root }}/files/papers/science-of-learning-2015.pdf)"
 > contains useful, practical insights, and is required reading for this training.
 >
 > Pieces focusing specifically on computer science education include
-> Guzdial's "[Why Programming is Hard to Teach]({{ site.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-> and "[Top 10 Myths About Teaching Computer Science]({{ site.root }}/files/papers/guzdial-10-myths-2015.pdf)",
-> and Porter et al's "[Success in Introductory Programming: What Works?]({{ site.root }}/files/papers/porter-what-works-2013.pdf)",
+> Guzdial's "[Why Programming is Hard to Teach]({{ page.root }}/files/papers/guzdial-why-hard-to-teach-2011.pdf)"
+> and "[Top 10 Myths About Teaching Computer Science]({{ page.root }}/files/papers/guzdial-10-myths-2015.pdf)",
+> and Porter et al's "[Success in Introductory Programming: What Works?]({{ page.root }}/files/papers/porter-what-works-2013.pdf)",
 > all of which you should read before starting this class.
 {: .callout}
 
