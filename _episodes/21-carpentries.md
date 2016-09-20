@@ -378,26 +378,26 @@ you are very welcome to put your name forward as a candidate.
 > What would you add, and what would you drop to make room?
 {: .challenge}
 
-[dc-blog]: {{ site.dc_site }}/blog/
+[dc-blog]: <{{ site.dc_site }}/blog/>
 [dc-forum]: http://discuss.datacarpentry.org/
-[dc-github]: {{ site.dc_github }}
-[dc-join]: {{ site.dc_site }}/involved/
-[dc-lessons]: {{ site.dc_site }}/lessons/
-[dc-request]: {{ site.dc_site}}/workshops-host/
-[dc-submission-page]: {{ site.dc_site }}/instructor-checkout-exercises/
+[dc-github]: <{{ site.dc_github }}>
+[dc-join]: <{{ site.dc_site }}/involved/>
+[dc-lessons]: <{{ site.dc_site }}/lessons/>
+[dc-request]: <{{ site.dc_site}}/workshops-host/>
+[dc-submission-page]: <{{ site.dc_site }}/instructor-checkout-exercises/>
 [dc-twitter]: https://twitter.com/datacarpentry
-[dc]: {{ site.dc_site }}
+[dc]: <{{ site.dc_site }}>
 [lessons-learned]: http://f1000research.com/articles/3-62/v2
-[license]: {{ page.root }}/license/
-[scf-history]: {{ site.swc_site }}/scf/history/
-[scf]: {{ site.swc_site }}/scf/
-[swc-blog]: {{ site.swc_site }}/blog/
-[swc-github]: {{ site.swc_github }}/
-[swc-join]: {{ site.swc_site }}/join/
-[swc-lessons]: {{ site.swc_site }}/lessons/
-[swc-operations]: {{ site.swc_site }}/workshops/operations/
-[swc-request]: {{ site.swc_site}}/workshops/request/
-[swc-steering-committee]: {{ site.swc_site }}/scf/
+[license]: <{{ page.root }}/license/>
+[scf-history]: <{{ site.swc_site }}/scf/history/>
+[scf]: <{{ site.swc_site }}/scf/>
+[swc-blog]: <{{ site.swc_site }}/blog/>
+[swc-github]: <{{ site.swc_github }}/>
+[swc-join]: <{{ site.swc_site }}/join/>
+[swc-lessons]: <{{ site.swc_site }}/lessons/>
+[swc-operations]: <{{ site.swc_site }}/workshops/operations/>
+[swc-request]: <{{ site.swc_site}}/workshops/request/>
+[swc-steering-committee]: <{{ site.swc_site }}/scf/>
 [swc-twitter]: https://twitter.com/swcarpentry
-[swc]: {{ site.swc_site }}
-[workshop-template]: {{ site.swc_github }}/workshop-template/
+[swc]: <{{ site.swc_site }}>
+[workshop-template]: <{{ site.swc_github }}/workshop-template/>
