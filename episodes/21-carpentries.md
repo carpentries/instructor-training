@@ -30,27 +30,27 @@ and on the final steps toward certification.
 
 ## History
 
-[Software Carpentry][swc] was co-founded in 1998 by Brent Gorda and
+[Software Carpentry]({{ site.swc_site }} ) was co-founded in 1998 by Brent Gorda and
 Greg Wilson, who identified a need for best practices training in
 research computing.  After several iterations, the current model of
 two-day workshops with a standard curriculum emerged in 2010-11.
 After intermediate support from various organizations, it became an
 independent non-profit organization called the [Software Carpentry
-Foundation][scf] (SCF) in 2015.  The SCF is now responsible for all
+Foundation]({{ site.swc_site }}/scf/) (SCF) in 2015.  The SCF is now responsible for all
 aspects of Software Carpentry's operations.
 
 > ## History Lesson
 >
 > For more on Software Carpentry's history,
 > and on what we've learned along the way,
-> see [this page][scf-history] on its website
-> or the paper "[Software Carpentry: Lessons Learned][lessons-learned]".
+> see [this page]({{ site.swc_site }}/scf/history/) on its website
+> or the paper "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)".
 {: .callout}
 
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry][dc] under the leadership of Tracy Teal.
+creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal.
 While separate, the two organization share many aspects of their operations,
 long-term goals, and community structure:
 
@@ -81,7 +81,7 @@ Its workshops are:
 ## Workshop Operations
 
 We have recorded what we've learned about writing workshops
-in an [operations guide][swc-operations]
+in an [operations guide]({{ site.swc_site }}/workshops/operations/)
 and a set of checklists (linked from that page)
 that describes what everyone involved in a workshop is expected to do and why.
 Questions, corrections, and additions are *very* welcome.
@@ -99,7 +99,7 @@ and eventually added to our operations guide.
 
 > ## How We Do Things
 >
-> Go to the [operations guide][swc-operations]
+> Go to the [operations guide]({{ site.swc_site }}/workshops/operations/)
 > and read the instructions for a regular instructor
 > and for a workshop host.
 > What situations might come up that these *don't* answer?
@@ -107,7 +107,7 @@ and eventually added to our operations guide.
 
 ### What Costs What?
 
-Quoting the [Software Carpentry workshop request page][swc-request]:
+Quoting the [Software Carpentry workshop request page]({{ site.swc_site}}/workshops/request/):
 
 > Our instructors are volunteers,
 > and so are not paid for their teaching,
@@ -144,7 +144,7 @@ Quoting the [Software Carpentry workshop request page][swc-request]:
 > Waivers are not required for self-organized workshops.
 {: .quotation}
 
-Quoting the [Data Carpentry workshops page][dc-request]:
+Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 
 > The cost of hosting a workshop is both the Workshop Administration Fee and travel expenses for the two instructors.
 >
@@ -166,7 +166,7 @@ Quoting the [Data Carpentry workshops page][dc-request]:
 ### Materials
 
 All of Software and Data Carpentry's lessons materials are freely available
-under a permissive [open license][license].
+under a permissive [open license]({{ page.root }}/license/).
 You may use them whenever and however you want,
 provided you cite the original source.
 
@@ -208,7 +208,7 @@ for details.
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website using
-[this template][workshop-template].
+[this template]({{ site.workshop_template }}).
 Once that has been created,
 the host or lead instructor sends its URL to
 the [workshop coordinator](mailto:{{ site.email }}),
@@ -217,7 +217,7 @@ The workshop will show up on our websites shortly thereafter.
 
 > ## Practice With SWC Infrastructure
 >
-> Go to the [workshop template repository][workshop-template] and follow the directions
+> Go to the [workshop template repository]({{ site.workshop_template }}) and follow the directions
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 
@@ -241,25 +241,25 @@ Please see the setup instructions in the workshop template for more details.
 There are several hubs of activity for the Software and Data Carpentry communities:
 
 *   Our websites are:
-    *   [Software Carpentry][swc]
-        *   [Blog][swc-blog]
-        *   [Get Involved][swc-join]
-    *   [Data Carpentry][dc]
-        *   [Blog][dc-blog]
-        *   [Get Involved][dc-join]
+    *   [Software Carpentry]({{ site.swc_site }})
+        *   [Blog]({{ site.swc_site }}/blog/)
+        *   [Get Involved]({{ site.swc_site }}/join/)
+    *   [Data Carpentry]({{ site.dc_site }})
+        *   [Blog]({{ site.dc_site }}/blog/)
+        *   [Get Involved]({{ site.dc_site }}/involved/)
 *   Our lessons are hosted on GitHub;
     contributions to them and discussion of changes happens via GitHub pull requests and issues,
     and the lessons are published using GitHub Pages.
     More details are given below.
-    *   [Data Carpentry on GitHub][dc-github]
-    *   [Software Carpentry on GitHub][swc-github]
+    *   [Data Carpentry on GitHub]({{ site.dc_github }})
+    *   [Software Carpentry on GitHub]({{ site.swc_github }})
 *   Both Software and Data Carpentry have public discussion lists
     that host everything from lively discussion on teaching practices
     to job postings and general announcements.
-*   Data Carpentry also has a [discussion forum][dc-forum].
+*   Data Carpentry also has a [discussion forum](http://discuss.datacarpentry.org/)
 *   And you can find us on Twitter:
-    *   [Software Carpentry on Twitter][swc-twitter]
-    *   [Data Carpentry on Twitter][dc-twitter]
+    *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
+    *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
 
 > ## Get Connected
 >
@@ -286,8 +286,8 @@ and improve the lessons via "bug fixes" as we go along.
 The lesson materials for Software and Data Carpentry
 are hosted on GitHub:
 
-*   [Data Carpentry on GitHub][dc-github]
-*   [Software Carpentry on GitHub][swc-github]
+*   [Data Carpentry on GitHub]({{ site.dc_github }})
+*   [Software Carpentry on GitHub]({{ site.swc_github }})
 
 and are developed collaboratively---in 2015 alone, almost 200 people
 made contributions to various lessons.  Each lesson is in a separate
@@ -359,7 +359,7 @@ to contribute best.
 ### Governance
 
 Software Carpentry is a democracy:
-its seven-member [Steering Committee][swc-steering-committee] is elected annually
+its seven-member [Steering Committee]({{ site.swc_site }}/scf/ ) is elected annually
 by and from its membership,
 which includes every instructor who has taught in the two years leading up to the election.
 The Steering Committee has final say on all strategic and financial decisions;
@@ -377,27 +377,3 @@ you are very welcome to put your name forward as a candidate.
 > How could you improve the questions?
 > What would you add, and what would you drop to make room?
 {: .challenge}
-
-[dc-blog]: {{ site.dc_site }}/blog/
-[dc-forum]: http://discuss.datacarpentry.org/
-[dc-github]: {{ site.dc_github }}
-[dc-join]: {{ site.dc_site }}/involved/
-[dc-lessons]: {{ site.dc_site }}/lessons/
-[dc-request]: {{ site.dc_site}}/workshops-host/
-[dc-submission-page]: {{ site.dc_site }}/instructor-checkout-exercises/
-[dc-twitter]: https://twitter.com/datacarpentry
-[dc]: {{ site.dc_site }}
-[lessons-learned]: http://f1000research.com/articles/3-62/v2
-[license]: {{ page.root }}/license/
-[scf-history]: {{ site.swc_site }}/scf/history/
-[scf]: {{ site.swc_site }}/scf/
-[swc-blog]: {{ site.swc_site }}/blog/
-[swc-github]: {{ site.swc_github }}/
-[swc-join]: {{ site.swc_site }}/join/
-[swc-lessons]: {{ site.swc_site }}/lessons/
-[swc-operations]: {{ site.swc_site }}/workshops/operations/
-[swc-request]: {{ site.swc_site}}/workshops/request/
-[swc-steering-committee]: {{ site.swc_site }}/scf/
-[swc-twitter]: https://twitter.com/swcarpentry
-[swc]: {{ site.swc_site }}
-[workshop-template]: {{ site.swc_github }}/workshop-template/
