@@ -427,11 +427,9 @@ Other Data Carpentry lessons are in the incubator stage.
 [amazon-myths]: http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/
 [amazon-slas]: http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/
 [amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
-[dc-github]: {{ site.dc_github }}
 [lesson-example]: https://github.com/swcarpentry/lesson-example
 [parnas-design-pdf]: http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf
 [parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
-[swc-github]: {{ site.swc_github }}/
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
