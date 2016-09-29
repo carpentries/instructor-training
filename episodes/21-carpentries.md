@@ -344,11 +344,12 @@ discussions on Github issues/pull requests or email discuss lists
  or serving on a committee.
 
 Here are some examples of ways that people have contributed to the community:
-* [This email thread](http://lists.software-carpentry.org/pipermail/discuss/2015-October/003396.html)
-is a good example of many instructors chiming in on a topic, resulting in a 
-[blog post](http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html), 
-summarizing the discussion. 
-* [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89)
+
+  * [This email thread](http://lists.software-carpentry.org/pipermail/discuss/2015-October/003396.html)
+is a good example of many instructors chiming in on a topic, resulting in a
+[blog post](http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html),
+summarizing the discussion.
+  * [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89)
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
