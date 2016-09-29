@@ -1,7 +1,7 @@
 ---
 title: "Afternoon Wrap-Up"
-teaching: 10
-exercises: 5
+teaching: 5
+exercises: 15
 questions:
 - "What have we learned?"
 objectives:
