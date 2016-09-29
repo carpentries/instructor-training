@@ -10,6 +10,26 @@ objectives:
 keypoints:
 - "Use 'one up, one down' to get wide-ranging feedback."
 ---
+
+> ## Reflecting on the Day
+> 
+> Before we wrap up for the day, take a moment to think over 
+> everything we covered today.  On a piece of paper, write 
+> down something that captures what you want to remember about 
+> the day.  The trainers won't look at this - it's just for you.  
+> 
+> If you don't know where to start, consider 
+> the following list for a starting point: 
+> 
+> * draw a concept map, connecting the material
+> * draw pictures or a comic depicting one of the day's concepts
+> * write an outline of the topics we covered
+> * write a paragraph or “journal” entry about your 
+> exeperience of the training today
+> * write down one thing that struck you the most
+>
+{: .challenge}
+
 As homework overnight,
 please read our [operations guide]({{ site.swc_site }}/workshops/operations/)
 and the checklists it links to.
