@@ -1,6 +1,6 @@
 ---
 title: "Terms"
-teaching: 10
+teaching: 15
 exercises: 0
 questions:
 - "How can we describe teaching and learning how to teach?"

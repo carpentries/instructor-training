@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
 start: true
-teaching: 8
-exercises: 2
+teaching: 10
+exercises: 5
 questions:
 - "Who is participating in this workshop and what do they know?"
 - "What will we cover (or not) in this workshop?"
