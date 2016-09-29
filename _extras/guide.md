@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructors' Guide"
+title: "Instructor Notes"
 permalink: /guide/
 ---
 ## Checklists
@@ -70,6 +70,7 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
+<<<<<<< HEAD
 ## Introduction
 
 To begin your class, the instructors should give a brief introduction
@@ -86,6 +87,7 @@ the very least, everyone should add their name to the Etherpad, but
 its also good for everyone at a given site to know who all is in the
 group.  Note: this can be done while setting up before the start of
 the class.
+
 
 ## Exercises
 
@@ -241,6 +243,103 @@ and have a rubric to follow.
     highlight a few of the things that could have been done differently.
     This will give everyone some confidence in how to handle these situations in the future.
 
+## The Big Picture
+
+In 2014,
+[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
+
+> If we had set out to alienate and antagonize the people we've been trying to reach,
+> we could scarcely have done it better.
+> This is how I feel,
+> looking back on the past few decades of environmental campaigning, including my own...
+>
+> Experimental work suggests that when fears are whipped up,
+> they trigger an instinctive survival response.
+> You suppress your concern for other people and focus on your own interests...
+> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
+{: .quotation}
+
+A lot of advocates for open science and reproducible research make the same mistake.
+They frighten people with talk of papers that have been retracted
+when they should talk about all the new science people could do
+if they weren't wasting hours trying to figure out
+how they created figure number three in the first place.
+
+We have found that we have more impact when we
+*emphasize how much more researchers can do when they are computationally competent*.
+We have also found it's importance for us to
+*emphasize that what we teach and how we teach it is based on the best available evidence*.
+We use live coding instead of slides because research shows that people learn more from doing than watching.
+Similarly,
+the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
+
+One final point to make in instructor training workshops is that
+*our greatest impact may be what we teach our instructors about teaching and collaborating*.
+As a species,
+we know as much about education as we do about public health,
+but since most university lecturers are self-taught teachers,
+they are completely unaware of this body of knowledge.
+At the same time,
+the massive, open collaboration that has made Wikipedia and open source software successful
+has never taken hold in teaching.
+Most university lecturers are still the sole creators and consumers of their lessons,
+which wastes time and impedes the spread of good ideas.
+Changing *that* could have more impact in the long run
+than anything to do with for loops and pull requests.
+
+## You Are Not Your Learners
+
+Discussion of the practical implications of learning concepts
+brings us to our next big idea:
+people learn best when they care about the topic <em>and</em> believe they can master it.
+Neither fact is particularly surprising,
+but their practical implications have a lot of impact on what we teach,
+and the order in which we teach it.
+
+First,
+most scientists don't actually want to program.
+They want to do scientific research,
+and programming is just a tax they have to pay along the way.
+They don't care how hash tables work,
+or even that hash tables exist;
+they just want to know how to process data faster.
+We therefore have to make sure that everything we teach is useful right away,
+and conversely that we don't teach anything just because it's "fundamental".
+
+Second,
+believing that something will be hard to learn is a self-fulfilling prophecy.
+This is why it's important not to say that something is easy:
+if someone who has been told that tries it,
+and it doesn't work,
+they are more likely to become discouraged.
+
+It's also why installing and configuring software is
+a much bigger problem for us than experienced programmers like to acknowledge.
+It isn't just the time we lose at the start of boot camps
+as we try to get a Unix shell working on Windows,
+or set up a version control client on some idiosyncratic Linux distribution.
+It isn't even the unfairness of asking students to debug things
+that depend on precisely the knowledge they have come to learn,
+but which they don't yet have.
+The real problem is that every such failure reinforces the belief that computing is hard,
+and that they'd have a better chance of making next Thursday's conference submission deadline
+if they kept doing things the way they always have.
+For these reasons,
+we have adopted a "teach most immediately useful first" approach
+described in [this episode]({{ page.root }}/19-motivation/).
+
+> ## Software Carpentry Is Not Computer Science
+>
+> Many of the foundational concepts of computer science,
+> such as computability,
+> inhabit the lower-right corner of the grid described above.
+> This does *not* mean that they aren't important,
+> or aren't worth learning,
+> but if our aim is to convince people that they can learn this stuff,
+> and that doing so will help them do more science faster,
+> they are less compelling than things like automating repetitive tasks.
+{: .callout}
+
 ## Logistics
 
 This course has been taught as a multi-week online class,
@@ -320,151 +419,6 @@ This was the first method we tried.
         but still not as good as a simple WordPress blog.
         In particular,
         it was hard to find things once there were more than a dozen homework categories.
-
-
-## The Big Picture
-
-In 2014,
-[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
-
-> If we had set out to alienate and antagonise the people we've been trying to reach,
-> we could scarcely have done it better.
-> This is how I feel,
-> looking back on the past few decades of environmental campaigning, including my own...
->
-> Experimental work suggests that when fears are whipped up,
-> they trigger an instinctive survival response.
-> You suppress your concern for other people and focus on your own interests...
-> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
-{: .quotation}
-
-A lot of advocates for open science and reproducible research make the same mistake.
-They frighten people with talk of papers that have been retracted
-when they should talk about all the new science people could do
-if they weren't wasting hours trying to figure out
-how they created figure number three in the first place.
-
-We have found that we have more impact when we
-*emphasize how much more researchers can do when they are computationally competent*.
-We have also found it's importance for us to
-*emphasize that what we teach and how we teach it is based on the best available evidence*.
-We use live coding instead of slides because research shows that people learn more from doing than watching.
-Similarly,
-the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
-
-One final point to make in instructor training workshops is that
-*our greatest impact may be what we teach our instructors about teaching and collaborating*.
-As a species,
-we know as much about education as we do about public health,
-but since most university lecturers are self-taught teachers,
-they are completely unaware of this body of knowledge.
-At the same time,
-the massive, open collaboration that has made Wikipedia and open source software successful
-has never taken hold in teaching.
-Most university lecturers are still the sole creators and consumers of their lessons,
-which wastes time and impedes the spread of good ideas.
-Changing *that* could have more impact in the long run
-than anything to do with for loops and pull requests.
-
-## Why We Go Slowly
-
-The transition from novice to competent practitioner is no more
-and no less than
-the construction of correct (enough) categories,
-i.e.,
-the construction of a new mental model of this new intellectual domain.
-The goal of education for novices is, therefore,
-to help them form the right categories.
-Until they've done that,
-trying to impart "mere information" just confuses them.
-
-This is one of the reasons software documentation is so often frustrating.
-Reference material is opaque to someone who doesn't know what they're looking for,
-such as a novice who doesn't yet have a mental map of the domain.
-On the other hand,
-tutorials meant to help people build such a map
-are too slow and too diffuse for people who already have one.
-It is possible to craft something that serves both communities,
-but it's often simpler to address their needs separately.
-
-As an example of this idea's practical implications,
-our introduction to the Unix shell only introduces 12 commands,
-and we usually spend two and a half hours working through it.
-Twelve and a half minutes per command may seem glacially slow,
-but that's because our real goal isn't to teach specific commands:
-it's to help learners construct the mental model and notional machine
-that these commands fit into.
-That model includes things like:
-
-*   Anything you repeat manually, you'll eventually get wrong
-    (so let the computer repeat things for you by using tab completion
-    and the `history` command).
-*   Lots of little tools, combined as needed, are more productive than
-    a handful of "kitchen sink" programs.
-    (This motivates the pipe-and-filter model.)
-
-These two example illustrate something else as well.
-Learning consists of more than "just" building mental models
-and pouring information into them;
-creating linkages between concepts and facts is as least as important.
-Telling people that they shouldn't repeat things,
-and that they should try to think in terms of little pieces loosely joined,
-both set the stage for discussing functions.
-Explicitly referring back to pipes and filters shell when introducing functions
-helps solidify both ideas.
-
-## You Are Not Your Learners
-
-Discussion of the practical implications of learning concepts
-brings us to our next big idea:
-people learn best when they care about the topic <em>and</em> believe they can master it.
-Neither fact is particularly surprising,
-but their practical implications have a lot of impact on what we teach,
-and the order in which we teach it.
-
-First,
-most scientists don't actually want to program.
-They want to do scientific research,
-and programming is just a tax they have to pay along the way.
-They don't care how hash tables work,
-or even that hash tables exist;
-they just want to know how to process data faster.
-We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
-
-Second,
-believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
-
-It's also why installing and configuring software is
-a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
-as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
-It isn't even the unfairness of asking students to debug things
-that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
-The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
-if they kept doing things the way they always have.
-For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
-
-> ## Software Carpentry Is Not Computer Science
->
-> Many of the foundational concepts of computer science,
-> such as computability,
-> inhabit the lower-right corner of the grid described above.
-> This does *not* mean that they aren't important,
-> or aren't worth learning,
-> but if our aim is to convince people that they can learn this stuff,
-> and that doing so will help them do more science faster,
-> they are less compelling than things like automating repetitive tasks.
-{: .callout}
 
 ## Testimonials
 
