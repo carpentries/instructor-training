@@ -52,7 +52,7 @@ and improve the content and delivery of the lesson materials.
 
 > ## Survey
 >
-> Complete this [five-minute post-workshop survey][survey].
+> Complete this [five-minute post-workshop survey]({{site.training_post_survey}}).
 {: .challenge}
 
 ## Thank You
@@ -62,4 +62,3 @@ We hope it was a valuable and enjoyable experience,
 and we look forward to your continued involvement in the Software and Data Carpentry community.
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
-[survey]: https://www.surveymonkey.com/r/post-instructor-training
