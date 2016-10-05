@@ -52,6 +52,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After the Event
 >
+> 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Recruit experienced instructors to lead group lesson discussions.
 > 1.  Schedule group lesson discussions.
