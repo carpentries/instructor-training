@@ -355,8 +355,8 @@ Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) 
 |Lesson|Site|Repository|Instructor guide|
 |------|----|----------|----------------|
 |The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
-|Version Control with Git|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
-|Programming with Python|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
+|Version Control with Git|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
+|Programming with Python|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
 |Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
 |R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
 {: table table-striped}
