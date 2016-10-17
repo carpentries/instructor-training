@@ -3,6 +3,8 @@ instructors-introduction
 
 Materials about Introductions in workshops for train the trainers
 
+Slides: [http://tracykteal.github.io/instructors-introduction/slides.html](http://tracykteal.github.io/instructors-introduction/slides.html)
+
 ## Setting the workshop environment
 
 Think back to courses or workshops you really liked or didn't like.
