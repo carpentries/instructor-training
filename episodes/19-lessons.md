@@ -328,18 +328,19 @@ It also ensures that learners don't face anything on the final exam that the cou
 > > ## Solution
 > > Reverse instructional design is *not* the same thing as "teaching to the test".
 > > When using RID, teachers set goals to aid in lesson design,
-> > and may not ever actually give the final exam that they wrote as a goal.
+> > and may never actually give the final exam that they wrote.
 > > In many school systems,
 > > on the other hand,
 > > an external authority defines assessment criteria for all learners,
 > > regardless of their individual situations,
 > > and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
-> > Green's *[Building a Better Teacher][amazon-babt]*
-> > focus on measurement with little (usually no) help for improving
-> > centralized, standardized testing is appealing (particularly to those with the power to set the tests),
-> > but as Scott pointed out in
-> > *[Seeing Like a State][amazon-slas]*,
-> > large organizations invariably prefer uniformity to productivity.
+> > Green's *[Building a Better Teacher][amazon-babt]* argues that this focus on measurement
+> > is appealing to those with the power to set the tests,
+> > but is unlikely to improve outcomes unless it is coupled with
+> > support for teachers to make improvements based on test outcomes.
+> > This is often missing,
+> > because as Scott pointed out in *[Seeing Like a State][amazon-slas]*,
+> > large organizations usually value uniformity over productivity. 
 > {: .solution}
 {: .discussion}
 
