@@ -113,8 +113,8 @@ The lessons you may submit to are:
 
 1.  For [Data Carpentry instructors]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)  
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)  
+    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
+    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
     *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
     *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
 2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/):
@@ -182,7 +182,7 @@ As you are reading, make notes about the following:
 The first two questions are intended to help you become more comfortable
 with our collaborative lesson development methods.
 The third and fourth question refer back to the instructor training course,
-and are meant to give you a chance to apply some of what you’ve learned to these specific lessons.
+and are meant to give you a chance to apply some of what you've learned to these specific lessons.
 
 During the session,
 you are expected to ask questions to show that you've thought about what you're going to teach
@@ -232,7 +232,7 @@ You may choose to do these two demonstrations in the same session or on separate
 
 If you want to do your demonstration(s) in a language other than English,
 please let us know in advance so that we can attempt to find someone to moderate.
-We may not be able to accomodate all languages.
+We may not be able to accommodate all languages.
 
 For your teaching demonstration, you will teach a short segment from your chosen lesson(s).
 We will pick the segment of the lesson(s) you are to teach

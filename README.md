@@ -7,10 +7,32 @@ Please see <https://swcarpentry.github.io/instructor-training/> for a rendered v
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
-Maintainer(s):
+**Maintainer(s):**
 
 * [Christina Koch][koch_christina]
 * [Greg Wilson][wilson_greg]
+
+**Trainers (and trainers-in-training):**
+
+*   Erin Becker (United States)
+*   Karen Cranston (United States)
+*   Steve Crouch (United Kingdom)
+*   Neal Davis (United States)
+*   Rayna Harris (United States)
+*   Christina Koch (United States)
+*   Mateusz Kuzak (Netherlands)
+*   Karin Lagesen (Norway)
+*   Sue McClatchy (United States)
+*   Lex Nederbragt (Norway)
+*   Aleksandra Pawlik (New Zealand)
+*   Ariel Rokem (United States)
+*   Tracy Teal (United States)
+*   Fiona Tweedie (Australia)
+*   Anelda van der Walt (South Africa)
+*   Allegra Via (Italy)
+*   Alistair Walsh (Australia)
+*   Belinda Weaver (Australia)
+*   Greg Wilson (Canada)
 
 [dc-site]: http://datacarpentry.org
 [lesson-example]: https://swcarpentry.github.io/lesson-example
