@@ -32,7 +32,7 @@ which summarizes what we have learned over 18 years of teaching basic computing 
 > already been said.  This requirement forces people to say things they
 > otherwise might not: once all the "safe" feedback has been given,
 > participants will start saying what they really think. The instructor
-> writes down the feedback in the etherpad or a text editor,
+> writes down the feedback in the Etherpad or a text editor,
 > but is not supposed to comment on the feedback while collecting it.
 >
 > When called upon by the instructor, add one positive or one negative
