@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructors' Guide"
+title: "Instructor Notes"
 permalink: /guide/
 ---
 ## Checklists
@@ -52,6 +52,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After the Event
 >
+> 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Recruit experienced instructors to lead group lesson discussions.
 > 1.  Schedule group lesson discussions.
@@ -75,7 +76,7 @@ and maintain consistency of curriculum and standards.
 In 2014,
 [George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
 
-> If we had set out to alienate and antagonise the people we've been trying to reach,
+> If we had set out to alienate and antagonize the people we've been trying to reach,
 > we could scarcely have done it better.
 > This is how I feel,
 > looking back on the past few decades of environmental campaigning, including my own...

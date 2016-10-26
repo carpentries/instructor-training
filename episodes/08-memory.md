@@ -97,7 +97,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > Experts often betray their blind spot by using the word "just" in explanations,
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
-> and then you just re-write your entire program in a pure functional style --- no problem."
+> and then you just re-write your entire program in a pure functional style---no problem."
 > As [we discuss later]({{ page.root }}/19-motivation/),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
@@ -308,8 +308,8 @@ our home address,
 and what the clown did at our eighth birthday party that scared us so much.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
-but it is slow to access ---
-too slow to help us handle hungry lions and disgruntled family members.
+but it is slow to access---too slow
+to help us handle hungry lions and disgruntled family members.
 
 Evolution has therefore given us a second system called *short-term* or *working memory*.
 It is much faster,

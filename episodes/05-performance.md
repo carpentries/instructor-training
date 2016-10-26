@@ -73,8 +73,8 @@ What was worse:
 
 > The teachers described lessons they gave and things students said,
 > but they did not *see* the practices.
-> When it came to observing actual lessons --- watching each other teach ---
-> they simply had no opportunity...
+> When it came to observing actual lessons---watching each other teach---they
+> simply had no opportunity...
 > They had, he realized, no *jugyokenkyu*.
 > Translated literally as "lesson study",
 > *jugyokenkyu* is a bucket of practices that Japanese teachers use to hone their craft,
@@ -103,8 +103,8 @@ So what does *jugyokenkyu* look like in practice?
 > the one you planned and the four you did not...
 > and you had to do it right under your master teacher's nose.
 > Afterward,
-> everyone --- the teacher, the college students, and sometimes even another outside observer ---
-> would sit around a formal table to talk about what they saw.
+> everyone---the teacher, the college students, and sometimes even another outside observer---would
+> sit around a formal table to talk about what they saw.
 >
 > [Trainees] stayed in...class until the students left at 3:00 pm,
 > and they didn't leave the school until they'd finished discussing the day's events,
@@ -274,38 +274,39 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 
 ![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
-Feedback is most effective when the people involved 
-can share ground rules and expectations.  This is especially important 
-when the instructor and/or students have different cultural or 
-domain expectations about feedback.  
+Feedback is most effective when the people involved
+can share ground rules and expectations.  This is especially important
+when the instructor and/or students have different cultural or
+domain expectations about feedback.
 
-Here is a list of different 
+Here is a list of different
 ways that you, as the instructor, can set the stage for receiving feedback
 in a way that helps you improve:
 
-* Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
+*   Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
-* Choose your own questions and ask for specific feedback.  For example: 
-	* "What is one thing I could have done as an instructor to make this lesson more
-  effective?"  
-	* "If you could pick one thing from the lesson to go over again, what 
+*   Choose your own questions and ask for specific feedback.  For example:
+    *   "What is one thing I could have done as an instructor to make this
+        lesson more effective?"
+    *   "If you could pick one thing from the lesson to go over again, what
 	would it be?"
-Specific feedback like this is more useful than a generic "that was great!" or "that 
-was terrible!"  Also, writing your own feedback questions allows you to frame 
-feedback in a way that is helpful to you - the questions above 
-reveal what didn't work in your teaching, but 
-read as professional suggestions rather than personal judgments.  
+
+Specific feedback like this is more useful than a generic "that was great!" or "that
+was terrible!"  Also, writing your own feedback questions allows you to frame
+feedback in a way that is helpful to you - the questions above
+reveal what didn't work in your teaching, but
+read as professional suggestions rather than personal judgments.
 
 * Communicate expectations. If your teaching feedback is taking the form of an
   observation (and you're comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* Balance positive and negative feedback. 
+* Balance positive and negative feedback.
     * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * Ask for both types of feedback
-    
+
 * Use a feedback translator.  Have a fellow
-  instructor (or other trusted person in the room) read over all the feedback and give 
+  instructor (or other trusted person in the room) read over all the feedback and give
   an executive summary.   It can be easier to hear "It sounds like most people
   are following, so you could speed up" than to read several notes all saying, "this is
   too slow" or "this is boring".
@@ -320,7 +321,7 @@ in the room.
 
 Finally, be kind to yourself.
 Mental habits matter: if you're a self-critical person,
-it's okay to remind yourself that: 
+it's OK to remind yourself that:
 
 *   It's not personal.
 *   Look at the positives along with the negatives.

@@ -19,6 +19,9 @@ keypoints:
 - "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 
+We'll now get started with our first round of learning some theory, how it
+relates to Software and Data Carpentry, and putting that theory into practice.
+
 ## Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a mental model of the domain,
@@ -313,8 +316,8 @@ in which you were going to explain something that your learners already know.
 > Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
 > Despite this,
 > we usually do not use it in our workshops because
-> it takes people time to learn a new way to learn ---
-> time that we don't have in our compressed two-day format.
+> it takes people time to learn a new way to learn---time
+> that we don't have in our compressed two-day format.
 {: .callout}
 
 > ## Modeling Novice Mental Models
@@ -355,8 +358,7 @@ in which you were going to explain something that your learners already know.
 Designing an MCQ with plausible distractors is useful
 even if it is never used in class
 because it forces the instructor to think about the learners' mental models
-and how they might be broken ---
-in short,
+and how they might be broken---in short,
 to put themselves into the learners' heads
 and see the topic from their point of view.
 
