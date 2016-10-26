@@ -1,6 +1,6 @@
 ---
 title: "Motivation and Demotivation"
-teaching: 20
+teaching: 30
 exercises: 25
 questions:
 - "What motivates and demotivates learners and instructors?"
@@ -114,7 +114,7 @@ to make sure they're doing at least a few of these things.
 > Or, use Rayna's personal story, which goes like this:
 > In the Unix lesson, we use a haiku to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how they can use it in their research.
-> After the grep lesson, I show a one liner that combines head, grep, sort, and uniq
+> After the grep lesson, I show a one liner that combines `head`, `grep`, `sort`, and `uniq`
 >  to produce a ranked list of the most abundant sequences.
 > I emphasize that the students just learned each of the pieces
 > (see <https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners>).

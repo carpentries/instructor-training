@@ -40,20 +40,19 @@ participants will start saying what they really think.
 the alternating up-and-down feedback is not.
 Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 
-> ## One Up, One Down
->
-> Provide one up, one down feedback on the entire two-day course.
-{: .challenge}
+## One Up, One Down
+
+Provide one up, one down feedback on the entire two-day course.
 
 Just as in our regular workshops,
 we collect post-instructor-training-workshop feedback.
 Your participation will help us evaluate the efficacy of this training
 and improve the content and delivery of the lesson materials.
 
-> ## Survey
->
-> Complete this [five-minute post-workshop survey][survey].
-{: .challenge}
+## Post Workshop Surveys
+
+Assessment is very important to us! Please take 5 minutes to complete this [five-minute post-workshop survey]({{site.training_post_survey}}).
+
 
 ## Thank You
 
@@ -62,4 +61,3 @@ We hope it was a valuable and enjoyable experience,
 and we look forward to your continued involvement in the Software and Data Carpentry community.
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
-[survey]: https://www.surveymonkey.com/r/post-instructor-training
