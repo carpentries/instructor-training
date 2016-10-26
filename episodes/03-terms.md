@@ -68,8 +68,8 @@ to drive *how* we teach the specific content associated with the community of pr
 
 > ## Other Perspectives
 >
-> There are many other perspectives outside cognitivist theory ---
-> see [this site][learning-theories] for summaries.
+> There are many other perspectives outside cognitivist theory---see
+> [this site][learning-theories] for summaries.
 > Besides cognitivism,
 > those encountered most frequently include *behaviorism*
 > (which treats education as stimulus/response conditioning),
@@ -149,17 +149,16 @@ This is not the only myth to plague education.
 The learning pyramid that shows we remember 10% of what we read,
 20% of what we hear,
 and so on?
-Myth.
+[Myth][amazon-myths].
 The idea that "brain games" can improve our intelligence,
 or at least slow its decline in old age?
-Also a myth,
+[Also a myth][amazon-myths],
 as are the claims that the Internet is making us dumber
 or that young people read less than they used to.
 
 Computing education has its own myths.
 Mark Guzdial's "[Top 10 Myths About Teaching Computer Science]({{ page.root }}/files/papers/guzdial-10-myths-2015.pdf)"
-(mentioned earlier)
-lists ten:
+are:
 
 <ol>
   <li value="10">The lack of women in Computer Science is just like all the other STEM fields.</li>
@@ -174,7 +173,7 @@ lists ten:
   <li value="1">Some people are just born to program.</li>
 </ol>
 
-The last of these --- the idea that there is a "geek gene" --- is as pervasive as it is damaging.
+The last of these---the idea that there is a "geek gene"---is as pervasive as it is damaging.
 Elizabeth Patitsas and others have shown that,
 contrary to a widely-held belief,
 [grades in computing classes are *not* bimodal][patitsas-bimodal],

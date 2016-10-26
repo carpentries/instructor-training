@@ -74,7 +74,7 @@ Its workshops are:
 *   intended for people who need to program more effectively to solve their
     computational challenges,
 *   not domain-specific, and
-*   modular --- each Software Carpentry lesson is standalone.
+*   modular---each Software Carpentry lesson is standalone.
 
 ![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
 
