@@ -71,229 +71,23 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
-## The Big Picture
+## Introduction
 
-In 2014,
-[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
+To begin your class, the instructors should give a brief introduction
+that will convey their capacity to teach the material,
+accessibility/approachability, desire for student success, and
+enthusiasm.  Tailor your introduction to the students’ skill level so
+that you convey competence (without seeming too advanced) and
+demonstrate that you can relate to the students.  Throughout the
+workshop, continually demonstrate that you are interested in student
+progress and that you are enthusiastic about the topics.
 
-> If we had set out to alienate and antagonize the people we've been trying to reach,
-> we could scarcely have done it better.
-> This is how I feel,
-> looking back on the past few decades of environmental campaigning, including my own...
->
-> Experimental work suggests that when fears are whipped up,
-> they trigger an instinctive survival response.
-> You suppress your concern for other people and focus on your own interests...
-> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
-{: .quotation}
+Students should also introduce themselves (preferably verbally).  At
+the very least, everyone should add their name to the Etherpad, but
+its also good for everyone at a given site to know who all is in the
+group.  Note: this can be done while setting up before the start of
+the class.
 
-A lot of advocates for open science and reproducible research make the same mistake.
-They frighten people with talk of papers that have been retracted
-when they should talk about all the new science people could do
-if they weren't wasting hours trying to figure out
-how they created figure number three in the first place.
-
-We have found that we have more impact when we
-*emphasize how much more researchers can do when they are computationally competent*.
-We have also found it's importance for us to
-*emphasize that what we teach and how we teach it is based on the best available evidence*.
-We use live coding instead of slides because research shows that people learn more from doing than watching.
-Similarly,
-the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
-
-One final point to make in instructor training workshops is that
-*our greatest impact may be what we teach our instructors about teaching and collaborating*.
-As a species,
-we know as much about education as we do about public health,
-but since most university lecturers are self-taught teachers,
-they are completely unaware of this body of knowledge.
-At the same time,
-the massive, open collaboration that has made Wikipedia and open source software successful
-has never taken hold in teaching.
-Most university lecturers are still the sole creators and consumers of their lessons,
-which wastes time and impedes the spread of good ideas.
-Changing *that* could have more impact in the long run
-than anything to do with for loops and pull requests.
-
-## Logistics
-
-This course has been taught as a multi-week online class,
-as a two-day in-person class,
-and as a two-day class in which the learners are in co-located groups
-and the instructor participates remotely.
-
-### Multi-Week Online
-
-This was the first method we tried.
-
-*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' time zones
-    and because video conferencing systems can't handle 60+ people at once.
-    Each meeting also uses an Etherpad for shared note-taking,
-    and more importantly for asking and answering questions:
-    having several dozen people try to talk on a call hasn't worked,
-    so in most sessions,
-    the instructor does the talking
-    and learners respond through the Etherpad chat.
-
-*   Learners post homework online, then comment on each other's work.
-    *   We used a WordPress blog for the first ten rounds of training.
-        People found writing and commenting on posts straightforward,
-        but setting up dozens of logins was tedious.
-    *   We tried a GitHub-backed blog in the Winter 2015 class.
-        It didn't work nearly as well:
-        a third of the participants found it extremely frustrating,
-        and post-publication commentary was awkward.
-    *   We tried Piazza in the Fall 2015 class.
-        It was better than GitHub,
-        but still not as good as a simple WordPress blog.
-        In particular,
-        it was hard to find things once there were more than a dozen homework categories.
-
-### Two-Day In-Person
-
-This was the second method we tried.
-The biggest change was the introduction of recorded teaching exercises.
-
-*   Several times during the training,
-    participants are divided into groups of three
-    and asked to teach a short lesson (typically 2-3 minutes long).
-    In turn,
-    one person is the teacher, one the audience, and one the videographer,
-    who records the teacher using a handheld device such as a phone.
-    Group members then rotate roles:
-    the teacher becomes the listener, the listener records, and the videographer teaches.
-    Once all three have finished teaching,
-    the group reviews all three videos,
-    and everyone gives feedback on everyone (including themselves).
-    This feedback then goes into the Etherpad for discussion.
-
-*   It's important to record all three videos and then watch all three:
-    if the cycle is teach-review-teach-review,
-    the last person to teach runs out of time.
-    Doing all the reviewing after all the teaching
-    also helps put a bit of distance between the teaching and the reviewing,
-    which makes the exercise slightly less excruciating.
-
-*   This exercise only works if there are breakout rooms available:
-    if everyone is trying to record in the same room,
-    the audio cross-talk makes the recordings unintelligible.
-
-*   We use Etherpad for in-person training,
-    both for note-taking and for posting exercise solutions and feedback on recorded lessons
-    Questions and discussion are done aloud.
-
-### Two-Day Online With Groups
-
-*   We use Google Hangouts and Etherpad as in the multi-week version.
-    Each group of learners is together in a room using one camera and microphone,
-    rather than each being on the call separately.
-    We have found that having good audio matters more than having good video,
-    and that the better the audio,
-    the more learners can communicate with the instructor and other rooms by voice
-    rather than by using the Etherpad chat.
-
-*   We do the video lecture exercise as in the two-day in-person training.
-
-## Why We Go Slowly
-
-The transition from novice to competent practitioner is no more
-and no less than
-the construction of correct (enough) categories,
-i.e.,
-the construction of a new mental model of this new intellectual domain.
-The goal of education for novices is, therefore,
-to help them form the right categories.
-Until they've done that,
-trying to impart "mere information" just confuses them.
-
-This is one of the reasons software documentation is so often frustrating.
-Reference material is opaque to someone who doesn't know what they're looking for,
-such as a novice who doesn't yet have a mental map of the domain.
-On the other hand,
-tutorials meant to help people build such a map
-are too slow and too diffuse for people who already have one.
-It is possible to craft something that serves both communities,
-but it's often simpler to address their needs separately.
-
-As an example of this idea's practical implications,
-our introduction to the Unix shell only introduces 12 commands,
-and we usually spend two and a half hours working through it.
-Twelve and a half minutes per command may seem glacially slow,
-but that's because our real goal isn't to teach specific commands:
-it's to help learners construct the mental model and notional machine
-that these commands fit into.
-That model includes things like:
-
-*   Anything you repeat manually, you'll eventually get wrong
-    (so let the computer repeat things for you by using tab completion
-    and the `history` command).
-*   Lots of little tools, combined as needed, are more productive than
-    a handful of "kitchen sink" programs.
-    (This motivates the pipe-and-filter model.)
-
-These two example illustrate something else as well.
-Learning consists of more than "just" building mental models
-and pouring information into them;
-creating linkages between concepts and facts is as least as important.
-Telling people that they shouldn't repeat things,
-and that they should try to think in terms of little pieces loosely joined,
-both set the stage for discussing functions.
-Explicitly referring back to pipes and filters shell when introducing functions
-helps solidify both ideas.
-
-## You Are Not Your Learners
-
-Discussion of the practical implications of learning concepts
-brings us to our next big idea:
-people learn best when they care about the topic <em>and</em> believe they can master it.
-Neither fact is particularly surprising,
-but their practical implications have a lot of impact on what we teach,
-and the order in which we teach it.
-
-First,
-most scientists don't actually want to program.
-They want to do scientific research,
-and programming is just a tax they have to pay along the way.
-They don't care how hash tables work,
-or even that hash tables exist;
-they just want to know how to process data faster.
-We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
-
-Second,
-believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
-
-It's also why installing and configuring software is
-a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
-as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
-It isn't even the unfairness of asking students to debug things
-that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
-The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
-if they kept doing things the way they always have.
-For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
-
-> ## Software Carpentry Is Not Computer Science
->
-> Many of the foundational concepts of computer science,
-> such as computability,
-> inhabit the lower-right corner of the grid described above.
-> This does *not* mean that they aren't important,
-> or aren't worth learning,
-> but if our aim is to convince people that they can learn this stuff,
-> and that doing so will help them do more science faster,
-> they are less compelling than things like automating repetitive tasks.
-{: .callout}
 
 ## Exercises
 
@@ -449,43 +243,182 @@ and have a rubric to follow.
     highlight a few of the things that could have been done differently.
     This will give everyone some confidence in how to handle these situations in the future.
 
-## Running Discussion Sessions
+## The Big Picture
 
-The purpose of the discussion session is for students to ask questions
-about the lesson materials in preparation for their final checkout.
-The discussion lead's role is to give context to the lesson material,
-as each lesson goes through many revisions and discussions that cannot
-be easily seen in the finished product.
+In 2014,
+[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
 
-**Note:** trainees do **not** do their 5-minute demonstration lessons
-during the discussion sessions.  Instead, once they have completed the
-discussion to the leader's satisfaction, their names should be
-forwarded to their trainer so that the demonstration lesson can be
-scheduled.
+> If we had set out to alienate and antagonize the people we've been trying to reach,
+> we could scarcely have done it better.
+> This is how I feel,
+> looking back on the past few decades of environmental campaigning, including my own...
+>
+> Experimental work suggests that when fears are whipped up,
+> they trigger an instinctive survival response.
+> You suppress your concern for other people and focus on your own interests...
+> Terrify the living daylights out of people, and they will protect themselves at the expense of others...
+{: .quotation}
 
-*   Remind students that the Etherpad is a public, persistent document,
-    and that ideas and issues from the Etherpad may be used by the SCF.
+A lot of advocates for open science and reproducible research make the same mistake.
+They frighten people with talk of papers that have been retracted
+when they should talk about all the new science people could do
+if they weren't wasting hours trying to figure out
+how they created figure number three in the first place.
 
-*   Explain how the checkout procedure itself goes.
+We have found that we have more impact when we
+*emphasize how much more researchers can do when they are computationally competent*.
+We have also found it's importance for us to
+*emphasize that what we teach and how we teach it is based on the best available evidence*.
+We use live coding instead of slides because research shows that people learn more from doing than watching.
+Similarly,
+the tools we teach are ones that our instructors---who are active researchers themselves---use daily.
 
-*   Make sure that all know where the lesson material can be found.
-    Ensure that they all know about the instructor guide.
+One final point to make in instructor training workshops is that
+*our greatest impact may be what we teach our instructors about teaching and collaborating*.
+As a species,
+we know as much about education as we do about public health,
+but since most university lecturers are self-taught teachers,
+they are completely unaware of this body of knowledge.
+At the same time,
+the massive, open collaboration that has made Wikipedia and open source software successful
+has never taken hold in teaching.
+Most university lecturers are still the sole creators and consumers of their lessons,
+which wastes time and impedes the spread of good ideas.
+Changing *that* could have more impact in the long run
+than anything to do with for loops and pull requests.
 
-*   Discuss the fact that the lesson material is under continuous
-    development.  Tell the students that any and all changes to the
-    lesson material that might improve on it is welcome.  If anybody
-    has any comments on the material, they are very welcome.
+## You Are Not Your Learners
 
-*   It is important that we ensure that all of the participants get to
-    discuss their issues.  In cases where all participants are vocal,
-    a structured walkthrough may not be necessary.
+Discussion of the practical implications of learning concepts
+brings us to our next big idea:
+people learn best when they care about the topic <em>and</em> believe they can master it.
+Neither fact is particularly surprising,
+but their practical implications have a lot of impact on what we teach,
+and the order in which we teach it.
 
-*   If any of the participants seemed unprepared (e.g., had no
-    questions), send them an email after the session asking them to
-    sign up for another discussion session.
+First,
+most scientists don't actually want to program.
+They want to do scientific research,
+and programming is just a tax they have to pay along the way.
+They don't care how hash tables work,
+or even that hash tables exist;
+they just want to know how to process data faster.
+We therefore have to make sure that everything we teach is useful right away,
+and conversely that we don't teach anything just because it's "fundamental".
 
-*   Report to the trainers the people who were in your session, and
-    whether you deemed them ready to go forth to the checkout session.
+Second,
+believing that something will be hard to learn is a self-fulfilling prophecy.
+This is why it's important not to say that something is easy:
+if someone who has been told that tries it,
+and it doesn't work,
+they are more likely to become discouraged.
+
+It's also why installing and configuring software is
+a much bigger problem for us than experienced programmers like to acknowledge.
+It isn't just the time we lose at the start of boot camps
+as we try to get a Unix shell working on Windows,
+or set up a version control client on some idiosyncratic Linux distribution.
+It isn't even the unfairness of asking students to debug things
+that depend on precisely the knowledge they have come to learn,
+but which they don't yet have.
+The real problem is that every such failure reinforces the belief that computing is hard,
+and that they'd have a better chance of making next Thursday's conference submission deadline
+if they kept doing things the way they always have.
+For these reasons,
+we have adopted a "teach most immediately useful first" approach
+described in [this episode]({{ page.root }}/19-motivation/).
+
+> ## Software Carpentry Is Not Computer Science
+>
+> Many of the foundational concepts of computer science,
+> such as computability,
+> inhabit the lower-right corner of the grid described above.
+> This does *not* mean that they aren't important,
+> or aren't worth learning,
+> but if our aim is to convince people that they can learn this stuff,
+> and that doing so will help them do more science faster,
+> they are less compelling than things like automating repetitive tasks.
+{: .callout}
+
+## Logistics
+
+This course has been taught as a multi-week online class,
+as a two-day in-person class,
+and as a two-day class in which the learners are in co-located groups
+and the instructor participates remotely.
+
+### Two-Day In-Person (Currently used)
+
+This was the second method we tried.
+The biggest change was the introduction of recorded teaching exercises.
+
+*   Several times during the training,
+    participants are divided into groups of three
+    and asked to teach a short lesson (typically 2-3 minutes long).
+    In turn,
+    one person is the teacher, one the audience, and one the videographer,
+    who records the teacher using a handheld device such as a phone.
+    Group members then rotate roles:
+    the teacher becomes the listener, the listener records, and the videographer teaches.
+    Once all three have finished teaching,
+    the group reviews all three videos,
+    and everyone gives feedback on everyone (including themselves).
+    This feedback then goes into the Etherpad for discussion.
+
+*   It's important to record all three videos and then watch all three:
+    if the cycle is teach-review-teach-review,
+    the last person to teach runs out of time.
+    Doing all the reviewing after all the teaching
+    also helps put a bit of distance between the teaching and the reviewing,
+    which makes the exercise slightly less excruciating.
+
+*   This exercise only works if there are breakout rooms available:
+    if everyone is trying to record in the same room,
+    the audio cross-talk makes the recordings unintelligible.
+
+*   We use Etherpad for in-person training,
+    both for note-taking and for posting exercise solutions and feedback on recorded lessons
+    Questions and discussion are done aloud.
+
+### Two-Day Online With Groups (Currently used)
+
+*   We use Google Hangouts and Etherpad as in the multi-week version.
+    Each group of learners is together in a room using one camera and microphone,
+    rather than each being on the call separately.
+    We have found that having good audio matters more than having good video,
+    and that the better the audio,
+    the more learners can communicate with the instructor and other rooms by voice
+    rather than by using the Etherpad chat.
+
+*   We do the video lecture exercise as in the two-day in-person training.
+
+### Multi-Week Online (Retired)
+
+This was the first method we tried.
+
+*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
+    Each meeting is held twice (or even three times) to accommodate learners' time zones
+    and because video conferencing systems can't handle 60+ people at once.
+    Each meeting also uses an Etherpad for shared note-taking,
+    and more importantly for asking and answering questions:
+    having several dozen people try to talk on a call hasn't worked,
+    so in most sessions,
+    the instructor does the talking
+    and learners respond through the Etherpad chat.
+
+*   Learners post homework online, then comment on each other's work.
+    *   We used a WordPress blog for the first ten rounds of training.
+        People found writing and commenting on posts straightforward,
+        but setting up dozens of logins was tedious.
+    *   We tried a GitHub-backed blog in the Winter 2015 class.
+        It didn't work nearly as well:
+        a third of the participants found it extremely frustrating,
+        and post-publication commentary was awkward.
+    *   We tried Piazza in the Fall 2015 class.
+        It was better than GitHub,
+        but still not as good as a simple WordPress blog.
+        In particular,
+        it was hard to find things once there were more than a dozen homework categories.
 
 ## Testimonials
 
@@ -539,7 +472,13 @@ scheduled.
 
 > ## Christina Koch
 >
-> <img src="../fig/christinalk_whyiteach.png" alt="I love sharing ideas with people. The best moments in life, for me, are facilitating intellectual insights along with personal connections. Those moments are what build a community that continues living in hope and adventure, especially important in times of fear and division. I teach to make those moments possible for myself and for others.">
+> <img src="../fig/christinalk_whyiteach.png" alt="Tweet by realscientists.  Image of a little girl staring at a snake, with accompanying text 'That moment in the photo, the transition from OMG it's going to kill me to OMG this is cool! and I'm not afraid!' Retweeted by _christinaLK with the hashtag why i teach">
+>  
+> I love sharing ideas with people. The best moments in life, for me, are facilitating 
+> intellectual insights along with personal connections. Those moments are what build 
+> a community that continues living in hope and adventure, especially important in 
+> times of fear and division. I teach to make those moments possible for myself 
+> and for others.
 {: .testimonial}
 
 > ## Lex Nederbragt
