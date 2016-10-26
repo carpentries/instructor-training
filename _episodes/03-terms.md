@@ -76,7 +76,7 @@ to drive *how* we teach the specific content associated with the community of pr
 > *constructivism*
 > (which considers learning an active process during which learners construct knowledge for themselves),
 > and *connectivism*
-> (which emphasizes the social aspects of learning, particularly those made possible by the Internet).
+> (which emphasizes the social aspects of learning, particularly those made possible by the Internet; not to be confused with *connectionism* --- a cognitivist theory that explains learning as creating connections between concepts).
 {: .callout}
 
 ### Instructional Design
