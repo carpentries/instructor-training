@@ -84,10 +84,38 @@ Instead,
 our goal with novices is *to help them construct a working mental model*
 so that they have something to attach facts to.
 
-For example,
-Software Carpentry's [lesson on the Unix shell][swc-shell-novice]
-only introduces 15 commands in three hours.
-That seems very slow to someone who already understands how to use the command line,
+### Why We Go Slowly
+
+The transition from novice to competent practitioner is no more
+and no less than
+the construction of correct (enough) categories,
+i.e.,
+the construction of a new mental model of this new intellectual domain.
+The goal of education for novices is, therefore,
+to help them form the right categories.
+Until they've done that,
+trying to impart "mere information" just confuses them.
+
+> ## Manuals vs. Tutorials
+>
+> What's the difference between a manual and a tutorial?
+> (Think in terms of the differences between novices and competent practitioners.)
+> Can one document do a good job of being both?
+{: .discussion}
+
+This is one of the reasons software documentation is so often frustrating.
+Reference material is opaque to someone who doesn't know what they're looking for,
+such as a novice who doesn't yet have a mental map of the domain.
+On the other hand,
+tutorials meant to help people build such a map
+are too slow and too diffuse for people who already have one.
+It is possible to craft something that serves both communities,
+but it's often simpler to address their needs separately.
+
+As an example of this idea's practical implications,
+our [lesson on the Unix shell][swc-shell-novice] only introduces 12 commands,
+and we usually spend two and a half hours working through it.
+Twelve and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history,
 wildcards,
@@ -98,16 +126,28 @@ and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
-> ## Manuals vs. Tutorials
->
-> What's the difference between a manual and a tutorial?
-> (Think in terms of the differences between novices and competent practitioners.)
-> Can one document do a good job of being both?
-{: .discussion}
+That model also includes things like:
+
+*   Anything you repeat manually, you'll eventually get wrong
+    (so let the computer repeat things for you by using tab completion
+    and the `history` command).
+*   Lots of little tools, combined as needed, are more productive than
+    a handful of "kitchen sink" programs.
+    (This motivates the pipe-and-filter model.)
+
+These two examples illustrate something else as well.
+Learning consists of more than "just" building mental models
+and pouring information into them;
+creating linkages between concepts and facts is as least as important.
+Telling people that they shouldn't repeat things,
+and that they should try to think in terms of little pieces loosely joined,
+both set the stage for discussing functions.
+Explicitly referring back to pipes and filters shell when introducing functions
+helps solidify both ideas.
 
 > ## Different Kinds of Lessons
 >
-> The cognitive differences between novices and competent practitioners also underpin
+> The cognitive differences between novices and competent practitioners underpin
 > the differences between two kinds of teaching materials.
 > A tutorial's purpose is to help newcomers to a field build a mental model;
 > a manual's role, on the other hand, is to help competent practitioners fill in the gaps in their knowledge.
