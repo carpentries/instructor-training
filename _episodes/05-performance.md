@@ -73,8 +73,8 @@ What was worse:
 
 > The teachers described lessons they gave and things students said,
 > but they did not *see* the practices.
-> When it came to observing actual lessons --- watching each other teach ---
-> they simply had no opportunity...
+> When it came to observing actual lessons---watching each other teach---they
+> simply had no opportunity...
 > They had, he realized, no *jugyokenkyu*.
 > Translated literally as "lesson study",
 > *jugyokenkyu* is a bucket of practices that Japanese teachers use to hone their craft,
@@ -103,8 +103,8 @@ So what does *jugyokenkyu* look like in practice?
 > the one you planned and the four you did not...
 > and you had to do it right under your master teacher's nose.
 > Afterward,
-> everyone --- the teacher, the college students, and sometimes even another outside observer ---
-> would sit around a formal table to talk about what they saw.
+> everyone---the teacher, the college students, and sometimes even another outside observer---would
+> sit around a formal table to talk about what they saw.
 >
 > [Trainees] stayed in...class until the students left at 3:00 pm,
 > and they didn't leave the school until they'd finished discussing the day's events,
