@@ -133,8 +133,8 @@ separate facts.
 > "...deliberate practice explained 26% of the variance in performance for games,
 > 21% for music, 18% for sports, 4% for education, and less than 1% for professions."
 > One explanation for this variation is that
-> deliberate practice works best when the rules are very stable,
-> but is much less effective when they are fluid or nonexistent.
+> deliberate practice works best when the rules for evaluating success are very stable,
+> but is less effective when there are more factors at play.
 {: .callout}
 
 ## Concept Maps
