@@ -19,6 +19,9 @@ keypoints:
 - "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 
+We'll now get started with our first round of learning some theory, how it
+relates to Software and Data Carpentry, and putting that theory into practice.
+
 ## Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a mental model of the domain,
@@ -32,7 +35,7 @@ but the model does a good job of helping people reason about chemical compounds 
 >
 > What is your primary research domain?  What is one mental model you use to frame
 > and understand your work?
-{: .challenge}
+{: .discussion}
 
 One way to think about the difference between a novice and a "competent
 practitioner" is the existence of this big picture mental model.
@@ -60,7 +63,7 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ site.root }}/05-expertise/).
+    We will discuss expertise in more detail in [a later lesson]({{ page.root }}/08-memory/).
 
 We assume that most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our
@@ -81,10 +84,38 @@ Instead,
 our goal with novices is *to help them construct a working mental model*
 so that they have something to attach facts to.
 
-For example,
-Software Carpentry's [lesson on the Unix shell][swc-shell-novice]
-only introduces 15 commands in three hours.
-That seems very slow to someone who already understands how to use the command line,
+### Why We Go Slowly
+
+The transition from novice to competent practitioner is no more
+and no less than
+the construction of correct (enough) categories,
+i.e.,
+the construction of a new mental model of this new intellectual domain.
+The goal of education for novices is, therefore,
+to help them form the right categories.
+Until they've done that,
+trying to impart "mere information" just confuses them.
+
+> ## Manuals vs. Tutorials
+>
+> What's the difference between a manual and a tutorial?
+> (Think in terms of the differences between novices and competent practitioners.)
+> Can one document do a good job of being both?
+{: .discussion}
+
+This is one of the reasons software documentation is so often frustrating.
+Reference material is opaque to someone who doesn't know what they're looking for,
+such as a novice who doesn't yet have a mental map of the domain.
+On the other hand,
+tutorials meant to help people build such a map
+are too slow and too diffuse for people who already have one.
+It is possible to craft something that serves both communities,
+but it's often simpler to address their needs separately.
+
+As an example of this idea's practical implications,
+our [lesson on the Unix shell][swc-shell-novice] only introduces 12 commands,
+and we usually spend two and a half hours working through it.
+Twelve and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history,
 wildcards,
@@ -95,16 +126,28 @@ and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
-> ## Manuals vs. Tutorials
->
-> What's the difference between a manual and a tutorial?
-> (Think in terms of the differences between novices and competent practitioners.)
-> Can one document do a good job of being both?
-{: .challenge}
+That model also includes things like:
+
+*   Anything you repeat manually, you'll eventually get wrong
+    (so let the computer repeat things for you by using tab completion
+    and the `history` command).
+*   Lots of little tools, combined as needed, are more productive than
+    a handful of "kitchen sink" programs.
+    (This motivates the pipe-and-filter model.)
+
+These two examples illustrate something else as well.
+Learning consists of more than "just" building mental models
+and pouring information into them;
+creating linkages between concepts and facts is as least as important.
+Telling people that they shouldn't repeat things,
+and that they should try to think in terms of little pieces loosely joined,
+both set the stage for discussing functions.
+Explicitly referring back to pipes and filters shell when introducing functions
+helps solidify both ideas.
 
 > ## Different Kinds of Lessons
 >
-> The cognitive differences between novices and competent practitioners also underpin
+> The cognitive differences between novices and competent practitioners underpin
 > the differences between two kinds of teaching materials.
 > A tutorial's purpose is to help newcomers to a field build a mental model;
 > a manual's role, on the other hand, is to help competent practitioners fill in the gaps in their knowledge.
@@ -126,7 +169,7 @@ and without which people cannot understand how to use commands
 ## Building Useful Mental Models
 
 There are many "positive" strategies towards building mental models.  Analogies,
-stories, role-play, diagrams...all can be a way to represent a structure that
+stories, role-play, and diagrams are ways to represent a structure that
 can be used as a model.
 
 However, there's another, greater challenge to creating mental models.
@@ -227,7 +270,7 @@ but each of the other answers provides valuable insight.
 > ## Find the Bug
 >
 > What is the misconception associated with each wrong answer?
-{: .challenge}
+{: .discussion}
 
 > ## Solution
 >
@@ -254,7 +297,7 @@ what to explain to that particular learner next.
 > As the instructor, what should you do if most of the class votes for one
 > of the wrong answers?  For the right answer?  What if the votes are evenly
 > spread between options?
-{: .challenge}
+{: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
 and work on correcting that particular misconception.  If most of the class votes
@@ -266,7 +309,7 @@ Instructors should use MCQs
 or some other kind of formative assessment
 at least every 10-15 minutes
 in order to make sure that the class is actually learning.
-Since the average attention span is usually only this long, 
+Since the average attention span is usually only this long,
 formative assessments also help break up instructional time
 and re-focus attention.
 Formative assessments can also be used preemptively:
@@ -313,8 +356,8 @@ in which you were going to explain something that your learners already know.
 > Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
 > Despite this,
 > we usually do not use it in our workshops because
-> it takes people time to learn a new way to learn ---
-> time that we don't have in our compressed two-day format.
+> it takes people time to learn a new way to learn---time
+> that we don't have in our compressed two-day format.
 {: .callout}
 
 > ## Modeling Novice Mental Models
@@ -355,9 +398,8 @@ in which you were going to explain something that your learners already know.
 Designing an MCQ with plausible distractors is useful
 even if it is never used in class
 because it forces the instructor to think about the learners' mental models
-and how they might be broken ---
-in short,
-to put themselves into the learner's head
+and how they might be broken---in short,
+to put themselves into the learners' heads
 and see the topic from their point of view.
 
 > ## Why We Don't Assess During Registration
@@ -377,24 +419,12 @@ and see the topic from their point of view.
 > We were therefore scaring off many of the people we most wanted to help.
 {: .callout}
 
-> ## Confronting the Contradiction
->
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
-{: .challenge}
-
 > ## Other Kinds of Formative Assessment
 >
 > Describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
-{: .challenge}
-
-> ## Modeling Instruction
->
-> There have been many "models" of teaching/learning in the past.  What
-> model do you currently use (sub-consciously or consciously)?
-{: .challenge}
+{: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-benner]: http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/
