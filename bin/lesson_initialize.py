@@ -3,9 +3,9 @@
 """Initialize a newly-created repository."""
 
 
+from __future__ import print_function
 import sys
 import os
-
 
 ROOT_AUTHORS = '''\
 FIXME: list authors' names and email addresses.
@@ -63,18 +63,22 @@ and to meet some of our community members.
 
 ## Where to Contribute
 
-1.  If you wish to change this example lesson,
-    please work in <https://github.com/swcarpentry/lesson-example>.
-    This lesson documents the format of our lessons,
+1.  If you wish to change this lesson,
+    please work in <https://github.com/swcarpentry/FIXME>,
+    which can be viewed at <https://swcarpentry.github.io/FIXME>.
+
+2.  If you wish to change the example lesson,
+    please work in <https://github.com/swcarpentry/lesson-example>,
+    which documents the format of our lessons
     and can be viewed at <https://swcarpentry.github.io/lesson-example>.
 
-2.  If you wish to change the template used for workshop websites,
+3.  If you wish to change the template used for workshop websites,
     please work in <https://github.com/swcarpentry/workshop-template>.
     The home page of that repository explains how to set up workshop websites,
     while the extra pages in <https://swcarpentry.github.io/workshop-template>
     provide more background on our design choices.
 
-3.  If you wish to change CSS style files, tools,
+4.  If you wish to change CSS style files, tools,
     or HTML boilerplate for lessons or workshops stored in `_includes` or `_layouts`,
     please work in <https://github.com/swcarpentry/styles>.
 
@@ -159,8 +163,8 @@ You can also [reach us by email][contact].
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/swcarpentry/lesson-example/issues/
-[repo]: https://github.com/swcarpentry/lesson-example/
+[issues]: https://github.com/swcarpentry/FIXME/issues/
+[repo]: https://github.com/swcarpentry/FIXME/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
@@ -174,46 +178,42 @@ ROOT_CONFIG_YML = '''\
 # Which carpentry is this ("swc" or "dc")?
 carpentry: "swc"
 
-# What kind of thing is this ("workshop" or "lesson")?
-kind: "lesson"
-
 # Overall title for pages.
 title: "Lesson Title"
 
-# Repository URL (without trailing slash).
-repo: https://github.com/[USERNAME]/[LESSON-SLUG]
-
-# Root URL below username.github.io domain, with leading slash but no trailing slash.
-# For example, for 'https://swcarpentry.github.io/lesson-example', use '/lesson-example'.
-root: "/[LESSON-SLUG]"
-
 # Contact email address.
-email: "[[CONTACT-ADDRESS]]"
+email: lessons@software-carpentry.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
 
-# Is this production or development? (Overridden in _config_dev.yml.)
-is_production: true
+# What kind of thing is this ("workshop" or "lesson")?
+kind: "lesson"
+
+# Magic to make URLs resolve both locally and on GitHub.
+# See https://help.github.com/articles/repository-metadata-on-github-pages/.
+repository: <USERNAME>/<PROJECT>
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
-dc_site: "https://datacarpentry.org"
+dc_site: "http://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
+swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
+training_site: "https://swcarpentry.github.io/instructor-training"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
 post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
-# Start time in minutes (540 is 09:00 am)
-start_time: 540
+# Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
+start_time: 0
 
 # Specify that things in the episodes collection should be output.
 collections:
@@ -225,6 +225,8 @@ collections:
 
 # Set the default layout for things in the episodes collection.
 defaults:
+  - values:
+      root: ..
   - scope:
       path: ""
       type: episodes
@@ -243,6 +245,7 @@ highlighter: false
 ROOT_INDEX_MD = '''\
 ---
 layout: lesson
+root: .
 ---
 FIXME: home page introduction
 
@@ -255,6 +258,7 @@ FIXME: home page introduction
 ROOT_REFERENCE_MD = '''\
 ---
 layout: reference
+permalink: /reference/
 ---
 
 ## Glossary
@@ -315,7 +319,7 @@ permalink: /figures/
 EXTRAS_GUIDE_MD = '''\
 ---
 layout: page
-title: "Instructors' Guide"
+title: "Instructor Notes"
 permalink: /guide/
 ---
 FIXME

@@ -4,12 +4,12 @@
 docstrings on the checking functions for a summary of the checks.
 '''
 
+from __future__ import print_function
 import sys
 import os
 import re
 from datetime import date
-from util import Reporter, split_metadata
-
+from util import Reporter, split_metadata, load_yaml, check_unwanted_files
 
 # Metadata field patterns.
 EMAIL_PATTERN = r'[^@]+@[^@]+\.[^@]+'
@@ -400,6 +400,7 @@ def main():
 
     reporter = Reporter()
     check_config(reporter, config_file)
+    check_unwanted_files(root_dir, reporter)
     with open(index_file) as reader:
         data = reader.read()
         check_file(reporter, index_file, data)

@@ -14,7 +14,7 @@ keypoints:
 - "Can represent mental models using concept maps."
 - "Relationships are as important as concepts."
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
-- "Most adults can store 7&plusmn;2 items in short-term memory for a few seconds before loss."
+- "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
 - "Things seen together repeatedly are remembered (or mis-remembered) in chunks."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
 - "Lesson episodes should not overload short-term memory."
@@ -25,7 +25,7 @@ describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-An [earlier topic]({{ site.root }}/03-models/) described the key difference between novices and competent practitioners.
+An [earlier topic]({{ page.root }}/03-novice/) described the key difference between novices and competent practitioners.
 What makes experts different from either?
 The answer is not that they know more facts:
 competent practitioners can memorize a lot of trivia
@@ -69,16 +69,19 @@ This metaphor helps explain many observed aspects of expert behavior:
     It can be overcome with training,
     but it's part of why world-famous researchers are often poor lecturers.
 
-    *The local driver will know from long experience that the bridge is under construction, or that
-    there's always a train at 3:00 - knowledge not available to the out-of-towner, even
-    on their map.*
+    *The local driver will forget to tell the out-of-towner that the
+    bridge is under construction, or that there's always a train at
+    3:00, because it has been like that for years.  The local driver
+    will tell the out-of-towner to turn "where the gas station used to
+    be".*
 
 3.  Densely-connected knowledge graphs also explains *fluid representations*,
     e.g.,
     expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
 
-    *The local driver probably can use either the names of streets *or* landmarks when giving
-    directions.  The out-of-towner only has street labels.*
+    *The local driver probably can use either the names of streets*
+    or
+    *landmarks when giving directions. The out-of-towner only has street labels.*
 
 4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
     more linkages between facts makes it easier to reason backward from symptoms to causes.
@@ -94,8 +97,8 @@ This metaphor helps explain many observed aspects of expert behavior:
 > Experts often betray their blind spot by using the word "just" in explanations,
 > as in, "Oh, it's easy, you just fire up a new virtual machine
 > and then you just install these four patches to Ubuntu
-> and then you just re-write your entire program in a pure functional style --- no problem."
-> As [we discuss later]({{ site.root }}/18-motivation/),
+> and then you just re-write your entire program in a pure functional style---no problem."
+> As [we discuss later]({{ page.root }}/19-motivation/),
 > the J word (also sometimes called the passive dismissive adjective)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
@@ -112,6 +115,27 @@ the more connections a fact has to other facts,
 the more likely the fact is to be remembered.  This builds on our earlier idea
 of mental models - a mental model is a way to facilitate making connections between
 separate facts.
+
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> First,
+> practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+>
+> Second,
+> a [meta-study in 2014][macnamara-practice] found that
+> "...deliberate practice explained 26% of the variance in performance for games,
+> 21% for music, 18% for sports, 4% for education, and less than 1% for professions."
+> One explanation for this variation is that
+> deliberate practice works best when the rules for evaluating success are very stable,
+> but is less effective when there are more factors at play.
+{: .callout}
 
 ## Concept Maps
 
@@ -132,7 +156,7 @@ concept maps help spark and focus discussion.
 > Concept maps are just one way to represent our understanding of a subject.
 > Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
 > For example,
-> [this diagram]({{ site.root }}/fig/05/choosing-a-good-chart-09.pdf)
+> [this diagram]({{ page.root }}/files/choosing-a-good-chart-09.pdf)
 > (taken from [a blog post][abela-presentation] by Andrew Abela)
 > is an excellent way to organize and present an understanding of how to choose
 > the right kinds of chart for displaying different kinds of data.
@@ -149,7 +173,7 @@ for ch in "abc":
 
 The three key concepts used in this loop are:
 
-![Key Concepts]({{ site.root }}/fig/05/for-loop-concepts.png)
+![Key Concepts](../fig/for-loop-concepts.png)
 
 (In this case it's easy to connect the concepts to concrete elements in the program,
 but that may not always be the case.)
@@ -157,26 +181,26 @@ The key relationships,
 which are as important as the concepts themselves,
 are:
 
-![Relationships]({{ site.root }}/fig/05/for-loop-arcs.png)
+![Relationships](../fig/for-loop-arcs.png)
 
 A quick count shows that there are actually 6 things here,
 not just 3,
 so we're already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
-![Recommendations]({{ site.root }}/fig/05/for-loop-rec.png)
+![Recommendations](../fig/for-loop-rec.png)
 
 the count rises to 8,
 which is a good size for a single teaching episode.
 A few other concept maps drawn by previous participants in this training course
 are listed below:
 
-* [Array Math]({{ site.root }}/fig/05/array-math.png)
-* [Conditionals]({{ site.root }}/fig/05/conditionals.png)
-* [Creating and Destroying Files]({{ site.root }}/fig/05/create-destroy.png)
-* [Sets and Dictionaries in Python]({{ site.root }}/fig/05/dict-set.png)
-* [Input and Output]({{ site.root }}/fig/05/io.png)
-* [Lists and Loops]({{ site.root }}/fig/05/lists-loops.png)
+* [Array Math](../fig/array-math.png)
+* [Conditionals](../fig/conditionals.png)
+* [Creating and Destroying Files](../fig/create-destroy.png)
+* [Sets and Dictionaries in Python](../fig/dict-set.png)
+* [Input and Output](../fig/io.png)
+* [Lists and Loops](../fig/lists-loops.png)
 
 Most of these are larger than our recommended limit,
 but that's not necessarily a bad thing:
@@ -284,15 +308,15 @@ our home address,
 and what the clown did at our eighth birthday party that scared us so much.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
-but it is slow to access ---
-too slow to help us handle hungry lions and disgruntled family members.
+but it is slow to access---too slow
+to help us handle hungry lions and disgruntled family members.
 
 Evolution has therefore given us a second system called *short-term* or *working memory*.
 It is much faster,
 but also much smaller:
 in 1956,
 Miller estimated that the average adult's working memory could hold
-[7&plusmn;2 items][wikipedia-7]
+[7±2 items][wikipedia-7]
 for a few seconds
 before things started to drop out.
 This is why phone numbers are typically 7 or 8 digits long:
@@ -323,7 +347,7 @@ together form the
 > see it as something it isn't.
 {: .callout}
 
-7&plusmn;2 is probably the most important number in programming.
+7±2 is probably the most important number in programming.
 When someone is trying to write the next line of a program,
 or understand what's already there,
 she needs to keep a bunch of arbitrary facts straight in her head:
@@ -334,7 +358,7 @@ If the number of facts grows too large,
 her mental model of the program comes crashing down
 (something we have all experienced).
 
-7&plusmn;2 is also the most important number in teaching.
+7±2 is also the most important number in teaching.
 An instructor cannot push information directly into a learner's long-term memory.
 Instead,
 whatever she presents is first represented in the learner's short-term memory,
@@ -349,6 +373,7 @@ separate information will need to be "stored" in memory as part of the lesson.
 
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
+[macnamara-practice]: http://pss.sagepub.com/content/25/8/1608
 [memory-test]: http://cat.xula.edu/thinker/memory/working/serial
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [wikipedia-serial-position]: https://en.wikipedia.org/wiki/Serial_position_effect

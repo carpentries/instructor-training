@@ -1,5 +1,6 @@
 ---
 layout: lesson
+root: .
 ---
 
 Over the last hundred years,
@@ -18,13 +19,15 @@ This two-day class has two goals:
     and procedures of both organizations
     in order to prepare them to teach at Software and Data Carpentry workshops.
 
-The content addressing these goals is linked in the schedule below.
+*Please fill in [this form][application-form] if you wish to take part in this course.
+Priority is given to members of our partner organizations,
+but we run several open-enrolment classes each year as well.*
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
-and [some short follow-up exercises online]({{ site.root }}/checkout/)
+and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
@@ -44,6 +47,7 @@ on the Github repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-[conduct]: {{ site.root }}/conduct/
-[license]: {{ site.root }}/license/
+[application-form]: https://amy.software-carpentry.org/workshops/request_training/
+[conduct]: {{ page.root }}/conduct/
+[license]: {{ page.root }}/license/
 [issues]: {{ site.github.repository_url }}/issues

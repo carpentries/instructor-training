@@ -4,6 +4,7 @@
 Check lesson files and their contents.
 """
 
+from __future__ import print_function
 import sys
 import os
 import glob
@@ -11,7 +12,7 @@ import json
 import re
 from optparse import OptionParser
 
-from util import Reporter, read_markdown
+from util import Reporter, read_markdown, load_yaml, check_unwanted_files, require, IMAGE_FILE_SUFFIX
 
 __version__ = '0.2'
 
@@ -40,6 +41,15 @@ REQUIRED_FILES = {
 # Episode filename pattern.
 P_EPISODE_FILENAME = re.compile(r'/_episodes/(\d\d)-[-\w]+.md$')
 
+# Pattern to match lines ending with whitespace.
+P_TRAILING_WHITESPACE = re.compile(r'\s+$')
+
+# Pattern to match figure references in HTML.
+P_FIGURE_REFS = re.compile(r'<img[^>]+src="([^"]+)"[^>]*>')
+
+# Pattern to match internally-defined Markdown links.
+P_INTERNALLY_DEFINED_LINK = re.compile(r'\[[^\]]+\]\[[^\]]+\]')
+
 # What kinds of blockquotes are allowed?
 KNOWN_BLOCKQUOTES = {
     'callout',
@@ -61,6 +71,7 @@ KNOWN_CODEBLOCKS = {
     'source',
     'bash',
     'make',
+    'matlab',
     'python',
     'r',
     'sql'
@@ -94,9 +105,11 @@ def main():
     check_config(args.reporter, args.source_dir)
     docs = read_all_markdown(args.source_dir, args.parser)
     check_fileset(args.source_dir, args.reporter, docs.keys())
+    check_unwanted_files(args.source_dir, args.reporter)
     for filename in docs.keys():
         checker = create_checker(args, filename, docs[filename])
         checker.check()
+    check_figures(args.source_dir, args.reporter)
     args.reporter.report()
 
 
@@ -106,7 +119,8 @@ def parse_args():
     parser = OptionParser()
     parser.add_option('-l', '--linelen',
                       default=False,
-                      dest='line_len',
+                      action="store_true",
+                      dest='line_lengths',
                       help='Check line lengths')
     parser.add_option('-p', '--parser',
                       default=None,
@@ -116,6 +130,11 @@ def parse_args():
                       default=os.curdir,
                       dest='source_dir',
                       help='source directory')
+    parser.add_option('-w', '--whitespace',
+                      default=False,
+                      action="store_true",
+                      dest='trailing_whitespace',
+                      help='Check for trailing whitespace')
 
     args, extras = parser.parse_args()
     require(args.parser is not None,
@@ -132,6 +151,13 @@ def check_config(reporter, source_dir):
     config_file = os.path.join(source_dir, '_config.yml')
     config = load_yaml(config_file)
     reporter.check_field(config_file, 'configuration', config, 'kind', 'lesson')
+    reporter.check_field(config_file, 'configuration', config, 'carpentry', ('swc', 'dc'))
+    reporter.check_field(config_file, 'configuration', config, 'title')
+    reporter.check_field(config_file, 'configuration', config, 'email')
+
+    reporter.check({'values': {'root': '..'}} in config.get('defaults', []),
+                   'configuration',
+                   '"root" not set to ".." in configuration')
 
 
 def read_all_markdown(source_dir, parser):
@@ -188,20 +214,44 @@ def check_fileset(source_dir, reporter, filenames_present):
                    seen)
 
 
+def check_figures(source_dir, reporter):
+    """Check that all figures are present and referenced."""
+
+    # Get references.
+    try:
+        all_figures_html = os.path.join(source_dir, '_includes', 'all_figures.html')
+        with open(all_figures_html, 'r') as reader:
+            text = reader.read()
+        figures = P_FIGURE_REFS.findall(text)
+        referenced = [os.path.split(f)[1] for f in figures if '/fig/' in f]
+    except FileNotFoundError as e:
+        reporter.add(all_figures_html,
+                     'File not found')
+        return
+
+    # Get actual image files (ignore non-image files).
+    fig_dir_path = os.path.join(source_dir, 'fig')
+    actual = [f for f in os.listdir(fig_dir_path) if os.path.splitext(f)[1] in IMAGE_FILE_SUFFIX]
+
+    # Report differences.
+    unexpected = set(actual) - set(referenced)
+    reporter.check(not unexpected,
+                   None,
+                   'Unexpected image files: {0}',
+                   ', '.join(sorted(unexpected)))
+    missing = set(referenced) - set(actual)
+    reporter.check(not missing,
+                   None,
+                   'Missing image files: {0}',
+                   ', '.join(sorted(missing)))
+
+
 def create_checker(args, filename, info):
     """Create appropriate checker for file."""
 
     for (pat, cls) in CHECKERS:
         if pat.search(filename):
             return cls(args, filename, **info)
-
-
-def require(condition, message):
-    """Fail if condition not met."""
-
-    if not condition:
-        print(message, file=sys.stderr)
-        sys.exit(1)
 
 
 class CheckBase(object):
@@ -227,9 +277,11 @@ class CheckBase(object):
         """Run tests on metadata."""
 
         self.check_metadata()
-        self.check_text()
+        self.check_line_lengths()
+        self.check_trailing_whitespace()
         self.check_blockquote_classes()
         self.check_codeblock_classes()
+        self.check_defined_link_references()
 
 
     def check_metadata(self):
@@ -243,15 +295,26 @@ class CheckBase(object):
             self.reporter.check_field(self.filename, 'metadata', self.metadata, 'layout', self.layout)
 
 
-    def check_text(self):
+    def check_line_lengths(self):
         """Check the raw text of the lesson body."""
 
-        if self.args.line_len:
+        if self.args.line_lengths:
             over = [i for (i, l, n) in self.lines if (n > MAX_LINE_LEN) and (not l.startswith('!'))]
             self.reporter.check(not over,
                                 self.filename,
                                 'Line(s) are too long: {0}',
                                 ', '.join([str(i) for i in over]))
+
+
+    def check_trailing_whitespace(self):
+        """Check for whitespace at the ends of lines."""
+
+        if self.args.trailing_whitespace:
+            trailing = [i for (i, l, n) in self.lines if P_TRAILING_WHITESPACE.match(l)]
+            self.reporter.check(not trailing,
+                                self.filename,
+                                'Line(s) end with whitespace: {0}',
+                                ', '.join([str(i) for i in trailing]))
 
 
     def check_blockquote_classes(self):
@@ -274,6 +337,26 @@ class CheckBase(object):
                                 (self.filename, self.get_loc(node)),
                                 'Unknown or missing code block type {0}',
                                 cls)
+
+
+    def check_defined_link_references(self):
+        """Check that defined links resolve in the file.
+
+        Internally-defined links match the pattern [text][label].  If
+        the label contains '{{...}}', it is hopefully a references to
+        a configuration value - we should check that, but don't right
+        now.
+        """
+
+        result = set()
+        for node in self.find_all(self.doc, {'type' : 'text'}):
+            for match in P_INTERNALLY_DEFINED_LINK.findall(node['value']):
+                if '{{' not in match:
+                    result.add(match)
+        self.reporter.check(not result,
+                            self.filename,
+                            'Internally-defined links may be missing definitions: {0}',
+                            ', '.join(sorted(result)))
 
 
     def find_all(self, node, pattern, accum=None):
@@ -344,6 +427,12 @@ class CheckIndex(CheckBase):
     def __init__(self, args, filename, metadata, metadata_len, text, lines, doc):
         super(CheckIndex, self).__init__(args, filename, metadata, metadata_len, text, lines, doc)
         self.layout = 'lesson'
+
+    def check_metadata(self):
+        super(CheckIndex, self).check_metadata()
+        self.reporter.check(self.metadata.get('root', '') == '.',
+                            self.filename,
+                            'Root not set to "."')
 
 
 class CheckEpisode(CheckBase):

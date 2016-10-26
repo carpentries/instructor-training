@@ -73,8 +73,8 @@ What was worse:
 
 > The teachers described lessons they gave and things students said,
 > but they did not *see* the practices.
-> When it came to observing actual lessons --- watching each other teach ---
-> they simply had no opportunity...
+> When it came to observing actual lessons---watching each other teach---they
+> simply had no opportunity...
 > They had, he realized, no *jugyokenkyu*.
 > Translated literally as "lesson study",
 > *jugyokenkyu* is a bucket of practices that Japanese teachers use to hone their craft,
@@ -103,8 +103,8 @@ So what does *jugyokenkyu* look like in practice?
 > the one you planned and the four you did not...
 > and you had to do it right under your master teacher's nose.
 > Afterward,
-> everyone --- the teacher, the college students, and sometimes even another outside observer ---
-> would sit around a formal table to talk about what they saw.
+> everyone---the teacher, the college students, and sometimes even another outside observer---would
+> sit around a formal table to talk about what they saw.
 >
 > [Trainees] stayed in...class until the students left at 3:00 pm,
 > and they didn't leave the school until they'd finished discussing the day's events,
@@ -161,9 +161,9 @@ the theory they've learned in education school
 to deliver an actual lesson in an actual classroom for actual students.
 
 Fincher and her colleagues studied how teaching practices are actually transferred
-using both [a detailed case study]({{ site.root }}/files/papers/fincher-warrens-questions-2007.pdf)
+using both [a detailed case study]({{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf)
 and
-[analysis of change stories]({{ site.root }}/files/papers/fincher-stories-change-2012.pdf).
+[analysis of change stories]({{ page.root }}/files/papers/fincher-stories-change-2012.pdf).
 The abstract of the latter paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by educators in the field,
@@ -181,7 +181,7 @@ The abstract of the latter paper sums up their findings:
 > or involved only personal interaction with other educators.
 {: .quotation}
 
-As reported in [this paper]({{ site.root }}/files/papers/barker-practice-adoption-2015.pdf),
+As reported in [this paper]({{ page.root }}/files/papers/barker-practice-adoption-2015.pdf),
 Barker et al found something similar in 2015:
 
 > Adoption is not a "rational action," however, but an iterative
@@ -227,8 +227,9 @@ Barker et al found something similar in 2015:
 >
 > 1.  Split into groups of three
 > 2.  Have each person introduce themselves
->     and then teach a 90-second lesson on
->     the most interesting aspect of their own research or work
+>     and then explain, in no more than 90 seconds,
+>     the key idea or ideas from
+>     the Carpentry lesson episode they chose before the start of the training course
 >     to another person in the group
 >     while the third person records it (video and audio)
 >     using a cell phone or some other handheld device.
@@ -252,7 +253,7 @@ Barker et al found something similar in 2015:
 >
 > How was the experience of being videoed/receiving feedback?  What
 > did people notice?  What are some of your "tells"?
-{: .challenge}
+{: .discussion}
 
 Everyone has nervous habits.  While these habits are often not as noticeable
 as you would think, it's good to identify ways to keep yourself from pacing,
@@ -268,48 +269,46 @@ in very different ways.  The uniqueness of your teaching style can and should
 be based on your strengths.  This is why it's just as important to identify strengths
 as weaknesses when trying to improve your teaching.  It's good to know what you do well!
 
-> ## The Two-Dimensional You
->
-> If you were a cartoon character teacher, who would you be?  What does that say about your
-> teaching style?
-{: .challenge}
-
 ## Feedback
 
-Sometimes it can be hard to receive negative feedback.
+Sometimes it can be hard to receive feedback, especially negative feedback.
 
-![Feedback Feelings]({{ site.root }}/fig/04/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
-Here is a list of some strategies to make sure that you can receive feedback
+Feedback is most effective when the people involved
+can share ground rules and expectations.  This is especially important
+when the instructor and/or students have different cultural or
+domain expectations about feedback.
+
+Here is a list of different
+ways that you, as the instructor, can set the stage for receiving feedback
 in a way that helps you improve:
 
-* Mental habits matter!  Tell yourself the right things, like:
-    * "It's not personal."
-    * "Look at the positives along with the negatives."
-	* etc.
+*   Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
 
-* Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
+*   Choose your own questions and ask for specific feedback.  For example:
+    *   "What is one thing I could have done as an instructor to make this
+        lesson more effective?"
+    *   "If you could pick one thing from the lesson to go over again, what
+	would it be?"
 
-* Choose your own questions.  I'm a big fan of feedback questions like "what is
-  one thing I could have done as a teacher to make this lesson more
-  effective?"  Or "If you could pick one thing from the lesson to go over
-  again, what would it be?"  These questions (hopefully)
-  reveal what didn't work in your teaching, but read as professional suggestions
-  rather than personal judgments.
-
-* Balance positive and negative feedback:
-    * ask for or give "compliment sandwiches" (one positive, one negative, one positive)
-    * ask for both types of feedback
+Specific feedback like this is more useful than a generic "that was great!" or "that
+was terrible!"  Also, writing your own feedback questions allows you to frame
+feedback in a way that is helpful to you - the questions above
+reveal what didn't work in your teaching, but
+read as professional suggestions rather than personal judgments.
 
 * Communicate expectations. If your teaching feedback is taking the form of an
   observation (and you're comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* Use a feedback translator.  This is one of my favorite ways to get feedback when
-  I have to read it right away (mid-lesson feedback during Software
-  Carpentry workshops, for example).  I have my fellow
-  instructor (or other trusted person in the room) read over all the feedback and give me
-  an executive summary.  It's much easier for me to hear "It sounds like most people
+* Balance positive and negative feedback.
+    * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
+    * Ask for both types of feedback
+
+* Use a feedback translator.  Have a fellow
+  instructor (or other trusted person in the room) read over all the feedback and give
+  an executive summary.   It can be easier to hear "It sounds like most people
   are following, so you could speed up" than to read several notes all saying, "this is
   too slow" or "this is boring".
 
@@ -320,6 +319,14 @@ Having another instructor in the classroom saves your voice
 but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
+
+Finally, be kind to yourself.
+Mental habits matter: if you're a self-critical person,
+it's OK to remind yourself that:
+
+*   It's not personal.
+*   Look at the positives along with the negatives.
+*   Etc.
 
 > ## Feedback on Feedback
 >
@@ -343,7 +350,7 @@ in the room.
 
 > ## Learn More About Feedback
 >
-> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ site.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
+> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ page.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 > and discuss ways you could make peer-to-peer feedback
 > a routine part of your teaching.
 > You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
