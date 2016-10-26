@@ -22,49 +22,6 @@ no different from drama, music, or athletics.
 And as in those fields,
 we have a collection of small tips and tricks to make teaching work better.
 
-## The Code of Conduct
-
-Software Carpentry and Data Carpentry have a shared code of conduct
-(online [here]({{ site.swc_site }}/conduct/) and [here]({{ site.dc_site }}/code-of-conduct/))
-and participants in our workshops are required to abide by it.
-Hosts *must* point people at it during registration,
-and instructors *must* remind attendees of it at the start of the workshop.
-The Code of Conduct doesn't just tell everyone what the rules are:
-it tells them that there *are* rules,
-and that they can therefore expect a safe and welcoming learning experience.
-
-What's the purpose of a Code of Conduct?
-:   A Code of Conduct cannot stop people from being offensive, any more
-    than laws against theft stop people from stealing.  What the CoC
-    *can* do is make expectations and consequences clear.
-
-Do workshop participants ever actually violate the Code of Conduct?
-:   Very rarely, but it has happened.
-
-But what about free speech?
-:   People are free to say what they want, but that doesn't mean they
-    are free to say it in our workshops.  As in any classroom, the
-    instructor has the right to sanction students who are being
-    disruptive.
-
-What should I do if someone violates the Code of Conduct?
-
-:   If you are an instructor, and believe that someone in a workshop has
-    violated the Code of Conduct, you may warn them, ask them to
-    apologize, and/or expel them, depending on the severity of the
-    violation and whether or not you believe it was intentional.  No
-    matter what you choose to do, you should contact the appropriate
-    Carpentry administrator at
-    [admin@software-carpentry.org](mailto:admin@software-carpentry.org)
-    or [admin@datacarpentry.org](mailto:admin@datacarpentry.org) as
-    soon as you can, and describe what happened in the next online
-    debriefing session that you're able to attend.
-
-    You also have the right as an instructor to walk out of a workshop
-    if you feel that the participants or hosts are not supporting your
-    attempts to enforce the Code of Conduct.  Again, please contact us
-    as soon as possible if this happens.
-
 ## Challenges
 
 With live coding, it is easy for some learners to fall behind, and for other
@@ -227,6 +184,107 @@ Peak rule.
     and how they felt at its end.
     While it has been criticized for not strongly predicting what's remembered,
     it's always worth trying to end a lesson on a high note.
+
+Instructor notes.
+:   Many of the Software and Data Carpentry lessons have 
+    instructor's notes, with information 
+    from instructors who have already taught the material.  This can be a valuable 
+    resource when preparing lessons, especially when teaching a lesson for the first time.  
+    The Software Carpentry instructor guides are linked on each lesson page; the 
+    instructor guides for Data Carpentry lessons are on 
+    their [main lesson page]({{ site.dc_site }}/lessons/).  
+
+## The Code of Conduct
+
+Beyond the teaching practices and philosophies found in Software and Data 
+Carpentry workshops, one of the most important characteristics of our workshops 
+is that they be welcoming and safe spaces.  Programming, or data management are 
+scary topics to novices, and workshops are meant to be a judgment free 
+space to learn and experiment.  The behavior of the instructor and other partipants 
+may make more of an impression on a novice learner than any "technical" topic you teach.  
+
+To support this mission
+Software Carpentry and Data Carpentry have a shared code of conduct
+(online [here]({{ site.swc_site }}/conduct/) and [here]({{ site.dc_site }}/code-of-conduct/))
+and participants in our workshops are required to abide by it.
+Hosts *must* point people at it during registration,
+and instructors *must* remind attendees of it at the start of the workshop.
+The Code of Conduct doesn't just tell everyone what the rules are:
+it tells them that there *are* rules,
+and that they can therefore expect a safe and welcoming learning experience.
+
+What's the purpose of a Code of Conduct?
+:   A Code of Conduct cannot stop people from being offensive, any more
+    than laws against theft stop people from stealing.  What the CoC
+    *can* do is make expectations and consequences clear.
+
+Do workshop participants ever actually violate the Code of Conduct?
+:   Very rarely, but it has happened.
+
+But what about free speech?
+:   People are free to say what they want, but that doesn't mean they
+    are free to say it in our workshops.  As in any classroom, the
+    instructor has the right to sanction students who are being
+    disruptive.
+
+What should I do if someone violates the Code of Conduct?
+
+:   If you are an instructor, and believe that someone in a workshop has
+    violated the Code of Conduct, you may warn them, ask them to
+    apologize, and/or expel them, depending on the severity of the
+    violation and whether or not you believe it was intentional.  No
+    matter what you choose to do, you should contact the appropriate
+    Carpentry administrator at
+    [admin@software-carpentry.org](mailto:admin@software-carpentry.org)
+    or [admin@datacarpentry.org](mailto:admin@datacarpentry.org) as
+    soon as you can, and describe what happened in the next online
+    debriefing session that you're able to attend.
+
+    You also have the right as an instructor to walk out of a workshop
+    if you feel that the participants or hosts are not supporting your
+    attempts to enforce the Code of Conduct.  Again, please contact us
+    as soon as possible if this happens.
+
+A Code of Conduct is one way to create a safe learning space - making sure that 
+you are properly motivating (and not de-motivating) your students is another.  In 
+our next module, we will talk in more detail about what we can 
+do to support motivation in our learners.  
+
+> ## Why Not a MOOC?
+>
+> Many learners find it difficult to get to a workshop,
+> either because there isn't one locally
+> or because it's difficult to schedule time around other commitments,
+> so why don't we create video recordings of the lessons
+> and offer the workshop as a MOOC (Massive Open Online Course)?
+> 
+> The first answer is that we did in 2010-11,
+> but found the maintenance costs unsustainable.
+> Making a small change to this webpage only takes a few minutes.
+> but making *any* change to a video takes an hour or more.
+> In addition,
+> most people are much less comfortable recording themselves
+> than contributing written material.
+> 
+> The second answer is that doing significantly outperforms watching.
+> Specifically, a [recent paper by Koedinger et al]({{ site.github.url }}/files/papers/koedinger-doing-watching-2015.pdf) estimated
+> "...the learning benefit from extra doing (1 SD increase) to be more than six times that of extra watching or reading." *Doing*, in this case,
+> refers to completing an interactive or mimetic task with feedback,
+> while *benefit* refers to both *completion rates* and *overall performance*.
+> 
+> And while we do not (yet) have empirical data,
+> we believe very strongly that many novices would give up in despair
+> if required to debug setup and installation lessons on their own,
+> but are more likely to get past these obstacles if someone is present to help them.
+> 
+> An intermediate approach that we are experimenting with is real-time remote instruction,
+> in which the learners are co-located at one (or a few) sites,
+> with helpers present,
+> while the instructor(s) teaching via online video.
+> This model has worked well for this instructor training course,
+and for a handful of regular workshops,
+> but more work is needed to figure out its pros and cons.
+{: .callout}
 
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org

@@ -156,24 +156,12 @@ in which the results of processing items from a collection
 are repeatedly added to a single variable in some way
 to create the final result.
 
-> ## Identifying Cognitive Load
->
-> Look at the faded examples in Python shown above.
-> Try to think about two different types of learners that could benefit from leaning from these examples:
->
-> *   novice learners (knowing only basics of computer programming);
-> *   more advanced learners (with some experience in programming but in a language different than Python).
->
-> Try to identify 3 different kinds of cognitive load (germane, intrinsic, and extraneous) for these two groups of learners.
-> What differences between these groups can you notice?
-{: .challenge}
-
 > ## Create a Faded Example from a Lesson
 >
 > The following exercise should be done in groups of 2-3.
 >
-> 1.  Pick a block of code from an existing Software or Data Carpentry lesson.
->     (Your instructor will post links to the lessons in the Etherpad.)
+> 1.  Pick a block of code from an existing Software or Data Carpentry lesson,
+>     or from another lesson you have taught recently.
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the student's ability to correctly fill in that blank.
 > 4.  Paste your faded example in the Etherpad.
