@@ -1,6 +1,6 @@
 ---
 title: "Motivation and Demotivation"
-teaching: 20
+teaching: 30
 exercises: 25
 questions:
 - "What motivates and demotivates learners and instructors?"
@@ -103,9 +103,9 @@ learners have a concrete starting point for debugging.
 
 *[How Learning Works][amazon-hlw]*
 contains this list of evidence-based methods to motivate learners.
-None of them are surprising ---
-it's hard to imagine someone saying that we *shouldn't* identify and reward what we value ---
-but it's useful to check lessons against these points
+None of them are surprising---it's hard to imagine someone saying
+that we *shouldn't* identify and reward what we value---but
+it's useful to check lessons against these points
 to make sure they're doing at least a few of these things.
 
 > ## Provide an Example
@@ -114,7 +114,7 @@ to make sure they're doing at least a few of these things.
 > Or, use Rayna's personal story, which goes like this:
 > In the Unix lesson, we use a haiku to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how they can use it in their research.
-> After the grep lesson, I show a one liner that combines head, grep, sort, and uniq
+> After the grep lesson, I show a one liner that combines `head`, `grep`, `sort`, and `uniq`
 >  to produce a ranked list of the most abundant sequences.
 > I emphasize that the students just learned each of the pieces
 > (see <https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners>).
