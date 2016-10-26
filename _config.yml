@@ -25,6 +25,7 @@ repository: <USERNAME>/<PROJECT>
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
 dc_site: "http://datacarpentry.org"
+dc_github: "https://github.com/datacarpentry"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
 swc_pages: "https://swcarpentry.github.io"
