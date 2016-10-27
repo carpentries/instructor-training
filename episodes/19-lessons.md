@@ -99,6 +99,7 @@ people to learn.
 It's dangerously easy to come up with fuzzy learning objectives.  A 
 broad statement like "Understand git" could 
 mean many different specific goals, like: 
+
 * Learners can revert a change to a file using git. 
 * Learners will name three benefits of using a version control system like git. 
 * Learners will compare the collaboration features of git and dropbox. 
@@ -110,7 +111,7 @@ and should specify the *criteria for acceptable performance*.
 Writing these kinds of learning objectives may seem restrictive or limiting, but 
 will make both you and your learners happier in the long run.  You will 
 end up with clear guidelines for both your teaching and assessment, 
-and your learners will appreciate the clear expectations.  
+and your learners will appreciate the clear expectations.
 
 In order to formulate good learning objectives we need to decide what kinds of learning we are aiming for.
 There is a difference between knowing the atomic weight of fluorine
@@ -228,6 +229,15 @@ in learning objectives written for each level.
     </td>
   </tr>
 </table>
+
+Here is an example of a successively-improved lesson objective:
+
+|Learning Objective|Discussion|
+|------------------|----------|
+|Learner will be given opportunitities to learn good programming practices.|Describes the lesson's content, not the attributes of successful students.|
+|Learner will have a better appreciation for good programming practices.|Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific.|
+|Learner will understand principles of good programming.|Starts with an active verb, but doesn't define the level of learning, and the subjct of learning is still too vague for assessment.|
+|Learner will write one-page data analysis scripts for research purposes using R Studio.|Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed.|
 
 Baume's guide to
 [writing and using good learning outcomes]({{ page.root }}/files/papers/baume-learning-outcomes-2009.pdf)
