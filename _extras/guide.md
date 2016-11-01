@@ -27,7 +27,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## Setting Up
 >
-> 1.  Set up a one-page website for the workshop.
+> 1.  Set up a one-page website for the workshop using <https://github.com/swcarpentry/training-template> as a starting point.
 > 1.  Send the URL to the admins.
 > 1.  Check whether any attendees have special needs.
 > 1.  If it is online:
