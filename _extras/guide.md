@@ -92,8 +92,7 @@ the class.
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
-    or create a copy of this [Google Form Questionnaire][questionnaire].
-    Briefly summarize the answers.
+    or [import it into socrative][socrative-import] using this ID: SOC-25251122. Briefly summarize the answers.
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
@@ -617,7 +616,7 @@ This was the first method we tried.
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [profile]: {{ site.amy_site }}/update_profile/
-[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
+[socrative-import]: https://b.socrative.com/teacher/#import-quiz
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
 [welcome]: {{ page.root }}/files/messages/welcome.txt
