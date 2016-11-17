@@ -49,9 +49,9 @@ please see <http://swcarpentry.github.io/instructor-training/>.
 
 
 01. Group name: [____________________]
-  If you are applying at the same time as friends or colleagues, pick
+  *If you are applying at the same time as friends or colleagues, pick
   a name for your group (e.g., the name of your institution) and fill
-  that in, and we will try to put you in the same training class.
+  that in, and we will try to put you in the same training class.*
 
 02. Personal (given) name: [____________________]
 
@@ -64,7 +64,7 @@ please see <http://swcarpentry.github.io/instructor-training/>.
 
 
 06. What is your current occupation/career stage?
-  Please choose the one that best describes you.
+  *Please choose the one that best describes you.*
 
 [_] Prefer not to say
 [_] Undergraduate student
@@ -82,14 +82,14 @@ please see <http://swcarpentry.github.io/instructor-training/>.
 07. Affiliation: [____________________]
 
 08. Location: [____________________]
-  Please give city, and province or state if applicable
+  *Please give city, and province or state if applicable*
 
 09. Country: [--pulldown--]
 
 10. [_] This a smaller, remote, or less affluent institution.
-  Software and Data Carpentry strive to make workshops accessible to
+  *Software and Data Carpentry strive to make workshops accessible to
   as many people as possible, in as wide a variety of situations as
-  possible.
+  possible.*
 
 > Award +1 for outside Europe/UK/US/Canada/Australia/New Zealand.
 > *or*
@@ -98,7 +98,7 @@ please see <http://swcarpentry.github.io/instructor-training/>.
 
 
 11. Areas of expertise:
-  Please check all that apply.
+  *Please check all that apply.*
 
 [_] Chemistry
 [_] Civil, mechanical, chemical, or nuclear engineering
@@ -132,7 +132,6 @@ Details: [____________________]
 
 13. [_] I have been an active contributor to other volunteer or
         non-profit groups with significant teaching or training components.
-  Data and Software Carpentry 
 Details: [____________________]
 
 > Optionally award +1 for each response (maximum of +2).
@@ -170,8 +169,8 @@ Description of your previous training in teaching:
 
 
 16. Previous experience in teaching.
-  Please include teaching experience at any level from grade school
-  to post-secondary education.
+  *Please include teaching experience at any level from grade school
+  to post-secondary education.*
 
 [_] None
 [_] A few hours
