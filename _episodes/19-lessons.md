@@ -355,7 +355,7 @@ It also ensures that learners don't face anything on the final exam that the cou
 
 > ## The Minimal Manual
 >
-> Carroll et al's 1987 paper "[The Minimal Manual][{{ site.github.url }}/files/papers/carroll-minimal-manual-1987.pdf]"
+> Carroll et al's 1987 paper "[The Minimal Manual]({{ page.root }}/files/papers/carroll-minimal-manual-1987.pdf)"
 > outlines an approach to documentation and instruction
 > in which each lesson is one page long and describes how to accomplish one concrete task.
 > Its focus on immediate application,
