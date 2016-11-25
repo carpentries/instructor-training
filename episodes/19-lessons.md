@@ -233,7 +233,7 @@ Here is an example of a successively-improved lesson objective:
 
 |Learning Objective|Discussion|
 |------------------|----------|
-|Learner will be given opportunitities to learn good programming practices.|Describes the lesson's content, not the attributes of successful students.|
+|Learner will be given opportunities to learn good programming practices.|Describes the lesson's content, not the attributes of successful students.|
 |Learner will have a better appreciation for good programming practices.|Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific.|
 |Learner will understand principles of good programming.|Starts with an active verb, but doesn't define the level of learning, and the subject of learning is still too vague for assessment.|
 |Learner will write one-page data analysis scripts for research purposes using R Studio.|Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed.|
