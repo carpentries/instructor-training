@@ -30,18 +30,13 @@ keypoints:
 >
 {: .challenge}
 
-As homework overnight,
-please read our [operations guide]({{ site.swc_site }}/workshops/operations/)
-and the checklists it links to.
-These recommendations and how-to guides summarize what we have learned
-(often the hard way)
-about organizing and running workshops.
-When you arrive tomorrow,
-we will ask you to add one question about our operations to a list;
-we will then do our best to answer all of those questions during the day.
+## Homework
 
-Please also read "[Software Carpentry: Lessons Learned]({{ page.root }}/files/papers/wilson-lessons-learned-2016.pdf)",
-which summarizes what we have learned over 18 years of teaching basic computing skills to researchers.
+>As homework overnight, please:
+>1. Read our [operations guide]({{ site.swc_site }}/workshops/operations/) and the checklists it links to. These recommendations and how-to guides summarize what we have learned (often the hard way) about organizing and running workshops. When you arrive tomorrow, we will ask you to add one question about our operations to a list;we will then do our best to answer all of those questions during the day.
+> 2. Read "[Software Carpentry: Lessons Learned]({{ page.root }}/files/papers/wilson-lessons-learned-2016.pdf)", which summarizes what we have learned over 18 years of teaching basic computing skills to researchers.
+> 3. Prepare for the live coding exercises. Pick an episode from of the existing Software or Data Carpentry and practice live coding it. Tomorrow, you will do this for 5 minutes in groups of three. Your group members will comment on the delivery and content.
+{: .callout}
 
 > ## End-of-Day Feedback
 >
