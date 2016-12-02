@@ -182,7 +182,7 @@ and asked to arrange them.
 Learners can then be told that they have all the lines they need save one,
 and so on.
 
-Here is a really nice online parson's problem tool. [Try it out!](http://runestoneinteractive.org/LearningAtScale/parsons.html)
+Here is a really nice online Parsons Problem interactive tool. [Try it out!](http://runestoneinteractive.org/LearningAtScale/parsons.html)
 
 > ## Parsons Problems
 >
