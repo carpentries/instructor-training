@@ -1,9 +1,10 @@
 Hello everyone, and thank you for signing up for our upcoming instructor training session. In order to prepare:
 
-1.  Please read these two short papers, which provide a brief overview of some key evidence-based results in teaching:
+1.  Please read these three short papers, which provide a brief overview of some key evidence-based results in teaching:
 
     * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
     * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
+    * "What Can I Do Today to Create a More Inclusive Community in CS?" (https://swcarpentry.github.io/instructor-training/files/papers/lee-create-inclusive-community-2015.pdf)
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
@@ -21,6 +22,8 @@ p.s. If you are interested in doing more reading, you may enjoy:
 * How Learning Works (http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/), which is an excellent summary of current research in teaching and learning
 
 * Building a Better Teacher (http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/), a well-written look at why educational reforms in the past 50 years have mostly missed the mark and about what we should be doing instead.
+
+* Small Teaching (https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/), which presents strategies for improving teaching practices that don't require significant resources.
 
 * Teaching What You Don't Know (http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/), which is a situation many of us find ourselves in more often that we'd like.
 
