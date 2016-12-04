@@ -150,6 +150,9 @@ Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for S
     believe it's true, covering everything from cognitive psychology
     to social factors.
 
+Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][amazon-dicsussion]*.
+:   Describes fifty different ways to get groups talking productively.
+
 Elizabeth Green: *[Building a Better Teacher][amazon-babt]*.
 :   A well-written look at why educational reforms in the past 50 years have mostly missed the mark,
     and what we should be doing instead.
@@ -165,15 +168,16 @@ Doug Lemov: *[Teach Like a Champion 2.0][amazon-tlac]*.
 Therese Huston: *[Teaching What You Don't Know][amazon-twydk]*.
 :   A pointed, funny, and very useful book that explores exactly what the title suggests.
 
+James Lang: *[Small Teaching][amazon-small-teaching]*.
+:   A short guide to evidence-based teaching practices that can be adopted
+    without requiring large up-front investments of time and money.
+
 Jane Margolis and Allan Fisher: *[Unlocking the Clubhouse: Women in Computing][amazon-clubhouse]*.
 :   A groundbreaking report on the gender imbalance in computing,
     and the steps Carnegie-Mellon took to address the problem.
 
 Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do][amazon-vivaldi]*.
 :   Explains and explores stereotype threat and strategies for addressing it.
-
-Dani Byrd and Toben H. Mintz: *[Discovering Speech, Words, and Mind][discovering-speech]*.
-:   Discusses the neuroscience and psychology of the distinction between phonics and whole-language approaches to reading instruction.
 
 ## Papers
 
@@ -235,6 +239,9 @@ Porter et al: "[Success in Introductory Programming: What Works?]({{ page.root }
 Wiggins and McTighe: "[UbD in a Nutshell]({{ page.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
+Wilson et al: "[Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)".
+:   Describes and justifies a minimal set of computing practices that every researcher could and should adopt.
+
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
@@ -243,9 +250,11 @@ Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
+[amazon-discussion]: https://www.amazon.com/Discussion-Book-Great-People-Talking/dp/1119049717/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-lcdce]: http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/
 [amazon-making-software]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
+[amazon-small-teaching]: https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/
 [amazon-tlac]: http://www.amazon.com/Teach-Like-Champion-2-0-Techniques/dp/1118901851/
 [amazon-twydk]: http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/
 [amazon-vivaldi]: http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726/
