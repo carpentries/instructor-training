@@ -71,6 +71,8 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
+## Messages
+
 You may use the following message templates to communicate with trainees:
 
 * [Welcome participants before the workshop][welcome]
@@ -78,6 +80,7 @@ You may use the following message templates to communicate with trainees:
 * [Next steps after receiving pull request][after-pr]
 * [Request to do another discussion session when participant was passive][passive-discussion]
 * [Confirm certification and describe next steps][completion]
+* [Notify participants that they have not completed within the specified time][expiry]
 
 ## Introduction
 
@@ -621,6 +624,7 @@ This was the first method we tried.
 [certificates]: {{ site.swc_github }}/certification
 [checkout]: {{ page.root }}/files/messages/checkout.txt
 [completion]: {{ page.root }}/files/messages/completion.txt
+[expiry]: {{ page.root }}/files/messages/expiry.txt
 [format]: {{ page.root }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
