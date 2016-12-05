@@ -182,6 +182,8 @@ and asked to arrange them.
 Learners can then be told that they have all the lines they need save one,
 and so on.
 
+Here is a really nice online Parsons Problem interactive tool. [Try it out!](http://runestoneinteractive.org/LearningAtScale/parsons.html)
+
 > ## Parsons Problems
 >
 > Write 5 or 6 lines of code that does something useful,

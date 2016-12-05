@@ -26,7 +26,7 @@ training_site: https://swcarpentry.github.io/instructor-training
 
 Please note that after this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
-the details are available at {{ page.training_site }}/checkout/.
+the details are available at <{{ page.training_site }}/checkout/>.
 If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
 If you are interested in doing more reading, you may enjoy:
