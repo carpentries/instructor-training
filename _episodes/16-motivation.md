@@ -241,7 +241,7 @@ to alienate a classroom and cause learners to tune out.
 > and those figures have actually been getting worse over the last 20 years.
 > There are many reasons for this
 > (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
-> and Margolis's *[Stuck in the Shallow End](amazon-shallow-end)*),
+> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*),
 > and Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
 > summarizes what we know about stereotype threat in general
 > and presents some strategies for mitigating it in the classroom.
@@ -250,7 +250,7 @@ to alienate a classroom and cause learners to tune out.
 > while there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
 > it's not clear that stereotype threat is the underlying mechanism.
 > Part of the problem is that
-> [the term has been used in many ways](shapiro-neuberg-stereotype-threat);
+> [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
 > another is [questions about the replicability of key studies][jussim-stereotype-threat].
 > What *is* clear is that we need to aovid thinking in terms of a deficit model
 > (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
