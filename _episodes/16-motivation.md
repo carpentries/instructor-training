@@ -19,6 +19,7 @@ keypoints:
 - "Don't teach or learn alone."
 - "Belief that competence comes with practice improves learning outcomes."
 - "Measures taken to improve accessibility aid everyone."
+- "Measures taken to make learning more inclusive aid everyone."
 ---
 
 In order for learners to step out into new and familiar terrain, they will
@@ -121,28 +122,6 @@ to make sure they're doing at least a few of these things.
 > This way, I connect my bioinformatics users with domain-specific examples
 > using an authentic task that is relevant to their research.
 {: .callout}
-
-*   Strategies to establish value:
-    1.  Connect the material to students' interests.
-    2.  Provide authentic, real-world tasks.
-    3.  Show relevance to students' current academic lives.
-    4.  Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5.  Identify and reward what you value.
-    6.  Show your own passion and enthusiasm for the discipline.
-*   Strategies to build positive expectations:
-    1.  Ensure alignment of objectives, assessments, and instructional strategies.
-    2.  Identify an appropriate level of challenge.
-    3.  Create assignments that provide the appropriate level of challenge.
-    4.  Provide early success opportunities.
-    5.  Articulate your expectations.
-    6.  Provide rubrics.
-    7.  Provide targeted feedback.
-    8.  Be fair.
-    9.  Educate students about the ways we explain success and failure.
-    10. Describe effective study strategies.
-*   Strategies for self-efficacy:
-    1.  Provide flexibility and control.
-    2.  Give students an opportunity to reflect.
 
 > ## Brainstorming Motivational Strategies
 >
@@ -463,6 +442,49 @@ are always welcome.
 > And did you notice that the first sentence in this challenge
 > assumed you could actually walk?
 {: .callout}
+
+## Inclusivity
+
+*Inclusivity* is a policy of including people who might otherwise be excluded or marginalized.
+In computing,
+it means making a positive effort to be more welcoming to women,
+people of color,
+people with various sexual orientations,
+the elderly,
+the physically challenged,
+the formerly incarcerated,
+the economically disadvantaged,
+and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
+Lee's paper
+"[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
+(which you were asked to read before the workshop)
+is a brief, practical guide to doing that with references to the research literature.
+These help learners who belong to one or more margainalized or excluded groups,
+but help motivate everyone else as well;
+while they are phrased in terms of term-long courses,
+many can be applied in our workshops,
+such as:
+
+*   asking learners to email you before the workshop
+    to explain how they believe the training could help them achieve their goals;
+*   reviewing notes to make sure they are free from gendered pronouns,
+    that they include culturally diverse names,
+    etc.;
+*   emphasize that what matters is the rate at which they are learning,
+    not the advantages or disadvantages they had when they started;
+*   encouraging pair programming; and
+*   actively mitigate behavior that some learners may find intimidating,
+    e.g.,
+    use of jargon or "questions" that are actually asked to display knowledge.
+
+> ## Pick One
+>
+> 1.  Pick one activity or change in practice from
+>     [Lee's paper]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)
+>     that you would like to work on.
+> 2.  Put a reminder in your calendar three months in the future
+>     to self-check whether you have done something about it.
+{: .challenge}
 
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
