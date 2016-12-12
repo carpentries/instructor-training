@@ -99,7 +99,6 @@ its also good for everyone at a given site to know who all is in the
 group.  Note: this can be done while setting up before the start of
 the class.
 
-
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
