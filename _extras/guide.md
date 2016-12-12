@@ -71,6 +71,17 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
+## Messages
+
+You may use the following message templates to communicate with trainees:
+
+* [Welcome participants before the workshop][welcome]
+* [Description of checkout procedure sent immediately after the workshop][checkout]
+* [Next steps after receiving pull request][after-pr]
+* [Request to do another discussion session when participant was passive][passive-discussion]
+* [Confirm certification and describe next steps][completion]
+* [Notify participants that they have not completed within the specified time][expiry]
+
 ## Introduction
 
 To begin your class, the instructors should give a brief introduction
@@ -608,14 +619,17 @@ This was the first method we tried.
 > we are preparing them to work together on things that really matter tomorrow.
 {: .testimonial}
 
+[after-pr]: {{ page.root }}/files/messages/after-pr.txt
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
 [checkout]: {{ page.root }}/files/messages/checkout.txt
 [completion]: {{ page.root }}/files/messages/completion.txt
+[expiry]: {{ page.root }}/files/messages/expiry.txt
 [format]: {{ page.root }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
