@@ -208,7 +208,7 @@ for details.
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website using
-[this template]({{ site.workshop_template }}).
+[this template](https://github.com/swcarpentry/workshop-template).
 Once that has been created,
 the host or lead instructor sends its URL to
 the [workshop coordinator](mailto:{{ site.email }}),
@@ -217,7 +217,7 @@ The workshop will show up on our websites shortly thereafter.
 
 > ## Practice With SWC Infrastructure
 >
-> Go to the [workshop template repository]({{ site.workshop_template }}) and follow the directions
+> Go to the [workshop template repository](https://github.com/swcarpentry/workshop-template) and follow the directions
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 
