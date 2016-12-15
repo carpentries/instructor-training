@@ -163,6 +163,28 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
 {: .quotation}
 
+> ## Travel Costs for No-Shows
+>
+> In order to protect its reputation,
+> the SCF must do what it can to ensure that instructors actually show up for workshops they have agreed to teach.
+> We therefore require that when instructors agree to teach a workshop,
+> they also agree to give at least one week's notice if they will be unable to make it.
+> If they do not,
+> they are required for reimbursing any non-refundable travel or accommodation costs
+> that the host may already have incurred on their behalf.
+>
+> The SCF may waive this requirement in special circumstances,
+> but the decision to do so rests solely with the Steering Committee.
+> In cases where the requirement *is* waived,
+> the SCF will reimburse the host for any expenses incurred.
+> If an instructor is required to reimburse costs,
+> but refuses to do so,
+> the SCF reserves the right to ban that person from future Software Carpentry activities.
+>
+> If an instructor fails to provide adequate notice of withdrawal more than once,
+> the SCF reserves the right to suspend them from the list of recommended instructors.
+{: .callout}
+
 ### Materials
 
 All of Software and Data Carpentry's lessons materials are freely available
