@@ -1,20 +1,34 @@
-Hello everyone, and thank you for signing up for our upcoming instructor training session. In order to prepare:
+Hello everyone,
+
+Thank you for signing up for our upcoming instructor training workshop. 
+
+Please this website for specific details about the workshop [INSERT WORKSHOP WEBSITE LINK HERE].
+
+Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one hour lunch break and two short coffee breaks each day. [INSERT WHETHER OR NOT FOOD AND DRINKS ARE SUPPLIED BY HOST].
+
+**In order to prepare:**
 
 1.  Please read these two short papers, which provide a brief overview of some key evidence-based results in teaching:
 
     * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
     * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
 
-2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
+2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one episode* from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
-3.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
+**What to bring to the workshop:**
 
-4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet won't be sufficient).
+1.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://swcarpentry.github.io/instructor-training/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch.
+2.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (i.e. SQL, Git, Python, R, or Unix) and a power cable. You will need this laptop on both day of the instructor training.
 
-thanks again,
-Greg
+**After the instructor training workshop:**
+
+Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://swcarpentry.github.io/instructor-training/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch. Also, you will hear about many ways to stay engaged with each other and with Software and Data Carpentry Instructors around the world, so we look forward to your continued participation!
+
+Thanks again,
+
+[INSERT INSTRUCTOR NAMES HERE]
+
 
 p.s. If you are interested in doing more reading, you may enjoy:
 
