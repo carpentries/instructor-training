@@ -52,18 +52,44 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After the Event
 >
+> 1.  Update AMY.
+>     1.  Go to More... Trainees.
+>     1.  Select the training event in the filter on the left of the page.
+>     1.  Tick off all the people who participated (there's a "select all" tick box by the "Name" column header).
+>     1.  Click "Add" at the bottom of the page.
+>     If anyone didn't show, or in your opinion didn't participate, do not give them credit for this training.
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
-> 1.  Recruit experienced instructors to lead group lesson discussions.
-> 1.  Schedule group lesson discussions.
-> 1.  Oversee final demonstration lessons.
 > 1.  Debrief with the head of instructor training.
+> 1.  Oversee final demonstrations and mark them as complete in AMY.
+>     1.  Go to More... Trainees.
+>     1.  Enter the person's name in the filte ron the left of the page and submit.
+>     1.  Click the gray `[+]` beside their name.
+>     1.  Fill in the details of the demo they did and who passed it.
+>     1.  Submit.
+{: .checklist}
+
+> ## Between Instructor Training Sessions
+>
+> 1.  Sign up to lead group lesson discussions.
+> 1.  Monitor `lessons@software-carpentry.org` for notices from trainees that they have submitted PRs
+>     and add those PRs to their progress on AMY.
+>     1.  Go to More... Trainees.
+>     1.  Enter the person's name in the filter on the left of the page and submit.
+>     1.  Click the gray `[+]` beside their name.
+>     1.  Select the type of homework (SWC or DC) and enter the URL of their PR or issue.
+>     1.  Submit.
 {: .checklist}
 
 > ## After Trainees Complete
 >
 > 1.  Send new instructors [the completion message][completion].
 > 1.  Badge instructors in [AMY][amy].
+>     1.  Go to More... Trainees.
+>     1.  Enter the person's name in the filter on the left of the page and submit.
+>     1.  Select the appropriate badge on the right.
+>     1.  Fill in the details.
+>     1.  Submit.
 > 1.  Create and send [PDF certificates][certificates].
 {: .checklist}
 
