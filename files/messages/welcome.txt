@@ -19,7 +19,7 @@ Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one 
 
 1.  We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-2.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (i.e. SQL, Git, Python, R, or Unix) and a power cable. You will need this laptop on both day of the instructor training.
+2.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises and a power cable. You will need this laptop on both day of the instructor training.
 
 **After the instructor training workshop:**
 
