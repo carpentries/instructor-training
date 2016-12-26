@@ -456,6 +456,78 @@ This was the first method we tried.
         but still not as good as a simple WordPress blog.
         In particular,
         it was hard to find things once there were more than a dozen homework categories.
+        
+## Demo Sessions
+
+Checklist for instructor trainers hosting a live-coding demo session as part of a trainee's checkout procedure.
+
+### Before the demo
+
+* sign up to lead demo at <http://pad.software-carpentry.org/teaching-demos>
+* for each trainee, pick a suitable starting point in the lesson that they have chosen. Do not start at the very beginning of the first episode, and look for an episode that dives into live coding quickly (without first explaining a lot), examples at the end. Do not have them start in the middle of an episode. NOTE some lessons have ‘supplementary episodes’, e.g. R novice inflammation, do not pick from those.
+* set up a new etherpad for the demo and add the trainee information and their chosen lesson (but NOT yet the episode you will assign them)
+* if a trainee wants to demo for both SWC and DC, set up schedule that has them not teaching twice in a row
+
+### Shortly before the demo
+
+* prepare the Google hangout (or other online meeting place) a bit in advance and paste the link in the etherpad of your session
+* link to the session etherpad in the <http://pad.software-carpentry.org/teaching-demos> and ask trainees to use that from now on
+
+### During the demo
+
+* once everyone is in the call (visible, video working), explain the procedure, stressing that trainees have to be able to teach from *any* episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from *one* episode instead of the entire lesson, and if so, suggest strongly they reschedule
+* explain the procedure to them
+* ask those not presenting to mute their microphone, and tell them they are welcome to give feedback in the session's etherpad (mention code of conduct)
+* hand out the assignment to the first trainee, adding a link to the lesson episode etherpad, give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc)
+* ask them to share their screen
+* once they are ready, give them a 3,2,1 countdown, use a countdown timer which makes a noise once their 5 minutes are up (e.g. your phone), place the noise close to your microphone
+* after the five minute timer, allow them to finish their sentence and tell them time’s up.
+* use a rubric for notes, [example][rubric]
+* after the trainee is finished, first ask how they themselves thought it went, then give constructive feedback based on your notes
+* tell the trainee whether they passed or failed
+* repeat for the other trainees
+* at the end of the season, ask for general questions and try to help them as good as you can
+* tell trainees that once disconnected, you will add your notes to the session’s etherpad and leave them there for a while
+* disconnect and add your notes to the session’s etherpad
+
+### After the demo
+
+* sign up for your next session in <http://pad.software-carpentry.org/teaching-demos>
+* add pass/fail information for the trainees in AMY
+
+### Example starting points for demos
+
+* SWC Unix Shell
+	* [03-create]({{ site.swc_pages }}/shell-novice/03-create/)
+	* [05-loop]({{ site.swc_pages }}/shell-novice/05-loop/)
+	* [06-script]({{ site.swc_pages }}/shell-novice/06-script/)
+
+* SWC, python gapminder
+	* [06-libraries]({{ site.swc_pages }}/python-novice-gapminder/06-libraries/)
+
+* SWC, python novice inflammation
+	* [03-lists]({{ site.swc_pages }}/python-novice-inflammation/03-lists/)
+	* [06-func]({{ site.swc_pages }}/python-novice-inflammation/06-func/)
+
+* SWC, Automation and Make
+	* [03-variables]({{ site.swc_pages }}/make-novice/03-variables/)
+
+* SWC, SQL
+	* [02-sort-dup]({{ site.swc_pages }}/sql-novice-survey/02-sort-dup/)
+
+* SWC, Matlab
+	* [03-loops]({{ site.swc_pages }}/matlab-novice-inflammation/03-loops/)
+
+* SWC, R for Reproducible Scientific Analysis
+	* [07-control-flow]({{ site.swc_pages }}/r-novice-gapminder/07-control-flow/)
+
+* DC, python ecology
+	* [02-index-slice-subset]({{ site.dc_site }}/python-ecology-lesson/02-index-slice-subset)
+
+* DC R ecology
+	* [04-dplyr]({{ site.dc_site }}/R-ecology-lesson/04-dplyr.html)
+	* [05-visualization-ggplot2.html]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html) (actually, [plotting-with-ggplot2]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html#plotting-with-ggplot2))
+
 
 ## Testimonials
 
@@ -658,6 +730,7 @@ This was the first method we tried.
 [passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
+[rubric]: {{ page.root }}/files/teaching-demo-rubric.md
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
 [welcome]: {{ page.root }}/files/messages/welcome.txt
