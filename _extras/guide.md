@@ -563,7 +563,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 [passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
-[rubric]: {{ page.root }}/files/teaching-demo-rubric.md
+[rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
 [welcome]: {{ page.root }}/files/messages/welcome.txt
