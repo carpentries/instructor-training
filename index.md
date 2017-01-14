@@ -31,7 +31,7 @@ and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
 
-*   All participants in this course are required to abide by our [code of conduct][conduct].
+*   All participants in this course are required to abide by our [code of conduct]({{ page.root }}/conduct/).
 *   There are no specific prerequisites for this training,
     but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop
     so that they are familiar with our teaching techniques.
@@ -45,9 +45,6 @@ reflects the latest iteration of an ongoing process to refine what new
 instructors need to know.  Feedback is welcome as an [issue][issues]
 on the Github repository that hosts this site.
 
-**These materials are freely available under a [Creative Commons license][license].**
+**These materials are freely available under a [Creative Commons license]({{ page.root }}/license/).**
 
-[application-form]: https://amy.software-carpentry.org/workshops/request_training/
-[conduct]: {{ page.root }}/conduct/
-[license]: {{ page.root }}/license/
-[issues]: {{ site.github.repository_url }}/issues
+{% include links.md %}

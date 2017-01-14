@@ -17,3 +17,5 @@ keypoints:
 > 2. Do you think your lesson is better or worse
 >    given the thinking you did while making a concept map?
 {: .challenge}
+
+{% include links.md %}

@@ -42,7 +42,7 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in this course.
 
-![What to Teach](../fig/what-to-teach.png)
+![What to Teach]({{ page.root }}/fig/what-to-teach.png)
 
 > ## Actual Time
 >
@@ -242,7 +242,7 @@ to alienate a classroom and cause learners to tune out.
 > There are many reasons for this
 > (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
 > and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*),
-> and Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+> and Steele's *[Whistling Vivaldi][amazon-vivaldi]*
 > summarizes what we know about stereotype threat in general
 > and presents some strategies for mitigating it in the classroom.
 >
@@ -441,27 +441,4 @@ are always welcome.
 > assumed you could actually walk?
 {: .callout}
 
-[ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
-[amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
-[amazon-shallow-end]: https://www.amazon.com/Stuck-Shallow-End-Education-Computing/dp/0262514044/
-[amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
-[conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
-[deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
-[high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
-[jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
-[recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
-[study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
-[swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
-[tpi]: http://www.teachingperspectives.com/tpi/
-[ulrich-stereotype-replicability]: https://replicationindex.wordpress.com/2015/01/06/why-are-stereotype-threat-effects-on-womens-math-performance-difficult-to-replicate/
-[usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessible]: http://www.w3.org/WAI/training/accessible
-[webaim]: http://webaim.org/
-[webaim-swc]: http://wave.webaim.org/report#/software-carpentry.org
-[wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
-[wikipedia-growth-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
-[wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
-[wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
-[wikipedia-stereotype-threat]: https://en.wikipedia.org/wiki/Stereotype_threat
+{% include links.md %}

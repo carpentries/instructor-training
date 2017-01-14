@@ -12,3 +12,5 @@ you come back from break and vote on the most surprising.
 
 We really want you to get to know your fellow learners and become comfortable interacting. There
 will be several interactive activities in the next two days. Let's all start bonding now.
+
+{% include links.md %}

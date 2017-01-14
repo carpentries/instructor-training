@@ -60,4 +60,4 @@ Thank you for taking part in this instructor-training workshop.
 We hope it was a valuable and enjoyable experience,
 and we look forward to your continued involvement in the Software and Data Carpentry community.
 
-[discussion]: http://pad.software-carpentry.org/instructor-discussion
+{% include links.md %}

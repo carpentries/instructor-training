@@ -103,7 +103,7 @@ while you are teaching.  When you sit down, you are hiding yourself
 behind others for those sitting in the back rows.  Make sure to notify
 the workshop organizers of your wish to stand up and ask them to
 arrange a high table/standing desk or
-[lectern](https://en.wikipedia.org/wiki/Lectern#Academic_context).
+[lectern][wikipedia-lectern].
 
 Regardless of whether you are standing or sitting, make sure to move
 around as much as reasonable.  You can for example go to the screen to
@@ -267,5 +267,4 @@ you are unsure of the effect you behaviour has on the workshop.
 > and what the learners you teach it to are expected to be familiar with.
 {: .challenge}
 
-[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good]: https://youtu.be/SkPmwe_WjeY
+{% include links.md %}

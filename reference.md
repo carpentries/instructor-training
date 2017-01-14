@@ -35,7 +35,7 @@ permalink: /reference/
     in order to find out how the class is going
     while there's still time to fix things.
 8.  The "I don't know what I'm doing" feeling never goes away. You just learn the "but I can figure it out" part.
-    -- [Sciencegurl](https://twitter.com/sciencegurlz0/status/687739023826235393)
+    -- [Sciencegurl][sciencegurl-twitter]
 
 A note on #2:
 some instructors start improvising after they've taught the core lessons as-is a few times,
@@ -196,7 +196,7 @@ Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Belief
 :   Compares teachers' opinions about common programming errors with data from over 100,000 students,
     and finds only weak consensus amongst teachers and between teachers and data.
 
-Carroll, Smith-Kerker, Ford, and Mazur-Rimetz: "[The Minimal Manual](http://dx.doi.org/10.1207/s15327051hci0302_2)" *Human–Computer Interaction*, 3:2, 123-153, 1987.
+Carroll, Smith-Kerker, Ford, and Mazur-Rimetz: "[The Minimal Manual][minimal-manual]" *Human–Computer Interaction*, 3:2, 123-153, 1987.
 :   Outlines an approach to documentation and instruction
     in which each lesson is one page long and describes how to accomplish one concrete task.
     Its focus on immediate application,
@@ -243,19 +243,10 @@ Porter et al: "[Success in Introductory Programming: What Works?]({{ page.root }
 Wiggins and McTighe: "[UbD in a Nutshell]({{ page.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
-Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
+Wilson et al: "[Best Practices for Scientific Computing][best-practices]"
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
-Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
+Wilson: "[Software Carpentry: Lessons Learned][lessons-learned]"
 :   Summarizes what we've learned in 17 years of running classes for scientists.
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
-[amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
-[amazon-lcdce]: http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/
-[amazon-making-software]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
-[amazon-tlac]: http://www.amazon.com/Teach-Like-Champion-2-0-Techniques/dp/1118901851/
-[amazon-twydk]: http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/
-[amazon-vivaldi]: http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726/
-[discovering-speech]: https://books.google.com/books?id=IoTdAUdNkgIC&pg=PA302#v=onepage&q&f=false/
-[swc-lessons-learned]: http://f1000research.com/articles/3-62/v2
+{% include links.md %}

@@ -13,6 +13,8 @@ keypoints:
 - "Their materials are all openly licensed, but their names and logos are trademarked."
 - "They share teaching methods and a common instructor pool."
 - "The workshop operations guide summarizes what they have learned about organizing and delivering training."
+thread_example: "http://lists.software-carpentry.org/pipermail/discuss/2015-October/003396.html"
+thread_post: "http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html"
 ---
 In becoming an instructor for Software or Data Carpentry,
 you are also becoming part of a community of like-minded volunteers.
@@ -44,7 +46,7 @@ aspects of Software Carpentry's operations.
 > For more on Software Carpentry's history,
 > and on what we've learned along the way,
 > see [this page]({{ site.swc_site }}/scf/history/) on its website
-> or the paper "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)".
+> or the paper "[Software Carpentry: Lessons Learned][lessons-learned]".
 {: .callout}
 
 In 2013, members of the Software Carpentry community identified a need
@@ -76,7 +78,7 @@ Its workshops are:
 *   not domain-specific, and
 *   modular---each Software Carpentry lesson is standalone.
 
-![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
+![Software Carpentry and Data Carpentry Comparison]({{ page.root }}/fig/SWCvsDC.png)
 
 ## Workshop Operations
 
@@ -230,7 +232,7 @@ for details.
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website using
-[this template](https://github.com/swcarpentry/workshop-template).
+[this template]({{ site.swc_github }}/workshop-template).
 Once that has been created,
 the host or lead instructor sends its URL to
 the [workshop coordinator](mailto:{{ site.email }}),
@@ -239,13 +241,13 @@ The workshop will show up on our websites shortly thereafter.
 
 > ## Practice With SWC Infrastructure
 >
-> Go to the [workshop template repository](https://github.com/swcarpentry/workshop-template) and follow the directions
+> Go to the [workshop template repository]({{ site.swc_github }}/workshop-template) and follow the directions
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 
-We also have [a small installer for Windows](https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe)
+We also have [a small installer for Windows]({{ site.swc_github }}/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe)
 to help people set up their environment,
-which is maintained in [this GitHub repository](https://github.com/swcarpentry/windows-installer).
+which is maintained in [this GitHub repository]({{ site.swc_github }}/windows-installer).
 This installer runs *after* the installer that puts Git and Bash on Windows,
 and does the following:
 
@@ -278,10 +280,10 @@ There are several hubs of activity for the Software and Data Carpentry communiti
 *   Both Software and Data Carpentry have public discussion lists
     that host everything from lively discussion on teaching practices
     to job postings and general announcements.
-*   Data Carpentry also has a [discussion forum](http://discuss.datacarpentry.org/)
+*   Data Carpentry also has a [discussion forum][dc-discuss]
 *   And you can find us on Twitter:
-    *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
-    *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+    *   [Software Carpentry on Twitter][swc-twitter]
+    *   [Data Carpentry on Twitter][dc-twitter]
 
 > ## Get Connected
 >
@@ -367,11 +369,11 @@ discussions on Github issues/pull requests or email discuss lists
 
 Here are some examples of ways that people have contributed to the community:
 
-  * [This email thread](http://lists.software-carpentry.org/pipermail/discuss/2015-October/003396.html)
+  * [This email thread]({{ page.thread_example }})
 is a good example of many instructors chiming in on a topic, resulting in a
-[blog post](http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html),
+[blog post][thread_post],
 summarizing the discussion.
-  * [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89)
+  * [Discussion on a significant pull request]({{ site.swc_github }}/r-novice-gapminder/pull/89)
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
@@ -400,3 +402,5 @@ you are very welcome to put your name forward as a candidate.
 > How could you improve the questions?
 > What would you add, and what would you drop to make room?
 {: .challenge}
+
+{% include links.md %}

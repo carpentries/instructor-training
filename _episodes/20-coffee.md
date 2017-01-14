@@ -11,3 +11,5 @@ in regular teaching?
 In particular,
 do you think you would have enough time to prepare and teach lessons
 the ways you have been shown?
+
+{% include links.md %}

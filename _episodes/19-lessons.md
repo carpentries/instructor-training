@@ -377,11 +377,11 @@ Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) 
 
 |Lesson|Site|Repository|Instructor guide|
 |------|----|----------|----------------|
-|The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository](https://github.com/swcarpentry/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
-|Version Control with Git|[Site]({{site.swc_pages}}/git-novice/)|[Repository](https://github.com/swcarpentry/git-novice)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
-|Programming with Python|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository](https://github.com/swcarpentry/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
-|Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository](https://github.com/swcarpentry/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
-|R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository](https://github.com/swcarpentry/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
+|The Unix Shell|[Site]({{site.swc_pages}}/shell-novice/)|[Repository]({{ site.swc_github }}/shell-novice)|[Instructor guide]({{site.swc_pages}}/shell-novice/guide/)
+|Version Control with Git|[Site]({{site.swc_pages}}/git-novice/)|[Repository]({{ site.swc_github }}/git-novice)|[Instructor guide]({{site.swc_pages}}/git-novice/guide/)|
+|Programming with Python|[Site]({{site.swc_pages}}/python-novice-inflammation/)|[Repository]({{ site.swc_github }}/python-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/python-novice-inflammation/guide/)|
+|Programming with R|[Site]({{site.swc_pages}}/r-novice-inflammation/)|[Repository]({{ site.swc_github }}/r-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/r-novice-inflammation/guide/)|
+|R for Reproducible Scientific Analysis|[Site]({{site.swc_pages}}/r-novice-gapminder/)|[Repository]({{ site.swc_github }}/r-novice-gapminder)|[Instructor guide]({{site.swc_pages}}/r-novice-gapminder/guide/)|
 {: table table-striped}
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
@@ -389,10 +389,10 @@ Software Carpentry also maintains lessons on:
 
 |Lesson|Site|Repository|Instructor guide|
 |------|----|----------|----------------|
-|Version Control with Mercurial|[Site]({{site.swc_pages}}/hg-novice/)|[Repository](https://github.com/swcarpentry/hg-novice)|[Instructor guide]({{site.swc_pages}}/hg-novice/guide/)
-|Using Databases and SQL|[Site]({{site.swc_pages}}/sql-novice-survey/)|[Repository](https://github.com/swcarpentry/sql-novice-survey)|[Instructor guide]({{site.swc_pages}}/sql-novice-survey/guide/)
-|Programming with MATLAB|[Site]({{site.swc_pages}}/matlab-novice-inflammation/)|[Repository](https://github.com/swcarpentry/matlab-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/matlab-novice-inflammation/guide/)
-|Automation and Make|[Site]({{site.swc_pages}}/make-novice/)|[Repository](https://github.com/swcarpentry/make-novice)|[Instructor guide]({{site.swc_pages}}/make-novice/guide/)
+|Version Control with Mercurial|[Site]({{site.swc_pages}}/hg-novice/)|[Repository]({{ site.swc_github }}/hg-novice)|[Instructor guide]({{site.swc_pages}}/hg-novice/guide/)
+|Using Databases and SQL|[Site]({{site.swc_pages}}/sql-novice-survey/)|[Repository]({{ site.swc_github }}/sql-novice-survey)|[Instructor guide]({{site.swc_pages}}/sql-novice-survey/guide/)
+|Programming with MATLAB|[Site]({{site.swc_pages}}/matlab-novice-inflammation/)|[Repository]({{ site.swc_github }}/matlab-novice-inflammation)|[Instructor guide]({{site.swc_pages}}/matlab-novice-inflammation/guide/)
+|Automation and Make|[Site]({{site.swc_pages}}/make-novice/)|[Repository]({{ site.swc_github }}/make-novice)|[Instructor guide]({{site.swc_pages}}/make-novice/guide/)
 {: table table-striped}
 
 but these are less frequently used.
@@ -445,14 +445,4 @@ There are also materials in development and testing for:
 
 Other Data Carpentry lessons are in the incubator stage.
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/
-[amazon-csle]: http://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/
-[amazon-myths]: http://www.amazon.com/Great-Myths-Brain-Psychology/dp/1118312716/
-[amazon-slas]: http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/
-[amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
-[lesson-example]: https://github.com/swcarpentry/lesson-example
-[parnas-design-pdf]: http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf
-[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
-[wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
-[wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
-[wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
+{% include links.md %}
