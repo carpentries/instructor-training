@@ -45,7 +45,7 @@
 [jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
 [learning-theories]: http://www.learning-theories.com/
-[lessons-learned] http://f1000research.com/articles/3-62/v2
+[lessons-learned]: http://f1000research.com/articles/3-62/v2
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [macnamara-practice]: http://pss.sagepub.com/content/25/8/1608
