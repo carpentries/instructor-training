@@ -233,7 +233,7 @@ each workshop's instructors create a one-page website using
 [this template](https://github.com/swcarpentry/workshop-template).
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:{{ site.email }}),
+the [workshop coordinator]({{ site.contact }}),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
