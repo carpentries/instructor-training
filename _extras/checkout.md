@@ -33,7 +33,7 @@ setting of the two-day training.  These are:
     doing a brief session of live coding.
 
 We would like to get everyone through this process within two months of training.
-Anyone who has not completed within 90 days should [contact us](mailto:{{ site.email }})
+Anyone who has not completed within 90 days should [contact us]({{ site.contact }})
 to discuss reasons and options.
 
 Although all instructors must complete these three steps, there are some differences
@@ -57,16 +57,15 @@ Your contribution must be for a lesson in the curriculum of the Carpentry (Softw
 qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
 and a Software Carpentry lesson.
 
-Data Carpentry instructors may submit their contributions through GitHub or by [email](mailto:{{ site.email }}).
+Data Carpentry instructors may submit their contributions through GitHub or by [email]({{ site.contact }}).
 Software Carpentry instructors must submit their contributions through GitHub.
 
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
 
 Please note that:
 
-1. If you submit your contribution through GitHub, you need to notify us by email by
-    sending a link to the pull request or issue to [{{site.email}}](mailto:{{site.email}})
-    so that we can track your progress through checkout.
+1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }}]
+    a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  Your contribution doesn't need to be accepted in order for you to become an instructor:
     the point is to make sure that you understand the process and have met the people who review material.
@@ -159,7 +158,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [this Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know](mailto:{{site.email}})
+please [let us know]({{ site.contact }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -268,4 +267,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-mail us at [{{site.email}}](mailto:{{site.email}}).
+please [contact us]({{ site.contact }}).
