@@ -30,3 +30,5 @@ are still unanswered.
 > be anonymous feedback.  Add your notes to the pile by the door as
 > you leave to get coffee.
 {: .challenge}
+
+{% include links.md %}

@@ -100,7 +100,7 @@ Please note that:
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG (scalable vector graphics),
     since vector formats are easier to manipulate than raster formats.
-    SVG files can be produced using [Inkscape](https://inkscape.org/en/)
+    SVG files can be produced using [Inkscape][inkscape]
     as well as other graphics programs.
 
 7.  We also appreciate improvements to our lessons' learning objectives.
@@ -113,10 +113,10 @@ The lessons you may submit to are:
 
 1.  For [Data Carpentry instructors]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
+    *   [R-ecology]({{ site.dc_github }}/R-ecology-lesson/)
+    *   [Python-ecology]({{ site.dc_github }}/python-ecology-lesson/)
+    *   [SQL-ecology]({{ site.dc_github }}/sql-ecology-lesson/)
+    *   [OpenRefine-ecology]({{ site.dc_github }}/OpenRefine-ecology-lesson/)
 2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
     for any lesson. We are also accepting new exercises using the Gapminder data set
@@ -238,7 +238,10 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-For example, you may choose the [Unix Shell lesson]({{site.swc_pages}}/shell-novice/) and be asked to teach starting from the [loops segment]({{site.swc_pages}}/shell-novice/05-loop/). Or you may choose the [Data Carpentry R for Genomics]({{site.dc_site}}/R-genomics/) lesson and be asked to teach the [introduction to data frame]({{site.dc_site}}/R-genomics/03-data-frames.html) segment.
+For example, you may choose the [Unix Shell lesson]({{site.swc_pages}}/shell-novice/)
+and be asked to teach starting from the [loops segment]({{site.swc_pages}}/shell-novice/05-loop/),
+or you may choose the [Data Carpentry R for Genomics]({{site.dc_site}}/R-genomics/) lesson
+and be asked to teach the [introduction to data frame]({{site.dc_site}}/R-genomics/03-data-frames.html) segment.
 
 For your demonstration(s),
 you will screen-share
@@ -269,3 +272,5 @@ and when and where to sign up for another session.
 
 If you have any questions or suggestions about any of the above,
 mail us at [{{site.email}}](mailto:{{site.email}}).
+
+{% include links.md %}

@@ -70,7 +70,7 @@ permalink: /exercises/
 > Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ page.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
 > and discuss ways you could make peer-to-peer feedback
 > a routine part of your teaching.
-> You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
+> You may also enjoy Gawande's "[Personal Best][gawande-personal-best]",
 > which looks at the value of having a coach.
 {: .challenge}
 
@@ -165,7 +165,4 @@ permalink: /exercises/
 > And how would you describe the criteria for completing it successfully?
 {: .challenge}
 
-[amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
-[scipy-video-1]: https://vimeo.com/139316669
-[scipy-video-2]: https://vimeo.com/139181120
-[tpi]: http://www.teachingperspectives.com/tpi/
+{% include links.md %}

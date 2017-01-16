@@ -31,14 +31,14 @@ If you have any questions about the workshop, the reading material, or anything 
 
 If you are interested in doing more reading, you may enjoy:
 
-*   *[How Learning Works](http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/)*,
+*   *[How Learning Works][amazon-hlw]*,
     which is an excellent summary of current research in teaching and learning
 
-*   *[Building a Better Teacher](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/)*,
+*   *[Building a Better Teacher][amazon-babt]*,
     a well-written look at why educational reforms in the past 50 years have mostly missed the mark
     and about what we should be doing instead.
 
-*   *[Teaching What You Don't Know](http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/)*,
+*   *[Teaching What You Don't Know][amazon-twydk]*,
     which is a situation many of us find ourselves in more often that we'd like.
 
 Episodes
@@ -60,3 +60,5 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * Selecting Data in SQL: <{{ site.swc_pages }}/sql-novice-survey/01-select/>
 * Repeating Actions with Loops in Python: <{{ site.swc_pages }}/python-novice-inflammation/02-loop/>
 * Exploring Data Frames in R: <{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>
+
+{% include links.md %}

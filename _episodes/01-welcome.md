@@ -150,3 +150,5 @@ workshops specifically.
 Our first topic will be cognitive development and mental models,
 which will lead into the theory and practice behind multiple choice
 questions, like the ones you just answered.
+
+{% include links.md %}

@@ -137,18 +137,4 @@ happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
-[contact]: mailto:admin@software-carpentry.org
-[dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
-[dc-lessons]: http://datacarpentry.org/lessons/
-[dc-site]: http://datacarpentry.org/
-[discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
-[example-site]: https://swcarpentry.github.io/lesson-example/
-[github]: http://github.com
-[github-flow]: https://guides.github.com/introduction/flow/
-[github-join]: https://github.com/join
-[how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/swcarpentry/instructor-training/issues/
-[repo]: https://github.com/swcarpentry/instructor-training/
-[swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
-[swc-lessons]: http://software-carpentry.org/lessons/
-[swc-site]: http://software-carpentry.org/
+[issues]: {{ site.github.repository_url }}/issues

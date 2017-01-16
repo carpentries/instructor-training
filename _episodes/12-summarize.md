@@ -75,3 +75,5 @@ As homework overnight, please:
 > * write down one thing that struck you the most
 >
 {: .challenge}
+
+{% include links.md %}

@@ -15,3 +15,5 @@ keypoints:
 > Use your sticky notes to write minute cards
 > as discussed [yesterday]({{ page.root }}/06-summarize/).
 {: .challenge}
+
+{% include links.md %}

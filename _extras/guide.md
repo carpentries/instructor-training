@@ -5,7 +5,7 @@ permalink: /guide/
 ---
 ## Checklists
 
-See Atul Gawande's 2007 article "[The Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist)"
+See Atul Gawande's 2007 article "[The Checklist][gawande-checklist]"
 for a look at how using checklists can save lives (and make many other things better too).
 
 > ## Scheduling the Event
@@ -34,7 +34,7 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   Test the video conference link.
 > 1.  Make sure attendees will all have network access.
 > 1.  Create an Etherpad.
-> 1.  Email attendees [a welcome message][welcome] that includes:
+> 1.  Email attendees [a welcome message]({{ page.root }}/files/messages/welcome.txt) that includes:
 >     *   a link to the workshop home page
 >     *   background readings
 >     *   a description of any pre-requisite tasks
@@ -46,8 +46,8 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Collect attendance.
 > 1.  Distribute sticky notes.
 > 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
-> 1.  Go through [the checkout procedure][checkout] point by point.
-> 1.  Explain how we [format lesson submissions][format].
+> 1.  Go through [the checkout procedure][{{ page.root }}/checkout/] point by point.
+> 1.  Explain how we [format lesson submissions]({{ page.root }}/files/messages/format.txt).
 {: .checklist}
 
 > ## After the Event
@@ -59,7 +59,7 @@ for a look at how using checklists can save lives (and make many other things be
 >     1.  Click "Add" at the bottom of the page.
 >     If anyone didn't show, or in your opinion didn't participate, do not give them credit for this training.
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
-> 1.  Email attendees about [the checkout process][checkout].
+> 1.  Email attendees about [the checkout process][{{ page.root }}/checkout/].
 > 1.  Debrief with the head of instructor training.
 > 1.  Oversee final demonstrations and mark them as complete in AMY.
 >     1.  Go to More... Trainees.
@@ -83,14 +83,14 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After Trainees Complete
 >
-> 1.  Send new instructors [the completion message][completion].
-> 1.  Badge instructors in [AMY][amy].
+> 1.  Send new instructors [the completion message]({{ page.root }}/files/messages/completion.txt).
+> 1.  Badge instructors in [AMY]( {{ site.amy_site }} ).
 >     1.  Go to More... Trainees.
 >     1.  Enter the person's name in the filter on the left of the page and submit.
 >     1.  Select the appropriate badge on the right.
 >     1.  Fill in the details.
 >     1.  Submit.
-> 1.  Create and send [PDF certificates][certificates].
+> 1.  Create and send [PDF certificates]({{ site.swc_github }}/certification).
 {: .checklist}
 
 Note that trainers do not examine their own trainees:
@@ -101,12 +101,12 @@ and maintain consistency of curriculum and standards.
 
 You may use the following message templates to communicate with trainees:
 
-* [Welcome participants before the workshop][welcome]
-* [Description of checkout procedure sent immediately after the workshop][checkout]
-* [Next steps after receiving pull request][after-pr]
-* [Request to do another discussion session when participant was passive][passive-discussion]
-* [Confirm certification and describe next steps][completion]
-* [Notify participants that they have not completed within the specified time][expiry]
+* [Welcome participants before the workshop]({{ page.root }}/files/messages/welcome.txt)
+* [Description of checkout procedure sent immediately after the workshop][{{ page.root }}/files/messages/checkout.txt]
+* [Next steps after receiving pull request]({{ page.root }}/files/messages/after-pr.txt)
+* [Request to do another discussion session when participant was passive]({{ page.root }}/files/messages/passive-discussion.txt)
+* [Confirm certification and describe next steps]({{ page.root }}/files/messages/completion.txt)
+* [Notify participants that they have not completed within the specified time]({{ page.root }}/files/messages/expiry.txt)
 
 ## Introduction
 
@@ -283,7 +283,7 @@ and have a rubric to follow.
 ## The Big Picture
 
 In 2014,
-[George Monbiot wrote](http://www.theguardian.com/commentisfree/2014/jun/16/saving-the-world-promise-not-fear-nature-environmentalism):
+[George Monbiot wrote][monbiot-saving-environmentalism]:
 
 > If we had set out to alienate and antagonize the people we've been trying to reach,
 > we could scarcely have done it better.
@@ -500,7 +500,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
     or just say "bong" really loudly at the end of their tie.
 *   After the five minute timer, allow them to finish their sentence and tell them time's up.
-*   Use a [rubric][rubric] for notes.
+*   Use a [rubric]({{ page.root }}/files/teaching-demo-rubric.md) for notes.
 *   After the trainee is finished,
     first ask how they themselves thought it went,
     then give constructive feedback based on your notes.
@@ -550,20 +550,4 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
     *   [04-dplyr]({{ site.dc_site }}/R-ecology-lesson/04-dplyr.html)
     *   [05-visualization-ggplot2.html]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html) (actually, [plotting-with-ggplot2]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html#plotting-with-ggplot2))
 
-[after-pr]: {{ page.root }}/files/messages/after-pr.txt
-[amy]: {{ site.amy_site }}/
-[certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ page.root }}/files/messages/checkout.txt
-[completion]: {{ page.root }}/files/messages/completion.txt
-[expiry]: {{ page.root }}/files/messages/expiry.txt
-[format]: {{ page.root }}/files/messages/format.txt
-[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good]: https://youtu.be/SkPmwe_WjeY
-[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
-[passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
-[profile]: {{ site.amy_site }}/update_profile/
-[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
-[rubric]: {{ page.root }}/files/teaching-demo-rubric.md
-[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
-[welcome]: {{ page.root }}/files/messages/welcome.txt
+{% include links.md %}

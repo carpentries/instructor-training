@@ -286,7 +286,4 @@ and for a handful of regular workshops,
 > but more work is needed to figure out its pros and cons.
 {: .callout}
 
-[brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
-[etherpad]: http://etherpad.org
-[wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
-[wikipedia-peak-rule]: https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule
+{% include links.md %}

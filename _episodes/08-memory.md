@@ -173,7 +173,7 @@ for ch in "abc":
 
 The three key concepts used in this loop are:
 
-![Key Concepts](../fig/for-loop-concepts.png)
+![Key Concepts]({{ page.root }}/fig/for-loop-concepts.png)
 
 (In this case it's easy to connect the concepts to concrete elements in the program,
 but that may not always be the case.)
@@ -181,26 +181,26 @@ The key relationships,
 which are as important as the concepts themselves,
 are:
 
-![Relationships](../fig/for-loop-arcs.png)
+![Relationships]({{ page.root }}/fig/for-loop-arcs.png)
 
 A quick count shows that there are actually 6 things here,
 not just 3,
 so we're already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
-![Recommendations](../fig/for-loop-rec.png)
+![Recommendations]({{ page.root }}/fig/for-loop-rec.png)
 
 the count rises to 8,
 which is a good size for a single teaching episode.
 A few other concept maps drawn by previous participants in this training course
 are listed below:
 
-* [Array Math](../fig/array-math.png)
-* [Conditionals](../fig/conditionals.png)
-* [Creating and Destroying Files](../fig/create-destroy.png)
-* [Sets and Dictionaries in Python](../fig/dict-set.png)
-* [Input and Output](../fig/io.png)
-* [Lists and Loops](../fig/lists-loops.png)
+* [Array Math]({{ page.root }}/fig/array-math.png)
+* [Conditionals]({{ page.root }}/fig/conditionals.png)
+* [Creating and Destroying Files]({{ page.root }}/fig/create-destroy.png)
+* [Sets and Dictionaries in Python]({{ page.root }}/fig/dict-set.png)
+* [Input and Output]({{ page.root }}/fig/io.png)
+* [Lists and Loops]({{ page.root }}/fig/lists-loops.png)
 
 Most of these are larger than our recommended limit,
 but that's not necessarily a bad thing:
@@ -371,9 +371,4 @@ This is why it's very important to use a technique like concept mapping a lesson
 before teaching it - an instructor needs to identify just how many pieces of
 separate information will need to be "stored" in memory as part of the lesson.
 
-[abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
-[amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
-[macnamara-practice]: http://pss.sagepub.com/content/25/8/1608
-[memory-test]: http://cat.xula.edu/thinker/memory/working/serial
-[wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
-[wikipedia-serial-position]: https://en.wikipedia.org/wiki/Serial_position_effect
+{% include links.md %}

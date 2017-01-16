@@ -110,7 +110,7 @@ The things teachers know can be divided into:
     PCK is things like what examples to use when teaching how parameters are passed to a function,
     or what misconceptions about wildcard expansion are most common.
 
-![Pedagogical Content Knowledge](../fig/pck.svg)
+![Pedagogical Content Knowledge]({{ page.root }}/fig/pck.svg)
 
 This training course focuses on general pedagogical knowledge
 through the two major categories
@@ -223,18 +223,4 @@ we will have done them a service.
 > Is that how you prefer to learn?
 {: .discussion}
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
-[amazon-big-picture]: http://www.amazon.com/Big-Picture-Education-Everyones-Business/dp/0871209713/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
-[amazon-myths]: https://www.amazon.com/Urban-Myths-about-Learning-Education/dp/0128015373/
-[amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
-[cs-teaching-tips]: http://csteachingtips.org/
-[learning-theories]: http://www.learning-theories.com/
-[patitsas-bimodal]: http://dl.acm.org/citation.cfm?id=2960312
-[wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
-[wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
-[wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
-[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-phonics]: http://en.wikipedia.org/wiki/Phonics
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
-[wikipedia-whole-language]: http://en.wikipedia.org/wiki/Whole_language
+{% include links.md %}
