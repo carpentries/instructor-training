@@ -90,6 +90,7 @@ another.
 > and it is assumed learners are familiar with how to use a variable,
 > the `head `command and the content of the `basilisk.dat unicorn.dat`
 > files.
+{: .challenge}
 
 ## Live Coding Top 10
 
