@@ -219,8 +219,12 @@ Once you have completed your discussion session,
 the final step is to sign up for a 5-minute teaching demonstration online using
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
-These demonstrations are run as video conferences using Google Hangouts.
-The instructor leading the session will post connection details and other information
+
+The link to connect to the video conference is at the top of the Etherpad.
+Please be sure to use a headset with a built-in microphone during the session
+rather than open-air speakers and your laptop's built-in microphone,
+since the latter often lead to audio quality problems.
+The instructor leading the session will post other information
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
 Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data)
