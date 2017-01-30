@@ -477,8 +477,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 
 ### Shortly Before the Demo
 
-*   Prepare the Google hangout (or other online meeting place)
-    and paste the link in the etherpad.
+*   Go to the BlueJeans room (https://bluejeans.com/890039066) or alternate room if needed (https://bluejeans.com/644349847).
 
 ### During the Demo
 
@@ -494,7 +493,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Hand out the assignment to the first trainee,
     give them a bit of time to set up the demo
     (they may have to import some packages, load some data, move to a certain folder etc).
-*   Ask them to share their screen.
+*   Ask them to share their screen using the "Share Screen" button on the right hand menu in BlueJeans.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
     or just say "bong" really loudly at the end of their tie.
