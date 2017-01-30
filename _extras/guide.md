@@ -477,7 +477,8 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 
 ### Shortly Before the Demo
 
-*   Go to the BlueJeans room (https://bluejeans.com/890039066) or alternate room if needed (https://bluejeans.com/644349847).
+*   Go to the [BlueJeans room](https://bluejeans.com/890039066) or [alternate room](https://bluejeans.com/644349847) if needed. Links to 
+    these are on the Etherpad.
 
 ### During the Demo
 
