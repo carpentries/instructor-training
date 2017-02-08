@@ -186,11 +186,19 @@ Here is a really nice online Parsons Problem interactive tool. [Try it out!](htt
 
 > ## Parsons Problems
 >
-> Write 5 or 6 lines of code that does something useful,
-> jumble them,
-> then add one more line that looks plausible but isn't needed to solve the problem.
-> How well can your partner tell which line is unnecessary?
-{: .challenge}
+> Challenge option 1: Jumbled with an unnecesasary line
+> 1. Write 5 or 6 lines of code that does something useful,
+> 2. jumble them,
+> 3. then add one more line that looks plausible but isn't needed to solve the problem.
+> 4. How well can your partner tell which line is unnecessary?
+>
+>
+> Challenge option 2: Simply jumbled
+> 1. Pick a block of code from an existing Software or Data Carpentry lesson, or from another lesson you have taught recently.
+> 2. Jumble the code
+> 3. Paste your jumbled code block into the etherpad
+> 4. Determine the correct order of your partner's else's code block 
+> {: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
