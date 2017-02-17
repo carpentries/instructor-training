@@ -8,7 +8,7 @@ permalink: /guide/
 See Atul Gawande's 2007 article "[The Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist)"
 for a look at how using checklists can save lives (and make many other things better too).
 
-> ## Scheduling the Event
+> ## Scheduling the Event [Coordinator]
 >
 > 1.  Decide if it will be in person, online for one site, or online for several.
 > 1.  Talk through expectations with the host(s).
@@ -25,7 +25,7 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   Register those people in AMY.
 {: .checklist}
 
-> ## Setting Up
+> ## Setting Up [Trainer]
 >
 > 1.  Set up a one-page website for the workshop using <https://github.com/swcarpentry/training-template> as a starting point.
 > 1.  Send the URL to the admins.
@@ -40,7 +40,7 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   a description of any pre-requisite tasks
 {: .checklist}
 
-> ## During the Event
+> ## During the Event [Trainer]
 >
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
@@ -50,7 +50,7 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Explain how we [format lesson submissions][format].
 {: .checklist}
 
-> ## After the Event
+> ## After the Event [Trainer]
 >
 > 1.  Update AMY.
 >     1.  Go to More... Trainees.
@@ -69,27 +69,15 @@ for a look at how using checklists can save lives (and make many other things be
 >     1.  Submit.
 {: .checklist}
 
-> ## Between Instructor Training Sessions
+> ## Between Instructor Training Sessions [Trainer]
 >
-> 1.  Sign up to lead group lesson discussions.
-> 1.  Monitor `lessons@software-carpentry.org` for notices from trainees that they have submitted PRs
->     and add those PRs to their progress on AMY.
->     1.  Go to More... Trainees.
->     1.  Enter the person's name in the filter on the left of the page and submit.
->     1.  Click the gray `[+]` beside their name.
->     1.  Select the type of homework (SWC or DC) and enter the URL of their PR or issue.
->     1.  Submit.
+> 1.  Sign up to lead [teaching demonstrations](http://pad.software-carpentry.org/teaching-demos).
+> 2.  Email a list of trainees who participated in teaching demo to checkout@carpentries.org. Note whether they passed or failed.  
 {: .checklist}
 
-> ## After Trainees Complete
+> ## After Trainees Complete [Head of Instructor Training]
 >
 > 1.  Send new instructors [the completion message][completion].
-> 1.  Badge instructors in [AMY][amy].
->     1.  Go to More... Trainees.
->     1.  Enter the person's name in the filter on the left of the page and submit.
->     1.  Select the appropriate badge on the right.
->     1.  Fill in the details.
->     1.  Submit.
 > 1.  Create and send [PDF certificates][certificates].
 {: .checklist}
 
