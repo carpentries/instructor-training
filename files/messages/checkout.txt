@@ -12,6 +12,6 @@ In order to wrap up, we would like you to do the steps outlined in http://swcarp
 
 3. Teach a 5-minute demonstration lesson online.
 
-If you have any questions or suggestions about these steps, please contact me or all the trainers at training-help@software-carpentry.org. Please note that we would like everyone to complete all three steps within 90 days of the training course.  If you are not able to do this, please contact me to discuss reasons and options.
+If you have any questions or suggestions about these steps, please contact us at checkout@carpentries.org. Please note that we would like everyone to complete all three steps within 90 days of the training course.  If you are not able to do this, please contact us to discuss reasons and options.
 
 Thanks again - we look forward to seeing you online.
