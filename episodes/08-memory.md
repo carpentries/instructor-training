@@ -99,7 +99,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > and then you just install these four patches to Ubuntu
 > and then you just re-write your entire program in a pure functional style---no problem."
 > As [we discuss later]({{ page.root }}/19-motivation/),
-> the J word (also sometimes called the passive dismissive adjective)
+> the J word (also sometimes called the passive dismissive adverb)
 > is banned in our workshops,
 > primarily because using it gives learners the very clear signal
 > that the instructor thinks their problem is trivial
