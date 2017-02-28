@@ -72,14 +72,14 @@ One example is work by Mayer and colleagues on
 the *[split-attention effect][wikipedia-split-attention]*.
 Linguistic and visual input are processed by different parts of the human brain,
 and linguistic and visual memories are stored separately as well.
-This means that correlating linguistic, auditory, and visual streams of information takes cognitive effort:
-when someone reads something while hearing it spoken aloud,
+This means that correlating different linguistic, auditory, and visual streams of information takes cognitive effort:
+when someone reads one thing while hearing something else spoken aloud,
 their brain can't help but check that it's getting the same information on both channels.
-Learning is therefore more effective when redundant information is *not* being presented simultaneously
-in two different channels.
-For example,
-people find it harder to learn from a video that has both narration and on-screen captions
-than from one that has either the narration or the captions but not both.
+Discrepencies between these channels increase cognitive load and decrease learning.
+Learning is therefore more effective when information that is being presented simultaneously
+in two different channels is redundant, rather than different. 
+For our workshops, this means the instructor should say out loud commands as they type them on the screen
+during live coding.
 
 ## Faded Examples
 
