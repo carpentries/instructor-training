@@ -137,10 +137,11 @@ Learners use their own machines.
     two different sets of keyboard shortcuts for things like copying and
     pasting.
 
-    Some instructors use VPS over SSH or web browser pages instead.  This
-    solve the installation issues, but makes us dependent on host
-    institutions' WiFi (which can be of highly variable quality), and
-    has the issues mentioned above with things like keyboard shortcuts.
+    Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure 
+    Shell][ssh] (SSH) or web browser pages instead. This solve the installation 
+    issues, but makes us dependent on host institutions' WiFi (which can be 
+    of highly variable quality), and has the issues mentioned above with things 
+    like keyboard shortcuts.
 
 Collaborative note-taking.
 :   We often use [Etherpad][etherpad] for collaborative
@@ -290,3 +291,5 @@ and for a handful of regular workshops,
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [wikipedia-peak-rule]: https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule
+[vps]: https://en.wikipedia.org/wiki/Virtual_private_server
+[ssh]: https://en.wikipedia.org/wiki/Ssh
