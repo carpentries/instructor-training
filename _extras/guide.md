@@ -61,12 +61,6 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Debrief with the head of instructor training.
-> 1.  Oversee final demonstrations and mark them as complete in AMY.
->     1.  Go to More... Trainees.
->     1.  Enter the person's name in the filte ron the left of the page and submit.
->     1.  Click the gray `[+]` beside their name.
->     1.  Fill in the details of the demo they did and who passed it.
->     1.  Submit.
 {: .checklist}
 
 > ## Between Instructor Training Sessions [Trainer]
