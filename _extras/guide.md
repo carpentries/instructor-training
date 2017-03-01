@@ -445,6 +445,8 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 ### Before the Demo
 
 *   Sign up to lead the demo at <http://pad.software-carpentry.org/teaching-demos>.
+*   Trainers should not certify people from their own institution or from the workshops
+    they taught, so check this is not the case, and ask any such trainees to reschedule
 *   For each trainee, pick a suitable starting point in the lesson that they have chosen.
     Do not start at the very beginning of the first episode,
     and look for an episode that dives into live coding quickly without first explaining a lot.
