@@ -241,7 +241,9 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-For example, you may choose the [Unix Shell lesson]({{site.swc_pages}}/shell-novice/) and be asked to teach starting from the [loops segment]({{site.swc_pages}}/shell-novice/05-loop/). Or you may choose the [Data Carpentry R for Genomics]({{site.dc_site}}/R-genomics/) lesson and be asked to teach the [introduction to data frame]({{site.dc_site}}/R-genomics/03-data-frames.html) segment.
+Tables showing the lessons can be found [here for Software Carpentry](https://software-carpentry.org/lessons/) and [here for Data Carpentry](http://www.datacarpentry.org/lessons/). 
+A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
+You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
 For your demonstration(s),
 you will screen-share
