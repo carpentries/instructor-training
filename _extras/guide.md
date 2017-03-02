@@ -52,12 +52,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After the Event [Trainer]
 >
-> 1.  Update AMY.
->     1.  Go to More... Trainees.
->     1.  Select the training event in the filter on the left of the page.
->     1.  Tick off all the people who participated (there's a "select all" tick box by the "Name" column header).
->     1.  Click "Add" at the bottom of the page.
->     If anyone didn't show, or in your opinion didn't participate, do not give them credit for this training.
+> 1.  Email a list of attendees and no-shows to checkout@carpentries.org, noting the URL of your training event.
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Debrief with the head of instructor training.
