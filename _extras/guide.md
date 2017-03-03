@@ -23,6 +23,10 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   If it is in person, book travel.
 > 1.  Get names and email addresses of attendees from host(s).
 >     *   Register those people in AMY.
+> 1.  Email attendees [a welcome message][welcome] that includes:
+>     *   a link to the workshop home page
+>     *   background readings
+>     *   a description of any pre-requisite tasks
 {: .checklist}
 
 > ## Setting Up [Trainer]
@@ -34,10 +38,6 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   Test the video conference link.
 > 1.  Make sure attendees will all have network access.
 > 1.  Create an Etherpad.
-> 1.  Email attendees [a welcome message][welcome] that includes:
->     *   a link to the workshop home page
->     *   background readings
->     *   a description of any pre-requisite tasks
 {: .checklist}
 
 > ## During the Event [Trainer]
