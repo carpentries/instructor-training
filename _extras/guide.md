@@ -27,13 +27,14 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## Setting Up [Trainer]
 >
+> 1.  Create an Etherpad (http://pad.software-carpentry.org/<nameofevent>
 > 1.  Set up a one-page website for the workshop using <https://github.com/swcarpentry/training-template> as a starting point.
 > 1.  Send the URL to the admins.
-> 1.  Check whether any attendees have special needs.
 > 1.  If it is online:
 >     *   Test the video conference link.
+>     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
+> 1.  Check whether any attendees have special needs.
 > 1.  Make sure attendees will all have network access.
-> 1.  Create an Etherpad.
 > 1.  Email attendees [a welcome message][welcome] that includes:
 >     *   a link to the workshop home page
 >     *   background readings
@@ -45,6 +46,7 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
 > 1.  Distribute sticky notes.
+> 1.  Use the etherpad. 
 > 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
 > 1.  Go through [the checkout procedure][checkout] point by point.
 > 1.  Explain how we [format lesson submissions][format].
