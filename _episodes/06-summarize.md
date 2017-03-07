@@ -29,4 +29,8 @@ are still unanswered.
 > on the red.  Do *not* put your name on the notes: this is meant to
 > be anonymous feedback.  Add your notes to the pile by the door as
 > you leave to get coffee.
+>
+> For online workshops, you can use a google form to collect annonymous feedback. 
+> Make a copy of this one and change the name to that of your workshop. 
+> https://goo.gl/forms/AweE07dXtib6QDXE2
 {: .challenge}
