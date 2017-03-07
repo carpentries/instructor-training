@@ -261,6 +261,9 @@ without bumping into each other).
 > Trade with a partner, and critique each other's maps.
 > Do they present concepts or surface detail?
 > Which of the relationships in your partner's map do you consider concepts and vice versa?
+>
+> Take 10 minutes to draw the concept maps and share with your neighbor. 
+> Write done in the chat once you have finished.
 {: .challenge}
 
 > ## Building Concept Maps Together
@@ -296,6 +299,8 @@ without bumping into each other).
 >
 > [This website][memory-test] implements
 > an interactive version of this exercise.
+>
+> Take 5 minutes to complete the exercise and write your answer in the etherpad.
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
