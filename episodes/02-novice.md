@@ -294,8 +294,8 @@ what to explain to that particular learner next.
 
 > ## Handling Outcomes
 >
-> As the instructor, what should you do if most of the class votes for one
-> of the wrong answers?  For the right answer?  What if the votes are evenly
+> As the instructor, what should you do if most of the class votes: 1) For one
+> of the wrong answers?  2) For the right answer?  3) For an even
 > spread between options?
 {: .discussion}
 
