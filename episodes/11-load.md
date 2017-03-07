@@ -164,7 +164,8 @@ to create the final result.
 >     or from another lesson you have taught recently.
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the student's ability to correctly fill in that blank.
-> 4.  Paste your faded example in the Etherpad.
+> 4.  Take 10 minutes for this exercise.
+> 5.  Paste your faded example in the Etherpad.
 {: .challenge}
 
 ## Parsons Problems
@@ -198,6 +199,8 @@ Here is a really nice online Parsons Problem interactive tool. [Try it out!](htt
 > 2. Jumble the code
 > 3. Paste your jumbled code block into the etherpad
 > 4. Determine the correct order of your partner's else's code block 
+>
+> This challenge should take about 6 minutes. 
 > {: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
