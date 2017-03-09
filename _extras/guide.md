@@ -35,6 +35,7 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
 > 1.  Check whether any attendees have special needs.
 > 1.  Make sure attendees will all have network access.
+> 1.  Check whether any attendees have special needs.
 > 1.  Email attendees [a welcome message][welcome] that includes:
 >     *   a link to the workshop home page
 >     *   background readings
