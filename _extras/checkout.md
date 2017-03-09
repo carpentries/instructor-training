@@ -64,7 +64,7 @@ Trainees must do their work on one of the lessons for which we are currently see
 
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }}]
+1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  Your contribution doesn't need to be accepted in order for you to become an instructor:
