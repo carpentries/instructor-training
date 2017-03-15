@@ -33,7 +33,7 @@ but the model does a good job of helping people reason about chemical compounds 
 
 > ## Your Mental Models
 >
-> What is your primary research domain?  What is one mental model you use to frame
+> What is your primary research domain or area of expertise?  What is one mental model you use to frame
 > and understand your work?
 {: .discussion}
 
