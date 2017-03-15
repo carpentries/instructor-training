@@ -402,23 +402,6 @@ and how they might be broken---in short,
 to put themselves into the learners' heads
 and see the topic from their point of view.
 
-> ## Why We Don't Assess During Registration
->
-> Unfortunately,
-> most formal educational systems train people to treat all assessment as summative,
-> i.e.,
-> to think of every interaction with a teacher as an evaluation,
-> rather than as a chance to shape instruction.
-> For example,
-> we use a short pre-assessment questionnaire to profile learners before workshops
-> to help instructors tune the pace and level of material.
-> We send this questionnaire out after people have registered
-> rather than making it part of the sign-up process because when we did the latter,
-> many people concluded that since they couldn't answer all the questions,
-> they shouldn't enrol.
-> We were therefore scaring off many of the people we most wanted to help.
-{: .callout}
-
 > ## Other Kinds of Formative Assessment
 >
 > Describe another kind of formative assessment you have seen or used
