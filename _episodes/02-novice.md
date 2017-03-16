@@ -295,6 +295,7 @@ what to explain to that particular learner next.
 > ## Handling Outcomes
 >
 > What should the instructor do when, the class votes for: 
+>
 > 1. mostly the wrong answers?  
 > 2. mostly the right answer?  
 > 3. an even spread between options?
