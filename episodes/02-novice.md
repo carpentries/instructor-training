@@ -294,11 +294,11 @@ what to explain to that particular learner next.
 
 > ## Handling Outcomes
 >
-> What should the instructor do when, the class votes for: 
+> What should the instructor do when the class votes for: 
 >
-> 1. mostly the wrong answers?  
+> 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
-> 3. an even spread between options?
+> 3. an even spread among options?
 {: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
