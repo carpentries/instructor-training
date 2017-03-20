@@ -8,7 +8,7 @@ questions:
 - "What will we cover (or not) in this workshop?"
 - "What prior knowledge do workshop participants have?"
 objectives:
-- "Explain what made their favorite class(es) so great." 
+- "Identify one or more components of successful teaching." 
 - "Understand what will be covered in the instructor training."
 keypoints:
 - "This episode sets the stage for the entire workshop. The introductions and excercises help everyone begin to develop a relationship and trust."
