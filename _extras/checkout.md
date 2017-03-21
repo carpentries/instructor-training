@@ -33,7 +33,7 @@ setting of the two-day training.  These are:
     doing a brief session of live coding.
 
 We would like to get everyone through this process within two months of training.
-Anyone who has not completed within 90 days should [contact us](mailto:{{ site.email }})
+Anyone who has not completed within 90 days should [contact us]({{ site.contact }})
 to discuss reasons and options.
 
 Although all instructors must complete these three steps, there are some differences
@@ -57,16 +57,15 @@ Your contribution must be for a lesson in the curriculum of the Carpentry (Softw
 qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
 and a Software Carpentry lesson.
 
-Data Carpentry instructors may submit their contributions through GitHub or by [email](mailto:{{ site.email }}).
+Data Carpentry instructors may submit their contributions through GitHub or by [email]({{ site.contact }}).
 Software Carpentry instructors must submit their contributions through GitHub.
 
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
 
 Please note that:
 
-1. If you submit your contribution through GitHub, you need to notify us by email by
-    sending a link to the pull request or issue to [{{site.email}}](mailto:{{site.email}})
-    so that we can track your progress through checkout.
+1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }})
+    a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  Your contribution doesn't need to be accepted in order for you to become an instructor:
     the point is to make sure that you understand the process and have met the people who review material.
@@ -159,7 +158,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [this Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know](mailto:{{site.email}})
+please [let us know]({{ site.contact }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -220,8 +219,12 @@ Once you have completed your discussion session,
 the final step is to sign up for a 5-minute teaching demonstration online using
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
-These demonstrations are run as video conferences using Google Hangouts.
-The instructor leading the session will post connection details and other information
+
+The link to connect to the video conference is at the top of the Etherpad.
+Please be sure to use a headset with a built-in microphone during the session
+rather than open-air speakers and your laptop's built-in microphone,
+since the latter often lead to audio quality problems.
+The instructor leading the session will post other information
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
 Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data)
@@ -238,7 +241,9 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-For example, you may choose the [Unix Shell lesson]({{site.swc_pages}}/shell-novice/) and be asked to teach starting from the [loops segment]({{site.swc_pages}}/shell-novice/05-loop/). Or you may choose the [Data Carpentry R for Genomics]({{site.dc_site}}/R-genomics/) lesson and be asked to teach the [introduction to data frame]({{site.dc_site}}/R-genomics/03-data-frames.html) segment.
+Tables showing the lessons can be found [here for Software Carpentry](https://software-carpentry.org/lessons/) and [here for Data Carpentry](http://www.datacarpentry.org/lessons/). 
+A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
+You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
 For your demonstration(s),
 you will screen-share
@@ -268,4 +273,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-mail us at [{{site.email}}](mailto:{{site.email}}).
+please [contact us]({{ site.contact }}).

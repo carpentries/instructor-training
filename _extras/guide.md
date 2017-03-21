@@ -8,7 +8,7 @@ permalink: /guide/
 See Atul Gawande's 2007 article "[The Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist)"
 for a look at how using checklists can save lives (and make many other things better too).
 
-> ## Scheduling the Event
+> ## Scheduling the Event [Coordinator]
 >
 > 1.  Decide if it will be in person, online for one site, or online for several.
 > 1.  Talk through expectations with the host(s).
@@ -25,51 +25,68 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   Register those people in AMY.
 {: .checklist}
 
-> ## Setting Up
+> ## Setting Up [Trainer]
 >
+> 1.  Create an Etherpad (http://pad.software-carpentry.org/<nameofevent>
 > 1.  Set up a one-page website for the workshop using <https://github.com/swcarpentry/training-template> as a starting point.
 > 1.  Send the URL to the admins.
-> 1.  Check whether any attendees have special needs.
 > 1.  If it is online:
 >     *   Test the video conference link.
+>     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
+> 1.  Check whether any attendees have special needs.
 > 1.  Make sure attendees will all have network access.
-> 1.  Create an Etherpad.
+> 1.  Check whether any attendees have special needs.
 > 1.  Email attendees [a welcome message][welcome] that includes:
 >     *   a link to the workshop home page
 >     *   background readings
 >     *   a description of any pre-requisite tasks
 {: .checklist}
 
-> ## During the Event
+> ## During the Event [Trainer]
 >
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
 > 1.  Distribute sticky notes.
+> 1.  Use the etherpad. 
 > 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
 > 1.  Go through [the checkout procedure][checkout] point by point.
 > 1.  Explain how we [format lesson submissions][format].
 {: .checklist}
 
-> ## After the Event
+> ## After the Event [Trainer]
 >
+> 1.  Email a list of attendees and no-shows to checkout@carpentries.org, noting the URL of your training event.
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
-> 1.  Recruit experienced instructors to lead group lesson discussions.
-> 1.  Schedule group lesson discussions.
-> 1.  Oversee final demonstration lessons.
 > 1.  Debrief with the head of instructor training.
 {: .checklist}
 
-> ## After Trainees Complete
+> ## Between Instructor Training Sessions [Trainer]
+>
+> 1.  Sign up to lead [teaching demonstrations](http://pad.software-carpentry.org/teaching-demos).
+> 2.  Email a list of trainees who participated in teaching demo to checkout@carpentries.org. Note whether they passed or failed.  
+{: .checklist}
+
+> ## After Trainees Complete [Head of Instructor Training]
 >
 > 1.  Send new instructors [the completion message][completion].
-> 1.  Badge instructors in [AMY][amy].
 > 1.  Create and send [PDF certificates][certificates].
 {: .checklist}
 
 Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
+
+## Messages
+
+You may use the following message templates to communicate with trainees:
+
+* [Welcome participants before the workshop][welcome]
+* [Description of checkout procedure sent immediately after the workshop][checkout]
+* [Next steps after receiving pull request][after-pr]
+* [Request to do another discussion session when participant was passive][passive-discussion]
+* [Confirm certification and describe next steps][completion]
+* [Notify participants that they have not completed within the specified time][expiry]
 
 ## Introduction
 
@@ -87,7 +104,6 @@ the very least, everyone should add their name to the Etherpad, but
 its also good for everyone at a given site to know who all is in the
 group.  Note: this can be done while setting up before the start of
 the class.
-
 
 ## Exercises
 
@@ -418,205 +434,117 @@ This was the first method we tried.
         but still not as good as a simple WordPress blog.
         In particular,
         it was hard to find things once there were more than a dozen homework categories.
+        
+## Demo Sessions
 
-## Testimonials
+Checklist for instructor trainers hosting a live-coding demo session as part of a trainee's checkout procedure.
 
-> ## Steve Crouch
->
-> Writing software in an academic environment can be a real challenge,
-> and a very rewarding part of my job involves helping researchers improve their research software,
-> and perhaps more importantly,
-> the way in which they develop it.
-> Transferring crucial skills into the wider community as a teacher allows me to reach even more people,
-> and help improve the overall situation with developing research software at an early stage of many researcher's careers.
->
-> I have found Software Carpentry to be a truly transformative and fascinating experience,
-> not only for those I teach but also for myself,
-> and reinforces the notion that improving and learning new research software development skills
-> is a continuous and vastly rewarding experience.
-{: .testimonial}
+### Before the Demo
 
-> ## Neal Davis
->
-> In my day job, I teach students how to use engineering and computer science tools.
-> By temperament and experience,
-> I strongly favor an apprenticeship approach for instruction,
-> and the Software Carpentry model of direct learner–instructor interaction in a hands-on setting
-> is a decent short-term approximation.
-> This allows students to rise to their current level of technical sophistication during the workshop,
-> and to discover the answers to questions they don't know how to pose verbally.
->
-> What particularly fascinates me is the way learning works and the way scientific and technical knowledge is structured.
-> It's exciting to create and foster technical communities to take advantage of new channels for learning and teaching,
-> as well as for research and engineering.
-> SWC and DC are on the vanguard, and I'm proud to be a part.
-{: .testimonial}
+*   Sign up to lead the demo at <http://pad.software-carpentry.org/teaching-demos>.
+*   Trainers should not certify people from their own institution or from the workshops
+    they taught, so check this is not the case, and ask any such trainees to reschedule
+*   For each trainee, pick a suitable starting point in the lesson that they have chosen.
+    Do not start at the very beginning of the first episode,
+    and look for an episode that dives into live coding quickly without first explaining a lot.
+    (Example starting points are listed below.).
+    Do not have them start in the middle of an episode.
+    Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data)
+    have supplementary episodes.
+    Do not pick from those.
+*   If a trainee wants to demo for both SWC and DC,
+    allocate two slots for them,
+    but set up schedule that does **not** have them teaching twice in a row.
 
-> ## Rayna Harris
->
-> During the past decade or so,
-> I've realized that grad students teach themselves much of what they learn during grad school.
-> Of course self-teaching is a valuable process in the road to becoming an independent researcher,
-> but I thank that we could be more productive, successful, efficient, and impactful teachers and researchers
-> if we learned some things with hands-on instruction and guidance rather than with Google and trial and error.
->
-> I joined the Software Carpentry and Data Carpentry organizations
-> because I was looking for a community of role-models I could look up to
-> that taught beginner computing effectively and taught teachers how to teach beginner computing effectively.
-> Without a doubt,
-> my involvement with the Software Carpentry community has helped me to become a better teacher, scientist, and collaborator.
-> I'm very excited to be an instructor trainer so that I can empower others
-> with tools, confidence, and resources they need to advance their careers.
-{: .testimonial}
+### Shortly Before the Demo
 
-> ## Christina Koch
->
-> <img src="../fig/christinalk_whyiteach.png" alt="Tweet by realscientists.  Image of a little girl staring at a snake, with accompanying text 'That moment in the photo, the transition from OMG it's going to kill me to OMG this is cool! and I'm not afraid!' Retweeted by _christinaLK with the hashtag why i teach">
->  
-> I love sharing ideas with people. The best moments in life, for me, are facilitating 
-> intellectual insights along with personal connections. Those moments are what build 
-> a community that continues living in hope and adventure, especially important in 
-> times of fear and division. I teach to make those moments possible for myself 
-> and for others.
-{: .testimonial}
+*   Go to the [BlueJeans room](https://bluejeans.com/890039066) or [alternate room](https://bluejeans.com/644349847) if needed. Links to 
+    these are on the Etherpad.
 
-> ## Lex Nederbragt
->
-> Teaching in general,
-> and at Software and Data Carpentry workshops in particular,
-> gives me great pleasure and is one of the most personally rewarding activities I engage in.
-> With Software Carpentry,
-> I feel I belong to a community that shares many of the same values I have:
-> openness, tolerance, a focus on quality in teaching to name a few.
-> The instructor training program is the best pedagogical program I know of,
-> and it is amazing to see how Software and Data Carpentry are building a community of educators
-> that are fully grounded in the research on educational practices.
->
-> Being an instructor is my way of making a small,
-> but hopefully significant,
-> contribution to improving science, and thus the world.
-{: .testimonial}
+### During the Demo
 
-> ## Aleksandra Pawlik
->
-> I teach for purely selfish reasons.
-> It is a great feeling when attendees come up to me during or after the workshop
-> saying how useful they found it.
-> It feels great when attendees engage in the lesson or discuss exercises in pairs
-> and I see them being truly happy when they get the computer to do what they want.
-> It feels great when I accidentally meet one of the participants some time after the workshop
-> and they say how much the teaching helped them in their research.
-> It's all very rewarding and gives me a sense of accomplishment. I'm a hedonist, after all.
->
-> I also had a very bad experience as a student studying Computer Science.
-> With a lot of struggle I graduated convinced that
-> I'm too stupid to do anything related with computers for a living or even as a hobby.
-> I don't want other people to feel like that.
-{: .testimonial}
+*   Once everyone is in the call (audio and video working),
+    remind them of the Code of Conduct,
+    explain the procedure for the demo session,
+    and remind them that trainees have to be able to teach from *any* episode from their chosen lesson.
+    Ask whether anyone has only prepared for 5 minutes from *one* episode instead of the entire lesson,
+    and if so, suggest strongly they reschedule.
+*   Ask those not presenting to mute their microphone,
+    and tell them they are to give feedback in the etherpad
+    using the same positive-vs-negative and content-vs-presentation rubric used in training.
+*   Hand out the assignment to the first trainee,
+    give them a bit of time to set up the demo
+    (they may have to import some packages, load some data, move to a certain folder etc).
+*   Ask them to share their screen using the "Share Screen" button on the right hand menu in BlueJeans.
+*   Once they are ready, give them a 3-2-1 countdown to start.
+*   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
+    or just say "bong" really loudly at the end of their tie.
+*   After the five minute timer, allow them to finish their sentence and tell them time's up.
+*   Use a [rubric][rubric] for notes.
+*   After the trainee is finished,
+    first ask how they themselves thought it went,
+    then give constructive feedback based on your notes.
+*   Do *not* tell the trainee whether they passed or failed:
+    send that by email after the session is over.
+*   Repeat for the other trainees.
+*   At the end of the season, ask for general questions.
+*   Tell trainees that once disconnected,
+    you will add your notes to the session’s etherpad and leave them there for a while.
+*   Disconnect and add your notes to the session’s etherpad.
 
-> ## Fiona Tweedie
->
-> My training is in Ancient History and Classics,
-> and I believe that a community that draws on a diversity of backgrounds and disciplines is ultimately stronger.
-> The Humanities must have a place shaping our discourse and our future
-> and I see myself as a translator and guide in this emerging world.
->
-> As someone not from a programming background I've asked all the basic questions
-> and I'm always on the look-out for approaches that don't cross over from the sciences satisfactorily.
-> Both the frustrations and satisfactions of getting to grips with code for the first time are very fresh in my memory.
-> I hope that seeing a Latin major up the front of the room reassures students that
-> they can become capable software carpenters in their own rights.
-{: .testimonial}
+### After the Demo
 
-> ## Anelda van der Walt
->
-> The most attractive advantage of being part of the Software Carpentry community is exactly that: the community.
-> I have been actively involved in Software Carpentry since the end of 2014 as a learner, helper, organizer, and instructor at several workshops.
-> Over the last 18 months I never felt isolated from the international Software Carpentry movement
-> despite being on a different continent from most of the activity.
-> Our South African initiatives have been supported every step of the way
-> by the organization's leadership and the wonderful people who volunteer as instructors.
->
-> I believe the Software Carpentry model is extremely well-suited to building capacity in low and middle income countries.
-> I have heard wonderful testimonials from many people who've been learners in Software Carpentry workshops in South Africa
-> in terms of how their participation has impacted their research.
-> I'm excited to be making a difference.
-{: .testimonial}
+*   Sign up for your next session in <http://pad.software-carpentry.org/teaching-demos>.
+*   Add pass/fail information for the trainees in AMY.
 
-> ## Alistair Walsh
->
-> I love teaching.
-> Seeing the wide eyed moment of realization that I see on learners faces when something "clicks" is one of the best feelings in the world.
-> Why I want to teach the Software Carpentry method in particular is because
-> I think everyone needs to know how to code and SWC is the most effective way I've seen to achieve that.
->
-> Coding is the new literacy
-> and I want it to be a skill that everyone has so that we all takes part in shaping our world
-> rather than it being a few people from a narrow range of backgrounds and experiences.
-> I hope that as an instructor trainer I can inspire more SWC instructors to bring this new world about.
-{: .testimonial}
+### Example Starting Points for Demos
 
-> ## Belinda Weaver
->
-> I've worked in a university for more than twenty years in a variety of roles - librarian,
-> library manager, Internet trainer, journalism teacher - and I've seen how researchers'
-> training needs have changed dramatically over that period. Increasingly, researchers
-> need to find answers in data they already have, are collecting, or are generating - and they can't
-> do that without tools. The data are too big now, and the scale of research is so much larger.
->
-> Research training barely addresses the fact that all researchers now need to think
-> computationally, and that they desperately need tools to increase their speed and efficiency
-> in analyzing data. This is a gap that Software and Data Carpentry training can fill.
->
-> It's not a good day for me if I haven't helped *someone*. Being able to introduce people to
-> useful, time-saving tools has been a big - and immensely satisfying - part of my working life.
-> That is why I trained as an instructor.
-{: .testimonial}
+*   SWC Unix Shell
+    *   [03-create]({{ site.swc_pages }}/shell-novice/03-create/)
+    *   [05-loop]({{ site.swc_pages }}/shell-novice/05-loop/)
+    *   [06-script]({{ site.swc_pages }}/shell-novice/06-script/)
 
-> ## Jason Williams
->
-> I am fascinated and privileged to have the opportunity to work at the intersection of the biological and the technological.
-> Working in the world of bioinformatics and education,
-> I actually spend a fair amount of time travelling to institutions across the U.S. and abroad.
-> I'm amazed at the people I get to work with
-> and believe Software Carpentry's mission creates an opportunity to add the distinctiveness of our learners
-> and their perspectives to our own unique approach to education.
-> Collaboration is key to having thousands of scientists working as one,
-> and to me this idea is irresistible.
-> As the saying goes,
-> "We are braver together than we are alone."
-{: .testimonial}
+*   SWC, python gapminder
+    *   [06-libraries]({{ site.swc_pages }}/python-novice-gapminder/06-libraries/)
 
-> ## Greg Wilson
->
-> My daughter is eight years old,
-> and is going to inherit all the problems my generation did not have the backbone to solve.
-> Climate change,
-> mass extinctions,
-> drug-resistant diseases,
-> resource shortages:
-> if we had started working on them twenty years ago we'd be done now,
-> but instead we ducked and dithered,
-> so that all those bills are going to come due in her lifetime.
->
-> I believe the only things that will get us through the next fifty years are more science and more courage.
-> I co-founded Software Carpentry to help with the science part of that equation,
-> but over the last few years I've come to believe that we can help with the courage as well.
-> We are braver together than we are alone;
-> by teaching scientists how to collaborate on research today,
-> we are preparing them to work together on things that really matter tomorrow.
-{: .testimonial}
+*   SWC, python novice inflammation
+    *   [03-lists]({{ site.swc_pages }}/python-novice-inflammation/03-lists/)
+    *   [06-func]({{ site.swc_pages }}/python-novice-inflammation/06-func/)
 
+*   SWC, Automation and Make
+    *   [03-variables]({{ site.swc_pages }}/make-novice/03-variables/)
+
+*   SWC, SQL
+    *   [02-sort-dup]({{ site.swc_pages }}/sql-novice-survey/02-sort-dup/)
+
+*   SWC, Matlab
+    *   [03-loops]({{ site.swc_pages }}/matlab-novice-inflammation/03-loops/)
+
+*   SWC, R for Reproducible Scientific Analysis
+    *   [07-control-flow]({{ site.swc_pages }}/r-novice-gapminder/07-control-flow/)
+
+*   DC, python ecology
+    *   [02-index-slice-subset]({{ site.dc_site }}/python-ecology-lesson/02-index-slice-subset)
+
+*   DC R ecology
+    *   [04-dplyr]({{ site.dc_site }}/R-ecology-lesson/04-dplyr.html)
+    *   [05-visualization-ggplot2.html]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html) (actually, [plotting-with-ggplot2]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html#plotting-with-ggplot2))
+
+[after-pr]: {{ page.root }}/files/messages/after-pr.txt
 [amy]: {{ site.amy_site }}/
 [certificates]: {{ site.swc_github }}/certification
 [checkout]: {{ page.root }}/files/messages/checkout.txt
 [completion]: {{ page.root }}/files/messages/completion.txt
+[expiry]: {{ page.root }}/files/messages/expiry.txt
 [format]: {{ page.root }}/files/messages/format.txt
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
+[passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
 [socrative-import]: https://b.socrative.com/teacher/#import-quiz
+[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
+[rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
 [stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
 [welcome]: {{ page.root }}/files/messages/welcome.txt

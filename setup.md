@@ -8,7 +8,7 @@ training_site: https://swcarpentry.github.io/instructor-training
 1.  Please read these two short papers, which provide a brief overview of some key evidence-based results in teaching:
 
     * "The Science of Learning" <{{ page.training_site }}/files/papers/science-of-learning-2015.pdf>
-    * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>
+    * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>  
 
 2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/>
     and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>,
@@ -26,7 +26,7 @@ training_site: https://swcarpentry.github.io/instructor-training
 
 Please note that after this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
-the details are available at {{ page.training_site }}/checkout/.
+the details are available at <{{ page.training_site }}/checkout/>.
 If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
 If you are interested in doing more reading, you may enjoy:

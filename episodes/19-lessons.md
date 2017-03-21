@@ -6,18 +6,17 @@ questions:
 - "How can I design more effective lessons?"
 - "What lessons do Software and Data Carpentry currently contain?"
 objectives:
-- "Describe the four steps in reverse instructional design and explain why following them is an efficient way to create good teaching materials."
-- "Follow the steps in the reverse instructional design process to create a short lesson."
-- "Analyze a lesson by comparing it to the elements of WHERETO."
+- "Write a learner profile describing a typical member of the lesson's intended audience."
 - "Describe the characteristics of a good learning objective and correctly state whether a learning objective meets those criteria."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy and similar cognitive hierarchies."
-- "Write a learner profile describing a typical member of their intended audience."
+- "Critically analyze a SWC/DC lesson's objectives."
+- "Describe the four steps in reverse instructional design and explain why following them is an efficient way to create good teaching materials."
 - "Summarize the existing Software Carpentry and Data Carpentry lessons."
 keypoints:
-- "Use reverse instructional design to create lessons: concepts, summative assessment, formative assessments, teachings."
+- "Write learner profiles to clarify audience for a lesson."
 - "Communicate lesson goals by writing specific, verifiable learning objectives."
 - "Bloom's Taxonomy classifies levels of understanding."
-- "Write learner profiles to clarify audience for lesson."
+- "Use reverse instructional design to create lessons: concepts, summative assessment, formative assessments, teachings."
 - "Software Carpentry's lessons cover the Unix shell, version control, programming, SQL, and Make."
 - "Data Carpentry's lessons cover data cleanup, management, analysis, and visualization in a variety of fields."
 ---
@@ -234,7 +233,7 @@ Here is an example of a successively-improved lesson objective:
 
 |Learning Objective|Discussion|
 |------------------|----------|
-|Learner will be given opportunitities to learn good programming practices.|Describes the lesson's content, not the attributes of successful students.|
+|Learner will be given opportunities to learn good programming practices.|Describes the lesson's content, not the attributes of successful students.|
 |Learner will have a better appreciation for good programming practices.|Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific.|
 |Learner will understand principles of good programming.|Starts with an active verb, but doesn't define the level of learning, and the subject of learning is still too vague for assessment.|
 |Learner will write one-page data analysis scripts for research purposes using R Studio.|Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed.|
@@ -356,7 +355,7 @@ It also ensures that learners don't face anything on the final exam that the cou
 
 > ## The Minimal Manual
 >
-> Carroll et al's 1987 paper "[The Minimal Manual][{{ site.github.url }}/files/papers/carroll-minimal-manual-1987.pdf]"
+> Carroll et al's 1987 paper "[The Minimal Manual]({{ page.root }}/files/papers/carroll-minimal-manual-1987.pdf)"
 > outlines an approach to documentation and instruction
 > in which each lesson is one page long and describes how to accomplish one concrete task.
 > Its focus on immediate application,

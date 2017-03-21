@@ -163,6 +163,28 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
 {: .quotation}
 
+> ## Travel Costs for No-Shows
+>
+> In order to protect its reputation,
+> the SCF must do what it can to ensure that instructors actually show up for workshops they have agreed to teach.
+> We therefore require that when instructors agree to teach a workshop,
+> they also agree to give at least one week's notice if they will be unable to make it.
+> If they do not,
+> they are required for reimbursing any non-refundable travel or accommodation costs
+> that the host may already have incurred on their behalf.
+>
+> The SCF may waive this requirement in special circumstances,
+> but the decision to do so rests solely with the Steering Committee.
+> In cases where the requirement *is* waived,
+> the SCF will reimburse the host for any expenses incurred.
+> If an instructor is required to reimburse costs,
+> but refuses to do so,
+> the SCF reserves the right to ban that person from future Software Carpentry activities.
+>
+> If an instructor fails to provide adequate notice of withdrawal more than once,
+> the SCF reserves the right to suspend them from the list of recommended instructors.
+{: .callout}
+
 ### Materials
 
 All of Software and Data Carpentry's lessons materials are freely available
@@ -208,16 +230,16 @@ for details.
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website using
-[this template]({{ site.workshop_template }}).
+[this template]({{ site.workshop_repo }}).
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:{{ site.email }}),
+the [workshop coordinator]({{ site.contact }}),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
 > ## Practice With SWC Infrastructure
 >
-> Go to the [workshop template repository]({{ site.workshop_template }}) and follow the directions
+> Go to the [workshop template repository]({{ site.workshop_repo }}) and follow the directions
 > to create a workshop website using your local location and today's date.
 {: .challenge}
 

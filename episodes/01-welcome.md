@@ -8,8 +8,10 @@ questions:
 - "What will we cover (or not) in this workshop?"
 - "What prior knowledge do workshop participants have?"
 objectives:
+- "Identify one or more components of successful teaching." 
 - "Understand what will be covered in the instructor training."
 keypoints:
+- "This episode sets the stage for the entire workshop. The introductions and excercises help everyone begin to develop a relationship and trust."
 - "This workshop will cover general teaching pedagogy and how it applies specifically to Software and Data Carpentry."
 - "Trainee motivation and prior knowledge vary widely, but can be explored with a quick multiple choice quiz."
 ---

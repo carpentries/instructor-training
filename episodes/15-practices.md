@@ -137,10 +137,11 @@ Learners use their own machines.
     two different sets of keyboard shortcuts for things like copying and
     pasting.
 
-    Some instructors use VPS over SSH or web browser pages instead.  This
-    solve the installation issues, but makes us dependent on host
-    institutions' WiFi (which can be of highly variable quality), and
-    has the issues mentioned above with things like keyboard shortcuts.
+    Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure 
+    Shell][ssh] (SSH) or web browser pages instead. This solve the installation 
+    issues, but makes us dependent on host institutions' WiFi (which can be 
+    of highly variable quality), and has the issues mentioned above with things 
+    like keyboard shortcuts.
 
 Collaborative note-taking.
 :   We often use [Etherpad][etherpad] for collaborative
@@ -286,7 +287,19 @@ and for a handful of regular workshops,
 > but more work is needed to figure out its pros and cons.
 {: .callout}
 
+> ## Teaching Practice Discussion
+>
+> List one the Carpentries Teaching practices that your really like and/or are excited to use.
+>
+> Timing: Can be completed and discussed in 3-5 min. 
+> This challenge can be used to end the morning or begin the afternoon session.
+{: .discussion}
+
+
+
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [wikipedia-peak-rule]: https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule
+[vps]: https://en.wikipedia.org/wiki/Virtual_private_server
+[ssh]: https://en.wikipedia.org/wiki/Ssh

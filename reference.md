@@ -4,29 +4,37 @@ permalink: /reference/
 ---
 ## Top Ten
 
+1.  Be kind: all else is details.
+2.  Never teach alone.
+3.  No lesson survives first contact with learners.
+4.  Nobody will be more excited about the lesson than you are.
+5.  Every lesson is too short from the teacher's point of view and too long from the learner's.
+6.  Never hesitate to sacrifice truth for clarity.
+7.  Every mistake is a lesson.
+8.  "I learned this a long time ago" is not the same as "this is easy".
+9.  You learn with your learners.
+10. You can't help everyone, but you can always help someone.
+
+## A Few Other Things
+
 1.  Everyone in our community is required to abide by our [Code of Conduct]({{ site.swc_site }}/conduct/),
     both at workshops and online,
     to ensure that everyone else feels welcome.
 2.  You teach our material, not your own,
     and you need to work through the materials before teaching to verify your own understanding
     and figure out where people might have trouble.
-3.  Never teach alone:
-    we use teams of instructors so that no one has to know everything,
-    no one gets exhausted,
-    and everyone can get the help they need (both the learners and other instructors).
-4.  We organize some workshops, but we expect people to organize workshops locally as well.
+3.  We organize some workshops, but we expect people to organize workshops locally as well.
     You can charge people to attend, and we will charge you when we help organize.
-5.  We expect you to teach at least once within a year of certifying in exchange for this training.
-6.  "The mistakes are the pedagogy." -- Daina Bouquin
-7.  Expect a broad range of expertise and experience,
+4.  We expect you to teach at least once within a year of certifying in exchange for this training.
+5.  Expect a broad range of expertise and experience,
     and be prepared to adapt your teaching to accommodate beginners or those who struggle.
-8.  We use live coding instead of slides:
+6.  We use live coding instead of slides:
     instructors work through the lesson material, typing in the code or instructions, while the learners follow along.
-9.  Use sticky notes for real-time feedback
+7.  Use sticky notes for real-time feedback
     and minute cards or "one up, one down" at lunch and at the end of the day
     in order to find out how the class is going
     while there's still time to fix things.
-10. The "I don't know what I'm doing" feeling never goes away. You just learn the "but I can figure it out" part.
+8.  The "I don't know what I'm doing" feeling never goes away. You just learn the "but I can figure it out" part.
     -- [Sciencegurl](https://twitter.com/sciencegurlz0/status/687739023826235393)
 
 A note on #2:
@@ -143,12 +151,39 @@ and probably address problems you don't yet know will arise.
 1.  Discuss metacognition in the classroom. The evidence-based teaching style of Software Carpentry is not proprietary or hidden, so share what you know about learning in the classroom and why you are taking certain approaches.
 1.  Provide heuristics for self-correction. Learners need to develop a skill for evaluating their own work. While this skill will take time to develop, you can provide 'guideposts' for what their code and results should look like.
 
+## Motivational Strategies
+
+*   Strategies to establish value:
+    1.  Connect the material to students' interests.
+    2.  Provide authentic, real-world tasks.
+    3.  Show relevance to students' current academic lives.
+    4.  Demonstrate the relevance of higher-level skills to students' future professional lives.
+    5.  Identify and reward what you value.
+    6.  Show your own passion and enthusiasm for the discipline.
+*   Strategies to build positive expectations:
+    1.  Ensure alignment of objectives, assessments, and instructional strategies.
+    2.  Identify an appropriate level of challenge.
+    3.  Create assignments that provide the appropriate level of challenge.
+    4.  Provide early success opportunities.
+    5.  Articulate your expectations.
+    6.  Provide rubrics.
+    7.  Provide targeted feedback.
+    8.  Be fair.
+    9.  Educate students about the ways we explain success and failure.
+    10. Describe effective study strategies.
+*   Strategies for self-efficacy:
+    1.  Provide flexibility and control.
+    2.  Give students an opportunity to reflect.
+
 ## Books
 
 Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][amazon-hlw]*.
 :   An excellent overview of what we know about education and why we
     believe it's true, covering everything from cognitive psychology
     to social factors.
+
+Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][amazon-dicsussion]*.
+:   Describes fifty different ways to get groups talking productively.
 
 Elizabeth Green: *[Building a Better Teacher][amazon-babt]*.
 :   A well-written look at why educational reforms in the past 50 years have mostly missed the mark,
@@ -165,15 +200,16 @@ Doug Lemov: *[Teach Like a Champion 2.0][amazon-tlac]*.
 Therese Huston: *[Teaching What You Don't Know][amazon-twydk]*.
 :   A pointed, funny, and very useful book that explores exactly what the title suggests.
 
+James Lang: *[Small Teaching][amazon-small-teaching]*.
+:   A short guide to evidence-based teaching practices that can be adopted
+    without requiring large up-front investments of time and money.
+
 Jane Margolis and Allan Fisher: *[Unlocking the Clubhouse: Women in Computing][amazon-clubhouse]*.
 :   A groundbreaking report on the gender imbalance in computing,
     and the steps Carnegie-Mellon took to address the problem.
 
 Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do][amazon-vivaldi]*.
 :   Explains and explores stereotype threat and strategies for addressing it.
-
-Dani Byrd and Toben H. Mintz: *[Discovering Speech, Words, and Mind][discovering-speech]*.
-:   Discusses the neuroscience and psychology of the distinction between phonics and whole-language approaches to reading instruction.
 
 ## Papers
 
@@ -235,6 +271,9 @@ Porter et al: "[Success in Introductory Programming: What Works?]({{ page.root }
 Wiggins and McTighe: "[UbD in a Nutshell]({{ page.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
+Wilson et al: "[Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)".
+:   Describes and justifies a minimal set of computing practices that every researcher could and should adopt.
+
 Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
@@ -243,9 +282,11 @@ Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
+[amazon-discussion]: https://www.amazon.com/Discussion-Book-Great-People-Talking/dp/1119049717/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-lcdce]: http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/
 [amazon-making-software]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
+[amazon-small-teaching]: https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/
 [amazon-tlac]: http://www.amazon.com/Teach-Like-Champion-2-0-Techniques/dp/1118901851/
 [amazon-twydk]: http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/
 [amazon-vivaldi]: http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726/
