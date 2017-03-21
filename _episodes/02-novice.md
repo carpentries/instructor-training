@@ -33,7 +33,7 @@ but the model does a good job of helping people reason about chemical compounds 
 
 > ## Your Mental Models
 >
-> What is your primary research domain?  What is one mental model you use to frame
+> What is your primary research domain or area of expertise?  What is one mental model you use to frame
 > and understand your work?
 {: .discussion}
 
@@ -294,9 +294,11 @@ what to explain to that particular learner next.
 
 > ## Handling Outcomes
 >
-> As the instructor, what should you do if most of the class votes for one
-> of the wrong answers?  For the right answer?  What if the votes are evenly
-> spread between options?
+> What should the instructor do when the class votes for: 
+>
+> 1. mostly one of the wrong answers?  
+> 2. mostly the right answer?  
+> 3. an even spread among options?
 {: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
@@ -401,23 +403,6 @@ because it forces the instructor to think about the learners' mental models
 and how they might be broken---in short,
 to put themselves into the learners' heads
 and see the topic from their point of view.
-
-> ## Why We Don't Assess During Registration
->
-> Unfortunately,
-> most formal educational systems train people to treat all assessment as summative,
-> i.e.,
-> to think of every interaction with a teacher as an evaluation,
-> rather than as a chance to shape instruction.
-> For example,
-> we use a short pre-assessment questionnaire to profile learners before workshops
-> to help instructors tune the pace and level of material.
-> We send this questionnaire out after people have registered
-> rather than making it part of the sign-up process because when we did the latter,
-> many people concluded that since they couldn't answer all the questions,
-> they shouldn't enrol.
-> We were therefore scaring off many of the people we most wanted to help.
-{: .callout}
 
 > ## Other Kinds of Formative Assessment
 >

@@ -72,14 +72,14 @@ One example is work by Mayer and colleagues on
 the *[split-attention effect][wikipedia-split-attention]*.
 Linguistic and visual input are processed by different parts of the human brain,
 and linguistic and visual memories are stored separately as well.
-This means that correlating linguistic, auditory, and visual streams of information takes cognitive effort:
-when someone reads something while hearing it spoken aloud,
+This means that correlating different linguistic, auditory, and visual streams of information takes cognitive effort:
+when someone reads one thing while hearing something else spoken aloud,
 their brain can't help but check that it's getting the same information on both channels.
-Learning is therefore more effective when redundant information is *not* being presented simultaneously
-in two different channels.
-For example,
-people find it harder to learn from a video that has both narration and on-screen captions
-than from one that has either the narration or the captions but not both.
+Discrepencies between these channels increase cognitive load and decrease learning.
+Learning is therefore more effective when information that is being presented simultaneously
+in two different channels is redundant, rather than different. 
+For our workshops, this means the instructor should say out loud commands as they type them on the screen
+during live coding.
 
 ## Faded Examples
 
@@ -164,7 +164,8 @@ to create the final result.
 >     or from another lesson you have taught recently.
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the student's ability to correctly fill in that blank.
-> 4.  Paste your faded example in the Etherpad.
+> 4.  Take 10 minutes for this exercise.
+> 5.  Paste your faded example in the Etherpad.
 {: .challenge}
 
 ## Parsons Problems
@@ -182,13 +183,25 @@ and asked to arrange them.
 Learners can then be told that they have all the lines they need save one,
 and so on.
 
+Here is a really nice online Parsons Problem interactive tool. [Try it out!](http://runestoneinteractive.org/LearningAtScale/parsons.html)
+
 > ## Parsons Problems
 >
-> Write 5 or 6 lines of code that does something useful,
-> jumble them,
-> then add one more line that looks plausible but isn't needed to solve the problem.
-> How well can your partner tell which line is unnecessary?
-{: .challenge}
+> Challenge option 1: Jumbled with an unnecesasary line
+> 1. Write 5 or 6 lines of code that does something useful,
+> 2. jumble them,
+> 3. then add one more line that looks plausible but isn't needed to solve the problem.
+> 4. How well can your partner tell which line is unnecessary?
+>
+>
+> Challenge option 2: Simply jumbled
+> 1. Pick a block of code from an existing Software or Data Carpentry lesson, or from another lesson you have taught recently.
+> 2. Jumble the code
+> 3. Paste your jumbled code block into the etherpad
+> 4. Determine the correct order of your partner's else's code block 
+>
+> This challenge should take about 6 minutes. 
+> {: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf

@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Instructor Training"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+contact: "mailto:checkout@carpentries.org"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

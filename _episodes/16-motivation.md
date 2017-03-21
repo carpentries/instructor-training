@@ -8,7 +8,6 @@ objectives:
 - "Classify skills according to time required to master them and usefulness once mastered."
 - "Identify the motivational strategies used in a short lesson."
 - "Explain the difference between fixed mindset and growth mindset and its implications for classroom performance."
-- "Explain stereotype threat and its implications for classroom performance."
 - "Do an accessibility test of a workshop venue."
 keypoints:
 - "People learn best when they are intrinsically motivated."
@@ -19,6 +18,7 @@ keypoints:
 - "Don't teach or learn alone."
 - "Belief that competence comes with practice improves learning outcomes."
 - "Measures taken to improve accessibility aid everyone."
+- "Measures taken to make learning more inclusive aid everyone."
 ---
 
 In order for learners to step out into new and familiar terrain, they will
@@ -122,28 +122,6 @@ to make sure they're doing at least a few of these things.
 > using an authentic task that is relevant to their research.
 {: .callout}
 
-*   Strategies to establish value:
-    1.  Connect the material to students' interests.
-    2.  Provide authentic, real-world tasks.
-    3.  Show relevance to students' current academic lives.
-    4.  Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5.  Identify and reward what you value.
-    6.  Show your own passion and enthusiasm for the discipline.
-*   Strategies to build positive expectations:
-    1.  Ensure alignment of objectives, assessments, and instructional strategies.
-    2.  Identify an appropriate level of challenge.
-    3.  Create assignments that provide the appropriate level of challenge.
-    4.  Provide early success opportunities.
-    5.  Articulate your expectations.
-    6.  Provide rubrics.
-    7.  Provide targeted feedback.
-    8.  Be fair.
-    9.  Educate students about the ways we explain success and failure.
-    10. Describe effective study strategies.
-*   Strategies for self-efficacy:
-    1.  Provide flexibility and control.
-    2.  Give students an opportunity to reflect.
-
 > ## Brainstorming Motivational Strategies
 >
 > *Think* back to a computational (or other) course you took in the past, and
@@ -229,64 +207,42 @@ to alienate a classroom and cause learners to tune out.
 > and about what kind of learning experience they can expect.
 {: .callout}
 
+> ## Stereotype Threat
+>
+> Reminding people of negative stereotypes,
+> even in subtle ways,
+> makes them anxious about the risk of confirming those stereotypes,
+> which in turn reduces their performance.
+> This is called *[stereotype threat][wikipedia-stereotype-threat]*,
+> and the clearest examples in computing are gender-related.
+> Depending on whose numbers you trust,
+> only 12-18% of programmers are women,
+> and those figures have actually been getting worse over the last 20 years.
+> There are many reasons for this
+> (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
+> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*),
+> and Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+> summarizes what we know about stereotype threat in general
+> and presents some strategies for mitigating it in the classroom.
+>
+> However,
+> while there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
+> it's not clear that stereotype threat is the underlying mechanism.
+> Part of the problem is that
+> [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
+> another is [questions about the replicability of key studies][jussim-stereotype-threat].
+> What *is* clear is that we need to aovid thinking in terms of a deficit model
+> (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
+> and instead use a systems approach
+> (i.e., we need to change the system because it produces these disparities).
+{: .callout}
+
 > ## Brainstorming Demotivational Experiences
 >
 > *Think* back to a time when you demotivated a student (or when you were demotivated as a student).
 > *Pair* up with your neighbor and discuss what you could have done differently in the situation.
 > *Share* the demotivational story in the Etherpad.
 {: .challenge}
-
-### Stereotype Threat
-
-Another demotivator is *[stereotype threat][wikipedia-stereotype-threat]*:
-a self-confirming belief that one may be evaluated based on a negative stereotype
-(definition from [study.com][study-com-stereotype-threat]).
-In brief,
-reminding people of negative stereotypes,
-even in subtle ways,
-makes them anxious about the risk of confirming those stereotypes,
-which in turn reduces their performance.
-
-The biggest negative stereotypes in computing are gender-related.
-Depending on whose numbers you trust,
-only 12-18% of programmers are women,
-and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this
-(see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*),
-and for the under-representation of some racial groups:
-in the United States,
-for example,
-people of African or Latin ancestry are much less likely to go into computing
-than people of European, East Asian, or South Asian ancestry.
-
-Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
-summarizes what we know about stereotype threat
-and presents some strategies for mitigating it in the classroom:
-
-*   By changing the way you give critical feedback,
-    you can dramatically improve minority students' motivation and receptiveness.
-*   By improving a group's critical mass in a setting,
-    you can improve its members' trust, comfort, and performance in the setting.
-*   By simply fostering inter-group conversations among students from differing backgrounds,
-    you can improve minority students' comfort and grades in a setting.
-*   By allowing students, especially minority students, to affirm their most valued sense of self,
-    you can improve their grades, even for a long time.
-*   By helping students develop a narrative about the setting
-    that explains their frustrations while projecting positive engagement and success in the setting,
-    you can greatly improve their sense of belonging and achievement.
-
-A number of concrete teaching strategies Steele describes
-to implement these ideas are:
-
-*   Emphasize a growth mindset.
-*   Increase inter-group interaction.
-*   Remind students of their identities linked to academic success.
-*   Expose students to positive, successful role models from their group.
-*   Support students' sense of belonging.
-*   Give feedback emphasizing your high standards and assurance that students can meet those expectations.
-
-[This website][reduce-stereotype-threat] has more suggestions
-and links to further reading.
 
 > ## Never Learn Alone
 >
@@ -464,18 +420,64 @@ are always welcome.
 > assumed you could actually walk?
 {: .callout}
 
+## Inclusivity
+
+*Inclusivity* is a policy of including people who might otherwise be excluded or marginalized.
+In computing,
+it means making a positive effort to be more welcoming to women,
+people of color,
+people with various sexual orientations,
+the elderly,
+the physically challenged,
+the formerly incarcerated,
+the economically disadvantaged,
+and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
+Lee's paper
+"[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
+(which you were asked to read before the workshop)
+is a brief, practical guide to doing that with references to the research literature.
+These help learners who belong to one or more margainalized or excluded groups,
+but help motivate everyone else as well;
+while they are phrased in terms of term-long courses,
+many can be applied in our workshops,
+such as:
+
+*   asking learners to email you before the workshop
+    to explain how they believe the training could help them achieve their goals;
+*   reviewing notes to make sure they are free from gendered pronouns,
+    that they include culturally diverse names,
+    etc.;
+*   emphasize that what matters is the rate at which they are learning,
+    not the advantages or disadvantages they had when they started;
+*   encouraging pair programming; and
+*   actively mitigate behavior that some learners may find intimidating,
+    e.g.,
+    use of jargon or "questions" that are actually asked to display knowledge.
+
+> ## Pick One
+>
+> 1.  Pick one activity or change in practice from
+>     [Lee's paper]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)
+>     that you would like to work on.
+> 2.  Put a reminder in your calendar three months in the future
+>     to self-check whether you have done something about it.
+{: .challenge}
+
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
+[amazon-shallow-end]: https://www.amazon.com/Stuck-Shallow-End-Education-Computing/dp/0262514044/
 [amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
 [conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
+[jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[reduce-stereotype-threat]: http://www.reducingstereotypethreat.org/reduce.html
+[shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
 [tpi]: http://www.teachingperspectives.com/tpi/
+[ulrich-stereotype-replicability]: https://replicationindex.wordpress.com/2015/01/06/why-are-stereotype-threat-effects-on-womens-math-performance-difficult-to-replicate/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
 [w3c-accessible]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
