@@ -108,8 +108,7 @@ the class.
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
-    or create a copy of this [Google Form Questionnaire][questionnaire].
-    Briefly summarize the answers.
+    or [import it into socrative][socrative-import] using this ID: SOC-25251122. Briefly summarize the answers.
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
@@ -543,6 +542,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
+[socrative-import]: https://b.socrative.com/teacher/#import-quiz
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
