@@ -27,17 +27,18 @@ for a look at how using checklists can save lives (and make many other things be
 >     *   a link to the workshop home page
 >     *   background readings
 >     *   a description of any pre-requisite tasks
+> 1.  Make sure attendees will all have network access.
 {: .checklist}
 
 > ## Setting Up [Trainer]
 >
+> 1.  Create an Etherpad (http://pad.software-carpentry.org/<nameofevent>
 > 1.  Set up a one-page website for the workshop using <https://github.com/swcarpentry/training-template> as a starting point.
 > 1.  Send the URL to the admins.
-> 1.  Check whether any attendees have special needs.
 > 1.  If it is online:
 >     *   Test the video conference link.
-> 1.  Make sure attendees will all have network access.
-> 1.  Create an Etherpad.
+>     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
+> 1.  Check whether any attendees have special needs.
 {: .checklist}
 
 > ## During the Event [Trainer]
@@ -45,6 +46,7 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
 > 1.  Distribute sticky notes.
+> 1.  Use the etherpad. 
 > 1.  Collect participants' GitHub IDs (if they are interested in teaching Software Carpentry).
 > 1.  Go through [the checkout procedure][checkout] point by point.
 > 1.  Explain how we [format lesson submissions][format].
@@ -52,12 +54,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## After the Event [Trainer]
 >
-> 1.  Update AMY.
->     1.  Go to More... Trainees.
->     1.  Select the training event in the filter on the left of the page.
->     1.  Tick off all the people who participated (there's a "select all" tick box by the "Name" column header).
->     1.  Click "Add" at the bottom of the page.
->     If anyone didn't show, or in your opinion didn't participate, do not give them credit for this training.
+> 1.  Email a list of attendees and no-shows to checkout@carpentries.org, noting the URL of your training event.
 > 1.  Administer the [post-training survey]({{site.training_post_survey}}).
 > 1.  Email attendees about [the checkout process][checkout].
 > 1.  Debrief with the head of instructor training.
@@ -110,8 +107,7 @@ the class.
 ## Exercises
 
 *   Have students write answers to the initial MCQ in the Etherpad
-    or create a copy of this [Google Form Questionnaire][questionnaire].
-    Briefly summarize the answers.
+    or [import it into socrative][socrative-import] using this ID: SOC-25251122. Briefly summarize the answers.
 
 *   Learners do think-pair-share for cognitive maps and multiple-choice questions.
 
@@ -545,6 +541,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
 [passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
 [profile]: {{ site.amy_site }}/update_profile/
+[socrative-import]: https://b.socrative.com/teacher/#import-quiz
 [questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
 [rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 [stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
