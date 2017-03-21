@@ -287,6 +287,16 @@ and for a handful of regular workshops,
 > but more work is needed to figure out its pros and cons.
 {: .callout}
 
+> ## Teaching Practice Discussion
+>
+> List one the Carpentries Teaching practices that your really like and/or are excited to use.
+>
+> Timing: Can be completed and discussed in 3-5 min. 
+> This challenge can be used to end the morning or begin the afternoon session.
+{: .discussion}
+
+
+
 [brunson-twitter]: https://twitter.com/danabrunson/status/684764295196876800
 [etherpad]: http://etherpad.org
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
