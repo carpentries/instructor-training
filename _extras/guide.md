@@ -442,7 +442,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 
 *   Sign up to lead the demo at <http://pad.software-carpentry.org/teaching-demos>.
 *   Trainers should not certify people from their own institution or from the workshops
-    they taught, so check this is not the case, and ask any such trainees to reschedule
+    they taught, so check this is not the case, and ask any such trainees to reschedule.
 *   For each trainee, pick a suitable starting point in the lesson that they have chosen.
     Do not start at the very beginning of the first episode,
     and look for an episode that dives into live coding quickly without first explaining a lot.
@@ -451,9 +451,6 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
     Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data)
     have supplementary episodes.
     Do not pick from those.
-*   If a trainee wants to demo for both SWC and DC,
-    allocate two slots for them,
-    but set up schedule that does **not** have them teaching twice in a row.
 
 ### Shortly Before the Demo
 
