@@ -9,7 +9,7 @@ discussionpad: http://pad.software-carpentry.org/instructor-discussion
 
 After you have finished the two-day training class,
 you must go through these steps in order to complete your training and be
-fully certified as a Data and/or Software Carpentry instructor:
+fully certified as a Data and Software Carpentry instructor:
 
 1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
@@ -23,10 +23,10 @@ setting of the two-day training.  These are:
     community, we want to ensure that all instructors know where and how to contribute
     to our materials, particularly so that you can contribute in the future.
 
-2.  Participating in the larger Software/Data Carpentry instructor community.  We
+2.  Participating in the larger Carpentry instructor community.  We
     include the discussion session in the checkout because we hear
     from many instructors that one of their favorite aspects of being an
-    Software/Data instructor is meeting and talking with other instructors in the community.
+    Carpentry instructor is meeting and talking with other instructors in the community.
 
 3.  Practicing and confirming the skills you need to teach on your own.  Before
     signing up for a workshop, you will have practiced preparing a lesson and
@@ -36,9 +36,9 @@ We would like to get everyone through this process within two months of training
 Anyone who has not completed within 90 days should [contact us]({{ site.contact }})
 to discuss reasons and options.
 
-Although all instructors must complete these three steps, there are some differences
-depending on whether you are qualifying as a Data Carpentry or Software Carpentry instructor.
-These differences are noted below.
+Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
+March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
+are now considered Carpentry instructors and can teach either set of curricula.
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
 <a name="lesson-change"></a>
@@ -53,12 +53,8 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2.  Proof-reading a lesson and adding a new issue describing something to be improved.
 3.  Providing substantive feedback on an existing issue or pull request.
 
-Your contribution must be for a lesson in the curriculum of the Carpentry (Software or Data) for which you are
-qualifying. Instructors seeking to qualify for both Carpentries, must submit a contribution to both a Data Carpentry
-and a Software Carpentry lesson.
-
-Data Carpentry instructors may submit their contributions through GitHub or by [email]({{ site.contact }}).
-Software Carpentry instructors must submit their contributions through GitHub.
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.contact }}).
+Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
 
@@ -110,13 +106,13 @@ Please note that:
 
 The lessons you may submit to are:
 
-1.  For [Data Carpentry instructors]({{ site.dc_site }}/lessons/):
+1.  For [Data Carpentry]({{ site.dc_site }}/lessons/):
     we would prefer contributions to these right now.
     *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
     *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
     *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
     *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
-2.  For [Software Carpentry instructors]({{ site.swc_site }}/lessons/):
+2.  For [Software Carpentry]({{ site.swc_site }}/lessons/):
     we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
     for any lesson. We are also accepting new exercises using the Gapminder data set
     for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
@@ -148,10 +144,6 @@ led by an experienced instructor.
 This session gives you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
-
-Regardless of whether you are qualifying as an instructor for one or both Carpentries,
-you only need to participate in one discussion session.
-You are, however, welcome to join the discussions as often as you like.
 
 Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
@@ -209,7 +201,7 @@ Trainees may also ask about:
 *   anything else that comes to mind.
 
 If the discussion leader feels that you have adequately participated in the conversation,
-she will notify the training coordinator
+they will notify the training coordinator
 who will then ask you to sign up for a teaching demonstration (described in the next session).
 
 ## Part 3: Teach a Short Demonstration Lesson
@@ -227,13 +219,7 @@ since the latter often lead to audio quality problems.
 The instructor leading the session will post other information
 in [the Etherpad]({{page.demopad}}) shortly before it begins.
 
-Your demo must be for a lesson in the curriculum of the Carpentry (Software or Data)
-for which you are qualifying.
-Instructors seeking to qualify for both Carpentries must teach 5-minute demonstrations
-for both a Data Carpentry and a Software Carpentry lesson.
-You may choose to do these two demonstrations in the same session or on separate days.
-
-If you want to do your demonstration(s) in a language other than English,
+If you want to do your demonstration in a language other than English,
 please let us know in advance so that we can attempt to find someone to moderate.
 We may not be able to accommodate all languages.
 
@@ -245,8 +231,7 @@ Tables showing the lessons can be found [here for Software Carpentry](https://so
 A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
-For your demonstration(s),
-you will screen-share
+For your demonstration(s), you will screen-share
 and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
 You may use whatever notes you want,
