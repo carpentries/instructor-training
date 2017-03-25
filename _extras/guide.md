@@ -220,6 +220,8 @@ and have a rubric to follow.
 
 ## Live Coding Demo Videos
 
+Note on closed captioning: Sometimes audio in the room can be poor. Two suggestions for improving accessibility are to have students watch it on their own laptops and to turn on closed captioning by pressing the `cc` button at the bottom of the video.
+
 **[Part 1][live-coding-bad]: how not to do it**
 
 *   Instructor ignores a red sticky clearly visible on a learner's laptop.
