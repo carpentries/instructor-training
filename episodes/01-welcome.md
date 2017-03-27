@@ -16,6 +16,13 @@ keypoints:
 - "Trainee motivation and prior knowledge vary widely, but can be explored with a quick multiple choice quiz."
 ---
 
+## Code of Conduct
+
+To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
+to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry 
+and Data Carpentry including, but not limited to, workshops, email lists, online forums and on GitHub. Please review 
+[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it. 
+
 ## Introductions
 
 > Introductions set the stage for learning.  
