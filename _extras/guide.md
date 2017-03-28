@@ -530,21 +530,21 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
     *   [04-dplyr]({{ site.dc_site }}/R-ecology-lesson/04-dplyr.html)
     *   [05-visualization-ggplot2.html]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html) (actually, [plotting-with-ggplot2]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html#plotting-with-ggplot2))
 
-[after-pr]: {{ page.root }}/files/messages/after-pr.txt
-[amy]: {{ site.amy_site }}/
-[certificates]: {{ site.swc_github }}/certification
-[checkout]: {{ page.root }}/files/messages/checkout.txt
-[completion]: {{ page.root }}/files/messages/completion.txt
-[expiry]: {{ page.root }}/files/messages/expiry.txt
-[format]: {{ page.root }}/files/messages/format.txt
-[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good]: https://youtu.be/SkPmwe_WjeY
-[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html
-[passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt
-[profile]: {{ site.amy_site }}/update_profile/
-[socrative-import]: https://b.socrative.com/teacher/#import-quiz
-[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1
-[rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
-[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973
-[stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf
-[welcome]: {{ page.root }}/files/messages/welcome.txt
+[after-pr]: {{ page.root }}/files/messages/after-pr.txt  
+[amy]: {{ site.amy_site }}/  
+[certificates]: {{ site.swc_github }}/certification  
+[checkout]: {{ page.root }}/files/messages/checkout.txt  
+[completion]: {{ page.root }}/files/messages/completion.txt  
+[expiry]: {{ page.root }}/files/messages/expiry.txt  
+[format]: {{ page.root }}/files/messages/format.txt  
+[live-coding-bad]: https://youtu.be/bXxBeNkKmJE  
+[live-coding-good]: https://youtu.be/SkPmwe_WjeY  
+[orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html  
+[passive-discussion]: {{ page.root }}/files/messages/passive-discussion.txt  
+[profile]: {{ site.amy_site }}/update_profile/  
+[socrative-import]: https://b.socrative.com/teacher/#import-quiz  
+[questionnaire]: http://goo.gl/forms/EHXfBSDmvqBLLVzj1  
+[rubric]: {{ site.swc_github }}/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md  
+[stefik-paper]: https://dl.acm.org/citation.cfm?id=2534973  
+[stefik-summary]: {{ page.root }}/files/papers/stefik-summary-2016.pdf  
+[welcome]: {{ page.root }}/files/messages/welcome.txt  
