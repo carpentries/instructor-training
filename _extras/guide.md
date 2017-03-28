@@ -43,7 +43,7 @@ for a look at how using checklists can save lives (and make many other things be
 
 > ## During the Event [Trainer]
 >
-> 1.  Introduce yourself (see detailed guid below). 
+> 1.  Introduce yourself (see detailed guide below). 
 > 1.  Ask your trainees to introduce themselves to each other. 
 > 1.  Remind everyone of the code of conduct.
 > 1.  Collect attendance.
