@@ -144,7 +144,7 @@ to make sure they're doing at least a few of these things.
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something
 > unique to our community.  Read
-> the [testimonials]({{ page.root }}/guide/#testimonials) from other instructors,
+> the [testimonials]({{ page.root }}/testimonials/) from other instructors,
 > to see what motivates them to teach.  After this class, or during a break,
 > write a short explanation of what motivates you to teach. Save this as part of
 > your teaching philosophy for future reference.
