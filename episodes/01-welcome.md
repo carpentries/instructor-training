@@ -41,7 +41,14 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Today's Trainers
 >
-> Each trainer can introduce themselves. 
+> To begin your class, each instructor should give a brief introduction that will convey 1) their capacity to teach the material, 2) accessibility/approachability, 3) desire for student success, and 4) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics.
+{: .discussion}
+
+> ## Today's Learners
+>
+> 1. Everyone should add their name to the Etherpad (this can be done while setting up before the start of the class). 
+> 1. Learners should also introduce themselves (preferably verbally). It is also good for everyone at a given site to know who all is in the group.
+> 1. As part of their instroduction, ask learners to 1) explain their work in 3 words and 2) say something they are proud of (not necessarily related to research or teaching).
 {: .discussion}
 
 Most of you are probably here because you have attended or helped at
