@@ -379,7 +379,7 @@ Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) 
 - [Version Control with Git]({{site.swc_pages}}/git-novice/)
 - [Programming with Python]({{site.swc_pages}}/python-novice-inflammation/)
 - [Programming with R]({{site.swc_pages}}/r-novice-inflammation/) and 
-- [R for Reproducible Scientific Analysis]{{site.swc_pages}}/r-novice-gapminder/)
+- [R for Reproducible Scientific Analysis]({{site.swc_pages}}/r-novice-gapminder/)
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
 Software Carpentry also maintains lessons on:
@@ -422,14 +422,14 @@ Data Carpentry's [lessons]({{ site.dc_site }}/lessons/)
 are domain-specific and cover data organization, manipulation, and visualization skills
 relevant to the target domain.  Current curricula include:  
 
-*   [Ecology]({{ site.dc_site }}/lessons/#ecology-workshop)
+*   [Ecology]({{site.dc_site}}/lessons/#ecology-workshop)
 	* Focuses on general data management skills (proper 
 	data formatting and tracking) and tools for manipulating and 
 	visualizing tabular data.  
-*   [Genomics]({{ site.dc_site }}/lessons/#genomics-workshop) 
+*   [Genomics]({{site.dc_site}}/lessons/#genomics-workshop) 
 	* Specialized for researchers with sequence data, includes specific 
 	bioinformatics tools and how to use large-scale computing resources.  
-*   [Geospatial Data]({{ site.dc_site }}/lessons/#geospatial-data-workshop)  
+*   [Geospatial Data]({{site.dc_site}}/lessons/#geospatial-data-workshop)  
 
 Other Data Carpentry lessons are in development.
 
