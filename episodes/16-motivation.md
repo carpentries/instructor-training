@@ -388,7 +388,7 @@ The third,
 and most important,
 is to *involve people with disabilities in decision-making*.
 Our mailing lists are a good place to ask for advice,
-and updates to [our accessibility checklist]({{ site.swc_site }}/workshops/checklists/accessibility/)
+and updates to [our accessibility checklist]({{ site.swc_site }}/checklists/accessibility/)
 are always welcome.
 
 > ## Every Little Bit Counts
