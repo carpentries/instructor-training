@@ -1,7 +1,7 @@
 ---
 title: Novices and Formative Assessment
 teaching: 20
-exercises: 40
+exercises: 45
 questions:
 - "How can we describe the difference in learning between a novice and competent practitioner?"
 objectives:
@@ -33,8 +33,9 @@ but the model does a good job of helping people reason about chemical compounds 
 
 > ## Your Mental Models
 >
-> What is your primary research domain or area of expertise?  What is one mental model you use to frame
+> In the Etherpad, write your primary research domain or area of expertise and one mental model you use to frame
 > and understand your work?
+> This discussion should take about 5 minutes.
 {: .discussion}
 
 One way to think about the difference between a novice and a "competent
@@ -98,9 +99,10 @@ trying to impart "mere information" just confuses them.
 
 > ## Manuals vs. Tutorials
 >
-> What's the difference between a manual and a tutorial?
-> (Think in terms of the differences between novices and competent practitioners.)
+> In the Etherpad, describe the difference between a manual and a tutorial in terms of
+> the differences between novices and competent practitioners.
 > Can one document do a good job of being both?
+> This discussion should take about 5 minutes.
 {: .discussion}
 
 This is one of the reasons software documentation is so often frustrating.
@@ -269,7 +271,8 @@ but each of the other answers provides valuable insight.
 
 > ## Find the Bug
 >
-> What is the misconception associated with each wrong answer?
+> Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
+> This discussion should take about 10 minutes.
 {: .discussion}
 
 > ## Solution
@@ -293,12 +296,16 @@ and (b) learners actually don't find them funny.
 what to explain to that particular learner next.
 
 > ## Handling Outcomes
->
-> What should the instructor do when the class votes for: 
+> 
+> Formative assessments allow us as instructors to adapt our instruction to our audience. 
+> What should we do as instructors if the class votes for: 
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
 > 3. an even spread among options?
+> 
+> For one of the above, enter your answer in the Etherpad. 
+> This discussion should take about 10 minutes.
 {: .discussion}
 
 If the majority of the class votes for a single wrong answer, you should go back
@@ -364,7 +371,8 @@ in which you were going to explain something that your learners already know.
 
 > ## Modeling Novice Mental Models
 >
-> Create a multiple choice question related to a topic you intend to teach
+> Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
+> Type it into the Etherpad
 > and explain the diagnostic power of each its distractors,
 > i.e., what misconception is each distractor meant to identify?
 {: .challenge}
@@ -406,9 +414,11 @@ and see the topic from their point of view.
 
 > ## Other Kinds of Formative Assessment
 >
-> Describe another kind of formative assessment you have seen or used
+> In the Etherpad, describe another kind of formative assessment you have seen or used
 > and explain how it helps both the instructor and the learner figure out
 > where they are and what they need to do next.
+> 
+> This discussion should take about 5 minutes.
 {: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
