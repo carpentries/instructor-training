@@ -36,8 +36,10 @@ and talking as we go.
 
 > ## Up and Down
 >
-> What are some of the advantages and challenges of live coding
-> from both a learner's and an instructor's point of view?
+> List some advantages and challenges of live coding
+> from both a learner's and an instructor's point of view
+> in the Etherpad.
+> This discussion should take about 5 minutes.  
 {: .discussion}
 
 Its advantages are:
@@ -75,23 +77,20 @@ another.
 > [discussed earlier]({{ page.root }}/05-performance/).
 {: .callout}
 
-> ## Up and Down
->
-> What are some of the advantages and challenges of live coding
-> from both a learner's and an instructor's point of view?
-{: .challenge}
-
 > ## The Bad and the Good
 >
 > Watch this video of [live coding done poorly][live-coding-bad]
 > and this video of [live coding done right][live-coding-good]
-> as a group and then summarize your feedback on both. 
+> as a group and then summarize your feedback on both in the Etherpad.
+> Use the two x two rubric for feedback we discussed earlier.  
 > In the videos, the bash shell `for` loop is taught, 
 > and it is assumed learners are familiar with how to use a variable,
 > the `head `command and the content of the `basilisk.dat unicorn.dat`
 > files.
 >
-> Note: sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos. 
+> Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos. 
+> 
+> This exercise should take about 15 minutes.
 {: .challenge}
 
 ## Live Coding Top 10
@@ -259,14 +258,12 @@ you are unsure of the effect you behaviour has on the workshop.
 >
 > Teach 3-4 minutes of your chosen lesson episode using live coding to a
 > fellow trainee, then swap and watch while that person live codes for
-> you.  Don't bother trying to record the live coding sessions---we
-> have found that it's difficult to capture both the person and the
-> screen with a handheld device---but give feedback the same way you
-> have previously (positive and negative, content and presentation).
-> If you decide to instead teach something from the lesson episode
-> you selected in preparation for this workshop,
-> explain in advance to your fellow trainee what you will be teaching
+> you. Don't record the live coding sessions. Give each other feedback
+> using the two x two rubric we discussed previously and enter your feedback in the Etherpad. 
+> Explain in advance to your fellow trainee what you will be teaching
 > and what the learners you teach it to are expected to be familiar with.
+> 
+> This exercise should take about 20 minutes.  
 {: .challenge}
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
