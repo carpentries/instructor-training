@@ -56,6 +56,12 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.contact }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
+Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
+to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that
+lesson on the lesson page. For Data Carpentry this is www.datacarpentry.org/lessons. For Software Carpentry this is
+www.software-carpentry.org/lessons. Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
+contributions.
+
 Trainees must do their work on one of the lessons for which we are currently seeking improvements.
 
 Please note that:
