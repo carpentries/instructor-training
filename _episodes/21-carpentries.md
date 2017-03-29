@@ -161,6 +161,13 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > We work to find local instructors,
 > but suggest that you estimate about $2000 for the travel, food and accommodation of the instructors.
 > The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
+>
+> **Self-Organized Workshops: $500/workshop or $25/participant**  
+>
+> In order to ensure that self-organized workshops are consistent in quality and content with centrally organized workshops, and that we
+> accurately track workshop statistics - how many times instructors have taught (get credit where credit is due!), where workshops are
+> being held and the number of learners being taught - self-organized workshops must meet certain criteria listed 
+> [on our website]({{ site.dc_site}}/self-organized-workshops/).  
 {: .quotation}
 
 > ## Travel Costs for No-Shows
@@ -219,7 +226,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 *   it covers the core topics,
 *   at least one instructor is certified,
-*   you run our standardized pre- and post-workshop assessments and provides us with the results, and
+*   you run our standardized pre- and post-workshop assessments and provide us with the results, and
 *   you send us summary information about attendees (at a minimum, the number of people who attended).
 
 ### Who Can Teach What
