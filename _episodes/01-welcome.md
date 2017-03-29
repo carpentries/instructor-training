@@ -34,6 +34,7 @@ and Data Carpentry including, but not limited to, workshops, email lists, online
 > In the Etherpad, write down your name, the best class you ever
 > took (or one class from your top ten, if you can't decide), and
 > what made it so great.
+> This exercise should take about 2 minutes.
 {: .challenge}
 
 Hello everyone, and welcome to the Data Carpentry and Software Carpentry
@@ -135,7 +136,7 @@ motivate the activities and how you communicate with the attendees.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the K-12 level.
 >
-> *Which of these questions assesses flaws in a student's mental model of a domain?*
+> *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
 >
 > 1. I'm not sure what a mental model is.
 > 2. "In Python, what is the expected output for the following statement: 1 + '2'"
@@ -154,6 +155,7 @@ motivate the activities and how you communicate with the attendees.
 > 	(c) Searches the input file for lines containing a match to a pattern
 > 	(d) Removes a given input from a line
 >
+> This exercise should take about 3 minutes.
 {: .discussion}
 
 Now that we have a better idea of everyone's prior knowledge and
