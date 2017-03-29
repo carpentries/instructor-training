@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries"
 teaching: 60
-exercises: 0
+exercises: 15
 questions:
 - "How are Software and Data Carpentry organized and run?"
 objectives:
@@ -403,11 +403,13 @@ you are very welcome to put your name forward as a candidate.
 
 > ## Feedback on Assessment
 >
-> Go through the pre-assessment questionnaire given to you by your instructor
+> Take 10 minutes to go through the pre-workshop questionnaire given to you by your instructor
 > and critique its questions.
 > (Remember, critiquing means commenting on positive aspects as well as negative ones.)
 > How long do you think it will take the average learner to fill it in?
 > How useful do you think the information it gathers will be to you as an instructor?
 > How could you improve the questions?
 > What would you add, and what would you drop to make room?
+> 
+> This exercise and discussion should take about 15 minutes.  
 {: .challenge}
