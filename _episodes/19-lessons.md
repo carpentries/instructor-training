@@ -1,7 +1,7 @@
 ---
 title: "Lessons and Objectives"
 teaching: 30
-exercises: 30
+exercises: 20
 questions:
 - "How can I design more effective lessons?"
 - "What lessons do Software and Data Carpentry currently contain?"
@@ -82,7 +82,10 @@ A learner profile for Software Carpentry might be:
 > Who are they,
 > what problems do they face,
 > and how will this training help them?
-> Try to be as specific as possible.
+> Be as specific as possible.  
+> Enter your learner profile into the Etherpad. 
+> 
+> This exercise should take about 10 minutes.  
 {: .challenge}
 
 ### Writing Learning Objectives
@@ -253,6 +256,8 @@ is a good longer discussion of these issues.
 > 3. Reword the learning objective for a different learning outcome (e.g., from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
+> 
+> This exercise should take about 10 minutes.  
 {: .challenge}
 
 ## Reverse Instructional Design

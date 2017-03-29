@@ -97,6 +97,8 @@ learners have a concrete starting point for debugging.
 > **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
+> 
+> This exercise and discussion should take about 10 minutes.  
 {: .challenge}
 
 ## Strategies for Motivating Learners
@@ -128,6 +130,8 @@ to make sure they're doing at least a few of these things.
 > identify one thing the instructor did that motivated you.
 > *Pair* up with your neighbor and discuss what motivated you.
 > *Share* the motivational story in the Etherpad.
+> 
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
 > ## Not Just Learners
@@ -147,7 +151,9 @@ to make sure they're doing at least a few of these things.
 > the [testimonials]({{ page.root }}/testimonials/) from other instructors,
 > to see what motivates them to teach.  After this class, or during a break,
 > write a short explanation of what motivates you to teach. Save this as part of
-> your teaching philosophy for future reference.
+> your teaching philosophy for future reference.  
+> 
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
 ## Demotivation
@@ -241,7 +247,9 @@ to alienate a classroom and cause learners to tune out.
 >
 > *Think* back to a time when you demotivated a student (or when you were demotivated as a student).
 > *Pair* up with your neighbor and discuss what you could have done differently in the situation.
-> *Share* the demotivational story in the Etherpad.
+> *Share* the demotivational story in the Etherpad.  
+> 
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
 > ## Never Learn Alone

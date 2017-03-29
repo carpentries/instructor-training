@@ -200,7 +200,7 @@ Here is a really nice online Parsons Problem interactive tool. [Try it out!](htt
 > 3. Paste your jumbled code block into the etherpad
 > 4. Determine the correct order of your partner's else's code block 
 >
-> This challenge should take about 6 minutes. 
+> This challenge should take about 10 minutes. 
 > {: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
