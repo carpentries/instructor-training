@@ -328,6 +328,14 @@ it's OK to remind yourself that:
 *   Look at the positives along with the negatives.
 *   Etc.
 
+![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
+
+Giving good feedback is at least as important as knowing how to receive and process feedback. When
+giving feedback, stay positive, be specific and give your feedback recepient a clear next step to follow that
+will help them improve. Remember that giving and receiving feedback is a skill that requires practice, so don't 
+be frustrated if your feedback is rejected but try to think about why the recepient might not have been comfortable
+with the feedback you gave.  
+
 > ## Feedback on Feedback
 >
 > Watch either [this video][scipy-video-1] (8:40)
