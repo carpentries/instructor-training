@@ -1,7 +1,7 @@
 ---
 title: "Terms"
 teaching: 15
-exercises: 0
+exercises: 10
 questions:
 - "How can we describe teaching and learning how to teach?"
 - "What common vocabulary do we need to talk about teaching and learning?"
@@ -209,18 +209,20 @@ we will have done them a service.
 > ## Three Kinds of Knowledge
 >
 > Think of a memorable moment from a class you took or taught.
-> Describe it,
+> In the Etherpad, describe it,
 > and explain how the instructor used domain knowledge,
 > general pedagogical knowledge,
 > and pedagogical content knowledge to create that moment.
+> This discussion should take about 5 minutes.
 {: .discussion}
 
 > ## Bottom Up or Top Down?
 >
-> How would you describe the way you learned what you already know
+> In the Etherpad, describe the way you learned what you already know
 > about using computers in research:
 > bottom up, top down, or a mix of both?
 > Is that how you prefer to learn?
+> This discussion should take about 5 minutes.
 {: .discussion}
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
