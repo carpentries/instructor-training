@@ -55,11 +55,13 @@ As homework overnight, please:
 > When called upon by the instructor, add one positive or one negative
 > point to the growing list *without* repeating anything that has
 > already been said.
+> 
+> This exercise should take about 10 minutes.  
 {: .callout}
 
 > ## Reflecting on the Day
 > 
-> Before we wrap up for the day, take a moment to think over 
+> Before we wrap up for the day, take 5 minutes to think over 
 > everything we covered today.  On a piece of paper, write 
 > down something that captures what you want to remember about 
 > the day.  The trainers won't look at this - it's just for you.  
@@ -71,7 +73,8 @@ As homework overnight, please:
 > * draw pictures or a comic depicting one of the day's concepts
 > * write an outline of the topics we covered
 > * write a paragraph or “journal” entry about your 
-> exeperience of the training today
+> experience of the training today
 > * write down one thing that struck you the most
 >
+> This exercise should take about 5 minutes.
 {: .challenge}
