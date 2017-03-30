@@ -483,7 +483,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Use a [rubric][rubric] for notes.
 *   After the trainee is finished,
     first ask how they themselves thought it went,
-    then give constructive feedback based on your notes.
+    then give constructive feedback based on your notes. 
 *   Do *not* tell the trainee whether they passed or failed:
     send that by email after the session is over.
 *   Repeat for the other trainees.
@@ -495,7 +495,8 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 ### After the Demo
 
 *   Sign up for your next session in <http://pad.software-carpentry.org/teaching-demos>.
-*   Add pass/fail information for the trainees in AMY.
+*   Email checkout (at) carpentries (dot) org with names + pass/fail information
+*   Clear etherpad of data from your session.  
 
 ### Example Starting Points for Demos
 
