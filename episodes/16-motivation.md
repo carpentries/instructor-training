@@ -113,7 +113,7 @@ to make sure they're doing at least a few of these things.
 * Strategies to Establish Value
     1. Connect the material to students' interests.
     2. Provide authentic, real-world tasks.
-    3. Show relevance to sutdents' current academic lives.
+    3. Show relevance to students' current academic lives.
     4. Demonstrate the relevance of higher-level skills to students' future professional lives.
     5. Identify and reward what you value. 
     6. Show your own passion and enthusiasm for the discipline.
@@ -129,7 +129,7 @@ to make sure they're doing at least a few of these things.
 	9. Educate students about the ways we explain success and failure.  
 	10. Describe effective study strategies.
 * Strategies for Self-Efficacy
-	1. Provide flexibility and control.  
+	1. Provide students with options and the ability to make choices.
 	2. Give students an opportunity to reflect.  
 
 > ## Provide an Example
