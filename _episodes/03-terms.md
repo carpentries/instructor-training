@@ -98,41 +98,16 @@ ID is the engineering.
 
 ### Pedagogical Content Knowledge
 
-In the end, effective teaching often depends on what the teacher knows.
-The things teachers know can be divided into:
+There is a misconception in academia that if you are have content knowledge or expertise then you are qualified to teach the subject. However, to effectively teach, you also need to have pedagogical knowledge about how to teach and how learning works. Additionally, different subjects require different teaching methods. Pedagogical content knowledge is knowledge about how to effectively teach a particular subject. 
 
-*   *content knowledge*, such as the "what" of programming;
+Your own technical expertise and the Carpentry workshop lesson materials provide the *content knowledge*. Our instructor training program and your teaching experience and training provides the *pedagogical knowledge*. Finally, our community mentoring programs provide the *pedagogical content knowledge* through demo lessons, discussion sessions, GitHub issues, and online forums.
 
-*   *general pedagogical knowledge*, i.e., an understanding of the
-    psychology of learning; and
+![Pedagogical Content Knowledge](../fig/PCK.png)
 
-*   the *pedagogical content knowledge* (PCK) that connects the two.
-    PCK is things like what examples to use when teaching how parameters are passed to a function,
-    or what misconceptions about wildcard expansion are most common.
-
-![Pedagogical Content Knowledge](../fig/pck.svg)
-
-This training course focuses on general pedagogical knowledge
-through the two major categories
-(educational psychology and instructional design) described above.
-It assumes you know as much as you need to about basic programming
-(our content knowledge).
-
-When it comes to PCK,
-we will [see later]({{ page.root }}/16-practices/)
-some of the PCK of the Software and Data Carpentry communities at work.  Within
-Software Carpentry, we are also trying to support the curation of PCK by including
-an instructor's guide with each lesson that describes particular teaching
-techniques for that lesson's content.
-
-Finally, this training includes times for discussion, observation, and feedback,
-precisely so that participants are able to share their PCK with each other over
-the course of the next two days.
-
-> ## Examples of PCK
+> ## Examples of Pedagogical Content Knowledge
 >
 > *   Gelman and Nolan's *[Teaching Statistics: A Bag of Tricks][amazon-statistics]*
->     is full of PCK for teaching introductory statistics.
+>     is full of pedagogical content knowledge for teaching introductory statistics.
 > *   The [CS Teaching Tips][cs-teaching-tips] site
 >     is gathering similar ideas for computing.
 {: .callout}
