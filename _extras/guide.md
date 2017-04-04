@@ -3,6 +3,38 @@ layout: page
 title: "Instructor Notes"
 permalink: /guide/
 ---
+
+## Table of Contents
+
+
+* [Checklists](#checklists)
+  * [Scheduling the Event [Coordinator]](#scheduling-the-event-coordinator)
+  * [Setting Up [Trainer]](#setting-up-trainer)
+  * [During the Event [Trainer]](#during-the-event-trainer)
+  * [After the Event [Trainer]](#after-the-event-trainer)
+  * [Between Instructor Training Sessions [Trainer]](#between-instructor-training-sessions-trainer)
+  * [After Trainees Complete [Head of Instructor Training]](#after-trainees-complete-head-of-instructor-training)
+  * [Messages](#messages)
+* [Introduction](#introduction)
+* [Exercises](#exercises)
+* [Video Recorded Lessons](#video-recorded-lessons)
+* [Live Coding Demo Videos](#live-coding-demo-videos)
+* [Motivation and Demotivation](#motivation-and-demotivation)
+* [The Big Picture](#the-big-picture)
+* [You Are Not Your Learners](#you-are-not-your-learners)
+* [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
+* [Logistics](#logistics)
+  * [Two\-Day In\-Person (Currently used)](#two-day-in-person-currently-used)
+  * [Two\-Day Online With Groups (Currently used)](#two-day-online-with-groups-currently-used)
+  * [Multi\-Week Online (Retired)](#multi-week-online-retired)
+* [Demo Sessions](#demo-sessions)
+  * [Before the Demo](#before-the-demo)
+  * [Shortly Before the Demo](#shortly-before-the-demo)
+  * [During the Demo](#during-the-demo)
+  * [After the Demo](#after-the-demo)
+  * [Example Starting Points for Demos](#example-starting-points-for-demos)
+
+
 ## Checklists
 
 See Atul Gawande's 2007 article "[The Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist)"
@@ -88,6 +120,8 @@ You may use the following message templates to communicate with trainees:
 * [Request to do another discussion session when participant was passive][passive-discussion]
 * [Confirm certification and describe next steps][completion]
 * [Notify participants that they have not completed within the specified time][expiry]
+
+
 
 ## Introduction
 
@@ -528,6 +562,9 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   DC R ecology
     *   [04-dplyr]({{ site.dc_site }}/R-ecology-lesson/04-dplyr.html)
     *   [05-visualization-ggplot2.html]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html) (actually, [plotting-with-ggplot2]({{ site.dc_site }}/R-ecology-lesson/05-visualization-ggplot2.html#plotting-with-ggplot2))
+
+TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
+
 
 [after-pr]: {{ page.root }}/files/messages/after-pr.txt  
 [amy]: {{ site.amy_site }}/  
