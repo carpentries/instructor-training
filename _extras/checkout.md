@@ -32,9 +32,8 @@ setting of the two-day training.  These are:
     signing up for a workshop, you will have practiced preparing a lesson and
     doing a brief session of live coding.
 
-We would like to get everyone through this process within two months of training.
-Anyone who has not completed within 90 days should [contact us]({{ site.contact }})
-to discuss reasons and options.
+Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
+and must be requested before the three months are up. To request an extension, please [contact us]({{ site.contact }}).
 
 Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
 March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
