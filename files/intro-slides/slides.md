@@ -32,9 +32,7 @@ at the beginning of the workshop.
 
 ## How to set the workshop environment
 
-Things here are just slight revisions of information from Carnegie Melon Eberly
-Center Teaching Excellence & Educational Innovation materials
-http://www.cmu.edu/teaching/designteach/teach/firstday.html
+Things here are adapted from: Eberly Center for Teaching Excellence & Educational Innovation, Retrieved October 31st, 2016, www.cmu.edu/teaching/
 
 ---
 
