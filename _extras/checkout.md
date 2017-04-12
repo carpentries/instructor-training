@@ -39,6 +39,14 @@ Please note that in the past, instructors needed to certify separately for Data 
 March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
 are now considered Carpentry instructors and can teach either set of curricula.
 
+## Create an Account  
+> To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to create an
+> account in our database management system (AMY). If you filled out an application to attend instructor training, you already have an
+> account. If you didn't fill out an application, please do so now to create your account. You can fill out an application 
+> using [this link](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor
+> provides. 
+{: .challenge}
+
 ## Part 1: Submit a Small Contribution to One of Our Lessons
 <a name="lesson-change"></a>
 
