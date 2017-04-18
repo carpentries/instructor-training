@@ -1,0 +1,31 @@
+Hello everyone, and thank you for signing up for the instructor training session that we will be running next week at XXXXX.  
+
+In order to prepare for the class:
+
+1. Please read:
+
+* Porter et al's "Success in Introductory Programming: What Works?" (http://swcarpentry.github.io/instructor-training/papers/porter-what-works-2013.pdf)
+* Guzdial's "Why Is It So Hard to Learn to Program?" (http://swcarpentry.github.io/instructor-training/papers/guzdial-why-hard-to-teach-2011.pdf)
+* The latest draft of "Software Carpentry: Lessons Learned" (attached).
+
+2. Please go to http://software-carpentry.org/lessons/ and http://www.datacarpentry.org/lessons/ to have a look at what we currently teach in Software Carpentry and Data Carpentry respectively.  You are *not* expected to go through these in detail - we'll do a walk-through in class - but it would be helpful if you knew what the major topics are.
+
+3. Throughout the two days, we're going to record one another teaching in pairs or threes, so please bring a cell phone or hand-held camera that can record audio and video - it doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
+
+We've set up a one-page website for the course at 
+
+**** FILL IN URL --- http://swcarpentry.github.io/training-florida-2016-01-21/ 
+
+that includes a schedule.  If you have any questions about this, the reading material, or anything else, please mail me - I'll respond as quickly as I can.
+
+thanks again,
+Greg
+
+p.s. if you're interested in doing more reading, you may enjoy:
+
+* "How Learning Works" (http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/), which is an excellent summary of current research in teaching and learning
+
+* "Building a Better Teacher" (http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591), which is a well-written look at why educational reforms in the past 50 years have mostly missed the mark, and about what we should be doing instead.
+
+* "Teaching What You Don't Know" (http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170), which is a situation many of us find ourselves in more often that we'd like.
+

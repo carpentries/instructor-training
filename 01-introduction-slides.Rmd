@@ -1,0 +1,98 @@
+---
+title: "Introduction to Instructor Training"
+author: "Greg Wilson"
+output:
+  ioslides_presentation:
+    highlight: pygments
+    widescreen: yes
+---
+  
+## How to Teach based on How Learning Works
+
+In this workshop you will learn 
+
+- how learning works
+- instructional design
+- how to teach lessons
+
+In Software and Data Carpentry we have already written 
+lessons, but understanding how to develop materials based
+on how learning works is the basis for understanding how to
+teach.
+
+## Educational Pyschology
+
+*Educational psychology* is the study of how people learn.
+
+This training will take a narrow *cognitivist* perspective.
+
+Connitivism: argues that the "black box" of the mind should be opened and understood. The learner is viewed as an information processor. Currently the dominant paradigm. This
+theory assumes that there aren't environmental factors 
+disrupting learning (physical safety, poverty).
+
+**Understanding how the mind works, helps us understand how
+people learn.**
+
+Other theories: *behaviorism* - treats education as stimulus/response conditioning; *constructivism* - considers learning an active process during which learners construct knowledge for themselves; *connectivism* - emphasizes the social aspects of learning, particularly those made possible by the Internet
+
+## Situated learning
+
+*Situated learning* is learning in the same context in which it is applied. Learning combines knowing and doing. The social interaction that occurs during learning is also important
+and builds a *community of practice.*
+
+- Content: no importance is given for the retention of the content, but reflective and higher order thinking where results are used in  solving real problems are more important. 
+- Context: it is the usage of the product or the result at the right time, place and situation.   
+- Community: It helps the learner create, interpret, reflect and form meanings. It gives the opportunity to share the experiences among the learners and to interact.  
+- Participation: Where the exchange of ideas, problems solving and engagement takes place. A social setting which includes reflection, interpretation and negotiation among community participants. 
+
+Source: Wikipedia
+
+## Workshops as situated learning
+
+*Workshops* are one form of situated learning. Others are things like field trips, gardens or kitchens as classrooms, sports practice and on-the-job training.
+
+## Instructional design
+
+*Instructional design* is the study of how to create learning materials
+
+If educational psychology is the science, ID is the engineering: it's how our scientific understanding is put into practice on the ground.
+
+This course will cover several methods and tools of instructional design, exploring their strengths and weaknesses, and trying to connect them to the underlying research.
+
+## Quantitative and Qualitative Research
+
+One of the major challenges in educational research is that human beings are very different from one another. In order to get meaningful quantitative results, studies must therefore include large numbers of subjects, which is expensive. Quantitative studies are also not able to answer many "why" questions. For those, researchers need to use qualitative methods, such as grounded theory. Physical scientists are sometimes skeptical of such studies and their findings, but done rigorously, they can provide actionable insights that quantitative methods cannot.
+
+## Pedagogical content knowledge
+
+In the end, effective teaching often depends on what the teacher knows. The things teachers know can be divided into:
+
+- content knowledge, such as the "what" of programming;
+
+- general pedagogical knowledge, i.e., an understanding of the psychology of learning; and
+
+- the pedagogical content knowledge (PCK) that connects the two, which is things like when to teach the notion of a call stack and what examples to use when doing so.
+
+This training course focuses on general pedagogical knowledge through the two major categories (educational psychology and instructional design) described above. It assumes you know as much as you need to about basic programming (our content knowledge).
+  
+## Enthusiasm
+
+One thing that makes it hard to evaluate a learning approach is the variability in the enthusiasm of the instructor.
+
+When an instructor is enthusiastic about teaching and engaged, learning outcomes are much improved, often independent of the approach. 
+
+In *Teaching as a performance art* we'll talk more about this. 
+
+## Challenges
+
+**Three kinds of knowledge**
+
+Think of a memorable moment from a class you took or taught. Describe it, and explain how the instructor used domain knowledge, general pedagogical knowledge, and pedagogical content knowledge to create that moment.
+
+## Challenges
+
+**Who decides?**
+
+In Littky and Grabelle's The Big Picture: Education is Everyone's Business, Kenneth Wesson wrote, "If poor inner-city children consistently outscored children from wealthy suburban homes on standardized tests, is anyone naive enough to believe that we would still insist on using these tests as indicators of success?" What are examples in your own experience of "objective" assessments that reinforce the status quo?
+
+
