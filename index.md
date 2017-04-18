@@ -1,39 +1,53 @@
 ---
-layout: page
-title: Instructor Training
+layout: lesson
+root: .
 ---
-This short training course introduces the basics of educational
-psychology and instructional design, and shows them how to use them to
-teach programming to free-range adult learners.  Each lesson includes
-a theory of how people learn or a teaching technique, with a specific
-focus on applying these ideas and tools to computational instruction.
-It is necessarily shallow, but we hope it will be useful and convince
-you to learn more.
 
-> ## Prerequisites
->
-> There are no specific prerequisites for this training,
-> but participants will benefit from having been through
-> a Data Carpentry or Software Carpentry workshop
-> so that they are familiar with our teaching techniques.
+Over the last hundred years,
+researchers have discovered an enormous amount about how people learn
+and how best to teach them.
+Unfortunately,
+much of that knowledge has not yet been translated into common classroom practice,
+while many myths about education have proven remarkably persistent.
 
-Please note that all participants in this course are required to abide
-by our [code of conduct](http://software-carpentry.org/conduct.html).
+This two-day class has two goals:
 
-## Topics
+*   Introduce participants to a handful of key research findings
+    and show how they can be used to help people learn better and faster.
+*   Introduce participants to the teaching practices that have been adopted by
+    the Software and Data Carpentry communities, and the overall philosophy
+    and procedures of both organizations
+    in order to prepare them to teach at Software and Data Carpentry workshops.
 
-1.  [Introduction](01-introduction.html)
-2.  [Mental Models](02-models.html)
-3.  [Concept Maps](03-maps.html)
-4.  [Faded Examples](04-faded.html)
-5.  [Lesson Design](05-design.html)
-6.  [Learning Objectives](06-objectives.html)
-7.  [Motivation and Demotivation](07-motivation.html)
-8.  [Teaching as a Performance Art](08-performance.html)
-9.  [Why I Teach](09-why.html)
+*Please fill in [this form][application-form] if you wish to take part in this course.
+Priority is given to members of our partner organizations,
+but we run several open-enrolment classes each year as well.*
 
-## Other Resources
+The class will be hands-on throughout:
+short lessons will alternate with individual and group practical exercises,
+including practice teaching sessions.
+Those who complete the two full days
+and [some short follow-up exercises online]({{ page.root }}/checkout/)
+will be certified to teach [Software Carpentry]({{ site.swc_site }})
+and/or [Data Carpentry]({{ site.dc_site }}).
 
-*   [Reference Guide](reference.html)
-*   [Next Steps](discussion.html)
-*   [Instructor's Guide](instructors.html)
+*   All participants in this course are required to abide by our [code of conduct][conduct].
+*   There are no specific prerequisites for this training,
+    but participants will benefit from having been through a Data Carpentry or Software Carpentry workshop
+    so that they are familiar with our teaching techniques.
+*   In particular, participants are *not* required to have any specific programming skills
+    (though of course they should know enough about the subjects of one or more of our lessons
+    to be able to teach them).
+
+[Software Carpentry]({{ site.swc_site }}) has run variations on this
+course since 2012 for over 500 people, and the current material
+reflects the latest iteration of an ongoing process to refine what new
+instructors need to know.  Feedback is welcome as an [issue][issues]
+on the Github repository that hosts this site.
+
+**These materials are freely available under a [Creative Commons license][license].**
+
+[application-form]: https://amy.software-carpentry.org/workshops/request_training/
+[conduct]: {{ page.root }}/conduct/
+[license]: {{ page.root }}/license/
+[issues]: {{ site.github.repository_url }}/issues

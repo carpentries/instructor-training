@@ -1,5 +1,8 @@
-# Contributor Code of Conduct
-
+---
+layout: page
+title: "Contributor Code of Conduct"
+permalink: /conduct/
+---
 As contributors and maintainers of this project,
 we pledge to respect all people who contribute through reporting issues,
 posting feature requests,
@@ -19,6 +22,7 @@ race,
 ethnicity,
 age,
 or religion.
+
 Examples of unacceptable behavior by participants include the use of sexual language or imagery,
 derogatory comments or personal attacks,
 trolling,
@@ -34,6 +38,7 @@ Project maintainers who do not follow the Code of Conduct may be removed from th
 Instances of abusive, harassing, or otherwise unacceptable behavior
 may be reported by opening an issue or contacting one or more of the project maintainers.
 
-This Code of Conduct is adapted from the
-[Contributor Covenant](http:contributor-covenant.org) Version 1.0.0,
-available at [http://contributor-covenant.org/version/1/0/0/](http://contributor-covenant.org/version/1/0/0/).
+This Code of Conduct is adapted from
+the [Contributor Covenant][contrib-covenant] Version 1.0.0.
+
+[contrib-covenant]: http://contributor-covenant.org/
