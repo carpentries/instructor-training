@@ -259,7 +259,7 @@ to alienate a classroom and cause learners to tune out.
 > Part of the problem is that
 > [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
 > another is [questions about the replicability of key studies][jussim-stereotype-threat].
-> What *is* clear is that we need to aovid thinking in terms of a deficit model
+> What *is* clear is that we need to avoid thinking in terms of a deficit model
 > (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
 > and instead use a systems approach
 > (i.e., we need to change the system because it produces these disparities).
