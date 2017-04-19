@@ -76,7 +76,7 @@ Please note that:
 1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
-2.  Your contribution doesn't need to be accepted in order for you to become an instructor:
+2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
     the point is to make sure that you understand the process and have met the people who review material.
 
 3.  Be sure to format your submission in the same way as the content that's already there.
