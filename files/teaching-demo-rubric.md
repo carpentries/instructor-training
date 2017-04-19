@@ -25,3 +25,27 @@ Trainee uses mistakes/typos as opportunities for learning|Trainee ignores or dis
 Trainee speaks and types at an appropriate pace|Trainee speaks or types very quickly|
 Trainee speaks clearly|-
 -|Trainee appears significantly distracted|
+
+---
+
+Traineers can also use the form below to take notes during the teaching demonstration.
+
+Trainee:
+
+Date:
+
+|Aspect|Comments_________________________________________________|
+|------|---------------------|
+|<br>Speed<br>|
+|<br>Voice, teaching style|
+|<br>Verbalize typing|
+|<br>Verbalize thoughts|
+|<br>Explain all that was typed|
+|<br>Easy to follow|
+|<br>font, window size etc|
+|<br>Mirroring Learner’s Environment|
+|<br>Stick to the Material|
+|<br>Embrace Mistakes|
+|<br>Use of Illustrations|
+|<br>Use of notes on paper/tablet|
+|<br>Avoid Being Disturbed|
