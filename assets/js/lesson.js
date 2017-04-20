@@ -3,7 +3,7 @@ $("table").addClass("table table-striped");
 
 
 // Handle foldable challenges and solutions (on click and at start).
-$(".discussion,.solution").click(function(event) {
+$(".solution").click(function(event) {
     var trigger = $(event.target).has(".fold-unfold").size() > 0
                || $(event.target).filter(".fold-unfold").size() > 0;
     if (trigger) {
@@ -12,7 +12,7 @@ $(".discussion,.solution").click(function(event) {
         event.stopPropagation();
     }
 });
-$(".discussion,.solution").each(function() {
+$(".solution").each(function() {
     $(">*:not(h2)", this).toggle();
     var h2 = $("h2:first", this);
     h2.append("<span class='fold-unfold glyphicon glyphicon-collapse-down'></span>");
