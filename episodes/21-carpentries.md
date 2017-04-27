@@ -231,8 +231,8 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 ### Who Can Teach What
 
-Software Carpentry and Data Carpentry share a single instructor training program,
-but instructors must certify separately for each at the end:
+As of March 2017, a trained instructor can teach curricula for either
+Software Carpentry or Data Carpentry and are no longer required to certify separately for each:
 see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
 for details.
 
