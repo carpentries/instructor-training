@@ -185,6 +185,10 @@ Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for S
 Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][amazon-dicsussion]*.
 :   Describes fifty different ways to get groups talking productively.
 
+Joshua Foer: *[Moonwalking with Einstein: The Art and Science of Remembering Everything][amazon-moonwalking]*.
+:   Discusses memory techniques within the context of training for the U.S. Memory Championship. Compelling read and
+    also very informative.
+
 Elizabeth Green: *[Building a Better Teacher][amazon-babt]*.
 :   A well-written look at why educational reforms in the past 50 years have mostly missed the mark,
     and what we should be doing instead.
@@ -283,6 +287,7 @@ Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-discussion]: https://www.amazon.com/Discussion-Book-Great-People-Talking/dp/1119049717/
+[amazon-moonwalking]: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-lcdce]: http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/
 [amazon-making-software]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
