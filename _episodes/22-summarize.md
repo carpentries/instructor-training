@@ -22,7 +22,7 @@ The final three steps in qualifying as an instructor are to:
     2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [discussion session][discussion] with experienced instructors.
-3.  Do a 5-minute live coding demo.
+3.  Do a 5-minute [live coding demo][demo].
 
 [This page]({{ page.root }}/checkout/) explains the procedure in detail;
 please review it with your instructor before you leave.
@@ -61,3 +61,4 @@ We hope it was a valuable and enjoyable experience,
 and we look forward to your continued involvement in the Software and Data Carpentry community.
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
+[demo]: http://pad.software-carpentry.org/teaching-demos
