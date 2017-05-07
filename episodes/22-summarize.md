@@ -13,6 +13,12 @@ keypoints:
 - "Final steps to qualify are to make a contribution, take part in a discussion, and do a teaching demo."
 ---
 
+
+## Application form
+
+Be sure that all participants have filled out the Carpentries [instructor application form](https://amy.software-carpentry.org/forms/request_training/).  We can not track trainee progress and make them an official instructor without it.   
+
+
 ## Instructor Checkout
 
 The final three steps in qualifying as an instructor are to:
