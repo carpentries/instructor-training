@@ -271,7 +271,7 @@ Please see the setup instructions in the workshop template for more details.
 
 ## The Carpentry Community
 
-There are several hubs of activity for the Software and Data Carpentry communities:
+There are many ways to get connected with the Software and Data Carpentry communities:
 
 *   Our websites are:
     *   [Software Carpentry]({{ site.swc_site }})
@@ -286,13 +286,19 @@ There are several hubs of activity for the Software and Data Carpentry communiti
     More details are given below.
     *   [Data Carpentry on GitHub]({{ site.dc_github }})
     *   [Software Carpentry on GitHub]({{ site.swc_github }})
-*   Both Software and Data Carpentry have public discussion lists
+*   Software and Data Carpentry share public discussion lists
     that host everything from lively discussion on teaching practices
     to job postings and general announcements.
-*   Data Carpentry also has a [discussion forum](http://discuss.datacarpentry.org/)
-*   And you can find us on Twitter:
+    * [General Discussion list](http://lists.software-carpentry.org/listinfo/discuss)  
+    * [Other lists](http://lists.software-carpentry.org/)  
+*   We publish a [joint monthly newsletter](http://www.datacarpentry.org/newsletter/),
+*   Host monthly community calls and weekly instructor discussion sessions,
+    * Check out our [community calendar](https://software-carpentry.org/join/)
+*   You can also find us on Twitter:
     *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
     *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+*   [Slack](https://swc-slack-invite.herokuapp.com/)
+*   and [Facebook](https://www.facebook.com/carpentries/)
 
 > ## Get Connected
 >
