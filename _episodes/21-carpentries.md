@@ -178,8 +178,8 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > do what it can to ensure that instructors show up for workshops they have agreed to teach, so that hosts have the appropriate number of
 > instructors and do not incur unnecessary expenses.  
 
-> Instructors who find that they will not be able to meet an agreed upon teaching engagement are required to notify the Carpentry workshop
-> coordinator as soon as possible. If travel arrangement have not been made, and the workshop is at least 6 weeks away, instructors may
+> Instructors who find that they will not be able to meet an agreed upon teaching engagement are required to notify the [Carpentry workshop
+> coordinator](mailto:admin@software-carpentry.org) as soon as possible. If travel arrangement have not been made, and the workshop is at least 6 weeks away, instructors may
 > cancel with no questions asked. If non-refundable travel has been booked or it is less than 6 weeks from the workshop, instructors should
 > clearly communicate the reason for missing their teaching engagement. The workshop coordinator will then handle communication with the
 > host and attempt to find an alternate instructor if possible.  
@@ -244,7 +244,7 @@ each workshop's instructors create a one-page website using
 [this template]({{ site.workshop_repo }}).
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator]({{ site.contact }}),
+the [workshop coordinator](mailto:admin@software-carpentry.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
