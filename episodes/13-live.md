@@ -49,8 +49,7 @@ Its advantages are:
 *   It enables instructors to be more responsive to "what if?" questions.
     Where a slide deck is like a railway track,
     live coding allows instructors to go off road and follow their learners' interests.
-*   It facilitates lateral knowledge transfer:
-    people learn more than we realized we were teaching by watching *how* instructors do things.
+*   Lateral knowledge transfer: live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were teaching by watching *how* instructors do things.
 *   It slows the instructor down:
     if she has to type in the program as she goes along,
     she can only go twice as fast as her learners,
