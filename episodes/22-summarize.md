@@ -16,7 +16,7 @@ keypoints:
 
 ## Application form
 
-Be sure that all participants have filled out the Carpentries [instructor application form](https://amy.software-carpentry.org/forms/request_training/).  We can not track trainee progress and make them an official instructor without it.   
+Be sure that you have filled out the Carpentries [instructor application form](https://amy.software-carpentry.org/forms/request_training/).  We can not track your progress and make you an official instructor without it.   
 
 
 ## Instructor Checkout
