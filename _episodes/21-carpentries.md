@@ -67,7 +67,7 @@ Accordingly, Data Carpentry workshops:
 
 *   are aimed at pure novices,
 *   domain-specific, and
-*   present a full two-day curriculum centered around a single data set.
+*   present a full curriculum centered around a single data set.
 
 Software Carpentry workshops focus on best practices for software development and use.
 Its workshops are:
