@@ -46,8 +46,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change this lesson,
-    please work in <https://github.com/swcarpentry/instructor-training>,
-    which can be viewed at <https://swcarpentry.github.io/instructor-training>.
+    please work in <https://github.com/swcarpentry/FIXME>,
+    which can be viewed at <https://swcarpentry.github.io/FIXME>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/swcarpentry/lesson-example>,
@@ -115,14 +115,12 @@ In brief:
     since that will make it difficult for you to work on other contributions.
 
 2.  We use [GitHub flow][github-flow] to manage changes:
-    1.  Create a fork of this repository on GitHub.
-    2.  Clone your fork of this repository to create a local copy on your computer.
-    3.  Create a new branch in your local copy for each significant change.
-    4.  Commit the change in that branch.
-    5.  Push that branch to your fork of this repository on GitHub.
-    6.  Submit a pull request from that branch to the [master repository][repo].
-    7.  If you receive feedback,
-        make changes in your local clone and push to your branch on GitHub:
+    1.  Create a new branch in your desktop copy of this repository for each significant change.
+    2.  Commit the change in that branch.
+    3.  Push that branch to your fork of this repository on GitHub.
+    4.  Submit a pull request from that branch to the [master repository][repo].
+    5.  If you receive feedback,
+        make changes on your desktop and push to your branch on GitHub:
         the pull request will update automatically.
 
 Each lesson has two maintainers who review issues and pull requests
@@ -142,13 +140,12 @@ You can also [reach us by email][contact].
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
 [discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
-[example-site]: https://swcarpentry.github.io/lesson-example/
 [github]: http://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/swcarpentry/instructor-training/issues/
-[repo]: https://github.com/swcarpentry/instructor-training/
+[issues]: https://github.com/swcarpentry/FIXME/issues/
+[repo]: https://github.com/swcarpentry/FIXME/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
