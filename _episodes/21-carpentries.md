@@ -35,7 +35,7 @@ Greg Wilson, who identified a need for best practices training in
 research computing.  After several iterations, the current model of
 two-day workshops with a standard curriculum emerged in 2010-11.
 After intermediate support from various organizations, it became an
-independent non-profit organization called the [Software Carpentry
+independent organization called the [Software Carpentry
 Foundation]({{ site.swc_site }}/scf/) (SCF) in 2015.  The SCF is now responsible for all
 aspects of Software Carpentry's operations.
 
@@ -50,8 +50,9 @@ aspects of Software Carpentry's operations.
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal.
-While separate, the two organization share many aspects of their operations,
+creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal.  
+Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), a 501(c)(3)  
+non-profit foundation based in the United States. The two organizations share many aspects of their operations,
 long-term goals, and community structure:
 
 *   Both focus on computational skills.
