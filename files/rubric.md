@@ -1,5 +1,32 @@
-Apply for Instructor Training
-=============================
+## Rubric for Scoring Applications for Open Instructor Trainings
+
+- Award +1 for being outside Europe/UK/US/Canada/Australia/New Zealand or
+- Award +1 for being in smaller/remote/less affluent institution within EU/UK/US/Can/Aus/NZ.
+
+- Award +1 for being in economics or social sciences, arts, humanities, or library science.
+
+- Optionally award +1 for self-identifing as a member of a group that is under-represented
+        in research and/or computing, e.g., women, ethnic minorities, LGBTQ,
+        etc. 
+        
+- Optionally award +1 for being an active contributor to other volunteer or
+        non-profit groups with significant teaching or training components
+
+- Score +1 for each previous involvement with the Carpentries up to a maximum bonus of +3.
+
+- Award +1 for previous training in teaching: "a certification or short course" or "a full degree".
+
+- Award +1 for previous experience in teaching: "TA for full course" or "primary instructor for full course".
+
+- Award +1 for using tools "every day" or "a few times a week".
+
+- Award -3 to +3 based on free text responses.
+
+_________________
+
+*The application text below has been approved by the Trainers group but **not** implemented as of 5/15/17.*
+
+## Apply for Instructor Training
 
 Our instructor training classes are for people who wish to learn how to
 teach Software Carpentry and Data Carpentry workshops. We teach
@@ -91,12 +118,6 @@ please see <http://swcarpentry.github.io/instructor-training/>.
   as many people as possible, in as wide a variety of situations as
   possible.*
 
-> Award +1 for outside Europe/UK/US/Canada/Australia/New Zealand.
-> *or*
-> Award +1 for being in smaller/remote/less affluent institution within EU/UK/US/Can/Aus/NZ.
-
-
-
 11. Areas of expertise:
   *Please check all that apply.*
 
@@ -120,11 +141,6 @@ please see <http://swcarpentry.github.io/instructor-training/>.
 
 Other areas of expertise: [____________________]
 
-> Award +1 for being in economics or social sciences, arts,
-> humanities, or library science (domains where we wish to expand).
-
-
-
 12. [_] I self-identify as a member of a group that is under-represented
         in research and/or computing, e.g., women, ethnic minorities, LGBTQ,
         etc.
@@ -133,10 +149,6 @@ Details: [____________________]
 13. [_] I have been an active contributor to other volunteer or
         non-profit groups with significant teaching or training components.
 Details: [____________________]
-
-> Optionally award +1 for each response (maximum of +2).
-
-
 
 14. How often have you been involved with Software Carpentry or Data
     Carpentry in the following ways?
@@ -147,10 +159,6 @@ Details: [____________________]
 [_] Learner
 [_] Workshop organizer
 [_] Contributed to lesson materials
-
-> Score +1 for each previous involvement up to a maximum bonus of +3.
-
-
 
 15. Previous formal training as a teacher or instructor.
 
@@ -163,10 +171,6 @@ Details: [____________________]
 
 Description of your previous training in teaching:
 [____________________]
-
-> Award +1 for "a certification or short course" or "a full degree"
-
-
 
 16. Previous experience in teaching.
   *Please include teaching experience at any level from grade school
@@ -182,11 +186,6 @@ Description of your previous training in teaching:
 Description of your previous experience in teaching:
 [____________________]
 
-
-> Award +1 for "TA for full course" or "primary instructor for full course".
-
-
-
 17. How frequently do you work with the tools that Data Carpentry and
     Software Carpentry teach, such as R, Python, MATLAB, Perl, SQL,
     Git, OpenRefine, and the Unix Shell?
@@ -197,10 +196,6 @@ Description of your previous experience in teaching:
 [_] A few times a year
 [_] Never or almost never
 
-> Award +1 for "every day" or "a few times a week".
-
-
-
 18. How often would you expect to teach on Software or Data Carpentry
     Workshops after this training?
 
@@ -209,8 +204,6 @@ Description of your previous experience in teaching:
 [_] Several times a year
 [_] Other: [____________________]
 
-
-
 19. How frequently would you be able to travel to teach such classes?
 
 [_] Not at all
@@ -218,18 +211,11 @@ Description of your previous experience in teaching:
 [_] Several times a year
 [_] Other: [____________________]
 
-
-
 20. Why do you want to attend this training course?
 [____________________]
 
-
 21. What else should we know about you?
 [____________________]
-
-
-> Award -3 to +3 based on responses to "why do you want to attend" and
-> "what else should we know".
 
 
 [_] I have read and agree to [the Software Carpentry Foundation's data
@@ -247,3 +233,4 @@ Description of your previous experience in teaching:
 
 [_] I agree to teach a Software Carpentry or Data Carpentry workshop
     within 12 months of this Training Course
+
