@@ -180,10 +180,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
-As noted in [the introduction]({{ page.root }}/02-introduction/),
-we are privileged:
-most of our learners are physically safe, well fed, well educated, and highly motivated.
-Our challenge is therefore not demotivating them.
+One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. 
 
 A few common demotivators are *indifference* and *unfairness*.
 If learners believe that the instructor or the educational system doesn't care about them or the lesson,
