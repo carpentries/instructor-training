@@ -10,7 +10,7 @@ or run `make` in this directory for a list of helpful commands.
 **Maintainer(s):**
 
 * [Christina Koch][koch_christina]
-* [Greg Wilson][wilson_greg]
+* [Erin Becker][becker_erin]
 
 **Trainers (and trainers-in-training):**
 
@@ -38,4 +38,4 @@ or run `make` in this directory for a list of helpful commands.
 [lesson-example]: https://swcarpentry.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
 [koch_christina]: http://software-carpentry.org/team/#koch_christina
-[wilson_greg]: http://software-carpentry.org/team/#wilson_g
+[becker_erin]: http://www.datacarpentry.org/people/#becker_erin
