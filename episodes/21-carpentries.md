@@ -50,8 +50,7 @@ aspects of Software Carpentry's operations.
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal.  
-Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), a 501(c)(3)  
+creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal. Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), a 501(c)(3)  
 non-profit foundation based in the United States. The two organizations share many aspects of their operations,
 long-term goals, and community structure:
 
