@@ -50,9 +50,10 @@ aspects of Software Carpentry's operations.
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal. Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), a 501(c)(3)  
-non-profit foundation based in the United States. The two organizations share many aspects of their operations,
-long-term goals, and community structure:
+creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal. 
+Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), 
+a 501(c)(3) non-profit foundation based in the United States. The two organizations share many aspects of their 
+operations, long-term goals, and community structure:
 
 *   Both focus on computational skills.
 *   Both run two-day workshops taught by volunteer instructors.
@@ -177,24 +178,21 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > provide high-quality workshops, however, the Carpentries must ensure that instructors fulfill their commitments. In particular, it must
 > do what it can to ensure that instructors show up for workshops they have agreed to teach, so that hosts have the appropriate number of
 > instructors and do not incur unnecessary expenses.  
-
 > Instructors who find that they will not be able to meet an agreed upon teaching engagement are required to notify the [Carpentry workshop
 > coordinator](mailto:admin@software-carpentry.org) as soon as possible. If travel arrangement have not been made, and the workshop is at least 6 weeks away, instructors may
 > cancel with no questions asked. If non-refundable travel has been booked or it is less than 6 weeks from the workshop, instructors should
 > clearly communicate the reason for missing their teaching engagement. The workshop coordinator will then handle communication with the
 > host and attempt to find an alternate instructor if possible.  
-
 > Depending on their reason for missing their agreed upon teaching engagement, instructors may be required to reimburse any non-refundable
 > travel or accommodation costs that the host may already have incurred on their behalf. The Carpentries may waive this requirement in
 > special circumstances outlined below, based on the judgement of the Carpentry Policy Subcommittee.  
-
 > In some cases, the Carpentries will waive the requirement for the instructor to reimburse the host, and the Carpentries will reimburse
 > the host for any expenses incurred. Circumstances in which the Carpentries will reimburse the host for any expenses incurred for missed
 > workshops include, but are not limited to: illness, injury, family or work related emergencies, weather or transportation malfunction.
 > Instructors may be required to provide appropriate documentation to the Policy Subcommittee. If an instructor is required to reimburse
 > costs, but refuses to do so, or an instructor fails to provide adequate notice of withdrawal more than once, the Carpentries reserve the
 > right to suspend their Carpentry instructor status.  
-{: .callout}  
+{: .quotation}  
 
 ### Materials
 
