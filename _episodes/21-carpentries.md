@@ -178,6 +178,7 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > provide high-quality workshops, however, the Carpentries must ensure that instructors fulfill their commitments. In particular, it must
 > do what it can to ensure that instructors show up for workshops they have agreed to teach, so that hosts have the appropriate number of
 > instructors and do not incur unnecessary expenses.  
+
 > Instructors who find that they will not be able to meet an agreed upon teaching engagement are required to notify the [Carpentry workshop
 > coordinator](mailto:admin@software-carpentry.org) as soon as possible. If travel arrangement have not been made, and the workshop is at least 6 weeks away, instructors may
 > cancel with no questions asked. If non-refundable travel has been booked or it is less than 6 weeks from the workshop, instructors should
@@ -186,6 +187,7 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > Depending on their reason for missing their agreed upon teaching engagement, instructors may be required to reimburse any non-refundable
 > travel or accommodation costs that the host may already have incurred on their behalf. The Carpentries may waive this requirement in
 > special circumstances outlined below, based on the judgement of the Carpentry Policy Subcommittee.  
+
 > In some cases, the Carpentries will waive the requirement for the instructor to reimburse the host, and the Carpentries will reimburse
 > the host for any expenses incurred. Circumstances in which the Carpentries will reimburse the host for any expenses incurred for missed
 > workshops include, but are not limited to: illness, injury, family or work related emergencies, weather or transportation malfunction.
