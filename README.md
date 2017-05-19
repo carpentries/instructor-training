@@ -15,7 +15,7 @@ or run `make` in this directory for a list of helpful commands.
 **Trainers (and trainers-in-training):**
 
 *   Erin Becker (United States)
-*   Martin Callaghan
+*   Martin Callaghan (United Kingdom)
 *   Karen Cranston (United States)
 *   Steve Crouch (United Kingdom)
 *   Neal Davis (United States)
