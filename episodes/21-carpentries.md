@@ -213,8 +213,9 @@ provided you cite the original source.
 >
 > 1. Callouts (like this one) contain material that isn't essential to the lesson,
 >    and which most instructors will skip.
-> 2. Most instructors only give learners one or two exercises per episode;
->    the other exercises are there for self-study.
+> 2. Many lessons have more exercises than an instructor would use;
+>    your job is to decide which exercises will be most useful for your audience.
+>    Remember, practice is how we learn, so give lots of opportunities for practice.
 {: .callout}
 
 ### Using the Names
