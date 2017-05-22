@@ -77,7 +77,7 @@ when someone reads one thing while hearing something else spoken aloud,
 their brain can't help but check that it's getting the same information on both channels.
 Discrepencies between these channels increase cognitive load and decrease learning.
 Learning is therefore more effective when information that is being presented simultaneously
-in two different channels is redundant, rather than different. 
+in two different channels is redundant, rather than different.
 For our workshops, this means the instructor should say out loud commands as they type them on the screen
 during live coding.
 
@@ -193,15 +193,14 @@ Here is a really nice online Parsons Problem interactive tool. [Try it out!](htt
 > 3. then add one more line that looks plausible but isn't needed to solve the problem.
 > 4. How well can your partner tell which line is unnecessary?
 >
->
 > Challenge option 2: Simply jumbled
 > 1. Pick a block of code from an existing Software or Data Carpentry lesson, or from another lesson you have taught recently.
 > 2. Jumble the code
 > 3. Paste your jumbled code block into the etherpad
-> 4. Determine the correct order of your partner's else's code block 
+> 4. Determine the correct order of your partner's else's code block
 >
-> This challenge should take about 10 minutes. 
-> {: .challenge}
+> This challenge should take about 10 minutes.
+{: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
