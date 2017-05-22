@@ -138,13 +138,13 @@ to make sure they're doing at least a few of these things.
 >
 > Or, insert an example story about establishing value, which goes like this:
 >
-> In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/), a haiku is used to to teach grep.
+> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/), 
+> a haiku is used to to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didatic example, I connect my bioinformatics users with domain-specific examples
-> using an authentic task that is relevant to their research.
-> I point users to [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) consisiting of  `grep`, `sort`, `head`, `uniq`, and more to explore biological sequence data.
-> This emphasizes how they can apply what they just leared with haikus to real research probolems. 
-> (see <>).
+> After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
+> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
+> consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
+> This emphasizes how they can apply what they leared with haikus to real bioinformatics research problems." 
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
