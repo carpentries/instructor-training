@@ -180,6 +180,8 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
+If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha
+
 One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. 
 
 A few common demotivators are *indifference* and *unfairness*.
