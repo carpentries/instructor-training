@@ -289,7 +289,7 @@ and for a handful of regular workshops,
 
 > ## Teaching Practice Discussion
 >
-> List one the Carpentries Teaching practices that your really like and/or are excited to use.
+> List one of the Carpentries Teaching practices that you really like and/or are excited to use.
 >
 > Timing: Can be completed and discussed in 3-5 min. 
 > This challenge can be used to end the morning or begin the afternoon session.
