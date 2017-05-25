@@ -408,16 +408,3 @@ The Steering Committee has final say on all strategic and financial decisions;
 if you would like Software Carpentry to take a new direction,
 or would like to do more than teach or develop lessons,
 you are very welcome to put your name forward as a candidate.
-
-> ## Feedback on Assessment
->
-> Take 10 minutes to go through the pre-workshop questionnaire given to you by your instructor
-> and critique its questions.
-> (Remember, critiquing means commenting on positive aspects as well as negative ones.)
-> How long do you think it will take the average learner to fill it in?
-> How useful do you think the information it gathers will be to you as an instructor?
-> How could you improve the questions?
-> What would you add, and what would you drop to make room?
-> 
-> This exercise and discussion should take about 15 minutes.  
-{: .challenge}
