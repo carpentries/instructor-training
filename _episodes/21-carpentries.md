@@ -87,17 +87,6 @@ and a set of checklists (linked from that page)
 that describes what everyone involved in a workshop is expected to do and why.
 Questions, corrections, and additions are *very* welcome.
 
-Since January 2015 we have run bi-weekly debriefing sessions
-for instructors who have recently taught workshops.
-In these,
-instructors discuss what they actually did,
-how it worked,
-how the lessons they actually delivered differed from our templates,
-what problems arose,
-and how they were addressed.
-Summaries are posted on our blog shortly after each meeting,
-and eventually added to our operations guide.
-
 > ## How We Do Things
 >
 > Go to the [operations guide]({{ site.swc_site }}/workshops/operations/)
