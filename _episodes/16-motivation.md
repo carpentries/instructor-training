@@ -135,15 +135,16 @@ to make sure they're doing at least a few of these things.
 > ## Provide an Example
 >
 > Insert a personal story here about how you establish value in the classroom.
-> Or, use Rayna's personal story, which goes like this:
-> In the Unix lesson, we use a haiku to teach grep.
-> This is a great didactic tool, but it can be hard for learners to see how they can use it in their research.
-> After the grep lesson, I show a one liner that combines `head`, `grep`, `sort`, and `uniq`
->  to produce a ranked list of the most abundant sequences.
-> I emphasize that the students just learned each of the pieces
-> (see <https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners>).
-> This way, I connect my bioinformatics users with domain-specific examples
-> using an authentic task that is relevant to their research.
+>
+> Or, insert an example story about establishing value, which goes like this:
+>
+> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/), 
+> a haiku is used to to teach grep.
+> This is a great didactic tool, but it can be hard for learners to see how it applies to research.
+> After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
+> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
+> consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
+> This emphasizes how they can apply what they leared with haikus to real bioinformatics research problems." 
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
