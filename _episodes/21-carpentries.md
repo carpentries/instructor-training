@@ -194,6 +194,7 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 > Instructors may be required to provide appropriate documentation to the Policy Subcommittee. If an instructor is required to reimburse
 > costs, but refuses to do so, or an instructor fails to provide adequate notice of withdrawal more than once, the Carpentries reserve the
 > right to suspend their Carpentry instructor status.  
+> From the [Carpentry Policies repo](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md)
 {: .quotation}  
 
 ### Materials
