@@ -276,8 +276,8 @@ to alienate a classroom and cause learners to tune out.
 
 > ## Never Learn Alone
 >
-> One way to support at-risk learners of all kinds is to have people sign up for workshops in small teams
-> rather than as individuals.
+> One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
+> rather than as individuals, when possible.
 > If an entire lab group comes,
 > or if attendees are drawn from the same (or closely-related) disciplines,
 > everyone in the room will know in advance
