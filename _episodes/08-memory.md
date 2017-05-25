@@ -324,7 +324,7 @@ Miller estimated that the average adult's working memory could hold
 [7±2 items][wikipedia-7]
 for a few seconds
 before things started to drop out.
-This is (why phone numbers are typically 7 or 8 digits long)[https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits]:
+This is [why phone numbers are typically 7 or 8 digits long](https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits):
 back when phones had dials instead of keypads,
 that was the longest string of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
