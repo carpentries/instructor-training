@@ -18,11 +18,7 @@
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
     <td class="col-md-3"><a href="{{ page.root }}/setup">Setup</a></td>
-<<<<<<< HEAD
     <td class="col-md-7">Preparatory readings for the lesson.</td>
-=======
-    <td class="col-md-7">Download files required for the lesson</td>
->>>>>>> upstream-styles/gh-pages
   </tr>
   {% for episode in site.episodes %}
     {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
