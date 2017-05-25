@@ -181,7 +181,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
-If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha
+>> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
 
 One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. 
 
@@ -267,9 +267,9 @@ to alienate a classroom and cause learners to tune out.
 
 > ## Brainstorming Demotivational Experiences
 >
-> *Think* back to a time when you demotivated a student (or when you were demotivated as a student).
-> *Pair* up with your neighbor and discuss what you could have done differently in the situation.
-> *Share* the demotivational story in the Etherpad.  
+> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
+> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
+> *Share* your story in the Etherpad.  
 > 
 > This exercise should take about 5 minutes.  
 {: .challenge}
