@@ -1,5 +1,5 @@
 ---
-title: "Lessons and Objectives"
+title: "Learning Objectives"
 teaching: 30
 exercises: 20
 questions:
