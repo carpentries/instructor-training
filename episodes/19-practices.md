@@ -1,5 +1,5 @@
 ---
-title: "Carpentry Teaching Practices"
+title: "Carpentry Teaching Practices and Curricula"
 teaching: 30
 exercises: 0
 questions:
