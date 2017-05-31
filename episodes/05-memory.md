@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Load"
+title: "Working Memory and Cognitive Load"
 teaching: 20
 exercises: 20
 questions:
