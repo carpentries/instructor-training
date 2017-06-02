@@ -1,5 +1,5 @@
 ---
-title: "Expertise and Memory"
+title: "Expertise and Memory +"
 teaching: 30
 exercises: 15
 questions:
