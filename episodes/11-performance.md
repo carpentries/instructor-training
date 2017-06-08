@@ -5,9 +5,9 @@ exercises: 55
 questions:
 - "How do teachers improve?"
 objectives:
-- "Explain why standardized testing cannot by itself improve educational outcomes, and why and how peer-to-peer lesson study can."
-- "Explain how teaching practices are actually transferred and adopted."
-- "Summarize the strengths and weaknesses of your teaching practices."
+- "Explain how peer-to-peer lesson practice can transform instruction."
+- "Give thoughtful and useful feedback."  
+- "Incorporate feedback into your teaching practices."  
 keypoints:
 - "Great teachers are made, not born."
 - "Formal written descriptions of teaching practices are ineffective."
@@ -368,6 +368,8 @@ with the feedback you gave.
 > You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
 > which looks at the value of having a coach.  
 {: .challenge}
+
+## Add exercise for reflecting on feedback
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
