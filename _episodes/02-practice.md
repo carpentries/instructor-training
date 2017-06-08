@@ -391,20 +391,6 @@ in which you were going to explain something that your learners already know.
 >     or ask colleagues about their experiences.
 {: .callout}
 
-> ## Concept Inventories
->
-> The [Force Concept Inventory][wikipedia-fci]
-> is a set of MCQs designed to gauge understanding of basic Newtonian mechanics.
-> By interviewing a large number of respondents,
-> correlating their misconceptions with patterns of right and wrong answers to questions,
-> and then improving the questions,
-> it's possible to construct a very precise diagnostic tool.
-> However,
-> it's very costly to do this,
-> and students' ability to search for answers on the internet
-> is an ever-increasing threat to its validity.
-{: .callout}
-
 Designing an MCQ with plausible distractors is useful
 even if it is never used in class
 because it forces the instructor to think about the learners' mental models

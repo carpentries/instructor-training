@@ -1,5 +1,5 @@
 ---
-start: true
+start: false
 title: "Live Coding"
 teaching: 30
 exercises: 45
