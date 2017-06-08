@@ -18,68 +18,6 @@ keypoints:
 In our final topic in educational psychology, we'll be learning more about human memory:
 specifically how to remove unnecessary "load" in order to facilitate learning.
 
-## Battling Theories
-
-In 2006,
-Kirschner, Sweller, and Clark published a paper titled
-"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
-In the abstract, they say:
-
-> Although unguided or minimally guided instructional approaches
-> are very popular and intuitively appealing...these approaches
-> ignore both the structures that constitute human cognitive architecture
-> and evidence from empirical studies over the past half-century
-> that consistently indicate that minimally guided instruction is less effective and less efficient than
-> instructional approaches that place a strong emphasis on guidance of the student learning process.
-> The advantage of guidance begins to recede only when learners have
-> sufficiently high prior knowledge to provide "internal" guidance.
-{: .quotation}
-
-The paper set off a minor academic firestorm,
-because beneath the jargon the authors were claiming that
-[inquiry-based learning][wikipedia-inquiry]---allowing
-learners to ask their own questions,
-set their own goals,
-and find their own path through a subject---doesn't actually work very well.
-Kirschner et al's argument was that it requires learners to simultaneously
-master a domain's factual content
-and its search and problem-solving strategies.
-Fostering creativity and independence is intuitively appealing,
-but that doesn't mean it works.
-
-One of the paper's authors (Sweller) proposed an alternative
-based on the theory of *[cognitive load][wikipedia-cognitive-load]*.
-It posits that people have to deal with three things when they're learning:
-
-*   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
-*   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
-    (which is one of the things that distinguishes learning from memorization).
-*   *Extraneous* load is everything else that distracts or gets in the way.
-
-Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
-Unsurprisingly,
-it too has [been criticized][cognitive-load-crit],
-most particularly for being unfalsifiable.
-Critics of cognitive load theory say that
-since there's no way to tell in advance of an experiment whether something is germane or not,
-any result can be justified after the fact
-by labelling things that hurt performance as "extraneous"
-and things that don't "germane".
-
-However,
-some predictions *can* be made.
-One example is work by Mayer and colleagues on
-the *[split-attention effect][wikipedia-split-attention]*.
-Linguistic and visual input are processed by different parts of the human brain,
-and linguistic and visual memories are stored separately as well.
-This means that correlating different linguistic, auditory, and visual streams of information takes cognitive effort:
-when someone reads one thing while hearing something else spoken aloud,
-their brain can't help but check that it's getting the same information on both channels.
-Discrepencies between these channels increase cognitive load and decrease learning.
-Learning is therefore more effective when information that is being presented simultaneously
-in two different channels is redundant, rather than different.
-For our workshops, this means the instructor should say out loud commands as they type them on the screen
-during live coding.
 
 ## Faded Examples
 
@@ -166,40 +104,6 @@ to create the final result.
 > 3.  Write a question to test the student's ability to correctly fill in that blank.
 > 4.  Take 10 minutes for this exercise.
 > 5.  Paste your faded example in the Etherpad.
-{: .challenge}
-
-## Parsons Problems
-
-Another kind of exercise designed to reduce cognitive load is a *Parsons Problem*,
-in which learners are presented with the jumbled parts of a solution
-and asked to put them in order.
-When learning a language,
-for example,
-students could be asked to order a set of words
-to create a grammatically correct response to a question.
-Similarly,
-our learners can be given the lines of code needed to solve a problem
-and asked to arrange them.
-Learners can then be told that they have all the lines they need save one,
-and so on.
-
-Here is a really nice online Parsons Problem interactive tool. [Try it out!](http://runestoneinteractive.org/LearningAtScale/parsons.html)
-
-> ## Parsons Problems
->
-> Challenge option 1: Jumbled with an unnecesasary line
-> 1. Write 5 or 6 lines of code that does something useful,
-> 2. jumble them,
-> 3. then add one more line that looks plausible but isn't needed to solve the problem.
-> 4. How well can your partner tell which line is unnecessary?
->
-> Challenge option 2: Simply jumbled
-> 1. Pick a block of code from an existing Software or Data Carpentry lesson, or from another lesson you have taught recently.
-> 2. Jumble the code
-> 3. Paste your jumbled code block into the etherpad
-> 4. Determine the correct order of your partner's else's code block
->
-> This challenge should take about 10 minutes.
 {: .challenge}
 
 [cognitive-load-crit]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
