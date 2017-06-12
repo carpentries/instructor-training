@@ -3,21 +3,22 @@ title: The Importance of Practice
 teaching: 20
 exercises: 45
 questions:
-- "How can we describe the difference in learning between a novice and competent practitioner?"
+- "Who is a typical Carpentry learner?"
+- "What is expertise and how are novices, experts and competent practitioners different?"
+- "How can we help novices become competent practitioners?"
 objectives:
-- "Present three faulty mental models drawn from their own experience."
-- "Create a multiple choice question with plausible distractors and explain the diagnostic power of each distractor."
-- "Identify whether a multiple-choice question is testing factual knowledge or a mental model."
+- "Explain why practice and feedback are important for learning."
+- "Use formative assessment to diagnose misconceptions and guide your teaching."
 keypoints:
 - "Novices: don't know what they don't know."
 - "Competent practitioners: have a usable mental model that's good enough for everyday purposes."
-- "Expert: can handle edge cases."
-- "Goal when teaching novices is to help them construct a usable mental model."
-- "To do this, must clear up their misconceptions."
-- "Summative assessment: done at the end of teaching to see whether learning took place."
-- "Formative assessment: done during teaching to guide learning."
+- "Expert: can solve novel problems."
+- "Our goal when teaching novices is to help them construct usable mental models."
+- "To do this, must correct misconceptions."
+- "Summative assessment: done at the end of teaching to determine whether learning took place."
+- "Formative assessment: done during teaching to guide teaching and learning."
 - "Formative assessment = guided practice."
-- "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
+- "Multiple choice questions (MCQs) are a useful type of formative assessment for diagnosing misconceptions."
 ---
 
 We'll now get started with our first round of learning some theory, how it

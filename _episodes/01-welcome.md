@@ -4,16 +4,14 @@ start: true
 teaching: 10
 exercises: 5
 questions:
-- "Who is participating in this workshop and what do they know?"
-- "What will we cover (or not) in this workshop?"
-- "What prior knowledge do workshop participants have?"
+- "Who are Data and Software Carpentry and how do we approach teaching?"  
+- "What should you expect from this workshop?"  
 objectives:
-- "Identify one or more components of successful teaching." 
-- "Understand what will be covered in the instructor training."
+- "Introduce yourself to your fellow workshop participants."  
+- "Describe what will and will not be covered in this workshop."  
 keypoints:
-- "This episode sets the stage for the entire workshop. The introductions and excercises help everyone begin to develop a relationship and trust."
+- "Software and Data Carpentry are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
 - "This workshop will cover general teaching pedagogy and how it applies specifically to Software and Data Carpentry."
-- "Trainee motivation and prior knowledge vary widely, but can be explored with a quick multiple choice quiz."
 ---
 
 ## Code of Conduct
