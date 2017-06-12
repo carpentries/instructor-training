@@ -16,6 +16,7 @@ keypoints:
 - "To do this, must clear up their misconceptions."
 - "Summative assessment: done at the end of teaching to see whether learning took place."
 - "Formative assessment: done during teaching to guide learning."
+- "Formative assessment = guided practice."
 - "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
 ---
 
