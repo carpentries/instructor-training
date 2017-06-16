@@ -1,5 +1,5 @@
 ---
-title: "Expertise"
+title: "Building Mental Models"
 teaching: 30
 exercises: 15
 questions:
@@ -15,9 +15,10 @@ keypoints:
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
 - "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
-- "This "reinforcement" often takes the form of formative assessment."
+- "This reinforcement often takes the form of formative assessment."
 - "One way concept maps can help in lesson planning is by defining appropriate points in a lesson for formative assessment."
 ---
+
 We now discuss what distinguishes expertise
 from earlier stages of learning, how being an expert can make it more difficult to teach novices, and then
 describe concept maps, a tool that can help expose expertise.
