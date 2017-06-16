@@ -92,20 +92,6 @@ This metaphor helps explain many observed aspects of expert behavior:
     Sycamore Street and we can see a restaurant named Nellie's Cafe", the local can
     more easily figure out where the out-of-towner is, and how to get to their destination.*
 
-> ## The J Word
->
-> Experts often betray their blind spot by using the word "just" in explanations,
-> as in, "Oh, it's easy, you just fire up a new virtual machine
-> and then you just install these four patches to Ubuntu
-> and then you just re-write your entire program in a pure functional style---no problem."
-> As [we discuss later]({{ page.root }}/19-motivation/),
-> the J word (also sometimes called the passive dismissive adverb)
-> is banned in our workshops,
-> primarily because using it gives learners the very clear signal
-> that the instructor thinks their problem is trivial
-> and that they therefore must be stupid.
-{: .callout}
-
 The graph model of knowledge explains why
 helping learners make connections is as important as introducing them to facts.
 The more people you know in a group,
