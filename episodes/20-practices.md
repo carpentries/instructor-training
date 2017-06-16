@@ -255,9 +255,9 @@ do to support motivation in our learners.
 >
 > List one of the Carpentries Teaching practices that you really like and/or are excited to use.
 >
-> Timing: Can be completed and discussed in 3-5 min. 
+> This discussion should take about 5 minutes.  
 > This challenge can be used to end the morning or begin the afternoon session.
-{: .discussion}
+{: .challenge}
 
 
 
