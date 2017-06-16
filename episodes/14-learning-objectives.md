@@ -356,7 +356,7 @@ It also ensures that learners don't face anything on the final exam that the cou
 > > because as Scott pointed out in *[Seeing Like a State][amazon-slas]*,
 > > large organizations usually value uniformity over productivity. 
 > {: .solution}
-{: .discussion}
+{: .callout}
 
 > ## The Minimal Manual
 >

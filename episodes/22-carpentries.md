@@ -293,7 +293,7 @@ There are many ways to get connected with the Software and Data Carpentry commun
 
 > ## Get Connected
 >
-> Join our discussion lists, subscribe to our blogs, and follow us on Twitter.
+> Take a couple of minutes to sign up for the Carpentry discussion channels you want to stay involved with.  
 {: .challenge}
 
 ### A Culture of Contribution
