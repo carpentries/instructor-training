@@ -13,7 +13,7 @@ keypoints:
 - "Novices: don't know what they don't know."
 - "Competent practitioners: have a usable mental model that's good enough for everyday purposes."
 - "Expert: can solve novel problems."
-- "Our goal when teaching novices is to help them construct usable mental models."
+- "Our goal when teaching novices is to help them construct useful mental models."
 - "To do this, must correct misconceptions."
 - "Summative assessment: done at the end of teaching to determine whether learning took place."
 - "Formative assessment: done during teaching to guide teaching and learning."
@@ -67,12 +67,13 @@ that model has three stages:
 *   An *expert* is someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems,
     and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ page.root }}/08-memory/).
+    We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
 
-We assume that most learners coming to Software/Data Carpentry lessons are novices,
+Most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our
 primary goal is *not*
-to teach the syntax of a particular programming language,
+to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a 
+particular domain,  
 but to teach people how to think about programming and data management
 (and about using computers in research more generally).
 
@@ -81,9 +82,9 @@ novices, competent practitioners, and experts each need to be taught differently
 In particular,
 presenting novices with a pile of facts early on is counter-productive,
 because they don't yet have a model to fit those facts into.
-(In fact,
+In fact,
 presenting too many facts too soon can actually reinforce
-the incorrect mental model they've cobbled together.)
+the incorrect mental model they've cobbled together.
 Instead,
 our goal with novices is *to help them construct a working mental model*
 so that they have something to attach facts to.
@@ -100,15 +101,6 @@ to help them form the right categories.
 Until they've done that,
 trying to impart "mere information" just confuses them.
 
-> ## Manuals vs. Tutorials
->
-> In the Etherpad, describe the difference between a manual and a tutorial in terms of
-> the differences between novices and competent practitioners.
-> Can one document do a good job of being both?  
->  
-> This discussion should take about 5 minutes.
-{: .challenge}
-
 This is one of the reasons software documentation is so often frustrating.
 Reference material is opaque to someone who doesn't know what they're looking for,
 such as a novice who doesn't yet have a mental map of the domain.
@@ -123,11 +115,8 @@ our [lesson on the Unix shell][swc-shell-novice] only introduces 12 commands,
 and we usually spend two and a half hours working through it.
 Twelve and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
-history,
-wildcards,
-pipes and filters,
-command-line arguments,
-redirection,
+history, wildcards, pipes and filters,
+command-line arguments, redirection,
 and all the other big ideas that the shell depends on,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
@@ -151,7 +140,7 @@ both set the stage for discussing functions.
 Explicitly referring back to pipes and filters shell when introducing functions
 helps solidify both ideas.
 
-> ## Different Kinds of Lessons
+> ## Manuals vs Tutorials
 >
 > The cognitive differences between novices and competent practitioners underpin
 > the differences between two kinds of teaching materials.
@@ -174,62 +163,44 @@ helps solidify both ideas.
 
 ## Building Useful Mental Models
 
-There are many "positive" strategies towards building mental models.  Analogies,
-stories, role-play, and diagrams are ways to represent a structure that
-can be used as a model.
-
-However, there's another, greater challenge to creating mental models.
-
 > It ain't what you don't know that gets you into trouble.
 > It's what you know for sure that just ain't so.  
 > — Mark Twain
 {: .quotation}
 
-Clearing up learners' misconceptions is therefore as important as
-presenting them with correct information.
-Broadly speaking,
-their misconceptions may fall into three categories:
+Mental models are hardly ever built from scratch. Every learner comes to a topic
+with some amount of information, ideas and opinions about the topic. This is true even 
+in the case where a learner can't articulate their prior knowledge and beliefs.  
+
+In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
+can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
+models. (FIXME add references) 
+Correcting learners' misconceptions is at least as important as presenting them with correct information.
+Broadly speaking, misconceptions fall into three categories:
 
 *   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
-    These are simple to correct,
-    but getting the facts right is not enough on its own.
+    These are the easiest to correct.
 *   *Broken models*, such as believing that motion and acceleration must be in the same direction.
     We can address these by having them reason through examples to see contradictions.
 *   *Fundamental beliefs*,
     such as "the world is only a few thousand years old"
     or "human beings cannot be affecting the planet's climate".
-    These usually cannot be addressed in class,
-    since they are deeply connected to the learner's social identity
-    and often cannot be reasoned away.
+    These beliefs are deeply connected to the learner's social identity
+    and are the hardest to change. (FIXME add references)
 
-Again, since Software and Data Carpentry are focused on novices, and the building of
+Since Software and Data Carpentry are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
-While teaching, we want to expose broken models so that we can help diagnose and
-provide better ones.
-
-> ## What Happens Next?
->
-> An example of how solving problems can help people correct broken mental models,
-> consider this problem from Epstein's *[Thinking Physics][amazon-thinking-physics]*.
-> Imagine that you have placed a cake of ice in a bathtub
-> and then filled the tub to the rim with water.
-> When the ice melts,
-> does the water level go up (so that the tub overflows),
-> go down,
-> or stay the same?
-> The correct answer is that it stays the same;
-> figuring out why helps people build a model of the relationship between weight, volume, and density.
-{: .callout}
+While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
 ## Assessing Mental Models
 
-How do we expose misconceptions, especially as they pertain to broken models?  How
+How do we expose misconceptions, especially as they pertain to broken models? How
 can we, in-class, know whether the learners already understand this topic
 (so that the class can move on),
 and if not,
-what misconceptions and gaps in their knowledge to address.
+what misconceptions and gaps in their knowledge we should address.
 
-Instructors need feedback on their learners' progress,
+To be effective, instructors need feedback on their learners' progress,
 and insight into their learners' mental models.
 This is usually done through two kinds of assessment:
 
@@ -251,9 +222,13 @@ This is usually done through two kinds of assessment:
     no one should ever encounter a question on an exam
     for which the teaching did not prepare them.
 
-For our in-class purposes, we're most interested in formative assessment.
-In order to be useful during teaching,
-a formative assessment has to be quick to administer and evaluate.
+Formative assessments provide feedback to both instructors and learners about learners' level of understanding of the
+material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
+their instruction to respond to challenges that learners are facing.  
+
+Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
+results are easily interpretable by the learner and instructor. 
+
 The most widely used is probably multiple choice questions (MCQs).
 When designed well,
 these can do much more than just measure how much someone knows.
@@ -273,7 +248,7 @@ d) 33
 The correct answer is 42,
 but each of the other answers provides valuable insight.
 
-> ## Find the Bug
+> ## Identify the Misconceptions
 >
 > Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
 > This discussion should take about 10 minutes.
@@ -297,12 +272,12 @@ instructors will often put supposedly-silly answers like "a fish!" on MCQs,
 but (a) they don't provide any insight
 and (b) learners actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
-what to explain to that particular learner next.
+what concepts learners are having difficulty with.  
 
 > ## Handling Outcomes
 > 
 > Formative assessments allow us as instructors to adapt our instruction to our audience. 
-> What should we do as instructors if the class votes for: 
+> What should we do as instructors if the class chooses: 
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
@@ -313,17 +288,16 @@ what to explain to that particular learner next.
 > This discussion should take about 10 minutes.
 >
 >> ## Solution
->> FIXME
->> 
+>> 1. If the majority of the class votes for a single wrong answer, you should go back
+>> and work on correcting that particular misconception.  
+>> 2. If most of the class votes
+>> for the right answer, it's probably safe to move on.  
+>> 3. If answers are pretty evenly
+>> split between options, learners are probably guessing randomly and it's a good
+>> idea to go back to a point where everyone was on the same page.
 > {: .solution}
 {: .challenge}
 
-
-If the majority of the class votes for a single wrong answer, you should go back
-and work on correcting that particular misconception.  If most of the class votes
-for the right answer, it's probably safe to move on.  If answers are pretty evenly
-split between options, learners are probably guessing randomly and it's a good
-idea to go back to a point where everyone was on the same page.
 
 Instructors should use MCQs
 or some other kind of formative assessment
@@ -411,11 +385,14 @@ and see the topic from their point of view.
 
 > ## Other Kinds of Formative Assessment
 >
-> In the Etherpad, describe another kind of formative assessment you have seen or used
-> and explain how it helps both the instructor and the learner figure out
-> where they are and what they need to do next.
+> Software and Data Carpentry use formative assessments often. How many have we done since the start of this
+> workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
 > 
 > This discussion should take about 5 minutes.
+>
+>> ## Solution  
+>> FIXME 
+> {: .solution}
 {: .challenge}
 
 [amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
