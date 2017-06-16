@@ -19,7 +19,7 @@ keypoints:
 - "One way concept maps can help in lesson planning is by defining appropriate points in a lesson for formative assessment."
 ---
 We now discuss what distinguishes expertise
-from earlier stages of learning, how expertise can be helpful and harmful, and then
+from earlier stages of learning, how being an expert can make it more difficult to teach novices, and then
 describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
