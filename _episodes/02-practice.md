@@ -3,21 +3,22 @@ title: The Importance of Practice
 teaching: 20
 exercises: 45
 questions:
-- "How can we describe the difference in learning between a novice and competent practitioner?"
+- "Who is a typical Carpentry learner?"
+- "What is expertise and how are novices, experts and competent practitioners different?"
+- "How can we help novices become competent practitioners?"
 objectives:
-- "Present three faulty mental models drawn from their own experience."
-- "Create a multiple choice question with plausible distractors and explain the diagnostic power of each distractor."
-- "Identify whether a multiple-choice question is testing factual knowledge or a mental model."
+- "Explain why practice and feedback are important for learning."
+- "Use formative assessment to diagnose misconceptions and guide your teaching."
 keypoints:
 - "Novices: don't know what they don't know."
 - "Competent practitioners: have a usable mental model that's good enough for everyday purposes."
-- "Expert: can handle edge cases."
-- "Goal when teaching novices is to help them construct a usable mental model."
-- "To do this, must clear up their misconceptions."
-- "Summative assessment: done at the end of teaching to see whether learning took place."
-- "Formative assessment: done during teaching to guide learning."
+- "Expert: can solve novel problems."
+- "Our goal when teaching novices is to help them construct usable mental models."
+- "To do this, must correct misconceptions."
+- "Summative assessment: done at the end of teaching to determine whether learning took place."
+- "Formative assessment: done during teaching to guide teaching and learning."
 - "Formative assessment = guided practice."
-- "Can use multiple choice questions (MCQs) as formative assessments to diagnose misconceptions."
+- "Multiple choice questions (MCQs) are a useful type of formative assessment for diagnosing misconceptions."
 ---
 
 We'll now get started with our first round of learning some theory, how it
@@ -35,9 +36,10 @@ but the model does a good job of helping people reason about chemical compounds 
 > ## Your Mental Models
 >
 > In the Etherpad, write your primary research domain or area of expertise and one mental model you use to frame
-> and understand your work?
+> and understand your work.  
+>  
 > This discussion should take about 5 minutes.
-{: .discussion}
+{: .challenge}
 
 One way to think about the difference between a novice and a "competent
 practitioner" is the existence of this big picture mental model.
@@ -102,9 +104,10 @@ trying to impart "mere information" just confuses them.
 >
 > In the Etherpad, describe the difference between a manual and a tutorial in terms of
 > the differences between novices and competent practitioners.
-> Can one document do a good job of being both?
+> Can one document do a good job of being both?  
+>  
 > This discussion should take about 5 minutes.
-{: .discussion}
+{: .challenge}
 
 This is one of the reasons software documentation is so often frustrating.
 Reference material is opaque to someone who doesn't know what they're looking for,
@@ -274,19 +277,19 @@ but each of the other answers provides valuable insight.
 >
 > Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
 > This discussion should take about 10 minutes.
-{: .discussion}
-
-> ## Solution
 >
-> *   If the child answers 32, she is throwing away the carry completely.
-> *   If she answers 312, she knows that she can't just discard the carried '1',
->     but doesn't understand that it's actually a ten
->     and needs to be added into the next column.
->     In other words,
->     she is treating each column of numbers as unconnected to its neighbors.
-> *   If she answers 33 then she knows she has to carry the 1,
->     but is carrying it back into the same column it came from.
-{: .solution}
+>> ## Solution
+>>
+>> *   If the child answers 32, she is throwing away the carry completely.
+>> *   If she answers 312, she knows that she can't just discard the carried '1',
+>>     but doesn't understand that it's actually a ten
+>>     and needs to be added into the next column.
+>>     In other words,
+>>     she is treating each column of numbers as unconnected to its neighbors.
+>> *   If she answers 33 then she knows she has to carry the 1,
+>>     but is carrying it back into the same column it came from.
+> {: .solution}
+{: .challenge}
 
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:
@@ -305,9 +308,16 @@ what to explain to that particular learner next.
 > 2. mostly the right answer?  
 > 3. an even spread among options?
 > 
-> For one of the above, enter your answer in the Etherpad. 
+> For one of the above, enter your answer in the Etherpad.   
+> 
 > This discussion should take about 10 minutes.
-{: .discussion}
+>
+>> ## Solution
+>> FIXME
+>> 
+> {: .solution}
+{: .challenge}
+
 
 If the majority of the class votes for a single wrong answer, you should go back
 and work on correcting that particular misconception.  If most of the class votes
@@ -406,27 +416,16 @@ and see the topic from their point of view.
 > where they are and what they need to do next.
 > 
 > This discussion should take about 5 minutes.
-{: .discussion}
+{: .challenge}
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591
-[amazon-benner]: http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
 [amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
 [amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
-[amazon-statistics]: http://www.amazon.com/Teaching-Statistics-Tricks-Andrew-Gelman/dp/0198572247/
 [amazon-thinking-physics]: http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r
 [amazon-unix-vsg]: http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/
 [amazon-upe]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/
-[cs-teaching-tips]: http://csteachingtips.org/
-[learning-theories]: http://www.learning-theories.com/
 [peer-instruction-video]: https://www.youtube.com/watch?t=1&v=2LbuoxAy56o
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
-[wikipedia-cop]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
-[wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
-[wikipedia-grounded-theory]: https://en.wikipedia.org/wiki/Grounded_theory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-phonics]: http://en.wikipedia.org/wiki/Phonics
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
-[wikipedia-whole-language]: http://en.wikipedia.org/wiki/Whole_language
+
+

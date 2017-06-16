@@ -255,8 +255,9 @@ Barker et al found something similar in 2015:
 >
 > How was the experience of being videoed/receiving feedback?  What
 > did people notice?  What are some of your "tells"? Enter your thoughts in the Etherpad.  
+>  
 > This discussion should take about 5 minutes.  
-{: .discussion}
+{: .challenge}
 
 Everyone has nervous habits.  While these habits are often not as noticeable
 as you would think, it's good to identify ways to keep yourself from pacing,
