@@ -21,6 +21,8 @@ training_site: https://swcarpentry.github.io/instructor-training
     so please bring a cell phone or hand-held camera that can record audio and video.
     It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
+    * If you use Chrome, the *[CaptureCast](https://chrome.google.com/webstore/detail/capturecast-chrome-screen/dmhhfoemgdlphenmfoicajbakonjcgee)* extension provides an easy way to record your computer's microphone, camera, and/or desktop. This could also be useful for self-practice after your training workshop.
+
 4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
     (a tablet won't be sufficient).
 
