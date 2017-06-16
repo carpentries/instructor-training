@@ -3,23 +3,22 @@ title: "Expertise"
 teaching: 30
 exercises: 15
 questions:
-- "How can we describe the difference in learning between a novice and expert?"
-- "How is memory a limiting factor in learning?"
+- "What are the differences between a novice and an expert?"
+- "How is memory a limiting factor in learning?"  
+- "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Explain how key aspects of expert behavior are results of cognitive differences between experts and competent practitioners."
-- "Construct a concept map for a short lesson showing the lesson's key ideas and the relationships between them."
+- "Use a concept map to plan a formative assessment strategy."
 keypoints:
 - "Experts' mental models are much more densely connected than those of non-experts."
 - "Expert blind spot: knowing something so well that it seems easy when it's not."
-- "Can represent mental models using concept maps."
-- "Relationships are as important as concepts."
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
 - "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
-- "Things seen together repeatedly are remembered (or mis-remembered) in chunks."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
-- "Lesson episodes should not overload short-term memory."
+- "This "reinforcement" often takes the form of formative assessment."
+- "One way concept maps can help in lesson planning is by defining appropriate points in a lesson for formative assessment."
 ---
-Returning to educational psychology, we now discuss what distinguishes expertise
+We now discuss what distinguishes expertise
 from earlier stages of learning, how expertise can be helpful and harmful, and then
 describe concept maps, a tool that can help expose expertise.
 
@@ -107,20 +106,13 @@ separate facts.
 > The idea that ten thousand hours of practice will make someone an expert in some field
 > is widely known,
 > but reality is much more complex.
-> First,
-> practice is not doing the same thing over and over again:
+> Practice is not doing the same thing over and over again:
 > practice is doing similar but subtly different things,
 > getting feedback,
 > and then changing behavior in response to that feedback to get cumulatively better.
 > Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
->
-> Second,
-> a [meta-study in 2014][macnamara-practice] found that
-> "...deliberate practice explained 26% of the variance in performance for games,
-> 21% for music, 18% for sports, 4% for education, and less than 1% for professions."
-> One explanation for this variation is that
-> deliberate practice works best when the rules for evaluating success are very stable,
-> but is less effective when there are more factors at play.
+> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our 
+> instructor training program. 
 {: .callout}
 
 ## Concept Maps
@@ -136,17 +128,6 @@ one person's fact may be another person's connection,
 but by *externalizing cognition*
 (i.e., making thought processes and mental models visible),
 concept maps help spark and focus discussion.
-
-> ## There's More Than One Way to Do It
->
-> Concept maps are just one way to represent our understanding of a subject.
-> Flowcharts, decision trees, and blueprints can be even more useful in some contexts.
-> For example,
-> [this diagram]({{ page.root }}/files/choosing-a-good-chart-09.pdf)
-> (taken from [a blog post][abela-presentation] by Andrew Abela)
-> is an excellent way to organize and present an understanding of how to choose
-> the right kinds of chart for displaying different kinds of data.
-{: .callout}
 
 To show what concept maps look like,
 consider this simple `for` loop in Python:
@@ -260,14 +241,6 @@ without bumping into each other).
 > and have them build a concept map on a whiteboard by placing those sticky notes,
 > connecting them with labelled arcs,
 > and adding any other concepts they think they need.
-{: .callout}
-
-> ## What Are We Doing Again?
->
-> Concept maps can also be used to help build a shared understanding of what a project is trying to accomplish.
-> Everyone independently draws a concept map to show what they think the project's goals and constraints are.
-> Those concept maps are then revealed simultaneously.
-> The ensuing discussion can be...vigorous.
 {: .callout}
 
 ## Seven Plus or Minus Two
