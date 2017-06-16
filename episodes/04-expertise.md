@@ -1,9 +1,9 @@
 ---
-title: "Expertise"
+title: "Instruction and Memory"
 teaching: 30
 exercises: 15
 questions:
-- "What are the differences between a novice and an expert?"
+- "How do experts store knowledge differently from novices?"
 - "How is memory a limiting factor in learning?"  
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
@@ -15,19 +15,20 @@ keypoints:
 - "Long-term memory is large but slow, while short-term is fast but (very) small."
 - "Most adults can store 7±2 items in short-term memory for a few seconds before loss."
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
-- "This "reinforcement" often takes the form of formative assessment."
+- "This reinforcement often takes the form of formative assessment."
 - "One way concept maps can help in lesson planning is by defining appropriate points in a lesson for formative assessment."
 ---
+
 We now discuss what distinguishes expertise
 from earlier stages of learning, how being an expert can make it more difficult to teach novices, and then
 describe concept maps, a tool that can help expose expertise.
 
 ## Connectivity
 
-An [earlier topic]({{ page.root }}/03-novice/) described the key difference between novices and competent practitioners.
+An [earlier topic]({{ page.root }}/01-practice.md) described a key difference between novices and competent practitioners. Competent practitioners have mental models that work well enough for most situations. 
 What makes experts different from either?
 The answer is not that they know more facts:
-competent practitioners can memorize a lot of trivia
+competent practitioners can memorize a lot of information
 without any noticeable improvement to their performance.
 
 To explain the difference,
@@ -35,24 +36,20 @@ imagine for a moment that we store knowledge as a graph
 in which facts are nodes and relationships are arcs.
 (This is emphatically *not* how our brains work,
 but it's a useful metaphor.)
-The key difference between experts and people who are "merely competent"
+The key difference between experts and competent practitioners
 is that experts have many more connections,
 i.e.,
-their mental models are much more densely connected.
+their mental models are much more densely connected. This has a number of effects on expert behavior.  
 
 To understand expert behavior, think about driving around a city, comparing what it's
 like for the local and for the out-of-town driver.
 
-This metaphor helps explain many observed aspects of expert behavior:
-
 1.  Experts can jump directly from a problem to its solution
-    because there actually is a direct link between the two in their mind:
-    where a competent practitioner would have to reason "A, B, C, D, E",
-    the expert can go from A to E in a single step.
-    We call this *intuition*,
-    and it isn't always a good thing:
-    when asked to explain her reasoning,
-    an expert often can't because she didn't actually go through any intermediate steps.
+    because there is a direct link between the two in their mind:
+    where a competent practitioner would have to reason "A therefore B therefore C therefore D therefore E",
+    the expert can go from A to E in a single step ("A therefore E").
+    This isn't always a good thing. When an expert tries to explain her reasoning to a novice,
+    she often can't because she didn't go through the intermediate steps a novice would.
 
     *In our example above, the local probably doesn't even think about which
     turns they're making on their way to the grocery store.  They can drive on
@@ -60,13 +57,12 @@ This metaphor helps explain many observed aspects of expert behavior:
     location, they immediately know what they should do next to get to the right place.*
 
 2.  Experts are frequently so familiar with their subject
-    that they can no longer imagine what it's like to *not* see the world that way.
-    As a result,
-    they are often less good at teaching the subject than people with less expertise
-    who still remember what it's like to have to learn the things.
-    This is called *expert blind spot*.
-    It can be overcome with training,
-    but it's part of why world-famous researchers are often poor lecturers.
+    that they can no longer imagine what it's like to *not* see the world that way. 
+    This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
+    Experts are often less good at teaching a subject to novices than people with less expertise
+    who still remember what it's like to have to learn the things. (FIXME add references)
+    This effect can be overcome with training,
+    but it's part of the reason world-famous researchers are often poor lecturers.
 
     *The local driver will forget to tell the out-of-towner that the
     bridge is under construction, or that there's always a train at
