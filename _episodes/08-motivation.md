@@ -181,7 +181,7 @@ to make sure they're doing at least a few of these things.
 
 ## Demotivation
 
->> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
+> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
 
 One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. 
 
@@ -196,32 +196,60 @@ they will some day find themselves in the group on the losing end).  Finally,
 a "holier-than-thou" or contemptuous attitude from an instructor is a quick way
 to alienate a classroom and cause learners to tune out.
 
-> ## Things You Shouldn't Do in a Workshop
+### Things You Shouldn't Do in a Workshop
+
+*   Tell learners they are rubbish because they use Excel and/or Word,
+    don't modularize their code, etc.
+*   Repeatedly make digs about Windows and praise Linux, e.g., say that
+    the former is for amateurs.
+*   Criticize GUI applications (and by implication their users) and
+    describe command-line tools as the One True Way.
+*   Dive into complex or detailed technical discussion with the one or
+    two people in the audience who clearly don't actually need to be
+    there.
+*   Pretend to know more than you do.  People will actually trust you
+    more if you are frank about the limitations of your knowledge, and
+    will be more likely to ask questions and seek help.
+*   Use the J word ("just").
+    As [discussed earlier]({{ page.root }}/08-memory/),
+    this signals to the learner that
+    the instructor thinks their problem is trivial
+    and by extension that they therefore must be stupid
+    for not being able to figure it out.
+*  Feign surprise. Saying things like "I can't believe you don't know X"
+    or "you've never heard of Y?" signals to the learner that they do not have
+    some required pre-knowledge of the material you are teaching, that they
+    are in the wrong place, and it may prevent them from asking questions in
+    the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
+
+## Dismissive Language
+
+Experts often betray their blind spot by using the word "just" in explanations,
+as in, "Oh, it's easy, you just fire up a new virtual machine
+and then you just install these four patches to Ubuntu
+and then you just re-write your entire program in a pure functional style---no problem."
+This gives learners the very clear signal
+that the instructor thinks their problem is trivial
+and that they therefore must be stupid.  
+
+With practice, we can change the way we speak to avoid this type of demotivating language and replace 
+it with more positive and motivating word choices.
+
+> ## Changing Your Language
+> 
+> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to 
+> express this meaning in a positive and motivational way?  
+> 
+> In the Etherpad, make a list of demotivating words/phrases and alternatives.  
+> 
+> This discussion should take about five minutes.  
 >
-> *   Tell learners they are rubbish because they use Excel and/or Word,
->     don't modularize their code, etc.
-> *   Repeatedly make digs about Windows and praise Linux, e.g., say that
->     the former is for amateurs.
-> *   Criticize GUI applications (and by implication their users) and
->     describe command-line tools as the One True Way.
-> *   Dive into complex or detailed technical discussion with the one or
->     two people in the audience who clearly don't actually need to be
->     there.
-> *   Pretend to know more than you do.  People will actually trust you
->     more if you are frank about the limitations of your knowledge, and
->     will be more likely to ask questions and seek help.
-> *   Use the J word ("just").
->     As [discussed earlier]({{ page.root }}/08-memory/),
->     this signals to the learner that
->     the instructor thinks their problem is trivial
->     and by extension that they therefore must be stupid
->     for not being able to figure it out.
->  *  Feign surprise. Saying things like "I can't believe you don't know X"
->     or "you've never heard of Y?" signals to the learner that they do not have
->     some required pre-knowledge of the material you are teaching, that they
->     are in the wrong place, and it may prevent them from asking questions in
->     the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
-{: .callout}
+>> ## Solution  
+>> FIXME
+>> 
+> {: .solution}
+{: .challenge}
+
 
 > ## The Importance of Having Rules
 >
