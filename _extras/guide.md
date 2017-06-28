@@ -432,8 +432,7 @@ The biggest change was the introduction of recorded teaching exercises.
 
 ### Two-Day Online With Groups (Currently used)
 
-*   We use Google Hangouts and Etherpad as in the multi-week version.
-    Each group of learners is together in a room using one camera and microphone,
+*   Each group of learners is together in a room using one camera and microphone,
     rather than each being on the call separately.
     We have found that having good audio matters more than having good video,
     and that the better the audio,
@@ -441,6 +440,43 @@ The biggest change was the introduction of recorded teaching exercises.
     rather than by using the Etherpad chat.
 
 *   We do the video lecture exercise as in the two-day in-person training.
+    If the class if fully distributed, use pairs rather than threes for teaching exercises.  
+    (Each pair will need 25-30 minutes the first time, and 20 minutes thereafter.)   
+    If the class is in groups (e.g., three rooms of half a dozen), stick to the standard recording method.
+
+*   Google Doc may be better than Etherpad. 
+    Both slow down under load, 
+    but the Google Doc allows people to paste in images from the concept mapping exercise.  
+    It also minimizes any distractions that may arise from the etherpad color coding.
+    If you *do* use an Etherpad, consider starting a fresh one for the second day 
+    if you are experiencing loading delays and problems.
+
+*   Put the participants' names double-spaced in a flat text file or at the very bottom of the etherpad, 
+    Whenever you want learners to submit work in the Doc or 'pad, 
+    paste that list in so that they all know where to add there answer.
+    This minimizes over-typing, but more importantly, 
+    it allows the instructors to gauge leaner progress with the exercise 
+
+*   Whenever you give an exercise, type it into the Doc or 'pad, 
+    and add both how much time they have and when they're expected back (including timezone).
+    Note: markdown bulleting doesn't easily transfer to etherpad, 
+    so many of the challenges have been pasted in TTT-template etherpad for your use: 
+    http://pad.software-carpentry.org/ttt-template
+    
+*   Screen-sharing videos (almost) never works. 
+    Instead, paste the links to videos and have the learns watch them on a computer in their room.  
+
+*   Rather than screen sharing and image,
+    consider pasting the link to the image in the etherpad 
+    for learners to view on their own.
+    All the figures are displayed on this page: https://swcarpentry.github.io/instructor-training/figures/.
+    You can right click the image you want for a specific url.
+    Alternatively, you can print or draw the image and hold it up to the camera.
+    
+*   Video conferencing problems will most certainly arise.
+    Plan for extra time getting everyone on board on the first day.
+    Also, you can set up a time a few days before the workshop 
+    for a test call with the local host to make sure the conference room setup is working well.
 
 ### Multi-Week Online (Retired)
 
