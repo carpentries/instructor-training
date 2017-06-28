@@ -40,8 +40,9 @@ or run `make` in this directory for a list of helpful commands.
 *   Allegra Via (Italy)
 *   Alistair Walsh (Australia)
 *   Belinda Weaver (Australia)
-*   Karen Word (United States)
+*   Jason Williams (United States)
 *   Greg Wilson (Canada)
+*   Karen Word (United States)
 *   Naupaka Zimmerman (United States)
 
 [dc-site]: http://datacarpentry.org
