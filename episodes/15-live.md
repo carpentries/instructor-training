@@ -1,6 +1,6 @@
 ---
 start: false
-title: "Live Coding"
+title: "Building Teaching Skill: Live Coding"
 teaching: 30
 exercises: 45
 questions:
