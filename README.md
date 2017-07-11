@@ -12,7 +12,7 @@ or run `make` in this directory for a list of helpful commands.
 * [Christina Koch][koch_christina]
 * [Erin Becker][becker_erin]
 
-**Trainers (and trainers-in-training):**
+**Trainers:**
 
 *   Erin Becker (United States)
 *   Martin Callaghan (United Kingdom)
