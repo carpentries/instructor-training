@@ -1,5 +1,5 @@
 ---
-title: "Teaching as a Performance Art"
+title: "Building Teaching Skill: Teaching as a Performance Art"
 teaching: 15
 exercises: 55
 questions:

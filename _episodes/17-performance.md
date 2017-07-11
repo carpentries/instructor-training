@@ -1,5 +1,5 @@
 ---
-title: "Performance Revised"
+title: "Building Teaching Skill: Performance Revised"
 teaching: 15
 exercises: 25
 questions:
