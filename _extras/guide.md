@@ -397,7 +397,7 @@ as a two-day in-person class,
 and as a two-day class in which the learners are in co-located groups
 and the instructor participates remotely.
 
-### Two-Day In-Person (Currently used)
+### Two-Day In-Person
 
 This was the second method we tried.
 The biggest change was the introduction of recorded teaching exercises.
@@ -430,30 +430,26 @@ The biggest change was the introduction of recorded teaching exercises.
     both for note-taking and for posting exercise solutions and feedback on recorded lessons
     Questions and discussion are done aloud.
 
-### Two-Day Online With Groups (Currently used)
+### Two-Day Online (with groups or fully distributed)
 
-*   Each group of learners is together in a room using one camera and microphone,
-    rather than each being on the call separately.
-    We have found that having good audio matters more than having good video,
+*   Group: Each group of learners is together in a room using one camera and microphone.
+    Fully distributed: Each learner is connecting individually. 
+    
+*   We have found that having good audio matters more than having good video,
     and that the better the audio,
     the more learners can communicate with the instructor and other rooms by voice
     rather than by using the Etherpad chat.
 
-*   We do the video lecture exercise as in the two-day in-person training.
-    If the class is in groups (e.g., three rooms of half a dozen), stick to the standard recording method.
-    If the class is fully distributed, use pairs rather than threes for teaching exercises
-    because connecting three people via video conference is is much harder than connecting two.
-    In this senariario, each pair will need 25-30 minutes the first time, and 20 minutes thereafter.   
+*   We do the video lecture exercise as in the two-day in-person training. 
     
-
 *   Google Doc may be better than Etherpad. 
     Both slow down under load, 
     but the Google Doc allows people to paste in images from the concept mapping exercise.  
-    It also minimizes any distractions that may arise from the etherpad color coding.
+    It also minimizes any distractions that may arise from the Etherpad color coding.
     If you *do* use an Etherpad, consider starting a fresh one for the second day 
     as this seems to reduce loading delays and lag.
 
-*   Put the participants' names double-spaced in a flat text file or at the very bottom of the Etherpad, 
+*   Put the participants' names double-spaced at the very bottom of the Etherpad, 
     Whenever you want learners to submit work in the Google Doc or Etherpad, 
     paste that list in so that they all know where to add their answer.
     This minimizes over-typing and helps the instructor gauge learners' progress with the exercise.
@@ -474,40 +470,12 @@ The biggest change was the introduction of recorded teaching exercises.
     All the figures are displayed on this page: https://swcarpentry.github.io/instructor-training/figures/.
     You can right click the image to get its URL.
     
-    
 *   Video conferencing problems will most certainly arise.
     Plan for extra time getting everyone on board on the first day.
     Also, you can set up a time a few days before the workshop 
     for a test call with the local host to make sure the conference room setup is working well.
-
-### Multi-Week Online (Retired)
-
-This was the first method we tried.
-
-*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' time zones
-    and because video conferencing systems can't handle 60+ people at once.
-    Each meeting also uses an Etherpad for shared note-taking,
-    and more importantly for asking and answering questions:
-    having several dozen people try to talk on a call hasn't worked,
-    so in most sessions,
-    the instructor does the talking
-    and learners respond through the Etherpad chat.
-
-*   Learners post homework online, then comment on each other's work.
-    *   We used a WordPress blog for the first ten rounds of training.
-        People found writing and commenting on posts straightforward,
-        but setting up dozens of logins was tedious.
-    *   We tried a GitHub-backed blog in the Winter 2015 class.
-        It didn't work nearly as well:
-        a third of the participants found it extremely frustrating,
-        and post-publication commentary was awkward.
-    *   We tried Piazza in the Fall 2015 class.
-        It was better than GitHub,
-        but still not as good as a simple WordPress blog.
-        In particular,
-        it was hard to find things once there were more than a dozen homework categories.
-        
+       
+       
 ## Demo Sessions
 
 Checklist for instructor trainers hosting a live-coding demo session as part of a trainee's checkout procedure.
