@@ -1,5 +1,5 @@
 ---
-title: "Instruction and Memory"
+title: "How Learning Works: Instruction and Memory"
 teaching: 30
 exercises: 15
 questions:

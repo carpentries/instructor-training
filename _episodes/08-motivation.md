@@ -1,5 +1,5 @@
 ---
-title: "Motivation and Demotivation"
+title: "Creating a Positive Learning Environment: Motivation and Demotivation"
 teaching: 30
 exercises: 25
 questions:
