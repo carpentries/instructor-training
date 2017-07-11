@@ -1,5 +1,5 @@
 ---
-title: "Learning Objectives"
+title: "Building Teaching Skill: Using Learning Objectives"
 teaching: 30
 exercises: 20
 questions:
