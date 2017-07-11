@@ -34,8 +34,6 @@ permalink: /reference/
     and minute cards or "one up, one down" at lunch and at the end of the day
     in order to find out how the class is going
     while there's still time to fix things.
-8.  The "I don't know what I'm doing" feeling never goes away. You just learn the "but I can figure it out" part.
-    -- [Sciencegurl](https://twitter.com/sciencegurlz0/status/687739023826235393)
 
 A note on #2:
 some instructors start improvising after they've taught the core lessons as-is a few times,
