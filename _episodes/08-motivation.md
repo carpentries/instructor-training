@@ -222,6 +222,15 @@ to alienate a classroom and cause learners to tune out.
     are in the wrong place, and it may prevent them from asking questions in
     the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
 
+> ## A Corollary Regarding Novices
+> 
+> Students are commonly _far_ too satisfied to not understand key points
+> and remain confused.  If students remain confused, they are far less likely
+> to adopt our "good enough" practices at the conclusion of the workshop.
+> Encourage helpers to support confused students as far as possible within
+> the flow of the workshop.
+{: .callout}
+
 ## Dismissive Language
 
 Experts often betray their blind spot by using the word "just" in explanations,
