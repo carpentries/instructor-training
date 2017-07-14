@@ -12,18 +12,38 @@ keypoints:
 
 ### Mindset
 
-**Add intro to mindset here.**
+Do you believe that you're just not good at math? Or maybe you're not artistic? Not good at sports? If any of these
+sound like you, you probably have a fixed mindset when it comes to mathematical, artistic and/or athletic ability. 
 
-If people believe that competence in some area is intrinsic
-(i.e., that you either "have the gene" for it or you don't),
-*everyone* does worse, including the supposedly advantaged.
-The reason is that if they don't get it at first,
-they figure they just don't have that aptitude,
-which biases future performance.
-On the other hand,
-if people believe that a skill is learned and can be improved,
-they do better on average.
+Carol Dweck, now a professor of Psychology at Stanford University, has conducted decades of research focused on understanding
+people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
+affect our perseverence in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that 
+someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort, 
+almost anyone can learn almost anything. 
 
+People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also 
+tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly. 
+In contrast, people with a growth mindset tend to actively seek challenges and to work harder when faced with failure. They regularly take risks and 
+take advantage of opportunities for learning new skills. In fact, initial difficulties in a topic make them more interested and motivated to learn!
+
+People who believe that ability is intrinsic view every situation as a test. A failure indicates that they don't have the natural ability they need
+to succeed. Thus, students with a fixed-mindset will *decrease* their study time after receiving a poor exam score, because they see this score as a
+judgement that they aren't good at that subject and shouldn't waste their time trying. A growth-mindset student will increase the amount of time that 
+they study after the same score, seeing it as an indication that they need to try harder to improve in that area.  
+
+This attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
+questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from getting opportunities to practice
+and receive feedback, which as we've discussed (FIXME add link to practice module) is essential to learning.
+
+> ## Test your Mindset
+> You can learn about your own mindset by taking the official [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php). 
+> Keep in mind that your mindset may differ in different areas. For example, you might have a fixed mindset with respect to artistic ability,
+> but a growth mindset with respect to computing skill.
+>
+{: .challenge}
+
+If you recognize aspects of the fixed mindset in yourself, don't panic! Like everything else, a growth mindset can be learned. We're going to talk about some
+strategies that will help you promoting a growth mindset in your learners and yourself.
 
 ### Praise talk  
 
