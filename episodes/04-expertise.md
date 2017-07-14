@@ -5,7 +5,6 @@ exercises: 15
 questions:
 - "How do experts store knowledge differently from novices?"
 - "How is memory a limiting factor in learning?"  
-- "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Explain how key aspects of expert behavior are results of cognitive differences between experts and competent practitioners."
 - "Use a concept map to plan a formative assessment strategy."
