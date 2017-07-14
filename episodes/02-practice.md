@@ -24,6 +24,14 @@ keypoints:
 We'll now get started with our first round of learning some theory, how it
 relates to Software and Data Carpentry, and putting that theory into practice.
 
+## Carpentries Pedagogical Model
+
+The Carpentries aim to teach computational competence to learners. This can not be achieved solely by describing how these tasks should be completed; it requires showing them how to solve specific problems with specific tools. We can then proceed from that point of understanding into a larger conversation about about how researchers should develop, use, and curate software.
+
+A critical component of this process is that learners are able to practice what they are learning in real time, get feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
+
+A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible we aim to be giving and receiving feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way instructors can improve the pace and content of a workshop on the fly to meet the needs of the learners in that group, as well as collect feedback that will help us improve lesson materials or methodology for workshops yet to come. Instructors and helpers also provide feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts people are having trouble with or where we might be able to move along more quickly. 
+
 ## Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a mental model of the domain,
@@ -72,7 +80,7 @@ that model has three stages:
 Most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.  Thus, our
 primary goal is *not*
-to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a 
+to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a
 particular domain,  
 but to teach people how to think about programming and data management
 (and about using computers in research more generally).
@@ -169,12 +177,12 @@ helps solidify both ideas.
 {: .quotation}
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
-with some amount of information, ideas and opinions about the topic. This is true even 
+with some amount of information, ideas and opinions about the topic. This is true even
 in the case where a learner can't articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
 can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
-models. (FIXME add references) 
+models. (FIXME add references)
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:
 
@@ -227,7 +235,7 @@ material. For learners, this feedback can help focus their study efforts. For in
 their instruction to respond to challenges that learners are facing.  
 
 Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
-results are easily interpretable by the learner and instructor. 
+results are easily interpretable by the learner and instructor.
 
 The most widely used is probably multiple choice questions (MCQs).
 When designed well,
@@ -275,16 +283,16 @@ and (b) learners actually don't find them funny.
 what concepts learners are having difficulty with.  
 
 > ## Handling Outcomes
-> 
-> Formative assessments allow us as instructors to adapt our instruction to our audience. 
-> What should we do as instructors if the class chooses: 
+>
+> Formative assessments allow us as instructors to adapt our instruction to our audience.
+> What should we do as instructors if the class chooses:
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
 > 3. an even spread among options?
-> 
+>
 > For one of the above, enter your answer in the Etherpad.   
-> 
+>
 > This discussion should take about 10 minutes.
 >
 >> ## Solution
@@ -387,11 +395,11 @@ and see the topic from their point of view.
 >
 > Software and Data Carpentry use formative assessments often. How many have we done since the start of this
 > workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
-> 
+>
 > This discussion should take about 5 minutes.
 >
 >> ## Solution  
->> FIXME 
+>> FIXME
 > {: .solution}
 {: .challenge}
 
@@ -404,5 +412,3 @@ and see the topic from their point of view.
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-
-
