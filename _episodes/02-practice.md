@@ -24,6 +24,31 @@ keypoints:
 We'll now get started with our first round of learning some theory, how it
 relates to Software and Data Carpentry, and putting that theory into practice.
 
+## The Acquisition of Skill
+
+Our approach is based on the work of researchers like Benner,
+who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
+in her studies of
+[how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061) ([see also books by Patricia Benner](https://www.amazon.com/Patricia-E.-Benner/e/B001IGLSW4)). This work indicates that through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
+the three stages of this model are:
+
+*   *Novice*: someone who doesn't know what they don't know, i.e.,
+    they don't yet know what the key ideas in the domain are or how they relate.
+    One sign that someone is a novice is that their questions "aren't even wrong."
+
+    > Example: A *novice* learner in a Carpentries workshop might not have ever heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+
+*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal tasks with normal effort under normal circumstances.
+
+    > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+
+*   *Expert*: someone who can easily handle situations that are out of the ordinary,
+    diagnose the causes of problems, and so on.
+
+    >Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when presented with a problem, immediately see how these skills can be used to solve the problem.
+
+We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
+
 ## Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a mental model of the domain,
@@ -33,6 +58,19 @@ Atoms aren't actually balls,
 and their bonds aren't actually springs,
 but the model does a good job of helping people reason about chemical compounds and their reactions.
 
+We can also distinguish between a *novice* and a *competent
+practitioner* based on the existence of this big picture mental model.
+
+*     A *novice* is someone who has not yet built a mental model of the domain.
+They therefore reason by analogy and guesswork,
+borrowing bits and pieces of their mental models of other domains
+which seem superficially similar.
+*     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model does not have to be completely accurate in order to be useful:
+    for example,
+    the average driver's mental model of how a car works probably doesn't include
+    most of the complexities that a mechanical engineer would be concerned with.
+
+
 > ## Your Mental Models
 >
 > In the Etherpad, write your primary research domain or area of expertise and one mental model you use to frame
@@ -41,41 +79,6 @@ but the model does a good job of helping people reason about chemical compounds 
 > This discussion should take about 5 minutes.
 {: .challenge}
 
-One way to think about the difference between a novice and a "competent
-practitioner" is the existence of this big picture mental model.
-Our approach is based on the work of researchers like Benner,
-who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
-in her studies of
-[how nurses progress from novice to expert][amazon-benner].
-In simplified form,
-that model has three stages:
-
-*   A *novice* is someone who doesn't know what they don't know, i.e.,
-    they don't yet know what the key ideas in the domain are or how they relate.
-    More precisely,
-    a novice has not yet built a mental model of the domain.
-    They therefore reason by analogy and guesswork,
-    borrowing bits and pieces of their mental models of other domains
-    which seem superficially similar.
-    One sign that someone is a novice is that their questions "aren't even wrong".
-*   A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes.
-    This model does not have to be completely accurate in order to be useful:
-    for example,
-    the average driver's mental model of how a car works probably doesn't include
-    most of the complexities that a mechanical engineer would be concerned with.
-    Competent practitioners can do normal tasks with normal effort under normal circumstances.
-*   An *expert* is someone who can easily handle situations that are out of the ordinary,
-    diagnose the causes of problems,
-    and so on.
-    We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
-
-Most learners coming to Software/Data Carpentry lessons are novices,
-and do not have a strong mental model of the concepts we are teaching.  Thus, our
-primary goal is *not*
-to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a 
-particular domain,  
-but to teach people how to think about programming and data management
-(and about using computers in research more generally).
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
@@ -85,9 +88,15 @@ because they don't yet have a model to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
 the incorrect mental model they've cobbled together.
-Instead,
-our goal with novices is *to help them construct a working mental model*
-so that they have something to attach facts to.
+
+Most learners coming to Software/Data Carpentry lessons are novices,
+and do not have a strong mental model of the concepts we are teaching.
+Thus, our
+primary goal is *not*
+to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a
+particular domain, but *to help them construct a working mental model*
+so that they have something to attach facts to. In other words, to teach people how to think about programming and data management
+(and about using computers in research more generally).
 
 ### Why We Go Slowly
 
@@ -169,12 +178,12 @@ helps solidify both ideas.
 {: .quotation}
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
-with some amount of information, ideas and opinions about the topic. This is true even 
+with some amount of information, ideas and opinions about the topic. This is true even
 in the case where a learner can't articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
 can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
-models. (FIXME add references) 
+models. (FIXME add references)
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:
 
@@ -227,7 +236,7 @@ material. For learners, this feedback can help focus their study efforts. For in
 their instruction to respond to challenges that learners are facing.  
 
 Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
-results are easily interpretable by the learner and instructor. 
+results are easily interpretable by the learner and instructor.
 
 The most widely used is probably multiple choice questions (MCQs).
 When designed well,
@@ -275,16 +284,16 @@ and (b) learners actually don't find them funny.
 what concepts learners are having difficulty with.  
 
 > ## Handling Outcomes
-> 
-> Formative assessments allow us as instructors to adapt our instruction to our audience. 
-> What should we do as instructors if the class chooses: 
+>
+> Formative assessments allow us as instructors to adapt our instruction to our audience.
+> What should we do as instructors if the class chooses:
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
 > 3. an even spread among options?
-> 
+>
 > For one of the above, enter your answer in the Etherpad.   
-> 
+>
 > This discussion should take about 10 minutes.
 >
 >> ## Solution
@@ -387,11 +396,11 @@ and see the topic from their point of view.
 >
 > Software and Data Carpentry use formative assessments often. How many have we done since the start of this
 > workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
-> 
+>
 > This discussion should take about 5 minutes.
 >
 >> ## Solution  
->> FIXME 
+>> FIXME
 > {: .solution}
 {: .challenge}
 
@@ -404,5 +413,3 @@ and see the topic from their point of view.
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-
-
