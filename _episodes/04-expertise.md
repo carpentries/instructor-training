@@ -8,7 +8,6 @@ questions:
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Explain how key aspects of expert behavior are results of cognitive differences between experts and competent practitioners."
-- "Use a concept map to plan a formative assessment strategy."
 keypoints:
 - "Experts' mental models are much more densely connected than those of non-experts."
 - "Expert blind spot: knowing something so well that it seems easy when it's not."
