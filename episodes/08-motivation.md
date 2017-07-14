@@ -32,7 +32,7 @@ People learn best when they care about the topic and believe they can master it.
 This presents us with a problem
 because most scientists don't want to program:
 they want to do science,
-and rightly regarding programming as a tax they have to pay in order to do so.
+and rightly regard programming as a tax they have to pay in order to do so.
 In addition,
 their early experiences with programming are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
@@ -94,7 +94,7 @@ learners have a concrete starting point for debugging.
 > **Think** about something you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 > 
@@ -144,7 +144,7 @@ to make sure they're doing at least a few of these things.
 > After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
 > [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
 > consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
-> This emphasizes how they can apply what they leared with haikus to real bioinformatics research problems." 
+> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems." 
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
@@ -254,7 +254,15 @@ it with more positive and motivating word choices.
 > This discussion should take about five minutes.  
 >
 >> ## Solution  
->> FIXME
+>> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
+>> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as 
+>> examples of how they are used to demotivate. Statements like 
+>> *	"We really need it." 
+>> *	"If we don’t we can’t ..." 
+>> *	"Wouldn’t it be easy if we just did it like that?" 
+>> *	"Can you try it real fast?" 
+>> can be perceived as dismissive or demeaning or worse.
 >> 
 > {: .solution}
 {: .challenge}
@@ -285,8 +293,8 @@ it with more positive and motivating word choices.
 > and those figures have actually been getting worse over the last 20 years.
 > There are many reasons for this
 > (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
-> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*),
-> and Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*).
+> Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
 > summarizes what we know about stereotype threat in general
 > and presents some strategies for mitigating it in the classroom.
 >
@@ -295,7 +303,7 @@ it with more positive and motivating word choices.
 > it's not clear that stereotype threat is the underlying mechanism.
 > Part of the problem is that
 > [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
-> another is [questions about the replicability of key studies][jussim-stereotype-threat].
+> another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
 > What *is* clear is that we need to avoid thinking in terms of a deficit model
 > (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
 > and instead use a systems approach
@@ -475,7 +483,7 @@ Lee's paper
 "[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
 (which you were asked to read before the workshop)
 is a brief, practical guide to doing that with references to the research literature.
-These help learners who belong to one or more margainalized or excluded groups,
+These help learners who belong to one or more marginalized or excluded groups,
 but help motivate everyone else as well;
 while they are phrased in terms of term-long courses,
 many can be applied in our workshops,
@@ -486,10 +494,10 @@ such as:
 *   reviewing notes to make sure they are free from gendered pronouns,
     that they include culturally diverse names,
     etc.;
-*   emphasize that what matters is the rate at which they are learning,
+*   emphasizing that what matters is the rate at which they are learning,
     not the advantages or disadvantages they had when they started;
 *   encouraging pair programming; and
-*   actively mitigate behavior that some learners may find intimidating,
+*   actively mitigating behavior that some learners may find intimidating,
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
@@ -509,8 +517,10 @@ such as:
 [amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
 [conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
+[four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
+[motivation-words]: https://open.buffer.com/motivation-words/
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
