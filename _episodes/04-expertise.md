@@ -226,7 +226,7 @@ without bumping into each other).
 > Which of the relationships in your partner's map do you consider concepts and vice versa?
 >
 > Take 10 minutes to draw the concept maps and share with your neighbor. 
-> Write done in the chat once you have finished.
+> Write "*done*" in the chat once you have finished.
 {: .challenge}
 
 > ## Building Concept Maps Together
