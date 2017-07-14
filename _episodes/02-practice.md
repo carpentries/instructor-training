@@ -24,28 +24,57 @@ keypoints:
 We'll now get started with our first round of learning some theory, how it
 relates to Software and Data Carpentry, and putting that theory into practice.
 
+## Carpentries Pedagogical Model
+
+The Carpentries aim to teach computational competence to learners. This can not be achieved solely by describing how 
+these tasks should be completed; it requires showing them how to solve specific problems with specific tools. We can 
+then proceed from that point of understanding into a larger conversation about about how researchers should develop, 
+use, and curate software.
+
+A critical component of this process is that learners are able to practice what they are learning in real time, get 
+feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having 
+learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
+
+A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible we aim to be giving 
+and receiving feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and 
+ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way instructors can improve the 
+pace and content of a workshop on the fly to meet the needs of the learners in that group, as well as collect feedback 
+that will help us improve lesson materials or methodology for workshops yet to come. Instructors and helpers also provide
+feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about 
+the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
+people are having trouble with or where we might be able to move along more quickly. 
+
+
 ## The Acquisition of Skill
 
 Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
-[how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061) ([see also books by Patricia Benner](https://www.amazon.com/Patricia-E.-Benner/e/B001IGLSW4)). This work indicates that through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
+[how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061) 
+([see also books by Patricia Benner](https://www.amazon.com/Patricia-E.-Benner/e/B001IGLSW4)). This work indicates that 
+through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
 the three stages of this model are:
 
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
     One sign that someone is a novice is that their questions "aren't even wrong."
 
-    > Example: A *novice* learner in a Carpentries workshop might not have ever heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+    > Example: A *novice* learner in a Carpentries workshop might not have ever heard of the bash shell, and therefore 
+    may have no understanding of how it relates to their file system or other programs on their computer.
 
-*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal tasks with normal effort under normal circumstances.
+*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details 
+of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal 
+tasks with normal effort under normal circumstances.
 
-    > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+    > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to
+    move around directories and use individual programs, but they might not understand how they can fit these programs 
+    together to build scripts and automate large tasks.
 
 *   *Expert*: someone who can easily handle situations that are out of the ordinary,
     diagnose the causes of problems, and so on.
 
-    >Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when presented with a problem, immediately see how these skills can be used to solve the problem.
+    > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when 
+    presented with a problem, immediately see how these skills can be used to solve the problem.
 
 We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
 
@@ -65,10 +94,11 @@ practitioner* based on the existence of this big picture mental model.
 They therefore reason by analogy and guesswork,
 borrowing bits and pieces of their mental models of other domains
 which seem superficially similar.
-*     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model does not have to be completely accurate in order to be useful:
-    for example,
-    the average driver's mental model of how a car works probably doesn't include
-    most of the complexities that a mechanical engineer would be concerned with.
+*     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model 
+does not have to be completely accurate in order to be useful:
+for example,
+the average driver's mental model of how a car works probably doesn't include
+most of the complexities that a mechanical engineer would be concerned with.
 
 
 > ## Your Mental Models
@@ -78,7 +108,6 @@ which seem superficially similar.
 >  
 > This discussion should take about 5 minutes.
 {: .challenge}
-
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
@@ -95,7 +124,8 @@ Thus, our
 primary goal is *not*
 to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a
 particular domain, but *to help them construct a working mental model*
-so that they have something to attach facts to. In other words, to teach people how to think about programming and data management
+so that they have something to attach facts to. In other words, to teach people how to think about programming and data 
+management
 (and about using computers in research more generally).
 
 ### Why We Go Slowly
