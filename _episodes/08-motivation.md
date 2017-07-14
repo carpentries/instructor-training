@@ -254,7 +254,15 @@ it with more positive and motivating word choices.
 > This discussion should take about five minutes.  
 >
 >> ## Solution  
->> FIXME
+>> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
+>> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as 
+>> examples of how they are used to demotivate. Statements like 
+>> *	"We really need it." 
+>> *	"If we don’t we can’t ..." 
+>> *	"Wouldn’t it be easy if we just did it like that?" 
+>> *	"Can you try it real fast?" 
+>> can be perceived as dismissive or demeaning or worse.
 >> 
 > {: .solution}
 {: .challenge}
@@ -509,8 +517,10 @@ such as:
 [amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
 [conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
+[four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
+[motivation-words]: https://open.buffer.com/motivation-words/
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
