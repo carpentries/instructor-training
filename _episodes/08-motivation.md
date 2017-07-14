@@ -32,7 +32,7 @@ People learn best when they care about the topic and believe they can master it.
 This presents us with a problem
 because most scientists don't want to program:
 they want to do science,
-and rightly regarding programming as a tax they have to pay in order to do so.
+and rightly regard programming as a tax they have to pay in order to do so.
 In addition,
 their early experiences with programming are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
@@ -94,7 +94,7 @@ learners have a concrete starting point for debugging.
 > **Think** about something you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/longtime to master" and "low/high usefulness"?
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 > 
@@ -144,7 +144,7 @@ to make sure they're doing at least a few of these things.
 > After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
 > [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
 > consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
-> This emphasizes how they can apply what they leared with haikus to real bioinformatics research problems." 
+> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems." 
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
@@ -285,8 +285,8 @@ it with more positive and motivating word choices.
 > and those figures have actually been getting worse over the last 20 years.
 > There are many reasons for this
 > (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
-> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*),
-> and Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*).
+> Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
 > summarizes what we know about stereotype threat in general
 > and presents some strategies for mitigating it in the classroom.
 >
@@ -295,7 +295,7 @@ it with more positive and motivating word choices.
 > it's not clear that stereotype threat is the underlying mechanism.
 > Part of the problem is that
 > [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
-> another is [questions about the replicability of key studies][jussim-stereotype-threat].
+> another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
 > What *is* clear is that we need to avoid thinking in terms of a deficit model
 > (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
 > and instead use a systems approach
@@ -475,7 +475,7 @@ Lee's paper
 "[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
 (which you were asked to read before the workshop)
 is a brief, practical guide to doing that with references to the research literature.
-These help learners who belong to one or more margainalized or excluded groups,
+These help learners who belong to one or more marginalized or excluded groups,
 but help motivate everyone else as well;
 while they are phrased in terms of term-long courses,
 many can be applied in our workshops,
@@ -486,10 +486,10 @@ such as:
 *   reviewing notes to make sure they are free from gendered pronouns,
     that they include culturally diverse names,
     etc.;
-*   emphasize that what matters is the rate at which they are learning,
+*   emphasizing that what matters is the rate at which they are learning,
     not the advantages or disadvantages they had when they started;
 *   encouraging pair programming; and
-*   actively mitigate behavior that some learners may find intimidating,
+*   actively mitigating behavior that some learners may find intimidating,
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
