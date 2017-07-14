@@ -6,6 +6,7 @@ questions:
 - "How does inquiry-based learning perform compared to guided learning?"
 - "What is cognitive load theory?"
 - "What is the split-attention effect, and how should it affect the design of teaching materials?"
+- "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Explain the basis and implications of cognitive load theory and critique it."
 - "Construct faded examples for use as classroom exercises and explain the problem-solving strategies those examples illustrate."
