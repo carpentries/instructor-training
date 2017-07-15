@@ -10,15 +10,15 @@ objectives:
 - "Review main points we discussed yesterday."
 - "Introduce topics we will discuss today."
 keypoints:
-- "Instructors guide learners to see a proper big picture of the problem (accurate mental model) rather than focus on details."
-- "Instructors rely on frequent feedback from learners to monitor their own presentation of material."
+- "Instructors guide learners to construct the proper big picture (accurate mental model) of the topic rather than focus on details."
+- "Instructors rely on frequent feedback from learners to monitor their own presentation of the material."
 - "Instructors introduce few concepts at a time to avoid cognitive overload."
 - "The best way to motivate learners? Show them how to do something they can immediately put to use and be enthusiastic about it."
 - "The powerful mindset: if you believe you can do better, you are doing better."
 - "Place your teaching under a microscope: practice and pay attention to the feedback from learners and collegues."
 ---
 
-Yesterday we focused on general aspects of educational psycology and pedagogy. Today we focus on specifics of teaching Software and Data Carpentries.
+Yesterday we focused on general aspects of educational psychology and pedagogy. Today we focus on the specifics of teaching Software and Data Carpentries.
 We will look at the lessons that have been written by the Carpentries and discuss how to write new lessons effectively. We will review specific
 teaching practices we follow at our workshops and practice some of them. One of the most important practices is live coding. You rarely
 find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with the discussion 
