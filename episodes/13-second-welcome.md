@@ -4,10 +4,23 @@ start: true
 teaching: 10
 exercises: 10
 questions:
-- "Questions"
+- "What have we learned so far?"
+- "What will we focus on today?"
 objectives:
-- "Objectives"
+- "Review main points we discussed yesterday."
+- "Introduce topics we will discuss today."
 keypoints:
-- "Keypoints"
+- "Instructors guide learners to see a proper big picture of the problem (accurate mental model) rather than focus on details."
+- "Instructors rely on frequent feedback from learners to monitor their own presentation of material."
+- "Instructors introduce few concepts at a time to avoid cognitive overload."
+- "The best way to motivate learners? Show them how to do something they can immediately put to use and be enthusiastic about it."
+- "The powerful mindset: if you believe you can do better, you are doing better."
+- "Place your teaching under a microscope: practice and pay attention to the feedback from learners and collegues."
 ---
+
+Yesterday we focused on general aspects of educational psycology and pedagogy. Today we focus on specifics of teaching Software and Data Carpentries.
+We will look at the lessons that have been written by the Carpentries and discuss how to write new lessons effectively. We will review specific
+teaching practices we follow at our workshops and practice some of them. One of the most important practices is live coding. You rarely
+find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with the discussion 
+of  workshop operational guide that will help you get your workshop off the ground.  
 
