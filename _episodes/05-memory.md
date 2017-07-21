@@ -8,6 +8,7 @@ questions:
 - "What is the split-attention effect, and how should it affect the design of teaching materials?"
 objectives:
 - "Explain the basis and implications of cognitive load theory and critique it."
+- "Use a concept map to plan a formative assessment strategy."
 - "Construct faded examples for use as classroom exercises and explain the problem-solving strategies those examples illustrate."
 keypoints:
 - "Most adults can store 7±2 items in short-term memory for a few seconds before loss."  
