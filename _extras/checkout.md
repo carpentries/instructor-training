@@ -44,7 +44,7 @@ are now considered Carpentry instructors and can teach either set of curricula.
 > account in our database management system (AMY). If you filled out an application to attend instructor training, you already have an
 > account. If you didn't fill out an application, please do so now to create your account. You can fill out an application 
 > using [this link](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor
-> provides. If you already have an AMY account, you can log in [here](https://amy.software-carpentry.org/account/login/).  
+> provides.  
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
