@@ -19,3 +19,11 @@ keypoints:
 >    given the thinking you did while making a concept map?
 >  This exercise should take about 25 minutes plus 15 minutes for discussion.    
 {: .challenge}
+
+At the end of the morning, do the following: 
+
+> ## Minute Cards Revisited
+>
+> Use your sticky notes to write minute cards
+> as discussed [yesterday]({{ page.root }}/06-summarize/).
+{: .challenge}
