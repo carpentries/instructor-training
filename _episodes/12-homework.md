@@ -1,14 +1,15 @@
 ---
-title: "Afternoon Wrap-Up"
+title: "Wrap-Up and Homework for Tomorrow"
 teaching: 5
 exercises: 15
 questions:
-- "What have we learned?"
+- "What have we learned today?"
+- "What needs to be done to prepare for tomorrow?"
 objectives:
 - "Understand overnight homework."
-- "Explain pros and cons of 'one up, one down' feedback."
+- "Produce a paragraph, drawing, or diagram that summarizes what was taught today."  
 keypoints:
-- "Use 'one up, one down' to get wide-ranging feedback."
+- ""
 ---
 
 As homework overnight, please:
@@ -40,24 +41,12 @@ As homework overnight, please:
         *   Repeating Actions with Loops in Python: <{{ site.swc_pages }}/python-novice-inflammation/02-loop/>
         *   Exploring Data Frames in R: <{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>
 
-> ## End-of-Day Feedback
->
-> We frequently ask workshop participants to give us feedback at the end
-> of each day using a technique called "one up, one down".  The
-> instructor asks the learners to alternately give one positive and one
-> negative point about the day, without repeating anything that has
-> already been said.  This requirement forces people to say things they
-> otherwise might not: once all the "safe" feedback has been given,
-> participants will start saying what they really think. The instructor
-> writes down the feedback in the Etherpad or a text editor,
-> but is not supposed to comment on the feedback while collecting it.
->
-> When called upon by the instructor, add one positive or one negative
-> point to the growing list *without* repeating anything that has
-> already been said.
+> ## Feedback
 > 
-> This exercise should take about 10 minutes.  
-{: .callout}
+> The trainer will ask for feedback on the day in some form.  
+> 
+> This exercise should take 5 minutes.  
+{: .challenge}
 
 > ## Reflecting on the Day
 > 
@@ -76,5 +65,5 @@ As homework overnight, please:
 > experience of the training today
 > * write down one thing that struck you the most
 >
-> This exercise should take about 5 minutes.
+> This exercise should take about 10 minutes.
 {: .challenge}
