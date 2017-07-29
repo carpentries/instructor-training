@@ -4,7 +4,7 @@ teaching: 30
 exercises: 15
 questions:
 - "How do experts store knowledge differently from novices?"
-- "How is memory a limiting factor in learning?"  
+- "How can experts uncover their assumptions and blind spots?"  
 objectives:
 - "Explain how key aspects of expert behavior are results of cognitive differences between experts and competent practitioners."
 keypoints:
@@ -18,96 +18,154 @@ keypoints:
 ---
 
 We now discuss what distinguishes expertise
-from earlier stages of learning, how being an expert can make it more difficult to teach novices, and then
-describe concept maps, a tool that can help expose expertise.
+from earlier stages of learning, how being an expert can make it 
+more difficult to teach novices, and some tools to help instructors 
+identify their own expert blind spots.  
 
-## Connectivity
+## Expertise
 
-An [earlier topic]({{ page.root }}/01-practice.md) described a key difference between novices and competent practitioners. Competent practitioners have mental models that work well enough for most situations. 
+An [earlier topic]({{ page.root }}/01-practice.md) described a key 
+difference between novices and competent practitioners. Competent practitioners 
+have mental models that work well enough for most situations. 
 What makes experts different from either?
-The answer is not that they know more facts:
-competent practitioners can memorize a lot of information
-without any noticeable improvement to their performance.
 
-To explain the difference,
-imagine for a moment that we store knowledge as a graph
+> ## What Is An Expert?
+>
+> 1. Name someone that you think is an expert (doesn't matter what they're 
+> an expert in).  As an expert, what makes them special or different than 
+> other people?  
+> 2. What is something that you're an expert in?  How does your experience 
+> when you're acting as an expert differ than when you're not an expert?  
+{: .challenge}
+
+What makes the difference?  The answer is not that they know more facts:
+competent practitioners can memorize a lot of information
+without any noticeable improvement to their performance.  The answer is 
+rather that experts have more connections between pieces of knowledge; 
+more "short-cuts", if you will.  
+
+One way to illustrate this is the model 
+of storing knowledge as a graph
 in which facts are nodes and relationships are arcs.
 (This is emphatically *not* how our brains work,
 but it's a useful metaphor.)
 The key difference between experts and competent practitioners
 is that experts have many more connections,
-i.e.,
-their mental models are much more densely connected. This has a number of effects on expert behavior.  
+i.e., their mental models are much more densely connected. Therefore 
+experts can jump directly from a problem to its solution
+because there is a direct link between the two in their mind:
+where a competent practitioner would have to reason "A therefore B therefore C therefore D therefore E",
+the expert can go from A to E in a single step ("A therefore E").
 
-To understand expert behavior, think about driving around a city, comparing what it's
-like for the local and for the out-of-town driver.
-
-1.  Experts can jump directly from a problem to its solution
-    because there is a direct link between the two in their mind:
-    where a competent practitioner would have to reason "A therefore B therefore C therefore D therefore E",
-    the expert can go from A to E in a single step ("A therefore E").
-    This isn't always a good thing. When an expert tries to explain her reasoning to a novice,
-    she often can't because she didn't go through the intermediate steps a novice would.
-
-    *In our example above, the local probably doesn't even think about which
-    turns they're making on their way to the grocery store.  They can drive on
-    "autopilot" without really thinking.  If someone asks them to go to a different
-    location, they immediately know what they should do next to get to the right place.*
-
-2.  Experts are frequently so familiar with their subject
-    that they can no longer imagine what it's like to *not* see the world that way. 
-    This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
-    Experts are often less good at teaching a subject to novices than people with less expertise
-    who still remember what it's like to have to learn the things. (FIXME add references)
-    This effect can be overcome with training,
-    but it's part of the reason world-famous researchers are often poor lecturers.
-
-    *The local driver will forget to tell the out-of-towner that the
-    bridge is under construction, or that there's always a train at
-    3:00, because it has been like that for years.  The local driver
-    will tell the out-of-towner to turn "where the gas station used to
-    be".*
-
-3.  Densely-connected knowledge graphs also explains *fluid representations*,
-    e.g.,
-    expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
-
-    *The local driver probably can use either the names of streets*
-    or
-    *landmarks when giving directions. The out-of-towner only has street labels.*
-
-4.  Finally, this metaphor also explains why experts are better at diagnosis than competent practitioners:
-    more linkages between facts makes it easier to reason backward from symptoms to causes.
-    (And this in turn is why asking programmers to debug during job interviews
-    gives a more accurate impression of their ability than asking them to program.)
-
-    *When the out-of-towner finally calls their local friend, saying "well, we just passed
-    Sycamore Street and we can see a restaurant named Nellie's Cafe", the local can
-    more easily figure out where the out-of-towner is, and how to get to their destination.*
-
-The graph model of knowledge explains why
-helping learners make connections is as important as introducing them to facts.
-The more people you know in a group,
-the more likely you are to remain part of that group.
-Similarly,
-the more connections a fact has to other facts,
-the more likely the fact is to be remembered.  This builds on our earlier idea
-of mental models - a mental model is a way to facilitate making connections between
-separate facts.
-
-> ## Repetition vs. Reflective Practice
->
-> The idea that ten thousand hours of practice will make someone an expert in some field
-> is widely known,
-> but reality is much more complex.
-> Practice is not doing the same thing over and over again:
-> practice is doing similar but subtly different things,
-> getting feedback,
-> and then changing behavior in response to that feedback to get cumulatively better.
-> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our 
-> instructor training program. 
+> ## Connections and Mental Models
+> 
+> The graph model of knowledge explains why
+> helping learners make connections is as important as introducing them to facts.
+> The more people you know in a group,
+> the more likely you are to remain part of that group.
+> Similarly,
+> the more connections a fact has to other facts,
+> the more likely the fact is to be remembered.  This builds on our earlier idea
+> of mental models - a mental model is a way to facilitate making connections between
+> separate facts.
 {: .callout}
+
+> ## Other Consequences of Expertise
+> 
+> Experts 
+> - Densely-connected knowledge graphs also explains *fluid representations*, e.g.,
+> expert mathematicians' ability to switch effortlessly between algebraic and geometric views of a problem.
+> - Experts are better at diagnosis than competent practitioners:
+> more linkages between facts makes it easier to reason backward from symptoms to causes.
+> (And this in turn is why asking programmers to debug during job interviews
+> gives a more accurate impression of their ability than asking them to program.)
+{: .callout}
+
+While these connections are great for the expert when they're doing 
+their work, they can sometimes hamper their communication and teaching 
+with novices (and even competent practitioners!).  
+When an expert tries to explain her reasoning to a novice,
+she often can't because she didn't go through the intermediate steps a novice would.
+
+## Expert Blind Spots
+
+In fact, experts are frequently so familiar with their subject
+that they can no longer imagine what it's like to *not* see the world that way. 
+This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
+Experts are often less good at teaching a subject to novices than people with less expertise
+who still remember what it's like to have to learn the things. (FIXME add references)
+This effect can be overcome with training,
+but it's part of the reason world-famous researchers are often poor lecturers.
+
+> ## Blind Spots
+>
+> 1. Is there anything you're learning how to do right now?  Can you identify 
+> something that you still need to think about, but your teacher can do without 
+> thinking about it?  
+> 2. Think about the area of expertise you identified earlier.  What could a 
+> potential blind spot be?   
+{: .challenge}
+
+The challenge of identifying and working around expert blind spots is one 
+reason why we welcome instructors who still identify as "novices"!  Someone 
+who is still in the process of learning can be a more effective instructor 
+because they are speaking out of their own recent experience.  
+
+However, that's not to say that experts can't be good teachers.  Experts can 
+be equally effective as long as they take the time to identify and correct 
+for their own expert blind spots.  In the rest of this section we'll be discussing 
+some of the ways that this can be done.  
+
+## You Are Not Your Learners
+
+One way to overcome your own blind spots is by understanding the goals 
+and motivations of your learners.  We will discuss this later in the afternoon, 
+but for now, consider some of these ideas about the typical audience for 
+Carpentry workshops.  
+
+- Most scientists don't actually want to program. They want to do scientific research,
+and programming is just a tax they have to pay along the way.
+They don't care how hash tables work,
+or even that hash tables exist; they just want to know how to process data faster.
+We therefore have to make sure that everything we teach is useful right away,
+and conversely that we don't teach anything just because it's "fundamental".
+- Believing that something will be hard to learn is a self-fulfilling prophecy.
+This is why it's important not to say that something is easy:
+if someone who has been told that tries it,
+and it doesn't work,
+they are more likely to become discouraged.
+
+It's also why installing and configuring software is
+a much bigger problem for us than experienced programmers like to acknowledge.
+It isn't just the time we lose at the start of boot camps
+as we try to get a Unix shell working on Windows,
+or set up a version control client on some idiosyncratic Linux distribution.
+It isn't even the unfairness of asking students to debug things
+that depend on precisely the knowledge they have come to learn,
+but which they don't yet have.
+The real problem is that every such failure reinforces the belief that computing is hard,
+and that they'd have a better chance of making next Thursday's conference submission deadline
+if they kept doing things the way they always have.
+For these reasons,
+we have adopted a "teach most immediately useful first" approach
+described in [this episode]({{ page.root }}/19-motivation/).
+
+> ## Software Carpentry Is Not Computer Science
+>
+> Many of the foundational concepts of computer science,
+> such as computability,
+> inhabit the lower-right corner of the grid described above.
+> This does *not* mean that they aren't important,
+> or aren't worth learning,
+> but if our aim is to convince people that they can learn this stuff,
+> and that doing so will help them do more science faster,
+> they are less compelling than things like automating repetitive tasks.
+{: .callout}
+
+## More? (To add)
+
+- Incorporate discussion of expertise reversal effect with exercises
+- Continue to emphasize the importance of formative assessment (to help counter blind spot)
 
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
