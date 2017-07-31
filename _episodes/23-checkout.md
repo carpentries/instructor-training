@@ -55,9 +55,20 @@ we collect post-instructor-training-workshop feedback.
 Your participation will help us evaluate the efficacy of this training
 and improve the content and delivery of the lesson materials.
 
-## Post Workshop Surveys
+> ## Feedback
+> 
+> The trainer will ask for feedback on the day in some form.  
+> 
+> This exercise should take 5 minutes.  
+{: .challenge}
 
-Assessment is very important to us! Please take 5 minutes to complete this [five-minute post-workshop survey]({{site.training_post_survey}}).
+> ## Post Workshop Surveys
+> 
+> Assessment is very important to us! Please take 5 minutes to complete 
+> this [five-minute post-workshop survey]({{site.training_post_survey}}).
+>
+> This exercise should take 10 minutes.  
+{: .challenge}
 
 
 ## Thank You
