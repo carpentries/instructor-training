@@ -139,7 +139,12 @@ the concepts we are teaching is so important.
 
 The formative assessment and reflective practice described in earlier 
 episodes is a key component in helping learners solidify their understand 
-and convert ideas from short-term memory into long-term memory.  
+and convert ideas from short-term memory into long-term memory. It's important
+to use formative assessments frequently to help learners transition new concepts
+into their long-term memory, before their short-term memory fills up. It can 
+be helpful to use pedagogical planning tools to identify the number of concepts 
+that are being introduced in a lesson and plan where to include formative 
+assessments.
 
 ## Concept Maps
 
