@@ -119,11 +119,27 @@ of the lesson.
 > see it as something it isn't.
 {: .callout}
 
+> ## Improving Short-term Memory with Chunking
+> 
+> Repeat the memory exercise you did earlier, but this time, 
+> try to form short stories or phrases from the words you see. 
+> 
+> Write the number of words you remembered in the Etherpad. 
+> How does this compare with your first attempt?
+{: .challenge}
+
+Storing words in groups reduces the number of effective
+items in your working memory, allowing you to keep 
+more information in your head at once. This is one reason
+why helping our learners to see the connections among 
+the concepts we are teaching is so important.  
+
+
 ## Formative Assessment
 
 The formative assessment and reflective practice described in earlier 
 episodes is a key component in helping learners solidify their understand 
-and convert ideas form short-term memory into long-term memory.  
+and convert ideas from short-term memory into long-term memory.  
 
 ## Concept Maps
 
