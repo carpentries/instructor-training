@@ -44,7 +44,6 @@ feedback to learners throughout workshops in order to get them unstuck or provid
 the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
 people are having trouble with or where we might be able to move along more quickly. 
 
-
 ## The Acquisition of Skill
 
 Our approach is based on the work of researchers like Benner,
@@ -268,6 +267,20 @@ their instruction to respond to challenges that learners are facing.
 Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
 results are easily interpretable by the learner and instructor.
 
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> Practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our 
+> instructor training program. 
+{: .callout}
+
 The most widely used is probably multiple choice questions (MCQs).
 When designed well,
 these can do much more than just measure how much someone knows.
@@ -433,6 +446,8 @@ and see the topic from their point of view.
 >> FIXME
 > {: .solution}
 {: .challenge}
+
+
 
 [amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
 [amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
