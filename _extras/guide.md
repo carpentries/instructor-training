@@ -6,14 +6,15 @@ permalink: /guide/
 
 ## Table of Contents
 
+
 * [Checklists](#checklists)
-* [Scheduling the Event [Coordinator]](#scheduling-the-event-coordinator)
-* [Setting Up [Trainer]](#setting-up-trainer)
-* [During the Event [Trainer]](#during-the-event-trainer)
-* [After the Event [Trainer]](#after-the-event-trainer)
-* [Between Instructor Training Sessions [Trainer]](#between-instructor-training-sessions-trainer)
-* [After Trainees Complete [Head of Instructor Training]](#after-trainees-complete-head-of-instructor-training)
-* [Messages](#messages)
+  * [Scheduling the Event [Coordinator]](#scheduling-the-event-coordinator)
+  * [Setting Up [Trainer]](#setting-up-trainer)
+  * [During the Event [Trainer]](#during-the-event-trainer)
+  * [After the Event [Trainer]](#after-the-event-trainer)
+  * [Between Instructor Training Sessions [Trainer]](#between-instructor-training-sessions-trainer)
+  * [After Trainees Complete [Head of Instructor Training]](#after-trainees-complete-head-of-instructor-training)
+  * [Messages](#messages)
 * [Introduction](#introduction)
 * [Exercises](#exercises)
 * [Video Recorded Lessons](#video-recorded-lessons)
@@ -31,6 +32,7 @@ permalink: /guide/
   * [During the Demo](#during-the-demo)
   * [After the Demo](#after-the-demo)
   * [Example Starting Points for Demos](#example-starting-points-for-demos)
+
 
 ## Checklists
 
