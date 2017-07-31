@@ -6,15 +6,14 @@ permalink: /guide/
 
 ## Table of Contents
 
-
 * [Checklists](#checklists)
-  * [Scheduling the Event [Coordinator]](#scheduling-the-event-coordinator)
-  * [Setting Up [Trainer]](#setting-up-trainer)
-  * [During the Event [Trainer]](#during-the-event-trainer)
-  * [After the Event [Trainer]](#after-the-event-trainer)
-  * [Between Instructor Training Sessions [Trainer]](#between-instructor-training-sessions-trainer)
-  * [After Trainees Complete [Head of Instructor Training]](#after-trainees-complete-head-of-instructor-training)
-  * [Messages](#messages)
+* [Scheduling the Event [Coordinator]](#scheduling-the-event-coordinator)
+* [Setting Up [Trainer]](#setting-up-trainer)
+* [During the Event [Trainer]](#during-the-event-trainer)
+* [After the Event [Trainer]](#after-the-event-trainer)
+* [Between Instructor Training Sessions [Trainer]](#between-instructor-training-sessions-trainer)
+* [After Trainees Complete [Head of Instructor Training]](#after-trainees-complete-head-of-instructor-training)
+* [Messages](#messages)
 * [Introduction](#introduction)
 * [Exercises](#exercises)
 * [Video Recorded Lessons](#video-recorded-lessons)
@@ -24,16 +23,14 @@ permalink: /guide/
 * [You Are Not Your Learners](#you-are-not-your-learners)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
-  * [Two\-Day In\-Person (Currently used)](#two-day-in-person-currently-used)
-  * [Two\-Day Online With Groups (Currently used)](#two-day-online-with-groups-currently-used)
-  * [Multi\-Week Online (Retired)](#multi-week-online-retired)
+  * [Two\-Day In\-Person](#two-day-in-person)
+  * [Two\-Day Online (with groups or fully distributed)](#two-day-online-with-groups-or-fully-distributed)
 * [Demo Sessions](#demo-sessions)
   * [Before the Demo](#before-the-demo)
   * [Shortly Before the Demo](#shortly-before-the-demo)
   * [During the Demo](#during-the-demo)
   * [After the Demo](#after-the-demo)
   * [Example Starting Points for Demos](#example-starting-points-for-demos)
-
 
 ## Checklists
 
