@@ -29,7 +29,7 @@ Once you’ve confirmed dates and participants, here is some information about p
 * The training room should have wifi capable of videoconferencing and for each participant laptop to connect.
 * Participants should bring their own laptop - not a Chromebook, tablet, etc.  No special software other than a modern internet browser is required.
 * Schedule will include a lunch break as well as mini breaks during the day.  We strongly encourage each site to provide coffee and lunch to help build team cohesiveness and to maintain the schedule.
-* Carpentries will provide a link to host the videoconference via Blue Jeans in advance of the event in order to test your setup.
+* Carpentries will provide a link to host the videoconference via Zoom in advance of the event in order to test your setup.
 
 
 Lastly, some information about what happens after the event:
