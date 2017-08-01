@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Instructor Training Calendar for Carpentries Partners"
+permalink: /training_calendar/
+---
+
+
 #### Carpentries Instructor Training Calendar
 ###  September - December 2017
 
