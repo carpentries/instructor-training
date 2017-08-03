@@ -28,7 +28,7 @@ of practice can be welcoming (or threatening) to new members.
 
 ## Creating A Positive Learning Environment
 
-Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of establishing many factors:
+Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of many factors:
 
 + *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it acceptable to make mistakes, and encouraging a growth mindset in students. Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for students first learning.
 + *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction. The key is to avoid feedback that sounds negative or discouraging.
