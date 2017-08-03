@@ -232,6 +232,11 @@ in learning objectives written for each level.
   </tr>
 </table>
 
+This infrographic helps vizualize Bloom's taxonomy and some of the vebs that correspond to the levels of learning. There are many more infographics available that descirbe the levels in more or less detail. 
+
+![Blooms Taxonomy](../fig/bloomstaxonomy.png)
+
+
 Here is an example of a successively-improved lesson objective:
 
 |Learning Objective|Discussion|
