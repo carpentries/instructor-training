@@ -335,7 +335,7 @@ on top of applying that strategy.
 We can therefore accelerate learning
 by giving learners worked examples that show them a problem and a detailed step-by-step solution,
 followed by a series of *faded examples*.
-The first of these presents a nearly-complete use of the same problem-solving strategy just demonstrated
+The first of these presents a nearly-complete use of the same problem-solving strategy
 with a small number of blanks for the learner to fill in.
 The next problem is also of the same type,
 but has more blanks,
