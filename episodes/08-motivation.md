@@ -26,6 +26,15 @@ need encouragement.  This section discusses typical ways that
 learners are motivated (and can be demotivated!) and describes ways that communities
 of practice can be welcoming (or threatening) to new members.
 
+## Creating A Positive Learning Environment
+
+Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of establishing many factors:
+
++ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it acceptable to make mistakes, and encouraging a growth mindset in students. Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for students first learning.
++ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction. The key is to avoid feedback that sounds negative or discouraging.
++ *Encouraging students to learn from each other*. Acknowledging that the material is difficult and that they will learn more. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
++ *Acknowledging when students are confused.* Many times, understanding why students are confused is useful feedback into the teaching process. Pinpointing the cause of their misunderstanding can be very informative to other students. Acknowledging that their misunderstanding is a valid one is key to encouraging a growth mindset.
+
 ## Motivation
 
 People learn best when they care about the topic and believe they can master it.
@@ -97,7 +106,7 @@ learners have a concrete starting point for debugging.
 > **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
-> 
+>
 > This exercise and discussion should take about 10 minutes.  
 {: .challenge}
 
@@ -115,17 +124,17 @@ to make sure they're doing at least a few of these things.
     2. Provide authentic, real-world tasks.
     3. Show relevance to students' current academic lives.
     4. Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5. Identify and reward what you value. 
+    5. Identify and reward what you value.
     6. Show your own passion and enthusiasm for the discipline.
 * Strategies to Build Positive Expectations
 	1. Ensure alignment of objectives, assessments, and instructional strategies.  
 	2. Identify an appropriate level of challenge.
-	3. Create assignments that provide an appropriate level of challenge. 
+	3. Create assignments that provide an appropriate level of challenge.
 	4. Provide early success opportunities.  
-	5. Articulate your expectations. 
+	5. Articulate your expectations.
 	6. Provide rubrics.
-	7. Provide targeted feedback. 
-	8. Be fair. 
+	7. Provide targeted feedback.
+	8. Be fair.
 	9. Educate students about the ways we explain success and failure.  
 	10. Describe effective study strategies.
 * Strategies for Self-Efficacy
@@ -138,13 +147,13 @@ to make sure they're doing at least a few of these things.
 >
 > Or, insert an example story about establishing value, which goes like this:
 >
-> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/), 
+> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
 > a haiku is used to to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how it applies to research.
 > After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
-> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners) 
+> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
 > consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
-> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems." 
+> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
@@ -153,7 +162,7 @@ to make sure they're doing at least a few of these things.
 > identify one thing the instructor did that motivated you.
 > *Pair* up with your neighbor and discuss what motivated you.
 > *Share* the motivational story in the Etherpad.
-> 
+>
 > This exercise should take about 5 minutes.  
 {: .challenge}
 
@@ -175,7 +184,7 @@ to make sure they're doing at least a few of these things.
 > to see what motivates them to teach.  After this class, or during a break,
 > write a short explanation of what motivates you to teach. Save this as part of
 > your teaching philosophy for future reference.  
-> 
+>
 > This exercise should take about 5 minutes.  
 {: .challenge}
 
@@ -183,7 +192,7 @@ to make sure they're doing at least a few of these things.
 
 > If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
 
-One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. 
+One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions.
 
 A few common demotivators are *indifference* and *unfairness*.
 If learners believe that the instructor or the educational system doesn't care about them or the lesson,
@@ -223,7 +232,7 @@ to alienate a classroom and cause learners to tune out.
     the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
 
 > ## A Corollary Regarding Novices
-> 
+>
 > Students are commonly _far_ too satisfied to not understand key points
 > and remain confused.  If students remain confused, they are far less likely
 > to adopt our "good enough" practices at the conclusion of the workshop.
@@ -241,29 +250,29 @@ This gives learners the very clear signal
 that the instructor thinks their problem is trivial
 and that they therefore must be stupid.  
 
-With practice, we can change the way we speak to avoid this type of demotivating language and replace 
+With practice, we can change the way we speak to avoid this type of demotivating language and replace
 it with more positive and motivating word choices.
 
 > ## Changing Your Language
-> 
-> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to 
+>
+> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
 > express this meaning in a positive and motivational way?  
-> 
+>
 > In the Etherpad, make a list of demotivating words/phrases and alternatives.  
-> 
+>
 > This discussion should take about five minutes.  
 >
 >> ## Solution  
 >> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
 >> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
->> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as 
->> examples of how they are used to demotivate. Statements like 
->> *	"We really need it." 
->> *	"If we don’t we can’t ..." 
->> *	"Wouldn’t it be easy if we just did it like that?" 
->> *	"Can you try it real fast?" 
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as
+>> examples of how they are used to demotivate. Statements like
+>> *	"We really need it."
+>> *	"If we don’t we can’t ..."
+>> *	"Wouldn’t it be easy if we just did it like that?"
+>> *	"Can you try it real fast?"
 >> can be perceived as dismissive or demeaning or worse.
->> 
+>>
 > {: .solution}
 {: .challenge}
 
@@ -315,7 +324,7 @@ it with more positive and motivating word choices.
 > *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
 > *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
 > *Share* your story in the Etherpad.  
-> 
+>
 > This exercise should take about 5 minutes.  
 {: .challenge}
 
