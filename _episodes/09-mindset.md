@@ -85,20 +85,20 @@ highlighting our ability to improve with effort.
 
 ### Grit/Perseverance  
 
-Angela Duckworth, a Psychology professor from University of Pennsylvania suggests that grit is an essential trait in learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf). Students with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Often, learning and recovering from failure is an essential skill in many fields. Students with grit have shown to have a higher degree of success later on in life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait can be learned and instilled in students.
+Angela Duckworth, a Psychology professor from University of Pennsylvania suggests that grit is an essential trait in learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf). Students with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Often, learning and recovering from failure is an essential skill in many fields. Students with grit have shown to have a higher degree of success later on in life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait that can be learned and instilled in students.
 
 How can we instill and foster grit in adult students? There are many ways we can help our students attain grit.
 
-- *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing concepts may help students understand that the process of learning can be difficult. Sharing failures that were learning experiences may be aid in modeling resilience.
+- *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing concepts may help students understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in modeling resilience.
 - *Promoting Perseverance*. Part of grit is being able to push through even when the going is difficult. Improvement-based praise is an important motivating tool to promote perseverance.
-- *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way
+- *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way to instill grit.
 - *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of student's individual long-term goals can instill passion and drive for learning despite the difficulties of the topic.
 
 ### Becoming a lifelong learner  
 
 Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may be required by employers. Lifelong learners are capable of what Cal Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively demanding tasks".
 
-Lifelong learning arises from those who have the growth mindset. Both grit and [curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as [success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). Often, the process of learning is a difficult journey. By modeling gritty behavior and how it has helped us achieve long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in students.
+Lifelong learning arises from those who have the growth mindset. Both grit and [curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as [success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in students.
 
 Exercises  
 ## Error framing  
