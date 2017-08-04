@@ -28,22 +28,21 @@ relates to Software and Data Carpentry, and putting that theory into practice.
 
 The Carpentries aim to teach computational competence to learners. This can not be achieved solely by describing how 
 these tasks should be completed; it requires showing them how to solve specific problems with specific tools. We can 
-then proceed from that point of understanding into a larger conversation about about how researchers should develop, 
+then proceed from that point of understanding into a larger conversation about how researchers should develop, 
 use, and curate software.
 
 A critical component of this process is that learners are able to practice what they are learning in real time, get 
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having 
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible we aim to be giving 
+A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible, we aim to be giving 
 and receiving feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and 
-ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way instructors can improve the 
+ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way, instructors can adjust the 
 pace and content of a workshop on the fly to meet the needs of the learners in that group, as well as collect feedback 
 that will help us improve lesson materials or methodology for workshops yet to come. Instructors and helpers also provide
 feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about 
 the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
 people are having trouble with or where we might be able to move along more quickly. 
-
 
 ## The Acquisition of Skill
 
@@ -57,9 +56,9 @@ the three stages of this model are:
 
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions "aren't even wrong."
+    One sign that someone is a novice is that their questions "aren't even wrong".
 
-    > Example: A *novice* learner in a Carpentries workshop might not have ever heard of the bash shell, and therefore 
+    > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore 
     may have no understanding of how it relates to their file system or other programs on their computer.
 
 *   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details 
@@ -74,7 +73,7 @@ tasks with normal effort under normal circumstances.
     diagnose the causes of problems, and so on.
 
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when 
-    presented with a problem, immediately see how these skills can be used to solve the problem.
+    presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
 
@@ -113,7 +112,7 @@ One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
 In particular,
 presenting novices with a pile of facts early on is counter-productive,
-because they don't yet have a model to fit those facts into.
+because they don't yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
 the incorrect mental model they've cobbled together.
@@ -138,7 +137,7 @@ the construction of a new mental model of this new intellectual domain.
 The goal of education for novices is, therefore,
 to help them form the right categories.
 Until they've done that,
-trying to impart "mere information" just confuses them.
+trying to impart "mere information" just confuses them (and is therefore a waste of time).
 
 This is one of the reasons software documentation is so often frustrating.
 Reference material is opaque to someone who doesn't know what they're looking for,
@@ -156,7 +155,7 @@ Twelve and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history, wildcards, pipes and filters,
 command-line arguments, redirection,
-and all the other big ideas that the shell depends on,
+and all the other big ideas on which the shell depends,
 and without which people cannot understand how to use commands
 (or how to read their manual pages).
 
@@ -176,7 +175,7 @@ creating linkages between concepts and facts is as least as important.
 Telling people that they shouldn't repeat things,
 and that they should try to think in terms of little pieces loosely joined,
 both set the stage for discussing functions.
-Explicitly referring back to pipes and filters shell when introducing functions
+Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
 > ## Manuals vs Tutorials
@@ -184,7 +183,7 @@ helps solidify both ideas.
 > The cognitive differences between novices and competent practitioners underpin
 > the differences between two kinds of teaching materials.
 > A tutorial's purpose is to help newcomers to a field build a mental model;
-> a manual's role, on the other hand, is to help competent practitioners fill in the gaps in their knowledge.
+> a manual's role, on the other hand, is to help competent practitioners find answers or fill in the gaps in their knowledge.
 > Tutorials frustrate competent practitioners because they move too slowly and say things that are obvious
 > (though of course they are anything but to newcomers).
 > Equally,
@@ -267,6 +266,20 @@ their instruction to respond to challenges that learners are facing.
 
 Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
 results are easily interpretable by the learner and instructor.
+
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> Practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our 
+> instructor training program. 
+{: .callout}
 
 The most widely used is probably multiple choice questions (MCQs).
 When designed well,
@@ -433,6 +446,8 @@ and see the topic from their point of view.
 >> FIXME
 > {: .solution}
 {: .challenge}
+
+
 
 [amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
 [amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
