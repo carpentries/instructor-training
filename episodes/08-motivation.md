@@ -110,36 +110,39 @@ learners have a concrete starting point for debugging.
 > This exercise and discussion should take about 10 minutes.  
 {: .challenge}
 
-## Strategies for Motivating Learners
-
-*[How Learning Works][amazon-hlw]*
-contains this list of evidence-based methods to motivate learners.
-None of them are surprising---it's hard to imagine someone saying
-that we *shouldn't* identify and reward what we value---but
-it's useful to check lessons against these points
-to make sure they're doing at least a few of these things.
-
-* Strategies to Establish Value
-    1. Connect the material to students' interests.
-    2. Provide authentic, real-world tasks.
-    3. Show relevance to students' current academic lives.
-    4. Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5. Identify and reward what you value.
-    6. Show your own passion and enthusiasm for the discipline.
-* Strategies to Build Positive Expectations
-	1. Ensure alignment of objectives, assessments, and instructional strategies.  
-	2. Identify an appropriate level of challenge.
-	3. Create assignments that provide an appropriate level of challenge.
-	4. Provide early success opportunities.  
-	5. Articulate your expectations.
-	6. Provide rubrics.
-	7. Provide targeted feedback.
-	8. Be fair.
-	9. Educate students about the ways we explain success and failure.  
-	10. Describe effective study strategies.
-* Strategies for Self-Efficacy
-	1. Provide students with options and the ability to make choices.
-	2. Give students an opportunity to reflect.  
+> ## Strategies for Motivating Learners
+>
+> *[How Learning Works][amazon-hlw]*
+> contains this list of evidence-based methods to motivate learners.
+> None of them are surprising---it's hard to imagine someone saying
+> that we *shouldn't* identify and reward what we value---but
+> it's useful to check lessons against these points
+> to make sure they're doing at least a few of these things.
+>
+> In groups of to or three, pick a three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
+>
+> * Strategies to Establish Value
+>     1. Connect the material to students' interests.
+>     2. Provide authentic, real-world tasks.
+>     3. Show relevance to students' current academic lives.
+>     4. Demonstrate the relevance of higher-level skills to students' future professional lives.
+>     5. Identify and reward what you value.
+>     6. Show your own passion and enthusiasm for the discipline.
+> * Strategies to Build Positive Expectations
+> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
+> 	2. Identify an appropriate level of challenge.
+> 	3. Create assignments that provide an appropriate level of challenge.
+> 	4. Provide early success opportunities.
+> 	5. Articulate your expectations.
+> 	6. Provide rubrics.
+> 	7. Provide targeted feedback.
+> 	8. Be fair.
+> 	9. Educate students about the ways we explain success and failure.
+> 	10. Describe effective study strategies.
+> * Strategies for Self-Efficacy
+> 	1. Provide students with options and the ability to make choices.
+> 	2. Give students an opportunity to reflect.
+{: .challenge}
 
 > ## Provide an Example
 >
