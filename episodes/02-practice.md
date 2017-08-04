@@ -28,16 +28,16 @@ relates to Software and Data Carpentry, and putting that theory into practice.
 
 The Carpentries aim to teach computational competence to learners. This can not be achieved solely by describing how 
 these tasks should be completed; it requires showing them how to solve specific problems with specific tools. We can 
-then proceed from that point of understanding into a larger conversation about about how researchers should develop, 
+then proceed from that point of understanding into a larger conversation about how researchers should develop, 
 use, and curate software.
 
 A critical component of this process is that learners are able to practice what they are learning in real time, get 
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having 
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible we aim to be giving 
+A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible, we aim to be giving 
 and receiving feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and 
-ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way instructors can improve the 
+ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way, instructors can adjust the 
 pace and content of a workshop on the fly to meet the needs of the learners in that group, as well as collect feedback 
 that will help us improve lesson materials or methodology for workshops yet to come. Instructors and helpers also provide
 feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about 
