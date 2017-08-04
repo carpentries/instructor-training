@@ -119,7 +119,8 @@ learners have a concrete starting point for debugging.
 > it's useful to check lessons against these points
 > to make sure they're doing at least a few of these things.
 >
-> In groups of to or three, pick three of these points and describe in one sentence in the Etherpad how we can apply these strategies in our workshops.
+
+> In groups of two or three, pick a three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
 >     1. Connect the material to students' interests.
