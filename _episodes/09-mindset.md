@@ -47,7 +47,7 @@ strategies that will help you promoting a growth mindset in your learners and yo
 
 ### Praise talk  
 
-The way in which we praise learners has an important impact on their mindset development. Carol Dweck's research (FIXME: add ref)
+The way in which we praise learners has an important impact on their mindset development. Carol Dweck's research
 investigated three types of praise: performance-based, effort-based and improvement-based, and looked at how these 
 types of praise influence learner's mindsets.
 
