@@ -103,7 +103,7 @@ learners have a concrete starting point for debugging.
 > **Think** about something you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness".
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
