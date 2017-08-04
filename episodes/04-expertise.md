@@ -93,7 +93,7 @@ In fact, experts are frequently so familiar with their subject
 that they can no longer imagine what it's like to *not* see the world that way. 
 This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
 Experts are often less good at teaching a subject to novices than people with less expertise
-who still remember what it's like to have to learn the things. (FIXME add references)
+who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
