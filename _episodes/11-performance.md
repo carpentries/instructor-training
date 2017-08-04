@@ -226,7 +226,7 @@ Barker et al found something similar in 2015:
 
 > ## Feedback on Yourself
 >
-> 1.  Split into groups of three
+> 1.  Split into groups of three.
 > 2.  Have each person introduce themselves
 >     and then explain, in no more than 90 seconds,
 >     the key idea or ideas from
