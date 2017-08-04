@@ -68,7 +68,7 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Send the URL to the admins.
 > 1.  If it is online:
 >     *   Test the video conference link.
->     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
+>     *   Set up meeting with the hosts to make sure the Zoom channel works and give you a change to meet "face-to-face"
 > 1.  Check whether any attendees have special needs.
 {: .checklist}
 
@@ -495,7 +495,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 
 ### Shortly Before the Demo
 
-*   Go to the [BlueJeans room](https://bluejeans.com/890039066) or [alternate room](https://bluejeans.com/644349847) if needed. Links to 
+*   Go to the [Zoom room](https://carpentries.zoom.us/j/357144246) if needed. Links to 
     these are on the Etherpad.
 
 ### During the Demo
@@ -512,7 +512,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Hand out the assignment to the first trainee,
     give them a bit of time to set up the demo
     (they may have to import some packages, load some data, move to a certain folder etc).
-*   Ask them to share their screen using the "Share Screen" button on the right hand menu in BlueJeans.
+*   Ask them to share their screen using the "Share Screen" lower menu in Zoom.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
     or just say "bong" really loudly at the end of their tie.
