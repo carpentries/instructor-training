@@ -347,8 +347,8 @@ it with more positive and motivating word choices.
 ### Impostor Syndrome
 
 [Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
-that one's achievements are lucky flukes,
-and an accompanying fear of being "found out".
+and that one's achievements are lucky flukes.
+This is also accompanied by the fear of being "found out".
 Impostor syndrome seems to be particularly common among
 [high achievers who undertake publicly visible work][usenix-impostor-syndrome].
 
