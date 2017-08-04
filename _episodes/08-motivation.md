@@ -119,6 +119,7 @@ learners have a concrete starting point for debugging.
 > it's useful to check lessons against these points
 > to make sure they're doing at least a few of these things.
 >
+
 > In groups of two or three, pick a three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
@@ -333,22 +334,22 @@ it with more positive and motivating word choices.
 > ## Never Learn Alone
 >
 > One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
-> rather than as individuals, when possible.
+> rather than as individuals when possible.
 > If an entire lab group comes,
 > or if attendees are drawn from the same (or closely-related) disciplines,
 > everyone in the room will know in advance
 > that they will be with at least a few people they trust,
 > which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
+> Furthermore, 
+> if people attend a workshop with their labmates, it's more likely they will
+> work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
 ### Impostor Syndrome
 
 [Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
-that one's achievements are lucky flukes,
-and an accompanying fear of being "found out".
+and that one's achievements are lucky flukes.
+This is also accompanied by the fear of being "found out".
 Impostor syndrome seems to be particularly common among
 [high achievers who undertake publicly visible work][usenix-impostor-syndrome].
 
