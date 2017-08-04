@@ -212,7 +212,7 @@ in the case where a learner can't articulate their prior knowledge and beliefs.
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
 can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
-models. (FIXME add references)
+models.
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:
 
@@ -224,7 +224,7 @@ Broadly speaking, misconceptions fall into three categories:
     such as "the world is only a few thousand years old"
     or "human beings cannot be affecting the planet's climate".
     These beliefs are deeply connected to the learner's social identity
-    and are the hardest to change. (FIXME add references)
+    and are the hardest to change. 
 
 Since Software and Data Carpentry are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.

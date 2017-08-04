@@ -65,7 +65,7 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/08-memory/).
+> please revisit the discussion of [expert blind spot]({{ page.root }}/04-expertise.md#expert-blind-spots).
 {: .callout}
 
 Many of the foundational concepts of computer science,
@@ -110,36 +110,39 @@ learners have a concrete starting point for debugging.
 > This exercise and discussion should take about 10 minutes.  
 {: .challenge}
 
-## Strategies for Motivating Learners
-
-*[How Learning Works][amazon-hlw]*
-contains this list of evidence-based methods to motivate learners.
-None of them are surprising---it's hard to imagine someone saying
-that we *shouldn't* identify and reward what we value---but
-it's useful to check lessons against these points
-to make sure they're doing at least a few of these things.
-
-* Strategies to Establish Value
-    1. Connect the material to students' interests.
-    2. Provide authentic, real-world tasks.
-    3. Show relevance to students' current academic lives.
-    4. Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5. Identify and reward what you value.
-    6. Show your own passion and enthusiasm for the discipline.
-* Strategies to Build Positive Expectations
-	1. Ensure alignment of objectives, assessments, and instructional strategies.  
-	2. Identify an appropriate level of challenge.
-	3. Create assignments that provide an appropriate level of challenge.
-	4. Provide early success opportunities.  
-	5. Articulate your expectations.
-	6. Provide rubrics.
-	7. Provide targeted feedback.
-	8. Be fair.
-	9. Educate students about the ways we explain success and failure.  
-	10. Describe effective study strategies.
-* Strategies for Self-Efficacy
-	1. Provide students with options and the ability to make choices.
-	2. Give students an opportunity to reflect.  
+> ## Strategies for Motivating Learners
+>
+> *[How Learning Works][amazon-hlw]*
+> contains this list of evidence-based methods to motivate learners.
+> None of them are surprising---it's hard to imagine someone saying
+> that we *shouldn't* identify and reward what we value---but
+> it's useful to check lessons against these points
+> to make sure they're doing at least a few of these things.
+>
+> In groups of to or three, pick a three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
+>
+> * Strategies to Establish Value
+>     1. Connect the material to students' interests.
+>     2. Provide authentic, real-world tasks.
+>     3. Show relevance to students' current academic lives.
+>     4. Demonstrate the relevance of higher-level skills to students' future professional lives.
+>     5. Identify and reward what you value.
+>     6. Show your own passion and enthusiasm for the discipline.
+> * Strategies to Build Positive Expectations
+> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
+> 	2. Identify an appropriate level of challenge.
+> 	3. Create assignments that provide an appropriate level of challenge.
+> 	4. Provide early success opportunities.
+> 	5. Articulate your expectations.
+> 	6. Provide rubrics.
+> 	7. Provide targeted feedback.
+> 	8. Be fair.
+> 	9. Educate students about the ways we explain success and failure.
+> 	10. Describe effective study strategies.
+> * Strategies for Self-Efficacy
+> 	1. Provide students with options and the ability to make choices.
+> 	2. Give students an opportunity to reflect.
+{: .challenge}
 
 > ## Provide an Example
 >
@@ -169,7 +172,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ page.root }}/02-introduction/),
+> As we said in the introduction,
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.
@@ -219,8 +222,7 @@ to alienate a classroom and cause learners to tune out.
 *   Pretend to know more than you do.  People will actually trust you
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help.
-*   Use the J word ("just").
-    As [discussed earlier]({{ page.root }}/08-memory/),
+*   Use the J word ("just");
     this signals to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid

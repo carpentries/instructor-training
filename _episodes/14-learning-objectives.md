@@ -32,7 +32,7 @@ lesson design generally, and about the Software and Data Carpentry lessons in pa
 ## Writing Lessons
 
 A theme you may have noticed in our material so far is a need to start 
-"at the end".  To write a multiple-choice question, you have to start with  
+"at the end".  To write a multiple-choice question, you have to start with
 misconceptions and work backward to write a question to diagnose 
 them.  To write a faded example, you start with the full example and remove 
 pieces.  So here, the way to write a lesson is not to just sit down and 

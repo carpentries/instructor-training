@@ -21,7 +21,6 @@ permalink: /guide/
 * [Live Coding Demo Videos](#live-coding-demo-videos)
 * [Motivation and Demotivation](#motivation-and-demotivation)
 * [The Big Picture](#the-big-picture)
-* [You Are Not Your Learners](#you-are-not-your-learners)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
   * [Two\-Day In\-Person](#two-day-in-person)
@@ -68,7 +67,7 @@ for a look at how using checklists can save lives (and make many other things be
 > 1.  Send the URL to the admins.
 > 1.  If it is online:
 >     *   Test the video conference link.
->     *   Set up meeting with the hosts to make sure the bluejeans channel works and give you a change to meet "face-to-face"
+>     *   Set up meeting with the hosts to make sure the Zoom channel works and give you a change to meet "face-to-face"
 > 1.  Check whether any attendees have special needs.
 {: .checklist}
 
@@ -336,47 +335,6 @@ which wastes time and impedes the spread of good ideas.
 Changing *that* could have more impact in the long run
 than anything to do with for loops and pull requests.
 
-## You Are Not Your Learners
-
-Discussion of the practical implications of learning concepts
-brings us to our next big idea:
-people learn best when they care about the topic <em>and</em> believe they can master it.
-Neither fact is particularly surprising,
-but their practical implications have a lot of impact on what we teach,
-and the order in which we teach it.
-
-First,
-most scientists don't actually want to program.
-They want to do scientific research,
-and programming is just a tax they have to pay along the way.
-They don't care how hash tables work,
-or even that hash tables exist;
-they just want to know how to process data faster.
-We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
-
-Second,
-believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
-
-It's also why installing and configuring software is
-a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
-as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
-It isn't even the unfairness of asking students to debug things
-that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
-The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
-if they kept doing things the way they always have.
-For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
-
 > ## Software Carpentry Is Not Computer Science
 >
 > Many of the foundational concepts of computer science,
@@ -495,7 +453,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 
 ### Shortly Before the Demo
 
-*   Go to the [BlueJeans room](https://bluejeans.com/890039066) or [alternate room](https://bluejeans.com/644349847) if needed. Links to 
+*   Go to the [Zoom room](https://carpentries.zoom.us/j/357144246) if needed. Links to 
     these are on the Etherpad.
 
 ### During the Demo
@@ -512,7 +470,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Hand out the assignment to the first trainee,
     give them a bit of time to set up the demo
     (they may have to import some packages, load some data, move to a certain folder etc).
-*   Ask them to share their screen using the "Share Screen" button on the right hand menu in BlueJeans.
+*   Ask them to share their screen using the "Share Screen" lower menu in Zoom.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
     or just say "bong" really loudly at the end of their tie.
