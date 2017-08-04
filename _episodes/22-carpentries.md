@@ -50,9 +50,9 @@ aspects of Software Carpentry's operations.
 In 2013, members of the Software Carpentry community identified a need
 for training aimed at computational novices that would teach
 researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal. 
-Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), 
-a 501(c)(3) non-profit foundation based in the United States. The two organizations share many aspects of their 
+creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal.
+Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/),
+a 501(c)(3) non-profit foundation based in the United States. The two organizations share many aspects of their
 operations, long-term goals, and community structure:
 
 *   Both focus on computational skills.
@@ -156,7 +156,7 @@ Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
 >
 > In order to ensure that self-organized workshops are consistent in quality and content with centrally organized workshops, and that we
 > accurately track workshop statistics - how many times instructors have taught (get credit where credit is due!), where workshops are
-> being held and the number of learners being taught - self-organized workshops must meet certain criteria listed 
+> being held and the number of learners being taught - self-organized workshops must meet certain criteria listed
 > [on our website]({{ site.dc_site}}/self-organized-workshops/).  
 {: .quotation}
 
@@ -334,21 +334,21 @@ be discussed before changes are merged.
 
 ### Lesson Incubation
 
-Maybe this instructor training has inspired you to go home and write your 
-own fantastic lesson!  If you'd like to model it after the Software and 
-Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for 
+Maybe this instructor training has inspired you to go home and write your
+own fantastic lesson!  If you'd like to model it after the Software and
+Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for
 a template and instructions.  
 
-Writing a new lesson can be a lot of work.  While some people have written 
-new lessons on their own, other people have asked people in the community to 
-help them.  If you think there are other people who would be interested in 
-your lesson idea, you can email the Software and Data Carpentry discussion 
+Writing a new lesson can be a lot of work.  While some people have written
+new lessons on their own, other people have asked people in the community to
+help them.  If you think there are other people who would be interested in
+your lesson idea, you can email the Software and Data Carpentry discussion
 lists to find out if anyone is interested.  If so, one person will typically
-take the lead and be the lesson's director and maintainer until it's ready to 
+take the lead and be the lesson's director and maintainer until it's ready to
 be taught.  
 
 > ## Many Ways to Contribute
-> 
+>
 > We recognize that the medium of GitHub may be restrictive to those
 > who wish to contribute to our lessons.  We are always searching for
 > ways to make the process more friendly to all, whether that be
