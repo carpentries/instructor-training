@@ -21,7 +21,6 @@ permalink: /guide/
 * [Live Coding Demo Videos](#live-coding-demo-videos)
 * [Motivation and Demotivation](#motivation-and-demotivation)
 * [The Big Picture](#the-big-picture)
-* [You Are Not Your Learners](#you-are-not-your-learners)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
   * [Two\-Day In\-Person](#two-day-in-person)
@@ -335,47 +334,6 @@ Most university lecturers are still the sole creators and consumers of their les
 which wastes time and impedes the spread of good ideas.
 Changing *that* could have more impact in the long run
 than anything to do with for loops and pull requests.
-
-## You Are Not Your Learners
-
-Discussion of the practical implications of learning concepts
-brings us to our next big idea:
-people learn best when they care about the topic <em>and</em> believe they can master it.
-Neither fact is particularly surprising,
-but their practical implications have a lot of impact on what we teach,
-and the order in which we teach it.
-
-First,
-most scientists don't actually want to program.
-They want to do scientific research,
-and programming is just a tax they have to pay along the way.
-They don't care how hash tables work,
-or even that hash tables exist;
-they just want to know how to process data faster.
-We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
-
-Second,
-believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
-
-It's also why installing and configuring software is
-a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
-as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
-It isn't even the unfairness of asking students to debug things
-that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
-The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
-if they kept doing things the way they always have.
-For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
 
 > ## Software Carpentry Is Not Computer Science
 >
