@@ -379,7 +379,7 @@ Here are some examples of ways that people have contributed to the community:
 is a good example of many instructors chiming in on a topic, resulting in a
 [blog post](http://software-carpentry.org/blog/2015/10/pulling-along-those-behind.html),
 summarizing the discussion.
-  * [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89)
+  * [Discussion on a significant pull request](https://github.com/swcarpentry/r-novice-gapminder/pull/89).
 
 So being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The

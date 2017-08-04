@@ -77,7 +77,7 @@ What was worse:
 > simply had no opportunity...
 > They had, he realized, no *jugyokenkyu*.
 > Translated literally as "lesson study",
-> *jugyokenkyu* is a bucket of practices that Japanese teachers use to hone their craft,
+> *jugyokenkyu* is a set of practices that Japanese teachers use to hone their craft,
 > from observing each other at work to discussing the lesson afterward
 > to studying curriculum materials with colleagues.
 > The practice is so pervasive in Japanese schools that it is...effectively invisible.
@@ -226,7 +226,7 @@ Barker et al found something similar in 2015:
 
 > ## Feedback on Yourself
 >
-> 1.  Split into groups of three
+> 1.  Split into groups of three.
 > 2.  Have each person introduce themselves
 >     and then explain, in no more than 90 seconds,
 >     the key idea or ideas from
@@ -251,10 +251,10 @@ Barker et al found something similar in 2015:
 
 ## On Stage
 
-> ## What Are Your Tells?
+> ## Body Language
 >
 > How was the experience of being videoed/receiving feedback?  What
-> did people notice?  What are some of your "tells"? Enter your thoughts in the Etherpad.  
+> did people notice?  What are some of your "tells" (habits or movements that betray nervousness)? Enter your thoughts in the Etherpad.  
 >  
 > This discussion should take about 5 minutes.  
 {: .challenge}
@@ -335,9 +335,9 @@ it's OK to remind yourself that:
 ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
 
 Giving good feedback is at least as important as knowing how to receive and process feedback. When
-giving feedback, stay positive, be specific and give your feedback recepient a clear next step to follow that
+giving feedback, stay positive, be specific and give your feedback recipient a clear next step to follow that
 will help them improve. Remember that giving and receiving feedback is a skill that requires practice, so don't 
-be frustrated if your feedback is rejected but try to think about why the recepient might not have been comfortable
+be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.  
 
 > ## Feedback on Feedback
