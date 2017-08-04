@@ -154,9 +154,9 @@ learners have a concrete starting point for debugging.
 > "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
 > a haiku is used to to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
+> After the didactic example, I connect my bioinformatics users with domain-specific examples by showing
 > [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
+> consisting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
 > This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
 {: .callout}
 
