@@ -339,9 +339,9 @@ it with more positive and motivating word choices.
 > everyone in the room will know in advance
 > that they will be with at least a few people they trust,
 > which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
+> Furthermore, 
+> if people attend a workshop with their labmates, it's more likely they will
+> work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
 ### Impostor Syndrome
