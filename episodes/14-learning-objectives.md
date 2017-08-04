@@ -22,28 +22,138 @@ keypoints:
 ---
 
 So far, we've spent a lot of time talking about details of teaching and learning.  
-Yesterday we talked about specific teaching tools and how people learn; today 
+Yesterday we talked about specific teaching tools and how people learn; today
 we've talked about Software Carpentry and Data Carpentry teaching more specifically.  
-So to wrap up the training, we're going to go back and look a bit more at lessons - 
-the actual content that you will be preparing and teaching as a 
-Software/Data Carpentry instructor.  This will take two forms: we'll talk about 
+So to wrap up the training, we're going to go back and look a bit more at lessons -
+the actual content that you will be preparing and teaching as a
+Software/Data Carpentry instructor.  This will take two forms: we'll talk about
 lesson design generally, and about the Software and Data Carpentry lessons in particular.    
 
 ## Writing Lessons
 
-A theme you may have noticed in our material so far is a need to start 
+A theme you may have noticed in our material so far is a need to start
 "at the end".  To write a multiple-choice question, you have to start with
-misconceptions and work backward to write a question to diagnose 
-them.  To write a faded example, you start with the full example and remove 
-pieces.  So here, the way to write a lesson is not to just sit down and 
-start writing.  The most important thing 
-is to know your audience and what you want them to learn, and then to 
+misconceptions and work backward to write a question to diagnose
+them.  To write a faded example, you start with the full example and remove
+pieces.  So here, the way to write a lesson is not to just sit down and
+start writing.  The most important thing
+is to know your audience and what you want them to learn, and then to
 develop your lesson accordingly.  
+
+## Reverse Instructional Design
+
+Most people design courses as follows:
+
+1.  The chair tells you that you have to teach something you haven't thought about in ten years.
+2.  You start writing slides to explain what you know about the subject.
+3.  After two or three weeks, you make up an assignment based more or less on what you've taught so far.
+4.  You repeat step 3 several times.
+5.  You stay up 'til the wee hours to make up a final exam.
+
+There's a better way,
+and to explain it,
+we first need to explain how
+*[test-driven development][wikipedia-tdd]* (TDD)
+is used in software development.
+When programmers are using TDD,
+they don't write software and then (possibly) write tests.
+Instead,
+they write the tests first,
+then write just enough new software to make those tests pass,
+and then clean up a bit.
+
+TDD works because writing tests forces programmers to specify
+exactly what they're trying to accomplish and what "done" looks like.
+It's easy to be vague when using a human language like English or Korean;
+it's much harder to be vague in Python or R.
+
+TDD also reduces the risk of endless polishing,
+and increases the likelihood that tests will actually get written.
+(Somehow, people always seem to run out of time...)
+Finally,
+writing the tests first reduces the risk of confirmation bias:
+someone who hasn't written a program is much more likely to be objective when testing it
+than its original author.
+
+A similar "backward" method works very well for lesson design.
+As described in Wiggins and McTighe's
+*[Understanding by Design][amazon-ubd]*,
+the method proceeds through four stages:
+
+1.  Identify what is worth learning (e.g., draw concept maps).
+2.  Decide what constitutes evidence that learning has taken place
+    (i.e., create the final exam or some other summative assessment).
+3.  Design practice work to prepare learners for what they will have to do during the summative assessment.
+    These should include formative assessments to be done in class
+    and the exercises to be done out of class.
+4.  Sort those practices in order of increasing complexity
+    and then write short episodes to close the gap between what learners know and what they need to know
+    in order to do each one.
+    (An actual classroom lesson will then consist of several such episodes,
+    each building toward a quick formative assessment.)
+
+This *reverse instructional design* method helps keep teaching focused on its objectives.
+It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
+
+> ## How and Why to Fake It
+>
+> One of the most influential papers in the history of software engineering
+> was Parnas and Clements' "[A Rational Design Process: How and Why to Fake It][parnas-design]"
+> ([PDF][parnas-design-pdf]),
+> in which they pointed out that in real life we move back and forth between gathering requirements,
+> interface design,
+> programming,
+> and testing,
+> but when we write up our work
+> it's important to describe it as if we did these steps one after another
+> so that other people can retrace our steps.
+> The same is true of lesson design:
+> while we may change our mind about what we want to teach
+> based on something that occurs to us while we're writing an MCQ,
+> we want the notes we leave behind to present things in the order described above.
+{: .callout}
+
+> ## Teaching to the Test
+>
+> Is reverse instructional design "teaching to the test"?
+> I.e., does it steer teachers toward getting their students to pass an exam
+> rather than learn things?
+>
+> > ## Solution
+> > Reverse instructional design is *not* the same thing as "teaching to the test".
+> > When using RID, teachers set goals to aid in lesson design,
+> > and may never actually give the final exam that they wrote.
+> > In many school systems,
+> > on the other hand,
+> > an external authority defines assessment criteria for all learners,
+> > regardless of their individual situations,
+> > and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
+> > Green's *[Building a Better Teacher][amazon-babt]* argues that this focus on measurement
+> > is appealing to those with the power to set the tests,
+> > but is unlikely to improve outcomes unless it is coupled with
+> > support for teachers to make improvements based on test outcomes.
+> > This is often missing,
+> > because as Scott pointed out in *[Seeing Like a State][amazon-slas]*,
+> > large organizations usually value uniformity over productivity.
+> {: .solution}
+{: .callout}
+
+> ## The Minimal Manual
+>
+> Carroll et al's 1987 paper "[The Minimal Manual]({{ page.root }}/files/papers/carroll-minimal-manual-1987.pdf)"
+> outlines an approach to documentation and instruction
+> in which each lesson is one page long and describes how to accomplish one concrete task.
+> Its focus on immediate application,
+> error recognition and recovery,
+> and reference use after training
+> makes it an interesting model for Software and Data Carpentry.
+{: .callout}
 
 ### Learner Profiles
 
-The first piece - your audience, can be identified in many ways.  Frequently 
-people who are hosting a workshop have a specific audience in mind, 
+To use reverse instructional design effectively, you have to know *who* you
+are designing the lesson for. Your audience can be identified in many ways.  Frequently
+people who are hosting a workshop have a specific audience in mind,
 based on their own experience.  
 
 One "creative" way to characterize the audience for a course is to write *learner profiles*.
@@ -83,8 +193,8 @@ A learner profile for Software Carpentry might be:
 > what problems do they face,
 > and how will this training help them?
 > Be as specific as possible.  
-> Enter your learner profile into the Etherpad. 
-> 
+> Enter your learner profile into the Etherpad.
+>
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
@@ -92,27 +202,27 @@ A learner profile for Software Carpentry might be:
 
 Summative and formative assessments help instructors figure out what they're going to teach,
 but in order to communicate that to learners and other instructors,
-we should also write *learning objectives*. A 
-learning objective is a single sentence describing what a learner will be 
-able to do once they have sat through the lesson, in order to demonstrate 
-"learning."  That requires thinking critically about what exactly you want 
+we should also write *learning objectives*. A
+learning objective is a single sentence describing what a learner will be
+able to do once they have sat through the lesson, in order to demonstrate
+"learning."  That requires thinking critically about what exactly you want
 people to learn.  
 
-It's dangerously easy to come up with fuzzy learning objectives.  A 
-broad statement like "Understand git" could 
-mean many different specific goals, like: 
+It's dangerously easy to come up with fuzzy learning objectives.  A
+broad statement like "Understand git" could
+mean many different specific goals, like:
 
-* Learners can revert a change to a file using git. 
-* Learners will name three benefits of using a version control system like git. 
-* Learners will compare the collaboration features of git and dropbox. 
+* Learners can revert a change to a file using git.
+* Learners will name three benefits of using a version control system like git.
+* Learners will compare the collaboration features of git and dropbox.
 
 What we want are specific, verifiable descriptions of what learners can do to demonstrate their learning.
 Each learning objective should have *a measurable or verifiable verb* specifying what the learner will do,
 and should specify the *criteria for acceptable performance*.
 
-Writing these kinds of learning objectives may seem restrictive or limiting, but 
-will make both you and your learners happier in the long run.  You will 
-end up with clear guidelines for both your teaching and assessment, 
+Writing these kinds of learning objectives may seem restrictive or limiting, but
+will make both you and your learners happier in the long run.  You will
+end up with clear guidelines for both your teaching and assessment,
 and your learners will appreciate the clear expectations.
 
 In order to formulate good learning objectives we need to decide what kinds of learning we are aiming for.
@@ -232,7 +342,7 @@ in learning objectives written for each level.
   </tr>
 </table>
 
-This infographic helps vizualize Bloom's taxonomy and some of the verbs that correspond to the levels of learning. There are many more infographics available that describe the levels in more or less detail. 
+This infographic helps vizualize Bloom's taxonomy and some of the verbs that correspond to the levels of learning. There are many more infographics available that describe the levels in more or less detail.
 
 ![Blooms Taxonomy](../fig/bloomstaxonomy.png)
 
@@ -261,124 +371,15 @@ is a good longer discussion of these issues.
 > 3. Reword the learning objective for a different learning outcome (e.g., from application to knowledge based outcome or vice versa).
 > 4. Pair up to discuss your rewording or help each other with point 3 or 4 if necessary.
 > 5. Share the original and your re-worded learning objectives in the Etherpad.
-> 
+>
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-## Reverse Instructional Design
-
-Most people design courses as follows:
-
-1.  The chair tells you that you have to teach something you haven't thought about in ten years.
-2.  You start writing slides to explain what you know about the subject.
-3.  After two or three weeks, you make up an assignment based more or less on what you've taught so far.
-4.  You repeat step 3 several times.
-5.  You stay up 'til the wee hours to make up a final exam.
-
-There's a better way,
-and to explain it,
-we first need to explain how
-*[test-driven development][wikipedia-tdd]* (TDD)
-is used in software development.
-When programmers are using TDD,
-they don't write software and then (possibly) write tests.
-Instead,
-they write the tests first,
-then write just enough new software to make those tests pass,
-and then clean up a bit.
-
-TDD works because writing tests forces programmers to specify
-exactly what they're trying to accomplish and what "done" looks like.
-It's easy to be vague when using a human language like English or Korean;
-it's much harder to be vague in Python or R.
-
-TDD also reduces the risk of endless polishing,
-and increases the likelihood that tests will actually get written.
-(Somehow, people always seem to run out of time...)
-Finally,
-writing the tests first reduces the risk of confirmation bias:
-someone who hasn't written a program is much more likely to be objective when testing it
-than its original author.
-
-A similar "backward" method works very well for lesson design.
-As described in Wiggins and McTighe's
-*[Understanding by Design][amazon-ubd]*,
-the method proceeds through four stages:
-
-1.  Identify what is worth learning (e.g., draw concept maps).
-2.  Decide what constitutes evidence that learning has taken place
-    (i.e., create the final exam or some other summative assessment).
-3.  Design practice work to prepare learners for what they will have to do during the summative assessment.
-    These should include formative assessments to be done in class
-    and the exercises to be done out of class.
-4.  Sort those practices in order of increasing complexity
-    and then write short episodes to close the gap between what learners know and what they need to know
-    in order to do each one.
-    (An actual classroom lesson will then consist of several such episodes,
-    each building toward a quick formative assessment.)
-
-This *reverse instructional design* method helps keep teaching focused on its objectives.
-It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
-
-> ## How and Why to Fake It
->
-> One of the most influential papers in the history of software engineering
-> was Parnas and Clements' "[A Rational Design Process: How and Why to Fake It][parnas-design]"
-> ([PDF][parnas-design-pdf]),
-> in which they pointed out that in real life we move back and forth between gathering requirements,
-> interface design,
-> programming,
-> and testing,
-> but when we write up our work
-> it's important to describe it as if we did these steps one after another
-> so that other people can retrace our steps.
-> The same is true of lesson design:
-> while we may change our mind about what we want to teach
-> based on something that occurs to us while we're writing an MCQ,
-> we want the notes we leave behind to present things in the order described above.
-{: .callout}
-
-> ## Teaching to the Test
->
-> Is reverse instructional design "teaching to the test"?
-> I.e., does it steer teachers toward getting their students to pass an exam
-> rather than learn things?
->
-> > ## Solution
-> > Reverse instructional design is *not* the same thing as "teaching to the test".
-> > When using RID, teachers set goals to aid in lesson design,
-> > and may never actually give the final exam that they wrote.
-> > In many school systems,
-> > on the other hand,
-> > an external authority defines assessment criteria for all learners,
-> > regardless of their individual situations,
-> > and the outcomes of those summative assessments directly affect the teachers' pay and promotion.
-> > Green's *[Building a Better Teacher][amazon-babt]* argues that this focus on measurement
-> > is appealing to those with the power to set the tests,
-> > but is unlikely to improve outcomes unless it is coupled with
-> > support for teachers to make improvements based on test outcomes.
-> > This is often missing,
-> > because as Scott pointed out in *[Seeing Like a State][amazon-slas]*,
-> > large organizations usually value uniformity over productivity. 
-> {: .solution}
-{: .callout}
-
-> ## The Minimal Manual
->
-> Carroll et al's 1987 paper "[The Minimal Manual]({{ page.root }}/files/papers/carroll-minimal-manual-1987.pdf)"
-> outlines an approach to documentation and instruction
-> in which each lesson is one page long and describes how to accomplish one concrete task.
-> Its focus on immediate application,
-> error recognition and recovery,
-> and reference use after training
-> makes it an interesting model for Software and Data Carpentry.
-{: .callout}
-
 ## Software and Data Carpentry Lessons
 
-It would be nice to say that the Software and Data Carpentry lessons were all 
-developed using perfect reverse instructional design.  While that's not necessarily 
-true, all of the lessons are constantly being revised and edited with certain 
+It would be nice to say that the Software and Data Carpentry lessons were all
+developed using perfect reverse instructional design.  While that's not necessarily
+true, all of the lessons are constantly being revised and edited with certain
 core objectives in mind.  
 
 ### Software Carpentry
@@ -388,7 +389,7 @@ Software Carpentry's most commonly used [lessons]({{ site.swc_site }}/lessons/) 
 - [The Unix Shell]({{site.swc_pages}}/shell-novice/)
 - [Version Control with Git]({{site.swc_pages}}/git-novice/)
 - [Programming with Python]({{site.swc_pages}}/python-novice-inflammation/)
-- [Programming with R]({{site.swc_pages}}/r-novice-inflammation/) and 
+- [Programming with R]({{site.swc_pages}}/r-novice-inflammation/) and
 - [R for Reproducible Scientific Analysis]({{site.swc_pages}}/r-novice-gapminder/)
 
 Only one of the three programming lessons (Python or one of the R lessons) is used in a typical workshop.
@@ -396,7 +397,7 @@ Software Carpentry also maintains lessons on:
 
 - [Version Control with Mercurial]({{site.swc_pages}}/hg-novice/)
 - [Using Databases and SQL]({{site.swc_pages}}/sql-novice-survey/)
-- [Programming with MATLAB]({{site.swc_pages}}/matlab-novice-inflammation/) and 
+- [Programming with MATLAB]({{site.swc_pages}}/matlab-novice-inflammation/) and
 - [Automation and Make]({{site.swc_pages}}/make-novice/)
 
 but these are less frequently used.
@@ -433,11 +434,11 @@ are domain-specific and cover data organization, manipulation, and visualization
 relevant to the target domain.  Current curricula include:  
 
 *   [Ecology]({{site.dc_site}}/lessons/#ecology-workshop)
-	* Focuses on general data management skills (proper 
-	data formatting and tracking) and tools for manipulating and 
+	* Focuses on general data management skills (proper
+	data formatting and tracking) and tools for manipulating and
 	visualizing tabular data.  
-*   [Genomics]({{site.dc_site}}/lessons/#genomics-workshop) 
-	* Specialized for researchers with sequence data, includes specific 
+*   [Genomics]({{site.dc_site}}/lessons/#genomics-workshop)
+	* Specialized for researchers with sequence data, includes specific
 	bioinformatics tools and how to use large-scale computing resources.  
 *   [Geospatial Data]({{site.dc_site}}/lessons/#geospatial-data-workshop)  
 
