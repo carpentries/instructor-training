@@ -22,5 +22,5 @@ Yesterday we focused on general aspects of educational psychology and pedagogy. 
 We will look at the lessons that have been written by the Carpentries and discuss how to write new lessons effectively. We will review specific
 teaching practices we follow at our workshops and practice using some of them. One of the most important practices is live coding. You rarely
 find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with a discussion 
-about workshop logistcs that will help you plan your first workshop.  
+about workshop logistics that will help you plan your first workshop.  
 
