@@ -39,7 +39,7 @@ specifically how to remove unnecessary "load" in order to facilitate learning.
 > [This website][memory-test] implements
 > an interactive version of this exercise.
 >
-> Take 5 minutes to complete the exercise and write your answer in the etherpad.
+> Take 5 minutes to complete the exercise and write your answer in the Etherpad.
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
@@ -100,7 +100,7 @@ memory.
 
 ## Strategies For Memory Management
 
-One of our roles as instructors is to make sure that we accomodate the 
+One of our roles as instructors is to make sure that we accommodate the 
 limitations of human memory in our teaching.  Flooding learners with 10, 
 20, 30 or more concepts in one hour will simply result in cognitive overload, 
 with the result that they may only remember the first and last five minutes 
