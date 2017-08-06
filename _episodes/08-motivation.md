@@ -31,8 +31,8 @@ of practice can be welcoming (or threatening) to new members.
 Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of many factors:
 
 + *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in students. Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for students first learning.
-+ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction. The key is to avoid feedback that sounds negative or discouraging.
-+ *Encouraging students to learn from each other*. Acknowledging that the material is difficult and that they will learn more working with each other. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
++ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute. The key is to avoid feedback that sounds negative or discouraging.
++ *Encouraging students to learn from each other*. Acknowledging that some of the material can be difficult and that they will learn more working together. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
 + *Acknowledging when students are confused.* Many times, understanding why students are confused is useful feedback into the teaching process. Pinpointing the cause of their misunderstanding can be very informative to other students. Acknowledging that their misunderstanding is a valid one is key to encouraging a growth mindset.
 
 ## Motivation
@@ -100,7 +100,7 @@ learners have a concrete starting point for debugging.
 
 > ## Authentic Tasks: Think, Pair, Share
 >
-> **Think** about something you did this week that uses one or more of the skills we teach,
+> **Think** about some task you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
 > **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness".
