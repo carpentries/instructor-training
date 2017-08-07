@@ -151,7 +151,6 @@ the class.
     and do their demotivational story just before lunch on day 2:
     it means day 2 starts with *their* questions (which wakes them up),
     and the demotivational story is a good lead-in to lunchtime discussion.
-I
 *   Don't have them complete the Teaching Perspectives Inventory
     or read through the pre- or post-assessment questionnaires in class:
     it kills momentum.
