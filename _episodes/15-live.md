@@ -100,7 +100,7 @@ another.
 ## Live Coding Top 10
 
 Below follow ten tips to help you get started with effective live coding.
-After comparing and contrasting the 'done poor' and 'done right' videos, most of these will already be familiar.
+After comparing and contrasting the 'done poorly' and 'done right' videos, most of these will already be familiar.
 
 ### Be Seen and Heard
 
