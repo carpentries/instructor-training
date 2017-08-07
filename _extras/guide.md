@@ -150,7 +150,6 @@ the class.
     and do their demotivational story just before lunch on day 2:
     it means day 2 starts with *their* questions (which wakes them up),
     and the demotivational story is a good lead-in to lunchtime discussion.
-
 *   Don't have them complete the Teaching Perspectives Inventory
     or read through the pre- or post-assessment questionnaires in class:
     it kills momentum.
@@ -253,6 +252,11 @@ and that's much easier to do once they've had some practice
 and have a rubric to follow.
 
 ## Live Coding Demo Videos
+
+The lists below are the aspects the videos try to contrast.
+After the exercise where the learners compare the videos and write down do's and dont's,
+the comments usually cover almost everything from the Top 10. 
+Instead of going over this Top 10, check whether anything was missed and briefly address these points.
 
 **[Part 1][live-coding-bad]: how not to do it**
 
