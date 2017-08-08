@@ -137,7 +137,7 @@ in learning objectives written for each level.
   <tr>
     <th>Bloom's taxonomy</th>
     <th>Facets of understanding (Wiggins & McTighe)</th>
-    <th>Taxonomy of significant learning (Fisk)</th>
+    <th>Taxonomy of significant learning (Fink)</th>
     <th>Typical learning objective verbs</th>
   </tr>
   <tr>
