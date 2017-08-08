@@ -477,7 +477,7 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Ask them to share their screen using the "Share Screen" lower menu in Zoom.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
-    or just say "bong" really loudly at the end of their tie.
+    or just say "bong" really loudly at the end of their time.
 *   Use a [rubric][rubric] for notes.
 *   After the five minute timer, allow them to finish their sentence and tell them time's up.
 *   After the trainee is finished,
