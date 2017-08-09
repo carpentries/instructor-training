@@ -342,10 +342,13 @@ in learning objectives written for each level.
   </tr>
 </table>
 
-This infographic helps vizualize Bloom's taxonomy and some of the verbs that correspond to the levels of learning. There are many more infographics available that describe the levels in more or less detail.
+This infographic helps vizualize Bloom's taxonomy and some of the verbs that correspond to the levels of learning.
 
 ![Blooms Taxonomy](../fig/bloomstaxonomy.png)
 
+There are many more infographics available that describe the levels in more or less detail, 
+for example [this one](https://commons.wikimedia.org/wiki/File:Blooms_rose.svg) 
+which does not use a pyramid (as this is found by some to [be misleading](http://teachlikeachampion.com/blog/blooms-taxonomy-pyramid-problem/)).
 
 Here is an example of a successively-improved lesson objective:
 
