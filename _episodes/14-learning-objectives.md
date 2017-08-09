@@ -360,6 +360,28 @@ Baume's guide to
 [writing and using good learning outcomes]({{ page.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
+> ## Identify the Bloom's level of the these learning objectives
+>
+> In the chat window, state the corresponding level of Bloom's taxonomy for the following learning objectives:
+> 
+> * Learners will be able to name three benefits of using a version control system like git.
+> * Learners will be able to explain the difference between a database and a database > manager.
+> * Learners will be able to write conditional statements using if and elif.
+> * Learners will be able to compare the collaboration features of git and dropbox.
+>
+> This exercise should take about 3 minutes.  
+{: .challenge}
+
+> ## Write your own learning objective 
+> 
+> In the shared notetaking document: 
+>
+> * Write two learning objectives for the lesson you live coded this morning 
+> * State the Bloom's level corresponding 
+>
+> This exercise could take about 5 minutes to complete and 5 minutes to discuss.  
+{: .challenge}
+
 > ## Evaluate SWC and DC Learning Objectives
 >
 > Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.

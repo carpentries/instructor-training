@@ -183,11 +183,10 @@ learners have a concrete starting point for debugging.
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something
-> unique to our community.  Read
-> the [testimonials]({{ page.root }}/testimonials/) from other instructors,
-> to see what motivates them to teach.  After this class, or during a break,
-> write a short explanation of what motivates you to teach. Save this as part of
-> your teaching philosophy for future reference.  
+> unique to our community.  
+> 
+> What motivates you to teach? write a short explanation of what motivates you to teach. 
+> Save this as part of your teaching philosophy for future reference.  
 >
 > This exercise should take about 5 minutes.  
 {: .challenge}
