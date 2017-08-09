@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: Workshop Introductions"
 teaching: 45
-exercises: 45
+exercises: 25
 questions:
 - "How do you actually start a workshop?"
 objectives:
