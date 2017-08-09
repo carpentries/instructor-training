@@ -31,8 +31,8 @@ of practice can be welcoming (or threatening) to new members.
 Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of many factors:
 
 + *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in students. Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for students first learning.
-+ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction. The key is to avoid feedback that sounds negative or discouraging.
-+ *Encouraging students to learn from each other*. Acknowledging that the material is difficult and that they will learn more working with each other. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
++ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute. The key is to avoid feedback that sounds negative or discouraging.
++ *Encouraging students to learn from each other*. Acknowledging that some of the material can be difficult and that they will learn more working together. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
 + *Acknowledging when students are confused.* Many times, understanding why students are confused is useful feedback into the teaching process. Pinpointing the cause of their misunderstanding can be very informative to other students. Acknowledging that their misunderstanding is a valid one is key to encouraging a growth mindset.
 
 ## Motivation
@@ -100,10 +100,10 @@ learners have a concrete starting point for debugging.
 
 > ## Authentic Tasks: Think, Pair, Share
 >
-> **Think** about something you did this week that uses one or more of the skills we teach,
+> **Think** about some task you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness".
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
@@ -119,7 +119,8 @@ learners have a concrete starting point for debugging.
 > it's useful to check lessons against these points
 > to make sure they're doing at least a few of these things.
 >
-> In groups of to or three, pick a three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
+
+> In groups of two or three, pick three of these points and describe in one sentence in the Etherpad how can we apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
 >     1. Connect the material to students' interests.
@@ -153,9 +154,9 @@ learners have a concrete starting point for debugging.
 > "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
 > a haiku is used to to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
+> After the didactic example, I connect my bioinformatics users with domain-specific examples by showing
 > [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
+> consisting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
 > This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
 {: .callout}
 
@@ -182,11 +183,10 @@ learners have a concrete starting point for debugging.
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something
-> unique to our community.  Read
-> the [testimonials]({{ page.root }}/testimonials/) from other instructors,
-> to see what motivates them to teach.  After this class, or during a break,
-> write a short explanation of what motivates you to teach. Save this as part of
-> your teaching philosophy for future reference.  
+> unique to our community.  
+> 
+> What motivates you to teach? write a short explanation of what motivates you to teach. 
+> Save this as part of your teaching philosophy for future reference.  
 >
 > This exercise should take about 5 minutes.  
 {: .challenge}
@@ -333,22 +333,22 @@ it with more positive and motivating word choices.
 > ## Never Learn Alone
 >
 > One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
-> rather than as individuals, when possible.
+> rather than as individuals when possible.
 > If an entire lab group comes,
 > or if attendees are drawn from the same (or closely-related) disciplines,
 > everyone in the room will know in advance
 > that they will be with at least a few people they trust,
 > which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
+> Furthermore, 
+> if people attend a workshop with their labmates, it's more likely they will
+> work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
 ### Impostor Syndrome
 
 [Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
-that one's achievements are lucky flukes,
-and an accompanying fear of being "found out".
+and that one's achievements are lucky flukes.
+This is also accompanied by the fear of being "found out".
 Impostor syndrome seems to be particularly common among
 [high achievers who undertake publicly visible work][usenix-impostor-syndrome].
 

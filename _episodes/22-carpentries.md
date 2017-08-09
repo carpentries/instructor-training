@@ -23,9 +23,6 @@ and on the final steps toward certification.
 >
 > This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
 > (which is [assigned as overnight homework]({{ page.root }}/12-summarize/)).
-> Instead of going through this material point by point,
-> trainers should ask each trainee to add one non-overlapping question to a list,
-> then go through that list.
 {: .callout}
 
 ## History
@@ -37,22 +34,23 @@ two-day workshops with a standard curriculum emerged in 2010-11.
 After intermediate support from various organizations, it became an
 independent organization called the [Software Carpentry
 Foundation]({{ site.swc_site }}/scf/) (SCF) in 2015.  The SCF is now responsible for all
-aspects of Software Carpentry's operations.
+aspects of Software Carpentry's operations. For more on Software Carpentry's history,
+and on what we've learned along the way,
+see [this page]({{ site.swc_site }}/scf/history/) on its website
+or the paper "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)".
 
-> ## History Lesson
->
-> For more on Software Carpentry's history,
-> and on what we've learned along the way,
-> see [this page]({{ site.swc_site }}/scf/history/) on its website
-> or the paper "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)".
-{: .callout}
+[Data Carpentry]({{ site.dc_site }}) was founded in 2013 
+under the leadership of Tracy Teal. Data Carpentry trains researchers 
+in the core data skills for efficient, shareable, and reproducible research 
+practices. Data Carpentry run accessible, inclusive training workshops; 
+teach openly available, high-quality, domain-tailored lessons; and foster 
+an active, inclusive, diverse instructor community that promotes and models 
+reproducible research as a community norm. For more information, 
+visit [the Data Carpentry website](http://www.datacarpentry.org/about/) or 
+read this paper "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135).
 
-In 2013, members of the Software Carpentry community identified a need
-for training aimed at computational novices that would teach
-researchers how to properly handle their data.  This led to the
-creation of [Data Carpentry]({{ site.dc_site }}) under the leadership of Tracy Teal. 
-Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/), 
-a 501(c)(3) non-profit foundation based in the United States. The two organizations share many aspects of their 
+Software and Data Carpentry are both fiscally sponsored projects of [NumFOCUS](https://www.numfocus.org/),
+a 501(c)(3) non-profit foundation based in the United States. The two organizations share many aspects of their
 operations, long-term goals, and community structure:
 
 *   Both focus on computational skills.
@@ -63,7 +61,8 @@ However, they differ in their content and intended audience.
 Data Carpentry workshops focus on best practices surrounding data.
 Its learners are not people who want to learn about coding,
 but rather those who have a lot of data and don't know what to do with it.
-Accordingly, Data Carpentry workshops:
+
+Data Carpentry workshops:
 
 *   are aimed at pure novices,
 *   domain-specific, and
@@ -95,100 +94,20 @@ Questions, corrections, and additions are *very* welcome.
 > What situations might come up that these *don't* answer?
 {: .challenge}
 
-### What Costs What?
+If you would like to host a Software Carpentry workshop at 
+your institution, [visit this website for more information](https://software-carpentry.org/workshops/request/). 
 
-Quoting the [Software Carpentry workshop request page]({{ site.swc_site}}/workshops/request/):
+If you would like to host a Data Carpentry workshop at your 
+institution, [visit this website for more information](http://www.datacarpentry.org/workshops-host/).
 
-> Our instructors are volunteers,
-> and so are not paid for their teaching,
-> but **host sites are required to cover travel and accommodation costs for any instructors visiting from out of town**.
-> The Software Carpentry Foundation offers three fee schedules for workshops:
->
-> **Self-Organized Workshops: Optional Donation**
->
-> Software Carpentry welcomes you to organize and run your own workshop
-> without administrative assistance from the Software Carpentry Foundation by optional donation.
-> In order to use the Software Carpentry name and logo at your event,
-> we only require that you follow our curriculum,
-> have at least one badged instructor teaching and co-organizing your event,
-> and let us know that you're organizing a workshop.
-> In order to help Software Carpentry continue operating and offering workshops around the world,
-> we ask for (but do not require) a donation, and recommend $500 USD as a suitable amount.
->
-> **Nonprofit Organization: $2500**
->
-> If you are a not-for-profit, such as a university or government lab,
-> the Software Carpentry Foundation will organize a workshop for you
-> (not including instructor travel and accommodation costs) for $2500 USD.
->
-> **For-Profit Institution: $10000**
->
-> If you are a for-profit institution, such as a company,
-> the Software Carpentry Foundation will organize a workshop for you
-> (not including instructor travel and accommodation costs) for $10,000 USD
-> of which three quarters is used to underwrite workshops at institutions that could otherwise not afford them.
->
-> We strive to be a global project and support diversity in science.
-> If you wish to offer a workshop that would further these goals,
-> please contact us regarding a waiver for the administration fee at the nonprofit and for-profit scales.
-> Waivers are not required for self-organized workshops.
-{: .quotation}
-
-Quoting the [Data Carpentry workshops page]({{ site.dc_site}}/workshops-host/):
-
-> The cost of hosting a workshop is both the Workshop Administration Fee and travel expenses for the two instructors.
->
-> **Workshop Administration Fee: $2500 US**
->
-> This is the fee is for non-profit organizations, such as universities and government labs.
-> If you are a for-profit organization, such as a company, and are interested in a workshop, please get in touch.
->
-> Partial or full waivers for fees will be considered on an as-needed basis.
->
-> **Travel Expenses for Instructors: ~$2000 US**
->
-> All instructors are volunteers, but the Host needs to cover their travel expenses.
-> We work to find local instructors,
-> but suggest that you estimate about $2000 for the travel, food and accommodation of the instructors.
-> The details of how you will reimburse the instructors needs to be established when the workshop is scheduled.
->
-> **Self-Organized Workshops: $500/workshop or $25/participant**  
->
-> In order to ensure that self-organized workshops are consistent in quality and content with centrally organized workshops, and that we
-> accurately track workshop statistics - how many times instructors have taught (get credit where credit is due!), where workshops are
-> being held and the number of learners being taught - self-organized workshops must meet certain criteria listed 
-> [on our website]({{ site.dc_site}}/self-organized-workshops/).  
-{: .quotation}
-
-> ## Travel Costs for No-Shows
->
-> The Carpentries are usually not involved in travel arrangements for workshops. Instead, once instructors have been selected, they
-> negotiate travel and accommodation with the workshop's host, and are then reimbursed directly by the host. In order to consistently
-> provide high-quality workshops, however, the Carpentries must ensure that instructors fulfill their commitments. In particular, it must
-> do what it can to ensure that instructors show up for workshops they have agreed to teach, so that hosts have the appropriate number of
-> instructors and do not incur unnecessary expenses.  
-
-> Instructors who find that they will not be able to meet an agreed upon teaching engagement are required to notify the [Carpentry workshop
-> coordinator](mailto:admin@software-carpentry.org) as soon as possible. If travel arrangement have not been made, and the workshop is at least 6 weeks away, instructors may
-> cancel with no questions asked. If non-refundable travel has been booked or it is less than 6 weeks from the workshop, instructors should
-> clearly communicate the reason for missing their teaching engagement. The workshop coordinator will then handle communication with the
-> host and attempt to find an alternate instructor if possible.  
-> Depending on their reason for missing their agreed upon teaching engagement, instructors may be required to reimburse any non-refundable
-> travel or accommodation costs that the host may already have incurred on their behalf. The Carpentries may waive this requirement in
-> special circumstances outlined below, based on the judgement of the Carpentry Policy Subcommittee.  
-
-> In some cases, the Carpentries will waive the requirement for the instructor to reimburse the host, and the Carpentries will reimburse
-> the host for any expenses incurred. Circumstances in which the Carpentries will reimburse the host for any expenses incurred for missed
-> workshops include, but are not limited to: illness, injury, family or work related emergencies, weather or transportation malfunction.
-> Instructors may be required to provide appropriate documentation to the Policy Subcommittee. If an instructor is required to reimburse
-> costs, but refuses to do so, or an instructor fails to provide adequate notice of withdrawal more than once, the Carpentries reserve the
-> right to suspend their Carpentry instructor status.  
-> From the [Carpentry Policies repo](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md)
-{: .quotation}  
+Policies related to instructor training and workshops for both Software Carpentry and 
+Data Carpentry can be found [here](https://github.com/carpentries/policies). Two documents 
+of use are the **[code of conduct](https://github.com/carpentries/policies/blob/master/code-of-conduct.md)**, 
+and the **[instructor no show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md)**
 
 ### Materials
 
-All of Software and Data Carpentry's lessons materials are freely available
+All of Software Carpentry and Data Carpentry's lessons materials are freely available
 under a permissive [open license]({{ page.root }}/license/).
 You may use them whenever and however you want,
 provided you cite the original source.
@@ -334,21 +253,21 @@ be discussed before changes are merged.
 
 ### Lesson Incubation
 
-Maybe this instructor training has inspired you to go home and write your 
-own fantastic lesson!  If you'd like to model it after the Software and 
-Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for 
+Maybe this instructor training has inspired you to go home and write your
+own fantastic lesson!  If you'd like to model it after the Software and
+Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for
 a template and instructions.  
 
-Writing a new lesson can be a lot of work.  While some people have written 
-new lessons on their own, other people have asked people in the community to 
-help them.  If you think there are other people who would be interested in 
-your lesson idea, you can email the Software and Data Carpentry discussion 
+Writing a new lesson can be a lot of work.  While some people have written
+new lessons on their own, other people have asked people in the community to
+help them.  If you think there are other people who would be interested in
+your lesson idea, you can email the Software and Data Carpentry discussion
 lists to find out if anyone is interested.  If so, one person will typically
-take the lead and be the lesson's director and maintainer until it's ready to 
+take the lead and be the lesson's director and maintainer until it's ready to
 be taught.  
 
 > ## Many Ways to Contribute
-> 
+>
 > We recognize that the medium of GitHub may be restrictive to those
 > who wish to contribute to our lessons.  We are always searching for
 > ways to make the process more friendly to all, whether that be
@@ -397,3 +316,9 @@ The Steering Committee has final say on all strategic and financial decisions;
 if you would like Software Carpentry to take a new direction,
 or would like to do more than teach or develop lessons,
 you are very welcome to put your name forward as a candidate.
+
+Data Carpentry is governed by a volunteer Steering Committee and run by its Staff. 
+The Steering Committee provides strategic vision and oversight of Data Carpentry.
+Staff and Steering Committee members are committed to ensuring that activities are 
+welcoming and inclusive, and the organization and all its events and communications 
+adhere to a Code of Conduct.

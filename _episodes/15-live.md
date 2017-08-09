@@ -99,7 +99,8 @@ another.
 
 ## Live Coding Top 10
 
-Below follow ten tips to help you get started with effective live coding:
+Below follow ten tips to help you get started with effective live coding.
+After comparing and contrasting the 'done poorly' and 'done right' videos, most of these will already be familiar.
 
 ### Be Seen and Heard
 
@@ -260,12 +261,18 @@ you are unsure of the effect you behaviour has on the workshop.
 
 > ## See Then Do
 >
-> Teach 3-4 minutes of your chosen lesson episode using live coding to a
-> fellow trainee, then swap and watch while that person live codes for
+> Teach 3-4 minutes of your chosen lesson episode using live coding to one or more
+> fellow trainees, then swap and watch while the other person(s) live codes for
 > you. Don't record the live coding sessions. Give each other feedback
-> using the two x two rubric we discussed previously and enter your feedback in the Etherpad. 
-> Explain in advance to your fellow trainee what you will be teaching
+> using the two x two rubric we discussed previously and enter the feedback 
+> you recieved in the Etherpad. 
+> Explain in advance to your fellow trainee(s) what you will be teaching
 > and what the learners you teach it to are expected to be familiar with.
+> Note that this exercise is meant to give you the experience of
+> going through a piece of a lesson using the live coding approach, 
+> as you would do during a workshop,
+> but that the lack of learners watching you type and 
+> trying to follow along makes it less authentic.
 > 
 > This exercise should take about 20 minutes.  
 {: .challenge}
