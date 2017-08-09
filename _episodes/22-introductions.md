@@ -275,7 +275,7 @@ accessibility, etc.
 > 1. Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
 > 2. Rehearsing your introduction in your mind. (3 minutes)
 > 3. Return to your groups of 2 or 3 and give 90 second introductions. (5 min)
-> 4. (Optional) Offer each other feedback about the content and delivery. (6 min)
+> 4. Discuss what you liked about each other's introductions. (6 min: optional, if there is time.)
 >
 > This exercise will take 8 minutes or 14 minutes depending on whether time is included for feedback or not.  
 {: .challenge}
