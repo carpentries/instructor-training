@@ -12,6 +12,7 @@ objectives:
 - "Understand that the Carpentries are communities of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."  
 keypoints:
 - "Software and Data Carpentry are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
+- "This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust."
 - "This workshop will cover general teaching pedagogy and how it applies specifically to Software and Data Carpentry."
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
@@ -20,7 +21,7 @@ keypoints:
 
 To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
 to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry 
-and Data Carpentry including, but not limited to, workshops, email lists, online forums and on GitHub. Please review 
+and Data Carpentry including, but not limited to workshops, email lists, online forums and on GitHub. Please review 
 [the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it. 
 
 ## Introductions
@@ -52,7 +53,7 @@ instructor training.  We're very pleased to have you with us.
 {: .challenge}
 
 Most of you are probably here because you have attended or helped at
-a Software or Data Carpentry workshops.  To make sure everyone has the
+a Software or Data Carpentry workshop.  To make sure everyone has the
 same context, we'll give a brief overview of the Software and Data
 Carpentry organizations.
 
@@ -62,11 +63,12 @@ Software and Data Carpentry are
 both communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on how researchers can be effective
-computationally and developing software; Data Carpentry focuses on how
+computationally and in developing software; Data Carpentry focuses on how
 researchers can effectively manage their data.
 The main goal of these organizations is not to teach specific skills, per se - although those
 are covered - but instead, to convey best practices that will enable
 researchers to be more productive and do better research.
+
 
 ## Instructor Training Workshop Overview
 
@@ -91,11 +93,11 @@ findings and demonstrating how they can be used to help people learn better and 
 
 One aspect of this course's design is its relationship to teaching
 as a performance art.  Just as musicians learn theory, practice techniques,
- and perform for each other, we're going to be looking at some learning
- theory (also known as educational psychology) and why it matters to us
- as Software and Data Carpentry instructors, create exercises and learning
- materials, and practice our teaching.  You can expect a lot of
-hands-on work and discussion.  We'll be using the the Etherpad to collect
+and perform for each other, we're going to be looking at some learning
+theory (also known as educational psychology) and why it matters to us
+as Software and Data Carpentry instructors, create exercises and learning
+materials, and practice our teaching.  You can expect a lot of
+hands-on work and discussion.  We'll be using the Etherpad to collect
 answers and help facilitate discussion - if you ever have any questions,
 feel free to put them into the notes or chat box of the Etherpad and we'll
 make sure we get to them by the end of the day.
@@ -141,7 +143,7 @@ motivate the activities and how you communicate with the attendees.
 > 2.  I have not had any teaching experience in the past.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
-> 5.  I have taught at the K-12 level.
+> 5.  I have taught at the primary or secondary school level.
 > 6.  I have taught informally through programs such as STEM outreach, hackathons, laboratory demonstrations, and similar activities.
 >
 > *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
