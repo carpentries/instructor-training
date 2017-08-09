@@ -3,43 +3,38 @@ title: "How Learning Works: The Importance of Practice"
 teaching: 20
 exercises: 45
 questions:
+- "How do people learn?"
 - "Who is a typical Carpentry learner?"
-- "What is expertise and how are novices, experts and competent practitioners different?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Explain why practice and feedback are important for learning."
-- "Use formative assessment to diagnose misconceptions and guide your teaching."
+- "Use formative assessments to guide your teaching."
 keypoints:
-- "Novices: don't know what they don't know."
-- "Competent practitioners: have a usable mental model that's good enough for everyday purposes."
-- "Expert: can solve novel problems."
 - "Our goal when teaching novices is to help them construct useful mental models."
-- "To do this, must correct misconceptions."
-- "Summative assessment: done at the end of teaching to determine whether learning took place."
-- "Formative assessment: done during teaching to guide teaching and learning."
-- "Formative assessment = guided practice."
-- "Multiple choice questions (MCQs) are a useful type of formative assessment for diagnosing misconceptions."
+- "This requires practice and feedback."
+- "Formative assessments provide practice for learners and feedback to learners and instructors."
 ---
 
-We'll now get started with our first round of learning some theory, how it
-relates to Software and Data Carpentry, and putting that theory into practice.
+We'll now get started with a discussion of how learning works. We'll learn
+some key findings from educational research and identify how these principles
+are put into practice in Carpentry workshops.
 
-## Carpentries Pedagogical Model
 
-The Carpentries aim to teach computational competence to learners. This can not be achieved solely by describing how 
-these tasks should be completed; it requires showing them how to solve specific problems with specific tools. We can 
-then proceed from that point of understanding into a larger conversation about how researchers should develop, 
-use, and curate software.
+## The Carpentries Pedagogical Model
+
+The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general 
+in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on
+practice, we develop learners' confidence and lay the foundation for future learning. 
 
 A critical component of this process is that learners are able to practice what they are learning in real time, get 
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having 
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-A Carpentries workshop is an interactive event -- for learners and instructors. As much as possible, we aim to be giving 
-and receiving feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and 
+A Carpentries workshop is an interactive event -- for learners and instructors. We give and 
+receive feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and 
 ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way, instructors can adjust the 
-pace and content of a workshop on the fly to meet the needs of the learners in that group, as well as collect feedback 
-that will help us improve lesson materials or methodology for workshops yet to come. Instructors and helpers also provide
+pace and content of a workshop to meet the needs of the learners in that group, as well as collect feedback 
+that will help us improve lesson materials or methodology for future workshops. Instructors and helpers also provide
 feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about 
 the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
 people are having trouble with or where we might be able to move along more quickly. 
@@ -75,19 +70,17 @@ tasks with normal effort under normal circumstances.
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when 
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-We will discuss expertise in more detail in [a later lesson]({{ page.root }}/04-expertise/).
-
 ## Cognitive Development and Mental Models
 
-Effective learning is facilitated by the creation of a mental model of the domain,
-but what exactly do we mean by a mental model?
-One example is the ball-and-spring model of molecules that most of us encountered in high school chemistry.
-Atoms aren't actually balls,
-and their bonds aren't actually springs,
-but the model does a good job of helping people reason about chemical compounds and their reactions.
+Effective learning is facilitated by the creation of a mental model. A mental model is a collection of concepts and facts, 
+along with the relationships between those concepts, which a person has about a topic. For example, a long-time resident of the United
+States may have an advanced understanding of the location of US states, major cities and landmarks, weather patterns, regional
+economies and demographic patterns, as well as the relationships among these, compared with their understanding of these relationships
+for other countries. In other words, their mental model of the United States is more complex compared with their mental model of other
+countries.
 
-We can also distinguish between a *novice* and a *competent
-practitioner* based on the existence of this big picture mental model.
+We can distinguish between a *novice* and a *competent
+practitioner* for a given domain based on the complexity of their mental model.
 
 *     A *novice* is someone who has not yet built a mental model of the domain.
 They therefore reason by analogy and guesswork,
@@ -95,15 +88,15 @@ borrowing bits and pieces of their mental models of other domains
 which seem superficially similar.
 *     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model 
 does not have to be completely accurate in order to be useful:
-for example,
-the average driver's mental model of how a car works probably doesn't include
+for example, the average driver's mental model of how a car works probably doesn't include
 most of the complexities that a mechanical engineer would be concerned with.
 
+We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/04-expertise/).
 
 > ## Your Mental Models
 >
-> In the Etherpad, write your primary research domain or area of expertise and one mental model you use to frame
-> and understand your work.  
+> In the Etherpad, write your primary research domain or area of expertise and some aspects of the mental model you use to frame
+> and understand your work. What concepts/facts are included? What types of relationships are included?
 >  
 > This discussion should take about 5 minutes.
 {: .challenge}
@@ -123,41 +116,30 @@ Thus, our
 primary goal is *not*
 to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a
 particular domain, but *to help them construct a working mental model*
-so that they have something to attach facts to. In other words, to teach people how to think about programming and data 
-management
-(and about using computers in research more generally).
+so that they have something to attach facts to. In other words, our goal is to teach people how to think about programming and data 
+management (and about using computers in research more generally).
 
-### Why We Go Slowly
+### The Importance of Going Slowly
 
-The transition from novice to competent practitioner is no more
-and no less than
-the construction of correct (enough) categories,
-i.e.,
+> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. 
+> — Kunal Marwaha, SWC instructor
+{: .quotation}
+
+The transition from novice to competent practitioner is primarily
 the construction of a new mental model of this new intellectual domain.
 The goal of education for novices is, therefore,
-to help them form the right categories.
-Until they've done that,
-trying to impart "mere information" just confuses them (and is therefore a waste of time).
-
-This is one of the reasons software documentation is so often frustrating.
-Reference material is opaque to someone who doesn't know what they're looking for,
-such as a novice who doesn't yet have a mental map of the domain.
-On the other hand,
-tutorials meant to help people build such a map
-are too slow and too diffuse for people who already have one.
-It is possible to craft something that serves both communities,
-but it's often simpler to address their needs separately.
+to help them form the right categories and make connections among concepts.
+Until they've done that, trying to impart "mere information" just confuses them (and is therefore a waste of time).
 
 As an example of this idea's practical implications,
-our [lesson on the Unix shell][swc-shell-novice] only introduces 12 commands,
+our [lesson on the Unix shell][swc-shell-novice] only introduces 16 commands,
 and we usually spend two and a half hours working through it.
-Twelve and a half minutes per command may seem glacially slow,
+Eleven minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history, wildcards, pipes and filters,
 command-line arguments, redirection,
 and all the other big ideas on which the shell depends,
-and without which people cannot understand how to use commands
-(or how to read their manual pages).
+and without which people cannot understand how to use commands.
 
 That model also includes things like:
 
@@ -165,7 +147,7 @@ That model also includes things like:
     (so let the computer repeat things for you by using tab completion
     and the `history` command).
 *   Lots of little tools, combined as needed, are more productive than
-    a handful of "kitchen sink" programs.
+    a handful of programs.
     (This motivates the pipe-and-filter model.)
 
 These two examples illustrate something else as well.
@@ -178,33 +160,7 @@ both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
-> ## Manuals vs Tutorials
->
-> The cognitive differences between novices and competent practitioners underpin
-> the differences between two kinds of teaching materials.
-> A tutorial's purpose is to help newcomers to a field build a mental model;
-> a manual's role, on the other hand, is to help competent practitioners find answers or fill in the gaps in their knowledge.
-> Tutorials frustrate competent practitioners because they move too slowly and say things that are obvious
-> (though of course they are anything but to newcomers).
-> Equally,
-> manuals frustrate novices because they use jargon and *don't* explain things.
-> One of the reasons Unix and C became popular is that
-> Kernighan et al's books
-> *[The C Programming Language][amazon-kr-c]*,
-> and
-> *[The Unix Programming Environment][amazon-upe]*
-> somehow managed to be good tutorials *and* good manuals at the same time.
-> Ray and Ray's *[Unix and Linux: Visual Quickstart Guide][amazon-unix-vsg]*
-> and Fehily's *[SQL: Visual Quickstart Guide][amazon-sql-vsg]*
-> are among the few other books in computing to have accomplished this.
-{: .callout}
-
-## Building Useful Mental Models
-
-> It ain't what you don't know that gets you into trouble.
-> It's what you know for sure that just ain't so.  
-> — Mark Twain
-{: .quotation}
+## How `Knowledge` Gets in the Way
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
 with some amount of information, ideas and opinions about the topic. This is true even
@@ -222,7 +178,7 @@ Broadly speaking, misconceptions fall into three categories:
     We can address these by having them reason through examples to see contradictions.
 *   *Fundamental beliefs*,
     such as "the world is only a few thousand years old"
-    or "human beings cannot be affecting the planet's climate".
+    or "human beings cannot affect the planet's climate".
     These beliefs are deeply connected to the learner's social identity
     and are the hardest to change. 
 
@@ -230,7 +186,7 @@ Since Software and Data Carpentry are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
-## Assessing Mental Models
+## Identifying and Correcting Misconceptions
 
 How do we expose misconceptions, especially as they pertain to broken models? How
 can we, in-class, know whether the learners already understand this topic
@@ -240,25 +196,22 @@ what misconceptions and gaps in their knowledge we should address.
 
 To be effective, instructors need feedback on their learners' progress,
 and insight into their learners' mental models.
-This is usually done through two kinds of assessment:
+This feedback comes through formative assessments.
 
-*   *Summative assessment* is used
-    to tell whether the desired learning took place
-    and whether the learner is ready to move on.
-    Learners either "pass" or "fail" a summative assessment.
-    One example is a driving exam,
-    which tells the rest of society whether someone can safely be allowed on the road.
 *   *Formative assessment* takes place during teaching and learning.
-    Its main purpose is to guide by telling both the instructor and the learner what to focus on.
+    Its main purpose is to provide guidance to the instructor and the learner about what to focus on.
     Learners don't "pass" or "fail" formative assessments.
     For example,
     a music teacher might ask a student to play a scale very slowly
     in order to see whether she is breathing correctly,
     and if she is not,
     what she should change.
-    Its second purpose is to prepare learners for summative assessments:
-    no one should ever encounter a question on an exam
-    for which the teaching did not prepare them.
+*   In contrast, *summative assessment* is used
+    to judge whether a learner has reached an acceptable level of competence. 
+    Learners either "pass" or "fail" a summative assessment.
+    One example is a driving exam,
+    which tells the rest of society whether someone can safely be allowed on the road. Most assessment done in university
+    courses is summative, and is used to assign course grades.
 
 Formative assessments provide feedback to both instructors and learners about learners' level of understanding of the
 material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
@@ -281,7 +234,10 @@ results are easily interpretable by the learner and instructor.
 > instructor training program. 
 {: .callout}
 
-The most widely used is probably multiple choice questions (MCQs).
+## Formative Assessments Come in Many Forms
+
+There are many types of formative assessment, and each have their advantages and disadvantages. The most widely used is probably
+multiple choice questions (MCQs).
 When designed well,
 these can do much more than just measure how much someone knows.
 For example,
@@ -326,6 +282,10 @@ and (b) learners actually don't find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what concepts learners are having difficulty with.  
 
+Formative assessments are most powerful when an instructor modifies their instruction depending on the
+results of the assessment. An instructor may learn they need to change their pace or review a particular concept. 
+Knowing how to respond to the results of a formative assessment is a skill that you will develop over time.
+
 > ## Handling Outcomes
 >
 > Formative assessments allow us as instructors to adapt our instruction to our audience.
@@ -349,62 +309,6 @@ what concepts learners are having difficulty with.
 >> idea to go back to a point where everyone was on the same page.
 > {: .solution}
 {: .challenge}
-
-
-Instructors should use MCQs
-or some other kind of formative assessment
-at least every 10-15 minutes
-in order to make sure that the class is actually learning.
-Since the average attention span is usually only this long,
-formative assessments also help break up instructional time
-and re-focus attention.
-Formative assessments can also be used preemptively:
-if you start a class with an MCQ and everyone can answer it correctly,
-then you can safely skip the part of the lecture
-in which you were going to explain something that your learners already know.
-(Doing this also helps show learners that the instructor cares about how much they are learning.)
-
-> ## Peer Instruction
->
-> No matter how good a teacher is,
-> she can only say one thing at a time.
-> How then can she clear up many different misconceptions
-> in a reasonable time?
->
-> The best solution developed so far is a technique called
-> *[peer instruction][wikipedia-peer-instruction]*.
-> Originally created by Eric Mazur at Harvard,
-> it has been studied extensively in a wide variety of contexts, including programming.
-> Peer instruction combines formative assessment with student discussion and looks
-> something like this:
->
-> 1.  Give a brief introduction to the topic.
-> 2.  Give students an MCQ that probes for misconceptions
->     (rather than simple factual knowledge).
-> 3.  Have all the students vote on their answers to the MCQ.
->     1.  If the students all have the right answer, move on.
->     2.  If they all have the same wrong answer,
->         address that specific misconception.
->     3.  If they have a mix of right and wrong answers,
->         give them several minutes to discuss those answers with one another
->         in small groups (typically 2-4 students)
->        and then reconvene and vote again.
->
-> As [this video][peer-instruction-video] shows,
-> group discussion significantly improves students' understanding
-> because it forces them to clarify their thinking,
-> which can be enough to call out gaps in reasoning.
-> Re-polling the class then lets the instructor know if they can move on,
-> or if further explanation is necessary.
-> A final round of additional explanation and discussion after the correct answer is presented
-> gives students one more chance to solidify their understanding.
->
-> Peer instruction is essentially a way to provide one-to-one mentorship in a scalable way.
-> Despite this,
-> we usually do not use it in our workshops because
-> it takes people time to learn a new way to learn---time
-> that we don't have in our compressed two-day format.
-{: .callout}
 
 > ## Modeling Novice Mental Models
 >
@@ -435,26 +339,36 @@ and how they might be broken---in short,
 to put themselves into the learners' heads
 and see the topic from their point of view.
 
-> ## Other Kinds of Formative Assessment
->
+There are many types of formative assessments other than MCQs. One (non-exhaustive) list
+can be found in the [Edutopia assessment group](https://www.edutopia.org/groups/assessment/250941). 
+
+## Formative Assessments Should Be Frequent.
+
+Instructors should use a formative assessment ideally every 5 minutes and 
+at least every 10-15 minutes
+in order to make sure that the class is actually learning.
+Since the average attention span is usually only this long,
+formative assessments also help break up instructional time
+and re-focus attention.
+Formative assessments can also be used preemptively:
+if you start a class with a question and everyone can answer it correctly,
+then you can safely skip the part of the lecture
+in which you were going to explain something that your learners already know.
+(Doing this also helps show learners that the instructor cares about how much they are learning.)
+
+> ## How Many? 
+> 
 > Software and Data Carpentry use formative assessments often. How many have we done since the start of this
 > workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
->
-> This discussion should take about 5 minutes.
->
->> ## Solution  
->> FIXME
+> 
+> This discussion should take about 5 minutes. 
+> 
+>> ## Solution 
+>> This will depend on the event they are attending. Most attendees will guess low. 
+>> The purpose of this exercise is to emphasize the importance of frequent formative 
+>> assessments and that an individual assessment doesn't have to take a lot of time.
 > {: .solution}
 {: .challenge}
 
-
-
-[amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
-[amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
-[amazon-thinking-physics]: http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r
-[amazon-unix-vsg]: http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/
-[amazon-upe]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/
-[peer-instruction-video]: https://www.youtube.com/watch?t=1&v=2LbuoxAy56o
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
-[wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
