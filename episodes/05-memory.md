@@ -39,7 +39,7 @@ specifically how to remove unnecessary "load" in order to facilitate learning.
 > [This website][memory-test] implements
 > an interactive version of this exercise.
 >
-> Take 5 minutes to complete the exercise and write your answer in the etherpad.
+> Take 5 minutes to complete the exercise and write your answer in the Etherpad.
 {: .challenge}
 
 While the graph model of knowledge is inaccurate but useful,
@@ -95,13 +95,13 @@ Instead,
 whatever she presents is first represented in the learner's short-term memory,
 and is only transferred to long-term memory after it has been held there and rehearsed.
 If we present too much information too quickly,
-the new will displace the old before it has a chance to consolidate in long-term
+the new will displace the old before the earlier material has a chance to be consolidated in long-term
 memory.
 
 ## Strategies For Memory Management
 
-One of our roles as instructors is to make sure that we accomodate the 
-limitations of human memory in our teaching.  Flooding learners with 10, 
+One of our roles as instructors is to make sure that we factor the 
+limitations of human memory into our teaching.  Flooding learners with 10, 
 20, 30 or more concepts in one hour will simply result in cognitive overload, 
 with the result that they may only remember the first and last five minutes 
 of the lesson.  
@@ -138,8 +138,8 @@ the concepts we are teaching is so important.
 ## Formative Assessment
 
 The formative assessment and reflective practice described in earlier 
-episodes is a key component in helping learners solidify their understand 
-and convert ideas from short-term memory into long-term memory. It's important
+episodes is a key component in helping learners solidify their understanding 
+and transfer ideas from short-term memory into long-term memory. It's important
 to use formative assessments frequently to help learners transition new concepts
 into their long-term memory, before their short-term memory fills up. It can 
 be helpful to use pedagogical planning tools to identify the number of concepts 
@@ -201,7 +201,7 @@ are listed below:
 * [Input and Output](../fig/io.png)
 * [Lists and Loops](../fig/lists-loops.png)
 
-Most of these are larger than our recommended limit,
+Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing:
 after drawing a concept map for an entire subject,
 a lesson designer can then carve out tightly-connected sub-graphs to make individual episodes.
@@ -221,9 +221,8 @@ separate information will need to be "stored" in memory as part of the lesson.
 
 > ## Concept Mapping
 >
-> Create a hand drawn concept map for something you would teach in five minutes.
-> (Possibly for the same subject that you used to create a multiple choice question
-> before.)
+> Create a hand-drawn concept map for something you would teach in five minutes.
+> (Possibly use the same subject about which you created a multiple choice question.)
 > Trade with a partner, and critique each other's maps.
 > Do they present concepts or surface detail?
 > Which of the relationships in your partner's map do you consider concepts and vice versa?
@@ -256,7 +255,7 @@ Concept maps can be used in many ways:
 	and adding any other concepts they think they need.
 4.  Concept maps are also a useful formative assessment technique:
     having learners draw concept maps of what they think they just heard shows the instructor
-    what was missed and what was mis-understood.
+    what was missed and what was misunderstood.
     Reviewing the learners' concept maps is too time-consuming for use in workshops,
     but very useful in weekly lectures
     *once learners are familiar with the technique*:
@@ -286,7 +285,7 @@ because beneath the jargon the authors were claiming that
 learners to ask their own questions,
 set their own goals,
 and find their own path through a subject---doesn't actually work very well.
-Kirschner et al's argument was that it requires learners to simultaneously
+Kirschner *et al*'s argument was that it requires learners to simultaneously
 master a domain's factual content
 and its search and problem-solving strategies.
 Fostering creativity and independence is intuitively appealing,
@@ -309,7 +308,7 @@ Critics of cognitive load theory say that
 since there's no way to tell in advance of an experiment whether something is germane or not,
 any result can be justified after the fact
 by labelling things that hurt performance as "extraneous"
-and things that don't "germane".
+and things that don't as "germane".
 
 However,
 some predictions *can* be made.
@@ -321,7 +320,7 @@ This means that correlating different linguistic, auditory, and visual
 streams of information takes cognitive effort:
 when someone reads one thing while hearing something else spoken aloud,
 their brain can't help but check that it's getting the same information on both channels.
-Discrepencies between these channels increase cognitive load and decrease learning.
+Discrepancies between these channels increase cognitive load and decrease learning.
 Learning is therefore more effective when information that is being presented simultaneously
 in two different channels is redundant, rather than different. 
 For our workshops, this means the instructor should say out loud commands as they type them on the screen

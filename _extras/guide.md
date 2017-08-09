@@ -20,6 +20,7 @@ permalink: /guide/
 * [Video Recorded Lessons](#video-recorded-lessons)
 * [Live Coding Demo Videos](#live-coding-demo-videos)
 * [Motivation and Demotivation](#motivation-and-demotivation)
+* [Carpentries Overview](#carpentries-overview)
 * [The Big Picture](#the-big-picture)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
@@ -150,7 +151,6 @@ the class.
     and do their demotivational story just before lunch on day 2:
     it means day 2 starts with *their* questions (which wakes them up),
     and the demotivational story is a good lead-in to lunchtime discussion.
-
 *   Don't have them complete the Teaching Perspectives Inventory
     or read through the pre- or post-assessment questionnaires in class:
     it kills momentum.
@@ -254,6 +254,11 @@ and have a rubric to follow.
 
 ## Live Coding Demo Videos
 
+The lists below are the aspects the videos try to contrast.
+After the exercise where the learners compare the videos and write down do's and dont's,
+the comments usually cover almost everything from the Top 10. 
+Instead of going over this Top 10, check whether anything was missed and briefly address these points.
+
 **[Part 1][live-coding-bad]: how not to do it**
 
 *   Instructor ignores a red sticky clearly visible on a learner's laptop.
@@ -290,6 +295,14 @@ and have a rubric to follow.
     Rather than read all out loud,
     highlight a few of the things that could have been done differently.
     This will give everyone some confidence in how to handle these situations in the future.
+
+## Carpentries Overview
+
+This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
+(which is [assigned as overnight homework]({{ page.root }}/12-summarize/)).
+Instead of going through this material point by point,
+trainers should ask each trainee to add one non-overlapping question to a list,
+then go through that list.
 
 ## The Big Picture
 
@@ -473,9 +486,9 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Ask them to share their screen using the "Share Screen" lower menu in Zoom.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
-    or just say "bong" really loudly at the end of their tie.
-*   After the five minute timer, allow them to finish their sentence and tell them time's up.
+    or just say "bong" really loudly at the end of their time.
 *   Use a [rubric][rubric] for notes.
+*   After the five minute timer, allow them to finish their sentence and tell them time's up.
 *   After the trainee is finished,
     first ask how they themselves thought it went,
     then give constructive feedback based on your notes. 
