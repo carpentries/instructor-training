@@ -360,6 +360,9 @@ Baume's guide to
 [writing and using good learning outcomes]({{ page.root }}/files/papers/baume-learning-outcomes-2009.pdf)
 is a good longer discussion of these issues.
 
+Here are three exercises to help you feel more comfortable reading, 
+writing, and using learning objectives as part of your teaching practice.
+
 > ## Identify the Bloom's level of the these learning objectives
 >
 > In the chat window, state the corresponding level of Bloom's taxonomy for the following learning objectives:
