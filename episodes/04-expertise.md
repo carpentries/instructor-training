@@ -91,13 +91,9 @@ she often can't because she didn't go through the intermediate steps a novice wo
 
 In fact, experts are frequently so familiar with their subject
 that they can no longer imagine what it's like to *not* see the world that way. 
-This is called *expert blind spot*.
+This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
 Experts are often less good at teaching a subject to novices than people with less expertise
-<<<<<<< HEAD
 who still remember what it's like to have to learn the things.
-=======
-who still remember what it's like to be a learner. (FIXME add references)
->>>>>>> belinda-patch4
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
@@ -141,7 +137,7 @@ they are more likely to become discouraged.
 
 It's also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
+It isn't just the time we lose at the start of workshops
 as we try to get a Unix shell working on Windows,
 or set up a version control client on some idiosyncratic Linux distribution, or ask people to download and unzip files.
 It isn't even the unfairness of asking students to debug things
