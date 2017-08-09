@@ -193,8 +193,6 @@ learners have a concrete starting point for debugging.
 
 ## Demotivation
 
-> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
-
 One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions.
 
 A few common demotivators are *indifference* and *unfairness*.
