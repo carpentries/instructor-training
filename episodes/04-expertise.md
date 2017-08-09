@@ -35,10 +35,10 @@ What makes experts different from either?
 > an expert in).  As an expert, what makes them special or different than 
 > other people?  
 > 2. What is something that you're an expert in?  How does your experience 
-> when you're acting as an expert differ than when you're not an expert?  
+> when you're acting as an expert differ from when you're not an expert?  
 {: .challenge}
 
-What makes the difference?  The answer is not that they know more facts:
+What makes the difference?  The answer is not that experts know more facts:
 competent practitioners can memorize a lot of information
 without any noticeable improvement to their performance.  The answer is 
 rather that experts have more connections between pieces of knowledge; 
@@ -91,9 +91,13 @@ she often can't because she didn't go through the intermediate steps a novice wo
 
 In fact, experts are frequently so familiar with their subject
 that they can no longer imagine what it's like to *not* see the world that way. 
-This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
+This is called *expert blind spot*.
 Experts are often less good at teaching a subject to novices than people with less expertise
+<<<<<<< HEAD
 who still remember what it's like to have to learn the things.
+=======
+who still remember what it's like to be a learner. (FIXME add references)
+>>>>>>> belinda-patch4
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
@@ -109,10 +113,10 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 The challenge of identifying and working around expert blind spots is one 
 reason why we welcome instructors who still identify as "novices"!  Someone 
 who is still in the process of learning can be a more effective instructor 
-because they are speaking out of their own recent experience.  
+because they are speaking from their own recent experience.  
 
 However, that's not to say that experts can't be good teachers.  Experts can 
-be equally effective as long as they take the time to identify and correct 
+be effective as long as they take the time to identify and correct 
 for their own expert blind spots.  In the rest of this section we'll be discussing 
 some of the ways that this can be done.  
 
@@ -124,7 +128,7 @@ but for now, consider some of these ideas about the typical audience for
 Carpentry workshops.  
 
 - Most scientists don't actually want to program. They want to do scientific research,
-and programming is just a tax they have to pay along the way.
+and programming is just a tax they have to pay to do that.
 They don't care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
@@ -139,7 +143,7 @@ It's also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
 It isn't just the time we lose at the start of boot camps
 as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
+or set up a version control client on some idiosyncratic Linux distribution, or ask people to download and unzip files.
 It isn't even the unfairness of asking students to debug things
 that depend on precisely the knowledge they have come to learn,
 but which they don't yet have.
@@ -164,8 +168,25 @@ described in [this episode]({{ page.root }}/19-motivation/).
 
 ## More? (To add)
 
-- Incorporate discussion of expertise reversal effect with exercises
 - Continue to emphasize the importance of formative assessment (to help counter blind spot)
+- Add mental model questions cut from previous episode?
+*Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*		
+1. I'm not sure what a mental model is.		
+2. "In Python, what is the expected output for the following statement: 1 + '2'"		
+ 	(a) '12'		
+ 	(b) TypeError		
+ 	(c) '3'		
+ 	(d) 3		
+ 3. "Rate your experience with the R programming language."		
+ 	(a) never used it		
+ 	(b) beginner		
+ 	(c) intermediate		
+ 	(d) expert		
+ 4. "What does the Unix command 'cut' do?"		
+ 	(a) Extracts sections from each line of input.		
+ 	(b) Sorts fields of a line		
+ 	(c) Searches the input file for lines containing a match to a pattern		
+ 	(d) Removes a given input from a line		
 
 [abela-presentation]: http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
 [amazon-glass]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
