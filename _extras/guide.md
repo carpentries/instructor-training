@@ -20,6 +20,7 @@ permalink: /guide/
 * [Video Recorded Lessons](#video-recorded-lessons)
 * [Live Coding Demo Videos](#live-coding-demo-videos)
 * [Motivation and Demotivation](#motivation-and-demotivation)
+* [Carpentries Overview](#carpentries-overview)
 * [The Big Picture](#the-big-picture)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
@@ -294,6 +295,14 @@ Instead of going over this Top 10, check whether anything was missed and briefly
     Rather than read all out loud,
     highlight a few of the things that could have been done differently.
     This will give everyone some confidence in how to handle these situations in the future.
+
+## Carpentries Overview
+
+This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
+(which is [assigned as overnight homework]({{ page.root }}/12-summarize/)).
+Instead of going through this material point by point,
+trainers should ask each trainee to add one non-overlapping question to a list,
+then go through that list.
 
 ## The Big Picture
 
