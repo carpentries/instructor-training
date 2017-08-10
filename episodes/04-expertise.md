@@ -18,12 +18,14 @@ keypoints:
 We now discuss what distinguishes expertise
 from earlier stages of learning, how being an expert can make it 
 more difficult to teach novices, and some tools to help instructors 
-identify overcome these difficulties.  
+identify and overcome these difficulties.  
 
 ## What Makes an Expert?  
 
 An [earlier topic]({{ page.root }}/02-practice.md) described a key 
-difference between novices and competent practitioners. Competent practitioners 
+difference between novices and competent practitioners. Novices lack a mental model, or have only
+a very incomplete model with limited utility.
+Competent practitioners 
 have mental models that work well enough for most situations. 
 How are experts different from both of these groups?
 
@@ -70,7 +72,7 @@ the expert can go from A to E in a single step ("A therefore E").
 
 ## Limitations of Expertise  
 
-Because your learners' mental models will be less densly connected than your own, 
+Because your learners' mental models will likely be less densely connected than your own, 
 a conclusion that seems obvious to you will not seem that way to your learners. 
 Another feature of expertise that has important consequences for teaching is the
 ability of experts to make use of *fluid representations*. Two ways of thinking about a problem
@@ -108,8 +110,8 @@ seem trivial to you, as they often will.
 
 Experts are frequently so familiar with their subject
 that they can no longer imagine what it's like to *not* see the world that way. 
-This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect*.
-Experts are often less good at teaching a subject to novices than people with less expertise
+This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect* - experts are often 
+less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
@@ -158,9 +160,11 @@ it with more positive and motivating word choices.
 > This discussion should take about 5 minutes.  
 >
 >> ## Solution  
->> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
->> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
->> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as
+>> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: *if*, *could*, *yes*,
+>> *together*, *thank you*,
+>> *choose to*, *and*, *because*, *willing*, and the person's name. These are motivating words and phrases that can shift mindsets.
+>> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can’t*, *easy*,
+>> *just*, *only*, and *fast*, as well as
 >> examples of how they are used to demotivate. Statements like
 >> *	"We really need it."
 >> *	"If we don’t we can’t ..."
@@ -170,6 +174,11 @@ it with more positive and motivating word choices.
 >>
 > {: .solution}
 {: .challenge}
+
+Another language choice that can have very positive effects on learner mindset is to ask "What questions do people have?" rather than 
+"Does anyone have any questions?" Asking "Does anyone have any questions?" can create the impression that you hope people don't have
+questions, so that you can continue on with the lesson. By asking what questions people have, you are setting up an expectation that 
+people will, indeed, have questions, and that that is normal and expected. 
 
 ## You Are Not Your Learners  
 
@@ -210,7 +219,7 @@ described in [this episode]({{ page.root }}/19-motivation/).
 >
 > Many of the foundational concepts of computer science,
 > such as computability,
-> are diffult to learn and not immediately useful.
+> are difficult to learn and not immediately useful.
 > This does *not* mean that they aren't important,
 > or aren't worth learning,
 > but if our aim is to convince people that they can learn this stuff,
