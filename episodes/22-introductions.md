@@ -207,16 +207,18 @@ work in groups or dialogue with each other.  Icebreakers work even
 better when they allow students to get to know each other in the
 context of the course material.
 
+Here is one example of an icebreaker you can use:  
 Have everyone turn to a partner and introduce themselves with their
 name, one word about their research 'microbes', 'dogs', 'vectors',
 'stars' and a thing they're proud of that they made. What they made
 could be a bookshelf, a curry, a 3D plot, a piece of software, their
-bed this morning, just something they did that they're proud of.
+bed this morning, just something they did that they're proud of.  
+Other examples can be found [on this page][icebreakers].  
 Studies have shown that encouraging people to think about their
 characteristics, skills, values, or roles that they value or view as
 important can help reduce the effects of stereotype threat. (We have
 no actual evidence this particular exercise helps, but it is along
-these lines)
+these lines).
 
 ### 5. Set the Tone for the Workshop
 
@@ -284,3 +286,4 @@ Credits: Things here are just slight revisions of information from Carnegie Melo
 Center Teaching Excellence & Educational Innovation materials
 <http://www.cmu.edu/teaching/designteach/teach/firstday.html>
 
+[icebreakers]: {{ page.root }}/icebreakers
