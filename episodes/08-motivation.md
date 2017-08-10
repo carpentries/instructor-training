@@ -193,8 +193,6 @@ learners have a concrete starting point for debugging.
 
 ## Demotivation
 
-> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
-
 One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions.
 
 A few common demotivators are *indifference* and *unfairness*.
@@ -241,43 +239,6 @@ to alienate a classroom and cause learners to tune out.
 > Encourage helpers to support confused students as far as possible within
 > the flow of the workshop.
 {: .callout}
-
-## Dismissive Language
-
-Experts often betray their blind spot by using the word "just" in explanations,
-as in, "Oh, it's easy, you just fire up a new virtual machine
-and then you just install these four patches to Ubuntu
-and then you just re-write your entire program in a pure functional style---no problem."
-This gives learners the very clear signal
-that the instructor thinks their problem is trivial
-and that they therefore must be stupid.  
-
-With practice, we can change the way we speak to avoid this type of demotivating language and replace
-it with more positive and motivating word choices.
-
-> ## Changing Your Language
->
-> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
-> express this meaning in a positive and motivational way?  
->
-> In the Etherpad, make a list of demotivating words/phrases and alternatives.  
->
-> This discussion should take about five minutes.  
->
->> ## Solution  
->> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
->> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
->> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as
->> examples of how they are used to demotivate. Statements like
->> *	"We really need it."
->> *	"If we don’t we can’t ..."
->> *	"Wouldn’t it be easy if we just did it like that?"
->> *	"Can you try it real fast?"
->> can be perceived as dismissive or demeaning or worse.
->>
-> {: .solution}
-{: .challenge}
-
 
 > ## The Importance of Having Rules
 >
