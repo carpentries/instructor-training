@@ -93,7 +93,7 @@ judgments people make, including but not limited to, credibility,
 likability, dominance, kindness, and empathy (Raiscot, 1986; Morris et
 al., 1996). More formal attire communicates expertise and confidence,
 less formal attire communicates approachability. Usually, it is easier
-to relax a more formal impression into a more relaxed one than the
+to relax from a more formal impression into a more relaxed one than the
 other way around. These considerations are likely to be particularly
 relevant for young instructors who are concerned about establishing
 themselves as authoritative.
@@ -129,8 +129,8 @@ Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
 authority, and to make to workshop more relevant.
 
-**Why are you teaching a Software or Data Carpentry workshop?** Why
-are you an instructor? What's motivating you to be there today? One
+**Why are you teaching a Software or Data Carpentry workshop?**
+Why are you an instructor? What's motivating you to be there today? One
 reason might be that you took a workshop and saw how valuable these
 skills were in your own work and wanted to share this information with
 others. Convey your enthusiasm for being there.
@@ -274,10 +274,10 @@ accessibility, etc.
 
 > ## Practice Your Introduction 
 >
-> 1. Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
-> 2. Rehearsing your introduction in your mind. (3 minutes)
-> 3. Return to your groups of 2 or 3 and give 90 second introductions. (5 min)
-> 4. Discuss what you liked about each other's introductions. (6 min: optional, if there is time.)
+> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
+> 1. Rehearse your introduction in your mind. (3 minutes)
+> 2. Return to your groups of 2 or 3 and each give your 90 second introduction. (5 min)
+> 3. Discuss what you liked about each other's introductions. (6 min: optional, if there is time.)
 >
 > This exercise will take 8 minutes or 14 minutes depending on whether time is included for feedback or not.  
 {: .challenge}
