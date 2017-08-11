@@ -9,7 +9,7 @@ objectives:
 - "Identify when cognitive load is likely to limit learning."
 - "Use a concept map to plan a formative assessment strategy."
 keypoints:
-- "Most adults can store only a few items in short-term memory for a few seconds before loss."  
+- "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory." 
 - "Use formative assessments to avoid overloading short-term memory."
@@ -34,7 +34,7 @@ Our second layer of memory is called *short-term* or *working memory*. This is t
 type of memory you use to actively think about things. It is much faster, but also much
 smaller: in 1956, Miller estimated that the average adult's working memory could hold
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
-This is [why phone numbers are typically 7 or 8 digits long](https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits):
+This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
 back when phones had dials instead of keypads,
 that was the longest string of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
@@ -243,8 +243,7 @@ It posits that people have to deal with three things when they're learning:
 
 Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
 
-However,
-some predictions *can* be made.
+In the framework of cognitive load, some predictions can be made.
 One example is work by Mayer and colleagues on
 the *[split-attention effect][wikipedia-split-attention]*.
 Linguistic and visual input are processed by different parts of the human brain,
@@ -349,3 +348,4 @@ concept in your concept map.
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
+[phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
