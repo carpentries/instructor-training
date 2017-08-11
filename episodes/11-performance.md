@@ -227,3 +227,6 @@ practice teaching and to get and give feedback tomorrow.
 [scipy-video-1]: https://vimeo.com/139316669
 [scipy-video-2]: https://vimeo.com/139181120
 [oecd-pisa]: http://www.oecd.org/pisa/
+[fincher-warren]: {{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf
+[fincher-stories]: {{ page.root }}/files/papers/fincher-stories-change-2012.pdf
+[barker-practice]: {{ page.root }}/files/papers/barker-practice-adoption-2015.pdf
