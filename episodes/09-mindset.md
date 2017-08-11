@@ -3,14 +3,22 @@ title: "Creating a Positive Learning Environment: Mindset"
 teaching: 20
 exercises: 20
 questions:
-- "Questions"
+- "How does mindset influence learning?"
+- "How should we praise our learners?"
+- "How should we talk about errors?"
+- "What are successful habits of lifelong learners?"
 objectives:
 - "Explain the difference between fixed and growth mindset and its implications for classroom performance."
+- "Develop strategies for giving effort-based and improvement-based praise."
+- "Respond positively to learner errors."
+- "Model habits of lifelong learners."
 keypoints:
-- "Keypoints"
+- "Growth mindset and grit promote learning by making effort a positive thing."
+- "Presenting errors as essential to the learning process helps learners learn from their mistakes."
+- "Successful lifelong learners aren't embarassed to ask for help."
 ---
 
-### Mindset
+## The Importance of Mindset
 
 Do you believe that you're just not good at math? Or maybe you're not artistic? Not good at sports? If any of these
 sound like you, you probably have a fixed mindset when it comes to mathematical, artistic and/or athletic ability.
@@ -28,26 +36,31 @@ take advantage of opportunities for learning new skills. In fact, initial diffic
 
 People who believe that ability is intrinsic view every situation as a test. A failure indicates that they don't have the natural ability they need
 to succeed. Thus, students with a fixed-mindset will *decrease* their study time after receiving a poor exam score, because they see this score as a
-judgement that they aren't good at that subject and shouldn't waste their time trying. A growth-mindset student will increase the amount of time that
-they study after the same score, seeing it as an indication that they need to try harder to improve in that area.  
+judgement that they aren't good at that subject and shouldn't waste their time trying. In the same situation, a growth-mindset student will increase 
+the amount of time that
+they study, seeing the poor score as an indication that they need to try harder to improve in that area.  
 
-This attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
-questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from getting opportunities to practice
-and receive feedback, which as we've discussed (FIXME add link to practice module) is essential to learning.
+Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
+questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
+and receive feedback, which, as we've discussed, is essential to learning.
 
-> ## Test your Mindset
+> ## What's Your Mindset?
 > You can learn about your own mindset by taking the official [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php).
 > Keep in mind that your mindset may differ in different areas. For example, you might have a fixed mindset with respect to artistic ability,
-> but a growth mindset with respect to computing skill.
->
+> but a growth mindset with respect to computing skill. 
+> 
+> If you're comfortable sharing, put your "score" in the Etherpad. How does it compare with others?
+> 
+> This exercise should take about 5 minutes. 
 {: .challenge}
 
 If you recognize aspects of the fixed mindset in yourself, don't panic! Like everything else, a growth mindset can be learned. We're going to talk about some
-strategies that will help you promoting a growth mindset in your learners and yourself.
+strategies that will help you promote a growth mindset in your learners and yourself.
 
-### Praise talk  
+## Praise Influences Mindset  
 
-The way in which we praise learners has an important impact on their mindset development. [Carol Dweck's research](http://www.ascd.org/publications/educational-leadership/oct07/vol65/num02/The-Perils-and-Promises-of-Praise.aspx)
+The way in which we praise learners has an important impact on their mindset development.
+[Carol Dweck's research](http://www.ascd.org/publications/educational-leadership/oct07/vol65/num02/The-Perils-and-Promises-of-Praise.aspx)
 investigated three types of praise: performance-based, effort-based and improvement-based, and looked at how these
 types of praise influence learner's mindsets.
 
@@ -69,55 +82,100 @@ highlighting our ability to improve with effort.
 > ## Choosing our Praises
 > Since we're so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
 > are examples of performance-based, effort-based, or improvement-based praise?
-> -
-> -
-> -
-> -
+> 
+> - I like the way you tried a couple of different strategies to solve that problem. 
+> - You're getting really good at that. Keep up the hard work!
+> - You're really talented.
+> - That was a hard problem. You didn't get the right answer, but look at how much you learned trying to solve it!
 >
 >> ## Solution
->>
->>
+>> - Effort-based.
+>> - Improvement-based.
+>> - Performance-based.
+>> - Improvement-based.
 > {: .solution}
 {: .challenge}
 
 
-### Error framing  
+## Errors are Essential to Learning 
 
-One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to students being fearful of making them. *Error framing* encourages students to understand that making errors are valuable learning opportunities instead of having negative consequences. For example, the [Language Acquisition Made Practical](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/0916636003) (LAMP) system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has shown to be useful in learning complex tasks such as programming. In one study, Steele-Johnson showed that error framing showed [positive effects on metacognition and self-efficacy](https://www.ncbi.nlm.nih.gov/pubmed/24617273).
+One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to students being 
+fearful of making them. *Error framing* encourages students to understand that making errors provides valuable learning opportunities instead 
+of having negative consequences. For example, the [Language Acquisition Made Practical](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/0916636003) (LAMP)
+system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By 
+being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has 
+shown to be useful in learning complex tasks such as programming. In one study, Steele-Johnson showed that error framing showed
+[positive effects on metacognition and self-efficacy](https://www.ncbi.nlm.nih.gov/pubmed/24617273).
 
-How can we incorporate error framing into our lessons? We need to reduce the negative emotions associated with errors, instead casting errors as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". Sharing experiences of learning from errors can encourage students to adopt a growth-mindset. Associating improvement-based praise with errors can also encourage positive emotions associated with making errors in learning. Finally, the use of [live coding]({{ page.root }}/15-live/) as the focus for teaching allows for teachers to model how errors can be positively framed and the process for overcoming them.
+How can we incorporate error framing into our lessons? We need to reduce the negative emotions associated with errors, instead casting errors
+as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". 
+Sharing experiences of learning from errors can encourage students to adopt a growth-mindset. Associating improvement-based praise with errors
+can also encourage positive emotions associated with making errors in learning. Finally, the use of 
+[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for teachers to model how errors can be positively 
+framed and the process for overcoming them.
 
-### Grit/Perseverance  
-
-Angela Duckworth, a Psychology professor from University of Pennsylvania suggests that grit is an essential trait in learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf). Students with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Often, learning and recovering from failure is an essential skill in many fields. Additionally, students with grit have shown to have a higher degree of success later on in life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait that can be learned and instilled in students.
-
-How can we instill and foster grit in adult students? There are many ways we can help our students attain grit.
-
-- *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing concepts may help students understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in modeling resilience.
-- *Promoting Perseverance*. Part of grit is being able to push through even when the going is difficult. Improvement-based praise is an important motivating tool to promote perseverance.
-- *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way to instill grit.
-- *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of student's individual long-term goals can instill passion and drive for learning despite the difficulties of the topic.
-
-### Becoming a lifelong learner  
-
-Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may be required by employers. Lifelong learners are capable of what Cal Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively demanding tasks".
-
-Lifelong learning arises from those who have the growth mindset. Both grit and [curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as [success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in students.
-
-Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) is important, as it is a critical skill of lifelong learners. Encouraging students to seek help can be difficult when societal norms view seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially [prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a positive behavior to cope with difficulties. Part of this reframing can be modeled by teachers emphasizing that they are also lifelong learners and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a positive learning community.  
-
-Exercises  
-## Error framing  
-## How are you gritty?  
-
-
-
-> ## Challenge
->
->
->
->> ## Solution
->>
->>
-> {: .solution}
+> ## Helping Learners Learn From Mistakes
+> A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
+> that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between 
+> `ls` and the name of the directory they are looking at). What would you say to the learner? 
+> 
+> In the Etherpad, describe the error your learner has made and how you would respond. 
+> 
+> This exercise and discussion should take about 5 minutes. 
 {: .challenge}
+
+## Perseverance Predicts Success  
+
+Angela Duckworth, a Psychology professor from University of Pennsylvania suggests that something called *grit* is an essential trait in
+learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf). 
+Students with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Learning and recovering
+from failure is an essential skill in many fields. Students with grit have shown to have a higher degree of success later on in
+life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait that can be learned and instilled in
+learners.
+
+There are many ways we can help our learners attain grit.
+
+- *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing 
+concepts may help students understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in
+modeling resilience.
+- *Promoting Perseverance*. Part of grit is being able to push through even when the going is difficult. Improvement-based praise is an 
+important motivating tool to promote perseverance.
+- *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way to instill
+grit.
+- *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of student's individual long-term goals can instill 
+passion and drive for learning despite the difficulties of the topic.
+
+> ## How Are You Gritty?
+> 
+> A previous exercise asked you to think of a time when learning something was difficult for you, or
+> you made a mistake that seemed silly or embarassing.
+> 
+> How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?
+> How do you feel now about your capabilities in this area? 
+> 
+> In the Etherpad, describe how you could use this story to illustrate the importance of grit for your learners. 
+> 
+> This exercise should take about 5 minutes. 
+{: .challenge}
+
+## Habits of Lifelong Learners  
+
+Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may be 
+required by employers. Lifelong learners are capable of what Cal Newport calls "[deep work](http://calnewport.com/books/deep-work/)": 
+defined as the "ability to focus intensely on cognitively demanding tasks".
+
+Lifelong learning arises from those who have the growth mindset. Both grit and 
+[curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
+[success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
+Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve 
+long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in students.
+
+Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) 
+is important, as it is a critical skill of lifelong learners. Encouraging students to seek help can be difficult when societal norms view 
+seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially 
+[prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a 
+positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners 
+and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a 
+positive learning community.  
+
+
