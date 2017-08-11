@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: Workshop Introductions"
 teaching: 45
-exercises: 45
+exercises: 25
 questions:
 - "How do you actually start a workshop?"
 objectives:
@@ -93,7 +93,7 @@ judgments people make, including but not limited to, credibility,
 likability, dominance, kindness, and empathy (Raiscot, 1986; Morris et
 al., 1996). More formal attire communicates expertise and confidence,
 less formal attire communicates approachability. Usually, it is easier
-to relax a more formal impression into a more relaxed one than the
+to relax from a more formal impression into a more relaxed one than the
 other way around. These considerations are likely to be particularly
 relevant for young instructors who are concerned about establishing
 themselves as authoritative.
@@ -129,8 +129,8 @@ Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
 authority, and to make to workshop more relevant.
 
-**Why are you teaching a Software or Data Carpentry workshop?** Why
-are you an instructor? What's motivating you to be there today? One
+**Why are you teaching a Software or Data Carpentry workshop?**
+Why are you an instructor? What's motivating you to be there today? One
 reason might be that you took a workshop and saw how valuable these
 skills were in your own work and wanted to share this information with
 others. Convey your enthusiasm for being there.
@@ -207,16 +207,18 @@ work in groups or dialogue with each other.  Icebreakers work even
 better when they allow students to get to know each other in the
 context of the course material.
 
+Here is one example of an icebreaker you can use:  
 Have everyone turn to a partner and introduce themselves with their
 name, one word about their research 'microbes', 'dogs', 'vectors',
 'stars' and a thing they're proud of that they made. What they made
 could be a bookshelf, a curry, a 3D plot, a piece of software, their
-bed this morning, just something they did that they're proud of.
+bed this morning, just something they did that they're proud of.  
+Other examples can be found [on this page][icebreakers].  
 Studies have shown that encouraging people to think about their
 characteristics, skills, values, or roles that they value or view as
 important can help reduce the effects of stereotype threat. (We have
 no actual evidence this particular exercise helps, but it is along
-these lines)
+these lines).
 
 ### 5. Set the Tone for the Workshop
 
@@ -270,16 +272,18 @@ students have about the material.
 Let them know about any logistics for the days - lunch times, breaks,
 accessibility, etc.
 
-
-> ## Practice Your Introduction
-> 
-> In groups of two or three, practice delivering your introduction, as if you 
-> were starting off a workshop.  After trading off, offer each other feedback.  
-> 
-> This exercise should take 35 minutes.  
+> ## Practice Your Introduction 
+>
+> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
+> 1. Rehearse your introduction in your mind. (3 minutes)
+> 2. Return to your groups of 2 or 3 and each give your 90 second introduction. (5 min)
+> 3. Discuss what you liked about each other's introductions. (6 min: optional, if there is time.)
+>
+> This exercise will take 8 minutes or 14 minutes depending on whether time is included for feedback or not.  
 {: .challenge}
 
 Credits: Things here are just slight revisions of information from Carnegie Melon Eberly
 Center Teaching Excellence & Educational Innovation materials
 <http://www.cmu.edu/teaching/designteach/teach/firstday.html>
 
+[icebreakers]: {{ page.root }}/icebreakers
