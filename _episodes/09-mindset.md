@@ -160,9 +160,11 @@ passion and drive for learning despite the difficulties of the topic.
 
 ## Habits of Lifelong Learners  
 
-Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may be 
-required by employers. Lifelong learners are capable of what Cal Newport calls "[deep work](http://calnewport.com/books/deep-work/)": 
-defined as the "ability to focus intensely on cognitively demanding tasks".
+Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may 
+be required by employers. Many of these positions can be described as Knowledge Work, work that requires 
+["non-routine" problem solving](http://doi.wiley.com/10.1002/kpm.378). Knowledge workers need to be capable of what Cal
+Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively 
+demanding tasks".
 
 Lifelong learning arises from those who have the growth mindset. Both grit and 
 [curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
