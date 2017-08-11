@@ -1,5 +1,5 @@
 ---
-title: "Building Teaching Skill: Teaching as a Performance Art"
+title: "Building Teaching Skill: The Importance of Practice"
 teaching: 15
 exercises: 55
 questions:
