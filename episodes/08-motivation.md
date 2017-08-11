@@ -23,7 +23,7 @@ for you to become confident in motivating your learners.
 
 ## Creating A Positive Learning Environment
 
-Creating a positive learning environment is a crucial first step to setting the stage
+Creating a positive learning environment is an important first step to setting the stage
 for learner success. As instructors, it is crucial to establish the workshop setting
 as a safe space for learning. Establishing a safe space for learning is a combination 
 of many factors:
@@ -183,10 +183,14 @@ common demotivators and help you develop strategies for avoiding them.
 
 *   Tell learners they are rubbish because they use Excel and/or Word,
     don't modularize their code, etc.
-*   Repeatedly make digs about Windows and praise Linux, e.g., say that
+*   Say negative things about Windows and praise Linux, e.g., say that
     the former is for amateurs.
 *   Criticize GUI applications (and by implication their users) and
     describe command-line tools as the One True Way.
+*   Talk contemptuously or with scorn about any tool. Regardless of 
+    its shortcomings, many of your learners may be using that tool.
+    Convincing someone to change their practices is much harder when 
+    they think you disdain them.
 *   Dive into complex or detailed technical discussion with the one or
     two people in the audience who clearly don't actually need to be
     there.
@@ -194,7 +198,7 @@ common demotivators and help you develop strategies for avoiding them.
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help.
 *   Use the J word ("just") or other demotivating words we talked about in a 
-    previous lesson. These signal to the learner that
+    [previous lesson]({{ page.root }}/04-expertise.md) These signal to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
