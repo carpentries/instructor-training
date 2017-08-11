@@ -12,7 +12,13 @@ keypoints:
 - ""
 ---
 
-As homework overnight, please:
+Today we have focused on understanding some core findings of pedagogical research about how the learning process
+works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
+and gave some opportunities to practice teaching. Tomorrow we will continue our discussions of
+how we build teaching skill and will have more chances for practice and feedback. We will also
+look in some depth at how the Carpentries operate to prepare you for the logistics of teaching a workshop.
+
+To prepare for tomorrow, please:
 
 1.  Read about the two types of Carpentry workshops: [self-organized][dc-self] and 
     [centrally-organized][dc-central] and the checklists
