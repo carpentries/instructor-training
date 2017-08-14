@@ -5,17 +5,17 @@ permalink: /training_calendar/
 ---
 
 
-#### Carpentries Instructor Training Calendar
+#### Carpentries Partner Site Instructor Training Calendar
 ###  September - December 2017
 
 
-If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.
+If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
-Please keep in mind Daylight savings time changes on November 5, 2017.
+Please keep in mind Daylight savings time changes in late October or early November, depending on your location.  
 
-# United States
+# North America
 
 ##### Eastern time
 * September 21-22, 2017
@@ -30,15 +30,15 @@ Please keep in mind Daylight savings time changes on November 5, 2017.
 * October 30-31, 2017
 * December 12-13, 2017
 
-#### Pacific time
+##### Pacific time
 * September 25-26, 2017
 * October 18-19, 2017
 * November 15-16, 2017
 
-# United Kingdom
-* Training dates to be announced
-
 # Europe
+
+##### United Kingdom
+* Training dates to be announced
 
 ##### Central European time
 * October 30-31, 2017
