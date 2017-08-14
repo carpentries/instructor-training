@@ -37,7 +37,7 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 
 # Europe
 
-##### United Kingdom
+##### Western European time
 * Training dates to be announced
 
 ##### Central European time
