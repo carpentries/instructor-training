@@ -60,11 +60,15 @@ and talking as we go.
 >> 
 >> * It requires instructors to be able to improvise when things go wrong or when learners
 >> have questions not directly addressed in the text of the lesson.
->> * It can be hard for learners to listen and type at the same time. This is why it's
+>> * It can be hard for learners to listen and type at the same time, due to the  
+>> *split-attention effect* we 
+>> [discussed earlier]( {{ page.source }}/05-memory/#why-guided-practice-is-important).
+>> This is why it's
 >> very important that instructors first explain what they're going to do, then 
 >> say what they are typing as they type it, and then
->> explain what they did again afterwards. This reduces the *split-attention effect* we 
->> [discussed earlier]( {{ page.source }}/05-memory/#why-guided-practice-is-important).
+>> explain what they did again afterwards.
+>> * It may take a bit of practice for instructors to
+>> get used to thinking aloud while coding in front of an audience.
 >>
 > {: .solution}
 {: .challenge}
@@ -73,7 +77,7 @@ Live coding fits well into the practice-feedback model we've been discussing - b
 learners with continuous opportunities for practice (every time they type in a line of code)
 and continuous feedback (their code either works or fails with an error message). It's 
 important to keep in mind, however, that feedback isn't helpful if you can't understand it.
-Many error messages are obscure. Continue to use the strategies for error framing that
+Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier]({{ page.source }}/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners. 
 
 > ## The Bad and the Good
