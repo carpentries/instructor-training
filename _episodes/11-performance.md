@@ -105,9 +105,11 @@ Now that you've had some practice giving observing teaching and giving feedback,
 > 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
 >     the Carpentry lesson episode you chose before the start of the training course.
 > 3.  Get together with your group and have each person teach their segment to the group,
->     keeping a strict time limit of 90 seconds, 
->     while the third person records this (video and audio)
+>     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
+>     Use a whiteboard or other visual aids if available, but do not use live coding. 
+>     We'll be practicing with live coding later.
+>     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
 >     (she becomes the videographer,
