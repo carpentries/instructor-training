@@ -1,25 +1,27 @@
 ---
-title: "Building Teaching Skill: Teaching as a Performance Art"
+title: "Building Teaching Skill: The Importance of Practice"
 teaching: 15
 exercises: 55
 questions:
-- "How do teachers improve?"
+- "How can I improve my teaching?"
 objectives:
-- "Explain how peer-to-peer lesson practice can transform instruction."
+- "Use peer-to-peer lesson practice to transform your instruction."
 - "Give thoughtful and useful feedback."  
 - "Incorporate feedback into your teaching practices."  
 keypoints:
-- "Great teachers are made, not born."
-- "Formal written descriptions of teaching practices are ineffective."
-- "Lesson study ('jugyokenkyu') is essential to transferring skills between teachers."
+- "Like all other skills, good teaching requires practice and feedback."
+- "Lesson study is essential to transferring skills among teachers."
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
-Continuing with our theme of instructor-as-performer,
-let's discuss some research that suggests that improvement in educational outcomes
-must be driven by practice and communities of practice.
-The tricks and techniques that make teaching effective cannot be mandated from above,
-but will develop into widespread effectiveness
-only as they are shared through a community of teaching practice.
+
+So far, we've focused on how we can be effective instructors in helping our learners
+develop computational skills. We've seen that providing opportunities for practice 
+and giving useful feedback to learners are essential components in the learning 
+process. Learning to teach is no different. Instructors develop teaching skill
+over time through practice and improve most when given feedback on their performance
+from other instructors who share their pedagogical model. In this section, we'll 
+discuss how instructors improve their teaching and give you some opportunities to
+practice. 
 
 ## Lesson Study
 
@@ -33,57 +35,22 @@ though,
 that assumption is wrong,
 which is why educational reforms based on it have repeatedly failed.
 
-The book is written as a history of the people who have put that puzzle together in the US.
-Its core begins with a discussion of what James Stigler discovered during a visit to Japan in the early 1990s:
+In the 1980s and 90s, an educational psychologist named James Stigler observed 
+teachers in the US and Japan. In the [OECD's annual rankings][oecd-pisa] of countries' educational
+achievements, Japanese students routinely test near the top in reading, math and science, while
+American students rank at or below average.
 
-> Some American teachers called their pattern "I, We, You":
-> After checking homework,
-> teachers announced the day's topic,
-> demonstrating a new procedure (I)...
-> Then they led the class in trying out a sample problem together (We)...
-> Finally, they let students work through similar problems on their own,
-> usually by silently making their way through a worksheet (You)...
->
-> The Japanese teachers, meanwhile, turned "I, We, You" inside out.
-> You might call their version "You, Y'all, We."
-> They began not with an
-> introduction,
-> but a single problem that students spent ten or twenty
-> minutes working through alone (You)...
-> While the students worked,
-> the teacher wove through the students' desks,
-> studying what they came up with and taking notes to remember who had which idea.
-> Sometimes the teacher then deployed the students to discuss the problem in small
-> groups (Y'all).
-> Next, the teacher brought them back to the whole group,
-> asking students to present their different ideas for how to solve the problem on the chalkboard...
-> Finally, the teacher led a discussion,
-> guiding students to a shared conclusion (We).
-{: .quotation}
-
-It's tempting but wrong to think that this particular teaching technique is Japan's secret sauce.
-The actual key is revealed in the description of Akihiko Takahashi's work.
-In 1991,
-he visited the United States. He found that American teachers met once a year (if that) to exchange ideas about teaching,
-compared to the weekly or even daily meetings he was used to.
-What was worse, teachers in the US may describe their lessons to each other, but they did not observe each others' teaching in practice. 
-In contrast, Japanese teachers use a process called *jugyokenkyu*:
-
-> Translated literally as "lesson study",
-> *jugyokenkyu* is a set of practices that Japanese teachers use to hone their craft,
-> from observing each other at work to discussing the lesson afterward
-> to studying curriculum materials with colleagues.
-{: .quotation}
+Looking at differences in teaching methods, Stigler found that American teachers met at most once
+a year to exchange ideas about teaching, compared to the weekly or even daily meetings of Japanese
+teachers. During these meetings, teachers in the US described their lessons to each other, but they did
+not observe each others' teaching in practice. In contrast, Japanese teachers regularly conducted lesson study: 
+observing each other at work, discussing the lesson afterward, and studying curriculum materials with their 
+colleagues.
 
 Putting work under a microscope in this way in order to improve it is commonplace in sports and music.
 A professional musician, for example,
 will dissect half a dozen different recordings of "Body and Soul" or "Smells Like Teen Spirit" before performing it.
 They would also expect to get feedback from fellow musicians during practice and after performances.
-Many other disciplines work this way too:
-the Japanese drew inspiration from [Deming][wikipedia-deming]'s ideas
-on continuous improvement in manufacturing,
-while the adoption of code review over the last 15 years
-has done more to improve everyday programming than any number of books or websites.
 
 But this kind of feedback isn't part of teaching culture in English-language school systems:
 in the US, Canada, the UK, Australia, and elsewhere,
@@ -96,49 +63,53 @@ the school board,
 a textbook publisher,
 or the Internet,
 but each teacher has to figure out on their own how to combine that with
-the theory they've learned in education school
-to deliver an actual lesson in an actual classroom for actual students.
+the theory they've learned in their educational programs
+to deliver an actual lesson in an actual classroom for actual students. 
+When teachers don't observe each other teaching, the tricks and techniques that each instructor
+has painstakingly incorporated into their practice don't have the opportunity to spread, limiting
+forward momentum on system-wide improvements to teaching.
 
-Fincher and her colleagues studied how teaching practices are actually transferred
-using both [a detailed case study]({{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf)
-and
-[analysis of change stories]({{ page.root }}/files/papers/fincher-stories-change-2012.pdf). [Barker *et al.*]({{ page.root }}/files/papers/barker-practice-adoption-2015.pdf) found something similar in 2015. These studies show that teachers do not readily adopt practices that have been shown in (peer-reviews) educational research to be effective. Some may try these practices in the hope it helps them solve a problem, or because they are the few that are interested in experimenting with them to improve their teaching. Social norms, institutional culture, or lack of time and support prevents many teachers from looking beyond the lesson as it has been taught 'all these years'.
-
-One of the goals of this workshop is to make trainees aware of educational practices that enhance learning, as well as give them the opportunity to practice some of them, while receiving feedback from instructors as well as peers.
-
-
-> ## Learning Sideways
->
-> The phrase *lateral knowledge transfer* is sometimes used to describe what happens
-> when someone intended to teach one thing,
-> but their audience learned another along the way.
-> For example,
-> an instructor might set out to show people how to do a particular statistical analysis in R,
-> but what her learners might take away is some new keyboard shortcuts in R Studio.
-> Live coding makes this much more likely
-> because it allows learners to see the "how" as well as the "what".
+> ## Reading It Isn't Enough
+> Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
+> that teachers don't adopt instructional practices based on reports about the effectiveness of those practices. 
+> Although some may try these practices in the hope it helps them solve a problem, or because they 
+> are the few that are interested in experimenting with them to improve their teaching, social norms, institutional
+> culture, and lack of time and support prevents many teachers from looking beyond the lesson as it has been taught 'all 
+> these years'. Change in teaching doesn't come about through reading about new teaching practices, but by seeing 
+> these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
+
+The Carpentries pedagogical model supports lesson study by providing many opportunities for our instructors
+to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another 
+and to give each other feedback, you'll also have the opportunity to practice in front of an experienced instructor 
+as part of your instructor training checkout. In addition, Carpentry instructors always teach in pairs (or more), 
+giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
 > ## Giving Feedback
 >
+> We'll start by observing some examples of Carpentry workshop teaching and providing some feedback.
+> 
 > Watch [this video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
-> Try to organize feedback along two axes:
+> Organize your feedback along two axes:
 > positive vs. negative
 > and content (what was said) vs. presentation (how it was said).
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
+Now that you've had some practice giving observing teaching and giving feedback, let's practice with each other.
+
 > ## Feedback on Yourself
 >
 > 1.  Split into groups of three.
-> 2.  Have each person introduce themselves
->     and then explain, in no more than 90 seconds,
->     the key idea or ideas from
->     the Carpentry lesson episode they chose before the start of the training course
->     to another person in the group
->     while the third person records it (video and audio)
+> 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
+>     the Carpentry lesson episode you chose before the start of the training course.
+> 3.  Get together with your group and have each person teach their segment to the group,
+>     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
+>     Use a whiteboard or other visual aids if available, but do not use live coding. 
+>     We'll be practicing with live coding later.
+>     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
 >     (she becomes the videographer,
@@ -151,43 +122,23 @@ One of the goals of this workshop is to make trainees aware of educational pract
 >     i.e., people give feedback on themselves as well as on others.
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
+> 
 > This exercise should take about 25 minutes.  
 {: .challenge}
 
-## On Stage
-
-> ## Body Language
->
-> How was the experience of being videoed/receiving feedback?  What
-> did people notice?  What are some of your "tells" (habits or movements that betray nervousness)? Enter your thoughts in the Etherpad.  
->  
-> This discussion should take about 5 minutes.  
-{: .challenge}
-
-Everyone has nervous habits.  While these habits are often not as noticeable
-as you would think, it's good to identify ways to keep yourself from pacing,
-or fiddling with your jewellery, or not looking at the audience.
-For example, many of us become "Mickey Mouse" versions of ourselves when we're nervous,
-i.e., we talk more rapidly than usual, in a higher-pitched voice,
-and wave our arms around more than we usually would.
-
-But just like everyone has their own nervous habit, each person has their own
-strengths.  Musicians can be very different (but equally effective!)
-in their performance of the same piece; similarly, teachers can present the same material
-in very different ways.  The uniqueness of your teaching style can and should
-be based on your strengths.  This is why it's just as important to identify strengths
-as weaknesses when trying to improve your teaching.  It's good to know what you do well!
-
-## Feedback
+## Feedback Is Hard
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
 
 ![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved
-can share ground rules and expectations.  This is especially important
-when the instructor and/or students have different cultural or
-domain expectations about feedback.
+share ground rules and expectations. In Carpentries teaching, we use the two x two 
+paradigm for feedback. Each person giving feedback is expected to provide at least one
+piece of negative and one piece of positive feedback each for content and delivery. This
+helps overcome two common tendencies when giving feedback on teaching: to focus on the content 
+(even though delivery is at least as important) and to either provide only negative or 
+only positive feedback. 
 
 Here is a list of different
 ways that you, as the instructor, can set the stage for receiving feedback
@@ -249,36 +200,35 @@ with the feedback you gave.
 >
 > Watch either [this video][scipy-video-1] (8:40)
 > or [this one][scipy-video-2] (11:42).
-> Take notes about the presentation,
-> and divide those into four groups in the Etherpad
-> based on whether they are positive or negative
-> and whether they are about the content (what was said)
-> or the presentation (how it was said, e.g., body language).
-> Compare your notes with those made by other people,
-> and with the feedback given by your instructor.  
-> This exercise should take about 15 minutes.  
-{: .challenge}
-
-> ## Feedback on Yourself, Part II
+> For each, give feedback following the 2x2 
+> model. Put your feedback in the Etherpad.
 >
-> Later in the training,
-> repeat the first challenge exercise; however, when it comes time to give feedback,
-> use the same 2x2 scheme in the previous challenge.
+> This exercise and discussion should take about 15 minutes.  
 {: .challenge}
 
-> ## Learn More About Feedback
->
-> Read Gormally et al's "[Feedback about Teaching in Higher Ed]({{ page.root }}/files/papers/gormally-teaching-feedback-2014.pdf)"
-> and discuss ways you could make peer-to-peer feedback
-> a routine part of your teaching.
-> You may also enjoy Gawande's "[Personal Best](http://www.newyorker.com/magazine/2011/10/03/personal-best)",
-> which looks at the value of having a coach.  
+> ## Using Feedback
+> 
+> Look back at the feedback you received on your teaching in an earlier exercise. 
+> How do you feel about this feedback? Is it fair and reasonable? Do you agree with it? 
+> 
+> Identify at least one specific change you will make to your teaching based on this feedback.
+> Describe your change in the Etherpad.
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
-## Add exercise for reflecting on feedback
+Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to 
+use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
+If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you 
+may have a fixed mindset about teaching. By stengthening your growth mindset with respect to teaching, you can
+transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunites to 
+practice teaching and to get and give feedback tomorrow.
 
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
 [scipy-video-2]: https://vimeo.com/139181120
-[wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming
+[oecd-pisa]: http://www.oecd.org/pisa/
+[fincher-warren]: {{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf
+[fincher-stories]: {{ page.root }}/files/papers/fincher-stories-change-2012.pdf
+[barker-practice]: {{ page.root }}/files/papers/barker-practice-adoption-2015.pdf
