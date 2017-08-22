@@ -370,5 +370,37 @@ in which you were going to explain something that your learners already know.
 > {: .solution}
 {: .challenge}
 
+
+## In the Classroom
+When you teach your first Carpentry workshop, you probably won't have time to write your own MCQs. In fact, you probably won't know enough about the different kinds of misconceptions and broken mental models that occur in your learner population to write very good questions at all. 
+
+While many of the existing lessons contain MCQs and other formative assessment, our advice to assess every 10-15 minutes is not always written in to the structure of the lesson itself. Therefore, it's a good idea to think as you prepare to teach about how you might casually engage your learners in assessing their progress on the fly.  
+
+> ## Quick Fixes: Casual Assessment for Beginners
+>You're 30 minutes in to your first lesson. There's a multiple choice question further down the page, but you don't think you'll be there for another 20 minutes at least. The room is quiet.  What can you do? 
+>1) Talk with a partner. How many options can you think of? Enter your ideas in the etherpad. There are many useful ideas -- try to group related variants together. (3 minutes)
+>
+>2) Examine the options written in the etherpad. Which seem the most approachable for you? Do you have concerns about any of these assessment strategies? Enter a star next to your favorites. (3 minutes)
+>
+>3) Casual formative assessment runs the risk of assessing only the boldest learners in the room. What might you do to be sure you're getting assessment information about the whole room? Talk with a partner.
+>
+>4) You ask a question to the room. Nobody answers! You wait a little. Crickets. How should you interpret and resolve this situation?
+> a) Nobody knows the answer. I should answer my own question and proceed now that I have told them.
+> b) Nobody knows the answer. I should go back to the beginning of the lesson/section and start over.
+> c) Everybody knows the answer, but they think my question is stupid and have refused to dignify it with a response. I should make a joke about how obvious that question was and give them the answer just in case before moving on.
+> d) Several people probably know the answer but are afraid to speak up. I should let them talk to each other to develop confidence in their ideas, then ask the class again.
+> e) A few advanced learners might know the answer but are waiting to allow a more novice learner to take the question. I should let them talk to each other to share their knowledge, then ask the class again.
+{: .challenge}
+
+
+
+
+
+[amazon-kr-c]: http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/
+[amazon-sql-vsg]: http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/
+[amazon-thinking-physics]: http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r
+[amazon-unix-vsg]: http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/
+[amazon-upe]: http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/
+[peer-instruction-video]: https://www.youtube.com/watch?t=1&v=2LbuoxAy56o
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
