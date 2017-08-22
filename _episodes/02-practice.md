@@ -160,6 +160,15 @@ both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
+## Meeting Learners Where They're At
+> One of the strengths of Carpentry workshops is that we meet learners where they're at. Carpentry instructors
+> strive to help learners
+> progress from whatever starting point they happen to be at, without making anyone 
+> feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
+> building an inclusive learning environment, and continually getting (and paying attention to!) feedback
+> from learners. We'll be talking in more depth about each of these strategies as we go forward in our workshop.
+{: .callout}
+
 ## How `Knowledge` Gets in the Way
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
@@ -369,6 +378,15 @@ in which you were going to explain something that your learners already know.
 >> assessments and that an individual assessment doesn't have to take a lot of time.
 > {: .solution}
 {: .challenge}
+
+> ## A Corollary Regarding Novices
+>
+> Students are commonly _far_ too satisfied to not understand key points
+> and remain confused.  If students remain confused, they are far less likely
+> to adopt our "good enough" practices at the conclusion of the workshop.
+> Encourage helpers to support confused students as far as possible within
+> the flow of the workshop.
+{: .callout}
 
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
