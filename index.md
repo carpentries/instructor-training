@@ -21,7 +21,7 @@ This two-day class has two goals:
 
 *Please fill in [this form][application-form] if you wish to take part in this course.
 Priority is given to members of our partner organizations,
-but we run several open-enrolment classes each year as well.*
+but we run several open-enrollment classes each year as well.*
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
