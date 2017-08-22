@@ -3,9 +3,11 @@ title: "Building Teaching Skill: Lesson Study"
 teaching: 20
 exercises: 35
 questions:
-- "How can I design good challenges?"
+- "How should I use learning objectives when preparing to teach?"
 - "How can I adapt challenges while teaching?"
+- "How can I adapt my teaching in response to formative assessment"
 objectives:
+- "Create a learner profile for someone likely to attend a workshop you will teach."
 - "Identify the information about learners' understanding you hope to gain from a particular exercise and how you will use this information to guide your teaching."
 - "Start to become comfortable adapting challenges in real time for different levels of learners."
 keypoints:
@@ -17,10 +19,74 @@ Yesterday we started a discussion of the importance of [lesson study]({{ page.ro
 We started out by focusing on the lessons we can learn as instructors from watching others teach, having
 others observe our teaching, and giving and receiving feedback based on these observations. In this 
 section, we'll switch our focus to another important part of lesson study: detailed discussion of
-curricular components (including lesson contents and exercises) with fellow instructors. 
+curricular components (including lesson objectives, contents, and exercises) with fellow instructors. 
+
+### Learner Profiles
+
+To teach effectively, you have to know *who* you are teaching. Your audience can be identified in many ways.  Frequently
+people who are hosting a workshop have a specific audience in mind, based on their own experience.  
+
+One "creative" way to characterize the audience for a course is to write *learner profiles*.
+This technique is borrowed from user interface design,
+where short profiles of typical users are created
+to help designers think about their audience's needs,
+and to give them a shorthand for talking about specific cases.
+
+Learner profiles have three parts:
+the person's general background,
+the problem they face,
+and how the course will help them.
+A learner profile for Software Carpentry might be:
+
+> João is an agricultural engineer doing his masters in soil physics.
+> His programming experience is a first year programming course using C.
+> He was never able to use this low-level programming in his activities,
+> and never programmed after the first year.
+>
+> His work consists of evaluating physical properties of soil samples from different conditions.
+> Some of the soil properties are measured by an automated device that sends logs in a text format to his machine.
+> João has to open each file in Excel,
+> crop the first and last quarters of data values,
+> and calculate an average.
+>
+> Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file,
+> and how to use R to read these files and calculate the required statistics.
+> It will also show him how to put his programs and files under version control
+> so that he can re-run analyses and figure out which results may have been affected by changes.
+{: .quotation}
+
+> ## Learner Profiles
+>
+> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
+> and then write one that describes a fictional colleague of your own.
+> Who are they,
+> what problems do they face,
+> and how will this training help them?
+> Be as specific as possible.  
+> Enter your learner profile into the Etherpad.
+>
+> This exercise should take about 10 minutes.  
+{: .challenge}
+
+## Working With Learning Objectives
+The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners.
+
+> ## Evaluate SWC and DC Learning Objectives
+>
+> Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
+> Take a minute to select one learning objective from one of those lessons,
+> then complete the following steps to evaluate it.
+>
+> 1. Identify the learning objective verb. How specifically does this verb describe the desired learner outcome?
+> 2. In your opinion, does the lesson do an effective job of meeting the stated objective?
+> 3. Does the lesson meet any objectives that are not stated in the objectives section?
+>
+> This exercise should take about 10 minutes.  
+{: .challenge}
 
 ## Designing Good Challenges
 
+Many lessons have existing challenges that are already included, but when preparing to teach it is always a good idea to have a few extra challenges in your pocket. This is particularly true if you think that the level of your learners may not be well matched to the existing challenge questions, or if you are able to anticipate a likely misconception that is not targeted by an existing challenge.
 When writing challenges, our goal is to have exercises that provide useful feedback to the 
 instructor (and learner) about what aspects of the topic learners are having difficulty with. You should always be 
 able to identify what information you hope to gain from a particular exercise, so that you know in what situations
