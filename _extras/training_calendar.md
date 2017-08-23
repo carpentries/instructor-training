@@ -18,7 +18,6 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 # North America
 
 ##### Eastern time
-* September 21-22, 2017
 * October 24-25, 2017
 * November 14-15, 2017
 
