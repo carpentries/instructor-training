@@ -342,6 +342,9 @@ concept in your concept map.
 > This exercise should take about 10 minutes. 
 {: .challenge}
 
+## Summary
+The process of learning is constrained by the limits of working memory. In order to move new information into long-term memory, it must be actively applied, but activities that make excessive demands on working recall are likely to induce cognitive overload and can easily harm learner motivation. Instructional tools that expand working memory by increasing connectivity (chunking) among new concepts, such as concept mapping, can improve outcomes for subsequent memory-intensive exercises. Formative assessments, when performed frequently, help learners by prompting them to apply new content before it has been overwritten. Faded examples both minimize demands on working memory and offer context that helps improve connectivity for future work, in which the "scaffolding" of contextual support can be gradually removed. Both concept maps and faded examples may be used as formative assessments - they can even be combined! (What would a faded concept map look like?) In the end, anything you can do to a) recognize and b) support learners in working with the limitations of short-term memory will improve the effectiveness of your teaching.
+
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
 [memory-test]: http://cat.xula.edu/thinker/memory/working/serial
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
