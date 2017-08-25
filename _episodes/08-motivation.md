@@ -368,7 +368,23 @@ and that any additional concerns are likely to be addressed.
 > by exposing their content to search engines.
 {: .callout}
 
-The first step is to know what you need to do.
+The first step is to know what you need to do. There are a number of good resources for learning
+about accessibility. 
+
+> ## One Thing
+> 
+> The UK Home Office has put together a set of posters of dos and don'ts for making
+> visual and web-based materials more accessible for different populations. Take a look at one of 
+> [these posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK) and 
+> put one thing you've learned in the Etherpad. 
+> 
+> Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
+> available in a number of languages, including Dutch, French, Spanish, Swedish, Portugese, German, and
+> Chinese.
+> 
+> This exercise should take about 5 minutes.
+{: .challenge}
+
 The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
 is a good starting point focused primarily on assisting the visually impaired,
 while Liz Henry's blog post about
