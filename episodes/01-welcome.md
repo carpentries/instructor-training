@@ -62,11 +62,12 @@ Carpentry organizations.
 Software and Data Carpentry are
 both communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
-researchers.  Software Carpentry focuses on how researchers can be effective
-computationally and in developing software; Data Carpentry focuses on how
-researchers can effectively manage their data.
+researchers.  Software Carpentry focuses on helping researchers develop foundational 
+computational skills; Data Carpentry focuses on helping
+researchers work effectively with their data through its lifecycle.
+
 The main goal of these organizations is not to teach specific skills, per se - although those
-are covered - but instead, to convey best practices that will enable
+are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
 
@@ -74,14 +75,14 @@ researchers to be more productive and do better research.
 
 We will not be going
 over the workshop content in detail (although we will talk about
-the lessons tomorrow), but instead
+the lessons tomorrow), but instead we will
 focus on developing teaching skills that are broadly
 useful across all of our lessons.  Part of this is because
-this two day training is the first step in getting fully certified
+this two-day training is the first step in getting fully certified
 to teach Software and/or Data Carpentry workshops.
 The follow-up steps for full certification will require that you dig into the workshop content yourself and we'll talk about that more tomorrow afternoon.
 
-To orient yourself, there is a schedule on the workshop webpage.
+To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.
 
 ### How Learning Works
 
@@ -93,14 +94,14 @@ findings and demonstrating how they can be used to help people learn better and 
 
 One aspect of this course's design is its relationship to teaching
 as a performance art.  Just as musicians learn theory, practice techniques,
-and perform for each other, we're going to be looking at some learning
-theory (also known as educational psychology) and why it matters to us
-as Software and Data Carpentry instructors, create exercises and learning
-materials, and practice our teaching.  You can expect a lot of
-hands-on work and discussion.  We'll be using the Etherpad to collect
+ and perform for each other, we're going to be looking at some learning
+ theory (also known as educational psychology) and why it matters to us
+ as Software and Data Carpentry instructors. We will create exercises and learning
+ materials, and practice our teaching.  You can expect a lot of
+hands-on work and discussion.  We'll be using the the Etherpad to collect
 answers and help facilitate discussion - if you ever have any questions,
 feel free to put them into the notes or chat box of the Etherpad and we'll
-make sure we get to them by the end of the day.
+make sure we get to them by the end of each day.
 
 ### Creating a Positive Learning Environment
 
@@ -117,13 +118,13 @@ adopted by the Software and Data Carpentry communities, and the
 overall philosophy and procedures of both organizations in order
 to prepare you to teach at Software and Data Carpentry workshops.
 The greatest asset of Software and Data Carpentry is people like
- yourself - people who want to help researchers learn about these ideas
+ yourselves - people who want to help researchers learn about these ideas
  and share their own experience and enthusiasm.  We hope that this training
  gives everyone a chance to meet new people and share ideas.
 
 ## Assessing Trainee Motivation and Prior Knowledge
 
-It’s important to first assess the prior knowledge of the workshop
+It's important to first assess the prior knowledge of the workshop
 participants because this will influence (to some extent) how you
 motivate the activities and how you communicate with the attendees.
 
@@ -139,31 +140,31 @@ motivate the activities and how you communicate with the attendees.
 >
 > *Which of these most accurately describes your teaching experience?*
 >
->
->    1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
->    2.  I have not had any teaching experience in the past.
->    3.  I have taught a seminar, workshop, or other short or informal course.
->    4.  I have been the instructor-of-record for my own university/college course.
->    5.  I have taught at the K-12 level.
+> 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
+> 2.  I have not had any teaching experience in the past.
+> 3.  I have taught a seminar, workshop, or other short or informal course.
+> 4.  I have been the instructor-of-record for my own university/college course.
+> 5.  I have taught at the K-12 level.
+> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
 >
 > *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
 >
 >     1. I'm not sure what a mental model is.
 >     2. "In Python, what is the expected output for the following statement: 1 + '2'"
-> 	(a) '12'
-> 	(b) TypeError
-> 	(c) ‘3’
-> 	(d) 3
+> 	(a) '12'  
+> 	(b) TypeError  
+> 	(c) ‘3’  
+> 	(d) 3  
 >     3. "Rate your experience with the R programming language."
-> 	(a) never used it
-> 	(b) beginner
-> 	(c) intermediate
-> 	(d) expert
+> 	(a) never used it  
+> 	(b) beginner  
+> 	(c) intermediate  
+> 	(d) expert  
 >     4. "What does the Unix command 'cut' do?"
-> 	(a) Extracts sections from each line of input.
-> 	(b) Sorts fields of a line
-> 	(c) Searches the input file for lines containing a match to a pattern
-> 	(d) Removes a given input from a line
+> 	(a) Extracts sections from each line of input.  
+> 	(b) Sorts fields of a line  
+> 	(c) Searches the input file for lines containing a match to a pattern  
+> 	(d) Removes a given input from a line  
 >
 > This exercise should take about 3 minutes.
 {: .discussion}
