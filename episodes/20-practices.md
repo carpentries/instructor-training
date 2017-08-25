@@ -16,7 +16,7 @@ keypoints:
 
 Carpentry instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
-(e.g. live coding and formative assessment), and others we've been modelling throughout
+(e.g. live coding and formative assessment), and others we've been modeling throughout
 the workshop, without neccessarily calling attention to what we were doing. Some of 
 these teaching techniques are implemented at particular points in a workshop, while
 others are used throughout. Let's put together everything we've learned and organize 
@@ -76,7 +76,7 @@ about how a Carpentry workshop operates.
 > pasting.
 >
 > Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh] 
-> (SSH) or web browser pages instead. This solve the installation 
+> (SSH) or web browser pages instead. This solves the installation 
 > issues, but makes us dependent on host institutions' WiFi (which can be 
 > of highly variable quality), and has the issues mentioned above with things 
 > like keyboard shortcuts.
@@ -112,7 +112,16 @@ skill levels. Some may be at the novice level in one technology (e.g. git),
 but competent or even expert in another (e.g. R). As an instructor,
 you will need to be attentive to this diversity in your learners' prior skill level,
 and adjust your instruction appropriately. This is one of the most difficult things
-instructors experience when running a workshop. Here are some strategies Carpentry 
+instructors experience when running a workshop. 
+
+> ## What Are the Challenges?
+> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with 
+> a partner and put your thoughts in the Etherpad.
+> 
+> This discussion should take about 5 minutes.
+{: .challenge}
+
+Here are some strategies Carpentry 
 instructors have generated to deal with this issue:
 
 *   Before running a workshop,
@@ -126,6 +135,9 @@ instructors have generated to deal with this issue:
 *   Ask more advanced learners to help people next to them.
     They'll learn from answering their peers' questions
     (since it will force them to think about things in new ways).
+*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices 
+    and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
+    with by helpers or the co-instructor in the Etherpad.
 *   The helpers and the instructor who isn't teaching the particular episode
     should keep an eye out for learners who are falling behind
     and intervene early
