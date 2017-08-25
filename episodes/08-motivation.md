@@ -1,43 +1,41 @@
 ---
 title: "Creating a Positive Learning Environment: Motivation and Demotivation"
-teaching: 30
-exercises: 25
+teaching: 20
+exercises: 40
 questions:
-- "What motivates and demotivates learners and instructors?"
+- "Why is motivation important?"
+- "How can we create a motivating environment for learners?"
 objectives:
-- "Classify skills according to time required to master them and usefulness once mastered."
-- "Identify the motivational strategies used in a short lesson."
-- "Explain the difference between fixed mindset and growth mindset and its implications for classroom performance."
-- "Do an accessibility test of a workshop venue."
+- "Identify authentic tasks and explain why teaching using them is important."
+- "Develop strategies to avoid demotivating learners."
+- "Recognize and overcome imposter syndrome in yourself and your learners."
 keypoints:
-- "People learn best when they are intrinsically motivated."
-- "The two biggest demotivators are indifference and unfairness."
-- "Teach what's most immediately useful first in order to gain learners' trust."
-- "Be careful not to remind learners of negative stereotypes when teaching."
-- "We're all faking it."
-- "Don't teach or learn alone."
-- "Belief that competence comes with practice improves learning outcomes."
-- "Measures taken to improve accessibility aid everyone."
-- "Measures taken to make learning more inclusive aid everyone."
+- "A positive learning environment helps people concentrate on learning."
+- "People learn best when they see the utility in what they're learning, so teach what's most immediately useful first."
+- "Imposter syndrome is a powerful force, but can be overcome."
+- "Accessibility benefits everyone."
 ---
 
 In order for learners to step out into new and familiar terrain, they will
 need encouragement.  This section discusses typical ways that
-learners are motivated (and can be demotivated!) and describes ways that communities
-of practice can be welcoming (or threatening) to new members.
+learners are motivated (and can be demotivated!) and provides practice opportunities
+for you to become confident in motivating your learners.
 
 ## Creating A Positive Learning Environment
 
-Creating a positive learning environment is a crucial first step to setting the stage for student success. As instructors, it is crucial to establish the workshop setting as a safe space for learning. Establishing a safe space for learning is a combination of many factors:
+Creating a positive learning environment is an important first step to setting the stage
+for learner success. As instructors, it is crucial to establish the workshop setting
+as a safe space for learning. Establishing a safe space for learning is a combination 
+of many factors:
 
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in students. Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for students first learning.
-+ *Establishing norms for interaction*. This may be done via a Code of Conduct or by simple rules of interaction. The key is to avoid feedback that sounds negative or discouraging.
-+ *Encouraging students to learn from each other*. Acknowledging that the material is difficult and that they will learn more working with each other. Asking more advanced students to help beginner students is a good way for both kinds of students to learn.
-+ *Acknowledging when students are confused.* Many times, understanding why students are confused is useful feedback into the teaching process. Pinpointing the cause of their misunderstanding can be very informative to other students. Acknowledging that their misunderstanding is a valid one is key to encouraging a growth mindset.
++ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in a later lesson). Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for novice learners.
++ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a Code of Conduct or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
++ *Encouraging students to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
++ *Acknowledging when students are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint the causes of leaners' misunderstandings. Acknowledging that their misunderstandings are valid one is also key to encouraging a growth mindset.
 
-## Motivation
+## Teach Most Useful First
 
-People learn best when they care about the topic and believe they can master it.
+People learn best when they care about a topic and believe they can master it.
 This presents us with a problem
 because most scientists don't want to program:
 they want to do science,
@@ -50,7 +48,7 @@ Imagine a grid whose axes are labelled "mean time to master" and "usefulness onc
 Everything that's quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
-don't belong in this course.
+don't belong in our workshops.
 
 ![What to Teach](../fig/what-to-teach.png)
 
@@ -65,16 +63,8 @@ don't belong in this course.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/08-memory/).
+> please revisit the discussion of [expert blind spot]({{ page.root }}/04-expertise.md#expert-blind-spots).
 {: .callout}
-
-Many of the foundational concepts of computer science,
-such as computability,
-inhabit the "useful but hard to learn" corner of the grid described above.
-This doesn't mean that they aren't worth learning,
-but if our aim is to convince people that they *can* learn this stuff,
-and that doing so will help them do more science faster,
-they are less compelling than things like automating repetitive tasks.
 
 We have therefore adopted a "teach most immediately useful first" approach.
 We try to have learners do something that *they* think is useful in their daily work
@@ -84,62 +74,56 @@ it also helps build their confidence in us,
 so that if it takes longer to get to the payoff of a later topic,
 they'll stick with us.
 
-Perhaps the best-studied use of this idea is
-the *[media computation]({{ page.root }}/files/papers/guzdial-mediacomp-retrospective-2013.pdf)* approach
-developed by Guzdial and Ericson at Georgia Tech.
-Instead of printing "hello world" or summing the first ten integers,
-their students' first program opens an image,
-resizes it to create at thumbnail,
-and saves the result.
-This is an *authentic task*,
-i.e.,
-something that learners believe they would actually do in real life.
-It is also *tangible*:
-if the image comes out the wrong size,
-learners have a concrete starting point for debugging.
-
 > ## Authentic Tasks: Think, Pair, Share
 >
-> **Think** about something you did this week that uses one or more of the skills we teach,
+> **Think** about some task you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness"?
+> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness".
 > In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
 > This exercise and discussion should take about 10 minutes.  
 {: .challenge}
 
-## Strategies for Motivating Learners
+## Other Motivational Strategies  
 
-*[How Learning Works][amazon-hlw]*
-contains this list of evidence-based methods to motivate learners.
-None of them are surprising---it's hard to imagine someone saying
-that we *shouldn't* identify and reward what we value---but
-it's useful to check lessons against these points
-to make sure they're doing at least a few of these things.
+In addition to teaching things that will make our learners' lives easier and focusing
+on authentic tasks, there are a number of other strategies we can use to motivate
+learners.
 
-* Strategies to Establish Value
-    1. Connect the material to students' interests.
-    2. Provide authentic, real-world tasks.
-    3. Show relevance to students' current academic lives.
-    4. Demonstrate the relevance of higher-level skills to students' future professional lives.
-    5. Identify and reward what you value.
-    6. Show your own passion and enthusiasm for the discipline.
-* Strategies to Build Positive Expectations
-	1. Ensure alignment of objectives, assessments, and instructional strategies.  
-	2. Identify an appropriate level of challenge.
-	3. Create assignments that provide an appropriate level of challenge.
-	4. Provide early success opportunities.  
-	5. Articulate your expectations.
-	6. Provide rubrics.
-	7. Provide targeted feedback.
-	8. Be fair.
-	9. Educate students about the ways we explain success and failure.  
-	10. Describe effective study strategies.
-* Strategies for Self-Efficacy
-	1. Provide students with options and the ability to make choices.
-	2. Give students an opportunity to reflect.  
+> ## Strategies for Motivating Learners
+>
+> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al, 
+> contains this list of evidence-based methods to motivate learners.
+>
+> In groups of two or three, pick three of these points and describe in one sentence
+> in the Etherpad how can we apply these strategies in our workshops.
+>
+> * Strategies to Establish Value
+>     1. Connect the material to students' interests.
+>     2. Provide authentic, real-world tasks.
+>     3. Show relevance to students' current academic lives.
+>     4. Demonstrate the relevance of higher-level skills to students' future professional lives.
+>     5. Identify and reward what you value.
+>     6. Show your own passion and enthusiasm for the discipline.
+> * Strategies to Build Positive Expectations
+> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
+> 	2. Identify an appropriate level of challenge.
+> 	3. Create assignments that provide an appropriate level of challenge.
+> 	4. Provide early success opportunities.
+> 	5. Articulate your expectations.
+> 	6. Provide rubrics.
+> 	7. Provide targeted feedback.
+> 	8. Be fair.
+> 	9. Educate students about the ways we explain success and failure.
+> 	10. Describe effective study strategies.
+> * Strategies for Self-Efficacy
+> 	1. Provide students with options and the ability to make choices.
+> 	2. Give students an opportunity to reflect.
+> 
+> This exercise and discussion should take about 5 minutes.
+{: .challenge}
 
 > ## Provide an Example
 >
@@ -150,9 +134,9 @@ to make sure they're doing at least a few of these things.
 > "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
 > a haiku is used to to teach grep.
 > This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didatic example, I connect my bioinformatics users with domain-specific examples by showing
+> After the didactic example, I connect my bioinformatics users with domain-specific examples by showing
 > [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> consisiting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
+> consisting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
 > This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
 {: .callout}
 
@@ -169,7 +153,7 @@ to make sure they're doing at least a few of these things.
 > ## Not Just Learners
 >
 > What's missing from this list is strategies to motivate the *instructor*.
-> As we said in [the introduction]({{ page.root }}/02-introduction/),
+> As we said in the introduction,
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
 > particularly when they are volunteers.
@@ -179,49 +163,42 @@ to make sure they're doing at least a few of these things.
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > SWC wants instructors with diverse backgrounds because you each bring something
-> unique to our community.  Read
-> the [testimonials]({{ page.root }}/testimonials/) from other instructors,
-> to see what motivates them to teach.  After this class, or during a break,
-> write a short explanation of what motivates you to teach. Save this as part of
-> your teaching philosophy for future reference.  
+> unique to our community.  
+> 
+> What motivates you to teach? Write a short explanation of what motivates you to teach. 
+> Save this as part of your teaching philosophy for future reference.  
 >
 > This exercise should take about 5 minutes.  
 {: .challenge}
 
-## Demotivation
+## How Not to Demotivate Your Learners
 
-> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
-
-One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions.
-
-A few common demotivators are *indifference* and *unfairness*.
-If learners believe that the instructor or the educational system doesn't care about them or the lesson,
-they won't care either.
-And if people believe the class is unfair,
-they will also be demotivated,
-even if it is unfair in their favor
-(because consciously or unconsciously they will worry that
-they will some day find themselves in the group on the losing end).  Finally,
-a "holier-than-thou" or contemptuous attitude from an instructor is a quick way
-to alienate a classroom and cause learners to tune out.
+One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. None of us goes into 
+a workshop with the intention of creating a hostile environment or making the learners
+hate the tools we're teaching, but we can all accidentally do just that if we don't 
+pay attention to what we say and how we interact with our learners. We'll discuss some
+common demotivators and help you develop strategies for avoiding them.
 
 ### Things You Shouldn't Do in a Workshop
 
 *   Tell learners they are rubbish because they use Excel and/or Word,
     don't modularize their code, etc.
-*   Repeatedly make digs about Windows and praise Linux, e.g., say that
+*   Say negative things about Windows and praise Linux, e.g., say that
     the former is for amateurs.
 *   Criticize GUI applications (and by implication their users) and
     describe command-line tools as the One True Way.
+*   Talk contemptuously or with scorn about any tool. Regardless of 
+    its shortcomings, many of your learners may be using that tool.
+    Convincing someone to change their practices is much harder when 
+    they think you disdain them.
 *   Dive into complex or detailed technical discussion with the one or
     two people in the audience who clearly don't actually need to be
     there.
 *   Pretend to know more than you do.  People will actually trust you
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help.
-*   Use the J word ("just").
-    As [discussed earlier]({{ page.root }}/08-memory/),
-    this signals to the learner that
+*   Use the J word ("just") or other demotivating words we talked about in a 
+    [previous lesson]({{ page.root }}/04-expertise.md) These signal to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
@@ -231,51 +208,65 @@ to alienate a classroom and cause learners to tune out.
     are in the wrong place, and it may prevent them from asking questions in
     the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
 
-> ## A Corollary Regarding Novices
->
-> Students are commonly _far_ too satisfied to not understand key points
-> and remain confused.  If students remain confused, they are far less likely
-> to adopt our "good enough" practices at the conclusion of the workshop.
-> Encourage helpers to support confused students as far as possible within
-> the flow of the workshop.
-{: .callout}
+It can be difficult to avoid these demotivators entirely. Some people are so used to 
+making fun of Windows-users with their friends, or talking about how terrible Excel
+that they initially fail to realize they're doing it while teaching. Teaching yourself
+to avoid these types of comments takes practice, but is well worth the effort. No one
+likes to be made fun of, and talking badly about people who use GUIs, or who aren't 
+writing their thesis in LaTeX is unlikely to make them excited about learning your 
+favorite scripting language. 
 
-## Dismissive Language
-
-Experts often betray their blind spot by using the word "just" in explanations,
-as in, "Oh, it's easy, you just fire up a new virtual machine
-and then you just install these four patches to Ubuntu
-and then you just re-write your entire program in a pure functional style---no problem."
-This gives learners the very clear signal
-that the instructor thinks their problem is trivial
-and that they therefore must be stupid.  
-
-With practice, we can change the way we speak to avoid this type of demotivating language and replace
-it with more positive and motivating word choices.
-
-> ## Changing Your Language
+> ## Brainstorming Demotivational Experiences
 >
-> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
-> express this meaning in a positive and motivational way?  
+> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
+> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
+> *Share* your story in the Etherpad.  
 >
-> In the Etherpad, make a list of demotivating words/phrases and alternatives.  
->
-> This discussion should take about five minutes.  
->
->> ## Solution  
->> Courtney Seiter lists [10 words and phrases][motivation-words] that can change a conversation: if, could, yes, together, thank you,
->> choose to, and, because, willing, and the person's name. These are motivating words and phrases that can shift mindsets.
->> Jason Fried lists several dirty [four-letter words:][four-letter-words] need, must, can’t, easy, just, only, and fast, as well as
->> examples of how they are used to demotivate. Statements like
->> *	"We really need it."
->> *	"If we don’t we can’t ..."
->> *	"Wouldn’t it be easy if we just did it like that?"
->> *	"Can you try it real fast?"
->> can be perceived as dismissive or demeaning or worse.
->>
-> {: .solution}
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
+## Psychological Demotivators
+
+As instructors, we can learn to avoid talking disparagingly about our learners' choice
+of text editors and levels of technical knowledge. This helps a lot in avoid 
+demotivating learners. There are other factors, however, that contribute to demotivation, 
+some of which are either systemic, or built into our psychological makeup as human beings. 
+We can still have a positive impact in fighting these demotivators by thinking carefully about 
+the language that we use and how we interact with our learners.
+
+### Stereotype Threat
+One major psychological demotivator is *stereotype threat*. Reminding people of negative stereotypes,
+even in subtle ways, can make them anxious about the risk of confirming those stereotypes, in turn reducing
+their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
+and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
+only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
+There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
+and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*). Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in 
+the classroom.
+
+While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
+it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
+[the term has been used in many ways][shapiro-neuberg-stereotype-threat].
+Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
+What *is* clear is that we need to avoid thinking in terms of a deficit model
+(i.e., we need to change the members of under-represented groups because they have some deficit, 
+such as lack of prior experience) and instead use a systems approach 
+(i.e., we need to change the system because it produces these disparities).
+
+> ## Never Learn Alone
+>
+> One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
+> rather than as individuals when possible.
+> If an entire lab group comes,
+> or if attendees are drawn from the same (or closely-related) disciplines,
+> everyone in the room will know in advance
+> that they will be with at least a few people they trust,
+> which increases the chances of them actually coming.
+> Furthermore, 
+> if people attend a workshop with their labmates, it's more likely they will
+> work together to implement what they've learned after the workshop has ended.
+{: .callout}
 
 > ## The Importance of Having Rules
 >
@@ -289,75 +280,18 @@ it with more positive and motivating word choices.
 > and about what kind of learning experience they can expect.
 {: .callout}
 
-> ## Stereotype Threat
->
-> Reminding people of negative stereotypes,
-> even in subtle ways,
-> makes them anxious about the risk of confirming those stereotypes,
-> which in turn reduces their performance.
-> This is called *[stereotype threat][wikipedia-stereotype-threat]*,
-> and the clearest examples in computing are gender-related.
-> Depending on whose numbers you trust,
-> only 12-18% of programmers are women,
-> and those figures have actually been getting worse over the last 20 years.
-> There are many reasons for this
-> (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
-> and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*).
-> Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
-> summarizes what we know about stereotype threat in general
-> and presents some strategies for mitigating it in the classroom.
->
-> However,
-> while there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
-> it's not clear that stereotype threat is the underlying mechanism.
-> Part of the problem is that
-> [the term has been used in many ways][shapiro-neuberg-stereotype-threat];
-> another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
-> What *is* clear is that we need to avoid thinking in terms of a deficit model
-> (i.e., we need to change the members of under-represented groups because they have some deficit, such as lack of prior experience)
-> and instead use a systems approach
-> (i.e., we need to change the system because it produces these disparities).
-{: .callout}
-
-> ## Brainstorming Demotivational Experiences
->
-> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
-> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
-> *Share* your story in the Etherpad.  
->
-> This exercise should take about 5 minutes.  
-{: .challenge}
-
-> ## Never Learn Alone
->
-> One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
-> rather than as individuals, when possible.
-> If an entire lab group comes,
-> or if attendees are drawn from the same (or closely-related) disciplines,
-> everyone in the room will know in advance
-> that they will be with at least a few people they trust,
-> which increases the chances of them actually coming.
-> It also helps after the workshop:
-> if people come with their labmates,
-> they can work together to implement what they've learned.
-{: .callout}
-
 ### Impostor Syndrome
 
-[Impostor syndrome][wikipedia-impostor-syndrome] is the belief that one is not good enough for a job or position,
-that one's achievements are lucky flukes,
-and an accompanying fear of being "found out".
-Impostor syndrome seems to be particularly common among
-[high achievers who undertake publicly visible work][usenix-impostor-syndrome].
+Another major psychological demotivator is *[impostor syndrome][wikipedia-impostor-syndrome]*.
+Imposter syndrome is the belief that one is not good enough for a job or position,
+and that one's achievements are due to luck rather than talent or skill.
+This is also accompanied by the fear of being "found out".
 
-Academic work is frequently undertaken alone or in small groups but the results are shared and criticized publicly.
-In addition,
-we rarely see the struggles of others,
-only their finished work,
-which can feed the belief that everyone else finds it easy.
-Women and minority groups,
-who already feel additional pressure to prove themselves in some settings,
-[may be particularly affected][high-achieving-women].
+Academic work is frequently undertaken alone or in small groups but the results are shared and 
+criticized publicly. In addition,
+we rarely see the struggles of others, only their finished work, which can feed the belief that everyone 
+else finds it easy. Women and minority groups, who already feel additional pressure to prove themselves in
+some settings, [may be particularly affected][high-achieving-women].
 
 Two ways of dealing with your own impostor syndrome are:
 
@@ -389,7 +323,17 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-## Accessibility
+> ## Overcoming Imposter Syndrome
+> 
+> Think of a time when learning something was difficult for you, or
+> you made a mistake that seemed silly or embarassing. Is that task still hard for you?
+> In the Etherpad, describe how you might you use this as a motivational story to help your learners 
+> overcome their own imposter syndrome. 
+> 
+> This exercise should take about 5 minutes. 
+{: .challenge}
+
+### Accessibility Issues
 
 Not providing equal access to lessons and exercises
 is about as demotivating as it gets.
@@ -412,15 +356,15 @@ and that any additional concerns are likely to be addressed.
 >
 > [Curb cuts][wikipedia-curb-cuts]
 > (the small sloped ramps joining a sidewalk to the street)
-> were originally created to make it easier for the physically disabled to move around,
+> were originally created to make it easier for wheelchair users to move around,
 > but proved to be equally helpful to people with strollers and grocery carts.
 > Similarly,
 > steps taken to make lessons more accessible to people with various disabilities
 > also help everyone else.
 > Proper captioning of images,
 > for example,
-> doesn't just give screen readers something to say:
-> it also makes the images more findable
+> benefits people with no or limited vision by giving screen readers something to say:
+> but it also makes the images more findable
 > by exposing their content to search engines.
 {: .callout}
 
@@ -431,14 +375,12 @@ while Liz Henry's blog post about
 [accessibility at conferences][conference-accessibility]
 has a good checklist for people with mobility issues,
 and [this interview][deaf-accessibility]
-with Chad Taylor is a good introduction to issues faced by the hearing impaired.
+with Chad Taylor is a good introduction to issues faced by those with no or limited hearing.
 
 The second is to know how well you're doing.
 For example,
 sites like [WebAIM][webaim] allow you to check
-how accessible your online materials are to visually impaired users.
-(According to [this report][webaim-swc],
-we still have some work to do...)
+how accessible your online materials are to users with no or limited vision.
 
 The third,
 and most important,
@@ -446,6 +388,18 @@ is to *involve people with disabilities in decision-making*.
 Our mailing lists are a good place to ask for advice,
 and updates to [our accessibility checklist]({{ site.swc_site }}/checklists/accessibility/)
 are always welcome.
+
+> ## What Happens When Accessibility is an Issue? 
+> 
+> Think of a time when you've been affected by, or noticed someone else
+> being affected by issues with accessibility. This may have been at a 
+> conference you attended where the elevator was out of service, or maybe 
+> a class you were taking relied on audio delivery of content. Describe what happened, 
+> how it impacted your (or someone else's) ability to be involved and what could 
+> have been done to provide better accessibility in this case.
+> 
+> This exercise should take about 5 minutes.
+{: .challenge}
 
 > ## Every Little Bit Counts
 >
@@ -469,33 +423,27 @@ are always welcome.
 >
 > Find the nearest public transportation drop-off point to your building
 > and walk from there to your office and then to the nearest washroom,
-> making notes about things you think would be difficult for someone with mobility issues.
+> making notes about things you think would be difficult for a wheelchair user.
 > Now borrow a wheelchair and repeat the journey.
 > How complete was your list of challenges?
 > And did you notice that the first sentence in this challenge
-> assumed you could actually walk?
+> assumed you could walk?
 {: .callout}
 
-## Inclusivity
+### Inclusivity
 
 *Inclusivity* is a policy of including people who might otherwise be excluded or marginalized.
-In computing,
-it means making a positive effort to be more welcoming to women,
-people of color,
-people with various sexual orientations,
-the elderly,
-the physically challenged,
-the formerly incarcerated,
-the economically disadvantaged,
-and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
+In computing, it means making a positive effort to be more welcoming to women,
+people of color, people with various sexual orientations,
+the elderly, people with physical disabilities, the formerly incarcerated,
+the economically disadvantaged, and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
 Lee's paper
 "[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
-(which you were asked to read before the workshop)
-is a brief, practical guide to doing that with references to the research literature.
+is a brief, practical guide with references to the research literature.
 These help learners who belong to one or more marginalized or excluded groups,
-but help motivate everyone else as well;
-while they are phrased in terms of term-long courses,
-many can be applied in our workshops,
+but help motivate everyone else as well. 
+
+Many of these can be applied to our workshops,
 such as:
 
 *   asking learners to email you before the workshop
@@ -510,15 +458,6 @@ such as:
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
-> ## Pick One
->
-> 1.  Pick one activity or change in practice from
->     [Lee's paper]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)
->     that you would like to work on.
-> 2.  Put a reminder in your calendar three months in the future
->     to self-check whether you have done something about it.
-{: .challenge}
-
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
@@ -529,19 +468,14 @@ such as:
 [four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
-[motivation-words]: https://open.buffer.com/motivation-words/
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
 [swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
-[tpi]: http://www.teachingperspectives.com/tpi/
-[ulrich-stereotype-replicability]: https://replicationindex.wordpress.com/2015/01/06/why-are-stereotype-threat-effects-on-womens-math-performance-difficult-to-replicate/
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
 [w3c-accessible]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
-[webaim-swc]: http://wave.webaim.org/report#/software-carpentry.org
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
-[wikipedia-growth-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
 [wikipedia-stereotype-threat]: https://en.wikipedia.org/wiki/Stereotype_threat

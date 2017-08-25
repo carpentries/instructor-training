@@ -4,14 +4,15 @@ start: true
 teaching: 10
 exercises: 5
 questions:
-- "Who are Data and Software Carpentry and how do we approach teaching?"  
-- "What should you expect from this workshop?"  
+- "Who are Data and Software Carpentry and how do we approach teaching?"
+- "What should you expect from this workshop?"
 objectives:
-- "Introduce yourself to your fellow workshop participants."  
+- "Introduce yourself to your fellow workshop participants."
 - "Describe what will and will not be covered in this workshop."
-- "Understand that the Carpentries are communities of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."  
+- "Understand that the Carpentries are communities of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."
 keypoints:
 - "Software and Data Carpentry are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
+- "This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust."
 - "This workshop will cover general teaching pedagogy and how it applies specifically to Software and Data Carpentry."
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
@@ -19,13 +20,13 @@ keypoints:
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
-to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry 
-and Data Carpentry including, but not limited to, workshops, email lists, online forums and on GitHub. Please review 
-[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it. 
+to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry
+and Data Carpentry including, but not limited to workshops, email lists, online forums and on GitHub. Please review
+[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it.
 
 ## Introductions
 
-> Introductions set the stage for learning.  
+> Introductions set the stage for learning.
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 
@@ -39,12 +40,12 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Learners
 >
-> 1. Add your name to the Etherpad 
+> 1. Add your name to the Etherpad
 > 1. Introduce yourselves (preferably verbally)! In your introduction, (a) explain your work in 3 words and (b) say something you are proud of (not necessarily related to research or teaching).
 {: .discussion}
 
 > ## Our First Exercise
-> 
+>
 > In the Etherpad, write down your name, the best class you ever
 > took (or one class from your top ten, if you can't decide), and
 > what made it so great.
@@ -52,7 +53,7 @@ instructor training.  We're very pleased to have you with us.
 {: .challenge}
 
 Most of you are probably here because you have attended or helped at
-a Software or Data Carpentry workshops.  To make sure everyone has the
+a Software or Data Carpentry workshop.  To make sure everyone has the
 same context, we'll give a brief overview of the Software and Data
 Carpentry organizations.
 
@@ -62,11 +63,13 @@ Software and Data Carpentry are
 both communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on helping researchers develop foundational 
-computational skills; Data Carpentry focuses on how
-researchers can effectively work with their data through its lifecycle.
+computational skills; Data Carpentry focuses on helping
+researchers work effectively with their data through its lifecycle.
+
 The main goal of these organizations is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
+
 
 ## Instructor Training Workshop Overview
 
@@ -93,7 +96,7 @@ One aspect of this course's design is its relationship to teaching
 as a performance art.  Just as musicians learn theory, practice techniques,
  and perform for each other, we're going to be looking at some learning
  theory (also known as educational psychology) and why it matters to us
- as Software and Data Carpentry instructors. We will work on exercises and learning
+ as Software and Data Carpentry instructors. We will create exercises and learning
  materials, and practice our teaching.  You can expect a lot of
 hands-on work and discussion.  We'll be using the the Etherpad to collect
 answers and help facilitate discussion - if you ever have any questions,
@@ -113,7 +116,7 @@ the Software and Data Carpentry Code of Conduct.  We will be able to
 We will be introducing you to the teaching practices that have been
 adopted by the Software and Data Carpentry communities, and the
 overall philosophy and procedures of both organizations in order
-to prepare you to teach at Software and Data Carpentry workshops. 
+to prepare you to teach at Software and Data Carpentry workshops.
 The greatest asset of Software and Data Carpentry is people like
  yourselves - people who want to help researchers learn about these ideas
  and share their own experience and enthusiasm.  We hope that this training
@@ -142,8 +145,27 @@ motivate the activities and how you communicate with the attendees.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the K-12 level.
-> 6.  I have taught informally through programs such as STEM outreach, hackathons, laboratory demonstrations, and similar activities.
-
+> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
+>
+> *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
+>
+>     1. I'm not sure what a mental model is.
+>     2. "In Python, what is the expected output for the following statement: 1 + '2'"
+> 	(a) '12'  
+> 	(b) TypeError  
+> 	(c) ‘3’  
+> 	(d) 3  
+>     3. "Rate your experience with the R programming language."
+> 	(a) never used it  
+> 	(b) beginner  
+> 	(c) intermediate  
+> 	(d) expert  
+>     4. "What does the Unix command 'cut' do?"
+> 	(a) Extracts sections from each line of input.  
+> 	(b) Sorts fields of a line  
+> 	(c) Searches the input file for lines containing a match to a pattern  
+> 	(d) Removes a given input from a line  
+>
 > This exercise should take about 3 minutes.
 {: .discussion}
 

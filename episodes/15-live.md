@@ -1,18 +1,18 @@
 ---
 start: false
 title: "Building Teaching Skill: Live Coding"
-teaching: 30
+teaching: 20
 exercises: 45
 questions:
-- "How do we teach programming using live coding?"
+- "Why do we teach programming using live coding?"
 objectives:
-- "Explain the advantages and disadvantages of live coding."
-- "Summarize the key aspects of live coding performance."
-- "Give a short demonstration of live coding."
+- "Explain the advantages and limitations of live coding."
+- "Summarize the key dos and don'ts of live coding."
+- "Demonstrate live coding."
 keypoints:
-- "Watching instructors write software is more informative and more compelling than being presented with the finished product."
-- "Live coding allows instructors to follow learners."
-- "The mistakes are the pedagogy."
+- "Live coding gives learners continuous practice and feedback."
+- "Live coding forces the instructor to slow down."
+- "Mistakes made during live coding are valuable learning opportunities."
 ---
 
 One of the cornerstones of Software and Data Carpentry teaching is live
@@ -22,10 +22,6 @@ along. This section explains how it works, why we use it, and
 gives general tips for an effective live coding presentation.
 
 ## Why Live Coding?
-
-> Teaching is theater not cinema.  
-> — Neal Davis
-{: .quotation}
 
 We do not use slides in our lessons.
 Instead, instructors plug their laptop into the projector
@@ -40,16 +36,16 @@ and talking as we go.
 > from both a learner's and an instructor's point of view
 > in the Etherpad.  
 > 
-> This discussion should take about 5 minutes. 
+> This discussion should take about 10 minutes. 
 > 
 >> ## Solution  
->> Its advantages are:
+>> Some advantages are:
 >> 
 >> *   Watching a program being written is more compelling than
 >> watching someone page through slides that present bits and pieces of the same code.
 >> *   It enables instructors to be more responsive to "what if?" questions.
 >> Where a slide deck is like a railway track,
->> live coding allows instructors to go off road and follow their learners' interests.
+>> live coding allows instructors to go off-road and follow their learners' interests.
 >> *   Lateral knowledge transfer: live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were 
 >> teaching by watching *how* instructors do things.
 >> *   It slows the instructor down:
@@ -60,36 +56,40 @@ and talking as we go.
 >> Novices are going to spend most of their time doing this,
 >> but it's left out of most textbooks.
 >>
->> One disadvantage is:   
->> It takes a bit of practice for instructors to
->> get used to thinking aloud while coding in front of an audience, but
->> most report that it is then no more difficult to do than talking off a
->> deck of slides.
+>> Some challenges are:   
+>> 
+>> * It requires instructors to be able to improvise when things go wrong or when learners
+>> have questions not directly addressed in the text of the lesson.
+>> * It can be hard for learners to listen and type at the same time, due to the  
+>> *split-attention effect* we 
+>> [discussed earlier]( {{ page.source }}/05-memory/#why-guided-practice-is-important).
+>> This is why it's
+>> very important that instructors first explain what they're going to do, then 
+>> say what they are typing as they type it, and then
+>> explain what they did again afterwards.
+>> * It may take a bit of practice for instructors to
+>> get used to thinking aloud while coding in front of an audience.
+>>
 > {: .solution}
 {: .challenge}
 
-Many instructors now use two devices when teaching: a laptop plugged
-into the projector for learners to see, and a tablet beside it on
-which they can view their notes and the Etherpad session.
-This seems to be more reliable than
-displaying one virtual desktop while flipping back and forth to
-another.
-
-> ## I/We/You vs. You/Y'all/We
->
-> Live coding is an example of the "I/We/You" approach to teaching
-> [discussed earlier]({{ page.root }}/05-performance/).
-{: .callout}
+Live coding fits well into the practice-feedback model we've been discussing - by providing
+learners with continuous opportunities for practice (every time they type in a line of code)
+and continuous feedback (their code either works or fails with an error message). It's 
+important to keep in mind, however, that feedback isn't helpful if you can't understand it.
+Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
+[we learned earlier]({{ page.source }}/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners. 
 
 > ## The Bad and the Good
 >
 > Watch this video of [live coding done poorly][live-coding-bad]
 > and this video of [live coding done right][live-coding-good]
 > as a group and then summarize your feedback on both in the Etherpad.
-> Use the two x two rubric for feedback we discussed earlier.  
+> Use the 2x2 rubric for feedback we discussed earlier.  
+> 
 > In the videos, the bash shell `for` loop is taught, 
 > and it is assumed learners are familiar with how to use a variable,
-> the `head `command and the content of the `basilisk.dat unicorn.dat`
+> the `head` command and the content of the `basilisk.dat unicorn.dat`
 > files.
 >
 > Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos. 
@@ -99,43 +99,36 @@ another.
 
 ## Live Coding Top 10
 
-Below follow ten tips to help you get started with effective live coding:
+Below follow ten tips to help you get started with effective live coding.
+After comparing and contrasting the 'done poorly' and 'done right' videos, most of these will already be familiar.
 
 ### Be Seen and Heard
 
 If you are physically able to stand up for a couple of hours, do it
 while you are teaching.  When you sit down, you are hiding yourself
-behind others for those sitting in the back rows.  Make sure to notify
-the workshop organizers of your wish to stand up and ask them to
-arrange a high table/standing desk or
-[lectern](https://en.wikipedia.org/wiki/Lectern#Academic_context).
+behind others for those sitting in the back rows. 
 
-Regardless of whether you are standing or sitting, make sure to move
-around as much as reasonable.  You can for example go to the screen to
+Move around as much as reasonable.  You can for example go to the screen to
 point something out, or draw something on the white/blackboard (see
-below).  Moving around makes the teaching more lively, less
-monotonous.  It draws the learners' attention away from their screens,
-to you, which helps get the point you are making across.
+below).  Moving around makes the teaching more lively and less
+monotonous.
 
-Even though you may have a good voice and know how to use it well, it
-may be a good idea to use a microphone, especially if the workshop room is
-equipped with one.  Your voice will be less tired, and you increase
-the chance of people with hearing difficulties being able to follow
-the workshop.
+Use a microphone if one is available. Your voice will be less tired, and you increase
+the chance of people with hearing difficulties being able to hear you.
 
 ### Take It Slow
 
 For every command you type, every word of code you write, every menu
 item or website button you click, say out loud what you are doing
 while you do it.  Then point to the command and its output on the
-screen and go through it a second time.  This not only slows you down,
-it allows learners who are following along to copy what you do, or to
-catch up, even when they are looking at their screen while doing it.
+screen and go through it a second time.  This slows you down and 
+allows learners to copy what you do, or to
+catch up. 
+
 If the output of your command or code makes what you just typed
 disappear from view, scroll back up so learners can see it again -
-this is especially needed for the Unix shell lesson.
-
-Other possibilities are to execute the same command a second time, or
+this is especially needed for the Unix shell lesson. Other possibilities are to 
+execute the same command a second time, or
 copy and paste the last command(s) into the workshop Etherpad.
 
 ### Mirror Your Learner's Environment As Much As Possible
@@ -157,13 +150,8 @@ the bottom of the projector screen is at the same height, or below,
 the heads of the learners, people in the back won't be able to see the
 lower parts.  Draw up the bottom of your window(s) to compensate.
 
-If you can get a second screen, use it! It will usually require its
-own PC or laptop, so you may need to ask a helper to control it.  You
-could use the second screen to show the Etherpad content, or the
-lesson material, or illustrations.
-
 Pay attention to the lighting (not too dark, no lights directly
-on/above the presenter's screen) and if needed, reposition the tables
+on/above the presenter's screen) and if needed, re-position the tables
 so all learners can see the screen, and helpers can easily reach all
 learners.
 
@@ -176,16 +164,13 @@ generate the illustrations on the white/blackboard as you progress
 through the material.  This allows you to build up diagrams, making
 them increasingly complex in parallel with the material you are
 teaching.  It helps learners understand the material, makes for a more
-lively workshop (you'll have to move between your laptop and the
-blackboard) and gathers the learners' attention to you as well.
+lively workshop and gathers the learners' attention to you as well.
 
 ### Avoid Being Disturbed
 
 Turn off any notifications you may use on your laptop, such as those
 from social media, email, etc.  Seeing notifications flash by on the
-screen distracts you as well as the learners - and may even result in
-awkward situations when a message pops up you'd rather not have others
-see.
+screen distracts you as well as the learners.
 
 ### Stick to the Lesson Material
 
@@ -209,33 +194,29 @@ and forth to another.
 
 ### Leave No Learner Behind
 
-Give each learner two sticky notes of different colours, e.g., red and
-green.  These can be held up for voting, but their real use is as
-status flags.  If someone has completed an exercise and wants it
-checked, they put the green sticky note on their laptop; if they run
-into a problem and need help, the put up the red one.  This is better
+Give each learner two sticky notes of different colours, e.g., yellow and blue.
+If someone has completed an exercise, they put the blue sticky note on their laptop; 
+if they run into a problem and need help, the put up the yellow one.  This is better
 than having people raise their hands because:
 
 *  it's more discreet (which means they're more likely to actually do it),
 *  they can keep working while their flag is raised, and
 *  the instructor can quickly see from the front of the room what state the class is in.
 
-Sometimes a red sticky involves a technical problem that takes a bit
-more time to solve.  To prevent this issue to slow down the whole
+Sometimes a yellow sticky involves a technical problem that takes a bit
+more time to solve.  To prevent this issue slowing down the whole
 class too much, you could use the occasion to take the small break you
 had planned to take a bit later, giving the helper(s) time to fix the
 problem.
 
+Remind learners frequently about using their sticky notes, or they (and you) will forget.
+
 ### Embrace Mistakes
 
-No matter how well prepared you are, you will be making mistakes.
-Typo's are hard to avoid, you may overlook something from the lesson
-instructions, etc.  This is OK! It allows learners to see instructors'
-mistakes and how to diagnose and correct them.  Some mistakes are
-actually an opportunity to point something out, or reflect back on
-something covered earlier.  Novices are going to spend most of their
-time making the same and other mistakes, but how to deal with them is
-left out of most textbooks.
+No matter how well prepared you are, you will make mistakes.
+This is OK! Use these opportunities to do 
+[error framing]( ({{ page.source }}/09-mindset/#errors-are-essential-to-learning) and 
+to help your learners learn the art of troubleshooting.
 
 > The typos are the pedagogy.  
 > — Emily Jane McTavish
@@ -243,29 +224,27 @@ left out of most textbooks.
 
 ### Have Fun
 
-Teaching is performance art and can be rather serious business.  On
-the one hand, don't let this scare you - it is much easier than
-performing Hamlet.  You have an excellent script at your disposal,
-after all! On the other hand, it is OK to add an element of 'play',
-i.e.  use humor and improvisation to liven up the workshop.  How much
-you are able and willing to do this is really a matter of personality
-and taste - as well as experience.  It becomes easier when you are
-more familiar with the material, allowing you to relax more.  Choose
-your words and actions wisely, though.  Remember that we want the
-learners to have a welcoming experience and a positive learning
-environment - a misplaced joke can ruin this in an instant.  Start
+It's OK to use humor and improvisation to liven up the workshop. This becomes easier 
+when you are more familiar with the material, and more relaxed. Start
 small, even just saying 'that was fun' after something worked well is
-a good start.  Ask your co-instructors and helpers for feedback when
-you are unsure of the effect you behaviour has on the workshop.
+a good start. 
 
 > ## See Then Do
 >
-> Teach 3-4 minutes of your chosen lesson episode using live coding to a
-> fellow trainee, then swap and watch while that person live codes for
-> you. Don't record the live coding sessions. Give each other feedback
-> using the two x two rubric we discussed previously and enter your feedback in the Etherpad. 
-> Explain in advance to your fellow trainee what you will be teaching
+> Teach 3 minutes of your chosen lesson episode using live coding to one or two
+> fellow trainees, then swap and watch while the other person(s) live codes for
+> you. 
+> 
+> Explain in advance to your fellow trainee(s) what you will be teaching
 > and what the learners you teach it to are expected to be familiar with.
+> 
+> **Don't record the live coding sessions.** Give each other feedback
+> using the 2x2 rubric we discussed previously and enter the feedback 
+> you recieved in the Etherpad.
+> 
+> To make this exercise as similar to the workshop experience as possible, 
+> ask your fellow trainees to code along with you, as if they were learners at your 
+> workshop.
 > 
 > This exercise should take about 20 minutes.  
 {: .challenge}
