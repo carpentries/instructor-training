@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: Teaching Practices"
-teaching: 10
-exercises: 20
+teaching: 15
+exercises: 15
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
 - "What do I do if there is a Code of Conduct violation?"
@@ -38,7 +38,7 @@ about how a Carpentry workshop operates.
 > When you have a good amount of information in each box, type "done" in the 
 > Etherpad chat.
 > 
-> Small group discussion should take about 10 minutes. Whole class discussion should take another 10.
+> Small group discussion should take about 10 minutes. Whole class discussion should take another 5.
 >
 > > ## Solution 
 > > 
