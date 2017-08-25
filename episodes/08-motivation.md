@@ -1,7 +1,7 @@
 ---
 title: "Creating a Positive Learning Environment: Motivation and Demotivation"
 teaching: 20
-exercises: 40
+exercises: 45
 questions:
 - "Why is motivation important?"
 - "How can we create a motivating environment for learners?"
