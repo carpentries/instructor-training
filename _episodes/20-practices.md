@@ -201,7 +201,7 @@ Beyond the teaching practices and philosophies found in Software and Data
 Carpentry workshops, one of the most important characteristics of our workshops 
 is that they be welcoming and safe spaces.  Programming, or data management are 
 scary topics to novices, and workshops are meant to be a judgment free 
-space to learn and experiment.  The behavior of the instructor and other partipants 
+space to learn and experiment.  The behavior of the instructor and other participants 
 may make more of an impression on a novice learner than any "technical" topic you teach.  
 
 To support this mission
