@@ -68,11 +68,11 @@ computational literacy among researchers and other professionals worldwide.
 
 - **[Maintainers](https://software-carpentry.org/join/subcom/maintainers/)** oversee curricular changes and maintain the high-quality of Carpentry lessons.  
 
-- **Lesson Infrastructure** Subcommittee members make decissions about and implement changes to lesson templates to ensure a good user experience across our lessons.
+- **Lesson Infrastructure** Subcommittee members make decisions about and implement changes to lesson templates to ensure a good user experience across our lessons.
 
 - **Policy** Subcommittee members moderate discussion lists and arbitrate reported Code of Conduct violations.
 
-- The **Steering Committees** makes strategic decisions about the future of the organization and its operations.
+- The **Steering Committees** make strategic decisions about the future of the organization and its operations.
 
 - **Local Champions** advocate for the Carpentries within their home institution and region, growing a local network of Carpentry instructors and supporting workshop learners. 
 
