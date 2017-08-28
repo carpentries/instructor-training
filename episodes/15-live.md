@@ -1,7 +1,7 @@
 ---
 start: false
 title: "Building Teaching Skill: Live Coding"
-teaching: 20
+teaching: 15
 exercises: 45
 questions:
 - "Why do we teach programming using live coding?"
@@ -94,106 +94,27 @@ Many error messages are obscure and not written with novices in mind. Continue t
 >
 > Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos. 
 > 
-> This exercise should take about 15 minutes.
+> This exercise and discussion should take about 15 minutes.
+> 
+> > ## Solution
+> > The instructor will lead a discussion about the videos and your feedback on them,
+> > making sure that the following points have been made:
+> > 
+> > 1. **Stand up and move around the room if possible.** This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.
+> > 2. **Go slowly.** For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it.  Then point to the command and its output on the screen and go through it a second time.  This slows you down and  allows learners to copy what you do, or to catch up. 
+> > 3. **Mirror your learner's environment.** Try to create an environment that is as similar as possible to what your learners have to reduce cognitive load. Avoid using keyboard shortcuts.
+> > 4. **Use your screen wisely.** Use a big font, and maximize the window.  A black font on a white background works better than a light font on a dark background.  When the bottom of the projector screen is at the same height, or below, the heads of the learners, people in the back won't be able to see the lower parts.  Draw up the bottom of your window(s) to compensate. Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, re-position the tables so all learners can see the screen, and helpers can easily reach all learners.
+> > 5. **Use illustrations** to help learners understand and organize the material. You can also generate the illustrations on the board as you progress through the material.  This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching.  It helps learners understand the material, makes for a more lively workshop and gathers the learners' attention to you as well.
+> > 6. **Turn off notifications** on your laptop and phone.
+> > 7. **Stick to the lesson material.** The core Software and Data Carpentry lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Don't do this, since there is a fair chance you'll run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
+    Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
+> > 8. **Leave no learner behind.** Use sticky notes to gauge learners' progress and understanding. 
+> > 9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]( ({{ page.source }}/09-mindset/#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
+> > 10. **Have fun!** It's OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start. 
+> {: .solution}
 {: .challenge}
 
-## Live Coding Top 10
-
-Below follow ten tips to help you get started with effective live coding.
-After comparing and contrasting the 'done poorly' and 'done right' videos, most of these will already be familiar.
-
-### Be Seen and Heard
-
-If you are physically able to stand up for a couple of hours, do it
-while you are teaching.  When you sit down, you are hiding yourself
-behind others for those sitting in the back rows. 
-
-Move around as much as reasonable.  You can for example go to the screen to
-point something out, or draw something on the white/blackboard (see
-below).  Moving around makes the teaching more lively and less
-monotonous.
-
-Use a microphone if one is available. Your voice will be less tired, and you increase
-the chance of people with hearing difficulties being able to hear you.
-
-### Take It Slow
-
-For every command you type, every word of code you write, every menu
-item or website button you click, say out loud what you are doing
-while you do it.  Then point to the command and its output on the
-screen and go through it a second time.  This slows you down and 
-allows learners to copy what you do, or to
-catch up. 
-
-If the output of your command or code makes what you just typed
-disappear from view, scroll back up so learners can see it again -
-this is especially needed for the Unix shell lesson. Other possibilities are to 
-execute the same command a second time, or
-copy and paste the last command(s) into the workshop Etherpad.
-
-### Mirror Your Learner's Environment As Much As Possible
-
-You may have set up your environment to your liking, with a very
-simple or rather fancy Unix prompt, colour schemes for your
-development environment, keyboard shortcuts etc.  Your learners
-usually won't have all of this.  Try to create an environment that
-mirrors what your learners have, and avoid using keyboard shortcuts.
-Some instructors create a separate 'bare-bone' user (login) account on
-their laptop, or a separate 'teaching-only' account on the service
-being taught (e.g. Github).
-
-### Use The Screen Wisely
-
-Use a big font, and maximize the window.  A black font on a white
-background works better than a light font on a dark background.  When
-the bottom of the projector screen is at the same height, or below,
-the heads of the learners, people in the back won't be able to see the
-lower parts.  Draw up the bottom of your window(s) to compensate.
-
-Pay attention to the lighting (not too dark, no lights directly
-on/above the presenter's screen) and if needed, re-position the tables
-so all learners can see the screen, and helpers can easily reach all
-learners.
-
-### Use Illustrations
-
-Most lesson material comes with illustrations, and these may help
-learners to understand the stages of the lesson and to organize the
-material.  What can work really well is when you as instructor
-generate the illustrations on the white/blackboard as you progress
-through the material.  This allows you to build up diagrams, making
-them increasingly complex in parallel with the material you are
-teaching.  It helps learners understand the material, makes for a more
-lively workshop and gathers the learners' attention to you as well.
-
-### Avoid Being Disturbed
-
-Turn off any notifications you may use on your laptop, such as those
-from social media, email, etc.  Seeing notifications flash by on the
-screen distracts you as well as the learners.
-
-### Stick to the Lesson Material
-
-The core Software and Data Carpentry lessons are developed
-collaboratively by many instructors and tried and tested at many
-workshops.  This means they are very streamlined - which is great when
-you start teaching them for the first time.  It may be tempting to
-deviate from the material because you would like to show a neat trick,
-or demonstrate some alternative way of doing something.  Don't do
-this, since there is a fair chance you'll run into something
-unexpected that you then have to explain.  If you really want to use
-something outside of the material, try it out thoroughly before the
-workshop: run through the lesson as you would during the actual
-teaching and test the effect of your modification.
-
-Some instructors use printouts of the lesson material during teaching.
-Others use a second device (tablet or laptop) when teaching, on which
-they can view their notes and the Etherpad session.  This seems to be
-more reliable than displaying one virtual desktop while flipping back
-and forth to another.
-
-### Leave No Learner Behind
-
+## Sticky Notes
 Give each learner two sticky notes of different colours, e.g., yellow and blue.
 If someone has completed an exercise, they put the blue sticky note on their laptop; 
 if they run into a problem and need help, the put up the yellow one.  This is better
@@ -211,25 +132,7 @@ problem.
 
 Remind learners frequently about using their sticky notes, or they (and you) will forget.
 
-### Embrace Mistakes
-
-No matter how well prepared you are, you will make mistakes.
-This is OK! Use these opportunities to do 
-[error framing]( ({{ page.source }}/09-mindset/#errors-are-essential-to-learning) and 
-to help your learners learn the art of troubleshooting.
-
-> The typos are the pedagogy.  
-> — Emily Jane McTavish
-{: .quotation}
-
-### Have Fun
-
-It's OK to use humor and improvisation to liven up the workshop. This becomes easier 
-when you are more familiar with the material, and more relaxed. Start
-small, even just saying 'that was fun' after something worked well is
-a good start. 
-
-> ## See Then Do
+> ## Practice Teaching
 >
 > Teach 3 minutes of your chosen lesson episode using live coding to one or two
 > fellow trainees, then swap and watch while the other person(s) live codes for
