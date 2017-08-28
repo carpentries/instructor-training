@@ -29,7 +29,7 @@ As you read in your homework last night, the final three steps in qualifying as 
     2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [discussion session][discussion] with experienced instructors.
-3.  Prepare a full Carpentries workshop to teach, then perform a 5-minute [live coding demo][demo] of content chosen from that lesson by the session lead.
+3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 [This page]({{ page.root }}/checkout/) explains the procedure in detail. 
 There's also a [helpful checklist](http://www.datacarpentry.org/checkout/) 
