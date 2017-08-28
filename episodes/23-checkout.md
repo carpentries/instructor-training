@@ -9,7 +9,7 @@ objectives:
 - "Schedule your instructor discussion session."
 - "Provide final feedback to your instructors."
 keypoints:
-- "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo."
+- "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
 
 
@@ -25,11 +25,11 @@ filled out this form, you do not need to submit another application.
 As you read in your homework last night, the final three steps in qualifying as an instructor are to:
 
 1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
-    1.  Submit a change (i.e. pull request to fix an existing issue.
+    1.  Submit a change (i.e. pull request) to fix an existing issue.
     2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [discussion session][discussion] with experienced instructors.
-3.  Do a 5-minute [live coding demo][demo].
+3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 [This page]({{ page.root }}/checkout/) explains the procedure in detail. 
 There's also a [helpful checklist](http://www.datacarpentry.org/checkout/) 
