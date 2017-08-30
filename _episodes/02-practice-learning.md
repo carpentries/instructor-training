@@ -160,7 +160,7 @@ both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
-## Meeting Learners Where They're At
+> ## Meeting Learners Where They're At
 > One of the strengths of Carpentry workshops is that we meet learners where they're at. Carpentry instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone 

@@ -99,6 +99,10 @@ highlighting our ability to improve with effort.
 
 ## Errors are Essential to Learning 
 
+> The typos are the pedagogy.  
+> — Emily Jane McTavish
+{: .quotation}
+
 One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to students being 
 fearful of making them. *Error framing* encourages students to understand that making errors provides valuable learning opportunities instead 
 of having negative consequences. For example, the [Language Acquisition Made Practical](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/0916636003) (LAMP)
