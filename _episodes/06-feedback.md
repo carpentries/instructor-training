@@ -1,5 +1,5 @@
 ---
-title: "Building Teaching Skill: Feedback Mechanisms"
+title: "Building Teaching Skill: Getting Feedback"
 teaching: 5
 exercises: 10
 questions:
