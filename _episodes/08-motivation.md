@@ -28,20 +28,19 @@ for learner success. As instructors, it is crucial to establish the workshop set
 as a safe space for learning. Establishing a safe space for learning is a combination 
 of many factors:
 
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in a later lesson). Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for novice learners.
++ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for novice learners.
 + *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a Code of Conduct or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
-+ *Encouraging students to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when students are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint the causes of leaners' misunderstandings. Acknowledging that their misunderstandings are valid one is also key to encouraging a growth mindset.
++ *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
++ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint leaners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 ## Teach Most Useful First
 
 People learn best when they care about a topic and believe they can master it.
 This presents us with a problem
 because most scientists don't want to program:
-they want to do science,
-and rightly regard programming as a tax they have to pay in order to do so.
+they want to do science.
 In addition,
-their early experiences with programming are often demoralizing,
+their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
 Imagine a grid whose axes are labelled "mean time to master" and "usefulness once mastered".
@@ -63,7 +62,7 @@ don't belong in our workshops.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/04-expertise.md#expert-blind-spots).
+> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise.md#limitations-of-expertise).
 {: .callout}
 
 We have therefore adopted a "teach most immediately useful first" approach.
@@ -71,16 +70,16 @@ We try to have learners do something that *they* think is useful in their daily 
 within 15 minutes of starting each lesson.
 This not only motivates them,
 it also helps build their confidence in us,
-so that if it takes longer to get to the payoff of a later topic,
-they'll stick with us.
+so that if it takes longer to get to something they find useful in a later topic,
+they'll persist with the lesson.
 
 > ## Authentic Tasks: Think, Pair, Share
 >
 > **Think** about some task you did this week that uses one or more of the skills we teach,
-> (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo)
+> (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a 2x2 grid of "short/long time to master" and "low/high usefulness".
-> In the class Etherpad, **share** the task and where it fits on the 2x2 grid.
+> **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
+> In the class Etherpad, **share** the task and where it fits on the graph.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
 > This exercise and discussion should take about 10 minutes.  
@@ -97,7 +96,7 @@ learners.
 > *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al, 
 > contains this list of evidence-based methods to motivate learners.
 >
-> In groups of two or three, pick three of these points and describe in one sentence
+> In groups of two or three, pick three of these points and briefly describe
 > in the Etherpad how can we apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
@@ -162,7 +161,7 @@ learners.
 > ## Why Do You Teach?
 >
 > We all have a different motivation for teaching, and that is a really good thing!
-> SWC wants instructors with diverse backgrounds because you each bring something
+> The Carpentries want instructors with diverse backgrounds because you each bring something
 > unique to our community.  
 > 
 > What motivates you to teach? Write a short explanation of what motivates you to teach. 
@@ -198,18 +197,18 @@ common demotivators and help you develop strategies for avoiding them.
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help.
 *   Use the J word ("just") or other demotivating words we talked about in a 
-    [previous lesson]({{ page.root }}/04-expertise.md) These signal to the learner that
+    [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
 *  Feign surprise. Saying things like "I can't believe you don't know X"
-    or "you've never heard of Y?" signals to the learner that they do not have
-    some required pre-knowledge of the material you are teaching, that they
-    are in the wrong place, and it may prevent them from asking questions in
-    the future. (This idea is due to the Recurse Center's [Social Rules][recurse-social-rules]).
+    or "You've never heard of Y?" signals to the learner that they do not have
+    some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
+    and it may prevent them from asking questions in
+    the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to 
-making fun of Windows-users with their friends, or talking about how terrible Excel
+making fun of Windows-users with their friends, or talking about how terrible Excel is 
 that they initially fail to realize they're doing it while teaching. Teaching yourself
 to avoid these types of comments takes practice, but is well worth the effort. No one
 likes to be made fun of, and talking badly about people who use GUIs, or who aren't 
@@ -271,7 +270,7 @@ such as lack of prior experience) and instead use a systems approach
 > ## The Importance of Having Rules
 >
 > Software Carpentry and Data Carpentry share a
-> [code of conduct]({{ site.swc_site }}/conduct/),
+> [Code of Conduct]({{ site.swc_site }}/conduct/),
 > and all participants in our workshops are required to abide by it.
 > Its details are important,
 > but the most important thing about it is that it exists:
@@ -308,14 +307,14 @@ Two ways of dealing with your own impostor syndrome are:
 As an instructor,
 you can help people with their impostor syndrome by
 sharing stories of mistakes that you have made or things you struggled to learn.
-This reassures the class that it's OK to find topics hard.
+This reassures the class that it's OK to find topics difficult.
 Being open with the group makes it easier to build trust and make students confident to ask questions.
 (Live coding is great for this:
 typos let the class see you're not superhuman.)
 
 You can also emphasize that you want questions:
 you are not succeeding as a teacher if no one can follow your class,
-so you're asking students for their help to help you learn and improve.
+so you're asking students to help you learn and improve.
 Remember,
 it's much more important to *be* smart than to *look* smart.
 
@@ -347,8 +346,8 @@ but wouldn't know what the program actually was.
 
 While it may not be possible to accommodate everyone's needs,
 it *is* possible to get a good working structure in place
-without any specific knowledge of what specific disabilities people might have.
-Having at least some accommodations prepared in advance also makes it clear that
+without any knowledge of what specific disabilities people might have.
+Having at least some accommodations prepared also makes it clear that
 hosts and instructors care enough to have thought about problems in advance,
 and that any additional concerns are likely to be addressed.
 
@@ -468,7 +467,7 @@ such as:
     that they include culturally diverse names,
     etc.;
 *   emphasizing that what matters is the rate at which they are learning,
-    not the advantages or disadvantages they had when they started;
+    not the level of knowledge they had when they started;
 *   encouraging pair programming; and
 *   actively mitigating behavior that some learners may find intimidating,
     e.g.,
