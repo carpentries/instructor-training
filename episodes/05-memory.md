@@ -16,7 +16,7 @@ keypoints:
 ---
 
 In our final topic in educational psychology, we'll be learning more about human memory:
-specifically how to remove unnecessary "load" in order to facilitate learning.
+specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 ## Types of Memory
 
@@ -36,7 +36,7 @@ smaller: in 1956, George Miller estimated that the average adult's working memor
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
 This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
 back when phones had dials instead of keypads,
-that was the longest string of numbers most adults could remember accurately
+that was the longest sequence of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
 
 More recent research suggests that working memory is actually even smaller than this. 
@@ -51,7 +51,7 @@ important.
 > ## Test Your Working Memory
 >
 > [This website][memory-test] implements a short test of working memory. You 
-> will be presented with a list of words, each presented for only a very short time. 
+> will be presented with a list of words, each shown for only a very short time. 
 > At the end, you will be asked to list as many of the words as you can remember. 
 > 
 > Take 5 minutes to complete the exercise. How many did you remember? Write your answer 
@@ -78,15 +78,15 @@ workshops.
 
 Our minds can store larger numbers of facts in short-term memory by creating *chunks*, or
 relationships among separate items, causing them to be remembered as a single item. 
-For example, most of us will remember a word we read as a single item, rather
-than as a sequence of letters.
+For example, most of us will remember a word we read as a single item ("cat"), rather
+than as a sequence of letters ("c-a-t").
 Similarly, the pattern made by five spots on cards or die is remembered as a whole
 rather than as five separate pieces of information. 
 
 > ## Improving Short-term Memory with Chunking
 > 
 > Repeat the memory exercise you did earlier, but this time, 
-> try to form short stories or phrases from the words you see. 
+> try to form short stories or phrases, or a visual image, from the words you see. 
 > 
 > Write the number of words you remembered in the Etherpad. 
 > How does this compare with your first attempt?
@@ -131,8 +131,6 @@ The three key concepts used in this loop are:
 
 ![Key Concepts](../fig/for-loop-concepts.png)
 
-(In this case it's easy to connect the concepts to concrete elements in the program,
-but that may not always be the case.)
 The key relationships,
 which are as important as the concepts themselves,
 are:
@@ -160,7 +158,7 @@ are listed below:
 
 Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing. An instructor can 
-draw a concept map for an entire subject,
+draw a concept map for an entire topic,
 and use that to decide where to introduce a formative assessment to avoid overloading
 working memory.
 
@@ -171,7 +169,7 @@ separate information will need to be "stored" in memory during each part of the 
 > ## Concept Mapping
 >
 > Create a hand-drawn concept map for a part of a Carpentry lesson you would teach in 
-> five minutes (ie. 
+> five minutes (i.e. 
 > the amount of material you would teach before doing a formative assessment).
 > You can use the same subject about which you created a multiple choice question, or 
 > a different subject. 
@@ -184,49 +182,43 @@ separate information will need to be "stored" in memory during each part of the 
 > Write "*done*" in the Etherpad chat once you have finished.
 {: .challenge}
 
-In addition to helping you plan where to introduce formative assessments, concept maps can
-be used in many other ways:
+## Other Uses of Concept Maps
+> In addition to helping you plan where to introduce formative assessments, concept maps can
+> be used in many other ways:
+> 
+> 1.  To aid solo design of a lesson by helping authors figure 
+> out what they're trying to teach.
+> 2.  To aid communication with fellow lesson designers.
+> 3.  To aid communication with learners.
+>     While it's possible to give learners a pre-drawn map at the start of a lesson for them
+> to annotate, it's better to draw it piece by piece while teaching
+> to reinforce the ties between what's in the map and what the instructor said.
+> 4. Concept maps can be used as a classroom discussion exercise.
+> 	Put learners in small groups (2-4 people each),
+>	give each group some sticky notes on which a few key concepts are written,
+>	and have them build a concept map on a whiteboard by placing those sticky notes,
+>	connecting them with labelled arcs,
+>	and adding any other concepts they think they need.
+> 5.  Concept maps are also a useful formative assessment technique:
+>    having learners draw concept maps of what they think they just 
+> heard shows the instructor what was missed and what was misunderstood.
+{: .calloud}
 
-1.  To aid solo design of a lesson by helping authors figure out what they're trying to teach.
-2.  They aid communication with fellow lesson designers.
-3.  Concept maps also aid communication with learners.
-    While it's possible to give learners a pre-drawn map at the start of a lesson for them to annotate,
-    it's better to draw it piece by piece while teaching
-    to reinforce the ties between what's in the map and what the instructor said.
-4. Concept maps can be used as a classroom discussion exercise.
-	Put learners in small groups (2-4 people each),
-	give each group some sticky notes on which a few key concepts are written,
-	and have them build a concept map on a whiteboard by placing those sticky notes,
-	connecting them with labelled arcs,
-	and adding any other concepts they think they need.
-4.  Concept maps are also a useful formative assessment technique:
-    having learners draw concept maps of what they think they just heard shows the instructor
-    what was missed and what was misunderstood.
+## Why Guided Practice is Important
 
-## Why Guided-Practice is Important
+The quality of practice that is provided to learners is very important. In Carpentry
+workshops, we use *guided practice*: we set up a structure in which learners can test their
+skills and get feedback on their progress. This contrasts with another teaching strategy
+variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
+or *inquiry-based* learning. 
 
-In 2006,
-Kirschner, Sweller, and Clark published a paper titled
-"[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
-In the abstract, they say:
+In 2006, these types of teaching were the subject of a paper titled "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
 
-> Although unguided or minimally guided instructional approaches
-> are very popular and intuitively appealing...these approaches
-> ignore both the structures that constitute human cognitive architecture
-> and evidence from empirical studies over the past half-century
-> that consistently indicate that minimally guided instruction is less effective and less efficient than
-> instructional approaches that place a strong emphasis on guidance of the student learning process.
-> The advantage of guidance begins to recede only when learners have
-> sufficiently high prior knowledge to provide "internal" guidance.
-{: .quotation}
+This paper argued that minimal-guidance approaches to teaching ignore both what we know
+about human cognitive architecture and evidence from many research studies showing that 
+minimally-guided instruction is less effective than guided learning.
 
-The paper set off a minor academic firestorm,
-because beneath the jargon the authors were claiming that
-[inquiry-based learning][wikipedia-inquiry]---allowing
-learners to ask their own questions,
-set their own goals,
-and find their own path through a subject---doesn't actually work very well.
-Kirschner *et al*'s argument was that it requires learners to simultaneously
+Minimally-guided instruction requires learners to simultaneously
 master a domain's factual content
 and its search and problem-solving strategies.
 Fostering creativity and independence is intuitively appealing,
@@ -343,7 +335,18 @@ concept in your concept map.
 {: .challenge}
 
 ## Summary
-The process of learning is constrained by the limits of working memory. In order to move new information into long-term memory, it must be actively applied, but activities that make excessive demands on working memory are likely to induce cognitive overload and can easily harm learner motivation. Instructional tools that expand working memory by increasing connectivity (chunking) among new concepts, such as concept mapping, can improve outcomes for subsequent memory-intensive exercises. Formative assessments, when performed frequently, help learners by prompting them to apply new content before it has been overwritten. Faded examples both minimize demands on working memory and offer context that helps improve connectivity for future work, in which the "scaffolding" of contextual support can be gradually removed. Both concept maps and faded examples may be used as formative assessments - they can even be combined! (What would a faded concept map look like?) In the end, anything you can do to a) recognize and b) support learners in working with the limitations of short-term memory will improve the effectiveness of your teaching.
+The process of learning is constrained by the limits of working memory. In order to move
+new information into long-term memory, it must be actively applied, but activities that 
+make excessive demands on working memory are likely to induce cognitive overload and can
+easily harm learner motivation. Instructional tools that expand working memory by 
+increasing connectivity (chunking) among new concepts, such as concept mapping, can improve
+outcomes for subsequent memory-intensive exercises. Formative assessments, when performed 
+frequently, help learners by prompting them to apply new content before it has been 
+overwritten. Faded examples both minimize demands on working memory and offer context that 
+helps improve connectivity for future work, in which the "scaffolding" of contextual support
+can be gradually removed. 
+Anything you can do to a) recognize and b) support learners in working with the
+limitations of short-term memory will improve the effectiveness of your teaching.
 
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
 [memory-test]: http://cat.xula.edu/thinker/memory/working/serial
