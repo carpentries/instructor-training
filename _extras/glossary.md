@@ -4,6 +4,8 @@ title: "Glossary"
 permalink: /glossary/
 ---
 
+*   **Accessibility**:
+
 *   **Authentic Task**:
     A task which contains important elements of things that learners would
     do in real life (i.e. non-classroom situations).  To be authentic, a task should
@@ -47,6 +49,10 @@ permalink: /glossary/
     The study of how people learn.
     <br>
 
+*   **Effort-based Praise**:
+
+*   **Error Framing**:
+
 *   **Expert**:
     Someone who can diagnose and handle unusual situations, knows when the
     usual rules do not apply, and tends to recognize solutions rather than
@@ -88,6 +94,8 @@ permalink: /glossary/
     A feeling of insecurity about one's accomplishments that manifests as
     a fear of being exposed as a fraud.
 
+*   **Improvement-based Praise**:
+
 *   **Inclusivity**:
     Working actively to include people with diverse backgrounds and needs.
 
@@ -108,6 +116,10 @@ permalink: /glossary/
 *   **Learning Objective**:
     What a lesson is trying to achieve.
 
+*   **Lesson Study**:
+
+*   **Lifelong Learner**:
+
 *   **Live Coding**:
     The act of teaching programming by writing software in front of
     learners as the lesson progresses.
@@ -118,6 +130,9 @@ permalink: /glossary/
     <br>
     See also *short-term memory*.
 
+*   **Mental Model**:
+
+
 *   **Minute Cards**:
     A feedback technique in which learners spend a minute writing one
     positive thing about a lesson (e.g., one thing they've learned) and
@@ -127,6 +142,12 @@ permalink: /glossary/
     Someone who has not yet built a usable mental model of a domain.
     <br>
     See also *competent practitioner* and *expert*.
+
+*   **One-Up, One-Down**:
+
+*   **Performance-based Praise**:
+
+*   **Perseverance**:
 
 *   **Persistent Memory**:
     see *long-term memory*.
