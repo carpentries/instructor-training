@@ -4,7 +4,8 @@ title: "Glossary"
 permalink: /glossary/
 ---
 
-*   **Accessibility**:
+*   **Accessibility**: 
+    Equal access to learning opportunities regardless of learners' physical abilities or other attributes.
 
 *   **Authentic Task**:
     A task which contains important elements of things that learners would
@@ -49,9 +50,12 @@ permalink: /glossary/
     The study of how people learn.
     <br>
 
-*   **Effort-based Praise**:
+*   **Effort-based Praise**: 
+    Providing positive feedback to learners that recognizes and rewards their hard work.
+    <br>
+    See also *improvement-based praise* and *performance-based praise*.
 
-*   **Error Framing**:
+*   **Error Framing**: Presenting errors as an integral part of the learning process and using them as teaching opportunities.
 
 *   **Expert**:
     Someone who can diagnose and handle unusual situations, knows when the
@@ -94,7 +98,10 @@ permalink: /glossary/
     A feeling of insecurity about one's accomplishments that manifests as
     a fear of being exposed as a fraud.
 
-*   **Improvement-based Praise**:
+*   **Improvement-based Praise**: 
+    Providing positive feedback to learners that recognizes and rewards improvements they have made.
+    <br>
+    See also *effort-based praise* and *performance-based praise*.
 
 *   **Inclusivity**:
     Working actively to include people with diverse backgrounds and needs.
@@ -116,9 +123,10 @@ permalink: /glossary/
 *   **Learning Objective**:
     What a lesson is trying to achieve.
 
-*   **Lesson Study**:
-
-*   **Lifelong Learner**:
+*   **Lesson Study**: 
+    The process in which instructors collaboratively plan lessons,
+    observe each other's teaching, and discuss teaching experiences
+    in order to learn from each other.
 
 *   **Live Coding**:
     The act of teaching programming by writing software in front of
@@ -131,7 +139,7 @@ permalink: /glossary/
     See also *short-term memory*.
 
 *   **Mental Model**:
-
+    A representation of a person's knowledge and thought processes about a topic or domain.
 
 *   **Minute Cards**:
     A feedback technique in which learners spend a minute writing one
@@ -143,11 +151,16 @@ permalink: /glossary/
     <br>
     See also *competent practitioner* and *expert*.
 
-*   **One-Up, One-Down**:
+*   **One-Up, One-Down**: 
+    A feedback technique in which learners take turns giving positive and negative feedback without repeating anything that has been said before.
 
 *   **Performance-based Praise**:
+    Providing positive feedback to learners that focuses on whether they have attained the correct answer.
+    <br>
+    See also *effort-based praise* and *performance-based praise*.
 
-*   **Perseverance**:
+*   **Perseverance**: 
+    The trait of persisting in the face of difficulty.
 
 *   **Persistent Memory**:
     see *long-term memory*.
