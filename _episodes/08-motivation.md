@@ -474,6 +474,17 @@ such as:
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
+## Optional Exercises
+
+> ## How Are We Doing?
+>
+> Compare one of the existing Data Carpentry or Software Carpentry lesson episodes
+> to the motivational checklist presented earlier.
+> What is the lesson doing to engage learners
+> and convince them its material is worth mastering?
+{: .challenge}
+
+
 [ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
 [amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
