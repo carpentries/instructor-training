@@ -152,5 +152,18 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 > This exercise should take about 20 minutes.  
 {: .challenge}
 
+## Optional Exercises
+
+> ## Authentic Live Coding Example
+>
+> Watch either [this video][scipy-video-1] (8:40)
+> or [this one][scipy-video-2] (11:42).
+> Give feedback using our 2x2 rubric.
+> Discuss your feedback with a partner and compare.
+{: .challenge}
+
+
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
+[scipy-video-1]: https://vimeo.com/139316669
+[scipy-video-2]: https://vimeo.com/139181120

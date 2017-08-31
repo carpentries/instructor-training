@@ -224,6 +224,15 @@ may have a fixed mindset about teaching. By stengthening your growth mindset wit
 transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunites to 
 practice teaching and to get and give feedback tomorrow.
 
+## Optional Exercises
+
+> ## Skill Acquisition: What level are your teaching skills?
+> 
+> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice. 
+> Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
+>Discuss with a partner and then write some thoughts in the Etherpad.
+{: .challenge}
+
 [amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
