@@ -3,20 +3,20 @@ title: "Building Teaching Skill: Performance Revised"
 teaching: 15
 exercises: 25
 questions:
-- "How does having a concept map change the way you teach?"
+- "How did you change your teaching in response to feedback?"
 objectives:
-- "Explain how (or whether) thinking about concepts and relationships helps teaching."
+- "Use feedback to improve your teaching."
 keypoints:
-- "Practice makes perfect."
+- "(Reflective) Practice makes perfect."
 ---
 > ## Round Two
 >
-> Divide into groups of three and take turns re-teaching your chosen live coding session. Give feedback to each
-> other and add it to the Etherpad using the two x two rubric we discussed earlier. Add some general feedback for the following questions.  
+> Get back into the same groups you did your live coding with. 
+> Take turns re-teaching your chosen live coding session, making sure to incorporate changes based on the feedback you received. 
+> Give feedback to each
+> other and add it to the Etherpad using our 2x2 rubric. Also add some feedback to the Etherpad on the following questions:
+> What did you change? Did it work better or worse with the change? How might you do it if you were to teach it again?
 >
-> 1. Were you more or less comfortable leading the live-coding exercise this time?
-> 2. Do you think your lesson is better or worse
->    given the thinking you did while making a concept map?
 >  This exercise should take about 25 minutes plus 15 minutes for discussion.    
 {: .challenge}
 
