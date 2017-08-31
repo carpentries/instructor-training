@@ -27,7 +27,7 @@ Carol Dweck, now a professor of Psychology at Stanford University, has conducted
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
 affect our perseverence in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
 someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything.
+almost anyone can learn almost anything. (She's written a very accessible popularized [summary][amazon-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
 People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
 tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.
@@ -103,8 +103,8 @@ highlighting our ability to improve with effort.
 > — Emily Jane McTavish
 {: .quotation}
 
-One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to students being 
-fearful of making them. *Error framing* encourages students to understand that making errors provides valuable learning opportunities instead 
+One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being 
+fearful of making them. *Error framing* encourages learners to understand that making errors provides valuable learning opportunities instead 
 of having negative consequences. For example, the [Language Acquisition Made Practical](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/0916636003) (LAMP)
 system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By 
 being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has 
@@ -113,9 +113,9 @@ shown to be useful in learning complex tasks such as programming. In one study, 
 
 How can we incorporate error framing into our lessons? We need to reduce the negative emotions associated with errors, instead casting errors
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". 
-Sharing experiences of learning from errors can encourage students to adopt a growth-mindset. Associating improvement-based praise with errors
+Sharing experiences of learning from errors can encourage learners to adopt a growth-mindset. Associating improvement-based praise with errors
 can also encourage positive emotions associated with making errors in learning. Finally, the use of 
-[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for teachers to model how errors can be positively 
+[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for instructors to model how errors can be positively 
 framed and the process for overcoming them.
 
 > ## Helping Learners Learn From Mistakes
@@ -130,23 +130,23 @@ framed and the process for overcoming them.
 
 ## Perseverance Predicts Success  
 
-Angela Duckworth, a Psychology professor from University of Pennsylvania suggests that something called *grit* is an essential trait in
+Angela Duckworth, a Psychology professor from University of Pennsylvania, suggests that something called *grit* is an essential trait in
 learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf). 
-Students with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Learning and recovering
-from failure is an essential skill in many fields. Students with grit have shown to have a higher degree of success later on in
+Learners with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Learning and recovering
+from failure is an essential skill in many fields. Learners with grit have shown to have a higher degree of success later on in
 life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait that can be learned and instilled in
 learners.
 
 There are many ways we can help our learners attain grit.
 
 - *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing 
-concepts may help students understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in
+concepts may help learners understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in
 modeling resilience.
-- *Promoting Perseverance*. Part of grit is being able to push through even when the going is difficult. Improvement-based praise is an 
+- *Promoting Perseverance*. Part of grit is being able to push through even when things are difficult. Improvement-based praise is an 
 important motivating tool to promote perseverance.
 - *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way to instill
 grit.
-- *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of student's individual long-term goals can instill 
+- *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of learners' individual long-term goals can instill 
 passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty?
@@ -165,7 +165,7 @@ passion and drive for learning despite the difficulties of the topic.
 ## Habits of Lifelong Learners  
 
 Surviving the job market nowadays requires the ability to be a lifelong learner, in order to learn and adapt to new skills that may 
-be required by employers. Many of these positions can be described as Knowledge Work, work that requires 
+be required by employers. Many of these positions can be described as *Knowledge Work*, work that requires 
 ["non-routine" problem solving](http://doi.wiley.com/10.1002/kpm.378). Knowledge workers need to be capable of what Cal
 Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively 
 demanding tasks".
@@ -174,14 +174,17 @@ Lifelong learning arises from those who have the growth mindset. Both grit and
 [curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
 [success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
 Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve 
-long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in students.
+long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in learners.
 
 Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) 
-is important, as it is a critical skill of lifelong learners. Encouraging students to seek help can be difficult when societal norms view 
+is important, as it is a critical skill of lifelong learners. Encouraging learners to seek help can be difficult when societal norms view 
 seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially 
 [prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a 
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners 
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a 
 positive learning community.  
+
+[amazon-dweck]: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/ref=asap_bc?ie=UTF8
+[cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
 
 
