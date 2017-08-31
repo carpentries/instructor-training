@@ -9,13 +9,13 @@ questions:
 objectives:
 - "Create a learner profile for someone likely to attend a workshop you will teach."
 - "Identify the information about learners' understanding you hope to gain from a particular exercise and how you will use this information to guide your teaching."
-- "Start to become comfortable adapting challenges in real time for different levels of learners."
+- "Start developing comfort adapting challenges in real time for different levels of learners."
 keypoints:
 - "A good exercise provides useful guidance to instructors about next steps needed in teaching."
 - "Developing good exercises in real time can be difficult, but is an important skill."
 ---
 
-Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-performance.md). 
+Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-practice-teaching/). 
 We started out by focusing on the lessons we can learn as instructors from watching others teach, having
 others observe our teaching, and giving and receiving feedback based on these observations. In this 
 section, we'll switch our focus to another important part of lesson study: detailed discussion of
@@ -26,12 +26,7 @@ curricular components (including lesson objectives, contents, and exercises) wit
 To teach effectively, you have to know *who* you are teaching. Your audience can be identified in many ways.  Frequently
 people who are hosting a workshop have a specific audience in mind, based on their own experience.  
 
-One "creative" way to characterize the audience for a course is to write *learner profiles*.
-This technique is borrowed from user interface design,
-where short profiles of typical users are created
-to help designers think about their audience's needs,
-and to give them a shorthand for talking about specific cases.
-
+One "creative" way to characterize the audience for a course is to write *learner profiles*. 
 Learner profiles have three parts:
 the person's general background,
 the problem they face,
@@ -69,12 +64,16 @@ A learner profile for Software Carpentry might be:
 {: .challenge}
 
 ## Working With Learning Objectives
+Once you have an idea of your intended audience, the next step is to set goals for your course or workshop. 
+These goals will be infomed by your audience and will communicate to them and to yourself what you should focus
+on during the course. These goals are usually communicated through *learning objectives*.
+
 The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners.
 
 > ## Evaluate SWC and DC Learning Objectives
 >
 > Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
-> Take a minute to select one learning objective from one of those lessons,
+> Select one learning objective from one of those lessons,
 > then complete the following steps to evaluate it.
 >
 > 1. Identify the learning objective verb. How specifically does this verb describe the desired learner outcome?
@@ -86,7 +85,7 @@ The "learning objectives" section is an easy thing to pass over when you're prep
 
 ## Designing Good Challenges
 
-Many lessons have existing challenges that are already included, but when preparing to teach it is always a good idea to have a few extra challenges in your pocket. This is particularly true if you think that the level of your learners may not be well matched to the existing challenge questions, or if you are able to anticipate a likely misconception that is not targeted by an existing challenge.
+Many lessons have existing challenges that are already included, but when preparing to teach it is always a good idea to have a few extra challenges ready to use. This is particularly true if you think that the level of your learners may not be well matched to the existing challenge questions, or if you are able to anticipate a likely misconception that is not targeted by an existing challenge.
 When writing challenges, our goal is to have exercises that provide useful feedback to the 
 instructor (and learner) about what aspects of the topic learners are having difficulty with. You should always be 
 able to identify what information you hope to gain from a particular exercise, so that you know in what situations
@@ -164,13 +163,13 @@ you'll find that sometimes these exercises don't exactly meet the needs of the l
 will inevitably be the case regardless of the number of practice problems you prepare in advance, and is one of the 
 major challenges of teaching in this style. Because providing practice at the appropriate level for your learners
 is so important, it is useful to practice adapting exercises for various levels of learners so that you can do this
-quickly and proficiently as needed at your workshops.
+quickly and proficiently as needed during your workshops.
 
 > ## Adapting Challenges
 >
 > For your chosen lesson, pick one of the existing exercises (or use the MCQ or faded example you wrote yesterday). 
 > - Evaluate what level of learner they target. 
-> - Write two variations of this question that target a) a more advanced and b) a more novice learner.
+> - Write two variations of this question that target a) more advanced and b) more novice learners.
 > - Discuss your variations with a partner and add to the Etherpad.
 > 
 > This exercise and discussion should take about 10 minutes.
