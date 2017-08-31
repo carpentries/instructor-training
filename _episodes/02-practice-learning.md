@@ -64,8 +64,7 @@ tasks with normal effort under normal circumstances.
     move around directories and use individual programs, but they might not understand how they can fit these programs 
     together to build scripts and automate large tasks.
 
-*   *Expert*: someone who can easily handle situations that are out of the ordinary,
-    diagnose the causes of problems, and so on.
+*   *Expert*: someone who can easily handle situations that are out of the ordinary.
 
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when 
     presented with a problem, immediately sees how these skills can be used to solve the problem.
@@ -80,7 +79,7 @@ for other countries. In other words, their mental model of the United States is 
 countries.
 
 We can distinguish between a *novice* and a *competent
-practitioner* for a given domain based on the complexity of their mental model.
+practitioner* for a given domain based on the complexity of their mental models.
 
 *     A *novice* is someone who has not yet built a mental model of the domain.
 They therefore reason by analogy and guesswork,
@@ -91,7 +90,7 @@ does not have to be completely accurate in order to be useful:
 for example, the average driver's mental model of how a car works probably doesn't include
 most of the complexities that a mechanical engineer would be concerned with.
 
-We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/04-expertise/).
+We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/03-expertise/).
 
 > ## Your Mental Models
 >
@@ -108,16 +107,15 @@ presenting novices with a pile of facts early on is counter-productive,
 because they don't yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
-the incorrect mental model they've cobbled together.
+their incorrect mental model.
 
 Most learners coming to Software/Data Carpentry lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
 Thus, our
 primary goal is *not*
-to teach the syntax of a particular programming language, or the detailed methods involved in doing research in a
-particular domain, but *to help them construct a working mental model*
-so that they have something to attach facts to. In other words, our goal is to teach people how to think about programming and data 
-management (and about using computers in research more generally).
+to teach the syntax of a particular programming language, but *to help them construct a working mental model*
+so that they have something to attach facts to. In other words, our goal is to teach people *how to think* about programming and data 
+management.
 
 ### The Importance of Going Slowly
 
@@ -132,7 +130,7 @@ to help them form the right categories and make connections among concepts.
 Until they've done that, trying to impart "mere information" just confuses them (and is therefore a waste of time).
 
 As an example of this idea's practical implications,
-our [lesson on the Unix shell][swc-shell-novice] only introduces 16 commands,
+Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 16 commands,
 and we usually spend two and a half hours working through it.
 Eleven minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
@@ -152,7 +150,7 @@ That model also includes things like:
 
 These two examples illustrate something else as well.
 Learning consists of more than "just" building mental models
-and pouring information into them;
+and adding information to them;
 creating linkages between concepts and facts is as least as important.
 Telling people that they shouldn't repeat things,
 and that they should try to think in terms of little pieces loosely joined,
@@ -169,7 +167,7 @@ helps solidify both ideas.
 > from learners. We'll be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
 
-## How `Knowledge` Gets in the Way
+## How "Knowledge" Gets in the Way
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
 with some amount of information, ideas and opinions about the topic. This is true even
@@ -184,7 +182,7 @@ Broadly speaking, misconceptions fall into three categories:
 *   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
     These are the easiest to correct.
 *   *Broken models*, such as believing that motion and acceleration must be in the same direction.
-    We can address these by having them reason through examples to see contradictions.
+    We can address these by having learners reason through examples to see contradictions.
 *   *Fundamental beliefs*,
     such as "the world is only a few thousand years old"
     or "human beings cannot affect the planet's climate".
@@ -211,10 +209,10 @@ This feedback comes through formative assessments.
     Its main purpose is to provide guidance to the instructor and the learner about what to focus on.
     Learners don't "pass" or "fail" formative assessments.
     For example,
-    a music teacher might ask a student to play a scale very slowly
-    in order to see whether she is breathing correctly,
-    and if she is not,
-    what she should change.
+    a music teacher might ask a learner to play a scale very slowly
+    in order to see whether they are breathing correctly,
+    and if not,
+    what they should change.
 *   In contrast, *summative assessment* is used
     to judge whether a learner has reached an acceptable level of competence. 
     Learners either "pass" or "fail" a summative assessment.
@@ -272,14 +270,14 @@ but each of the other answers provides valuable insight.
 >
 >> ## Solution
 >>
->> *   If the child answers 32, she is throwing away the carry completely.
->> *   If she answers 312, she knows that she can't just discard the carried '1',
+>> *   If the child answers 32, they are throwing away the carry completely.
+>> *   If they answers 312, they know that they can't just discard the carried '1',
 >>     but doesn't understand that it's actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
->>     she is treating each column of numbers as unconnected to its neighbors.
->> *   If she answers 33 then she knows she has to carry the 1,
->>     but is carrying it back into the same column it came from.
+>>     they are treating each column of numbers as unconnected to its neighbors.
+>> *   If they answer 33 then they knows they have to carry the 1,
+>>     but are carrying it back into the same column it came from.
 > {: .solution}
 {: .challenge}
 
@@ -363,7 +361,6 @@ Formative assessments can also be used preemptively:
 if you start a class with a question and everyone can answer it correctly,
 then you can safely skip the part of the lecture
 in which you were going to explain something that your learners already know.
-(Doing this also helps show learners that the instructor cares about how much they are learning.)
 
 > ## How Many? 
 > 
@@ -381,10 +378,10 @@ in which you were going to explain something that your learners already know.
 
 > ## A Corollary Regarding Novices
 >
-> Students are commonly _far_ too satisfied to not understand key points
-> and remain confused.  If students remain confused, they are far less likely
+> Learners are commonly _far_ too satisfied to not understand key points
+> and remain confused.  If learners remain confused, they are far less likely
 > to adopt our "good enough" practices at the conclusion of the workshop.
-> Encourage helpers to support confused students as far as possible within
+> Encourage helpers to support confused learners as far as possible within
 > the flow of the workshop.
 {: .callout}
 
