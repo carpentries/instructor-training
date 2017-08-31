@@ -7,17 +7,19 @@ Over the last hundred years,
 researchers have discovered an enormous amount about how people learn
 and how best to teach them.
 Unfortunately,
-much of that knowledge has not yet been translated into common classroom practice,
-while many myths about education have proven remarkably persistent.
+much of that knowledge has not yet been translated into common classroom practice, especially at the university level.
 
-This two-day class has two goals:
+This two-day class has the following overall goals:
 
-*   Introduce participants to a handful of key research findings
-    and show how they can be used to help people learn better and faster.
-*   Introduce participants to the teaching practices that have been adopted by
-    the Software and Data Carpentry communities, and the overall philosophy
-    and procedures of both organizations
-    in order to prepare them to teach at Software and Data Carpentry workshops.
+*   Introduce you to evidence-based best-practices of teaching.
+*   Teach you how to create a positive environment for learners at your workshops.
+*   Provide opportunities for you to practice and build your teaching skills.
+*   Help you become integrated into the Carpentry community. 
+*   Prepare you to use these teaching skills in teaching Carpentry workshops.
+
+Because we have only two days, some things are beyond the scope of this class. We will not be learning:  
+*   How to program in R or Python, use git, or any of the other topics taught in Carpentry workshops. 
+*   How to create your own lessons from scratch. 
 
 *Please fill in [this form][application-form] if you wish to take part in this course.
 Priority is given to members of our partner organizations,
