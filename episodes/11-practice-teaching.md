@@ -47,7 +47,7 @@ not observe each others' teaching in practice. In contrast, Japanese teachers re
 observing each other at work, discussing the lesson afterward, and studying curriculum materials with their 
 colleagues.
 
-Putting work under a microscope in this way in order to improve it is commonplace in sports and music.
+Closely observing work in this way in order to improve it is commonplace in sports and music.
 A professional musician, for example,
 will dissect half a dozen different recordings of "Body and Soul" or "Smells Like Teen Spirit" before performing it.
 They would also expect to get feedback from fellow musicians during practice and after performances.
@@ -64,7 +64,7 @@ a textbook publisher,
 or the Internet,
 but each teacher has to figure out on their own how to combine that with
 the theory they've learned in their educational programs
-to deliver an actual lesson in an actual classroom for actual students. 
+to deliver an actual lesson in an actual classroom for actual learners. 
 When teachers don't observe each other teaching, the tricks and techniques that each instructor
 has painstakingly incorporated into their practice don't have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
@@ -72,10 +72,9 @@ forward momentum on system-wide improvements to teaching.
 > ## Reading It Isn't Enough
 > Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
 > that teachers don't adopt instructional practices based on reports about the effectiveness of those practices. 
-> Although some may try these practices in the hope it helps them solve a problem, or because they 
-> are the few that are interested in experimenting with them to improve their teaching, social norms, institutional
-> culture, and lack of time and support prevents many teachers from looking beyond the lesson as it has been taught 'all 
-> these years'. Change in teaching doesn't come about through reading about new teaching practices, but by seeing 
+> Social norms, institutional
+> culture, and lack of time and support prevents many teachers from moving out of 
+> their accustomed teaching habits. Change in teaching doesn't come about through reading about new teaching practices, but by seeing 
 > these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
 
@@ -97,7 +96,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-Now that you've had some practice giving observing teaching and giving feedback, let's practice with each other.
+Now that you've had some practice observing teaching and giving feedback, let's practice with each other.
 
 > ## Feedback on Yourself
 >
@@ -112,8 +111,8 @@ Now that you've had some practice giving observing teaching and giving feedback,
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
->     (she becomes the videographer,
->     her audience becomes the instructor,
+>     (they become the videographer,
+>     the audience becomes the instructor,
 >     the person who was recording becomes the audience)
 >     and then rotate roles again.
 > 4.  After everyone in the group of three has finished teaching,
@@ -133,7 +132,7 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 ![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved
-share ground rules and expectations. In Carpentries teaching, we use the two x two 
+share ground rules and expectations. In Carpentries teaching, we use the 2x2 
 paradigm for feedback. Each person giving feedback is expected to provide at least one
 piece of negative and one piece of positive feedback each for content and delivery. This
 helps overcome two common tendencies when giving feedback on teaching: to focus on the content 
@@ -152,7 +151,7 @@ in a way that helps you improve:
     *   "If you could pick one thing from the lesson to go over again, what
 	would it be?"
 
-Specific feedback like this is more useful than a generic "that was great!" or "that
+Specific feedback like this is more useful than a generic "That was great!" or "That
 was terrible!"  Also, writing your own feedback questions allows you to frame
 feedback in a way that is helpful to you - the questions above
 reveal what didn't work in your teaching, but
@@ -186,7 +185,6 @@ it's OK to remind yourself that:
 
 *   It's not personal.
 *   Look at the positives along with the negatives.
-*   Etc.
 
 ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
 
