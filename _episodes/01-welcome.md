@@ -20,7 +20,7 @@ keypoints:
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
-to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry
+to conform to our Code of Conduct. This Code of Conduct applies to all spaces managed by Software Carpentry
 and Data Carpentry including, but not limited to workshops, email lists, online forums and on GitHub. Please review
 [the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it.
 
@@ -35,7 +35,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
 >
-> To begin your class, each trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for student success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics.
+> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for student success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics.
 {: .discussion}
 
 > ## Information for Today's Learners
@@ -74,34 +74,30 @@ researchers to be more productive and do better research.
 ## Instructor Training Workshop Overview
 
 We will not be going
-over the workshop content in detail (although we will talk about
-the lessons tomorrow), but instead we will
+over the workshop content in detail (although you will get familiarity with
+some of the content through the exercises), but instead we will
 focus on developing teaching skills that are broadly
-useful across all of our lessons.  Part of this is because
-this two-day training is the first step in getting fully certified
-to teach Software and/or Data Carpentry workshops.
-The follow-up steps for full certification will require that you dig into the workshop content yourself and we'll talk about that more tomorrow afternoon.
+useful across all of our lessons. This two-day training is the first step in becoming a certified
+Software and/or Data Carpentry instructor.
+The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.
 
 ### How Learning Works
 
-Although this training will cover specific teaching skills, one of our main emphases will be discussing the "best practices" of teaching. We
+One of our main emphases will be discussing the "best practices" of teaching. We
 will be introducing you to a handful of key educational research
 findings and demonstrating how they can be used to help people learn better and faster.
 
-### Practice / Feedback Cycle and Skill Development
+### Building Teaching Skill
 
-One aspect of this course's design is its relationship to teaching
-as a performance art.  Just as musicians learn theory, practice techniques,
- and perform for each other, we're going to be looking at some learning
- theory (also known as educational psychology) and why it matters to us
- as Software and Data Carpentry instructors. We will create exercises and learning
- materials, and practice our teaching.  You can expect a lot of
-hands-on work and discussion.  We'll be using the the Etherpad to collect
-answers and help facilitate discussion - if you ever have any questions,
-feel free to put them into the notes or chat box of the Etherpad and we'll
-make sure we get to them by the end of each day.
+Just like learning a new language, a musical instrument, 
+or a sport, teaching is a skill that requires practice and feedback.  
+We will have many opportunities to practice and give each other feedback throughout this workshop.
+We welcome questions and dialogue
+at any point. We'll be using the the Etherpad to help facilitate discussion. 
+Please feel free to ask questions verbally or to put them into the notes or chat box 
+of the Etherpad.
 
 ### Creating a Positive Learning Environment
 
@@ -109,18 +105,20 @@ One part of making this a productive two days for all of us is a
 community effort to treat one another with kindness and respect.  This
 training, as in all Software/Data Carpentry workshops is subject to
 the Software and Data Carpentry Code of Conduct.  We will be able to
- give our best effort (and have the most fun!) if everyone abides by these guidelines.
+give our best effort (and have the most fun!) if everyone abides by these guidelines. 
+We will also be discussing and practicing teaching techniques to creating a positive and 
+welcoming environment in your classrooms.
 
 ### Carpentry History and Culture
 
 We will be introducing you to the teaching practices that have been
-adopted by the Software and Data Carpentry communities, and the
-overall philosophy and procedures of both organizations in order
-to prepare you to teach at Software and Data Carpentry workshops.
-The greatest asset of Software and Data Carpentry is people like
- yourselves - people who want to help researchers learn about these ideas
- and share their own experience and enthusiasm.  We hope that this training
- gives everyone a chance to meet new people and share ideas.
+adopted by the Software and Data Carpentry communities, and our
+overall philosophy and procedures in order
+to prepare you to teach Carpentry workshops.
+The greatest asset of the Carpentries is people like
+yourselves - people who want to help researchers learn about these ideas
+and share their own experience and enthusiasm.  We hope that this training
+gives everyone a chance to meet new people and share ideas.
 
 ## Assessing Trainee Motivation and Prior Knowledge
 
@@ -170,8 +168,8 @@ motivate the activities and how you communicate with the attendees.
 {: .discussion}
 
 Now that we have a better idea of everyone's prior knowledge and
-familiarity with some of the SWC and DC teaching practices, we're
+familiarity with some of the key Carpentry teaching practices, we're
 ready to begin our training. Our goal is that by the end, you will
 have acquired some new knowledge, confidence, and skills that you can
-use in your teaching practice in general and in teaching SWC and DC
+use in your teaching practice in general and in teaching Carpentry
 workshops specifically.
