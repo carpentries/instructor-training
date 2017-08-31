@@ -22,7 +22,7 @@ identify and overcome these difficulties.
 
 ## What Makes an Expert?  
 
-An [earlier topic]({{ page.root }}/02-practice.md) described a key 
+An [earlier topic]({{ page.root }}/02-practice-learning/) described a key 
 difference between novices and competent practitioners. Novices lack a mental model, or have only
 a very incomplete model with limited utility.
 Competent practitioners 
@@ -184,12 +184,11 @@ people will, indeed, have questions, and that that is normal and expected.
 
 One way to overcome these limitations is by understanding the goals 
 and motivations of your learners.  We will discuss motivation in more depth 
-in a [later lesson]({{ page.root }}/19-motivation/) 
+in a [later lesson]({{ page.root }}/08-motivation/) 
 but for now, consider some of these ideas about the typical audience for 
 Carpentry workshops.  
 
-- Most scientists don't actually want to program. They want to do scientific research,
-and programming is just a tax they have to pay to do that.
+- Most scientists don't actually want to program. They want to do scientific research.
 They don't care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
@@ -212,8 +211,9 @@ The real problem is that every such failure reinforces the belief that computing
 and that they'd have a better chance of making next Thursday's conference submission deadline
 if they kept doing things the way they always have.
 For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
+we have adopted a "teach most immediately useful first" approach.
+We'll talk much more about this when we discuss 
+[motivation]({{ page.root }}/08-motivation/).
 
 > ## Software/Data Carpentry Is Not Computer Science  
 >
