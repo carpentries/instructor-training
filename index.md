@@ -19,7 +19,7 @@ This two-day class has the following overall goals:
 
 Because we have only two days, some things are beyond the scope of this class. We will not be learning:  
 *   How to program in R or Python, use git, or any of the other topics taught in Carpentry workshops. 
-*   How to create your own lessons from scratch. 
+*   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
 *Please fill in [this form][application-form] if you wish to take part in this course.
 Priority is given to members of our partner organizations,
