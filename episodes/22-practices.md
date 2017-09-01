@@ -28,7 +28,7 @@ about how a Carpentry workshop operates.
 > 
 > If you are at an in-person training, your instructor will hand out paper copies of 
 > a worksheet. If you are at an online training, you can get a 
-> [digital copy here]({{ page.source }}/files/handouts/Carpentries_teaching_practices.pdf).
+> [digital copy here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
 > 
 > In groups of 3-4, fill out this worksheet, listing all of the teaching strategies
 > and techniques you would use at each stage of a workshop. Be sure to include
