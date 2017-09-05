@@ -188,8 +188,8 @@ in a [later lesson]({{ page.root }}/08-motivation/)
 but for now, consider some of these ideas about the typical audience for 
 Carpentry workshops.  
 
-- Most scientists don't actually want to program. They want to do scientific research.
-They don't care how hash tables work,
+- Most scientists' primary goal is not to program, but to do scientific research.
+They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
 and conversely that we don't teach anything just because it's "fundamental".
