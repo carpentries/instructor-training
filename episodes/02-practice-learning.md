@@ -271,12 +271,12 @@ but each of the other answers provides valuable insight.
 >> ## Solution
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
->> *   If they answers 312, they know that they can't just discard the carried '1',
+>> *   If they answer 312, they know that they can't just discard the carried '1',
 >>     but doesn't understand that it's actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
 >>     they are treating each column of numbers as unconnected to its neighbors.
->> *   If they answer 33 then they knows they have to carry the 1,
+>> *   If they answer 33 then they know they have to carry the 1,
 >>     but are carrying it back into the same column it came from.
 > {: .solution}
 {: .challenge}
