@@ -13,7 +13,7 @@ keypoints:
 
 ---
 
-In becoming an instructor for Software or Data Carpentry,
+In becoming a Carpentry instructor,
 you are also becoming part of a community of like-minded volunteers.
 This section provides some background on both organizations and information 
 about how you can get involved.
@@ -127,7 +127,7 @@ institution, [visit this website for more information on centrally-organized wor
 
 Policies related to instructor training and workshops for both Software Carpentry and
 Data Carpentry can be found [here](https://github.com/carpentries/policies). Please
-be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before planning your first workshop.
+be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
 
 ### Materials
 
@@ -138,7 +138,7 @@ provided you cite the original source.
 
 ### Using the Names
 
-However, the names "Software Carpentry" and "Data Carpentry"
+The names "Software Carpentry" and "Data Carpentry"
 and their respective logos
 are all trademarked.
 You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
@@ -262,6 +262,6 @@ be discussed before changes are merged.
 
 Being part of a friendly, open discussion, is of equal or greater importance
 to the community than submitting the perfect lesson change.  The
-[checkout process]({{ page.root }}/checkout/) to become a fully-fledged instructor will be
+[checkout process]({{ page.root }}/checkout/) to become a certified instructor will be
 one way to start connecting to the community and find which area will allow you
 to contribute best.
