@@ -55,6 +55,13 @@ if you'd prefer a brief summary.
 > This exercise should take 5 minutes.
 {: .challenge}
 
+> ## Not Just for Checkout
+> 
+> Discussion sessions aren't only for instructors-in-training working towards their certification. 
+> Instructors are highly encouraged to participate in discussions before and after each of their workshops, 
+> so that they can continue to learn from each other and advance their teaching skills.
+{: .callout}
+
 > ## One Up, One Down
 > 
 > Provide one up, one down feedback on the entire two-day course.
@@ -85,7 +92,7 @@ if you'd prefer a brief summary.
 
 ## Thank You
 
-Thank you for taking part in this instructor-training workshop.
+Thank you for taking part in this instructor training workshop.
 We hope it was a valuable and enjoyable experience,
 and we look forward to having you as Carpentry instructors!
 
