@@ -171,8 +171,7 @@ for details.
 
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
-each workshop's instructors create a one-page website using
-[this template]({{ site.workshop_repo }}).
+each workshop's instructors create a one-page website with information about their workshop.
 Once that has been created,
 the host or lead instructor sends its URL to
 the [workshop coordinator](mailto:admin@software-carpentry.org),
