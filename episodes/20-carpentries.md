@@ -24,7 +24,7 @@ about how you can get involved.
 [Data Carpentry]({{ site.dc_site }}) was founded in 2013. You can learn more about the history
 and goals of each organization by reading 
 "[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)" and
-"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135).
+"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
 
 *   Both focus on computational skills.
 *   Both run two-day workshops taught by volunteer instructors.
