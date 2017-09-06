@@ -41,7 +41,7 @@ if you'd prefer a brief summary.
 > as homework last night?
 > 
 > This discussion should take about 10 minutes.
-{: .exercise}
+{: .challenge}
 
 > ## Schedule a Discussion or Demo
 > 
