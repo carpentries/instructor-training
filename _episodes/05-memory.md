@@ -182,7 +182,7 @@ separate information will need to be "stored" in memory during each part of the 
 > Write "*done*" in the Etherpad chat once you have finished.
 {: .challenge}
 
-## Other Uses of Concept Maps
+> ## Other Uses of Concept Maps
 > In addition to helping you plan where to introduce formative assessments, concept maps can
 > be used in many other ways:
 > 
@@ -202,7 +202,7 @@ separate information will need to be "stored" in memory during each part of the 
 > 5.  Concept maps are also a useful formative assessment technique:
 >    having learners draw concept maps of what they think they just 
 > heard shows the instructor what was missed and what was misunderstood.
-{: .calloud}
+{: .callout}
 
 ## Why Guided Practice is Important
 
