@@ -20,13 +20,12 @@ permalink: /guide/
 * [Video Recorded Lessons](#video-recorded-lessons)
 * [Live Coding Demo Videos](#live-coding-demo-videos)
 * [Motivation and Demotivation](#motivation-and-demotivation)
+* [Carpentries Overview](#carpentries-overview)
 * [The Big Picture](#the-big-picture)
-* [You Are Not Your Learners](#you-are-not-your-learners)
 * [Software Carpentry Is Not Computer Science](#software-carpentry-is-not-computer-science)
 * [Logistics](#logistics)
-  * [Two\-Day In\-Person (Currently used)](#two-day-in-person-currently-used)
-  * [Two\-Day Online With Groups (Currently used)](#two-day-online-with-groups-currently-used)
-  * [Multi\-Week Online (Retired)](#multi-week-online-retired)
+  * [Two\-Day In\-Person](#two-day-in-person)
+  * [Two\-Day Online (with groups or fully distributed)](#two-day-online-with-groups-or-fully-distributed)
 * [Demo Sessions](#demo-sessions)
   * [Before the Demo](#before-the-demo)
   * [Shortly Before the Demo](#shortly-before-the-demo)
@@ -152,7 +151,6 @@ the class.
     and do their demotivational story just before lunch on day 2:
     it means day 2 starts with *their* questions (which wakes them up),
     and the demotivational story is a good lead-in to lunchtime discussion.
-
 *   Don't have them complete the Teaching Perspectives Inventory
     or read through the pre- or post-assessment questionnaires in class:
     it kills momentum.
@@ -256,6 +254,11 @@ and have a rubric to follow.
 
 ## Live Coding Demo Videos
 
+The lists below are the aspects the videos try to contrast.
+After the exercise where the learners compare the videos and write down do's and dont's,
+the comments usually cover almost everything from the Top 10. 
+Instead of going over this Top 10, check whether anything was missed and briefly address these points.
+
 **[Part 1][live-coding-bad]: how not to do it**
 
 *   Instructor ignores a red sticky clearly visible on a learner's laptop.
@@ -292,6 +295,14 @@ and have a rubric to follow.
     Rather than read all out loud,
     highlight a few of the things that could have been done differently.
     This will give everyone some confidence in how to handle these situations in the future.
+
+## Carpentries Overview
+
+This discussion assumes that trainees have read the [operations guide]({{ site.swc_site }}/workshops/operations/)
+(which is [assigned as overnight homework]({{ page.root }}/12-summarize/)).
+Instead of going through this material point by point,
+trainers should ask each trainee to add one non-overlapping question to a list,
+then go through that list.
 
 ## The Big Picture
 
@@ -337,47 +348,6 @@ which wastes time and impedes the spread of good ideas.
 Changing *that* could have more impact in the long run
 than anything to do with for loops and pull requests.
 
-## You Are Not Your Learners
-
-Discussion of the practical implications of learning concepts
-brings us to our next big idea:
-people learn best when they care about the topic <em>and</em> believe they can master it.
-Neither fact is particularly surprising,
-but their practical implications have a lot of impact on what we teach,
-and the order in which we teach it.
-
-First,
-most scientists don't actually want to program.
-They want to do scientific research,
-and programming is just a tax they have to pay along the way.
-They don't care how hash tables work,
-or even that hash tables exist;
-they just want to know how to process data faster.
-We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
-
-Second,
-believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
-
-It's also why installing and configuring software is
-a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of boot camps
-as we try to get a Unix shell working on Windows,
-or set up a version control client on some idiosyncratic Linux distribution.
-It isn't even the unfairness of asking students to debug things
-that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
-The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
-if they kept doing things the way they always have.
-For these reasons,
-we have adopted a "teach most immediately useful first" approach
-described in [this episode]({{ page.root }}/19-motivation/).
-
 > ## Software Carpentry Is Not Computer Science
 >
 > Many of the foundational concepts of computer science,
@@ -397,7 +367,7 @@ as a two-day in-person class,
 and as a two-day class in which the learners are in co-located groups
 and the instructor participates remotely.
 
-### Two-Day In-Person (Currently used)
+### Two-Day In-Person
 
 This was the second method we tried.
 The biggest change was the introduction of recorded teaching exercises.
@@ -430,46 +400,52 @@ The biggest change was the introduction of recorded teaching exercises.
     both for note-taking and for posting exercise solutions and feedback on recorded lessons
     Questions and discussion are done aloud.
 
-### Two-Day Online With Groups (Currently used)
+### Two-Day Online (with groups or fully distributed)
 
-*   We use Google Hangouts and Etherpad as in the multi-week version.
-    Each group of learners is together in a room using one camera and microphone,
-    rather than each being on the call separately.
-    We have found that having good audio matters more than having good video,
+*   Group: Each group of learners is together in a room using one camera and microphone.
+    Fully distributed: Each learner is connecting individually. 
+    
+*   We have found that having good audio matters more than having good video,
     and that the better the audio,
     the more learners can communicate with the instructor and other rooms by voice
     rather than by using the Etherpad chat.
 
-*   We do the video lecture exercise as in the two-day in-person training.
+*   We do the video lecture exercise as in the two-day in-person training. 
+    
+*   Google Doc may be better than Etherpad. 
+    Both slow down under load, 
+    but the Google Doc allows people to paste in images from the concept mapping exercise.  
+    It also minimizes any distractions that may arise from the Etherpad color coding.
+    If you *do* use an Etherpad, consider starting a fresh one for the second day 
+    as this seems to reduce loading delays and lag.
 
-### Multi-Week Online (Retired)
+*   Put the participants' names double-spaced at the very bottom of the Etherpad, 
+    Whenever you want learners to submit work in the Google Doc or Etherpad, 
+    paste that list in so that they all know where to add their answer.
+    This minimizes over-typing and helps the instructor gauge learners' progress with the exercise.
 
-This was the first method we tried.
+*   Whenever you give an exercise, type it into the Doc or 'pad, 
+    and add both how much time they have and when they're expected back (including timezone).
+    Note: Markdown bulleting doesn't easily transfer to Etherpad, 
+    so we have created a 'TTT temmpate' Etherpad containing many of the challenges in a format
+    that can be easily copied and pasted into your class Etherpad.
+    http://pad.software-carpentry.org/ttt-template
+    
+*   Screen-sharing videos with learners usually doesn't work well.
+    Instead, paste the links to videos and have the learns watch them on a computer in their room.  
 
-*   We meet every week or every second week for an hour using Google Hangout or Zoom.
-    Each meeting is held twice (or even three times) to accommodate learners' time zones
-    and because video conferencing systems can't handle 60+ people at once.
-    Each meeting also uses an Etherpad for shared note-taking,
-    and more importantly for asking and answering questions:
-    having several dozen people try to talk on a call hasn't worked,
-    so in most sessions,
-    the instructor does the talking
-    and learners respond through the Etherpad chat.
-
-*   Learners post homework online, then comment on each other's work.
-    *   We used a WordPress blog for the first ten rounds of training.
-        People found writing and commenting on posts straightforward,
-        but setting up dozens of logins was tedious.
-    *   We tried a GitHub-backed blog in the Winter 2015 class.
-        It didn't work nearly as well:
-        a third of the participants found it extremely frustrating,
-        and post-publication commentary was awkward.
-    *   We tried Piazza in the Fall 2015 class.
-        It was better than GitHub,
-        but still not as good as a simple WordPress blog.
-        In particular,
-        it was hard to find things once there were more than a dozen homework categories.
-        
+*   Rather than screen sharing an image,
+    paste the link to the image into the Etherpad
+    for learners to view on their own.
+    All the figures are displayed on this page: https://swcarpentry.github.io/instructor-training/figures/.
+    You can right click the image to get its URL.
+    
+*   Video conferencing problems will most certainly arise.
+    Plan for extra time getting everyone on board on the first day.
+    Also, you can set up a time a few days before the workshop 
+    for a test call with the local host to make sure the conference room setup is working well.
+       
+       
 ## Demo Sessions
 
 Checklist for instructor trainers hosting a live-coding demo session as part of a trainee's checkout procedure.
@@ -510,9 +486,9 @@ Checklist for instructor trainers hosting a live-coding demo session as part of 
 *   Ask them to share their screen using the "Share Screen" lower menu in Zoom.
 *   Once they are ready, give them a 3-2-1 countdown to start.
 *   Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone),
-    or just say "bong" really loudly at the end of their tie.
-*   After the five minute timer, allow them to finish their sentence and tell them time's up.
+    or just say "bong" really loudly at the end of their time.
 *   Use a [rubric][rubric] for notes.
+*   After the five minute timer, allow them to finish their sentence and tell them time's up.
 *   After the trainee is finished,
     first ask how they themselves thought it went,
     then give constructive feedback based on your notes. 
