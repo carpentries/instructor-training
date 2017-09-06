@@ -52,7 +52,7 @@ about how a Carpentry workshop operates.
 {: .challenge}
 
 
-> ## Instructor notes.
+> ## Instructor Notes
 > Many of the Software and Data Carpentry lessons have 
 > instructor's notes, with information 
 > from instructors who have already taught the material.  This can be a valuable 
@@ -62,7 +62,7 @@ about how a Carpentry workshop operates.
 > their [main lesson page]({{ site.dc_site }}/lessons/).  
 {: .callout}
 
-> ## Learners use their own machines.
+> ## Learners Use Their Own Machines
 > Learners tell us that it is important to them to leave the workshop
 > with their own machine set up to do real work.  We therefore continue
 > to teach on all three major platforms (Linux, Mac OS X, and Windows),
