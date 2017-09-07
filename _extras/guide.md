@@ -78,7 +78,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 ### Online trainings (a few small groups) 
 - When watching videos, have one Trainer do a screenshare with their audio on or have one person in each group play the video for the participants at their site.  
 - Assign (or let participants select) physical breakout groups.  
-- Use the [virtual minute card][[minute-cards-template] form to get feedback at lunch breaks and end of each day.  
+- Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants do all small-group exercises with participants at same site.  
 
 ### Online trainings (completely distributed)  
