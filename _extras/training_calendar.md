@@ -21,7 +21,6 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 * November 14-15, 2017
 
 ##### Central time
-* October 5-6, 2017
 * November 2-3, 2017
 
 ##### Mountain time
