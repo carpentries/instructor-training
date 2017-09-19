@@ -29,7 +29,6 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 
 ##### Pacific time
 * October 19-20, 2017
-* November 15-16, 2017
 
 # Europe
 
