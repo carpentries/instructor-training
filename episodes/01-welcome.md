@@ -22,7 +22,7 @@ keypoints:
 To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
 to conform to our Code of Conduct. This Code of Conduct applies to all spaces managed by Software Carpentry
 and Data Carpentry including, but not limited to workshops, email lists, online forums and on GitHub. Please review
-[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it.
+[the Code of Conduct](https://software-carpentry.org/conduct/) to familiarise yourself with it.
 
 ## Introductions
 
