@@ -349,7 +349,7 @@ and see the topic from their point of view.
 There are many types of formative assessments other than MCQs. One (non-exhaustive) list
 can be found in the [Edutopia assessment group](https://www.edutopia.org/groups/assessment/250941). 
 
-## Formative Assessments Should Be Frequent.
+## Formative Assessments Should Be Frequent
 
 Instructors should use a formative assessment ideally every 5 minutes and 
 at least every 10-15 minutes

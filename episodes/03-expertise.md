@@ -227,7 +227,7 @@ We'll talk much more about this when we discuss
 > they are less compelling than things like automating repetitive tasks.
 {: .callout}
 
-## The Important of Practice (Again)  
+## The Importance of Practice (Again)
 
 All of the above points illustrate the importance of using formative assessments frequently. The right 
 formative assessment at the right time will give you valuable information about your learners' goals and
