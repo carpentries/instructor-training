@@ -18,11 +18,9 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 # North America
 
 ##### Eastern time
-* October 24-25, 2017
 * November 14-15, 2017
 
 ##### Central time
-* October 5-6, 2017
 * November 2-3, 2017
 
 ##### Mountain time
@@ -30,9 +28,7 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 * December 12-13, 2017
 
 ##### Pacific time
-* September 25-26, 2017
-* October 18-19, 2017
-* November 15-16, 2017
+* October 19-20, 2017
 
 # Europe
 
