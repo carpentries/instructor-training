@@ -25,7 +25,7 @@ setting of the two-day training.  These are:
 
 2.  Participating in the larger Carpentry instructor community.  We
     include the discussion session in the checkout because we hear
-    from many instructors that one of their favorite aspects of being an
+    from many instructors that one of their favorite aspects of being a
     Carpentry instructor is meeting and talking with other instructors in the community.
 
 3.  Practicing and confirming the skills you need to teach on your own.  Before
