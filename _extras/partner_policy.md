@@ -8,7 +8,7 @@ survey_link:
 
 Welcome to the Software Carpentry and Data Carpentry community.  We are excited to welcome you as a member organization. Our instructor training process is a large part of how we spread the teaching culture of the Carpentries to new organizations. We’re looking forward to meeting your team and bringing them up to speed on how we teach so we can have the best impact on our learners.
 
-Your annual membership gives gives you a number of slots in our instructor training program.  This is a training for people who want to become instructors with the Carpentries (Software Carpentry and Data Carpentry). The workshop is a mix of lectures and hands-on lessons and is very interactive where trainees practice giving short lessons using approaches learned and implement some of the teaching techniques which we will discuss. This is training about pedagogical approach to teaching, not technical training specific to particular lessons. Trainees do not need any particular technical background, and we will not be teaching our workshop curriculum to trainees. This workshop is based on our constantly revised and updated open sourced [curriculum for instructor training](https://swcarpentry.github.io/instructor-training/). 
+Your annual membership gives you a number of slots in our instructor training program.  This is a training for people who want to become instructors with the Carpentries (Software Carpentry and Data Carpentry). The workshop is a mix of lectures and hands-on lessons and is very interactive where trainees practice giving short lessons using approaches learned and implement some of the teaching techniques which we will discuss. This is training about pedagogical approach to teaching, not technical training specific to particular lessons. Trainees do not need any particular technical background, and we will not be teaching our workshop curriculum to trainees. This workshop is based on our constantly revised and updated open sourced [curriculum for instructor training](https://swcarpentry.github.io/instructor-training/). 
 
 Our trainings are all offered as two day, online events.  You can view our [training calendar](
 https://swcarpentry.github.io/instructor-training/training_calendar/) and sign up for a training that meets your team’s needs. A few points as you select dates:
@@ -26,7 +26,7 @@ https://swcarpentry.github.io/instructor-training/training_calendar/) and sign u
 Once you’ve confirmed dates and participants, here is some information about preparing for the event itself:
 
 * Trainings are offered remotely.  Your room should be set up for videoconferencing with a large screen & projector, speakers, camera, and microphone.
-* The training room should have wifi capable of videoconferencing and for each participant laptop to connect.
+* The training room should have wifi capable of videoconferencing and for each participant's laptop to connect.
 * Participants should bring their own laptop - not a Chromebook, tablet, etc.  No special software other than a modern internet browser is required.
 * Schedule will include a lunch break as well as mini breaks during the day.  We strongly encourage each site to provide coffee and lunch to help build team cohesiveness and to maintain the schedule.
 * Carpentries will provide a link to host the videoconference via Zoom in advance of the event in order to test your setup.
@@ -39,4 +39,4 @@ Lastly, some information about what happens after the event:
 * After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries instructors.
 * Participants will receive ongoing support and mentorship from Carpentries staff and experienced instructors to help them start teaching at their own institution or other locations.
 
-We’re excited to have you and your staff taking this important step to build a strong community of instructors at your organization. We look forward to inviting your instructors into our community!
+We’re excited to have you and your staff taking this important step to build a strong community of instructors at your organization. We look forward to welcoming your instructors into our community!
