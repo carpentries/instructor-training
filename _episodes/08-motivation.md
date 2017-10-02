@@ -31,7 +31,7 @@ of many factors:
 + *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for novice learners.
 + *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a Code of Conduct or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
 + *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint leaners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
++ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 ## Teach Most Useful First
 
@@ -93,7 +93,7 @@ learners.
 
 > ## Strategies for Motivating Learners
 >
-> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al, 
+> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al., 
 > contains this list of evidence-based methods to motivate learners.
 >
 > In groups of two or three, pick three of these points and briefly describe
