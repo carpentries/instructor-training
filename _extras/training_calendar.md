@@ -21,10 +21,9 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 * November 14-15, 2017
 
 ##### Central time
-* November 2-3, 2017
+* Training dates to be announced
 
 ##### Mountain time
-* October 30-31, 2017
 * December 12-13, 2017
 
 ##### Pacific time
@@ -36,7 +35,6 @@ Please keep in mind Daylight savings time changes in late October or early Novem
 * Training dates to be announced
 
 ##### Central European time
-* October 30-31, 2017
 * December 4-5, 2017
 
 
