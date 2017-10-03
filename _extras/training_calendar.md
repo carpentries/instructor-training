@@ -15,6 +15,8 @@ All trainings are offered online from 9 am to 5 pm in the time zone noted.  You 
 
 Please keep in mind Daylight savings time changes in late October or early November, depending on your location.  
 
+Training dates for January - April 2018 will be announced in November 2017.
+
 # North America
 
 ##### Eastern time
