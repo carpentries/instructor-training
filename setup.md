@@ -2,7 +2,7 @@
 layout: page
 title: Setup
 permalink: /setup/
-training_site: https://swcarpentry.github.io/instructor-training
+training_site: https://carpentries.github.io/instructor-training
 ---
 
 1.  Please read ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
