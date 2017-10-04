@@ -8,10 +8,10 @@ survey_link:
 
 Welcome to the Software Carpentry and Data Carpentry community.  We are excited to welcome you as a member organization. Our instructor training process is a large part of how we spread the teaching culture of the Carpentries to new organizations. We’re looking forward to meeting your team and bringing them up to speed on how we teach so we can have the best impact on our learners.
 
-Your annual membership gives you a number of slots in our instructor training program.  This is a training for people who want to become instructors with the Carpentries (Software Carpentry and Data Carpentry). The workshop is a mix of lectures and hands-on lessons and is very interactive where trainees practice giving short lessons using approaches learned and implement some of the teaching techniques which we will discuss. This is training about pedagogical approach to teaching, not technical training specific to particular lessons. Trainees do not need any particular technical background, and we will not be teaching our workshop curriculum to trainees. This workshop is based on our constantly revised and updated open sourced [curriculum for instructor training](https://swcarpentry.github.io/instructor-training/). 
+Your annual membership gives you a number of slots in our instructor training program.  This is a training for people who want to become instructors with the Carpentries (Software Carpentry and Data Carpentry). The workshop is a mix of lectures and hands-on lessons and is very interactive where trainees practice giving short lessons using approaches learned and implement some of the teaching techniques which we will discuss. This is training about pedagogical approach to teaching, not technical training specific to particular lessons. Trainees do not need any particular technical background, and we will not be teaching our workshop curriculum to trainees. This workshop is based on our constantly revised and updated open sourced [curriculum for instructor training](https://carpentries.github.io/instructor-training/). 
 
 Our trainings are all offered as two day, online events.  You can view our [training calendar](
-https://swcarpentry.github.io/instructor-training/training_calendar/) and sign up for a training that meets your team’s needs. A few points as you select dates:
+https://carpentries.github.io/instructor-training/training_calendar/) and sign up for a training that meets your team’s needs. A few points as you select dates:
 
 * We recommend that you sign up for an event during the first six months of your membership year.  This ensures your trainees have time to complete the training program and start teaching workshops during your membership year.
 * You must sign up for this training at  least four weeks in advance. Events may be cancelled if no member organizations sign up by four weeks in advance.
@@ -34,7 +34,7 @@ Once you’ve confirmed dates and participants, here is some information about p
 
 Lastly, some information about what happens after the event:
 
-* Participants will have three months (90 days) to complete [post-training homework exercises](http://swcarpentry.github.io/instructor-training/checkout/) required to receive their instructor certificate.   
+* Participants will have three months (90 days) to complete [post-training homework exercises](http://carpentries.github.io/instructor-training/checkout/) required to receive their instructor certificate.   
 * Participants who fail to complete these exercises will not be eligible for instructor certification. Extensions may be granted at the discretion of Carpentries staff. 
 * After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries instructors.
 * Participants will receive ongoing support and mentorship from Carpentries staff and experienced instructors to help them start teaching at their own institution or other locations.
