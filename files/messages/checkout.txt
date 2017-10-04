@@ -4,7 +4,7 @@ Thanks again for taking part in instructor training this week. I really enjoyed 
 
 We'd be very grateful if you could take a couple of minutes to fill in this survey (https://www.surveymonkey.com/r/post-instructor-training) to provide anonymous feedback about the workshop.
 
-In order to wrap up, we would like you to do the steps outlined in http://swcarpentry.github.io/instructor-training/checkout/:
+In order to wrap up, we would like you to do the steps outlined in http://carpentries.github.io/instructor-training/checkout/:
 
 1. Submit something for one of our lessons.
 

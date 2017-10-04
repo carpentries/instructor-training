@@ -34,7 +34,7 @@ example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
-training_site: "https://swcarpentry.github.io/instructor-training"
+training_site: "https://carpentries.github.io/instructor-training"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="

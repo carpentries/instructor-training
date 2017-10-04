@@ -237,10 +237,10 @@ Best,
 [training-template]: https://github.com/swcarpentry/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1ZvNx2co9BLEBTzDavUE7ZkAhkekBa19_5aIRFAdQIqw/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
-[training-repo]: http://swcarpentry.github.io/instructor-training/
+[training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
 [demo-pad]: http://pad.software-carpentry.org/teaching-demos
-[demo-rubric]: https://github.com/swcarpentry/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
+[demo-rubric]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 
 

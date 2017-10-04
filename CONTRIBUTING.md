@@ -46,8 +46,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change this lesson,
-    please work in <https://github.com/swcarpentry/instructor-training>,
-    which can be viewed at <https://swcarpentry.github.io/instructor-training>.
+    please work in <https://github.com/carpentries/instructor-training>,
+    which can be viewed at <https://carpentries.github.io/instructor-training>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/swcarpentry/lesson-example>,

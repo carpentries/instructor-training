@@ -8,11 +8,9 @@ Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one 
 
 **In order to prepare:**
 
-1.  Please read these three short papers, which provide a brief overview of some key evidence-based results in teaching:
+1.  Please this paper, which provides a brief overview of some key evidence-based results in teaching:
 
-    * "The Science of Learning" (https://swcarpentry.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    * "Success in Introductory Programming: What Works?" (https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf)
-    * "What Can I Do Today to Create a More Inclusive Community in CS?" (https://swcarpentry.github.io/instructor-training/files/papers/lee-create-inclusive-community-2015.pdf)
+    * "The Science of Learning" (https://http://carpentries.github.io/instructor-training/checkout/.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one episode* from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
@@ -24,7 +22,7 @@ Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one 
 
 **After the instructor training workshop:**
 
-Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://swcarpentry.github.io/instructor-training/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch. Also, you will hear about many ways to stay engaged with each other and with Software and Data Carpentry Instructors around the world, so we look forward to your continued participation!
+Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/.  If you have any questions about the workshop, the reading material, or anything else, please get in touch. Also, you will hear about many ways to stay engaged with each other and with Software and Data Carpentry Instructors around the world, so we look forward to your continued participation!
 
 Thanks again,
 
