@@ -143,7 +143,7 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 > 
 > **Don't record the live coding sessions.** Give each other feedback
 > using the 2x2 rubric we discussed previously and enter the feedback 
-> you recieved in the Etherpad.
+> you received in the Etherpad.
 > 
 > To make this exercise as similar to the workshop experience as possible, 
 > ask your fellow trainees to code along with you, as if they were learners at your 
