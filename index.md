@@ -1,6 +1,7 @@
 ---
 layout: lesson
 root: .
+redirect_from: "http://swcarpentry.github.io/instructor-training/"
 ---
 
 Over the last hundred years,

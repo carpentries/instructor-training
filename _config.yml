@@ -69,3 +69,7 @@ exclude:
 
 # Turn off built-in syntax highlighting.
 highlighter: false
+
+# Enable redirects
+plugins:
+  - jekyll-redirect-from
