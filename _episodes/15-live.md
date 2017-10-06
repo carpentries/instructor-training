@@ -152,5 +152,17 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 > This exercise should take about 20 minutes.  
 {: .challenge}
 
+## Brief List of Tips for Live Coding in a Workshop
+1. Stand up and move around the room if possible. 
+1. Go slowly while you say commands as you type them and either point to or highlight (with your mouse) the outputs on the screen. 
+1. Mirror your learners' environment by turning off fancy environments and by not using keyboard shortcuts.
+1. Use a big font and maximize the window with good contrast so that all learners can see.
+1. Use illustrations to help learners understand and organize the material.
+1. Turn off notifications on your laptop and phone.
+1. Teach from the community-developed lesson material.
+1. Leave no learner behind by using sticky notes and helpers.
+1. Embrace mistakes and use these opportunities to demonstrate the art of troubleshooting.
+1. Have fun, relax, teach, learn, and share!
+
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
