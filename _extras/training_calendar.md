@@ -23,18 +23,18 @@ Training dates for January - April 2018 will be announced in November 2017.
 * November 14-15, 2017
 
 ##### Central time
-* Training dates to be announced
+* Training dates for 2018 to be announced
 
 ##### Mountain time
 * December 12-13, 2017
 
 ##### Pacific time
-* Training dates to be announced
+* Training dates for 2018 to be announced
 
 # Europe
 
 ##### Western European time
-* Training dates to be announced
+* Training dates for 2018 to be announced
 
 ##### Central European time
 * December 4-5, 2017
