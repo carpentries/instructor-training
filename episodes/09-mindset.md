@@ -25,7 +25,7 @@ sound like you, you probably have a fixed mindset when it comes to mathematical,
 
 Carol Dweck, now a professor of Psychology at Stanford University, has conducted decades of research focused on understanding
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
-affect our perseverence in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
+affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
 someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
 almost anyone can learn almost anything. (She's written a very accessible popularized [summary][amazon-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
