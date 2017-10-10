@@ -218,8 +218,8 @@ with the feedback you gave.
 Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to 
 use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
 If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you 
-may have a fixed mindset about teaching. By stengthening your growth mindset with respect to teaching, you can
-transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunites to 
+may have a fixed mindset about teaching. By strengthening your growth mindset with respect to teaching, you can
+transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
 practice teaching and to get and give feedback tomorrow.
 
 ## Optional Exercises
