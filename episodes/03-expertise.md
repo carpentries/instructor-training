@@ -165,7 +165,7 @@ it with more positive and motivating word choices.
 >> *choose to*, *and*, *because*, *willing*, and the person's name. These are motivating words and phrases that can shift mindsets.
 >> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can’t*, *easy*,
 >> *just*, *only*, and *fast*, as well as
->> examples of how they are used to demotivate. Statements like
+>> examples of how they are used to demotivate. Statements like:
 >> *	"We really need it."
 >> *	"If we don’t we can’t ..."
 >> *	"Wouldn’t it be easy if we just did it like that?"
