@@ -32,7 +32,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 | For the months of... | Trainers will be asked for their availability on... | Trainers will be asked to fill out their availability by….| A confirmed calendar will be released by…. |
 | ----------------- | --------------- | -------------- | ------------ |
-| Jan/Feb/Mar/Apr   | Oct 15          | Nov 1          | Dec 1        |
+| Jan/Feb/Mar/Apr   | Oct 6          | Oct 20          | Nov 1        |
 | May/June/July/Aug | Feb 15          | March 1        | April 1      |
 | Sept/Oct/Nov/Dec  | June 15         | July 1         | Aug 1        |
 
