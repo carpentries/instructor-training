@@ -62,7 +62,7 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Instructors** teach workshops and form the cornerstone of the Carpentry community. Many also serve in some of the other roles listed below.   
 
-- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They traing new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
+- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They train new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
 
 - **[Mentors](https://software-carpentry.org/join/subcom/mentoring/)** help new instructors integrate into the community by leading discussion sessions. Some also lead small mentoring groups to help new instructors prepare for their first few workshops. 
 
