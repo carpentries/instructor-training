@@ -145,7 +145,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 *   it covers the core topics,
 *   at least one instructor is certified,
-*   you run our standardized pre- and post-workshop assessments and provide us with the results, and
+*   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
 *   you send us summary information about attendees (at a minimum, the number of people who attended).
 
 ### What's Core?
