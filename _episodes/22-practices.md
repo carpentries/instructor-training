@@ -17,7 +17,7 @@ keypoints:
 Carpentry instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
 (e.g. live coding and formative assessment), and others we've been modeling throughout
-the workshop, without neccessarily calling attention to what we were doing. Some of 
+the workshop, without necessarily calling attention to what we were doing. Some of 
 these teaching techniques are implemented at particular points in a workshop, while
 others are used throughout. Let's put together everything we've learned and organize 
 these practices in terms of what parts of a workshop we need to be conscious of each
@@ -126,7 +126,7 @@ instructors have generated to deal with this issue:
 
 *   Before running a workshop,
     communicate its level clearly to everyone who's thinking of signing up
-    by describing not only the topics that will be covered (e.g. ploting in R), but
+    by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
     If you're upfront with participants that you'll be spending time learning how `for` loops work, more 
     advanced learners are less likely to sign up.
