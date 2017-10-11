@@ -65,7 +65,7 @@ A learner profile for Software Carpentry might be:
 
 ## Working With Learning Objectives
 Once you have an idea of your intended audience, the next step is to set goals for your course or workshop. 
-These goals will be infomed by your audience and will communicate to them and to yourself what you should focus
+These goals will be informed by your audience and will communicate to them and to yourself what you should focus
 on during the course. These goals are usually communicated through *learning objectives*.
 
 The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners.
@@ -175,7 +175,7 @@ quickly and proficiently as needed during your workshops.
 > This exercise and discussion should take about 10 minutes.
 {: .challenge}
 
-Adapting challenges in real time can be challenging. You may find that a change you make inadvertantly introduces new
+Adapting challenges in real time can be challenging. You may find that a change you make inadvertently introduces new
 concepts the learners aren't yet prepared for, or that the solution you had in mind doesn't work. Be patient with 
 yourself and your co-instructors as you learn this skill. While it can be frustrating, these are also excellent
 opportunities to remind your learners that experts make mistakes and that we're all continuously learning. 
