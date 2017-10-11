@@ -16,7 +16,7 @@ keypoints:
 ---
 
 One of the cornerstones of Software and Data Carpentry teaching is live
-coding: instructors don't use slides, but work through the lesson material,
+coding: *instructors don't use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
 gives general tips for an effective live coding presentation.
