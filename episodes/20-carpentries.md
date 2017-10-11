@@ -62,7 +62,7 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Instructors** teach workshops and form the cornerstone of the Carpentry community. Many also serve in some of the other roles listed below.   
 
-- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They traing new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
+- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They train new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
 
 - **[Mentors](https://software-carpentry.org/join/subcom/mentoring/)** help new instructors integrate into the community by leading discussion sessions. Some also lead small mentoring groups to help new instructors prepare for their first few workshops. 
 
@@ -115,7 +115,7 @@ to job postings and general announcements.
 ## How a Workshop Works
 
 There are two types of Carpentry workshops: self-organized and centrally-organized. 
-For a centrally-organized workshop, Carpentry staff takes care of organization and adminstration
+For a centrally-organized workshop, Carpentry staff takes care of organization and administration
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
 
@@ -231,7 +231,7 @@ be discussed before changes are merged.
 > ## Check Out the Discussion
 > 
 > As an instructor, your voice is important! We want you to be actively involved
-> in disucssions about the lesson materials (and other aspects of the Carpentry community).
+> in discussions about the lesson materials (and other aspects of the Carpentry community).
 > Go to the GitHub page for the lesson you worked with over the past two days and click on the 
 > "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
 > to the conversation! If you do make a significant contribution to the discussion, send a link to
