@@ -26,7 +26,7 @@ Training dates for January - April 2018 will be announced in November 2017.
 * Training dates for 2018 to be announced
 
 ##### Mountain time
-* December 12-13, 2017
+* Training dates for 2018 to be announced
 
 ##### Pacific time
 * Training dates for 2018 to be announced
