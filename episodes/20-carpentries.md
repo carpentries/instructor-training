@@ -90,22 +90,23 @@ There are many ways to get connected with the Carpentry community:
 *   Our lessons are hosted on GitHub;
 contributions to them and discussion of changes happens via GitHub pull requests and issues,
 and the lessons are published using GitHub Pages.
-More details are given below.
+More details are given below:
     *   [Data Carpentry on GitHub]({{ site.dc_github }})
     *   [Software Carpentry on GitHub]({{ site.swc_github }})
 *   Software and Data Carpentry share public discussion lists
 that host everything from lively discussion on teaching practices
-to job postings and general announcements.
+to job postings and general announcements:
     * [General Discussion list](http://lists.software-carpentry.org/listinfo/discuss)  
     * [Other lists](http://lists.software-carpentry.org/)  
-*   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/),
-*   Host monthly community calls and weekly instructor discussion sessions,
+*   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/).
+*   Host monthly community calls and weekly instructor discussion sessions:
     * Check out our [community calendar](https://software-carpentry.org/join/)
-*   You can also find us on Twitter:
-    *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
-    *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
-*   [Slack](https://swc-slack-invite.herokuapp.com/)
-*   and [Facebook](https://www.facebook.com/carpentries/)
+*   You can also find us on
+    * Twitter:
+        *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
+        *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+    *   [Slack](https://swc-slack-invite.herokuapp.com/)
+    *   [Facebook](https://www.facebook.com/carpentries/)
 
 > ## Get Connected
 >
