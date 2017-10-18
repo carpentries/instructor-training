@@ -150,15 +150,21 @@ Any episode other than those listed below should make an okay starting point for
 *  SWC
    *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
    *  [Version Control with Git 01-basics]({{ site.swc_pages }}/git-novice/01-basics/) - no live coding
-   *  Version Control with Git - anything after [Setting up Git]({{ site.swc_pages }}/git-novice/02-setup/)
+   *  Version Control with Git - anything after [Setting up Git]({{ site.swc_pages }}/git-novice/02-setup/) - dependencies
    *  [Version Control with Mercurial]({{ site.swc_pages }}/hg-novice/01-basics/) - no live coding
-   *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/)
+   *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/) - dependencies
    *  [Databases and SQL 08-hygiene]({{ site.swc_pages }}/sql-novice-survey/08-hygiene/) - no live coding
    *  [Programming with Python 09-debugging]({{ site.swc_pages }}/python-novice-inflammation/09-debugging/) - no live coding
    *  [R for Reproducible Scientific Analysis 16-wrap-up]({{ site.swc_pages }}/r-novice-gapminder/16-wrap-up/) - no live coding
-   *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/)
+   *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
    
 *  DC
+  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_pages }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+  * [SQL for Ecology]({{ site.dc_pages }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
+  * [R for Ecology]({{ site.dc_pages }}/R-ecology-lesson/00-before-we-start.html) - no live coding
+  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_pages }}/R-ecology-lesson/03-dplyr.html) - dependencies
+  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_pages }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
+  
 *  LC
 
 ## IX. Email Templates
