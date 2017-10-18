@@ -158,14 +158,17 @@ Any episode other than those listed below should make an okay starting point for
    *  [R for Reproducible Scientific Analysis 16-wrap-up]({{ site.swc_pages }}/r-novice-gapminder/16-wrap-up/) - no live coding
    *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
    
-*  DC
+*  DC (stable lessons only)
   * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_pages }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
   * [SQL for Ecology]({{ site.dc_pages }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
   * [R for Ecology]({{ site.dc_pages }}/R-ecology-lesson/00-before-we-start.html) - no live coding
   * R for Ecology - anything after [Manipulating data frames]({{ site.dc_pages }}/R-ecology-lesson/03-dplyr.html) - dependencies
   * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_pages }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
   
-*  LC
+*  LC (stable lessons only)
+  * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
+  * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
+  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
 
 ## IX. Email Templates
 
