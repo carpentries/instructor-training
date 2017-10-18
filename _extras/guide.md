@@ -121,7 +121,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  For each trainee, pick a suitable starting point in the lesson that they have chosen. Do not start at the very beginning of the first episode, and look for an episode that dives into live coding quickly without first explaining a lot. (Example starting points are listed below.). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+-  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - listed below. Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ### Shortly Before the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
@@ -144,38 +144,22 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Clear Etherpad of data from your session.  
 -  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
 
-### Example Starting Points for Demos
+### Not Good Starting Points for Demos
+Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
 
-*   SWC Unix Shell
-    *   [03-create]({{ site.swc_pages }}/shell-novice/03-create/)
-    *   [05-loop]({{ site.swc_pages }}/shell-novice/05-loop/)
-    *   [06-script]({{ site.swc_pages }}/shell-novice/06-script/)
-
-*   SWC, python gapminder
-    *   [06-libraries]({{ site.swc_pages }}/python-novice-gapminder/06-libraries/)
-
-*   SWC, python novice inflammation
-    *   [03-lists]({{ site.swc_pages }}/python-novice-inflammation/03-lists/)
-    *   [06-func]({{ site.swc_pages }}/python-novice-inflammation/06-func/)
-
-*   SWC, Automation and Make
-    *   [03-variables]({{ site.swc_pages }}/make-novice/03-variables/)
-
-*   SWC, SQL
-    *   [02-sort-dup]({{ site.swc_pages }}/sql-novice-survey/02-sort-dup/)
-
-*   SWC, Matlab
-    *   [03-loops]({{ site.swc_pages }}/matlab-novice-inflammation/03-loops/)
-
-*   SWC, R for Reproducible Scientific Analysis
-    *   [07-control-flow]({{ site.swc_pages }}/r-novice-gapminder/07-control-flow/)
-
-*   DC, python ecology
-    *   [02-index-slice-subset]({{ site.dc_site }}/python-ecology-lesson/02-index-slice-subset)
-
-*   DC R ecology
-    *   [03-dplyr]({{ site.dc_site }}/R-ecology-lesson/03-dplyr.html)
-    *   [04-visualization-ggplot2]({{ site.dc_site }}/R-ecology-lesson/04-visualization-ggplot2.html)
+*  SWC
+   *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
+   *  [Version Control with Git 01-basics]({{ site.swc_pages }}/git-novice/01-basics/) - no live coding
+   *  Version Control with Git - anything after [Setting up Git]({{ site.swc_pages }}/git-novice/02-setup/)
+   *  [Version Control with Mercurial]({{ site.swc_pages }}/hg-novice/01-basics/) - no live coding
+   *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/)
+   *  [Databases and SQL 08-hygiene]({{ site.swc_pages }}/sql-novice-survey/08-hygiene/) - no live coding
+   *  [Programming with Python 09-debugging]({{ site.swc_pages }}/python-novice-inflammation/09-debugging/) - no live coding
+   *  [R for Reproducible Scientific Analysis 16-wrap-up]({{ site.swc_pages }}/r-novice-gapminder/16-wrap-up/) - no live coding
+   *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/)
+   
+*  DC
+*  LC
 
 ## IX. Email Templates
 
