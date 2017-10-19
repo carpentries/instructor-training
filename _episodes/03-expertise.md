@@ -235,5 +235,6 @@ motivations, making it easier for you to target your lesson materials to their n
 you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
 learners aren't getting it, it's probably more complicated than you thought.
 
-
+[motivation-words]: http://www.chicagotribune.com/bluesky/hub/ct-buffer-words-and-phrases-that-motivate-bsi-hub-20160225-story.html
+[four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words
 
