@@ -62,7 +62,7 @@ and talking as we go.
 >> have questions not directly addressed in the text of the lesson.
 >> * It can be hard for learners to listen and type at the same time, due to the  
 >> *split-attention effect* we
->> [discussed earlier]( {{ page.source }}/instructor-training/05-memory/#why-guided-practice-is-important).
+>> [discussed earlier]( {{ page.root }}/05-memory/#why-guided-practice-is-important).
 >> This is why it's
 >> very important that instructors first explain what they're going to do, then
 >> say what they are typing as they type it, and then
