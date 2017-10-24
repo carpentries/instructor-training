@@ -12,7 +12,7 @@ keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
 - "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory." 
-- "Use formative assessments to avoid overloading short-term memory."
+- "Use faded examples to avoid overloading short-term memory."
 ---
 
 In our final topic in educational psychology, we'll be learning more about human memory:
