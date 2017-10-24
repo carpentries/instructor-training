@@ -106,7 +106,7 @@ community effort to treat one another with kindness and respect.  This
 training, as in all Software/Data Carpentry workshops is subject to
 the Software and Data Carpentry Code of Conduct.  We will be able to
 give our best effort (and have the most fun!) if everyone abides by these guidelines. 
-We will also be discussing and practicing teaching techniques to creating a positive and 
+We will also be discussing and practicing teaching techniques to create a positive and 
 welcoming environment in your classrooms.
 
 ### Carpentry History and Culture
