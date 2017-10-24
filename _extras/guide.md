@@ -150,7 +150,7 @@ Any episode other than those listed below should make an okay starting point for
 *  SWC
    *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
    *  [Version Control with Git 01-basics]({{ site.swc_pages }}/git-novice/01-basics/) - no live coding
-   *  Version Control with Git - anything after [Setting up Git]({{ site.swc_pages }}/git-novice/02-setup/) - dependencies
+   *  Version Control with Git - anything after [Tracking Changes]({{ site.swc_pages }}/git-novice/04-changes) - dependencies
    *  [Version Control with Mercurial]({{ site.swc_pages }}/hg-novice/01-basics/) - no live coding
    *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/) - dependencies
    *  [Databases and SQL 08-hygiene]({{ site.swc_pages }}/sql-novice-survey/08-hygiene/) - no live coding
