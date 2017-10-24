@@ -53,9 +53,9 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1.  Submitting a change to fix an existing issue.
-2.  Proof-reading a lesson and adding a new issue describing something to be improved.
-3.  Providing substantive feedback on an existing issue or pull request.
+1. Providing substantive feedback on an existing issue or pull request (preferred). 
+2. Submitting a change to fix an existing issue.
+3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
 Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.contact }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
