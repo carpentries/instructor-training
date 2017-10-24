@@ -275,47 +275,63 @@ For example,
 someone teaching Python might start by explaining this:
 
 ~~~
-# total_length(["red", "green", "blue"]) => 12
 def total_length(words):
+    """Returns the total length of all words in a list combined.
+    
+    Example:
+       total_length(["red", "green", "blue"]) => 12
+    """
     total = 0
     for word in words:
         total += len(word)
     return total
 ~~~
-{: .source}
+{: .python}
 
 then ask learners to fill in the blanks in:
 
 ~~~
-# word_lengths(["red", "green", "blue"]) => [3, 5, 4]
 def word_lengths(words):
+    """Returns a list of lengths of each word in a list.
+    
+    Example:
+        word_lengths(["red", "green", "blue"]) => [3, 5, 4]
+    """
     lengths = ____
     for word in words:
         lengths ____
     return lengths
 ~~~
-{: .source}
+{: .python}
 
 The next problem might be:
 
 ~~~
-# concatenate_all(["red", "green", "blue"]) => "redgreenblue"
 def concatenate_all(words):
+    """Combines all words in a list into one.
+    
+    Example:
+        concatenate_all(["red", "green", "blue"]) => "redgreenblue"
+    """
     result = ____
     for ____ in ____:
         ____
     return result
 ~~~~
-{: .source}
+{: .python}
 
 and learners would finally be asked to tackle:
 
 ~~~
-# acronymize(["red", "green", "blue"]) => "RGB"
 def acronymize(words):
+    """Returns the first letter of each word in a list capitalised in a single string.
+    
+    Example:
+        acronymize(["red", "green", "blue"]) => "RGB"
+    """
     ____
 ~~~
-{: .source}
+{: .python}
 
 Another situation in which a concept map can be helpful is in deciding where to place the 
 blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
