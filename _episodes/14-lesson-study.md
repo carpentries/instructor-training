@@ -101,7 +101,7 @@ the instructor gains important information about which aspects of subsetting are
 >
 > ```{r}
 > m <- matrix(1:18, nrow=3, ncol=6)
-> print(m)
+> m
 > ```
 >
 > 1. Which of the following commands will extract the values 11 and 14?
