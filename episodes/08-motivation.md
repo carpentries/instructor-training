@@ -201,6 +201,10 @@ common demotivators and help you develop strategies for avoiding them.
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
+*   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners. 
+    Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or 
+    that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
+    skills that are essential for independent work.
 *  Feign surprise. Saying things like "I can't believe you don't know X"
     or "You've never heard of Y?" signals to the learner that they do not have
     some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
