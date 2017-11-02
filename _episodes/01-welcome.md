@@ -142,7 +142,7 @@ motivate the activities and how you communicate with the attendees.
 > 2.  I have not had any teaching experience in the past.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
-> 5.  I have taught at the K-12 level.
+> 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
 >
 > *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
