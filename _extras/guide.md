@@ -220,24 +220,6 @@ Looking forward to having you as a Carpentry Instructor!
 Best,
 [ name ]
 
-### Bilingual Demo Session Reminder Email
-
-Hello,
-
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at <Insert Time> at https://carpentries.zoom.us/j/357144246. Please read this short bi-lingual description of how Teaching Demo session works: https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md. Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
-
-Please let me know if you have any questions or concerns.
-
-Hola,
-
-Gracias por inscribirse para completar su "Demostración de enseñanza" como parte del proceso de certificación del instructor. Nos reuniremos mañana <Insert Time> en https://carpentries.zoom.us/j/357144246. Por favor, lea esta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza: https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md. Descargo de responsabilidad: Entiendo el español mejor que lo hablo. Por lo tanto, voy a hablar en español tanto como pueda, pero es muy probable que dar comentarios sobre su enseñanza en Inglés.
-
-Por favor, hágamelo saber si tiene alguna pregunta o inquietud.
-
-Best/Saludos,
-
-<your name>
-
 
 [trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
 [trainer-process]: https://docs.google.com/document/d/14Zi_W9uk1wua2v3zy8um6oMCnvO41Qfo1KwStCA-hos/edit
