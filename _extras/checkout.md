@@ -7,9 +7,9 @@ demopad: http://pad.software-carpentry.org/teaching-demos
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
-After you have finished the two-day training class,
-you must go through these steps in order to complete your training and be
-fully certified as a Data and Software Carpentry instructor:
+After you have finished the two-day training class, to complete your training
+and be fully certified as a Data and Software Carpentry instructor, you must
+go through these steps in order:
 
 1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
