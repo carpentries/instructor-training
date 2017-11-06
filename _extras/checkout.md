@@ -8,12 +8,15 @@ discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
 After you have finished the two-day training class,
-you must go through these steps in order to complete your training and be
+you must go through these steps to complete your training and be
 fully certified as a Data and Software Carpentry instructor:
 
 1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
+
+Tasks are listed in the order most of our instructor trainees complete the checkout process, but
+you can complete them in any order.
 
 These checkout steps aim to introduce you to key components of being a Software
 and Data Carpentry instructor that are difficult to fully cover in the classroom
@@ -148,8 +151,7 @@ The lessons you may submit to are:
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
 
-After you have submitted a contribution to one of our lessons,
-the next step is to take part in an hour-long discussion session
+The next step is to take part in an hour-long discussion session
 led by an experienced instructor.
 This session gives you a chance to ask questions about the material
 you plan on teaching
@@ -211,14 +213,12 @@ Trainees may also ask about:
 *   anything else that comes to mind.
 
 If the discussion leader feels that you have adequately participated in the conversation,
-they will notify the training coordinator
-who will then ask you to sign up for a teaching demonstration (described in the next session).
+they will notify the training coordinator.
 
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 
-Once you have completed your discussion session,
-the final step is to sign up for a 5-minute teaching demonstration online using
+The final step is to sign up for a 5-minute teaching demonstration online using
 [this Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 
