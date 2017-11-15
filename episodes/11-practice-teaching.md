@@ -100,6 +100,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 
 > ## Feedback on Yourself
 >
+> **Trainings where trainees are co-located:** 
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
 >     the Carpentry lesson episode you chose before the start of the training course.
@@ -121,6 +122,11 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 >     i.e., people give feedback on themselves as well as on others.
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
+>
+> **Distributed trainings:** 
+> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
+> but do not record each other. Instead, give each person feedback immediately after they finish their 
+> turn teaching. 
 > 
 > This exercise should take about 25 minutes.  
 {: .challenge}
