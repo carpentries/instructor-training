@@ -81,6 +81,16 @@ someone with experience using the bash shell will be able to change back and for
 relative paths with no difficulty and in fact may not even notice they are doing so. A novice learner, 
 however, would be confused by this unexplained use of two different ways of representing a concept. 
 
+> ## More Examples of Fluid Representations
+> 
+> - Programming: Referring to an R object like `abcde` as both "character vectors" and "strings".
+> - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
+> - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
+> - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
+> - Mathematics: Thinking of things algebraically vs geometrically.
+> - Navigation: Switching among different routes between two locations.
+{: .callout}
+
 > ## Fluid Representations  
 > 
 > In the Etherpad, give at least one example of a fluid representation that you use in your 
