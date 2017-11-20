@@ -104,7 +104,7 @@ however, would be confused by this unexplained use of two different ways of repr
 {: .challenge}
 
 Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an
-error message while teaching, an expert will often figure out the cause of the error and devlop a solution
+error message while teaching, an expert will often figure out the cause of the error and develop a solution
 before a novice has even finished reading the error message. Because of this, it is very important
 while teaching to be explicit about the process you are using to diagnose and correct errors, even if they
 seem trivial to you, as they often will.
