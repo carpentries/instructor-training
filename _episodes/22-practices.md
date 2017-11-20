@@ -91,10 +91,7 @@ violation and whether or not you believe it was intentional.
 You can also bring in the workshop host to mediate an incident
 if you are uncomfortable or unable to do so yourself.
 
-No matter what you choose to do, please contact the appropriate
-Carpentry administrator at
-[admin@software-carpentry.org](mailto:admin@software-carpentry.org)
-or [admin@datacarpentry.org](mailto:admin@datacarpentry.org) as
+No matter what you choose to do, please contact the joint Data/Software Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) as
 soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.
 
