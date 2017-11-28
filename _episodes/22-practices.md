@@ -90,7 +90,9 @@ apologize, and/or expel them, depending on the severity of the
 violation and whether or not you believe it was intentional.
 
 The local workshop host/admin is expected to help enforce the Code of Conduct and 
-you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
+you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
+If you choose to settle the issue yourself, you should notify the workshop host 
+of the issue in case s/he feels additional steps should be taken.
 
 No matter what you choose to do, please contact the joint Data/Software 
 Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) 
