@@ -89,7 +89,7 @@ violated the Code of Conduct, you may warn them, ask them to
 apologize, and/or expel them, depending on the severity of the
 violation and whether or not you believe it was intentional.
 
-The local workshop host/admin is expected to help enforce the Code of Conduct and 
+The local workshop host is expected to help enforce the Code of Conduct and 
 you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
 If you choose to settle the issue yourself, you should notify the workshop host 
 of the issue in case s/he feels additional steps should be taken.
