@@ -26,6 +26,7 @@ Training dates for May - August 2018 will be announced in March 2018.
 ##### Central time
 * February 13-14
 * March 12-13
+* April 19-20
 
 ##### Mountain time
 * February 21-22
