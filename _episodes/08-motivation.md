@@ -382,7 +382,7 @@ about accessibility.
 > put one thing you've learned in the Etherpad. 
 > 
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
-> available in a number of languages, including Dutch, French, Spanish, Swedish, Portugese, German, and
+> available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
 > Chinese.
 > 
 > This exercise should take about 5 minutes.
