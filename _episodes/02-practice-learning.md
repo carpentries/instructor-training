@@ -49,6 +49,8 @@ in her studies of
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
 the three stages of this model are:
 
+![Novice, Competent Practitioner, Expert](../fig/skill-level.svg)
+
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
     One sign that someone is a novice is that their questions "aren't even wrong".
