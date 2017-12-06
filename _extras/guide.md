@@ -140,7 +140,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  If all of your trainees passed, you can tell the group at the end of the demo session. If anyone did not pass, tell everyone you will send them each an email to let them know if they passed.  
 
 ### After the Demo 
--  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
+-  Email checkout@carpentries.org with names and pass/fail
 -  Clear Etherpad of data from your session.  
 -  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
 
