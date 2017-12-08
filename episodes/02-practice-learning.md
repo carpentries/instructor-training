@@ -176,7 +176,7 @@ with some amount of information, ideas and opinions about the topic. This is tru
 in the case where a learner can't articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
-can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
+can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
 models.
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:
