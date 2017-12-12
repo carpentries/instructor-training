@@ -155,6 +155,7 @@ are listed below:
 * [Sets and Dictionaries in Python](../fig/dict-set.png)
 * [Input and Output](../fig/io.png)
 * [Lists and Loops](../fig/lists-loops.png)
+* [Git Version Control](../fig/git_concept_map.png)
 
 Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing. An instructor can 
