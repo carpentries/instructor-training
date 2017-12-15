@@ -83,7 +83,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 ### Online trainings (completely distributed)  
 - When watching videos, have all participants watch separately.  
-- Assign breakout groups randomly to breakout rooms in Zoom.  
+- Assign breakout groups randomly to breakout rooms in Zoom. Be sure to exclude Trainers and helpers when assigning groups. 
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
