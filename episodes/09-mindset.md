@@ -45,7 +45,7 @@ questions in class or to demonstrate a sports technique to their team. This tend
 and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-learning/), is essential to learning.
 
 > ## What's Your Mindset?
-> You can learn about your own mindset by taking the official [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php).
+> You can learn about your own mindset by taking this [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php).
 > Keep in mind that your mindset may differ in different areas. For example, you might have a fixed mindset with respect to artistic ability,
 > but a growth mindset with respect to computing skill. 
 > 
