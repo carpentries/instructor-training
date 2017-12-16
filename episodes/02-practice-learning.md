@@ -132,9 +132,9 @@ to help them form the right categories and make connections among concepts.
 Until they've done that, trying to impart "mere information" just confuses them (and is therefore a waste of time).
 
 As an example of this idea's practical implications,
-Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 16 commands,
+Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 22 commands,
 and we usually spend two and a half hours working through it.
-Eleven minutes per command may seem glacially slow,
+Six and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history, wildcards, pipes and filters,
 command-line arguments, redirection,
