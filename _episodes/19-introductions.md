@@ -155,7 +155,7 @@ the workshop policies.
 **Explain your expectations** for learner behavior including expectations
 around: 
 
-- [Code of Conduct](datacarpentry.org/code-of-conduct/)
+- [Code of Conduct]({{ site.dc_site }}/code-of-conduct/)
 - ways to ask for help
 - ways to give instructors feedback
 
