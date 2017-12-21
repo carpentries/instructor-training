@@ -78,6 +78,13 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Other Roles:** There are many other ways to get involved with the Carpentries, whether by participating in lesson development events or contributing to our blogs. 
 
+> ## Participating in the Carpentries -- What's Your Role?
+>
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet.docx).
+
+Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+{: .challenge}
+
 There are many ways to get connected with the Carpentry community:
 
 *   Our websites are:
