@@ -98,7 +98,7 @@ more information in your head at once. This is one reason
 why helping our learners to see the connections among 
 the concepts we are teaching is so important.  
 
-## Formative Assessment
+## Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding 
 and transfer ideas from short-term memory into long-term memory. It's important
