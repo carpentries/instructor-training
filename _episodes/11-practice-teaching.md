@@ -23,7 +23,7 @@ from other instructors who share their pedagogical model. In this section, we'll
 discuss how instructors improve their teaching and give you some opportunities to
 practice. 
 
-## Lesson Study
+## Lesson Study: Applying a Growth Mindset to Teaching
 
 Many people assume that teachers are born, not made.
 From politicians to researchers and teachers themselves,
