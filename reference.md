@@ -1,6 +1,6 @@
 ---
 layout: reference
-permalink: /reference/
+root: .
 ---
 
 ## Books
