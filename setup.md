@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Setup
-permalink: /setup/
+root: .
 training_site: https://carpentries.github.io/instructor-training
 ---
 
