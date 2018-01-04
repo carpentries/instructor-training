@@ -16,7 +16,7 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-In order for learners to step out into new and familiar terrain, they will
+In order for learners to step out into new and unfamiliar terrain, they will
 need encouragement.  This section discusses typical ways that
 learners are motivated (and can be demotivated!) and provides practice opportunities
 for you to become confident in motivating your learners.
