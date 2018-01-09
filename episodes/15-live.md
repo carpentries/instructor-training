@@ -80,10 +80,10 @@ important to keep in mind, however, that feedback isn't helpful if you can't und
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier]({{ page.source }}/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
 
-> ## The Bad and the Good
+> ## Compare and Contrast
 >
-> Watch this video of [live coding done poorly][live-coding-bad]
-> and this video of [live coding done right][live-coding-good]
+> Watch [this video][live-coding-bad]
+> and [this video][live-coding-good]
 > as a group and then summarize your feedback on both in the Etherpad.
 > Use the 2x2 rubric for feedback we discussed earlier.  
 >
