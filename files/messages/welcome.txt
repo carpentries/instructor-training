@@ -46,7 +46,7 @@ Please read through *one* of the episodes below carefully, so that you can do so
 
 Data Carpentry
 
-* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine.html
+* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/
 * Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html
 * Starting with Data in R: http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html
 * Starting with Data in Python: http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
