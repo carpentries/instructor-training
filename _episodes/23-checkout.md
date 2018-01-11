@@ -35,12 +35,11 @@ As you read in your homework last night, the final three steps in qualifying as 
 There's also a [helpful checklist](http://www.datacarpentry.org/checkout/) 
 if you'd prefer a brief summary.
 
-> ## Questions and Answers
+> ## Checking Out Review with Questions and Answers
 > 
-> What questions do you have about the checkout process after reading the checkout guide 
-> as homework last night?
+> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process? 
 > 
-> This discussion should take about 10 minutes.
+> This exercise should take about 20 minutes.
 {: .challenge}
 
 > ## Schedule a Discussion or Demo
