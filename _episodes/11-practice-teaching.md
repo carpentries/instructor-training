@@ -23,7 +23,7 @@ from other instructors who share their pedagogical model. In this section, we'll
 discuss how instructors improve their teaching and give you some opportunities to
 practice. 
 
-## Lesson Study
+## Lesson Study: Applying a Growth Mindset to Teaching
 
 Many people assume that teachers are born, not made.
 From politicians to researchers and teachers themselves,
@@ -100,6 +100,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 
 > ## Feedback on Yourself
 >
+> **Trainings where trainees are co-located:** 
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
 >     the Carpentry lesson episode you chose before the start of the training course.
@@ -121,6 +122,11 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 >     i.e., people give feedback on themselves as well as on others.
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
+>
+> **Distributed trainings:** 
+> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
+> but do not record each other. Instead, give each person feedback immediately after they finish their 
+> turn teaching. 
 > 
 > This exercise should take about 25 minutes.  
 {: .challenge}
@@ -218,8 +224,8 @@ with the feedback you gave.
 Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to 
 use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
 If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you 
-may have a fixed mindset about teaching. By stengthening your growth mindset with respect to teaching, you can
-transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunites to 
+may have a fixed mindset about teaching. By strengthening your growth mindset with respect to teaching, you can
+transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
 practice teaching and to get and give feedback tomorrow.
 
 ## Optional Exercises

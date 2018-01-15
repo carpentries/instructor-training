@@ -25,5 +25,5 @@ At the end of the morning, do the following:
 > ## Minute Cards Revisited
 >
 > Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/06-summarize/).
+> as discussed [yesterday]({{ page.root }}/06-feedback/).
 {: .challenge}

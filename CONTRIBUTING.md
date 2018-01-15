@@ -46,8 +46,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change this lesson,
-    please work in <https://github.com/swcarpentry/instructor-training>,
-    which can be viewed at <https://swcarpentry.github.io/instructor-training>.
+    please work in <https://github.com/carpentries/instructor-training>,
+    which can be viewed at <https://carpentries.github.io/instructor-training>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/swcarpentry/lesson-example>,
@@ -144,8 +144,8 @@ You can also [reach us by email][contact].
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/swcarpentry/instructor-training/issues/
-[repo]: https://github.com/swcarpentry/instructor-training/
+[issues]: https://github.com/carpentries/instructor-training/issues/
+[repo]: https://github.com/carpentries/instructor-training/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/

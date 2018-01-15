@@ -45,9 +45,11 @@ Our approach is based on the work of researchers like Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
 [how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061) 
-([see also books by Patricia Benner](https://www.amazon.com/Patricia-E.-Benner/e/B001IGLSW4)). This work indicates that 
+([see also books by Patricia Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook-%2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format)). This work indicates that 
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
 the three stages of this model are:
+
+![Novice, Competent Practitioner, Expert](../fig/skill-level.svg)
 
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
@@ -130,9 +132,9 @@ to help them form the right categories and make connections among concepts.
 Until they've done that, trying to impart "mere information" just confuses them (and is therefore a waste of time).
 
 As an example of this idea's practical implications,
-Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 16 commands,
+Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 22 commands,
 and we usually spend two and a half hours working through it.
-Eleven minutes per command may seem glacially slow,
+Six and a half minutes per command may seem glacially slow,
 but the lesson's real purpose is to teach learners about paths,
 history, wildcards, pipes and filters,
 command-line arguments, redirection,
@@ -174,7 +176,7 @@ with some amount of information, ideas and opinions about the topic. This is tru
 in the case where a learner can't articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
-can impeded learning by making it more difficult for learners to incorporate new, correct information into their mental
+can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
 models.
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:

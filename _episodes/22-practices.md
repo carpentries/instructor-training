@@ -17,7 +17,7 @@ keypoints:
 Carpentry instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
 (e.g. live coding and formative assessment), and others we've been modeling throughout
-the workshop, without neccessarily calling attention to what we were doing. Some of 
+the workshop, without necessarily calling attention to what we were doing. Some of 
 these teaching techniques are implemented at particular points in a workshop, while
 others are used throughout. Let's put together everything we've learned and organize 
 these practices in terms of what parts of a workshop we need to be conscious of each
@@ -87,15 +87,17 @@ about how a Carpentry workshop operates.
 If you are an instructor, and believe that someone in a workshop has
 violated the Code of Conduct, you may warn them, ask them to
 apologize, and/or expel them, depending on the severity of the
-violation and whether or not you believe it was intentional.  
-You can also bring in the workshop host to mediate an incident
-if you are uncomfortable or unable to do so yourself.
+violation and whether or not you believe it was intentional.
 
-No matter what you choose to do, please contact the appropriate
-Carpentry administrator at
-[admin@software-carpentry.org](mailto:admin@software-carpentry.org)
-or [admin@datacarpentry.org](mailto:admin@datacarpentry.org) as
-soon as you can and let us know what happened so that we can follow-up
+The local workshop host is expected to help enforce the Code of Conduct and 
+you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
+If you choose to settle the issue yourself, you should notify the workshop host 
+of the issue in case s/he feels additional steps should be taken.
+
+No matter what you choose to do, please contact the joint Data/Software 
+Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) 
+or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
+as soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.
 
 You also have the right as an instructor to walk out of a workshop
@@ -126,7 +128,7 @@ instructors have generated to deal with this issue:
 
 *   Before running a workshop,
     communicate its level clearly to everyone who's thinking of signing up
-    by describing not only the topics that will be covered (e.g. ploting in R), but
+    by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
     If you're upfront with participants that you'll be spending time learning how `for` loops work, more 
     advanced learners are less likely to sign up.

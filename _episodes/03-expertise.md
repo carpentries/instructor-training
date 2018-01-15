@@ -81,6 +81,16 @@ someone with experience using the bash shell will be able to change back and for
 relative paths with no difficulty and in fact may not even notice they are doing so. A novice learner, 
 however, would be confused by this unexplained use of two different ways of representing a concept. 
 
+> ## More Examples of Fluid Representations
+> 
+> - Programming: Referring to an R object like `abcde` as both "character vectors" and "strings".
+> - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
+> - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
+> - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
+> - Mathematics: Thinking of things algebraically vs geometrically.
+> - Navigation: Switching among different routes between two locations.
+{: .callout}
+
 > ## Fluid Representations  
 > 
 > In the Etherpad, give at least one example of a fluid representation that you use in your 
@@ -94,7 +104,7 @@ however, would be confused by this unexplained use of two different ways of repr
 {: .challenge}
 
 Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an
-error message while teaching, an expert will often figure out the cause of the error and devlop a solution
+error message while teaching, an expert will often figure out the cause of the error and develop a solution
 before a novice has even finished reading the error message. Because of this, it is very important
 while teaching to be explicit about the process you are using to diagnose and correct errors, even if they
 seem trivial to you, as they often will.
@@ -103,7 +113,7 @@ seem trivial to you, as they often will.
 > 
 > What is an error message that you encounter frequently in your work? (These are often syntax errors.) 
 > Take a few minutes to plan out how you would explain that error message to your learners. Write the 
-> error and your explaination in the Etherpad.
+> error and your explanation in the Etherpad.
 > 
 > This discussion should take about 5 minutes.  
 {: .challenge}
@@ -165,7 +175,7 @@ it with more positive and motivating word choices.
 >> *choose to*, *and*, *because*, *willing*, and the person's name. These are motivating words and phrases that can shift mindsets.
 >> Jason Fried lists several dirty [four-letter words:][four-letter-words] *need*, *must*, *can’t*, *easy*,
 >> *just*, *only*, and *fast*, as well as
->> examples of how they are used to demotivate. Statements like
+>> examples of how they are used to demotivate. Statements like:
 >> *	"We really need it."
 >> *	"If we don’t we can’t ..."
 >> *	"Wouldn’t it be easy if we just did it like that?"
@@ -235,5 +245,6 @@ motivations, making it easier for you to target your lesson materials to their n
 you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
 learners aren't getting it, it's probably more complicated than you thought.
 
-
+[motivation-words]: http://www.chicagotribune.com/bluesky/hub/ct-buffer-words-and-phrases-that-motivate-bsi-hub-20160225-story.html
+[four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words
 

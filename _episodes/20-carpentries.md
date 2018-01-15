@@ -62,7 +62,7 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Instructors** teach workshops and form the cornerstone of the Carpentry community. Many also serve in some of the other roles listed below.   
 
-- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They traing new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
+- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They train new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
 
 - **[Mentors](https://software-carpentry.org/join/subcom/mentoring/)** help new instructors integrate into the community by leading discussion sessions. Some also lead small mentoring groups to help new instructors prepare for their first few workshops. 
 
@@ -78,6 +78,13 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Other Roles:** There are many other ways to get involved with the Carpentries, whether by participating in lesson development events or contributing to our blogs. 
 
+> ## Participating in the Carpentries -- What's Your Role?
+>
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet.docx).
+>
+> Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+{: .challenge}
+
 There are many ways to get connected with the Carpentry community:
 
 *   Our websites are:
@@ -90,22 +97,23 @@ There are many ways to get connected with the Carpentry community:
 *   Our lessons are hosted on GitHub;
 contributions to them and discussion of changes happens via GitHub pull requests and issues,
 and the lessons are published using GitHub Pages.
-More details are given below.
+More details are given below:
     *   [Data Carpentry on GitHub]({{ site.dc_github }})
     *   [Software Carpentry on GitHub]({{ site.swc_github }})
 *   Software and Data Carpentry share public discussion lists
 that host everything from lively discussion on teaching practices
-to job postings and general announcements.
+to job postings and general announcements:
     * [General Discussion list](http://lists.software-carpentry.org/listinfo/discuss)  
     * [Other lists](http://lists.software-carpentry.org/)  
-*   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/),
-*   Host monthly community calls and weekly instructor discussion sessions,
+*   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/).
+*   Host monthly community calls and weekly instructor discussion sessions:
     * Check out our [community calendar](https://software-carpentry.org/join/)
-*   You can also find us on Twitter:
-    *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
-    *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
-*   [Slack](https://swc-slack-invite.herokuapp.com/)
-*   and [Facebook](https://www.facebook.com/carpentries/)
+*   You can also find us on
+    * Twitter:
+        *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
+        *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+    *   [Slack](https://swc-slack-invite.herokuapp.com/)
+    *   [Facebook](https://www.facebook.com/carpentries/)
 
 > ## Get Connected
 >
@@ -115,7 +123,7 @@ to job postings and general announcements.
 ## How a Workshop Works
 
 There are two types of Carpentry workshops: self-organized and centrally-organized. 
-For a centrally-organized workshop, Carpentry staff takes care of organization and adminstration
+For a centrally-organized workshop, Carpentry staff takes care of organization and administration
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
 
@@ -145,7 +153,7 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 
 *   it covers the core topics,
 *   at least one instructor is certified,
-*   you run our standardized pre- and post-workshop assessments and provide us with the results, and
+*   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
 *   you send us summary information about attendees (at a minimum, the number of people who attended).
 
 ### What's Core?
@@ -231,7 +239,7 @@ be discussed before changes are merged.
 > ## Check Out the Discussion
 > 
 > As an instructor, your voice is important! We want you to be actively involved
-> in disucssions about the lesson materials (and other aspects of the Carpentry community).
+> in discussions about the lesson materials (and other aspects of the Carpentry community).
 > Go to the GitHub page for the lesson you worked with over the past two days and click on the 
 > "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
 > to the conversation! If you do make a significant contribution to the discussion, send a link to

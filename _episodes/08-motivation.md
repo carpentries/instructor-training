@@ -16,7 +16,7 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-In order for learners to step out into new and familiar terrain, they will
+In order for learners to step out into new and unfamiliar terrain, they will
 need encouragement.  This section discusses typical ways that
 learners are motivated (and can be demotivated!) and provides practice opportunities
 for you to become confident in motivating your learners.
@@ -31,7 +31,7 @@ of many factors:
 + *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using live coding in teaching concepts is very useful for this reason. It is common to make errors while live coding. When done well, these errors can be very instructive for novice learners.
 + *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a Code of Conduct or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
 + *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint leaners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
++ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 ## Teach Most Useful First
 
@@ -62,7 +62,7 @@ don't belong in our workshops.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise.md#limitations-of-expertise).
+> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise/#limitations-of-expertise).
 {: .callout}
 
 We have therefore adopted a "teach most immediately useful first" approach.
@@ -93,7 +93,7 @@ learners.
 
 > ## Strategies for Motivating Learners
 >
-> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al, 
+> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al., 
 > contains this list of evidence-based methods to motivate learners.
 >
 > In groups of two or three, pick three of these points and briefly describe
@@ -201,6 +201,10 @@ common demotivators and help you develop strategies for avoiding them.
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
+*   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners. 
+    Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or 
+    that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
+    skills that are essential for independent work.
 *  Feign surprise. Saying things like "I can't believe you don't know X"
     or "You've never heard of Y?" signals to the learner that they do not have
     some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
@@ -378,7 +382,7 @@ about accessibility.
 > put one thing you've learned in the Etherpad. 
 > 
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
-> available in a number of languages, including Dutch, French, Spanish, Swedish, Portugese, German, and
+> available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
 > Chinese.
 > 
 > This exercise should take about 5 minutes.
