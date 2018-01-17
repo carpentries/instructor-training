@@ -393,8 +393,8 @@ is a good starting point focused primarily on assisting the visually impaired,
 while Liz Henry's blog post about
 [accessibility at conferences][conference-accessibility]
 has a good checklist for people with mobility issues,
-and [this interview][deaf-accessibility]
-with Chad Taylor is a good introduction to issues faced by those with no or limited hearing.
+and this [interview with Chad Taylor][deaf-accessibility]
+is a good introduction to issues faced by those with no or limited hearing.
 
 The second is to know how well you're doing.
 For example,
