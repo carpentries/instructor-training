@@ -88,7 +88,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 >
 > We'll start by observing some examples of Carpentry workshop teaching and providing some feedback.
 > 
-> Watch [this video][bad-teaching-video] as a group
+> Watch this [example teaching video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
 > Organize your feedback along two axes:
 > positive vs. negative
@@ -202,8 +202,8 @@ with the feedback you gave.
 
 > ## Feedback on Feedback
 >
-> Watch either [this video][scipy-video-1] (8:40)
-> or [this one][scipy-video-2] (11:42).
+> Watch either this [scipy tutorial][scipy-video-1] (8:40)
+> or this [other tutorial][scipy-video-2] (11:42).
 > For each, give feedback following the 2x2 
 > model. Put your feedback in the Etherpad.
 >
