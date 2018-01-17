@@ -219,7 +219,7 @@ they will notify the training coordinator.
 <a name="demo-lesson"></a>
 
 The final step is to sign up for a 5-minute demonstration online using
-[the teaching demo schedule]({{page.demopad}}) Etherpad
+[the teaching demo schedule Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 
 The link to connect to the video conference is at the top of the Etherpad.
