@@ -50,10 +50,9 @@ computational challenges,
 
 ![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
 
-In February 2017, Software and Data Carpentry began to discuss merging the two organizations. As of 
-August 2017, this merger is underway and planned to take effect in early 2018. Software and Data 
-Carpentry will join under an umbrella organization ("The Carpentries"), with a shared governance, 
-community structure, and policies. Each organization will maintain their own curricular materials.
+In February 2017, Software and Data Carpentry began to discuss merging the two organizations. On 1st January 2018, 
+Software and Data Carpentry joined under an umbrella organization ("The Carpentries"), with a shared governance, community
+structure, and policies. Each organization maintains their own curricular materials.
 
 ## The Carpentry Community
 
