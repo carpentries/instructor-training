@@ -13,7 +13,7 @@ re-activate their Trainer status at any time by resuming Trainer activities.
 ## II. Becoming a Trainer
 The Trainers group periodically accepts new members via application. New 
 Trainers undergo an eight-week training program outlined 
-[in this document][trainer-process] and
+[in the trainer process document][trainer-process] and
 agree to the [Trainer Agreement][trainer-agreement].
 
 ## III. Trainer Meetings

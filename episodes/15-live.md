@@ -82,8 +82,8 @@ Many error messages are obscure and not written with novices in mind. Continue t
 
 > ## Compare and Contrast
 >
-> Watch [this video][live-coding-bad]
-> and [this video][live-coding-good]
+> Watch this [first live coding demo video][live-coding-bad]
+> and this [second demo video][live-coding-good]
 > as a group and then summarize your feedback on both in the Etherpad.
 > Use the 2x2 rubric for feedback we discussed earlier.  
 >
