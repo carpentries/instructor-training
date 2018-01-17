@@ -237,7 +237,7 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-Tables showing the lessons can be found [here for Software Carpentry](https://software-carpentry.org/lessons/) and [here for Data Carpentry](http://www.datacarpentry.org/lessons/). 
+You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/) and [Data Carpentry lessons](http://www.datacarpentry.org/lessons/) on the websites.
 A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
