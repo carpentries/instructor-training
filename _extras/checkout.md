@@ -44,7 +44,7 @@ are now considered Carpentry instructors and can teach either set of curricula.
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't filled out an application, please do so now using [this link](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you haven't already, please fill out [the online application form](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
@@ -159,7 +159,7 @@ and to clarify anything that may be unclear about our operations in general.
 
 Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
-You can sign up for a session on [this Etherpad]({{page.discussionpad}});
+You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
 please [let us know]({{ site.contact }})
@@ -218,8 +218,8 @@ they will notify the training coordinator.
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 
-The final step is to sign up for a 5-minute teaching demonstration online using
-[this Etherpad]({{page.demopad}})
+The final step is to sign up for a 5-minute demonstration online using
+[the teaching demo schedule]({{page.demopad}}) Etherpad
 (or add yourself to the top of the pad if none of the available times work for you).
 
 The link to connect to the video conference is at the top of the Etherpad.

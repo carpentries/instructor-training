@@ -188,7 +188,7 @@ that they will be ready to work in groups or dialogue with each other.
 > 'stars' and a thing they're proud of that they made. 
 {: .callout}
 
-Other examples of Icebreakers can be found [on this page][icebreakers].  
+Head here for [more examples of Icebreakers][icebreakers].  
 
 ### 5. Set the Tone for the Workshop
 
