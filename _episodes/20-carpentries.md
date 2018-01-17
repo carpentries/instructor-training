@@ -80,7 +80,7 @@ computational literacy among researchers and other professionals worldwide.
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
-> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet.docx).
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital worksheet here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet.docx).
 >
 > Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
 {: .challenge}
@@ -134,7 +134,7 @@ If you would like to host a Data Carpentry workshop at your
 institution, [visit this website for more information on centrally-organized workshops](http://www.datacarpentry.org/workshops-host/) and this website for more information about [self-organized workshops](http://www.datacarpentry.org/self-organized-workshops/).
 
 Policies related to instructor training and workshops for both Software Carpentry and
-Data Carpentry can be found [here](https://github.com/carpentries/policies). Please
+Data Carpentry can be found in [the policies repository](https://github.com/carpentries/policies). Please
 be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
 
 ### Materials
