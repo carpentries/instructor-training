@@ -12,7 +12,7 @@
 - Optionally award +1 for being an active contributor to other volunteer or
         non-profit groups with significant teaching or training components
 
-- Score +1 for each previous involvement with the Carpentries up to a maximum bonus of +3.
+- Score +1 for each previous involvement with The Carpentries up to a maximum bonus of +3.
 
 - Award +1 for previous training in teaching: "a certification or short course" or "a full degree".
 
@@ -24,8 +24,6 @@
 
 _________________
 
-*The application text below has been approved by the Trainers group but **not** implemented as of 5/15/17.*
-
 ## Apply for Instructor Training
 
 Our instructor training classes are for people who wish to learn how to
@@ -36,18 +34,18 @@ communities of instructors around the world.
 
 If you wish to apply to our open instructor training program, please
 fill in the form below. Tell us about yourself, what excites you about
-teaching, how Software and Data Carpentry can help in your community.
+teaching, how The Carpentries can help in your community.
 Spaces are limited, so use this form to share with us what excites you
 about spreading our teaching to your organization. We will notify
 applicants as limited spaces become available. If you have any
-questions, please mail <training@software-carpentry.org>.
+questions, please mail <training@carpentries.org>.
 
 If you would like to accelerate the process, check out our
-[partnership program](http://software-carpentry.org/scf/join/).
-Organizational partners make ongoing commitments to supporting our
-organization and are prioritized for instructor training. If you need
+[membership program](http://software-carpentry.org/scf/join/).
+Organizational members make ongoing commitments to supporting The Carpentries
+and are guaranteed seats in instructor training. If you need
 help making the case at your organization, feel free to contact us at
-<partnerships@software-carpentry.org>, we'd be happy to help.
+<partnerships@carpentries.org>, we'd be happy to help.
 
 Please note that as a condition of taking this training:
 
@@ -58,16 +56,12 @@ Please note that as a condition of taking this training:
     complete certification. The tasks are described at
     <http://carpentries.github.io/instructor-training/checkout/>, and
     take a total of approximately 8-10 hours.
--   You are expected to teach at a Software Carpentry or Data Carpentry
+-   You are expected to teach at a Carpentry
     workshop within 12 months of the course.
 
-For more information on Software and Data Carpentry instructor training,
+For more information on Carpentry instructor training,
 please see <http://carpentries.github.io/instructor-training/>.
 
-> Applications for the open Fall 2016 online instructor training class are
-> now closed, but we are still accepting applications for subsequent
-> classes to be scheduled.
->
 > If you are scheduled to receive training at a partner site, and have
 > been asked to fill in this form to give us information about yourself,
 > please do so and we will follow up when your site's training has been
@@ -113,8 +107,8 @@ please see <http://carpentries.github.io/instructor-training/>.
 
 09. Country: [--pulldown--]
 
-10. [_] This a smaller, remote, or less affluent institution.
-  *Software and Data Carpentry strive to make workshops accessible to
+10. [_] This a small, remote, or under-resourced institution.
+  *The Carpentries strive to make workshops accessible to
   as many people as possible, in as wide a variety of situations as
   possible.*
 
@@ -150,8 +144,7 @@ Details: [____________________]
         non-profit groups with significant teaching or training components.
 Details: [____________________]
 
-14. How often have you been involved with Software Carpentry or Data
-    Carpentry in the following ways?
+14. How often have you been involved with The Carpentries in the following ways?
 
 [_] Helper
 [_] Instructor
@@ -186,8 +179,8 @@ Description of your previous training in teaching:
 Description of your previous experience in teaching:
 [____________________]
 
-17. How frequently do you work with the tools that Data Carpentry and
-    Software Carpentry teach, such as R, Python, MATLAB, Perl, SQL,
+17. How frequently do you work with the tools that The Carpentries
+teach, such as R, Python, MATLAB, Perl, SQL,
     Git, OpenRefine, and the Unix Shell?
 
 [_] Every day
@@ -196,7 +189,7 @@ Description of your previous experience in teaching:
 [_] A few times a year
 [_] Never or almost never
 
-18. How often would you expect to teach on Software or Data Carpentry
+18. How often would you expect to teach Carpentry
     Workshops after this training?
 
 [_] Not at all
@@ -221,7 +214,7 @@ Description of your previous experience in teaching:
 [_] I have read and agree to [the Software Carpentry Foundation's data
     privacy policy](https://software-carpentry.org/privacy/).
 
-[_] I agree to abide by Software and Data Carpentry's Code of Conduct
+[_] I agree to abide by The Carpentries' Code of Conduct
     The Code of Conduct can be found at
     <http://software-carpentry.org/conduct/>and
     <http://datacarpentry.org/code-of-conduct/>.
@@ -231,6 +224,6 @@ Description of your previous experience in teaching:
     <http://carpentries.github.io/instructor-training/checkout/> and take a
     total of approximately 8-10 hours.
 
-[_] I agree to teach a Software Carpentry or Data Carpentry workshop
+[_] I agree to teach a Carpentry workshop
     within 12 months of this Training Course
 
