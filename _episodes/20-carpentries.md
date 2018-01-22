@@ -60,23 +60,25 @@ community structure, and policies. Each organization will maintain their own cur
 The Carpentry Community has several parts, which function together to spread data skills and 
 computational literacy among researchers and other professionals worldwide. 
 
-- **Instructors** teach workshops and form the cornerstone of the Carpentry community. Many also serve in some of the other roles listed below.   
+- **Instructors (Mentors)** teach workshops and form the cornerstone of the Carpentry community. They help new instructors integrate into the community by leading discussion sessions. Some also lead small [mentoring groups](https://software-carpentry.org/join/subcom/mentoring/) to help new instructors prepare for their first few workshops.
 
 - **Trainers** are Carpentry instructors who have received additional training in pedagogy. They train new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
 
-- **[Mentors](https://software-carpentry.org/join/subcom/mentoring/)** help new instructors integrate into the community by leading discussion sessions. Some also lead small mentoring groups to help new instructors prepare for their first few workshops. 
+- **Lesson Developers** create Carpentries lessons for new subject areas.
 
-- **[Maintainers](https://software-carpentry.org/join/subcom/maintainers/)** oversee curricular changes and maintain the high-quality of Carpentry lessons.  
+- **[Lesson Maintainers]**(https://software-carpentry.org/join/subcom/maintainers/) oversee curricular changes and maintain the high-quality of Carpentry lessons.
 
-- **Lesson Infrastructure** Subcommittee members make decisions about and implement changes to lesson templates to ensure a good user experience across our lessons.
+- **Lesson Infrastructure Subcommittee** members make decisions about and implement changes to lesson templates to ensure a good user experience across our lessons.
 
-- **Policy** Subcommittee members moderate discussion lists and arbitrate reported Code of Conduct violations.
+- **Assessment Subcommittee** members help us to understand the impact of our workshops on the learners who attend and guide the development, implementation, and instruction of our workshops based on these assessments.
 
-- The **Steering Committees** make strategic decisions about the future of the organization and its operations.
+- The **Executive Council** makes strategic decisions about the future of the organization and its operations.
 
-- **Local Champions** advocate for the Carpentries within their home institution and region, growing a local network of Carpentry instructors and supporting workshop learners. 
+- **Champions** advocate for the Carpentries within their home institution and region, growing a local network of Carpentry instructors and supporting workshop learners.
 
-- **Other Roles:** There are many other ways to get involved with the Carpentries, whether by participating in lesson development events or contributing to our blogs. 
+- **Infrastructure Team** helps with AMY (or tracking system), data analysis, surveys, and providing systems administration and other support infrastructure functions.
+
+- **Workshop Coordinators** help to plan and run Carpentries workshops at their institutions.
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
