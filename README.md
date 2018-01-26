@@ -9,8 +9,9 @@ or run `make` in this directory for a list of helpful commands.
 
 **Maintainer(s):**
 
-* [Christina Koch][koch_christina]
 * [Erin Becker][becker_erin]
+* [Christina Koch][koch_christina]
+* Karen Word
 
 **Trainers:**
 - Erin Becker (United States)
