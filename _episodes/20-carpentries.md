@@ -66,7 +66,7 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Lesson Developers** create Carpentries lessons for new subject areas.
 
-- **[Lesson Maintainers]**(https://software-carpentry.org/join/subcom/maintainers/) oversee curricular changes and maintain the high-quality of Carpentry lessons.
+- **[Lesson Maintainers](https://software-carpentry.org/join/subcom/maintainers/)** oversee curricular changes and maintain the high-quality of Carpentry lessons.
 
 - **Lesson Infrastructure Subcommittee** members make decisions about and implement changes to lesson templates to ensure a good user experience across our lessons.
 
@@ -142,7 +142,7 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 ### Materials
 
 All of Software Carpentry and Data Carpentry's lessons materials are freely available
-under a permissive [open license]({{ page.root }}/license/).
+under a permissive [open license]({{ page.root }}/license.md).
 You may use them whenever and however you want,
 provided you cite the original source.
 
