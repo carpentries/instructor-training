@@ -130,13 +130,13 @@ such as finding instructors and handling workshop registration. For a self-organ
 all of these details are handled by the instructors or organization hosting the event.
 
 If you would like to host a Software Carpentry workshop at
-your institution, [visit this website for more information](https://software-carpentry.org/workshops/request/).
+your institution, information can be found on the [request a Software Carpentry workshop](https://software-carpentry.org/workshops/request/) page.
 
 If you would like to host a Data Carpentry workshop at your
-institution, [visit this website for more information on centrally-organized workshops](http://www.datacarpentry.org/workshops-host/) and this website for more information about [self-organized workshops](http://www.datacarpentry.org/self-organized-workshops/).
+institution, visit [Data Carpentry centrally-organized workshops](http://www.datacarpentry.org/workshops-host/) and [Data Carpentry self-organized workshops](http://www.datacarpentry.org/self-organized-workshops/).
 
 Policies related to instructor training and workshops for both Software Carpentry and
-Data Carpentry can be found [here](https://github.com/carpentries/policies). Please
+Data Carpentry can be found in [the policies repository](https://github.com/carpentries/policies). Please
 be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
 
 ### Materials
@@ -255,8 +255,7 @@ be discussed before changes are merged.
 > 
 > Maybe this instructor training has inspired you to go home and write your
 > own fantastic lesson!  If you'd like to model it after the Software and
-> Data Carpentry lesson format, you can go to [this repository]({{ site.example_repo }}) for
-> a template and instructions.  
+> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).  
 {: .callout}
 
 > ## Many Ways to Contribute

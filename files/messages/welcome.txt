@@ -8,9 +8,9 @@ Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one 
 
 **In order to prepare:**
 
-1.  Please this paper, which provides a brief overview of some key evidence-based results in teaching:
+1.  Please read this paper, which provides a brief overview of some key evidence-based results in teaching:
 
-    * "The Science of Learning" (https://http://carpentries.github.io/instructor-training/checkout/.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+    * "The Science of Learning" (https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one episode* from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
@@ -46,8 +46,8 @@ Please read through *one* of the episodes below carefully, so that you can do so
 
 Data Carpentry
 
-* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine.html
-* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html
+* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/
+* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries/
 * Starting with Data in R: http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html
 * Starting with Data in Python: http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
 

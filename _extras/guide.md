@@ -12,8 +12,8 @@ re-activate their Trainer status at any time by resuming Trainer activities.
 
 ## II. Becoming a Trainer
 The Trainers group periodically accepts new members via application. New 
-Trainers undergo an eight-week training program outlined 
-[in this document][trainer-process] and
+Trainers undergo an eight-week training program outlined in
+[the trainer process document][trainer-process] and
 agree to the [Trainer Agreement][trainer-agreement].
 
 ## III. Trainer Meetings
@@ -117,7 +117,7 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ## IIX. Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
+If you would like to watch an example, here is a [recording of a teaching demo][demo-video].  
 
 ### Before the demo
 -  Sign up to [lead demos][demo-pad].  
@@ -159,11 +159,11 @@ Any episode other than those listed below should make an okay starting point for
    *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
    
 *  DC (stable lessons only)
-  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_pages }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-  * [SQL for Ecology]({{ site.dc_pages }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
-  * [R for Ecology]({{ site.dc_pages }}/R-ecology-lesson/00-before-we-start.html) - no live coding
-  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_pages }}/R-ecology-lesson/03-dplyr.html) - dependencies
-  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_pages }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
+  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+  * [SQL for Ecology]({{ site.dc_site }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
+  * [R for Ecology]({{ site.dc_site }}/R-ecology-lesson/00-before-we-start.html) - no live coding
+  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_site }}/R-ecology-lesson/03-dplyr.html) - dependencies
+  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_site }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
   
 *  LC (stable lessons only)
   * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
@@ -229,7 +229,7 @@ Hi everyone,
 Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed
 having you involved and getting to know you a bit. You are now well on your way towards 
 becoming a certified Carpentry instructor. In order to finish your certification, please 
-finish the tasks listed [here][checkout-checklist] by the 90-day deadline. If you have any questions about the 
+finish the tasks listed on [the checkout checklist][checkout-checklist] by the 90-day deadline. If you have any questions about the 
 checkout process, please contact checkout@carpentries.org. 
 
 Looking forward to having you as a Carpentry Instructor!
@@ -242,7 +242,7 @@ Best,
 
 Hello,
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at *Insert Time* in a [Zoom meeting room](https://carpentries.zoom.us/j/357144246). Please read this short bi-lingual description of how Teaching Demo session works [here](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at *Insert Time* in a [Zoom meeting room](https://carpentries.zoom.us/j/357144246). Please read this short bi-lingual description of [How Teaching Demo session works](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
 
 Please let me know if you have any questions or concerns.
 
