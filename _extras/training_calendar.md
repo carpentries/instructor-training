@@ -39,7 +39,6 @@ Training dates for May - August 2018 will be announced in March 2018.
 * March 20-21
 
 ##### Central European time
-* February 28 - March 1
 * March 14-15
 
 
