@@ -20,7 +20,6 @@ Training dates for May - August 2018 will be announced in March 2018.
 # North America
 
 ##### Eastern time
-* March 1-2
 * April 2-3
 
 ##### Central time
