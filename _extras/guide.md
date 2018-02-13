@@ -121,6 +121,7 @@ If you would like to watch an example, here is a [recording of a teaching demo][
 
 ### Before the demo
 -  Sign up to [lead demos][demo-pad].  
+-  A day or two before the demo, send a reminder email, see the template (below).
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - listed below. Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ### Shortly Before the Demo
