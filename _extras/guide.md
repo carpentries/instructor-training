@@ -110,10 +110,13 @@ you’re not the host, please contact Carpentry staff immediately.
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
 ### General tips:  
+- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 - “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
-- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.  
+- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop. 
+- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.
+- During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
+- When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
 
 ## IIX. Running a Teaching Demonstration  
 
