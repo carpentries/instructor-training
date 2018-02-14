@@ -105,18 +105,19 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
-- When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while your co-Trainer teaches.  
-- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
+- When the room host clicks “End Meeting”, a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are simply leaving the room temporarily while your co-Trainer teaches.  
+- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants' assignments manually if desired.  
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
 ### General tips:  
 - Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
-- “Gallery view” in the upper right toggles the display to show more participants videos.  
-- “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
+- “Gallery view” in the upper right toggles the display to show more participants' videos.  
+- “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop. 
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.
+- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
 - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
-- When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
+- When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
+- Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session. 
 
 ## IIX. Running a Teaching Demonstration  
 
