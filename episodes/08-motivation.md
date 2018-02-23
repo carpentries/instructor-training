@@ -43,7 +43,7 @@ In addition,
 their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
-Imagine a grid whose axes are labelled "mean time to master" and "usefulness once mastered".
+Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
 Everything that's quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
