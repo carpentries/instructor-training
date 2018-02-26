@@ -1,18 +1,17 @@
 ---
 title: "Building Teaching Skill: Lesson Study"
 teaching: 20
-exercises: 35
+exercises: 25
 questions:
 - "How should I use learning objectives when preparing to teach?"
-- "How can I adapt challenges while teaching?"
 - "How can I adapt my teaching in response to formative assessment"
 objectives:
 - "Create a learner profile for someone likely to attend a workshop you will teach."
 - "Identify the information about learners' understanding you hope to gain from a particular exercise and how you will use this information to guide your teaching."
-- "Start developing comfort adapting challenges in real time for different levels of learners."
 keypoints:
+- "To teach effectively, you have to know *who* you are teaching."
+- "Good learning objectives communicate the intended effect of a lesson on its learners."
 - "A good exercise provides useful guidance to instructors about next steps needed in teaching."
-- "Developing good exercises in real time can be difficult, but is an important skill."
 ---
 
 Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-practice-teaching/). 
@@ -155,34 +154,4 @@ Each of these answers provides concrete next steps for the instructor to take in
 > 
 > This exercise and discussion should take about 15 minutes. 
 {: .challenge}
-
-## Adapting Challenges While Teaching
-
-Although all the Carpentry lessons have exercises (i.e. formative assessments) included in the prepared materials,
-you'll find that sometimes these exercises don't exactly meet the needs of the learners you have in the room. This
-will inevitably be the case regardless of the number of practice problems you prepare in advance, and is one of the 
-major challenges of teaching in this style. Because providing practice at the appropriate level for your learners
-is so important, it is useful to practice adapting exercises for various levels of learners so that you can do this
-quickly and proficiently as needed during your workshops.
-
-> ## Adapting Challenges
->
-> For your chosen lesson, pick one of the existing exercises (or use the MCQ or faded example you wrote yesterday). 
-> - Evaluate what level of learner they target. 
-> - Write two variations of this question that target a) more advanced and b) more novice learners.
-> - Discuss your variations with a partner and add to the Etherpad.
-> 
-> This exercise and discussion should take about 10 minutes.
-{: .challenge}
-
-Adapting challenges in real time can be challenging. You may find that a change you make inadvertently introduces new
-concepts the learners aren't yet prepared for, or that the solution you had in mind doesn't work. Be patient with 
-yourself and your co-instructors as you learn this skill. While it can be frustrating, these are also excellent
-opportunities to remind your learners that experts make mistakes and that we're all continuously learning. 
-
-
-
-
-
-
 
