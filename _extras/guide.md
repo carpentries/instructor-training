@@ -40,7 +40,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 ### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
--  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc and a workshop website (using the [training template][training-template]).  
+-  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (by copying the [Google Doc template][googledoc-template]) for taking notes during the workshop, and a workshop website (using the [training template][training-template]).  
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
 ### Two weeks before the event
@@ -142,7 +142,7 @@ If you would like to watch an example, here is a [recording of a teaching demo][
 ### After the Demo 
 -  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
 -  Clear Etherpad of data from your session.  
--  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
+-  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See tete (below).  
 
 ### Not Good Starting Points for Demos
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
@@ -263,6 +263,7 @@ Best/Saludos,
 [community-calendar]: http://pad.software-carpentry.org/trainers
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
+[googledoc-template]: https://docs.google.com/document/d/1ikPS-6hDKf7hC5aX0ulIuSfhcmSBV-nO-preWOcU2nQ/edit?usp=sharing 
 [training-template]: https://github.com/swcarpentry/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1ZvNx2co9BLEBTzDavUE7ZkAhkekBa19_5aIRFAdQIqw/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
