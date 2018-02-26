@@ -40,7 +40,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 ### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
--  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (by copying the [Google Doc template][googledoc-template]) for taking notes during the workshop, and a workshop website (using the [training template][training-template]).  
+-  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (by copying the [Google Doc template][googledoc-template] to your Drive) for taking notes during the workshop, and a workshop website (using the [training template][training-template]).  
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
 ### Two weeks before the event
