@@ -52,8 +52,8 @@ computational challenges,
 
 In February 2017, Software and Data Carpentry began to discuss merging the two organizations. As of 
 August 2017, this merger is underway and planned to take effect in early 2018. Software and Data 
-Carpentry will join under an umbrella organization ("The Carpentries"), with a shared governance, 
-community structure, and policies. Each organization will maintain their own curricular materials.
+Carpentry formed an umbrella organization ("The Carpentries"), with a shared governance, 
+community structure, and policies on January, 2018. Each organization will maintain their own curricular materials.
 
 ## The Carpentry Community
 
