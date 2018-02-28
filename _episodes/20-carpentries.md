@@ -189,8 +189,7 @@ The workshop will show up on our websites shortly thereafter.
 
 > ## Practice With SWC or DC Infrastructure
 >
-> Go to the [SWC workshop template repository]({{ site.workshop_repo }})
-> or the [DC workshop template repository]({{ site.dc_github }}/workshop-template)
+> Go to the [workshop template repository]({{ site.workshop_repo }}) 
 > and follow the directions to create a workshop website using your local location and today's date.
 > Put the link for your workshop website into the Etherpad.
 > 
