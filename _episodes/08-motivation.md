@@ -329,7 +329,7 @@ for teaching about and dealing with imposter syndrome.
 > ## Overcoming Imposter Syndrome
 > 
 > Think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarassing. Is that task still hard for you?
+> you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
 > In the Etherpad, describe how you might you use this as a motivational story to help your learners 
 > overcome their own imposter syndrome. 
 > 
