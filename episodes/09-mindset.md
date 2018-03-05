@@ -152,7 +152,7 @@ passion and drive for learning despite the difficulties of the topic.
 > ## How Are You Gritty?
 > 
 > A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome/) asked you to think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarassing.
+> you made a mistake that seemed silly or embarrassing.
 > 
 > How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?
 > How do you feel now about your capabilities in this area? 
