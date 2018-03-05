@@ -90,7 +90,6 @@ highlighting our ability to improve with effort.
 >
 >> ## Solution
 >> - Effort-based.
->> - Improvement-based.
 >> - Performance-based.
 >> - Improvement-based.
 > {: .solution}
