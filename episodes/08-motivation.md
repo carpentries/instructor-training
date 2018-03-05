@@ -290,6 +290,9 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
+![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)  
+https://xkcd.com/1954/
+
 Academic work is frequently undertaken alone or in small groups but the results are shared and 
 criticized publicly. In addition,
 we rarely see the struggles of others, only their finished work, which can feed the belief that everyone 
