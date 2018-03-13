@@ -31,8 +31,8 @@ are likely to be appropriate for their learners.
 You can preview the surveys your learners will receive at the links below:  
 - [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
 - [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
-- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=_2Fr_2BMLenJz3QD4fR3LpyrxE0ILyysS55zZtxg98DlSCmrGUESIrVTKPW0Pcdb05XO)  
-- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=20aY_2FxKwi4RcNMTonEV1fJU4BPERgmL_2FWtZKq6Zrehggy5OOe3BxYzyxwVgbbZfr)  
+- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
+- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
 
 > ## Timing Matters
 > 
