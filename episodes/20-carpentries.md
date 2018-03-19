@@ -141,7 +141,7 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 ### Materials
 
 All of Software Carpentry and Data Carpentry's lessons materials are freely available
-under a permissive [open license]({{ page.root }}/license.md).
+under a permissive [open license]({{ page.root }}/LICENSE).
 You may use them whenever and however you want,
 provided you cite the original source.
 
