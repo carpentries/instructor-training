@@ -20,24 +20,29 @@ Training dates for May - August 2018 will be announced in March 2018.
 # North America
 
 ##### Eastern time
-*Additional training dates to be announced.*
+* June 12-13
+* August 28-29
 
 ##### Central time
-* April 19-20
+* May 17-18
+* June 27-28
 
 ##### Mountain time
 * April 24-25
+* July 18-19
 
 ##### Pacific time
-*Additional training dates to be announced.*
+* June 11-12
+* August 14-15
 
 # Europe
 
 ##### Western European time
-*Additional training dates to be announced.*
+* May 24-25
+* August 21-22
 
 ##### Central European time
-*Additional training dates to be announced.*
-
+* June 20-21
+* July 30-31
 
 
