@@ -381,7 +381,7 @@ about accessibility.
 > 
 > The UK Home Office has put together a set of posters of dos and don'ts for making
 > visual and web-based materials more accessible for different populations. Take a look at one of 
-> [these posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK) and 
+> [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and 
 > put one thing you've learned in the Etherpad. 
 > 
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
