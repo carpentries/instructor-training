@@ -10,7 +10,7 @@ Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for S
     believe it's true, covering everything from cognitive psychology
     to social factors.
 
-Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][amazon-dicsussion]*.
+Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][amazon-discussion]*.
 :   Describes fifty different ways to get groups talking productively.
 
 Joshua Foer: *[Moonwalking with Einstein: The Art and Science of Remembering Everything][amazon-moonwalking]*.
