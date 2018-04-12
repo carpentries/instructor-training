@@ -40,8 +40,7 @@ judgement that they aren't good at that subject and shouldn't waste their time t
 the amount of time that
 they study, seeing the poor score as an indication that they need to try harder to improve in that area.  
 
-Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They
-will not volunteer to answer
+Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
 and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-learning/), is essential to learning.
 
@@ -50,8 +49,10 @@ and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-le
 > talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic 
 > ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's  
 > mindset about computational skill influence their learning in a workshop setting?
+> 
 > Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
 > or situations in which mindset might be relevant.
+> 
 > Share: A few thoughts in the etherpad (or go around the room and discuss)
 > 
 > This exercise should take about 5 minutes. 
