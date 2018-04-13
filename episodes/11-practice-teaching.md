@@ -30,7 +30,7 @@ From politicians to researchers and teachers themselves,
 most reformers have designed systems to find and promote those who can teach
 and eliminate those who can't.
 As Elizabeth Green describes in
-*[Building a Better Teacher][amazon-babt]*,
+*[Building a Better Teacher][worldcat-babt]*,
 though,
 that assumption is wrong,
 which is why educational reforms based on it have repeatedly failed.
@@ -237,7 +237,7 @@ practice teaching and to get and give feedback tomorrow.
 >Discuss with a partner and then write some thoughts in the Etherpad.
 {: .challenge}
 
-[amazon-babt]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
+[worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
 [scipy-video-2]: https://vimeo.com/139181120
