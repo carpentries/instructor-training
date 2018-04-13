@@ -495,7 +495,7 @@ such as:
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
 [worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
 [worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
-[worldcat-whistling-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-how-stereotypes-affect-us-and-what-we-can-do/oclc/708252122
+[worldcat-whistling-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
 [conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
