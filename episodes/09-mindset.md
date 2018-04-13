@@ -44,12 +44,16 @@ Their attitude towards failure leads fixed-mindset people to avoid situations wh
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
 and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-learning/), is essential to learning.
 
-> ## What's Your Mindset?
-> You can learn about your own mindset by taking this [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php).
-> Keep in mind that your mindset may differ in different areas. For example, you might have a fixed mindset with respect to artistic ability,
-> but a growth mindset with respect to computing skill. 
+> ## Does Mindset matter?
+> Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
+> talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic 
+> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's  
+> mindset about computational skill influence their learning in a workshop setting?
 > 
-> If you're comfortable sharing, put your "score" in the Etherpad. How does it compare with others?
+> Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
+> or situations in which mindset might be relevant.
+> 
+> Share: A few thoughts in the etherpad (or go around the room and discuss)
 > 
 > This exercise should take about 5 minutes. 
 {: .challenge}
