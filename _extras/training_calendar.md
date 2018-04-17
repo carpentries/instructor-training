@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Instructor Training Calendar for Carpentries Partners"
+title: "Instructor Training Calendar for Carpentries Members"
 permalink: /training_calendar/
 ---
 
 
-#### Carpentries Partner Site Instructor Training Calendar
+#### Carpentries member Site Instructor Training Calendar
 ###  April to August 2018
 
 
-If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
+If you are a member site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
