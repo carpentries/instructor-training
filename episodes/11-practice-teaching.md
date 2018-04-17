@@ -184,6 +184,7 @@ Having another instructor in the classroom saves your voice
 but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
+We discuss this in more detail in the next section.
 
 Finally, be kind to yourself.
 Mental habits matter: if you're a self-critical person,
@@ -228,13 +229,107 @@ may have a fixed mindset about teaching. By strengthening your growth mindset wi
 transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
 practice teaching and to get and give feedback tomorrow.
 
+## Teaching Together
+
+*Co-teaching* describes any situation in which two teachers work
+together in the same classroom.  Friend and Cook's
+*[Interactions][worldcat-interactions]* describes several ways to do
+this:
+
+- **Team teaching:** Both teachers deliver a single stream of content
+  in tandem, taking turns the way that musicians taking solos would.
+
+- **Teach and assist:** Teacher A teaches while Teacher B moves around
+  the classroom to help struggling students.
+
+- **Alternative teaching:** Teacher A provides a small set of students
+  with more intensive or specialized instruction while Teacher B
+  delivers a general lesson to the main group.
+
+- **Teach and observe:** Teacher A teaches while Teacher B observes
+  the students, collecting data on their understanding to help plan
+  future lessons.
+
+- **Parallel teaching:** The class is divided into two equal groups
+  and the teachers present the same material simultaneously to each.
+
+- **Station teaching:** The students are divided into several small
+  groups that rotate from one station or activity to the next while
+  both teachers supervise where needed.
+
+All of these models are better than teaching alone because they create
+opportunities for lateral knowledge transfer; we use team teaching,
+teach and assist, and alternative teaching most often in programming
+workshops.  Team teaching is particularly beneficial in day-long
+workshops: not only does it give each teacher's voice a chance to
+rest, it reduces the risk that they will be so tired by the end of the
+day that they will start snapping at their students or fumbling at
+their keyboard.
+
+> Many people who aren't comfortable teaching are still willing and
+> able to provide in-class technical support.  They can help learners
+> with setup and installation, answer technical questions during
+> exercises, monitor the room to spot people who may need help, or
+> keep an eye on the shared notes and either answer questions there or
+> remind the instructor to do so during breaks.
+>
+> Helpers are sometimes people training to become teachers (i.e.,
+> they're Teacher B in the teach and assist model), but they can also
+> be members of the host institution's technical support staff,
+> alumni, or advanced learners who already know the material well.
+> Using the latter as helpers is doubly effective: not only are they
+> more likely to understand the problems their peers are having, it
+> also stops them from getting bored.
+>
+> The [helper checklist][helpers] describes what helpers can do to
+> help instructors in more detail.
+
+If you and a partner are co-teaching, try to follow these rules:
+
+- Take 2-3 minutes before the start of each class to confirm who's
+  teaching what with your partner.  (If you have time to do some
+  advance preparation, try drawing a concept map together.)
+
+- Use that time to work out a couple of hand signals as well.  "You're
+  going too fast", "speak up", "that learner needs help", and, "It's
+  time for a bathroom break" are all useful.
+
+- Each person should teach for at least 10-15 minutes at a stretch,
+  since students may be distracted by more frequent interleaving.
+
+- The person who isn't teaching shouldn't interrupt, offer
+  corrections, elaborations, or amusing personal anecdotes, or do
+  anything else to distract from what the person teaching at the time
+  is doing or saying.  The one exception is that it's sometimes
+  helpful to ask leading questions, particularly if the learners seem
+  unsure of themselves.
+
+- Each person should take a couple of minutes before they start
+  teaching to see what their partner is going to teach after they're
+  done, and then *not* present any of that material.
+
+- The person who isn't teaching should stay engaged with the class,
+  not catch up on their email.  Monitor the shared notes, keep an eye
+  on the students to see who's struggling, jot down some feedback to
+  give your teaching partner at the next break - anything that
+  contributes to the lesson is better than anything that doesn't.
+
+Most importantly, take a few minutes when the class is over to either
+congratulate or commiserate with each other.  In teaching as in life,
+shared misery is lessened and shared joy increased; in that moment,
+no-one will understand how pleased you are at helping someone
+understand how loops work, or how disappointed you are that you just
+couldn't get software to install on that one learner's laptop, than
+the person you just taught with.
+
+
 ## Optional Exercises
 
 > ## Skill Acquisition: What level are your teaching skills?
 > 
 > As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice. 
 > Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
->Discuss with a partner and then write some thoughts in the Etherpad.
+> Discuss with a partner and then write some thoughts in the Etherpad.
 {: .challenge}
 
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
@@ -245,3 +340,5 @@ practice teaching and to get and give feedback tomorrow.
 [fincher-warren]: {{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf
 [fincher-stories]: {{ page.root }}/files/papers/fincher-stories-change-2012.pdf
 [barker-practice]: {{ page.root }}/files/papers/barker-practice-adoption-2015.pdf
+[worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
+[helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
