@@ -78,7 +78,7 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It's
 important to keep in mind, however, that feedback isn't helpful if you can't understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier]({{ page.source }}/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
+[we learned earlier]({{ page.source }}/instructor-training/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners. 
 
 > ## Compare and Contrast
 >
