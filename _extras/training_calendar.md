@@ -22,7 +22,6 @@ Training dates for September - December will be announced in July 2018.
 * August 28-29
 
 ##### Central time
-* May 17-18
 * June 27-28
 
 ##### Mountain time
