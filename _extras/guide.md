@@ -262,7 +262,7 @@ Best/Saludos,
 [ name ]
 
 
-[trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
+[trainer-agreement]: https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html
 [trainer-process]: https://docs.google.com/document/d/14Zi_W9uk1wua2v3zy8um6oMCnvO41Qfo1KwStCA-hos/edit
 [trainer-pad]: http://pad.software-carpentry.org/trainers
 [community-calendar]: http://pad.software-carpentry.org/trainers
