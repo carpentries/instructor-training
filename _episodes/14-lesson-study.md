@@ -1,5 +1,5 @@
 ---
-title: "Building Teaching Skill: Lesson Study"
+title: "Lesson Study"
 teaching: 20
 exercises: 25
 questions:

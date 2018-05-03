@@ -1,5 +1,5 @@
 ---
-title: "The Carpentries: How We Operate"
+title: "How We Operate"
 teaching: 30
 exercises: 35
 questions:
