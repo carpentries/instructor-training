@@ -1,5 +1,5 @@
 ---
-title: "How Learning Works: Working Memory and Cognitive Load"
+title: "Working Memory and Cognitive Load"
 teaching: 20
 exercises: 30
 questions:

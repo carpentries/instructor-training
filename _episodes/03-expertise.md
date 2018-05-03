@@ -1,5 +1,5 @@
 ---
-title: "How Learning Works: Expertise and Instruction"
+title: "Expertise and Instruction"
 teaching: 20
 exercises: 30
 questions:

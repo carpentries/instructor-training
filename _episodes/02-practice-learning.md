@@ -1,5 +1,5 @@
 ---
-title: "How Learning Works: The Importance of Practice"
+title: "The Importance of Practice"
 teaching: 20
 exercises: 45
 questions:

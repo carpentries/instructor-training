@@ -46,6 +46,16 @@ Feedback on these materials is welcome as an [issue][issues] on the Github repos
 
 **These materials are freely available under a [Creative Commons license][license].**
 
+## General overview of the workshop
+
+| Time  | Theme | 
+| ----  | ---- | 
+| Day 1 AM | How Learning Works |   
+| Day 1 PM | Creating a Positive Learning Environment | 
+| Day 2 AM | Building Teaching Skill | 
+| Day 2 PM | The Carpentries | 
+
+
 [application-form]: https://amy.software-carpentry.org/workshops/request_training/
 [conduct]: {{ page.root }}/conduct/
 [license]: {{ page.root }}/license/

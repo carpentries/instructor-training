@@ -1,5 +1,5 @@
 ---
-title: "Building Teaching Skill: Getting Feedback"
+title: "Getting Feedback"
 teaching: 10
 exercises: 10
 questions:
