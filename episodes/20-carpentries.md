@@ -95,12 +95,16 @@ There are many ways to get connected with the Carpentry community:
     *   [Data Carpentry]({{ site.dc_site }})
         *   [Blog]({{ site.dc_site }}/blog/)
         *   [Get Involved]({{ site.dc_site }}/involved/)
+    *   [The Carpentries](https://carpentries.org)
+        *   [Blog](https://carpentries.org/blog/)
+        *   [Get Involved](https://carpentries.org/community)
 *   Our lessons are hosted on GitHub;
 contributions to them and discussion of changes happens via GitHub pull requests and issues,
 and the lessons are published using GitHub Pages.
 More details are given below:
     *   [Data Carpentry on GitHub]({{ site.dc_github }})
     *   [Software Carpentry on GitHub]({{ site.swc_github }})
+    *   [The Carpentries on GitHub](https://github.com/carpentries)
 *   Software and Data Carpentry share public discussion lists
 that host everything from lively discussion on teaching practices
 to job postings and general announcements:
@@ -113,6 +117,7 @@ to job postings and general announcements:
     * Twitter:
         *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
         *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+        *   [The Carpentries on Twitter](https://twitter.com/thecarpentries)
     *   [Slack](https://swc-slack-invite.herokuapp.com/)
     *   [Facebook](https://www.facebook.com/carpentries/)
 
