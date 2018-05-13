@@ -56,70 +56,14 @@ community structure, and policies in January, 2018. Each organization will maint
 
 ## The Carpentry Community
 
-The Carpentry Community has several parts, which function together to spread data skills and 
-computational literacy among researchers and other professionals worldwide. 
-
-- **Instructors (Mentors)** teach workshops and form the cornerstone of the Carpentry community. They help new instructors integrate into the community by leading discussion sessions. Some also lead small [mentoring groups](https://software-carpentry.org/join/subcom/mentoring/) to help new instructors prepare for their first few workshops.
-
-- **Trainers** are Carpentry instructors who have received additional training in pedagogy. They train new instructors, develop the instructor training curriculum, and lead teaching demonstrations.
-
-- **Lesson Developers** create Carpentries lessons for new subject areas.
-
-- **[Lesson Maintainers](https://software-carpentry.org/join/subcom/maintainers/)** oversee curricular changes and maintain the high-quality of Carpentry lessons.
-
-- **Lesson Infrastructure Subcommittee** members make decisions about and implement changes to lesson templates to ensure a good user experience across our lessons.
-
-- **Assessment Subcommittee** members help us to understand the impact of our workshops on the learners who attend and guide the development, implementation, and instruction of our workshops based on these assessments.
-
-- The **Executive Council** makes strategic decisions about the future of the organization and its operations.
-
-- **Champions** advocate for the Carpentries within their home institution and region, growing a local network of Carpentry instructors and supporting workshop learners.
-
-- **Infrastructure Team** helps with AMY (or tracking system), data analysis, surveys, and providing systems administration and other support infrastructure functions.
-
-- **Workshop Coordinators** help to plan and run Carpentries workshops at their institutions.
+The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, and research software development through building local and global communities of practice. Our community depends on individuals like you who are passionate about expanding these communities of practice through inclusive and evidence-based instructional practices, and can contribute your perspective and expertise to continually refine our instructional materials and practices.  A full description of the bread and diversity of roles that members play is beyond the scope of this new instructor training. Detailed descriptions of community member roles, an overview of the Carpentries' various social media channels, a calendar of future community events, and descriptions of mailing lists used by the community can be found [here on the Carpentries website](http://static.carpentries.org/community/).
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
 > If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v2.pdf).
 >
-> Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+> Take a moment to review member community roles on the [Carpentries' community website](https://software-carpentry.org/join/subcom/mentoring/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
 {: .challenge}
-
-There are many ways to get connected with the Carpentry community:
-
-*   Our websites are:
-    *   [Software Carpentry]({{ site.swc_site }})
-        *   [Blog]({{ site.swc_site }}/blog/)
-        *   [Get Involved]({{ site.swc_site }}/join/)
-    *   [Data Carpentry]({{ site.dc_site }})
-        *   [Blog]({{ site.dc_site }}/blog/)
-        *   [Get Involved]({{ site.dc_site }}/involved/)
-    *   [The Carpentries](https://carpentries.org)
-        *   [Blog](https://carpentries.org/blog/)
-        *   [Get Involved](https://carpentries.org/community)
-*   Our lessons are hosted on GitHub;
-contributions to them and discussion of changes happens via GitHub pull requests and issues,
-and the lessons are published using GitHub Pages.
-More details are given below:
-    *   [Data Carpentry on GitHub]({{ site.dc_github }})
-    *   [Software Carpentry on GitHub]({{ site.swc_github }})
-    *   [The Carpentries on GitHub](https://github.com/carpentries)
-*   Software and Data Carpentry share public discussion lists
-that host everything from lively discussion on teaching practices
-to job postings and general announcements:
-    * [General Discussion list](http://lists.software-carpentry.org/listinfo/discuss)  
-    * [Other lists](http://lists.software-carpentry.org/)  
-*   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/).
-*   Host monthly community calls and weekly instructor discussion sessions:
-    * Check out our [community calendar](https://software-carpentry.org/join/)
-*   You can also find us on
-    * Twitter:
-        *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
-        *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
-        *   [The Carpentries on Twitter](https://twitter.com/thecarpentries)
-    *   [Slack](https://swc-slack-invite.herokuapp.com/)
-    *   [Facebook](https://www.facebook.com/carpentries/)
 
 > ## Get Connected
 >
