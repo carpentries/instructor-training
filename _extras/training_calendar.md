@@ -18,8 +18,7 @@ Training dates for September - December will be announced in July 2018.
 # North America
 
 ##### Eastern time
-* June 12-13
-* August 28-29
+*Additional training dates will be scheduled for Fall 2018*
 
 ##### Central time
 * June 27-28
@@ -28,7 +27,6 @@ Training dates for September - December will be announced in July 2018.
 * July 18-19
 
 ##### Pacific time
-* June 11-12
 * August 14-15
 
 # Europe
