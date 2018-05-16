@@ -11,7 +11,7 @@ After you have finished the two-day training class,
 you must go through these steps to complete your training and be
 fully certified as a Data and Software Carpentry instructor:
 
-1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
+1.  Make (and [send us a link to]({{ site.contact }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
