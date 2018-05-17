@@ -56,7 +56,7 @@ Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Belief
 :   Compares teachers' opinions about common programming errors with data from over 100,000 students,
     and finds only weak consensus amongst teachers and between teachers and data.
 
-Carroll, Smith-Kerker, Ford, and Mazur-Rimetz: "[The Minimal Manual](http://dx.doi.org/10.1207/s15327051hci0302_2)" *Human–Computer Interaction*, 3:2, 123-153, 1987.
+Carroll, Smith-Kerker, Ford, and Mazur-Rimetz: "[The Minimal Manual](https://doi.org/10.1207/s15327051hci0302_2)" *Human–Computer Interaction*, 3:2, 123-153, 1987.
 :   Outlines an approach to documentation and instruction
     in which each lesson is one page long and describes how to accomplish one concrete task.
     Its focus on immediate application,
