@@ -10,6 +10,8 @@ Please see <https://carpentries.github.io/instructor-training/> for a rendered v
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
+THIS IS A DEVELOPMENT COPY
+
 **Maintainer(s):**
 
 * [Erin Becker][becker_erin]
