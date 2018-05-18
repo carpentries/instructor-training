@@ -28,7 +28,7 @@ about how a Carpentry workshop operates.
 > 
 > If you are at an in-person training, your instructor will hand out paper copies of 
 > a worksheet. If you are at an online training, you can get a 
-> [digital copy here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
+> [digital worksheet here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
 > 
 > In groups of 3-4, fill out this worksheet, listing all of the teaching strategies
 > and techniques you would use at each stage of a workshop. Be sure to include
@@ -59,7 +59,8 @@ about how a Carpentry workshop operates.
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The Software Carpentry instructor guides are linked on each lesson page; the 
 > instructor guides for Data Carpentry lessons are on 
-> their [main lesson page]({{ site.dc_site }}/lessons/).  
+> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
 {: .callout}
 
 > ## Learners Use Their Own Machines

@@ -12,8 +12,8 @@ re-activate their Trainer status at any time by resuming Trainer activities.
 
 ## II. Becoming a Trainer
 The Trainers group periodically accepts new members via application. New 
-Trainers undergo an eight-week training program outlined 
-[in this document][trainer-process] and
+Trainers undergo an eight-week training program outlined in
+[the trainer process document][trainer-process] and
 agree to the [Trainer Agreement][trainer-agreement].
 
 ## III. Trainer Meetings
@@ -105,22 +105,27 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
-- When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while your co-Trainer teaches.  
-- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
+- When the room host clicks “End Meeting”, a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are simply leaving the room temporarily while your co-Trainer teaches.  
+- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants' assignments manually if desired.  
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
 ### General tips:  
-- “Gallery view” in the upper right toggles the display to show more participants videos.  
-- “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
-- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.  
+- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
+- “Gallery view” in the upper right toggles the display to show more participants' videos.  
+- “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
+- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop. 
+- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
+- During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
+- When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
+- Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session. 
 
 ## IIX. Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
+If you would like to watch an example, here is a [recording of a teaching demo][demo-video].  
 
 ### Before the demo
 -  Sign up to [lead demos][demo-pad].  
+-  A day or two before the demo, send a reminder email, see the template (below).
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - listed below. Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ### Shortly Before the Demo
@@ -159,11 +164,11 @@ Any episode other than those listed below should make an okay starting point for
    *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
    
 *  DC (stable lessons only)
-  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_pages }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-  * [SQL for Ecology]({{ site.dc_pages }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
-  * [R for Ecology]({{ site.dc_pages }}/R-ecology-lesson/00-before-we-start.html) - no live coding
-  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_pages }}/R-ecology-lesson/03-dplyr.html) - dependencies
-  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_pages }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
+  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+  * [SQL for Ecology]({{ site.dc_site }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
+  * [R for Ecology]({{ site.dc_site }}/R-ecology-lesson/00-before-we-start.html) - no live coding
+  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_site }}/R-ecology-lesson/03-dplyr.html) - dependencies
+  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_site }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
   
 *  LC (stable lessons only)
   * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
@@ -229,7 +234,7 @@ Hi everyone,
 Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed
 having you involved and getting to know you a bit. You are now well on your way towards 
 becoming a certified Carpentry instructor. In order to finish your certification, please 
-finish the tasks listed [here][checkout-checklist] by the 90-day deadline. If you have any questions about the 
+finish the tasks listed on [the checkout checklist][checkout-checklist] by the 90-day deadline. If you have any questions about the 
 checkout process, please contact checkout@carpentries.org. 
 
 Looking forward to having you as a Carpentry Instructor!
@@ -242,7 +247,7 @@ Best,
 
 Hello,
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at *Insert Time* in a [Zoom meeting room](https://carpentries.zoom.us/j/357144246). Please read this short bi-lingual description of how Teaching Demo session works [here](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at *Insert Time* in a [Zoom meeting room](https://carpentries.zoom.us/j/357144246). Please read this short bi-lingual description of [How Teaching Demo session works](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
 
 Please let me know if you have any questions or concerns.
 
@@ -257,7 +262,7 @@ Best/Saludos,
 [ name ]
 
 
-[trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
+[trainer-agreement]: https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html
 [trainer-process]: https://docs.google.com/document/d/14Zi_W9uk1wua2v3zy8um6oMCnvO41Qfo1KwStCA-hos/edit
 [trainer-pad]: http://pad.software-carpentry.org/trainers
 [community-calendar]: http://pad.software-carpentry.org/trainers

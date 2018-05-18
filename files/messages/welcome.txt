@@ -8,9 +8,9 @@ Importantly, class will be from 9:00 am - 4:15 pm both days. We will have a one 
 
 **In order to prepare:**
 
-1.  Please this paper, which provides a brief overview of some key evidence-based results in teaching:
+1.  Please read this paper, which provides a brief overview of some key evidence-based results in teaching:
 
-    * "The Science of Learning" (https://http://carpentries.github.io/instructor-training/checkout/.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+    * "The Science of Learning" (https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
 
 2.  Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one episode* from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
 
@@ -31,13 +31,13 @@ Thanks again,
 
 p.s. If you are interested in doing more reading, you may enjoy:
 
-* How Learning Works (http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/), which is an excellent summary of current research in teaching and learning
+* How Learning Works (https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489), which is an excellent summary of current research in teaching and learning
 
-* Building a Better Teacher (http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/), a well-written look at why educational reforms in the past 50 years have mostly missed the mark and about what we should be doing instead.
+* Building a Better Teacher (https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081), a well-written look at why educational reforms in the past 50 years have mostly missed the mark and about what we should be doing instead.
 
-* Small Teaching (https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/), which presents strategies for improving teaching practices that don't require significant resources.
+* Small Teaching (https://www.worldcat.org/title/small-teaching-everyday-lessons-from-the-science-of-learning/oclc/968245403), which presents strategies for improving teaching practices that don't require significant resources.
 
-* Teaching What You Don't Know (http://www.amazon.com/Teaching-What-You-Dont-Know/dp/0674066170/), which is a situation many of us find ourselves in more often that we'd like.
+* Teaching What You Don't Know (https://www.worldcat.org/title/teaching-what-you-dont-know/oclc/806492013), which is a situation many of us find ourselves in more often that we'd like.
 
 Episodes
 --------
@@ -46,8 +46,8 @@ Please read through *one* of the episodes below carefully, so that you can do so
 
 Data Carpentry
 
-* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine.html
-* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html
+* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/
+* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries/
 * Starting with Data in R: http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html
 * Starting with Data in Python: http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
 
