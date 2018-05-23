@@ -233,9 +233,12 @@ Hi everyone,
 
 Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed
 having you involved and getting to know you a bit. You are now well on your way towards 
-becoming a certified Carpentry instructor. In order to finish your certification, please 
-finish the tasks listed on [the checkout checklist][checkout-checklist] by the 90-day deadline. If you have any questions about the 
-checkout process, please contact checkout@carpentries.org. 
+becoming a certified Carpentry instructor!
+
+If you did not get a chance to complete the post-workshop survey, please take a moment to do so [here](https://www.surveymonkey.com/r/post-instructor-training). We actively use these data to improve our workshops for future learners. 
+
+In order to finish your certification, please finish the tasks listed on [the checkout checklist][checkout-checklist] by the 
+90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
 
 Looking forward to having you as a Carpentry Instructor!
 
