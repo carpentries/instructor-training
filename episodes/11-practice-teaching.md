@@ -234,7 +234,7 @@ practice teaching and to get and give feedback tomorrow.
 *Co-teaching* describes any situation in which two teachers work
 together in the same classroom.  Friend and Cook's
 *[Interactions][worldcat-interactions]* describes several ways to do
-this:
+this; we use the following methods most frequently: 
 
 - **Team teaching:** Both teachers deliver a single stream of content
   in tandem, taking turns the way that musicians taking solos would.
@@ -246,21 +246,9 @@ this:
   with more intensive or specialized instruction while Teacher B
   delivers a general lesson to the main group.
 
-- **Teach and observe:** Teacher A teaches while Teacher B observes
-  the students, collecting data on their understanding to help plan
-  future lessons.
-
-- **Parallel teaching:** The class is divided into two equal groups
-  and the teachers present the same material simultaneously to each.
-
-- **Station teaching:** The students are divided into several small
-  groups that rotate from one station or activity to the next while
-  both teachers supervise where needed.
-
 All of these models are better than teaching alone because they create
-opportunities for lateral knowledge transfer; we use team teaching,
-teach and assist, and alternative teaching most often in programming
-workshops.  Team teaching is particularly beneficial in day-long
+opportunities for lateral knowledge transfer.
+Team teaching is particularly beneficial in day-long
 workshops: not only does it give each teacher's voice a chance to
 rest, it reduces the risk that they will be so tired by the end of the
 day that they will start snapping at their students or fumbling at
@@ -284,18 +272,39 @@ their keyboard.
 > The [helper checklist][helpers] describes what helpers can do to
 > help instructors in more detail.
 
-If you and a partner are co-teaching, try to follow these rules:
+> ## Teaching Together - Nuts and Bolts
+> 
+> With a partner, imagine that you are planning a workshop together 
+> and answer the following questions: 
+> 
+> - How would you prepare to teach a workshop together?  
+> - During the workshop, what are some things the assisting instructor
+can do (or shouldn't do!) to support the main instructor? 
+> 
+> As an entire group, discuss what you came up with and then compare 
+> to the recommendations below.  
+{: .challenge}
 
-- Take 2-3 minutes before the start of each class to confirm who's
-  teaching what with your partner.  (If you have time to do some
-  advance preparation, try drawing a concept map together.)
+If you and a partner are co-teaching, try to follow these recommendations:
 
-- Use that time to work out a couple of hand signals as well.  "You're
+- Coordinate who is teaching what, sufficiently in advance that 
+  both instructors are confident in their preparation.  Check in 
+  2-3 minutes before the start of each class where both of you 
+  will be teaching.  
+
+- If you have time to do some
+  advance preparation, try drawing a concept map together or 
+  teaching a short snippet of the lessons for each other. 
+
+- If it won't cause cognitive overload for you (the instructors) 
+  work out a couple of hand signals to communicate.  "You're
   going too fast", "speak up", "that learner needs help", and, "It's
   time for a bathroom break" are all useful.
 
 - Each person should teach for at least 10-15 minutes at a stretch,
-  since students may be distracted by more frequent interleaving.
+  since students may be distracted by more frequent interleaving. For 
+  Carpentries workshops, a single instructor usually teaches for a 
+  half-day stretch (2-3 hours).
 
 - The person who isn't teaching shouldn't interrupt, offer
   corrections, elaborations, or amusing personal anecdotes, or do
@@ -308,11 +317,14 @@ If you and a partner are co-teaching, try to follow these rules:
   teaching to see what their partner is going to teach after they're
   done, and then *not* present any of that material.
 
-- The person who isn't teaching should stay engaged with the class,
+- Whenever possible, the person who isn't teaching should stay engaged with the class,
   not catch up on their email.  Monitor the shared notes, keep an eye
   on the students to see who's struggling, jot down some feedback to
   give your teaching partner at the next break - anything that
-  contributes to the lesson is better than anything that doesn't.
+  contributes to the lesson is better than anything that doesn't.  It's 
+  easier for the other instructor to take a break if there are at least 
+  three instructors or sufficient helpers to make sure that the main 
+  instructor is supported.  
 
 Most importantly, take a few minutes when the class is over to either
 congratulate or commiserate with each other.  In teaching as in life,
@@ -321,7 +333,6 @@ no-one will understand how pleased you are at helping someone
 understand how loops work, or how disappointed you are that you just
 couldn't get software to install on that one learner's laptop, than
 the person you just taught with.
-
 
 ## Optional Exercises
 
