@@ -3,12 +3,12 @@ title: "The Carpentries: How We Operate"
 teaching: 30
 exercises: 35
 questions:
-- "How are Software and Data Carpentry organized and run?"
+- "How are Software, Data, and Library Carpentry organized and run?"
 objectives:
 - "Get connected with the Carpentry community."
 - "Describe where you can go to get information on running a workshop."
 keypoints:
-- "Carpentry materials are all openly licensed, but their names and logos are trademarked."
+- "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
 - "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information."
 
 ---
