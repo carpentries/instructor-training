@@ -20,20 +20,23 @@ about how you can get involved.
 
 ## History
 
-[Software Carpentry]({{ site.swc_site }} ) was founded in 1998 and 
-[Data Carpentry]({{ site.dc_site }}) was founded in 2013. You can learn more about the history
-and goals of each organization by reading 
-"[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)" and
-"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
+[Software Carpentry]({{ site.swc_site }} ) was founded in 1998,  
+[Data Carpentry]({{ site.dc_site }}) was founded in 2013, and [Library Carpentry](http://librarycarpentry.org/) 
+was founded in 2015. You can learn more about the history and goals of each organization by reading 
+"[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)", 
+"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)", and "[Library Carpentry: Software skills training for library professionals](https://www.liberquarterly.eu/articles/10.18352/lq.10176/)".
 
-*   Both focus on computational skills.
-*   Both run two-day workshops taught by volunteer instructors.
-*   Both strive to fill gaps in current training for researchers.
+*   All focus on computational skills.
+*   All run two-day workshops taught by volunteer instructors.
+*   All strive to fill gaps in current training.
 
 However, they differ in their content and intended audience.
 Data Carpentry workshops focus on best practices surrounding data.
 Its learners are not people who want to learn about coding,
-but rather those who have a lot of data and don't know what to do with it.
+but rather those who have a lot of data and don't know what to do with it. 
+While the intent of Library Carpentry is to help create 'data-savvy librarians' 
+who can use data and software in their own work as well as advocate for and train 
+others in their communities about efficient, effective, and reproducible data and software practices.
 
 Data Carpentry workshops:
 
@@ -48,16 +51,22 @@ computational challenges,
 *   not domain-specific, and
 *   modular---each Software Carpentry lesson is standalone.
 
+Library Carpentry workshops are:
+
+*   aimed at pure novices,
+*   not domain-specific, and
+*   modular---each lesson is a standalone.
+
 ![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
 
 In February 2017, Software and Data Carpentry began to discuss merging the two organizations. Software and Data 
 Carpentry formed an umbrella organization ("The Carpentries"), with a shared governance, 
-community structure, and policies in January, 2018. Each organization will maintain their own curricular materials.
+community structure, and policies in January, 2018. In May, 2018, The Carpentries Executive Council and the Library Carpentry Governance Group agreed to begin the process of aligning operations and Library Carpentry as a Lesson Organization. All  organizations will continue to maintain their own curricular materials.
 
 ## The Carpentry Community
 
 The Carpentry Community has several parts, which function together to spread data skills and 
-computational literacy among researchers and other professionals worldwide. 
+computational literacy among researchers, librarians, and other professionals worldwide. 
 
 - **Instructors (Mentors)** teach workshops and form the cornerstone of the Carpentry community. They help new instructors integrate into the community by leading discussion sessions. Some also lead small [mentoring groups](https://software-carpentry.org/join/subcom/mentoring/) to help new instructors prepare for their first few workshops.
 
@@ -79,6 +88,8 @@ computational literacy among researchers and other professionals worldwide.
 
 - **Workshop Coordinators** help to plan and run Carpentries workshops at their institutions.
 
+- The **Library Carpentry Governance Group** provides strategic guidance and decision making for Library Carpentry.
+
 > ## Participating in the Carpentries -- What's Your Role?
 >
 > If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v2.pdf).
@@ -95,6 +106,9 @@ There are many ways to get connected with the Carpentry community:
     *   [Data Carpentry]({{ site.dc_site }})
         *   [Blog]({{ site.dc_site }}/blog/)
         *   [Get Involved]({{ site.dc_site }}/involved/)
+    *   [Library Carpentry](http://librarycarpentry.org/)
+        *   [Blog](http://librarycarpentry.org/blog/)
+        *   [Get Involved](http://librarycarpentry.org/#contact)
     *   [The Carpentries](https://carpentries.org)
         *   [Blog](https://carpentries.org/blog/)
         *   [Get Involved](https://carpentries.org/community)
@@ -104,12 +118,14 @@ and the lessons are published using GitHub Pages.
 More details are given below:
     *   [Data Carpentry on GitHub]({{ site.dc_github }})
     *   [Software Carpentry on GitHub]({{ site.swc_github }})
+    *   [Library Carpentry on GitHub](https://github.com/LibraryCarpentry/)
     *   [The Carpentries on GitHub](https://github.com/carpentries)
-*   Software and Data Carpentry share public discussion lists
+*   Software, Data, and Library Carpentry share public discussion lists
 that host everything from lively discussion on teaching practices
 to job postings and general announcements:
     * [General Discussion list](http://lists.software-carpentry.org/listinfo/discuss)  
     * [Other lists](http://lists.software-carpentry.org/)  
+    * [Library Carpentry Topicbox Group](https://carpentries.topicbox.com/groups/discuss-library-carpentry) 
 *   We publish a [joint newsletter](http://www.datacarpentry.org/newsletter/).
 *   Host monthly community calls and weekly instructor discussion sessions:
     * Check out our [community calendar](https://software-carpentry.org/join/)
@@ -117,8 +133,10 @@ to job postings and general announcements:
     * Twitter:
         *   [Software Carpentry on Twitter](https://twitter.com/swcarpentry)
         *   [Data Carpentry on Twitter](https://twitter.com/datacarpentry)
+        *   [Library Carpentry on Twitter](https://twitter.com/libcarpentry)
         *   [The Carpentries on Twitter](https://twitter.com/thecarpentries)
     *   [Slack](https://swc-slack-invite.herokuapp.com/)
+    *   [Library Carpentry Gitter](https://gitter.im/LibraryCarpentry/Lobby)
     *   [Facebook](https://www.facebook.com/carpentries/)
 
 > ## Get Connected
@@ -139,13 +157,15 @@ your institution, information can be found on the [request a Software Carpentry 
 If you would like to host a Data Carpentry workshop at your
 institution, visit [Data Carpentry centrally-organized workshops](http://www.datacarpentry.org/workshops-host/) and [Data Carpentry self-organized workshops](http://www.datacarpentry.org/self-organized-workshops/).
 
-Policies related to instructor training and workshops for both Software Carpentry and
-Data Carpentry can be found in [the policies repository](https://github.com/carpentries/policies). Please
+If you would like to host a Library Carpentry workshop at your
+institution, visit [contact Library Carpentry](http://librarycarpentry.org/#contact).
+
+Policies related to instructor training and workshops for The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
 be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
 
 ### Materials
 
-All of Software Carpentry and Data Carpentry's lessons materials are freely available
+All of Software, Data, and Library Carpentry's lessons materials are freely available
 under a permissive [open license]({{ page.root }}/LICENSE).
 You may use them whenever and however you want,
 provided you cite the original source.
@@ -170,6 +190,9 @@ and a programming language (e.g. R or Python).
 A Data Carpentry workshop must include a Data Carpentry lesson on data organization and three
 other modules in the same domain from the Data Carpentry curriculum. 
 
+A Library Carpentry workshop must include lessons on Data Intro and Shell together with OpenRefine, Git, and/or 
+other Library Carpentry modules.
+
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
 which exercises you use, and whether you include optional materials (e.g. callouts) and 
 optional episodes.  
@@ -177,7 +200,7 @@ optional episodes.
 ### Who Can Teach What
 
 As of March 2017, a trained instructor can teach curricula for either
-Software Carpentry or Data Carpentry and are no longer required to certify separately for each:
+Software, Data, or Library Carpentry and are no longer required to certify separately for each:
 see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
 for details.
 
@@ -192,7 +215,7 @@ the [workshop coordinator](mailto:admin@software-carpentry.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
-> ## Practice With SWC or DC Infrastructure
+> ## Practice with SWC, DC, or LC Infrastructure
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }}) 
 > and follow the directions to create a workshop website using your local location and today's date.
@@ -223,11 +246,12 @@ and improve the lessons via "bug fixes" as we go along.
 
 ### Lesson Contribution
 
-The lesson materials for Software and Data Carpentry
+The lesson materials for Software, Data, and Library Carpentry
 are hosted on GitHub:
 
 *   [Data Carpentry on GitHub]({{ site.dc_github }})
 *   [Software Carpentry on GitHub]({{ site.swc_github }})
+*   [Library Carpentry on GitHub](https://github.com/LibraryCarpentry)
 
 and are developed collaboratively.  Each lesson is in a separate
 repository, and consists of narrative lesson material and an
@@ -257,8 +281,8 @@ be discussed before changes are merged.
 > ## Lesson Incubation
 > 
 > Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software and
-> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).  
+> own fantastic lesson!  If you'd like to model it after the Software, Data, and 
+> Library Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).  
 {: .callout}
 
 > ## Many Ways to Contribute
