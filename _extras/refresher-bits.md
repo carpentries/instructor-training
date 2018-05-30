@@ -1,5 +1,5 @@
-#Short Reminder and Refresher Text for Instructor Training
-##Dismissive language
+# Short Reminder and Refresher Text for Instructor Training
+## Dismissive language
 Have you caught yourself using "the J Word" lately? Do you reassure your learners that they can be successful by suggesting 
 that a task is "easy"? Don't forget to remember: tasks that are familiar to you but are new to your learners are rarely easy
 for learners! Asking learners to "just" perform a task suggests to them that, if it is hard for them, there might be something
