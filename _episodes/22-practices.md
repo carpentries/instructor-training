@@ -1,5 +1,5 @@
 ---
-title: "The Carpentries: Teaching Practices"
+title: "Teaching Practices"
 teaching: 15
 exercises: 15
 questions:
