@@ -5,13 +5,13 @@ permalink: /guide/
 ---
 
 ## I. Trainer Duties
-As of May 2017, the Trainers group adopted a 
-[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active 
+As of May 2017, the Trainers group adopted a
+[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active
 Trainers are voting members of the Trainer community. An inactive Trainer may
 re-activate their Trainer status at any time by resuming Trainer activities.
 
 ## II. Becoming a Trainer
-The Trainers group periodically accepts new members via application. New 
+The Trainers group periodically accepts new members via application. New
 Trainers undergo an eight-week training program outlined in
 [the trainer process document][trainer-process] and
 agree to the [Trainer Agreement][trainer-agreement].
@@ -65,7 +65,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 -  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
-### Long-term after the event 
+### Long-term after the event
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
 ## VI. Differences Among Training Types
@@ -75,7 +75,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 - Assign (or let participants select) physical breakout groups.  
 - Use physical sticky notes to get minute card feedback at lunch breaks and end of each day.  
 
-### Online trainings (a few small groups) 
+### Online trainings (a few small groups)
 - When watching videos, have one Trainer do a screenshare with their audio on or have one person in each group play the video for the participants at their site.  
 - Assign (or let participants select) physical breakout groups.  
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
@@ -83,7 +83,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 ### Online trainings (completely distributed)  
 - When watching videos, have all participants watch separately.  
-- Assign breakout groups randomly to breakout rooms in Zoom. Be sure to remove Trainers and helpers when assigning groups. 
+- Assign breakout groups randomly to breakout rooms in Zoom. Be sure to remove Trainers and helpers when assigning groups.
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
@@ -93,14 +93,14 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
 
-About a week before your event, you will be given login credentials for a Carpentry account. 
-This account will be the host for the event and will have extra privileges including the 
+About a week before your event, you will be given login credentials for a Carpentry account.
+This account will be the host for the event and will have extra privileges including the
 ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host
 can transfer host privileges to other participants, so you will be able to trade host status
 back and forth with your co-Trainers during the event.  
 
 All Carpentry online events are set-up such that participants can enter the room without the
-host being present. If you ever get an error message saying you can’t join the room because 
+host being present. If you ever get an error message saying you can’t join the room because
 you’re not the host, please contact Carpentry staff immediately.   
 
 ### Host abilities:  
@@ -109,15 +109,24 @@ you’re not the host, please contact Carpentry staff immediately.
 - Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants' assignments manually if desired.  
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
-### General tips:  
+### General tips for online training:  
+- **Support the lead**
+- It's tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are: 
+  - Monitor the chat in zoom/notes
+  - Help post exercises + provide instructions
+  - Find links or references
 - Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
+- **Exercise management**
+- After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. (G.W.)
+- Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
+- **Zoom tips**
 - “Gallery view” in the upper right toggles the display to show more participants' videos.  
 - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
-- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop. 
+- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.
 - The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
 - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
 - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
-- Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session. 
+- Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
 
 ## IIX. Running a Teaching Demonstration  
 
@@ -144,13 +153,13 @@ If you would like to watch an example, here is a [recording of a teaching demo][
 -  At the end of the season, ask for general questions.  
 -  If all of your trainees passed, you can tell the group at the end of the demo session. If anyone did not pass, tell everyone you will send them each an email to let them know if they passed.  
 
-### After the Demo 
+### After the Demo
 -  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
 -  Clear Etherpad of data from your session.  
 -  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
 
 ### Not Good Starting Points for Demos
-Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
+Any episode other than those listed below should make an okay starting point for a teaching demonstration.
 
 *  SWC
    *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
@@ -162,14 +171,14 @@ Any episode other than those listed below should make an okay starting point for
    *  [Programming with Python 09-debugging]({{ site.swc_pages }}/python-novice-inflammation/09-debugging/) - no live coding
    *  [R for Reproducible Scientific Analysis 16-wrap-up]({{ site.swc_pages }}/r-novice-gapminder/16-wrap-up/) - no live coding
    *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
-   
+
 *  DC (stable lessons only)
   * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
   * [SQL for Ecology]({{ site.dc_site }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
   * [R for Ecology]({{ site.dc_site }}/R-ecology-lesson/00-before-we-start.html) - no live coding
   * R for Ecology - anything after [Manipulating data frames]({{ site.dc_site }}/R-ecology-lesson/03-dplyr.html) - dependencies
   * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_site }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
-  
+
 *  LC (stable lessons only)
   * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
   * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
@@ -192,53 +201,53 @@ For example, if you have chosen The Unix Shell, I may assign you any episode lis
 Please visit the Etherpad a little while before the demo starts, I will post a link there to another Etherpad we will be using for this demo.
 
 See you at the demo session,
-[ name ] 
+[ name ]
 
 ### Trainee didn’t pass teaching demo
 
-Hi [ name ], 
+Hi [ name ],
 
-Thank you for doing a teaching demonstration. While you demonstrated good command of the 
-subject material, I’ve determined not to pass you based on [ reason ] . 
+Thank you for doing a teaching demonstration. While you demonstrated good command of the
+subject material, I’ve determined not to pass you based on [ reason ] .
 [ Explanation of this reason. ]  We are excited about having you as a Carpentry instructor and
-I would be happy to see you do another teaching demonstration [ making these changes ] to 
-certify as an instructor. 
+I would be happy to see you do another teaching demonstration [ making these changes ] to
+certify as an instructor.
 
-Please let me know if you have any questions. 
+Please let me know if you have any questions.
 
 Best wishes,
-[ name ] 
+[ name ]
 
 ### Trainee did pass teaching demo
 
-Hi [ name ], 
+Hi [ name ],
 
 I’m happy to tell you that you have passed your teaching demonstration! You demonstrated good
-command of the subject material and a solid understanding of Carpentry teaching methods. We 
-are excited about having you as a Carpentry instructor. I’ve forward this information to our 
-staff. If this was the last stage in your instructor training checkout, you should get your 
+command of the subject material and a solid understanding of Carpentry teaching methods. We
+are excited about having you as a Carpentry instructor. I’ve forward this information to our
+staff. If this was the last stage in your instructor training checkout, you should get your
 official Carpentry Instructor certificate in about a week, along with instructions for signing
-up to teach workshops. If you still have steps remaining in your checkout, please be sure to 
-complete them before your deadline. If you have any questions, please email 
+up to teach workshops. If you still have steps remaining in your checkout, please be sure to
+complete them before your deadline. If you have any questions, please email
 checkout@carpentries.org.
 
 Welcome to the Carpentry Instructor community!
 
 Best wishes,
-[ name ] 
+[ name ]
 
 ### Email after training event
 
-Hi everyone, 
+Hi everyone,
 
 Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed
-having you involved and getting to know you a bit. You are now well on your way towards 
+having you involved and getting to know you a bit. You are now well on your way towards
 becoming a certified Carpentry instructor!
 
-If you did not get a chance to complete the post-workshop survey, please take a moment to do so [here](https://www.surveymonkey.com/r/post-instructor-training). We actively use these data to improve our workshops for future learners. 
+If you did not get a chance to complete the post-workshop survey, please take a moment to do so [here](https://www.surveymonkey.com/r/post-instructor-training). We actively use these data to improve our workshops for future learners.
 
-In order to finish your certification, please finish the tasks listed on [the checkout checklist][checkout-checklist] by the 
-90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
+In order to finish your certification, please finish the tasks listed on [the checkout checklist][checkout-checklist] by the
+90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org.
 
 Looking forward to having you as a Carpentry Instructor!
 
@@ -279,5 +288,3 @@ Best/Saludos,
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
 [demo-pad]: http://pad.software-carpentry.org/teaching-demos
 [demo-rubric]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
-
-
