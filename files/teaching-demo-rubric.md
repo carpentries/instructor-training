@@ -3,13 +3,13 @@ This rubric is provided as a guide for Trainers evaluating potential new instruc
 Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
 skills.
 
-In general, these demonstrations have a very low (<5%) failure rate. When a trainee is asked to redo a demo, it is simply a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Negative" columns below should probably be asked to redo their demonstration. Even one 
+In general, these demonstrations have a very high (over 95%) pass rate. When a trainee is asked to redo a demo, it is usually a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Negative" columns below should probably be asked to try again. Even one 
 mark in a "Negative" column can be considered justification for asking a trainee to redo their demonstration if the problem is significant. As always,
 Trainers should use their own judgement when applying this rubric in individual cases.  
 
 |Positive Content|Negative Content|
 |------|---------------------|
-Uses official curriculum with only minor deviations|Deviates significantly or doesn't use official curriculum|
+Uses Carpentries curriculum with only minor deviations|Deviates significantly or doesn't use Carpentries curriculum|
 Places content in context and explains relevance/utility to learners|Jumps into the content without context|
 Teaches content correctly|Makes factual errors in content and doesn't correct|
 
@@ -38,7 +38,7 @@ Date:
 |------|---------------------|
 |<br>Sticks to curriculum<br>|
 |<br>Context|
-|<br>Knowledge|
+|<br>Content Knowledge|
 |<br>Mirror learner's environment|
 |<br>Font & window size|
 |<br>Explanation of typing|
