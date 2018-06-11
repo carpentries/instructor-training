@@ -86,7 +86,7 @@ if you'd prefer a brief summary.
 > Assessment is very important to us! Please take 5 minutes to complete 
 > this [five-minute post-workshop survey]({{site.training_post_survey}}).
 >
-> This exercise should take 10 minutes.  
+> This exercise should take 5 minutes.  
 {: .challenge}
 
 ## Thank You

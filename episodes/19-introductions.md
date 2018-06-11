@@ -23,11 +23,12 @@ components that go into an effective introduction.
 > ## Your Academic Past
 > 
 > Think back to courses or workshops you really liked or didn't like.
-> How did those courses start? Were you confident in the
-instructors abilities? Did you feel like they were
-enthusiastic about the course and invested in you? Was it clear
-what you were going to be learning? Were you excited about the material? Or did you leave that first day thinking
-the instructor was uninterested, that you weren't the learners they wanted to
+> - How did those courses start?
+> - Were you confident in the instructors abilities?
+> - Did you feel like they were enthusiastic about the course and invested in you?
+> - Was it clear what you were going to be learning?
+> - Were you excited about the material?
+> - Did you leave that first day thinking the instructor was uninterested, that you weren't the learners they wanted to
 be teaching or you had no idea what the course was supposed to be about?
 {: .discussion}
 
@@ -188,7 +189,7 @@ that they will be ready to work in groups or dialogue with each other.
 > 'stars' and a thing they're proud of that they made. 
 {: .callout}
 
-Other examples of Icebreakers can be found [on this page][icebreakers].  
+Head here for [more examples of Icebreakers][icebreakers].  
 
 ### 5. Set the Tone for the Workshop
 
