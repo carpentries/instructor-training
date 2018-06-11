@@ -97,7 +97,7 @@ learners.
 > contains this list of evidence-based methods to motivate learners.
 >
 > In groups of two or three, pick three of these points and briefly describe
-> in the Etherpad how can we apply these strategies in our workshops.
+> in the Etherpad how we can apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
 >     1. Connect the material to students' interests.
