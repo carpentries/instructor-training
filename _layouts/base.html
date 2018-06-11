@@ -8,7 +8,7 @@
     <meta http-equiv="last-modified" content="{{ site.time }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
-    <meta name="search-domain" value="{{ site.github.url }}">
+    <meta name="search-domain" value="{{ site.github.html_url }}">
     <link rel="stylesheet" type="text/css" href="{{ page.root }}/assets/css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="{{ page.root }}/assets/css/bootstrap-theme.css" />
     <link rel="stylesheet" type="text/css" href="{{ page.root }}/assets/css/lesson.css" />
@@ -27,6 +27,13 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
     <title>{{ site.title }}{% if page.title %}: {{ page.title }}{% endif %}</title>
+    
+    <meta property="og:url" content="{{ page.root }}/{{ page.url }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="Lesson episode summary - keypoints?" />
+<meta property="og:image" content="http://christinalk.github.io/instructor-training/assets/img/swc-icon-blue.svg" />
+
   </head>
   <body>
     <div class="container">
