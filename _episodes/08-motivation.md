@@ -231,7 +231,7 @@ favorite scripting language.
 ## Psychological Demotivators
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
-of text editors and levels of technical knowledge. This helps a lot in avoid 
+of text editors and levels of technical knowledge. This helps a lot in avoiding 
 demotivating learners. There are other factors, however, that contribute to demotivation, 
 some of which are either systemic, or built into our psychological makeup as human beings. 
 We can still have a positive impact in fighting these demotivators by thinking carefully about 
@@ -333,7 +333,7 @@ for teaching about and dealing with imposter syndrome.
 > 
 > Think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
-> In the Etherpad, describe how you might you use this as a motivational story to help your learners 
+> In the Etherpad, describe how you might use this as a motivational story to help your learners 
 > overcome their own imposter syndrome. 
 > 
 > This exercise should take about 5 minutes. 
