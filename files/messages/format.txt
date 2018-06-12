@@ -20,5 +20,5 @@ The exclamation point at the start tells Markdown that this is an image link, ra
 If you have questions, please throw them our way, or join our 'discuss' list and post them there.
 
 [1] https://help.github.com/articles/basic-writing-and-formatting-syntax/
-[2] http://swcarpentry.github.io/lesson-example/01-one.html
-[3] https://raw.githubusercontent.com/swcarpentry/lesson-example/gh-pages/01-one.md
+[2] http://carpentries.github.io/lesson-example/01-one.html
+[3] https://raw.githubusercontent.com/carpentries/lesson-example/gh-pages/01-one.md
