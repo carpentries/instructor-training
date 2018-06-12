@@ -280,7 +280,7 @@ Best/Saludos,
 [community-calendar]: http://pad.software-carpentry.org/trainers
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
-[training-template]: https://github.com/swcarpentry/training-template
+[training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1ZvNx2co9BLEBTzDavUE7ZkAhkekBa19_5aIRFAdQIqw/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/

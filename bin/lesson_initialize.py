@@ -68,19 +68,19 @@ and to meet some of our community members.
     which can be viewed at <https://swcarpentry.github.io/FIXME>.
 
 2.  If you wish to change the example lesson,
-    please work in <https://github.com/swcarpentry/lesson-example>,
+    please work in <https://github.com/carpentries/lesson-example>,
     which documents the format of our lessons
-    and can be viewed at <https://swcarpentry.github.io/lesson-example>.
+    and can be viewed at <https://carpentries.github.io/lesson-example>.
 
 3.  If you wish to change the template used for workshop websites,
-    please work in <https://github.com/swcarpentry/workshop-template>.
+    please work in <https://github.com/carpentries/workshop-template>.
     The home page of that repository explains how to set up workshop websites,
-    while the extra pages in <https://swcarpentry.github.io/workshop-template>
+    while the extra pages in <https://carpentries.github.io/workshop-template>
     provide more background on our design choices.
 
 4.  If you wish to change CSS style files, tools,
     or HTML boilerplate for lessons or workshops stored in `_includes` or `_layouts`,
-    please work in <https://github.com/swcarpentry/styles>.
+    please work in <https://github.com/carpentries/styles>.
 
 ## What to Contribute
 
@@ -200,11 +200,11 @@ swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
 swc_pages: "https://swcarpentry.github.io"
 lc_site: "https://librarycarpentry.github.io/"
-template_repo: "https://github.com/swcarpentry/styles"
-example_repo: "https://github.com/swcarpentry/lesson-example"
-example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+template_repo: "https://github.com/carpentries/styles"
+example_repo: "https://github.com/carpentries/lesson-example"
+example_site: "https://carpentries.github.com/lesson-example"
+workshop_repo: "https://github.com/carpentries/workshop-template"
+workshop_site: "https://carpentries.github.io/workshop-template"
 training_site: "https://carpentries.github.io/instructor-training"
 
 # Surveys.
