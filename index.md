@@ -46,7 +46,7 @@ Feedback on these materials is welcome as an [issue][issues] on the Github repos
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-[application-form]: https://amy.software-carpentry.org/workshops/request_training/
+[application-form]: https://amy.software-carpentry.org/forms/request_training/
 [conduct]: {{ page.root }}/conduct/
-[license]: {{ page.root }}/license/
+[license]: {{ page.root }}/LICENSE.html
 [issues]: {{ site.github.repository_url }}/issues
