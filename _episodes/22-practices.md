@@ -60,7 +60,7 @@ about how a Carpentry workshop operates.
 > The Software Carpentry instructor guides are linked on each lesson page; the 
 > instructor guides for Data Carpentry lessons are on 
 > their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
 {: .callout}
 
 > ## Learners Use Their Own Machines
