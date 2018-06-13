@@ -246,5 +246,5 @@ accessibility, etc.
 These materials are adapted from [Carnegie Melon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
-[icebreakers]: {{ page.root }}/icebreakers
-[credits]: http://www.cmu.edu/teaching/designteach/teach/firstday.html
+[icebreakers]: {{ page.root }}/icebreakers/
+[credits]: https://www.cmu.edu/teaching/designteach/teach/firstday.html

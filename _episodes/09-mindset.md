@@ -155,7 +155,7 @@ passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty?
 > 
-> A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome/) asked you to think of a time when learning something was difficult for you, or
+> A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
 > 
 > How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?
@@ -175,8 +175,8 @@ Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as 
 demanding tasks".
 
 Lifelong learning arises from those who have the growth mindset. Both grit and 
-[curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
-[success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
+[curiosity](https://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
+[success factors in lifelong learning](https://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
 Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve 
 long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in learners.
 
