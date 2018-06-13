@@ -491,7 +491,7 @@ such as:
 {: .challenge}
 
 
-[ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
+[ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
 [worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
 [worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
@@ -504,9 +504,9 @@ such as:
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
-[swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
+[swc-python-v4]: http://v4.software-carpentry.org/python/flow.html
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessible]: http://www.w3.org/WAI/training/accessible
+[w3c-accessible]: http://www.w3.org/WAI/teach-advocate/accessible-presentations/
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome

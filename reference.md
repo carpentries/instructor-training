@@ -106,7 +106,7 @@ Wiggins and McTighe: "[UbD in a Nutshell]({{ page.root }}/files/papers/wiggins-m
 Wilson et al: "[Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)".
 :   Describes and justifies a minimal set of computing practices that every researcher could and should adopt.
 
-Wilson et al: "[Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745)"
+Wilson et al: "[Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)"
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
 Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
@@ -124,4 +124,4 @@ Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
 [worldcat-twydk]: https://www.worldcat.org/title/teaching-what-you-dont-know/oclc/806492013
 [worldcat-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
 [discovering-speech]: https://books.google.com/books?id=IoTdAUdNkgIC&pg=PA302#v=onepage&q&f=false/
-[swc-lessons-learned]: http://f1000research.com/articles/3-62/v2
+[swc-lessons-learned]: https://f1000research.com/articles/3-62/v2
