@@ -10,8 +10,6 @@ Please see <https://carpentries.github.io/instructor-training/> for a rendered v
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
-
-
 **Maintainer(s):**
 
 * [Erin Becker][becker_erin]
@@ -19,7 +17,7 @@ or run `make` in this directory for a list of helpful commands.
 * Karen Word
 
 [dc-site]: http://datacarpentry.org
-[lesson-example]: https://swcarpentry.github.io/lesson-example
+[lesson-example]: https://carpentries.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
 [koch_christina]: http://software-carpentry.org/team/#koch_christina
 [becker_erin]: http://www.datacarpentry.org/people/#becker_erin
