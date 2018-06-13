@@ -32,11 +32,9 @@ Training dates for September - December will be announced in July 2018.
 # Europe
 
 ##### Western European time
-* May 24-25
 * August 16-17 *(note change since this calendar was originally published)*
 
 ##### Central European time
-* June 20-21
 * July 30-31
 
 

@@ -4,7 +4,7 @@ teaching: 20
 exercises: 25
 questions:
 - "How should I use learning objectives when preparing to teach?"
-- "How can I adapt my teaching in response to formative assessment"
+- "How can I adapt my teaching in response to formative assessment?"
 objectives:
 - "Create a learner profile for someone likely to attend a workshop you will teach."
 - "Identify the information about learners' understanding you hope to gain from a particular exercise and how you will use this information to guide your teaching."
