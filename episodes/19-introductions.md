@@ -111,7 +111,7 @@ challenges as the learners, so you remain accessible.
 **What will you need to say to convey those characteristics?**
 Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
-authority, and to make to workshop more relevant.
+authority, and to make the workshop more relevant.
 
 **Why are you teaching a Software or Data Carpentry workshop?**
 Why are you an instructor? What's motivating you to be there today? One
