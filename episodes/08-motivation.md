@@ -243,7 +243,7 @@ even in subtle ways, can make them anxious about the risk of confirming those st
 their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
 and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
 only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][wolrd-cat-clubhouse]*
+There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
 and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
 summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in 
 the classroom.
