@@ -148,7 +148,7 @@ Carpentry workshops. Convey what your expectations are.
 **Highlight main aspects of the schedule.**
 
 **Communicate the workshop structure** so the learners will
-understand the decisions that have made in designing the workshop. 
+understand the decisions that have been made in designing the workshop. 
 Make sure to highlight
 the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
