@@ -123,7 +123,7 @@ you’re not the host, please contact Carpentry staff immediately.
 - “Gallery view” in the upper right toggles the display to show more participants' videos.  
 - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
+- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms, and people who have just joined a room can't see previously posted chat items). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
 - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
 - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
 - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
@@ -162,9 +162,9 @@ If you would like to watch an example, here is a [recording of a teaching demo][
 Any episode other than those listed below should make an okay starting point for a teaching demonstration.
 
 *  SWC
-   *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
+   *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro/) - no live coding
    *  [Version Control with Git 01-basics]({{ site.swc_pages }}/git-novice/01-basics/) - no live coding
-   *  Version Control with Git - anything after [Tracking Changes]({{ site.swc_pages }}/git-novice/04-changes) - dependencies
+   *  Version Control with Git - anything after [Tracking Changes]({{ site.swc_pages }}/git-novice/04-changes/) - dependencies
    *  [Version Control with Mercurial]({{ site.swc_pages }}/hg-novice/01-basics/) - no live coding
    *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/) - dependencies
    *  [Databases and SQL 08-hygiene]({{ site.swc_pages }}/sql-novice-survey/08-hygiene/) - no live coding
@@ -177,12 +177,12 @@ Any episode other than those listed below should make an okay starting point for
   * [SQL for Ecology]({{ site.dc_site }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
   * [R for Ecology]({{ site.dc_site }}/R-ecology-lesson/00-before-we-start.html) - no live coding
   * R for Ecology - anything after [Manipulating data frames]({{ site.dc_site }}/R-ecology-lesson/03-dplyr.html) - dependencies
-  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_site }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
+  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_site }}/python-ecology-lesson/06-loops-and-functions/) - dependencies
 
 *  LC (stable lessons only)
-  * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
-  * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
-  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
+  * Anything in [Data Intro for Librarians](https://librarycarpentry.github.io/lc-data-intro/) - no live coding
+  * [OpenRefine 01-introduction](https://librarycarpentry.github.io/lc-open-refine/01-introduction/) - no live coding
+  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://librarycarpentry.github.io/lc-open-refine/03-working-with-data/) - dependencies
 
 ## IX. Email Templates
 

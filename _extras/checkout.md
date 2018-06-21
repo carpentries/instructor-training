@@ -108,7 +108,7 @@ Please note that:
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG (scalable vector graphics),
     since vector formats are easier to manipulate than raster formats.
-    SVG files can be produced using [Inkscape](https://inkscape.org/en/)
+    SVG files can be produced using [Inkscape](https://inkscape.org/)
     as well as other graphics programs.
 
 7.  We also appreciate improvements to our lessons' learning objectives.
