@@ -24,7 +24,7 @@ Training dates for September - December will be announced in July 2018.
 * June 27-28
 
 ##### Mountain time
-* July 18-19
+*Additional training dates will be scheduled for Fall 2018*
 
 ##### Pacific time
 * August 14-15

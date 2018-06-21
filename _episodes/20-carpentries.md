@@ -23,7 +23,7 @@ about how you can get involved.
 [Software Carpentry]({{ site.swc_site }} ) was founded in 1998 and
 [Data Carpentry]({{ site.dc_site }}) was founded in 2013. You can learn more about the history
 and goals of each organization by reading
-"[Software Carpentry: Lessons Learned](http://f1000research.com/articles/3-62/v2)" and
+"[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)" and
 "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
 
 *   Both focus on computational skills.

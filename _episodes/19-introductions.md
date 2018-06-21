@@ -111,7 +111,7 @@ challenges as the learners, so you remain accessible.
 **What will you need to say to convey those characteristics?**
 Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
-authority, and to make to workshop more relevant.
+authority, and to make the workshop more relevant.
 
 **Why are you teaching a Software or Data Carpentry workshop?**
 Why are you an instructor? What's motivating you to be there today? One
@@ -148,7 +148,7 @@ Carpentry workshops. Convey what your expectations are.
 **Highlight main aspects of the schedule.**
 
 **Communicate the workshop structure** so the learners will
-understand the decisions that have made in designing the workshop. 
+understand the decisions that have been made in designing the workshop. 
 Make sure to highlight
 the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
@@ -246,5 +246,5 @@ accessibility, etc.
 These materials are adapted from [Carnegie Melon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
-[icebreakers]: {{ page.root }}/icebreakers
-[credits]: http://www.cmu.edu/teaching/designteach/teach/firstday.html
+[icebreakers]: {{ page.root }}/icebreakers/
+[credits]: https://www.cmu.edu/teaching/designteach/teach/firstday.html
