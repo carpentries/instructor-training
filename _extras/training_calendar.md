@@ -5,7 +5,7 @@ permalink: /training_calendar/
 ---
 
 
-#### Carpentries member Site Instructor Training Calendar
+#### Carpentries Member Site Instructor Training Calendar
 ###  April to August 2018
 
 
