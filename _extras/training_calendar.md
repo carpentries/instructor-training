@@ -21,7 +21,7 @@ Training dates for September - December will be announced in July 2018.
 *Additional training dates will be scheduled for Fall 2018*
 
 ##### Central time
-* June 27-28
+*Additional training dates will be scheduled for Fall 2018*
 
 ##### Mountain time
 *Additional training dates will be scheduled for Fall 2018*
@@ -35,6 +35,6 @@ Training dates for September - December will be announced in July 2018.
 * August 16-17 *(note change since this calendar was originally published)*
 
 ##### Central European time
-* July 30-31
+*Additional training dates will be scheduled for Fall 2018*
 
 
