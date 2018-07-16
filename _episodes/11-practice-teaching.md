@@ -300,9 +300,9 @@ If you and a partner are co-teaching, try to follow these rules:
 - The person who isn't teaching shouldn't interrupt, offer
   corrections, elaborations, or amusing personal anecdotes, or do
   anything else to distract from what the person teaching at the time
-  is doing or saying.  The one exception is that it's sometimes
-  helpful to ask leading questions, particularly if the learners seem
-  unsure of themselves.
+  is doing or saying.  The one exception is that it's occasionally
+  helpful to ask questions to lead learners in the desired direction,
+  particularly if they seem unsure of themselves.
 
 - Each person should take a couple of minutes before they start
   teaching to see what their partner is going to teach after they're
