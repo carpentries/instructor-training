@@ -13,7 +13,7 @@ If you are a member site ready to schedule your instructor training session, ple
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
-Training dates for September - December will be announced in August 2018.
+Training dates for early 2019 will be announced in December 2018.
 
 # North America
 
