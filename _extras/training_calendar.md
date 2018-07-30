@@ -32,6 +32,7 @@ Training dates for early 2019 will be announced in December 2018.
 #### Pacific time
 * October 10-11
 * November 27-28
+* December 11-12
 
 # Europe
 
