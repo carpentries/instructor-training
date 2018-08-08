@@ -11,7 +11,7 @@ After you have finished the two-day training class,
 you must go through these steps to complete your training and be
 fully certified as a Data and Software Carpentry instructor:
 
-1.  Make (and [send us a link to]({{ site.contact }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
+1.  Make (and [send us a link to]({{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
@@ -60,7 +60,7 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.contact }}).
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
@@ -73,7 +73,7 @@ Trainees must do their work on one of the lessons for which we are currently see
 
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }})
+1.  If you submit your contribution through GitHub, you need to [send us]({{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
@@ -162,7 +162,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know]({{ site.contact }})
+please [let us know]({{ site.email }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -268,4 +268,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ site.contact }}).
+please [contact us]({{ site.email }}).
