@@ -94,3 +94,6 @@ exclude:
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
+
+plugins_dir:
+  - jekyll-redirect-from
