@@ -95,8 +95,7 @@ you can ask them to mediate an incident if you are uncomfortable or unable to do
 If you choose to settle the issue yourself, you should notify the workshop host 
 of the issue in case s/he feels additional steps should be taken.
 
-No matter what you choose to do, please contact the joint Data/Software 
-Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) 
+No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) 
 or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
 as soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.
