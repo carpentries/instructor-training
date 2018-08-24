@@ -51,7 +51,7 @@ and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-le
 > mindset about computational skill influence their learning in a workshop setting?
 > 
 > Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
-> or situations in which mindset might be relevant.
+> situations in which mindset might be relevant.
 > 
 > Share: A few thoughts in the etherpad (or go around the room and discuss)
 > 
