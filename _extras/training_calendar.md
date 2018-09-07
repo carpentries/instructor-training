@@ -42,7 +42,7 @@ Training dates for early 2019 will be announced in December 2018.
 #### Central European time
 * October 16-17, 2018
 * November 7-8, 2018
-* December 6-7, 2018
+* November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
 
 
