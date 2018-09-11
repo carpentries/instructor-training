@@ -18,7 +18,6 @@ Training dates for early 2019 will be announced in December 2018.
 # North America
 
 #### Eastern time
-* October 10-11, 2018
 * November 14-15, 2018
 * December 3-4, 2018
 
@@ -29,7 +28,6 @@ Training dates for early 2019 will be announced in December 2018.
 *Additional training dates will be scheduled if needed*
 
 #### Pacific time
-* October 10-11
 * November 27-28
 * December 11-12
 
