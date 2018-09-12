@@ -69,8 +69,6 @@ lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/les
 [www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
 contributions.
 
-Trainees must do their work on one of the lessons for which we are currently seeking improvements.
-
 Please note that:
 
 1.  If you submit your contribution through GitHub, you need to [send us]({{ mailto:site.email }})
@@ -116,37 +114,6 @@ Please note that:
     we would like our current learning objectives to be checked against the actual lesson content,
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
-
-The lessons you may submit to are:
-
-1.  For [Data Carpentry]({{ site.dc_site }}/lessons/):
-    we would prefer contributions to these right now.
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
-2.  For [Software Carpentry]({{ site.swc_site }}/lessons/):
-    we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
-    for any lesson. We are also accepting new exercises using the Gapminder data set
-    for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
-    Please don't worry too much about formatting, and please only submit the Markdown files
-    (not generated HTML) in pull requests.
-
-> ## What Makes a Good Exercise?
->
-> If you are submitting a new exercise for the new Software Carpentry Python lesson:
->
-> 1.  Follow the coding style of the lesson you're submitting to.
->     Read the lesson's `CONTRIBUTING` file for explicit guidelines.
-> 2.  Include a solution to your exercise.
-> 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
->     since most workshops have users on all three platforms.
-> 4.  Try to give exercises a scientific theme:
->     reversing a string isn't particularly motivational for our audience.
-> 5.  Include a comment when you submit the exercise
->     to explain the purpose of the exercise
->     (i.e., what it is demonstrating or checking for).
-{: .callout}
 
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
