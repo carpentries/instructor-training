@@ -19,7 +19,6 @@ Training dates for early 2019 will be announced in December 2018.
 
 #### Eastern time
 * November 14-15, 2018
-* December 3-4, 2018
 
 #### Central time
 * November 8-9, 2018
