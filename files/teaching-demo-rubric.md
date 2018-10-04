@@ -11,7 +11,7 @@ Trainers should use their own judgement when applying this rubric in individual 
 |------|---------------------|
 Trainee uses the official curricular materials as written or with minor deviations|Trainee deviates significantly from the official curricular materials|
 Trainee places content in context and explains why it is relevant/useful to the learner|Trainee jumps into the content without explaining context|
-Trainee obviously knows the material they are teaching|Trainee makes facutal errors in teaching the content and doesn't correct themselves|
+Trainee obviously knows the material they are teaching|Trainee makes factual errors in teaching the content and doesn't correct themselves|
 
 |Positive Delivery|Negative Delivery|
 |------|---------------------|

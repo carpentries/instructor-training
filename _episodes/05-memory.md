@@ -98,7 +98,7 @@ more information in your head at once. This is one reason
 why helping our learners to see the connections among 
 the concepts we are teaching is so important.  
 
-## Formative Assessment
+## Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding 
 and transfer ideas from short-term memory into long-term memory. It's important
@@ -366,7 +366,7 @@ Anything you can do to a) recognize and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
-[memory-test]: http://cat.xula.edu/thinker/memory/working/serial
+[memory-test]: https://cat.xula.edu/thinker/memory/working/serial
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect

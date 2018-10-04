@@ -24,10 +24,10 @@ training_site: https://carpentries.github.io/instructor-training
 
 After this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
-the details are available [here]({{ page.training_site }}/checkout/).
+the details are available on [the checkout checklist]({{ page.training_site }}/checkout/).
 If you have any questions about the workshop, the reading material, or anything else, please [get in touch](mailto:checkout@carpentries.org).
 
-If you are interested in doing more reading, we have [some recommendations]( {{ page.training_site }}/reference/#books).
+If you are interested in doing more reading, we have [some recommendations]( {{ page.training_site }}/reference).
 
 Episodes
 --------
@@ -39,7 +39,7 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * [Faceting and Clustering in OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/)
 * [Basic Queries in SQL]({{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/)
 * [Starting with Data in R]({{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html)
-* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/01-starting-with-data)
+* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/02-starting-with-data)
 
 **Software Carpentry**
 

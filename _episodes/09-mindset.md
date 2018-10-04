@@ -44,12 +44,16 @@ Their attitude towards failure leads fixed-mindset people to avoid situations wh
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
 and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-learning/), is essential to learning.
 
-> ## What's Your Mindset?
-> You can learn about your own mindset by taking this [mindset self-assessment](https://mindsetonline.com/testyourmindset/step1.php).
-> Keep in mind that your mindset may differ in different areas. For example, you might have a fixed mindset with respect to artistic ability,
-> but a growth mindset with respect to computing skill. 
+> ## Does Mindset matter?
+> Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
+> talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic 
+> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's  
+> mindset about computational skill influence their learning in a workshop setting?
 > 
-> If you're comfortable sharing, put your "score" in the Etherpad. How does it compare with others?
+> Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
+> situations in which mindset might be relevant.
+> 
+> Share: A few thoughts in the etherpad (or go around the room and discuss)
 > 
 > This exercise should take about 5 minutes. 
 {: .challenge}
@@ -151,8 +155,8 @@ passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty?
 > 
-> A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome/) asked you to think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarassing.
+> A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome) asked you to think of a time when learning something was difficult for you, or
+> you made a mistake that seemed silly or embarrassing.
 > 
 > How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?
 > How do you feel now about your capabilities in this area? 
@@ -171,8 +175,8 @@ Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as 
 demanding tasks".
 
 Lifelong learning arises from those who have the growth mindset. Both grit and 
-[curiosity](http://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
-[success factors in lifelong learning](http://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
+[curiosity](https://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as 
+[success factors in lifelong learning](https://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/). 
 Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve 
 long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in learners.
 
