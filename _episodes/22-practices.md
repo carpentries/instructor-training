@@ -42,14 +42,28 @@ about how a Carpentry workshop operates.
 >
 > > ## Solution 
 > > 
-> > Instructors should ensure that the following topics are discussed: sticky notes (as status flags), 
-> > minute cards, one up/one down, collaborative note taking (Etherpad), instructor notes, live coding, 
-> > formative assessments, 
-> > Code of Conduct, going slowly, concept maps, pre- and post-workshop surveys, accessibility planning,
-> > error framing, modeling life-long learning, lesson study, and feedback. Any of these that aren't covered
+> > Instructors should ensure that the following topics (see list below) are discussed. Any of these that aren't covered
 > > in the class discussion should be elaborated on by the instructors.
 > {: .solution}
 {: .challenge}
+
+**Teaching practices part of the above discussion:**
+
+- Sticky notes (as status flags) 
+- Minute cards, one up/one down
+- Collaborative note taking (Etherpad)
+- Instructor notes
+- Live coding
+- Formative assessments 
+- Going slowly
+- Concept maps
+- Pre- and post-workshop surveys
+- Code of Conduct
+- Accessibility planning
+- Error framing
+- Modeling life-long learning
+- Lesson study
+- Feedback 
 
 
 > ## Instructor Notes
