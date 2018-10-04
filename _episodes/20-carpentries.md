@@ -15,14 +15,14 @@ keypoints:
 
 In becoming a Carpentry instructor,
 you are also becoming part of a community of like-minded volunteers.
-This section provides some background on both organizations and information
+This section provides some background on both projects and information
 about how you can get involved.
 
 ## History
 
 [Software Carpentry]({{ site.swc_site }} ) was founded in 1998 and
 [Data Carpentry]({{ site.dc_site }}) was founded in 2013. You can learn more about the history
-and goals of each organization by reading
+and goals of each project by reading
 "[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)" and
 "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
 
@@ -50,9 +50,9 @@ computational challenges,
 
 ![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
 
-In February 2017, Software and Data Carpentry began to discuss merging the two organizations. Software and Data
-Carpentry formed an umbrella organization ("The Carpentries"), with a shared governance,
-community structure, and policies in January, 2018. Each organization will maintain their own curricular materials.
+In February 2017, Software and Data Carpentry began to discuss merging the two projects. Software and Data
+Carpentry formed an umbrella project ("The Carpentries"), with a shared governance,
+community structure, and policies in January, 2018. Each project will maintain their own curricular materials.
 
 ## The Carpentry Community
 
