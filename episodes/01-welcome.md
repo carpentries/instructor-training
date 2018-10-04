@@ -27,7 +27,7 @@ and Data Carpentry including, but not limited to workshops, email lists, online 
 ## Introductions
 
 > Introductions set the stage for learning.
-> — Tracy Teal, Executive Director, Data Carpentry
+> — Tracy Teal, Executive Director, The Carpentries
 {: .quotation}
 
 Hello everyone, and welcome to the Data Carpentry and Software Carpentry

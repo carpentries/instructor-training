@@ -13,21 +13,22 @@ keypoints:
 ---
 
 One of the most important things that you can do as an instructor is to
-set the workshop environment from the beginning.  One way to do this 
-is by having a well-planned introduction.  This episode discusses the 
-value of setting the environment from the beginning and some of the 
+set the workshop environment from the beginning.  One way to do this
+is by having a well-planned introduction.  This episode discusses the
+value of setting the environment from the beginning and some of the
 components that go into an effective introduction.  
 
 ## Setting the Workshop Environment
 
 > ## Your Academic Past
-> 
+>
 > Think back to courses or workshops you really liked or didn't like.
-> How did those courses start? Were you confident in the
-instructors abilities? Did you feel like they were
-enthusiastic about the course and invested in you? Was it clear
-what you were going to be learning? Were you excited about the material? Or did you leave that first day thinking
-the instructor was uninterested, that you weren't the learners they wanted to
+> - How did those courses start?
+> - Were you confident in the instructors abilities?
+> - Did you feel like they were enthusiastic about the course and invested in you?
+> - Was it clear what you were going to be learning?
+> - Were you excited about the material?
+> - Did you leave that first day thinking the instructor was uninterested, that you weren't the learners they wanted to
 be teaching or you had no idea what the course was supposed to be about?
 {: .discussion}
 
@@ -37,7 +38,7 @@ the course. Introductions set the tone for the workshop and the path for learnin
 Introductions are particularly important when we have just two days. Also, in Carpentry workshops
 we're teaching not only a set of skills, but also trying to give learners the confidence to become self-directed learners. Learners should leave feeling excited and empowered. It's up to you as an instructor to empower
 your learners, so it's important
-to set a positive and welcoming environment for the workshop. 
+to set a positive and welcoming environment for the workshop.
 
 Having a planned introduction, also helps you be less nervous. Having a planned introduction
 helps get you started. Even in the face of
@@ -68,7 +69,7 @@ To meet these objectives an introduction should:
 1.  Set the tone for the workshop
 1.  Collect baseline data on learners' knowledge and motivation
 1.  Whet learners' appetite for workshop content
-1.  Inform learners of workshop requirements
+1.  Inform Learners of Logistics
 
 ### 1. Set Positive First Impressions
 
@@ -90,7 +91,7 @@ themselves as authoritative.
 kind of course yours will be by the way the chairs are arranged. Rows
 signify a more formal environment, while circles or U-shapes imply a
 more informal atmosphere, with higher expectations of learner
-participation. 
+participation.
 
 **Your use of the few minutes before class.** Greeting the learners as
 they enter the classroom communicates approachability. Frantically
@@ -110,7 +111,7 @@ challenges as the learners, so you remain accessible.
 **What will you need to say to convey those characteristics?**
 Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
-authority, and to make to workshop more relevant.
+authority, and to make the workshop more relevant.
 
 **Why are you teaching a Software or Data Carpentry workshop?**
 Why are you an instructor? What's motivating you to be there today? One
@@ -125,11 +126,11 @@ favorite course to teach, or to disclose any irrelevant personal
 information that can undermine you in the eyes of your learners.
 
 > ## Write It Out
-> 
-> Write out your answers to the questions above.  What do you 
+>
+> Write out your answers to the questions above.  What do you
 > want to say about yourself before you start a workshop?  
-> 
-> This exercise should take 5 minutes. 
+>
+> This exercise should take 5 minutes.
 {: .challenge}
 
 
@@ -147,13 +148,13 @@ Carpentry workshops. Convey what your expectations are.
 **Highlight main aspects of the schedule.**
 
 **Communicate the workshop structure** so the learners will
-understand the decisions that have made in designing the workshop. 
+understand the decisions that have been made in designing the workshop.
 Make sure to highlight
 the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
 
 **Explain your expectations** for learner behavior including expectations
-around: 
+around:
 
 - [Code of Conduct]({{ site.dc_site }}/code-of-conduct/)
 - ways to ask for help
@@ -166,10 +167,10 @@ know you are confident in their success as long as they put in
 the required effort.
 
 > ## Write It Out II
-> 
-> Adding to your introduction, write out how you would communicate 
+>
+> Adding to your introduction, write out how you would communicate
 > one of the concepts above.  
-> 
+>
 > This exercise should take 5 minutes
 {: .challenge}
 
@@ -185,10 +186,10 @@ that they will be ready to work in groups or dialogue with each other.
 > Here is one example of an icebreaker you can use:  
 > Have everyone turn to a partner and introduce themselves with their
 > name, one word about their research 'microbes', 'dogs', 'vectors',
-> 'stars' and a thing they're proud of that they made. 
+> 'stars' and a thing they're proud of that they made.
 {: .callout}
 
-Other examples of Icebreakers can be found [on this page][icebreakers].  
+Head here for [more examples of Icebreakers][icebreakers].  
 
 ### 5. Set the Tone for the Workshop
 
@@ -202,7 +203,7 @@ in the course.
 
 Also establish a culture of feedback. Let learners know you are
 interested in how they experience the course and in any suggestions
-they have. Let them know they should feel free to give you constructive 
+they have. Let them know they should feel free to give you constructive
 feedback, even
 anonymously. They can do this in particular with minute cards. You
 might not adopt every suggestion they have but you will listen and
@@ -211,7 +212,7 @@ consider them. This starts to create a partnership in learning.
 ### 6. Collect Baseline Data on Learners' Knowledge and Motivation
 
 You will already have information on their skill level from the
-pre-assessment survey. 
+pre-assessment survey.
 Before starting your workshop, decide what to do about different/inadequate prior knowledge.  If this
 is a workshop where a certain knowledge is required (such as an
 advertised advanced workshop), decide in advance how you will handle a
@@ -231,9 +232,9 @@ learners have about the material.
 Let them know about any logistics for the days - lunch times, breaks,
 accessibility, etc.
 
-> ## Practice Your Introduction 
+> ## Practice Your Introduction
 >
-> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
+> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today.
 > 1. Rehearse your introduction in your mind. (3 minutes)
 > 2. Return to your groups of 2 or 3 and each give your 90 second introduction. (5 min)
 > 3. Discuss what you liked about each other's introductions. (6 min: optional, if there is time.)
@@ -245,5 +246,5 @@ accessibility, etc.
 These materials are adapted from [Carnegie Melon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
-[icebreakers]: {{ page.root }}/icebreakers
-[credits]: http://www.cmu.edu/teaching/designteach/teach/firstday.html
+[icebreakers]: {{ page.root }}/icebreakers/
+[credits]: https://www.cmu.edu/teaching/designteach/teach/firstday.html

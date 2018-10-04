@@ -28,7 +28,7 @@ about how a Carpentry workshop operates.
 > 
 > If you are at an in-person training, your instructor will hand out paper copies of 
 > a worksheet. If you are at an online training, you can get a 
-> [digital copy here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
+> [digital worksheet here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
 > 
 > In groups of 3-4, fill out this worksheet, listing all of the teaching strategies
 > and techniques you would use at each stage of a workshop. Be sure to include
@@ -59,7 +59,8 @@ about how a Carpentry workshop operates.
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The Software Carpentry instructor guides are linked on each lesson page; the 
 > instructor guides for Data Carpentry lessons are on 
-> their [main lesson page]({{ site.dc_site }}/lessons/).  
+> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
 {: .callout}
 
 > ## Learners Use Their Own Machines
@@ -94,8 +95,7 @@ you can ask them to mediate an incident if you are uncomfortable or unable to do
 If you choose to settle the issue yourself, you should notify the workshop host 
 of the issue in case s/he feels additional steps should be taken.
 
-No matter what you choose to do, please contact the joint Data/Software 
-Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) 
+No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) 
 or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
 as soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.

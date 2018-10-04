@@ -1,48 +1,43 @@
 ---
 layout: page
-title: "Instructor Training Calendar for Carpentries Partners"
+title: "Instructor Training Calendar for Carpentries Members"
 permalink: /training_calendar/
 ---
 
 
-#### Carpentries Partner Site Instructor Training Calendar
-###  January to April 2018
+#### Carpentries Member Site Instructor Training Calendar
+###  September to December 2018
 
 
-If you are a partner site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
+If you are a member site ready to schedule your instructor training session, please contact maneesha@carpentries.org with your first and second choices for dates.  If you do not see a training in your time zone, please contact maneesha@carpentries.org.
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
-Please keep in mind Daylight savings time changes in March or April, depending on your location.  
-
-Training dates for May - August 2018 will be announced in March 2018.
+Training dates for early 2019 will be announced in December 2018.
 
 # North America
 
-##### Eastern time
-* March 1-2
-* April 2-3
+#### Eastern time
+* November 14-15, 2018
 
-##### Central time
-* February 13-14
-* March 12-13
-* April 19-20
+#### Central time
+* November 8-9, 2018
 
-##### Mountain time
-* February 21-22
-* April 24-25
+#### Mountain time
+*Additional training dates will be scheduled if needed*
 
-##### Pacific time
-* February 5-6
+#### Pacific time
+* November 27-28
+* December 11-12
 
 # Europe
 
-##### Western European time
-* March 20-21
+#### Western European time
+* November 5-6, 2018
 
-##### Central European time
-* February 28 - March 1
-* March 14-15
+#### Central European time
+* November 7-8, 2018
+* November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
 
 

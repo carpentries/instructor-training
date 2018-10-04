@@ -43,7 +43,7 @@ In addition,
 their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
-Imagine a grid whose axes are labelled "mean time to master" and "usefulness once mastered".
+Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
 Everything that's quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
@@ -93,11 +93,11 @@ learners.
 
 > ## Strategies for Motivating Learners
 >
-> *[How Learning Works][amazon-hlw]* by Susan Ambrose, et al., 
+> *[How Learning Works][worldcat-hlw]* by Susan Ambrose, et al., 
 > contains this list of evidence-based methods to motivate learners.
 >
 > In groups of two or three, pick three of these points and briefly describe
-> in the Etherpad how can we apply these strategies in our workshops.
+> in the Etherpad how we can apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
 >     1. Connect the material to students' interests.
@@ -231,7 +231,7 @@ favorite scripting language.
 ## Psychological Demotivators
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
-of text editors and levels of technical knowledge. This helps a lot in avoid 
+of text editors and levels of technical knowledge. This helps a lot in avoiding 
 demotivating learners. There are other factors, however, that contribute to demotivation, 
 some of which are either systemic, or built into our psychological makeup as human beings. 
 We can still have a positive impact in fighting these demotivators by thinking carefully about 
@@ -243,8 +243,8 @@ even in subtle ways, can make them anxious about the risk of confirming those st
 their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
 and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
 only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][amazon-clubhouse]*
-and Margolis's *[Stuck in the Shallow End][amazon-shallow-end]*). Steele's *[Whistling Vivaldi][amazon-whistling-vivaldi]*
+There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
+and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
 summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in 
 the classroom.
 
@@ -290,6 +290,9 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
+![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)  
+https://xkcd.com/1954/
+
 Academic work is frequently undertaken alone or in small groups but the results are shared and 
 criticized publicly. In addition,
 we rarely see the struggles of others, only their finished work, which can feed the belief that everyone 
@@ -329,8 +332,8 @@ for teaching about and dealing with imposter syndrome.
 > ## Overcoming Imposter Syndrome
 > 
 > Think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarassing. Is that task still hard for you?
-> In the Etherpad, describe how you might you use this as a motivational story to help your learners 
+> you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
+> In the Etherpad, describe how you might use this as a motivational story to help your learners 
 > overcome their own imposter syndrome. 
 > 
 > This exercise should take about 5 minutes. 
@@ -378,7 +381,7 @@ about accessibility.
 > 
 > The UK Home Office has put together a set of posters of dos and don'ts for making
 > visual and web-based materials more accessible for different populations. Take a look at one of 
-> [these posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK) and 
+> [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and 
 > put one thing you've learned in the Etherpad. 
 > 
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
@@ -393,8 +396,8 @@ is a good starting point focused primarily on assisting the visually impaired,
 while Liz Henry's blog post about
 [accessibility at conferences][conference-accessibility]
 has a good checklist for people with mobility issues,
-and [this interview][deaf-accessibility]
-with Chad Taylor is a good introduction to issues faced by those with no or limited hearing.
+and this [interview with Chad Taylor][deaf-accessibility]
+is a good introduction to issues faced by those with no or limited hearing.
 
 The second is to know how well you're doing.
 For example,
@@ -488,11 +491,11 @@ such as:
 {: .challenge}
 
 
-[ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
-[amazon-clubhouse]: http://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691/
-[amazon-hlw]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
-[amazon-shallow-end]: https://www.amazon.com/Stuck-Shallow-End-Education-Computing/dp/0262514044/
-[amazon-whistling-vivaldi]: http://www.amazon.com/dp/0393339726/
+[ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
+[worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
+[worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
+[worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
+[worldcat-whistling-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
 [conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
@@ -501,9 +504,9 @@ such as:
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 [shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
-[swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
+[swc-python-v4]: http://v4.software-carpentry.org/python/flow.html
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessible]: http://www.w3.org/WAI/training/accessible
+[w3c-accessible]: http://www.w3.org/WAI/teach-advocate/accessible-presentations/
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome

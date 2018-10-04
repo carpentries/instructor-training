@@ -11,7 +11,7 @@ After you have finished the two-day training class,
 you must go through these steps to complete your training and be
 fully certified as a Data and Software Carpentry instructor:
 
-1.  Make a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
+1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
@@ -36,7 +36,7 @@ setting of the two-day training.  These are:
     doing a brief session of live coding.
 
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
-and must be requested before the three months are up. To request an extension, please [contact us]({{ site.contact }}).
+and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
 Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
 March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
@@ -44,7 +44,7 @@ are now considered Carpentry instructors and can teach either set of curricula.
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't filled out an application, please do so now using [this link](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you haven't already, please fill out [the online application form](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
@@ -60,7 +60,7 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.contact }}).
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
@@ -69,11 +69,9 @@ lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/les
 [www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
 contributions.
 
-Trainees must do their work on one of the lessons for which we are currently seeking improvements.
-
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ site.contact }})
+1.  If you submit your contribution through GitHub, you need to [send us]({{ mailto:site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
@@ -108,7 +106,7 @@ Please note that:
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG (scalable vector graphics),
     since vector formats are easier to manipulate than raster formats.
-    SVG files can be produced using [Inkscape](https://inkscape.org/en/)
+    SVG files can be produced using [Inkscape](https://inkscape.org/)
     as well as other graphics programs.
 
 7.  We also appreciate improvements to our lessons' learning objectives.
@@ -116,37 +114,6 @@ Please note that:
     we would like our current learning objectives to be checked against the actual lesson content,
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
-
-The lessons you may submit to are:
-
-1.  For [Data Carpentry]({{ site.dc_site }}/lessons/):
-    we would prefer contributions to these right now.
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
-2.  For [Software Carpentry]({{ site.swc_site }}/lessons/):
-    we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
-    for any lesson. We are also accepting new exercises using the Gapminder data set
-    for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
-    Please don't worry too much about formatting, and please only submit the Markdown files
-    (not generated HTML) in pull requests.
-
-> ## What Makes a Good Exercise?
->
-> If you are submitting a new exercise for the new Software Carpentry Python lesson:
->
-> 1.  Follow the coding style of the lesson you're submitting to.
->     Read the lesson's `CONTRIBUTING` file for explicit guidelines.
-> 2.  Include a solution to your exercise.
-> 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
->     since most workshops have users on all three platforms.
-> 4.  Try to give exercises a scientific theme:
->     reversing a string isn't particularly motivational for our audience.
-> 5.  Include a comment when you submit the exercise
->     to explain the purpose of the exercise
->     (i.e., what it is demonstrating or checking for).
-{: .callout}
 
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
@@ -159,10 +126,10 @@ and to clarify anything that may be unclear about our operations in general.
 
 Our discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
-You can sign up for a session on [this Etherpad]({{page.discussionpad}});
+You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know]({{ site.contact }})
+please [let us know]({{ mailto:site.email }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -218,8 +185,8 @@ they will notify the training coordinator.
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
 
-The final step is to sign up for a 5-minute teaching demonstration online using
-[this Etherpad]({{page.demopad}})
+The final step is to sign up for a 5-minute demonstration online using
+[the teaching demo schedule Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 
 The link to connect to the video conference is at the top of the Etherpad.
@@ -237,7 +204,7 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-Tables showing the lessons can be found [here for Software Carpentry](https://software-carpentry.org/lessons/) and [here for Data Carpentry](http://www.datacarpentry.org/lessons/). 
+You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/) and [Data Carpentry lessons](http://www.datacarpentry.org/lessons/) on the websites.
 A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
@@ -268,4 +235,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ site.contact }}).
+please [contact us]({{ mailto:site.email }}).
