@@ -32,8 +32,6 @@ As you read in your homework last night, the final three steps in qualifying as 
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 [This page]({{ page.root }}/checkout/) explains the procedure in detail. 
-There's also a [helpful checklist](http://www.datacarpentry.org/checkout/) 
-if you'd prefer a brief summary.
 
 > ## Checking Out Review with Questions and Answers
 > 
