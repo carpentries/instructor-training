@@ -147,22 +147,22 @@ motivate the activities and how you communicate with the attendees.
 >
 > *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
 >
->     1. I'm not sure what a mental model is.
->     2. "In Python, what is the expected output for the following statement: 1 + '2'"
-> 	(a) '12'  
-> 	(b) TypeError  
-> 	(c) ‘3’  
-> 	(d) 3  
->     3. "Rate your experience with the R programming language."
-> 	(a) never used it  
-> 	(b) beginner  
-> 	(c) intermediate  
-> 	(d) expert  
->     4. "What does the Unix command 'cut' do?"
-> 	(a) Extracts sections from each line of input.  
-> 	(b) Sorts fields of a line  
-> 	(c) Searches the input file for lines containing a match to a pattern  
-> 	(d) Removes a given input from a line  
+> 1. I'm not sure what a mental model is.
+> 2. "In Python, what is the expected output for the following statement: 1 + '2'"
+>    1. '12'  
+>    2. TypeError  
+> 	 3. ‘3’  
+> 	 4. 3  
+> 3. "Rate your experience with the R programming language."
+> 	 1. never used it  
+> 	 2. beginner  
+> 	 3. intermediate  
+> 	 4. expert  
+> 4. "What does the Unix command 'cut' do?"
+> 	 1. Extracts sections from each line of input.  
+> 	 2. Sorts fields of a line  
+> 	 3. Searches the input file for lines containing a match to a pattern  
+> 	 4. Removes a given input from a line  
 >
 > This exercise should take about 3 minutes.
 {: .discussion}
