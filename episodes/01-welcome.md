@@ -95,7 +95,7 @@ Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.  
 We will have many opportunities to practice and give each other feedback throughout this workshop.
 We welcome questions and dialogue
-at any point. We'll be using the the Etherpad to help facilitate discussion. 
+at any point. We'll be using the Etherpad to help facilitate discussion. 
 Please feel free to ask questions verbally or to put them into the notes or chat box 
 of the Etherpad.
 
