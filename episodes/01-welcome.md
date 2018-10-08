@@ -73,12 +73,13 @@ researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
 
-We will not be going
-over the workshop content in detail (although you will get familiarity with
-some of the content through the exercises), but instead we will
-focus on developing teaching skills that are broadly
-useful across all of our lessons. This two-day training is the first step in becoming a certified
-Software and/or Data Carpentry instructor.
+This two-day training focuses on developing teaching skills that are broadly 
+useful across all of our lessons.
+These skills will be developed through reading pedagogical literature and through active
+discussion with fellow learners.
+We will not be going over the workshop content in detail (although you will get 
+familiarity with some of the content through the exercises), 
+This workshop is the first step in becoming a certified Software and/or Data Carpentry instructor.
 The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.
