@@ -140,7 +140,7 @@ The workshop will show up on our websites shortly thereafter.
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }})
 > and follow the directions to create a workshop website using your local location and today's date.
-> Put the link for your workshop website into the Etherpad.
+> Put the link for your workshop website into the Etherpad. [Here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) are a list of configuration problems you may have and their solutions.
 >
 > This exercise should take about 10 minutes.
 {: .challenge}
