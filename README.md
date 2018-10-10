@@ -14,10 +14,11 @@ or run `make` in this directory for a list of helpful commands.
 
 * [Erin Becker][becker_erin]
 * [Christina Koch][koch_christina]
-* Karen Word
+* [Karen Word][word_karen]
 
 [dc-site]: http://datacarpentry.org
 [lesson-example]: https://carpentries.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
-[koch_christina]: http://software-carpentry.org/team/#koch_christina
-[becker_erin]: http://www.datacarpentry.org/people/#becker_erin
+[koch_christina]: https://carpentries.org/instructors/
+[becker_erin]: https://carpentries.org/team/
+[word_karen]: https://carpentries.org/team/
