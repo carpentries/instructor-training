@@ -21,7 +21,7 @@ Training dates for early 2019 will be announced in December 2018.
 *Additional training dates will be scheduled if needed*
 
 #### Central time
-* November 8-9, 2018
+*Additional training dates will be scheduled if needed*
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
