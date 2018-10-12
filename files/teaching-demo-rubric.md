@@ -3,28 +3,28 @@ This rubric is provided as a guide for Trainers evaluating potential new instruc
 Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
 skills.
 
-In general, trainees who have three or more marks in the "Negative" columns below should be asked to redo their demonstration. Even one 
-mark in a "Negative" column can be justification for asking a trainee to redo their demonstration if the problem is significant. As always,
+In general, these demonstrations have a very high (over 95%) pass rate. When a trainee is asked to redo a demo, it is usually a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Negative" columns below should probably be asked to try again. Even one 
+mark in a "Negative" column can be considered justification for asking a trainee to redo their demonstration if the problem is significant. As always,
 Trainers should use their own judgement when applying this rubric in individual cases.  
 
 |Positive Content|Negative Content|
 |------|---------------------|
-Trainee uses the official curricular materials as written or with minor deviations|Trainee deviates significantly from the official curricular materials|
-Trainee places content in context and explains why it is relevant/useful to the learner|Trainee jumps into the content without explaining context|
-Trainee obviously knows the material they are teaching|Trainee makes factual errors in teaching the content and doesn't correct themselves|
+Uses Carpentries curriculum with only minor deviations|Deviates significantly or doesn't use Carpentries curriculum|
+Places content in context and explains relevance/utility to learners|Jumps into the content without context|
+Teaches content correctly|Makes factual errors in content and doesn't correct|
 
 |Positive Delivery|Negative Delivery|
 |------|---------------------|
-Trainee mirrors the learner's environment (e.g. default terminal setup, simplified shell prompt)|Trainee uses shortcuts or tools not immediately available to or familiar to the learner|
-Trainee uses appropriately sized fonts and windows|Font or windows are too small|
-Trainee explains everything that they type|Trainee trouble-shoots an error or otherwise types commands without explaining them to the learner|
-Trainee uses mistakes/typos as opportunities for learning|Trainee ignores or dismisses mistakes/typos that they make|
--|Trainee displays the lesson materials/notes on their screen while teaching|
--|Trainee has notifications show up on their screen while teaching|
--|Trainee uses significant amounts of dismissive language (e.g. "just do this", "easy", "simple")|
-Trainee speaks and types at an appropriate pace|Trainee speaks or types very quickly|
-Trainee speaks clearly|-
--|Trainee appears significantly distracted|
+Mirrors the learner's environment (e.g. default terminal setup, simplified prompt)|Uses shortcuts or tools that are unfamiliar/unavailable to learners|
+Uses appropriately sized fonts and windows|Font or windows are too small|
+Explains all typing|Types commands or troubleshoots errors without explaining|
+Uses mistakes/typos as opportunities for learning|Ignores or dismisses mistakes/typos that they make|
+Uses notes on paper/tablet|Displays lesson materials/notes on their screen|
+-|Notifications show up on their screen|
+-|Uses significant amounts of dismissive language (e.g. "just", "easy")|
+Speaks and types at an appropriate (slow enough) pace|Speaks or types very quickly|
+Speaks clearly|-
+Appears focused and attentive to learners|Appears significantly distracted by content or process of consulting notes|
 
 ---
 
@@ -36,16 +36,16 @@ Date:
 
 |Aspect|Comments_________________________________________________|
 |------|---------------------|
-|<br>Speed<br>|
-|<br>Voice, teaching style|
-|<br>Verbalize typing|
-|<br>Verbalize thoughts|
-|<br>Explain all that was typed|
-|<br>Easy to follow|
-|<br>font, window size etc|
-|<br>Mirroring Learner’s Environment|
-|<br>Stick to the Material|
-|<br>Embrace Mistakes|
-|<br>Use of Illustrations|
+|<br>Sticks to curriculum<br>|
+|<br>Context|
+|<br>Content Knowledge|
+|<br>Mirror learner's environment|
+|<br>Font & window size|
+|<br>Explanation of typing|
+|<br>Embraces & uses mistakes|
 |<br>Use of notes on paper/tablet|
-|<br>Avoid Being Disturbed|
+|<br>Distraction-free screen|
+|<br>Wording|
+|<br>Pacing|
+|<br>Clarity|
+|<br>Demeanor & focus|
