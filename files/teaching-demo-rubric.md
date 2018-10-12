@@ -24,7 +24,7 @@ Uses notes on paper/tablet|Displays lesson materials/notes on their screen|
 -|Uses significant amounts of dismissive language (e.g. "just", "easy")|
 Speaks and types at an appropriate (slow enough) pace|Speaks or types very quickly|
 Speaks clearly|-
-Appears focused and attentive to learners|Appears significantly distracted|
+Appears focused and attentive to learners|Appears significantly distracted by content or process of consulting notes|
 
 ---
 
