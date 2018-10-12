@@ -45,7 +45,7 @@ Date:
 |<br>Embraces & uses mistakes|
 |<br>Use of notes on paper/tablet|
 |<br>Distraction-free screen|
-|<br>Dismissive language|
+|<br>Wording|
 |<br>Pacing|
 |<br>Clarity|
 |<br>Demeanor & focus|
