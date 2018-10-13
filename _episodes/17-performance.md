@@ -13,9 +13,10 @@ keypoints:
 >
 > Get back into the same groups you did your live coding with. 
 > Take turns re-teaching your chosen live coding session, making sure to incorporate changes based on the feedback you received. 
-> Give feedback to each
-> other and add it to the Etherpad using our 2x2 rubric. Also add some feedback to the Etherpad on the following questions:
-> What did you change? Did it work better or worse with the change? How might you do it if you were to teach it again?
+> Before you begin, have a look at this [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md) 
+> provided to Trainers as a guideline for evaluating teaching demonstrations. Draw upon this rubric to give more detailed feedback to each
+> other add a summary of what you learned to the Etherpad. Also add some feedback to the Etherpad on the following questions:
+> What did you change? Did it work better or worse with the change? What is one thing you might choose to work on the next time you teach?
 >
 >  This exercise should take about 25 minutes plus 15 minutes for discussion.    
 {: .challenge}
