@@ -240,7 +240,7 @@ this; we use the following methods most frequently:
   in tandem, taking turns the way that musicians taking solos would.
 
 - **Teach and assist:** Teacher A teaches while Teacher B moves around
-  the classroom to help struggling students.
+  the classroom to help students.
 
 Both of these models are better than teaching alone because they create
 opportunities for lateral knowledge transfer.
@@ -256,7 +256,7 @@ they can help each other answer questions.
 > ## How to Help
 > 
 > Many people who aren't comfortable teaching are still willing and
-> able to provide in-class support.  We call these people helpers.   
+> able to provide in-class support.  We call these people "helpers." 
 > 
 > Helpers can assist in a variety 
 > of ways: help learners
