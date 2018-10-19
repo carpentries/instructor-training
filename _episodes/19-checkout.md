@@ -1,13 +1,12 @@
 ---
 title: "Checkout Process"
-teaching: 10
-exercises: 35
+teaching: 5
+exercises: 10
 questions:
 - "What do I need to do to finish certifying as a Carpentry instructor?"
 objectives:
 - "Describe the final steps required to qualify as an instructor."
 - "Schedule your instructor discussion session."
-- "Provide final feedback to your instructors."
 keypoints:
 - "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
@@ -44,7 +43,7 @@ if you'd prefer a brief summary.
 > 
 > In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process? 
 > 
-> This exercise should take about 20 minutes.
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Schedule a Discussion or Demo
@@ -66,39 +65,7 @@ if you'd prefer a brief summary.
 > so that they can continue to learn from each other and advance their teaching skills.
 {: .callout}
 
-> ## One Up, One Down
-> 
-> Provide one up, one down feedback on the entire two-day course.
-> 
-> Just as in our regular workshops,
-> we collect post-instructor-training-workshop feedback.
-> Your participation will help us evaluate the efficacy of this training
-> and improve the content and delivery of the lesson materials.
-> 
-> This exercise should take 5 minutes.
-{: .challenge}
 
-> ## Minute Cards
-> 
-> In addition to giving one up, one down feedback. Please also fill out your sticky
-> notes to give your instructors anonymous feedback. 
-> 
-> This exercise should take 5 minutes.
-{: .challenge}
-
-> ## Post Workshop Surveys
-> 
-> Assessment is very important to us! Please take 5 minutes to complete 
-> this [five-minute post-workshop survey]({{site.training_post_survey}}).
->
-> This exercise should take 5 minutes.  
-{: .challenge}
-
-## Thank You
-
-Thank you for taking part in this instructor training workshop.
-We hope it was a valuable and enjoyable experience,
-and we look forward to having you as Carpentry instructors!
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [demo]: http://pad.software-carpentry.org/teaching-demos
