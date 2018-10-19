@@ -143,26 +143,7 @@ motivate the activities and how you communicate with the attendees.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the primary or secondary education level.
-> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
->
-> *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
->
->     1. I'm not sure what a mental model is.
->     2. "In Python, what is the expected output for the following statement: 1 + '2'"
-> 	(a) '12'  
-> 	(b) TypeError  
-> 	(c) ‘3’  
-> 	(d) 3  
->     3. "Rate your experience with the R programming language."
-> 	(a) never used it  
-> 	(b) beginner  
-> 	(c) intermediate  
-> 	(d) expert  
->     4. "What does the Unix command 'cut' do?"
-> 	(a) Extracts sections from each line of input.  
-> 	(b) Sorts fields of a line  
-> 	(c) Searches the input file for lines containing a match to a pattern  
-> 	(d) Removes a given input from a line  
+> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities. 
 >
 > This exercise should take about 3 minutes.
 {: .discussion}
