@@ -1,5 +1,5 @@
 ---
-title: "Afternoon Wrap-Up"
+title: "Checkout Process"
 teaching: 10
 exercises: 35
 questions:
@@ -12,6 +12,11 @@ keypoints:
 - "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
 
+During this period after lunch, we'll be talking about some of the nuts and bolts 
+of getting involved in the Carpentries.  First, we'll discuss what actions you'll 
+need to take after this training to become a fully certified instruction.  After that, 
+we'll address any questions about the Carpentries organizations, running workshops, and 
+getting involved in the community in other ways.  
 
 ## Application form
 

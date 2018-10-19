@@ -1,6 +1,6 @@
 ---
 title: "The Carpentries: Teaching Practices"
-teaching: 15
+teaching: 5
 exercises: 15
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
@@ -13,6 +13,9 @@ keypoints:
 - "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
 
 ---
+
+We're almost done with our training!  At this point, we've covered many, many topics 
+around teaching, learning, and technology.  
 
 Carpentry instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
