@@ -13,7 +13,7 @@ keypoints:
 
 During this period after lunch, we'll be talking about some of the nuts and bolts 
 of getting involved in the Carpentries.  First, we'll discuss what actions you'll 
-need to take after this training to become a fully certified instruction.  After that, 
+need to take after this training to become a fully certified instructor.  After that, 
 we'll address any questions about the Carpentries organizations, running workshops, and 
 getting involved in the community in other ways.  
 
