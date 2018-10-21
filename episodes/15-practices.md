@@ -1,56 +1,17 @@
 ---
-title: "The Carpentries: Teaching Practices"
-teaching: 15
+title: "Building Teaching Skill: Teaching Practices"
+teaching: 5
 exercises: 15
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
 - "What do I do if there is a Code of Conduct violation?"
 objectives:
-- "Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentry workshop."
 - "Evaluate different strategies for managing a class in which students have diverse backgrounds and skill levels."
 - "Know what to do if someone at your workshop violates the Code of Conduct."
 keypoints:
 - "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
 
 ---
-
-Carpentry instructors use a set of teaching techniques based on evidence from 
-educational research. We've talked about some of these techniques explicitly 
-(e.g. live coding and formative assessment), and others we've been modeling throughout
-the workshop, without necessarily calling attention to what we were doing. Some of 
-these teaching techniques are implemented at particular points in a workshop, while
-others are used throughout. Let's put together everything we've learned and organize 
-these practices in terms of what parts of a workshop we need to be conscious of each
-of these strategies. In other words, let's put down on paper some of our mental model
-about how a Carpentry workshop operates.
-
-> ## Organize Your Knowledge
-> 
-> If you are at an in-person training, your instructor will hand out paper copies of 
-> a worksheet. If you are at an online training, you can get a 
-> [digital worksheet here]({{ page.root }}/files/handouts/Carpentries_teaching_practices.pdf).
-> 
-> In groups of 3-4, fill out this worksheet, listing all of the teaching strategies
-> and techniques you would use at each stage of a workshop. Be sure to include
-> implementation details such as how long you would spend or how often you would do a 
-> particular strategy as well and any other information you think is important. 
-> 
-> When you have a good amount of information in each box, type "done" in the 
-> Etherpad chat.
-> 
-> Small group discussion should take about 10 minutes. Whole class discussion should take another 5.
->
-> > ## Solution 
-> > 
-> > Instructors should ensure that the following topics are discussed: sticky notes (as status flags), 
-> > minute cards, one up/one down, collaborative note taking (Etherpad), instructor notes, live coding, 
-> > formative assessments, 
-> > Code of Conduct, going slowly, concept maps, pre- and post-workshop surveys, accessibility planning,
-> > error framing, modeling life-long learning, lesson study, and feedback. Any of these that aren't covered
-> > in the class discussion should be elaborated on by the instructors.
-> {: .solution}
-{: .challenge}
-
 
 > ## Instructor Notes
 > Many of the Software and Data Carpentry lessons have 
@@ -162,7 +123,3 @@ and hope that they'll understand.
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is.
 {: .callout}
-
-[wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
-[vps]: https://en.wikipedia.org/wiki/Virtual_private_server
-[ssh]: https://en.wikipedia.org/wiki/Ssh
