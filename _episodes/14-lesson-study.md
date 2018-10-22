@@ -96,14 +96,21 @@ the instructor gains important information about which aspects of subsetting are
 
 > ## Challenge 4
 >
-> Given the following code:
+> Given the following code and output:
 >
 > ```{r}
 > m <- matrix(1:18, nrow=3, ncol=6)
 > m
 > ```
 >
-> 1. Which of the following commands will extract the values 11 and 14?
+> ~~~
+>       [,1] [,2] [,3] [,4] [,5] [,6]
+>  [1,]    1    4    7   10   13   16
+>  [2,]    2    5    8   11   14   17
+>  [3,]    3    6    9   12   15   18
+> ~~~
+>
+> Which of the following commands will extract the values 11 and 14?
 >
 > A. `m[2,4,2,5]`
 >
