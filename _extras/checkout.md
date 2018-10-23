@@ -235,4 +235,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ mailto:site.email }}).
+please [contact us]({{ site.email }}).
