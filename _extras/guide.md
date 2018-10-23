@@ -116,6 +116,14 @@ This is a place for Trainers to leave tips and observations for those newer to t
 ### How Learning Works: Expertise and Instruction	
 ### How Learning Works: Working Memory and Cognitive Load	
 ### Building Teaching Skill: Getting Feedback	
+### Creating a Positive Learning Environment: Motivation and Demotivation
+
+As written, this can run long.  Suggestions: 
+
+* Have the "One Thing" and "What Happens When Accessibility is an Issue" exercises be alternates (i.e. do only one of the two exercises).
+* Remove the "Strategies for Motivating Learners" exercise. Many of the strategies mentioned in this list are not directly applicable to our workshops and there is another exercise about motivational strategies that immediately follows. We could move this exercise to the "Optional Exercises" section.
+* CK: In general, I approach this section as "which 3 out of the 6 exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
+
 ### Creating a Positive Learning Environment: Mindset
 ### Building Teaching Skill: The Importance of Practice	
 ### Wrap-Up and Homework for Tomorrow	
