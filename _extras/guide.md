@@ -149,6 +149,15 @@ This is a place for Trainers to leave tips and observations for those newer to t
 ### General Preparation
 
 
+### Using Helpers/Co-Instructors
+
+If you have a helper for the training, or want to involve your co-instructor more, 
+here are some ways where it's easy to do so without much prep: 
+* give an example of a mental model in "The Importance of Practice"
+* tell a motivational/demotivational story in "Motivation and Demotivation"
+* help collect 1-up, 1-down feedback by either writing or directing the participants
+* find + talk about a good (or bad) learning objective in "Lesson Study"
+
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
 [post-template]: https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#email-after-training-event
