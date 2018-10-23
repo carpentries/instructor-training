@@ -120,15 +120,32 @@ This is a place for Trainers to leave tips and observations for those newer to t
 ### Building Teaching Skill: The Importance of Practice	
 ### Wrap-Up and Homework for Tomorrow	
 ### Welcome Back	
-### Building Teaching Skill: Lesson Study	
+### Building Teaching Skill: Lesson Study
 ### Building Teaching Skill: Live Coding	
 ### Building Teaching Skill: Performance Revised	
-### The Carpentries: Workshop Introductions	
-### The Carpentries: How We Operate	
+### The Carpentries: Workshop Introductions
+
+* Be flexible
+   * This section can be taught in a lot of different ways.  
+
+### The Carpentries: How We Operate
+
+* Exercise: Creating a Workshop Website
+   * This takes some time, so some people opt to skip this section.  Inevitably, 
+   when working with a group of mixed experience with Github, some will be able 
+   to zip through this exercise, where others will struggle.  We **have** gotten 
+   positive feedback about this exercise as well, where learners felt like it was 
+   a valuable experience. Can be especially valuable for groups that will probably 
+   be running workshops on their own (so open trainings, or trainings for folks 
+   who are ready to get started right away).  
+
 ### The Carpentries: Teaching Practices
 ### Afternoon Wrap-Up	
 
 ### Using Slides
+
+* 
+
 ### General Preparation
 
 
