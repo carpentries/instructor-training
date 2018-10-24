@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Instructor Training Calendar for Carpentries Members"
-permalink: /training_calendar/
 ---
 
 
