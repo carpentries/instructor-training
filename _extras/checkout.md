@@ -60,7 +60,7 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.email }}).
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
@@ -71,7 +71,7 @@ contributions.
 
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ mailto:site.email }})
+1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
@@ -129,7 +129,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know]({{ mailto:site.email }})
+please [let us know](mailto:{{ site.email }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -235,4 +235,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ site.email }}).
+please [contact us](mailto:{{ site.email }}).
