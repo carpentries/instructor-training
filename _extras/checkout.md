@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Checkout Procedure"
-permalink: /checkout/
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: http://pad.software-carpentry.org/teaching-demos
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
