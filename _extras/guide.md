@@ -112,6 +112,10 @@ you’re not the host, please contact Carpentry staff immediately.
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
 ### Welcome	
+
+* Introducing the Code of Conduct
+    * link to suggested text
+
 ### How Learning Works: The Importance of Practice 
 ### How Learning Works: Expertise and Instruction	
 ### How Learning Works: Working Memory and Cognitive Load	
@@ -133,8 +137,11 @@ As written, this can run long.  Suggestions:
 ### Building Teaching Skill: Performance Revised	
 ### The Carpentries: Workshop Introductions
 
-* Be flexible
-   * This section can be taught in a lot of different ways.  
+* More or less time
+    * The second major exercise (writing a mini-introduction and then 
+    practicing) can be made longer if you have the time or people are 
+    very keen on practicing their introductions.  Instead of 2 minutes, 
+    people could talk for 4-5 minutes each.  
 
 ### The Carpentries: How We Operate
 
@@ -147,7 +154,6 @@ As written, this can run long.  Suggestions:
    be running workshops on their own (so open trainings, or trainings for folks 
    who are ready to get started right away).  
 
-### The Carpentries: Teaching Practices
 ### Afternoon Wrap-Up	
 
 ### Using Slides
@@ -165,6 +171,7 @@ here are some ways where it's easy to do so without much prep:
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
 * find + talk about a good (or bad) learning objective in "Lesson Study"
+
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
