@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Instructor Notes"
-permalink: /guide/
 ---
 Shortcuts to: 
 - Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
