@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: Workshop Introductions"
 teaching: 10
-exercises: 60
+exercises: 30
 questions:
 - "How do you actually start a workshop?"
 objectives:
@@ -50,13 +50,13 @@ you're comfortable and ready for.
 
 > ## What's in an Introduction?
 >
-> Get into small groups (3-4 people) and discuss these questions for 10-15 minutes.  
+> Get into small groups (3-4 people) and discuss these questions for 10 minutes.  
 > Take notes on your answers -- we'll combine them later.  
 > 
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
 > 
-> After 10-15 minutes, come together, and combine ideas as a large group.  
+> After 5 minutes, come together, and combine ideas as a large group.  
 > 
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?  
 > Did you come up with something that's not listed below?  
@@ -242,11 +242,10 @@ accessibility, etc.
 > 	1.  Introduce yourself effectively
 > 	1.  Clarify learning objectives and expectations
 > 	1.  Set the tone for the workshop
-> 	1.  Inform learners of workshop requirements
-> 2. Return to your groups of 2 or 3 and each give 5 minutes of your introduction. (10-15 min)
+> 2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
 > 3. After each introduction, provide 2-3 minutes of feedback.  
 >
-> This exercise will take 20-30 minutes depending on whether time is included for feedback or not.  
+> This exercise will take 15-25 minutes depending on whether time is included for feedback or not.  
 {: .challenge}
 
 
