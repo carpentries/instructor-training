@@ -17,30 +17,30 @@ Training dates for early 2019 will be announced in December 2018.
 # North America
 
 #### Eastern time
-* September 25-26 (closed)
-* October 10-11 (closed)
-* December 3-4 (closed)
+* September 25-26, 2018 (closed)
+* October 10-11, 2018 (closed)
+* December 3-4, 2018 (closed)
 
 #### Central time
-* November 8-9 (closed)
+* November 8-9, 2018 (closed)
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
 
 #### Pacific time
-* October 10-11 (closed)
-* November 27-28
-* December 11-12
+* October 10-11, 2018 (closed)
+* November 27-28, 2018
+* December 11-12, 2018
 
 # Europe
 
 #### Western European time
-* October 9-10 (closed)
-* November 506 (closed)
+* October 9-10, 2018 (closed)
+* November 5-6, 2018 (closed)
 
 
 #### Central European time
-* October 16-17 (closed)
+* October 16-17, 2018 (closed)
 * November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
 
