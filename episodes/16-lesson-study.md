@@ -118,7 +118,16 @@ guiding them to look ahead to where we might not be able to take them.
 {: .challenge}
 
 
-
+> ## Instructor Notes
+> Many of the Software and Data Carpentry lessons have 
+> instructor's notes, with information 
+> from instructors who have already taught the material.  This can be a valuable 
+> resource when preparing lessons, especially when teaching a lesson for the first time.  
+> The Software Carpentry instructor guides are linked on each lesson page; the 
+> instructor guides for Data Carpentry lessons are on 
+> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
+{: .callout}
 
 
 > ## Feedback On Your Challenges (Optional)
