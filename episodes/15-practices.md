@@ -1,5 +1,5 @@
 ---
-title: "Building Teaching Skill: Teaching Practices"
+title: "Building Teaching Skill: Managing a Diverse Classroom"
 teaching: 5
 exercises: 15
 questions:
@@ -12,61 +12,6 @@ keypoints:
 - "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
 
 ---
-
-> ## Instructor Notes
-> Many of the Software and Data Carpentry lessons have 
-> instructor's notes, with information 
-> from instructors who have already taught the material.  This can be a valuable 
-> resource when preparing lessons, especially when teaching a lesson for the first time.  
-> The Software Carpentry instructor guides are linked on each lesson page; the 
-> instructor guides for Data Carpentry lessons are on 
-> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
-{: .callout}
-
-> ## Learners Use Their Own Machines
-> Learners tell us that it is important to them to leave the workshop
-> with their own machine set up to do real work.  We therefore continue
-> to teach on all three major platforms (Linux, Mac OS X, and Windows),
-> even though it would be simpler to require learners to use just one.
-> 
-> We have experimented with virtual machines (VMs) on learners'
-> computers to reduce installation problems, but those introduce
-> problems of their own: older or smaller machines simply aren't fast
-> enough, and learners often struggle to switch back and forth between
-> two different sets of keyboard shortcuts for things like copying and
-> pasting.
->
-> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh] 
-> (SSH) or web browser pages instead. This solves the installation 
-> issues, but makes us dependent on host institutions' WiFi (which can be 
-> of highly variable quality), and has the issues mentioned above with things 
-> like keyboard shortcuts.
-{: .callout}
-
-## Code of Conduct Violations
-
-If you are an instructor, and believe that someone in a workshop has
-violated the Code of Conduct, you may warn them, ask them to
-apologize, and/or expel them, depending on the severity of the
-violation and whether or not you believe it was intentional.
-
-The local workshop host is expected to help enforce the Code of Conduct and 
-you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
-If you choose to settle the issue yourself, you should notify the workshop host 
-of the issue in case s/he feels additional steps should be taken.
-
-No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) 
-or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
-as soon as you can and let us know what happened so that we can follow-up
-with the workshop host and/or participants as needed.
-
-You also have the right as an instructor to walk out of a workshop
-if you feel that the participants or hosts are not supporting your
-attempts to enforce the Code of Conduct. Again, please contact us
-as soon as possible if this happens.
-
-
 ## Managing a Diverse Classroom
 
 Although our workshops are targeted at novices, every workshop
@@ -123,3 +68,48 @@ and hope that they'll understand.
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is.
 {: .callout}
+
+> ## Learners Use Their Own Machines
+> Learners tell us that it is important to them to leave the workshop
+> with their own machine set up to do real work.  We therefore continue
+> to teach on all three major platforms (Linux, Mac OS X, and Windows),
+> even though it would be simpler to require learners to use just one.
+> 
+> We have experimented with virtual machines (VMs) on learners'
+> computers to reduce installation problems, but those introduce
+> problems of their own: older or smaller machines simply aren't fast
+> enough, and learners often struggle to switch back and forth between
+> two different sets of keyboard shortcuts for things like copying and
+> pasting.
+>
+> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh] 
+> (SSH) or web browser pages instead. This solves the installation 
+> issues, but makes us dependent on host institutions' WiFi (which can be 
+> of highly variable quality), and has the issues mentioned above with things 
+> like keyboard shortcuts.
+{: .callout}
+
+## Code of Conduct Violations
+
+If you are an instructor, and believe that someone in a workshop has
+violated the Code of Conduct, you may warn them, ask them to
+apologize, and/or expel them, depending on the severity of the
+violation and whether or not you believe it was intentional.
+
+The local workshop host is expected to help enforce the Code of Conduct and 
+you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
+If you choose to settle the issue yourself, you should notify the workshop host 
+of the issue in case s/he feels additional steps should be taken.
+
+No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) 
+or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
+as soon as you can and let us know what happened so that we can follow-up
+with the workshop host and/or participants as needed.
+
+You also have the right as an instructor to walk out of a workshop
+if you feel that the participants or hosts are not supporting your
+attempts to enforce the Code of Conduct. Again, please contact us
+as soon as possible if this happens.
+
+
+
