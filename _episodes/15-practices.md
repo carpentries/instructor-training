@@ -61,13 +61,6 @@ the 38 who don't understand it will feel left out.
 All we can do is tell our learners what we're doing and why,
 and hope that they'll understand.
 
-> ## You Can't Just Ask
->
-> Self-assessments of skill level are usually inaccurate
-> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
-> the less people know about a subject,
-> the less accurate their estimate of their knowledge is.
-{: .callout}
 
 > ## Learners Use Their Own Machines
 > Learners tell us that it is important to them to leave the workshop
