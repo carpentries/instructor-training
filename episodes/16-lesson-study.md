@@ -87,6 +87,14 @@ the method proceeds through four stages:
 This *reverse instructional design* method helps keep teaching focused on its objectives.
 It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
 
+> ## You Can't Just Ask
+>
+> Self-assessments of skill level are usually inaccurate
+> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
+> the less people know about a subject,
+> the less accurate their estimate of their knowledge is.
+{: .callout}
+
 ## Working With Learning Objectives
 Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals 
 are usually communicated through *learning objectives*.
