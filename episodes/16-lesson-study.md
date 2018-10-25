@@ -18,19 +18,20 @@ Yesterday we started a discussion of the importance of [lesson study]({{ page.ro
 We started out by focusing on the lessons we can learn as instructors from watching others teach, having
 others observe our teaching, and giving and receiving feedback based on these observations. In this 
 section, we'll switch our focus to another important part of lesson study: detailed discussion of
-curricular components (including lesson objectives, contents, and exercises) with fellow instructors. 
+curricular components (including lesson objectives, contents, and exercises) with an eye toward actively preparing to 
+teach a workshop. 
 
 ### Learner Profiles
 
 To teach effectively, you have to know *who* you are teaching. Your audience can be identified in many ways.  Frequently
 people who are hosting a workshop have a specific audience in mind, based on their own experience.  
 
-One "creative" way to characterize the audience for a course is to write *learner profiles*. 
+One "creative" way to think deeply about the audience for a workshop is to take a few moments to write *learner profiles*. 
 Learner profiles have three parts:
 the person's general background,
 the problem they face,
 and how the course will help them.
-A learner profile for Software Carpentry might be:
+One example of a learner profile for a Software Carpentry workshop might be:
 
 > João is an agricultural engineer doing his masters in soil physics.
 > His programming experience is a first year programming course using C.
@@ -51,23 +52,55 @@ A learner profile for Software Carpentry might be:
 
 > ## Learner Profiles
 >
-> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/)
-> and then write one that describes a fictional colleague of your own.
+> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/). Note that these example profiles contain more 
+> information than you will ever know about a learner; this is a creative exercise in imagining (and empathizing with) the 
+> whole people behind the faces. Now, sketch out a profile of someone you might expect to attend your first workshop.
 > Who are they,
 > what problems do they face,
-> and how will this training help them?
+> and how might this training help them?
 > Be as specific as possible.  
 > Enter your learner profile into the Etherpad.
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-## Working With Learning Objectives
-Once you have an idea of your intended audience, the next step is to set goals for your course or workshop. 
-These goals will be informed by your audience and will communicate to them and to yourself what you should focus
-on during the course. These goals are usually communicated through *learning objectives*.
+## Reverse Instructional Design (and Preparation!)
+When sitting down to plan a course or workshop, it might be tempting to start by reviewing the content, questioning your 
+understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this 
+approach can take you down extended rabbit-holes in which you anticipate and research questions that learners will probably 
+never know enough to ask, and never get around to thinking about how to get your learners from one point to the next.  Wiggins and McTighe's
+*[Understanding by Design][amazon-ubd]*,
+the method proceeds through four stages:
 
-The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners.
+1.  Identify what is worth learning. What are the main points?
+2.  Decide what constitutes evidence that learning has taken place
+    (i.e., create the final exam or some other summative assessment).
+3.  Design practice work to prepare learners for what they will have to do during the summative assessment.
+    These should include formative assessments to be done in class
+    and the exercises to be done out of class.
+4.  Sort those practices in order of increasing complexity
+    and then write short episodes to close the gap between what learners know and what they need to know
+    in order to do each one.
+    (An actual classroom lesson will then consist of several such episodes,
+    each building toward a quick formative assessment.)
+
+This *reverse instructional design* method helps keep teaching focused on its objectives.
+It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
+
+## Working With Learning Objectives
+Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals 
+are usually communicated through *learning objectives*.
+
+The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or 
+unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We 
+aim to create learning objectives that are specific, accurate, and informative for both learners and instructors. 
+
+[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, heirarchical steps. 
+While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
+heirarchy seems to be reasonably valid: outcomes at the top of the heirarchy cannot be achieved without mastery of outcomes at 
+the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
+need to be mindful about helping them to "grow a level," helping them to recognize when they have achieved that growth, and 
+guiding them to look ahead to where we might not be able to take them.
 
 > ## Evaluate SWC and DC Learning Objectives
 >
@@ -76,76 +109,19 @@ The "learning objectives" section is an easy thing to pass over when you're prep
 > then complete the following steps to evaluate it.
 >
 > 1. Identify the learning objective verb. How specifically does this verb describe the desired learner outcome?
-> 2. In your opinion, does the lesson do an effective job of meeting the stated objective?
-> 3. Does the lesson meet any objectives that are not stated in the objectives section?
->
+> 2. Where does this verb fit on Bloom's taxonomy? Do you think this is an appropriate level for your learners? 
+> 3. In your opinion, does the lesson do an effective job of meeting the stated objective?
+> 4. What would the next level on Bloom's taxonomy look like for your learners? How might you be able to help them think ahead 
+> to the next level without attempting to get them there during your workshop?
+
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-## Designing Good Challenges
 
-Many lessons have existing challenges that are already included, but when preparing to teach it is always a good idea to have a few extra challenges ready to use. This is particularly true if you think that the level of your learners may not be well matched to the existing challenge questions, or if you are able to anticipate a likely misconception that is not targeted by an existing challenge.
-When writing challenges, our goal is to have exercises that provide useful feedback to the 
-instructor (and learner) about what aspects of the topic learners are having difficulty with. You should always be 
-able to identify what information you hope to gain from a particular exercise, so that you know in what situations
-to use that exercise and how to respond to the results that learners have when working through the problem.
 
-For example, in the following challenge (taken from the 
-[R for Reproducible Scientific Analysis lesson](http://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/)), 
-the instructor gains important information about which aspects of subsetting are challenging for the learners. 
 
-> ## Challenge 4
->
-> Given the following code:
->
-> ```{r}
-> m <- matrix(1:18, nrow=3, ncol=6)
-> m
-> ```
->
-> 1. Which of the following commands will extract the values 11 and 14?
->
-> A. `m[2,4,2,5]`
->
-> B. `m[2:5]`
->
-> C. `m[4:5,2]`
->
-> D. `m[2,c(4,5)]`
->
-> > ## Solution to challenge 4
-> >
-> > D
-> {: .solution}
-{: .challenge}
 
-- If learners mostly answer C, they have a simple factual error and need to be reminded that rows are indexed first 
-when subsetting two dimensional objects in R.   
-
-- If they answer A, they understand that rows come first, followed by 
-columns, but they are trying to get each value independently (first row 2, column 4; then row 2, column 5). They
-need a review of the `:` operator or the `c()` function for obtaining multiple values while subsetting. 
-
-- If learners
-answer B, they probably understand that one of the values they're looking for is in row 2, column 5, but don't 
-understand that the `,` operator is needed to separate row and column index values. They also need a review of the
-`:` operator or the `c()` function for obtaining multiple values while subsetting.
-
-Each of these answers provides concrete next steps for the instructor to take in addressing the learners' misconceptions.
-
-> ## What Can You Learn? 
-> 
-> For your chosen lesson, pick one of the existing exercises, or use the faded example problems you wrote yesterday. 
-> Identify one (or more) mistakes that a learner could make doing that exercise that would provide valuable
-> information to you as the instructor. What information would it provide and how would this affect your
-> next steps in teaching the lesson?
-> 
-> Discuss your thoughts with a partner and add to the Etherpad.
-> 
-> This exercise and discussion should take about 10 minutes. 
-{: .challenge}
-
-> ## Feedback On Your Challenges
+> ## Feedback On Your Challenges (Optional)
 > 
 > With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
 > yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to 
