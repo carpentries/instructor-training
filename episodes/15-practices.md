@@ -1,7 +1,7 @@
 ---
 title: "Building Teaching Skill: Managing a Diverse Classroom"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 10
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
 - "What do I do if there is a Code of Conduct violation?"
@@ -24,9 +24,9 @@ instructors experience when running a workshop.
 
 > ## What Are the Challenges?
 > What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with 
-> a partner and put your thoughts in the Etherpad.
+> a partner and put your thoughts in the Etherpad. 
 > 
-> This discussion should take about 5 minutes.
+> This discussion should take about 10 minutes.
 {: .challenge}
 
 Here are some strategies Carpentry 
