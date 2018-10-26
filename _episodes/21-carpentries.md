@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: How We Operate"
 teaching: 30
-exercises: 35
+exercises: 45
 questions:
 - "How are Software, Data, and Library Carpentry organized and run?"
 objectives:
@@ -63,7 +63,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 > If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v2.pdf).
 >
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
-> This exercise should take about 5 minutes.
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 > ## Get Connected
@@ -143,7 +143,7 @@ The workshop will show up on our websites shortly thereafter.
 > and follow the directions to create a workshop website using your local location and today's date.
 > Put the link for your workshop website into the Etherpad.
 >
-> This exercise should take about 20 minutes.
+> This exercise should take about 25 minutes.
 {: .challenge}
 
 > ## Question and Answer

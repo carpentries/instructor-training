@@ -1,8 +1,8 @@
 ---
 start: false
 title: "Building Teaching Skill: Live Coding"
-teaching: 15
-exercises: 45
+teaching: 20
+exercises: 50
 questions:
 - "Why do we teach programming using live coding?"
 objectives:
@@ -151,7 +151,7 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 > ask your fellow trainees to code along with you, as if they were learners at your
 > workshop.
 >
-> This exercise should take about 20 minutes.  
+> This exercise should take about 25 minutes.  
 {: .challenge}
 
 
