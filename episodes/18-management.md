@@ -3,13 +3,14 @@ title: "Building Teaching Skill: Managing a Diverse Classroom"
 teaching: 10
 exercises: 10
 questions:
-- "How are the teaching practices we've learned used in our workshops?"
+- "What are the challenges of managing a heterogeneous classroom?"
 - "What do I do if there is a Code of Conduct violation?"
 objectives:
 - "Evaluate different strategies for managing a class in which students have diverse backgrounds and skill levels."
 - "Know what to do if someone at your workshop violates the Code of Conduct."
 keypoints:
-- "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
+- "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
+- "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up.
 
 ---
 ## Managing a Diverse Classroom
