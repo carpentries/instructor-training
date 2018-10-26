@@ -6,11 +6,12 @@ questions:
 - "How should I use learning objectives when preparing to teach?"
 - "How can I adapt my teaching in response to formative assessment?"
 objectives:
-- "Create a learner profile for someone likely to attend a workshop you will teach."
+- "Use a learner profile to think about someone likely to attend a workshop you will teach."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy."
 - "Critically analyze a SWC/DC lesson's objectives."
 - "Describe reverse instructional design and explain why this is useful when preparing to teach."
-- "Summarize the existing Software Carpentry and Data Carpentry lessons."
+- "Identify checkpoints in a lesson for formative assessment."
+- "Recognize instructor notes as a resource for preparation."
 keypoints:
 - "To teach effectively, you have to know *who* you are teaching."
 - "Good learning objectives communicate the intended effect of a lesson on its learners."
@@ -67,6 +68,29 @@ One example of a learner profile for a Software Carpentry workshop might be:
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
+
+## Reverse Instructional Design (and Preparation!)
+When sitting down to plan a course or workshop, it might be tempting to dive into reviewing the content, questioning your 
+understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this 
+approach can take you down extended rabbit-holes in which you anticipate and research questions that only an expert 
+would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to 
+know when they've gotten there.  
+
+This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to allow *content* 
+objectives to distract from *learning* objectives. One way to prevent this is to take a "reverse" approach to instruction, as 
+advanced in Wiggins and McTighe's *[Understanding by Design](http://www.worldcat.org/title/understanding-by-
+design/oclc/56491025)*, that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes 
+
+1.  Determine your learning objectives
+2.  Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
+3.  Design instruction: Sort assessments in order of increasing complexity, and write content that connects everything together 
+
+In the context of preparing for a Carpentries-style workshop, the lesson design has already occurred, and many lessons include 
+pre-written exercises to use for assessment. In this context, *reverse instructional design*  principles might be applied as 
+follows: 1) review the lesson's learning objectives carefully, thinking about how they will work for your audience, 2) scan 
+the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 3) review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions. 
+
+
 ## Working With Learning Objectives
 Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals 
 are usually communicated through *learning objectives*.
@@ -98,35 +122,21 @@ guiding them to look ahead to where we might not be able to take them.
 {: .challenge}
 
 
-## Reverse Instructional Design (and Preparation!)
-When sitting down to plan a course or workshop, it might be tempting to dive into reviewing the content, questioning your 
-understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this 
-approach can take you down extended rabbit-holes in which you anticipate and research questions that learners only an expert 
-would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to 
-know when they've gotten there.  
+## Using Formative Assessments
 
-This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to get distracted by 
-elaborating on content and allow *content* objectives to distract you from *learning* objectives. Wiggins and McTighe's
-*[Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025)* introduced
- a "reverse" approach to instruction that keeps instructors focused on outcomes. The order of preparation in this case becomes 
-
-1.  Identify learning objectives
-2.  Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
-3.  Design instruction: Sort assessments in order of increasing complexity, and write content that connects everything together. 
-
-This *reverse instructional design* method helps keep teaching focused on its objectives.
-
-In the context of preparing for a Carpentries-style workshop, the lesson design has already occurred, and many lessons include 
-pre-written exercises to use for assessment. However, as discussed in previous lessons, formative assessment can take many 
-forms, ranging from detailed multiple choice questions or faded examples to spontaneous questions and calls for sticky 
-notes to 'take the temperature' of a room.
+When assessments are created in a reverse-design setting, their primary purpose is to inform the instructor about whether 
+objectives have been met. But, as noted in previous lessons, these assessments are good for everyone! For learners, becoming 
+more aware of their progress is motivating and helps to transfer learned content to long-term memory. 
+Awareness of the learning process, also known as "metacognition," will also help them to identify appropriate next steps after a workshop has completed. 
 
 > ## Where are your checkpoints?
 > 
 > Have a look at your lesson again. Choose a learning objective, and identify *where* in the lesson that objective should 
-> reasonably be achieved. How will you know that that objective has been met for all learners? Will this be clear to them?
+> reasonably be achieved. How will you know that that objective has been met for all learners? Will this be clear to them? 
+> 
 > Make a plan for *where* in your lesson you will use different types of formative assessment to help everyone in the room  
-> monitor their progress.
+> monitor their progress. Keep in mind that formative assessment can can take many forms, including multiple 
+> choice questions, faded examples, spontaneous questions and calls for sticky notes. Write some notes or thoughts about this > process in the Etherpad for discussion.
 > 
 > This exercise and discussion should take about 10 minutes. 
 {: .challenge}
