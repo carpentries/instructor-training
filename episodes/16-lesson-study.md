@@ -1,13 +1,16 @@
 ---
 title: "Building Teaching Skill: Lesson Study"
 teaching: 20
-exercises: 25
+exercises: 30
 questions:
 - "How should I use learning objectives when preparing to teach?"
 - "How can I adapt my teaching in response to formative assessment?"
 objectives:
 - "Create a learner profile for someone likely to attend a workshop you will teach."
-- "Identify the information about learners' understanding you hope to gain from a particular exercise and how you will use this information to guide your teaching."
+- "Classify the level of a learning objective in terms of Bloom's taxonomy."
+- "Critically analyze a SWC/DC lesson's objectives."
+- "Describe reverse instructional design and explain why this is useful when preparing to teach."
+- "Summarize the existing Software Carpentry and Data Carpentry lessons."
 keypoints:
 - "To teach effectively, you have to know *who* you are teaching."
 - "Good learning objectives communicate the intended effect of a lesson on its learners."
@@ -96,22 +99,20 @@ guiding them to look ahead to where we might not be able to take them.
 
 
 ## Reverse Instructional Design (and Preparation!)
-When sitting down to plan a course or workshop, once you've looked through the objectives, it might be tempting to dive into 
-reviewing the content, questioning your understanding, and anticipating questions that learners might have for you. While it 
-is good to prepare your content, this approach can take you down extended rabbit-holes in which you anticipate and research 
-questions that learners will probably never know enough to ask, and never get around to thinking about how to get your 
-learners from one point to the next.  
+When sitting down to plan a course or workshop, it might be tempting to dive into reviewing the content, questioning your 
+understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this 
+approach can take you down extended rabbit-holes in which you anticipate and research questions that learners only an expert 
+would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to 
+know when they've gotten there.  
 
 This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to get distracted by 
-elaborating on content and allow *content* objectives to distract you from *learning* objectives. In Wiggins and McTighe's
-*[Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025)*,
-they propose a "reverse" approach to instruction that keeps instructors focused on outcomes. The order of preparation in this case becomes 
+elaborating on content and allow *content* objectives to distract you from *learning* objectives. Wiggins and McTighe's
+*[Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025)* introduced
+ a "reverse" approach to instruction that keeps instructors focused on outcomes. The order of preparation in this case becomes 
 
 1.  Identify learning objectives
-2.  Decide what constitutes evidence that learning has taken place
-3.  Design practice exercises and formative assessments
-4.  Sort those practices in order of increasing complexity
-5.  Write content that connects these things together.
+2.  Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
+3.  Design instruction: Sort assessments in order of increasing complexity, and write content that connects everything together. 
 
 This *reverse instructional design* method helps keep teaching focused on its objectives.
 
