@@ -10,7 +10,7 @@ objectives:
 - "Know what to do if someone at your workshop violates the Code of Conduct."
 keypoints:
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
-- "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up.
+- "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
 
 ---
 ## Managing a Diverse Classroom
