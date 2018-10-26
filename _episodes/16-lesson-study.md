@@ -64,37 +64,6 @@ One example of a learner profile for a Software Carpentry workshop might be:
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-## Reverse Instructional Design (and Preparation!)
-When sitting down to plan a course or workshop, it might be tempting to start by reviewing the content, questioning your 
-understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this 
-approach can take you down extended rabbit-holes in which you anticipate and research questions that learners will probably 
-never know enough to ask, and never get around to thinking about how to get your learners from one point to the next.  Wiggins and McTighe's
-*[Understanding by Design][amazon-ubd]*,
-the method proceeds through four stages:
-
-1.  Identify what is worth learning. What are the main points?
-2.  Decide what constitutes evidence that learning has taken place
-    (i.e., create the final exam or some other summative assessment).
-3.  Design practice work to prepare learners for what they will have to do during the summative assessment.
-    These should include formative assessments to be done in class
-    and the exercises to be done out of class.
-4.  Sort those practices in order of increasing complexity
-    and then write short episodes to close the gap between what learners know and what they need to know
-    in order to do each one.
-    (An actual classroom lesson will then consist of several such episodes,
-    each building toward a quick formative assessment.)
-
-This *reverse instructional design* method helps keep teaching focused on its objectives.
-It also ensures that learners don't face anything on the final exam that the course hasn't prepared them for.
-
-> ## You Can't Just Ask
->
-> Self-assessments of skill level are usually inaccurate
-> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
-> the less people know about a subject,
-> the less accurate their estimate of their knowledge is.
-{: .callout}
-
 ## Working With Learning Objectives
 Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals 
 are usually communicated through *learning objectives*.
@@ -124,6 +93,52 @@ guiding them to look ahead to where we might not be able to take them.
 
 > This exercise should take about 10 minutes.  
 {: .challenge}
+
+
+## Reverse Instructional Design (and Preparation!)
+When sitting down to plan a course or workshop, once you've looked through the objectives, it might be tempting to dive into 
+reviewing the content, questioning your understanding, and anticipating questions that learners might have for you. While it 
+is good to prepare your content, this approach can take you down extended rabbit-holes in which you anticipate and research 
+questions that learners will probably never know enough to ask, and never get around to thinking about how to get your 
+learners from one point to the next.  
+
+This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to get distracted by 
+elaborating on content and allow *content* objectives to distract you from *learning* objectives. In Wiggins and McTighe's
+*[Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025)*,
+they propose a "reverse" approach to instruction that keeps instructors focused on outcomes. The order of preparation in this case becomes 
+
+1.  Identify learning objectives
+2.  Decide what constitutes evidence that learning has taken place
+3.  Design practice exercises and formative assessments
+4.  Sort those practices in order of increasing complexity
+5.  Write content that connects these things together.
+
+This *reverse instructional design* method helps keep teaching focused on its objectives.
+
+In the context of preparing for a Carpentries-style workshop, the lesson design has already occurred, and many lessons include 
+pre-written exercises to use for assessment. However, as discussed in previous lessons, formative assessment can take many 
+forms, ranging from detailed multiple choice questions or faded examples to spontaneous questions and calls for sticky 
+notes to 'take the temperature' of a room.
+
+> ## Where are your checkpoints?
+> 
+> Have a look at your lesson again. Choose a learning objective, and identify *where* in the lesson that objective should 
+> reasonably be achieved. How will you know that that objective has been met for all learners? Will this be clear to them?
+> Make a plan for *where* in your lesson you will use different types of formative assessment to help everyone in the room  
+> monitor their progress.
+> 
+> This exercise and discussion should take about 10 minutes. 
+{: .challenge}
+
+
+> ## You Can't Just Ask
+>
+> Self-assessments of skill level are usually inaccurate
+> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
+> the less people know about a subject,
+> the less accurate their estimate of their knowledge is. This is one reason why assessments should be specific, as 
+> opposed to asking if everyone understands.
+{: .callout}
 
 
 > ## Instructor Notes
