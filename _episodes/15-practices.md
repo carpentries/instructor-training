@@ -1,7 +1,7 @@
 ---
-title: "Building Teaching Skill: Teaching Practices"
-teaching: 5
-exercises: 15
+title: "Building Teaching Skill: Managing a Diverse Classroom"
+teaching: 10
+exercises: 10
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
 - "What do I do if there is a Code of Conduct violation?"
@@ -12,17 +12,55 @@ keypoints:
 - "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
 
 ---
+## Managing a Diverse Classroom
 
-> ## Instructor Notes
-> Many of the Software and Data Carpentry lessons have 
-> instructor's notes, with information 
-> from instructors who have already taught the material.  This can be a valuable 
-> resource when preparing lessons, especially when teaching a lesson for the first time.  
-> The Software Carpentry instructor guides are linked on each lesson page; the 
-> instructor guides for Data Carpentry lessons are on 
-> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
-{: .callout}
+Although our workshops are targeted at novices, every workshop
+will have participants from a variety of backgrounds and technical 
+skill levels. Some may be at the novice level in one technology (e.g. git),
+but competent or even expert in another (e.g. R). As an instructor,
+you will need to be attentive to this diversity in your learners' prior skill level,
+and adjust your instruction appropriately. This is one of the most difficult things
+instructors experience when running a workshop. 
+
+> ## What Are the Challenges?
+> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with 
+> a partner and put your thoughts in the Etherpad. 
+> 
+> This discussion should take about 10 minutes.
+{: .challenge}
+
+Here are some strategies Carpentry 
+instructors have generated to deal with this issue:
+
+*   Before running a workshop,
+    communicate its level clearly to everyone who's thinking of signing up
+    by describing not only the topics that will be covered (e.g. plotting in R), but
+    also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
+    If you're upfront with participants that you'll be spending time learning how `for` loops work, more 
+    advanced learners are less likely to sign up.
+*   When asking learners to complete exercises, give "beginner" and "advanced" options.
+    Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
+*   Ask more advanced learners to help people next to them.
+    They'll learn from answering their peers' questions
+    (since it will force them to think about things in new ways).
+*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices 
+    and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
+    with by helpers or the co-instructor in the Etherpad.
+*   The helpers and the instructor who isn't teaching the particular episode
+    should keep an eye out for learners who are falling behind
+    and intervene early
+    so that they don't become frustrated and give up.
+
+The most important thing is to accept that
+no class can possibly meet everyone's individual needs.
+If the instructor slows down to accommodate two people who are struggling,
+the other 38 are not being well served.
+Equally,
+if she spends a few minutes talking about an advanced topic because two learners are bored,
+the 38 who don't understand it will feel left out.
+All we can do is tell our learners what we're doing and why,
+and hope that they'll understand.
+
 
 > ## Learners Use Their Own Machines
 > Learners tell us that it is important to them to leave the workshop
@@ -67,59 +105,4 @@ attempts to enforce the Code of Conduct. Again, please contact us
 as soon as possible if this happens.
 
 
-## Managing a Diverse Classroom
 
-Although our workshops are targeted at novices, every workshop
-will have participants from a variety of backgrounds and technical 
-skill levels. Some may be at the novice level in one technology (e.g. git),
-but competent or even expert in another (e.g. R). As an instructor,
-you will need to be attentive to this diversity in your learners' prior skill level,
-and adjust your instruction appropriately. This is one of the most difficult things
-instructors experience when running a workshop. 
-
-> ## What Are the Challenges?
-> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with 
-> a partner and put your thoughts in the Etherpad.
-> 
-> This discussion should take about 5 minutes.
-{: .challenge}
-
-Here are some strategies Carpentry 
-instructors have generated to deal with this issue:
-
-*   Before running a workshop,
-    communicate its level clearly to everyone who's thinking of signing up
-    by describing not only the topics that will be covered (e.g. plotting in R), but
-    also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you're upfront with participants that you'll be spending time learning how `for` loops work, more 
-    advanced learners are less likely to sign up.
-*   When asking learners to complete exercises, give "beginner" and "advanced" options.
-    Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
-*   Ask more advanced learners to help people next to them.
-    They'll learn from answering their peers' questions
-    (since it will force them to think about things in new ways).
-*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices 
-    and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
-    with by helpers or the co-instructor in the Etherpad.
-*   The helpers and the instructor who isn't teaching the particular episode
-    should keep an eye out for learners who are falling behind
-    and intervene early
-    so that they don't become frustrated and give up.
-
-The most important thing is to accept that
-no class can possibly meet everyone's individual needs.
-If the instructor slows down to accommodate two people who are struggling,
-the other 38 are not being well served.
-Equally,
-if she spends a few minutes talking about an advanced topic because two learners are bored,
-the 38 who don't understand it will feel left out.
-All we can do is tell our learners what we're doing and why,
-and hope that they'll understand.
-
-> ## You Can't Just Ask
->
-> Self-assessments of skill level are usually inaccurate
-> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
-> the less people know about a subject,
-> the less accurate their estimate of their knowledge is.
-{: .callout}
