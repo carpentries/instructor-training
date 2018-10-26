@@ -1,6 +1,6 @@
 ---
 title: "Building Teaching Skill: Performance Revised"
-teaching: 15
+teaching: 20
 exercises: 25
 questions:
 - "How did you change your teaching in response to feedback?"
@@ -20,13 +20,6 @@ keypoints:
 > other using the rubric this time. When you are finished, add some thoughts on this process to the Etherpad:
 > What did you change? Did it work better or worse with the change? How might you do it if you were to teach it again?
 >
->  This exercise should take about 25 minutes for teaching, plus 15 minutes for pre and post discussion.    
+>  This exercise should take about 25 minutes for teaching, plus 20 minutes for pre and post discussion.    
 {: .challenge}
 
-At the end of the morning, do the following: 
-
-> ## Minute Cards Revisited
->
-> Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/06-feedback/).
-{: .challenge}
