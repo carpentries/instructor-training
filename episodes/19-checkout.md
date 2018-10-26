@@ -58,14 +58,15 @@ if you'd prefer a brief summary.
 > This exercise should take 5 minutes.
 {: .challenge}
 
-> ## Not Just for Checkout
+> ## Ongoing support
 > 
 > Discussion sessions aren't only for instructors-in-training working towards their certification. 
 > Instructors are highly encouraged to participate in discussions before and after each of their workshops, 
-> so that they can continue to learn from each other and advance their teaching skills.
+> so that they can continue to learn from each other and advance their teaching skills. For even more support, consider
+> participating in our Carpentries [Mentoring program][mentoring]!
 {: .callout}
 
 
-
+[mentoring]: https://carpentries.org/community/#mentoring
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
 [demo]: http://pad.software-carpentry.org/teaching-demos
