@@ -58,6 +58,41 @@ if you'd prefer a brief summary.
 > This exercise should take 5 minutes.
 {: .challenge}
 
+### Lesson Contribution
+
+The lesson materials for Software and Data Carpentry
+are hosted on GitHub:
+
+*   [Data Carpentry on GitHub]({{ site.dc_github }})
+*   [Software Carpentry on GitHub]({{ site.swc_github }})
+
+and are developed collaboratively.  Each lesson is in a separate
+repository, and consists of narrative lesson material and an
+associated directory containing the data or scripts needed in the
+lesson.  This source material is also then served as a website, using
+GitHub's "gh-pages" feature.
+
+Lesson contribution is managed within the repository using "issues"
+and "pull requests".  New problems or suggestions can be introduced
+as issues, discussed by the community, and addressed via a pull
+request, which serves as a "request" to make changes, and can also
+be discussed before changes are merged.  
+
+> ## Check Out the Discussion (Optional)
+>
+> As an instructor, your voice is important! We want you to be actively involved
+> in discussions about the lesson materials (and other aspects of the Carpentry community).
+> Go to the GitHub page for the lesson you worked with over the past two days and click on the
+> "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
+> to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for 
+> the repository you are working in. If you do make a significant contribution to the discussion, send a link to
+> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You've
+> just completed one of the three remaining steps in becoming a Carpentry instructor.
+>
+> Leave about 5-10 minutes for this exercise.
+{: .challenge}
+
+
 > ## Ongoing support
 > 
 > Discussion sessions aren't only for instructors-in-training working towards their certification. 
