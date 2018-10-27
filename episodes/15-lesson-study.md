@@ -4,7 +4,8 @@ teaching: 20
 exercises: 30
 questions:
 - "How should I use learning objectives when preparing to teach?"
-- "How can I adapt my teaching in response to formative assessment?"
+- "How should I think about formative assessment when preparing to teach?"
+- "What resources are available to help prepare for a specific workshop?"
 objectives:
 - "Use a learner profile to think about someone likely to attend a workshop you will teach."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy."
