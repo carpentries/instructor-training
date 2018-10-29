@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Information for Member Organizations"
-permalink: /members/
 survey_link: 
 ---
 
