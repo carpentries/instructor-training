@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Checkout Procedure"
-permalink: /checkout/
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: http://pad.software-carpentry.org/teaching-demos
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
@@ -60,7 +59,7 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.email }}).
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
@@ -69,11 +68,9 @@ lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/les
 [www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
 contributions.
 
-Trainees must do their work on one of the lessons for which we are currently seeking improvements.
-
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ mailto:site.email }})
+1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
@@ -117,37 +114,6 @@ Please note that:
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
-The lessons you may submit to are:
-
-1.  For [Data Carpentry]({{ site.dc_site }}/lessons/):
-    we would prefer contributions to these right now.
-    *   [R-ecology](https://github.com/datacarpentry/R-ecology-lesson/)
-    *   [Python-ecology](https://github.com/datacarpentry/python-ecology-lesson/)
-    *   [SQL-ecology](https://github.com/datacarpentry/sql-ecology-lesson/)
-    *   [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson/)
-2.  For [Software Carpentry]({{ site.swc_site }}/lessons/):
-    we are currently accepting solutions to existing exercises, diagrams, and improvements to learning objectives
-    for any lesson. We are also accepting new exercises using the Gapminder data set
-    for our [new Software Carpentry Python lesson]({{ site.swc_github}}/python-novice-gapminder/).
-    Please don't worry too much about formatting, and please only submit the Markdown files
-    (not generated HTML) in pull requests.
-
-> ## What Makes a Good Exercise?
->
-> If you are submitting a new exercise for the new Software Carpentry Python lesson:
->
-> 1.  Follow the coding style of the lesson you're submitting to.
->     Read the lesson's `CONTRIBUTING` file for explicit guidelines.
-> 2.  Include a solution to your exercise.
-> 3.  Do not rely on software that isn't easily available on Windows, Mac OS X, and Linux,
->     since most workshops have users on all three platforms.
-> 4.  Try to give exercises a scientific theme:
->     reversing a string isn't particularly motivational for our audience.
-> 5.  Include a comment when you submit the exercise
->     to explain the purpose of the exercise
->     (i.e., what it is demonstrating or checking for).
-{: .callout}
-
 ## Part 2: Take Part in An Online Discussion Session
 <a name="discussion-session"></a>
 
@@ -162,7 +128,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know]({{ mailto:site.email }})
+please [let us know](mailto:{{ site.email }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -268,4 +234,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ mailto:site.email }}).
+please [contact us](mailto:{{ site.email }}).

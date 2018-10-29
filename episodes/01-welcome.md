@@ -35,7 +35,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
 >
-> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for student success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics.
+> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for student success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!.]
 {: .discussion}
 
 > ## Information for Today's Learners
@@ -95,7 +95,7 @@ Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.  
 We will have many opportunities to practice and give each other feedback throughout this workshop.
 We welcome questions and dialogue
-at any point. We'll be using the the Etherpad to help facilitate discussion. 
+at any point. We'll be using the Etherpad to help facilitate discussion. 
 Please feel free to ask questions verbally or to put them into the notes or chat box 
 of the Etherpad.
 
@@ -143,26 +143,7 @@ motivate the activities and how you communicate with the attendees.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the primary or secondary education level.
-> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
->
-> *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
->
->     1. I'm not sure what a mental model is.
->     2. "In Python, what is the expected output for the following statement: 1 + '2'"
-> 	(a) '12'  
-> 	(b) TypeError  
-> 	(c) ‘3’  
-> 	(d) 3  
->     3. "Rate your experience with the R programming language."
-> 	(a) never used it  
-> 	(b) beginner  
-> 	(c) intermediate  
-> 	(d) expert  
->     4. "What does the Unix command 'cut' do?"
-> 	(a) Extracts sections from each line of input.  
-> 	(b) Sorts fields of a line  
-> 	(c) Searches the input file for lines containing a match to a pattern  
-> 	(d) Removes a given input from a line  
+> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities. 
 >
 > This exercise should take about 3 minutes.
 {: .discussion}
