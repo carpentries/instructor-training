@@ -39,7 +39,7 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * [Faceting and Clustering in OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/)
 * [Basic Queries in SQL]({{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/)
 * [Starting with Data in R]({{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html)
-* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/01-starting-with-data)
+* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/02-starting-with-data)
 
 **Software Carpentry**
 

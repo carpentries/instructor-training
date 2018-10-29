@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Icebreakers"
-permalink: /icebreakers/
 ---
 
 ## Icebreaker Ideas
