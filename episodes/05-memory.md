@@ -1,5 +1,5 @@
 ---
-title: "How Learning Works: Working Memory and Cognitive Load"
+title: "How Learning Works: Memory and Cognitive Load"
 teaching: 20
 exercises: 30
 questions:
@@ -24,33 +24,33 @@ While the graph model of knowledge is inaccurate but useful,
 another simple model of knowledge has a sound physical basis.
 For our purposes, human memory can be divided into two different 
 layers.
-The first is called *long-term* or *persistent memory*.
-It is where we store things like our passwords and our home address.
+The first is called *long-term*.
+It is where we store  persistent information like our passwords and our home address.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
 but it is slow to access.
 
-Our second layer of memory is called *short-term* or *working memory*. This is the 
-type of memory you use to actively think about things. It is much faster, but also much
-smaller: in 1956, George Miller estimated that the average adult's working memory could hold
+Our second layer of memory is called *short-term*. This is the 
+type of memory you use to actively think about things and is often called working memory. It is much faster, but also much
+smaller: in 1956, George Miller estimated that the average adult's short-term memory could hold
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
 This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
 back when phones had dials instead of keypads,
 that was the longest sequence of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
 
-More recent research suggests that working memory is actually even smaller than this. 
+More recent research suggests that short-term memory is actually even smaller than this. 
 Regardless of its exact size, which may differ across people and contexts, we know that 
-working memory is limited. This has important implications for teaching. If we present
+short-term memory is limited. This has important implications for teaching. If we present
 our learners with large amounts of information, without giving them the opportunity to 
 practice using it (and thereby transfer it into long-term memory), they won't retain
 the material as well as if we present small amounts of information interspersed with
 practice opportunities. This is yet another reason why frequent formative assessment is 
 important.
 
-> ## Test Your Working Memory
+> ## Test Your short-term memory
 >
-> [This website][memory-test] implements a short test of working memory. You 
+> [This website][memory-test] implements a short test of short-term memory. You 
 > will be presented with a list of words, each shown for only a very short time. 
 > At the end, you will be asked to list as many of the words as you can remember. 
 > 
@@ -69,8 +69,8 @@ important.
 {: .challenge}
 
 Most people will have found they only remember 5-7 words. Don't worry if you
-remembered fewer - many factors can affect working memory in different situations. 
-Fortunately, there are techniques that we can use to improve our effective working memory. 
+remembered fewer - many factors can affect short-term memory in different situations. 
+Fortunately, there are techniques that we can use to improve our effective short-term memory. 
 We'll illustrate one of these techniques and then describe how this is applicable to our
 workshops.  
 
@@ -93,7 +93,7 @@ rather than as five separate pieces of information.
 {: .challenge}
 
 Storing words in groups reduces the number of effective
-items in your working memory, allowing you to keep 
+items in your short-term memory, allowing you to keep 
 more information in your head at once. This is one reason
 why helping our learners to see the connections among 
 the concepts we are teaching is so important.  
@@ -161,7 +161,7 @@ Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing. An instructor can 
 draw a concept map for an entire topic,
 and use that to decide where to introduce a formative assessment to avoid overloading
-working memory.
+short-term memory.
 
 It's very important to use a technique like concept mapping for a lesson
 before teaching it - an instructor needs to identify just how many pieces of
@@ -177,7 +177,7 @@ separate information will need to be "stored" in memory during each part of the 
 > Trade with a partner, and critique each other's maps. Are there any concepts
 > missing in your partner's map that you would include? Are there more than a handful 
 > of concepts in your map? If so, how would you re-divide those concepts to avoid
-> overwhelming your learners' working memory?
+> overwhelming your learners' short-term memory?
 > 
 > Take 10 minutes to draw the concept maps and share with your neighbor. 
 > Write "*done*" in the Etherpad chat once you have finished.
@@ -352,14 +352,14 @@ concept in your concept map.
 {: .challenge}
 
 ## Summary
-The process of learning is constrained by the limits of working memory. In order to move
+The process of learning is constrained by the limits of short-term memory. In order to move
 new information into long-term memory, it must be actively applied, but activities that 
-make excessive demands on working memory are likely to induce cognitive overload and can
-easily harm learner motivation. Instructional tools that expand working memory by 
+make excessive demands on short-term memory are likely to induce cognitive overload and can
+easily harm learner motivation. Instructional tools that expand short-term memory by 
 increasing connectivity (chunking) among new concepts, such as concept mapping, can improve
 outcomes for subsequent memory-intensive exercises. Formative assessments, when performed 
 frequently, help learners by prompting them to apply new content before it has been 
-overwritten. Faded examples both minimize demands on working memory and offer context that 
+overwritten. Faded examples both minimize demands on short-term memory and offer context that 
 helps improve connectivity for future work, in which the "scaffolding" of contextual support
 can be gradually removed. 
 Anything you can do to a) recognize and b) support learners in working with the
