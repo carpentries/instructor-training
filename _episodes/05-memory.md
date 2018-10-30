@@ -31,7 +31,7 @@ It is essentially unbounded
 but it is slow to access.
 
 Our second layer of memory is called *short-term*. This is the 
-type of memory you use to actively think about things and is often called  or working memory. It is much faster, but also much
+type of memory you use to actively think about things and is often called working memory. It is much faster, but also much
 smaller: in 1956, George Miller estimated that the average adult's short-term memory could hold
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
 This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
