@@ -6,7 +6,7 @@ Shortcuts to:
 - Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
 
 ## I. Information For and About Instructor Trainers
-Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook.
+Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. If you're looking for instructions on running a Demo session, a direct link to that section in the Trainer Guide is [here][demos].
 
 ## II. Running an Instructor Training Event (General)
 
@@ -133,6 +133,7 @@ This is a place for Trainers to leave tips and observations for those newer to t
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
+[demos]: https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration
 [post-template]: https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#email-after-training-event
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
