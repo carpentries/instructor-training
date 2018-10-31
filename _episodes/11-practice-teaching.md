@@ -200,7 +200,7 @@ will help them improve. Remember that giving and receiving feedback is a skill t
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.  
 
-> ## Feedback on Feedback
+> ## Feedback on Feedback (Optional)
 >
 > Watch either this [scipy tutorial][scipy-video-1] (8:40)
 > or this [other tutorial][scipy-video-2] (11:42).
