@@ -20,17 +20,21 @@ about how you can get involved.
 
 ## History
 
-[Software Carpentry]({{ site.swc_site }} ) was founded in 1998 and
-[Data Carpentry]({{ site.dc_site }}) was founded in 2013. You can learn more about the history
+[Software Carpentry]({{ site.swc_site }} ) was founded in 1998 with the mission of teaching lab skills
+for research computing. [Data Carpentry]({{ site.dc_site }}) was founded in 2013 with the mission of building communities teaching universial data literacy. While one focuses on computing and the other on data, both organizations share the same value of promoting efficient, shareable, and reproducible research practices. Their aligned misions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+
+You can learn more about the history
 and goals of each project by reading
 "[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)" and
 "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
 
-*   Both focus on computational skills.
-*   Both run two-day workshops taught by volunteer instructors.
-*   Both strive to fill gaps in current training for researchers.
+Similarities between Software Carpentry and Data Carpentry workshops include:
+*   a focus on computational skills.
+*   two-day format taught by volunteer instructors.
+*   a focus on filling gaps in current training for researchers.
 
-However, they differ in their content and intended audience.
+A major different between Software Carpentry and Data Carpentry workshops
+is their content and intended audience.
 Data Carpentry workshops focus on best practices surrounding data.
 Its learners are not people who want to learn about coding,
 but rather those who have a lot of data and don't know what to do with it.
