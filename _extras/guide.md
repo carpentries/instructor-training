@@ -6,7 +6,7 @@ Shortcuts to:
 - Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
 
 ## I. Information For and About Instructor Trainers
-Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. If you're looking for instructions on running a Demo session, a direct link to that section in the Trainer Guide is [here][demos].
+Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. [Instructions on running a Demo session][demos]are also provided in the Trainer Guide.
 
 ## II. Running an Instructor Training Event (General)
 
