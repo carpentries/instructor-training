@@ -22,7 +22,7 @@ filled out this form, you do not need to submit another application.
 
 ## Instructor Checkout
 
-As you read in your homework last night, there are final three steps to complete to qualify as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are: 
+As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are: 
 
 1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
     1.  Submit a change (i.e. pull request) to fix an existing issue.
