@@ -219,7 +219,7 @@ likes to be made fun of, and talking badly about people who use GUIs, or who are
 writing their thesis in LaTeX is unlikely to make them excited about learning your 
 favorite scripting language. 
 
-> ## Brainstorming Demotivational Experiences
+> ## Brainstorming Demotivational Experiences 
 >
 > *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
 > *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
@@ -329,7 +329,7 @@ The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
 for teaching about and dealing with imposter syndrome.
 
-> ## Overcoming Imposter Syndrome
+> ## Overcoming Imposter Syndrome (Optional)
 > 
 > Think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
@@ -411,7 +411,7 @@ Our mailing lists are a good place to ask for advice,
 and updates to [our accessibility checklist]({{ site.swc_site }}/checklists/accessibility/)
 are always welcome.
 
-> ## What Happens When Accessibility is an Issue? 
+> ## What Happens When Accessibility is an Issue? (Optional)
 > 
 > Think of a time when you've been affected by, or noticed someone else
 > being affected by issues with accessibility. This may have been at a 
