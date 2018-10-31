@@ -94,4 +94,4 @@ We hope it was a valuable and enjoyable experience,
 and we look forward to having you as Carpentry instructors!
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
-[demo]: http://pad.software-carpentry.org/teaching-demos
+[demo]: https://pad.carpentries.org/teaching-demos-recovered
