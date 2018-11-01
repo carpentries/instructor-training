@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Confirmation Page"
+title: "Registration Confirmation Page"
 permalink: /confirmation/
 ---
 
