@@ -3,6 +3,7 @@ title: "Building Teaching Skill: Managing a Diverse Classroom"
 teaching: 10
 exercises: 10
 questions:
+- "How can I prepare for effective co-teaching?"
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What do I do if there is a Code of Conduct violation?"
 objectives:
@@ -13,6 +14,14 @@ keypoints:
 - "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
 
 ---
+## Never Teach Alone: How to Be a Co-instructor
+
+The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you. Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
+
+
+
+
+
 ## Managing a Diverse Classroom
 
 Although our workshops are targeted at novices, every workshop
