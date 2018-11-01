@@ -23,12 +23,14 @@ teaching practices we follow at our workshops and practice using some of them. O
 find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with a discussion 
 about workshop logistics that will help you in preparing to teach your first workshop.  
 
+
 > ## Questions
 > 
 > Yesterday we asked you to read some resources about the logistics of teaching and running Carpentry workshops. Please 
-> add your questions about logistics and preparation to the Etherpad. We will answer some of these questions now and make sure to 
-> answer the rest by the end of the day.
+> add your questions about logistics and preparation to the Etherpad. We will answer these questions in the etherpad during your work time
+> and will return to this list later today.
 > 
-> This discussion take about 5-10 minutes.
+> This activity should take about 5 minutes.
 {: .challenge}
+
 
