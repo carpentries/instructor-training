@@ -108,7 +108,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
 >     Use a whiteboard or other visual aids if available
->     (Note: Do not live coding you lesson.
+>     (Note: Do not live code you lesson.
 >     There will be a change to live code later.)
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
