@@ -10,8 +10,8 @@ objectives:
 - "Summarize the key dos and don'ts of participatory live coding."
 - "Demonstrate participatory live coding."
 keypoints:
-- "Live coding gives learners continuous practice and feedback."
 - "Live coding forces the instructor to slow down."
+- "Coding-along gives learners continuous practice and feedback."
 - "Mistakes made during participatory live coding are valuable learning opportunities."
 ---
 
@@ -33,6 +33,7 @@ This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
 However, the instructor is not live coding in a vacuum. 
 Importantly, students are strongly encouraged
 to "code-along" with the instructor. 
+We refer to the practice of having the instructor live code and the learners follow along as "participatory live coding". 
 
 > ## Up and Down
 >
@@ -140,14 +141,14 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 
 > ## Practice Teaching
 >
-> Teach 3 minutes of your chosen lesson episode using participatory live coding to one or two
+> Teach 3 minutes of your chosen lesson episode using live coding to one or two
 > fellow trainees, then swap and watch while the other person(s) live codes for
-> you.
+> you. (For this exercise, your peers will not "code-along", but will instead observe and give feedback.)
 >
 > Explain in advance to your fellow trainee(s) what you will be teaching
 > and what the learners you teach it to are expected to be familiar with.
 >
-> **Don't record the participatory live coding sessions.** Give each other feedback
+> **Don't record this exercise.** Give each other feedback
 > using the 2x2 rubric we discussed previously and enter the feedback
 > you received in the Etherpad.
 >
