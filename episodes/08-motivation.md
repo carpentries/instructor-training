@@ -97,7 +97,7 @@ learners.
 > contains this list of evidence-based methods to motivate learners.
 >
 > In groups of two or three, pick three of these points and briefly describe
-> in the Etherpad how can we apply these strategies in our workshops.
+> in the Etherpad how we can apply these strategies in our workshops.
 >
 > * Strategies to Establish Value
 >     1. Connect the material to students' interests.
@@ -231,7 +231,7 @@ favorite scripting language.
 ## Psychological Demotivators
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
-of text editors and levels of technical knowledge. This helps a lot in avoid 
+of text editors and levels of technical knowledge. This helps a lot in avoiding 
 demotivating learners. There are other factors, however, that contribute to demotivation, 
 some of which are either systemic, or built into our psychological makeup as human beings. 
 We can still have a positive impact in fighting these demotivators by thinking carefully about 
@@ -243,7 +243,7 @@ even in subtle ways, can make them anxious about the risk of confirming those st
 their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
 and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
 only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][wolrd-cat-clubhouse]*
+There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
 and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
 summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in 
 the classroom.
@@ -333,7 +333,7 @@ for teaching about and dealing with imposter syndrome.
 > 
 > Think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
-> In the Etherpad, describe how you might you use this as a motivational story to help your learners 
+> In the Etherpad, describe how you might use this as a motivational story to help your learners 
 > overcome their own imposter syndrome. 
 > 
 > This exercise should take about 5 minutes. 
@@ -491,7 +491,7 @@ such as:
 {: .challenge}
 
 
-[ada-initiative-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
+[ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
 [worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
 [worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
@@ -502,11 +502,11 @@ such as:
 [high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[shapiro-neuberg-stereotype-threat]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
+[shapiro-neuberg-stereotype-threat]: http://shapiro.psych.ucla.edu/Papers_files/Shapiro%20PSPR2007.pdf
 [study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
-[swc-python-v4]: http://swcarpentry.github.io/v4/python/flow.html
+[swc-python-v4]: http://v4.software-carpentry.org/python/flow.html
 [usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessible]: http://www.w3.org/WAI/training/accessible
+[w3c-accessible]: http://www.w3.org/WAI/teach-advocate/accessible-presentations/
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome

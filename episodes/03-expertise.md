@@ -16,52 +16,52 @@ keypoints:
 ---
 
 We now discuss what distinguishes expertise
-from earlier stages of learning, how being an expert can make it 
-more difficult to teach novices, and some tools to help instructors 
+from earlier stages of learning, how being an expert can make it
+more difficult to teach novices, and some tools to help instructors
 identify and overcome these difficulties.  
 
 ## What Makes an Expert?  
 
-An [earlier topic]({{ page.root }}/02-practice-learning/) described a key 
+An [earlier topic]({{ page.root }}/02-practice-learning/) described a key
 difference between novices and competent practitioners. Novices lack a mental model, or have only
 a very incomplete model with limited utility.
-Competent practitioners 
-have mental models that work well enough for most situations. 
+Competent practitioners
+have mental models that work well enough for most situations.
 How are experts different from both of these groups?
 
 > ## What Is An Expert?  
 >
-> 1. Name someone that you think is an expert (doesn't matter what they're 
-> an expert in).  As an expert, what makes them special or different from 
+> 1. Name someone that you think is an expert (doesn't matter what they're
+> an expert in).  As an expert, what makes them special or different from
 > other people?  
-> 2. What is something that you're an expert in?  How does your experience 
+> 2. What is something that you're an expert in?  How does your experience
 > when you're acting as an expert differ from when you're not an expert?  
-> 
+>
 > This discussion should take about 5 minutes.
 {: .challenge}
 
 The answer is not that experts know more facts:
 competent practitioners can memorize a lot of information
-without any noticeable improvement to their performance.  The answer is 
-rather that experts have more connections among pieces of knowledge; 
+without any noticeable improvement to their performance.  The answer is
+rather that experts have more connections among pieces of knowledge;
 more "short-cuts", if you will.  
 
-One way to illustrate this is to model 
+One way to illustrate this is to model
 storing knowledge as a graph
 in which facts are nodes and relationships are arcs.
 (This is emphatically *not* how our brains work,
 but it's a useful metaphor.)
 The key difference between experts and competent practitioners
-is that experts have many more connections among concepts. 
-Their mental models are much more densely connected. Therefore 
+is that experts have many more connections among concepts.
+Their mental models are much more densely connected. Therefore
 experts can jump directly from a problem to its solution
 because there is a direct link between the two in their mind.
-Where a competent practitioner would have to reason 
+Where a competent practitioner would have to reason
 "A therefore B therefore C therefore D therefore E",
 the expert can go from A to E in a single step ("A therefore E").
 
 > ## Connections and Mental Models
-> 
+>
 > The graph model of knowledge explains why
 > helping learners make connections is as important as introducing them to facts.
 > The more connections a fact has to other facts,
@@ -72,17 +72,17 @@ the expert can go from A to E in a single step ("A therefore E").
 
 ## Limitations of Expertise  
 
-Because your learners' mental models will likely be less densely connected than your own, 
-a conclusion that seems obvious to you will not seem that way to your learners. 
+Because your learners' mental models will likely be less densely connected than your own,
+a conclusion that seems obvious to you will not seem that way to your learners.
 Another feature of expertise that has important consequences for teaching is the
 ability of experts to make use of *fluid representations*. Two ways of thinking about a problem
-will seem interchangable to an expert, but will not seem that way to a novice. For example, 
+will seem interchangable to an expert, but will not seem that way to a novice. For example,
 someone with experience using the bash shell will be able to change back and forth between absolute and
-relative paths with no difficulty and in fact may not even notice they are doing so. A novice learner, 
-however, would be confused by this unexplained use of two different ways of representing a concept. 
+relative paths with no difficulty and in fact may not even notice they are doing so. A novice learner,
+however, would be confused by this unexplained use of two different ways of representing a concept.
 
 > ## More Examples of Fluid Representations
-> 
+>
 > - Programming: Referring to an R object like `abcde` as both "character vectors" and "strings".
 > - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
 > - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
@@ -92,14 +92,14 @@ however, would be confused by this unexplained use of two different ways of repr
 {: .callout}
 
 > ## Fluid Representations  
-> 
-> In the Etherpad, give at least one example of a fluid representation that you use in your 
-> own work. If you can, also give an example of a fluid representation that might occur in a 
-> Carpentry lesson. 
-> 
+>
+> In the Etherpad, give at least one example of a fluid representation that you use in your
+> own work. If you can, also give an example of a fluid representation that might occur in a
+> Carpentry lesson.
+>
 > Building awareness of how you can represent the same concept in multiple different ways
-> will help you avoid doing so without explanation while teaching. 
-> 
+> will help you avoid doing so without explanation while teaching.
+>
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
@@ -110,17 +110,17 @@ while teaching to be explicit about the process you are using to diagnose and co
 seem trivial to you, as they often will.
 
 > ## Diagnosis  
-> 
-> What is an error message that you encounter frequently in your work? (These are often syntax errors.) 
-> Take a few minutes to plan out how you would explain that error message to your learners. Write the 
+>
+> What is an error message that you encounter frequently in your work? (These are often syntax errors.)
+> Take a few minutes to plan out how you would explain that error message to your learners. Write the
 > error and your explanation in the Etherpad.
-> 
+>
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
 Experts are frequently so familiar with their subject
-that they can no longer imagine what it's like to *not* see the world that way. 
-This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect* - experts are often 
+that they can no longer imagine what it's like to *not* see the world that way.
+This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
@@ -128,24 +128,24 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 
 > ## Blind Spots  
 >
-> 1. Is there anything you're learning how to do right now?  Can you identify 
-> something that you still need to think about, but your teacher can do without 
+> 1. Is there anything you're learning how to do right now?  Can you identify
+> something that you still need to think about, but your teacher can do without
 > thinking about it?  
-> 2. Think about the area of expertise you identified earlier.  What could a 
+> 2. Think about the area of expertise you identified earlier.  What could a
 > potential blind spot be?   
 {: .challenge}
 
-The challenge of identifying and working around expert blind spots is one 
-reason why we welcome instructors who still identify as "novices"!  Someone 
-who is still in the process of learning can be a more effective instructor 
+The challenge of identifying and working around expert blind spots is one
+reason why we welcome instructors who still identify as "novices"!  Someone
+who is still in the process of learning can be a more effective instructor
 because they are speaking from their own recent experience.  
 
-In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching 
-novices. However, that's not to say that experts can't be good teachers.  Experts can 
-be effective as long as they take the time to identify and correct 
-for their own expert blind spots. You can use some of the exercises we've done while 
+In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
+novices. However, that's not to say that experts can't be good teachers.  Experts can
+be effective as long as they take the time to identify and correct
+for their own expert blind spots. You can use some of the exercises we've done while
 preparing to teach to help you overcome these
-challenges. 
+challenges.
 
 ## Dismissive Language  
 
@@ -185,17 +185,17 @@ it with more positive and motivating word choices.
 > {: .solution}
 {: .challenge}
 
-Another language choice that can have very positive effects on learner mindset is to ask "What questions do people have?" rather than 
+Another language choice that can have very positive effects on learner mindset is to ask "What questions do people have?" rather than
 "Does anyone have any questions?" Asking "Does anyone have any questions?" can create the impression that you hope people don't have
-questions, so that you can continue on with the lesson. By asking what questions people have, you are setting up an expectation that 
-people will, indeed, have questions, and that that is normal and expected. 
+questions, so that you can continue on with the lesson. By asking what questions people have, you are setting up an expectation that
+people will, indeed, have questions, and that that is normal and expected.
 
 ## You Are Not Your Learners  
 
-One way to overcome these limitations is by understanding the goals 
-and motivations of your learners.  We will discuss motivation in more depth 
-in a [later lesson]({{ page.root }}/08-motivation/) 
-but for now, consider some of these ideas about the typical audience for 
+One way to overcome these limitations is by understanding the goals
+and motivations of your learners.  We will discuss motivation in more depth
+in a [later lesson]({{ page.root }}/08-motivation/)
+but for now, consider some of these ideas about the typical audience for
 Carpentry workshops.  
 
 - Most scientists' primary goal is not to program, but to do scientific research.
@@ -203,11 +203,7 @@ They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
 and conversely that we don't teach anything just because it's "fundamental".
-- Believing that something will be hard to learn is a self-fulfilling prophecy.
-This is why it's important not to say that something is easy:
-if someone who has been told that tries it,
-and it doesn't work,
-they are more likely to become discouraged.
+- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
 
 It's also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
@@ -222,7 +218,7 @@ and that they'd have a better chance of making next Thursday's conference submis
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach.
-We'll talk much more about this when we discuss 
+We'll talk much more about this when we discuss
 [motivation]({{ page.root }}/08-motivation/).
 
 > ## Software/Data Carpentry Is Not Computer Science  
@@ -239,7 +235,7 @@ We'll talk much more about this when we discuss
 
 ## The Importance of Practice (Again)
 
-All of the above points illustrate the importance of using formative assessments frequently. The right 
+All of the above points illustrate the importance of using formative assessments frequently. The right
 formative assessment at the right time will give you valuable information about your learners' goals and
 motivations, making it easier for you to target your lesson materials to their needs. This strategy also helps
 you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
@@ -247,4 +243,3 @@ learners aren't getting it, it's probably more complicated than you thought.
 
 [motivation-words]: http://www.chicagotribune.com/bluesky/hub/ct-buffer-words-and-phrases-that-motivate-bsi-hub-20160225-story.html
 [four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words
-

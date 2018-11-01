@@ -45,7 +45,7 @@ Our approach is based on the work of researchers like Patricia Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
 [how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061) 
-([see also books by Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author#x0%253Abook-%2C%2528x0%253Abook%2Bx4%253Aprintbook%2529%2C%2528x0%253Abook%2Bx4%253Adigital%2529%2C%2528x0%253Abook%2Bx4%253Athsis%2529format)). This work indicates that 
+([see also books by Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author)). This work indicates that 
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
 the three stages of this model are:
 
@@ -160,7 +160,7 @@ both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
-> ## Meeting Learners Where They're At
+> ## Meeting Learners Where They Are
 > One of the strengths of Carpentry workshops is that we meet learners where they're at. Carpentry instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone 

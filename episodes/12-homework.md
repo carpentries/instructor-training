@@ -35,9 +35,9 @@ To prepare for tomorrow, please:
     sent to you before the start of this course, and are:
     *   Data Carpentry
         *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
-        *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries>)
-        *   [Starting with Data in R](<{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data>)
-        *   [Starting with Data in Python](<{{ site.dc_site }}/python-ecology-lesson/01-starting-with-data>)
+        *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
+        *   [Starting with Data in R](<{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>)
+        *   [Starting with Data in Python](<{{ site.dc_site }}/python-ecology-lesson/02-starting-with-data/>)
     *   Software Carpentry
         *   [Working with Files and Directories in the Unix Shell](<{{ site.swc_pages }}/shell-novice/03-create/>)
         *   [Tracking Changes in Git](<{{ site.swc_pages }}/git-novice/04-changes/>)
