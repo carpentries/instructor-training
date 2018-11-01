@@ -246,5 +246,3 @@ practice teaching and to get and give feedback tomorrow.
 [fincher-warren]: {{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf
 [fincher-stories]: {{ page.root }}/files/papers/fincher-stories-change-2012.pdf
 [barker-practice]: {{ page.root }}/files/papers/barker-practice-adoption-2015.pdf
-[worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
-[helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
