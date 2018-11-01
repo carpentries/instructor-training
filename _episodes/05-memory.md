@@ -248,8 +248,8 @@ their brain can't help but check that it's getting the same information on both 
 Discrepancies between these channels increase cognitive load and decrease learning.
 Learning is therefore more effective when information that is being presented simultaneously
 in two different channels is redundant, rather than different. 
-For our workshops, this means the instructor should say out loud commands as they type them on the screen
-during live coding.
+
+For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding](./14-live.md).
 
 ## Faded Examples
 
