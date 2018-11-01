@@ -105,6 +105,9 @@ the bottom. In the long term, everybody wants to be at the top. However, in aimi
 need to be mindful about helping them to "grow a level," helping them to recognize when they have achieved that growth, and 
 guiding them to look ahead to where we might not be able to take them.
 
+![Bloom's Taxonomy](../fig/Blooms.png)
+Image credit: Vanderbilt University Center for Teaching
+
 > ## Evaluate SWC and DC Learning Objectives
 >
 > Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
