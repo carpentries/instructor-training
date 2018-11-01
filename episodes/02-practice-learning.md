@@ -92,6 +92,8 @@ does not have to be completely accurate in order to be useful:
 for example, the average driver's mental model of how a car works probably doesn't include
 most of the complexities that a mechanical engineer would be concerned with.
 
+![Mental Models](../fig/mental_models.jpeg)
+
 We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/03-expertise/).
 
 > ## Your Mental Models
