@@ -22,7 +22,7 @@ filled out this form, you do not need to submit another application.
 
 ## Instructor Checkout
 
-As you read in your homework last night, the final three steps in qualifying as an instructor are to:
+As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are: 
 
 1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
     1.  Submit a change (i.e. pull request) to fix an existing issue.
@@ -30,8 +30,6 @@ As you read in your homework last night, the final three steps in qualifying as 
     3.  Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [discussion session][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
-
-[This page]({{ page.root }}/checkout/) explains the procedure in detail. 
 
 > ## Checking Out Review with Questions and Answers
 > 
@@ -94,4 +92,4 @@ We hope it was a valuable and enjoyable experience,
 and we look forward to having you as Carpentry instructors!
 
 [discussion]: http://pad.software-carpentry.org/instructor-discussion
-[demo]: http://pad.software-carpentry.org/teaching-demos
+[demo]: https://pad.carpentries.org/teaching-demos-recovered

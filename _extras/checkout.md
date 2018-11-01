@@ -2,7 +2,7 @@
 layout: page
 title: "Checkout Procedure"
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
-demopad: http://pad.software-carpentry.org/teaching-demos
+demopad: https://pad.carpentries.org/teaching-demos-recovered
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
