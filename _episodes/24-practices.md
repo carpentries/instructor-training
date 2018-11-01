@@ -16,7 +16,7 @@ around teaching, learning, and technology.
 
 Carpentry instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
-(e.g. live coding and formative assessment), and others we've been modeling throughout
+(e.g. participatory live coding and formative assessment), and others we've been modeling throughout
 the workshop, without necessarily calling attention to what we were doing. Some of 
 these teaching techniques are implemented at particular points in a workshop, while
 others are used throughout. Let's put together everything we've learned and organize 
@@ -61,7 +61,7 @@ Here is a non-exhaustive list of topics:
 * sticky notes
 * one-up, one-down
 * pre- and post-workshop surveys
-* live coding
+* participatory live coding
 * introductions
 
 
