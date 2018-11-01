@@ -16,9 +16,122 @@ keypoints:
 ---
 ## Never Teach Alone: How to Be a Co-instructor
 
-The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you. Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
+The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you. 
+*Co-teaching* describes any situation in which two teachers work
+together in the same classroom.  Friend and Cook's
+*[Interactions][worldcat-interactions]* describes several ways to do
+this; we use the following methods most frequently: 
 
+- **Team teaching:** Both teachers deliver a single stream of content
+  in tandem, taking turns the way that musicians taking solos would.
 
+- **Teach and assist:** Teacher A teaches while Teacher B moves around
+  the classroom to help students.
+
+Both of these models are better than teaching alone because they create
+opportunities for lateral knowledge transfer.
+Team teaching is particularly beneficial in day-long
+workshops: not only does it give each teacher's voice a chance to
+rest, it reduces the risk that they will be so tired by the end of the
+day that they will start snapping at their students or fumbling at
+their keyboard.  Having a co-instructor also means that you can teach 
+a workshop without knowing all the topics that are being taught, and 
+if multiple instructors are both knowledgeable on the same topics, 
+they can help each other answer questions.  
+
+Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
+
+> ## How to Help
+> 
+> Many people who aren't comfortable teaching are still willing and
+> able to provide in-class support.  We call these people "helpers." 
+> 
+> Helpers can assist in a variety 
+> of ways: help learners
+> with setup and installation, answer questions during
+> exercises, monitor the room to spot people who may need help, or
+> keep an eye on the shared notes and either answer questions there or
+> remind the instructor to do so during breaks.
+> The [helper checklist][helpers] describes what helpers can do to
+> help instructors in more detail.
+> 
+> Helpers are sometimes people training to become teachers (i.e.,
+> they're Teacher B in the teach and assist model), but they can also
+> be advanced learners who already know the material well, previous 
+> workshop participants, or members of the host institution's technical 
+> support staff.  
+> Using advanced learners as helpers is doubly effective: not only are they
+> more likely to understand the problems their peers are having, it
+> also stops them from getting bored.  
+{: .callout}
+
+> ## Teaching Together - Nuts and Bolts
+> 
+> With a partner, imagine that you are planning a workshop together 
+> and answer the following questions: 
+> 
+> - How would you prepare to teach a workshop together?  
+> - During the workshop, what are some things the assisting instructor
+> can do (or shouldn't do!) to support the main instructor? 
+> 
+> As an entire group, discuss what you came up with and then compare 
+> to the recommendations below.  
+> 
+>> ## Recommendations
+>>
+>> If you and a partner are co-teaching, try to follow these recommendations:
+>> 
+>>- Coordinate who is teaching what, sufficiently in advance that 
+>>  both instructors are confident in their preparation.  
+>>
+>>- If you have time to do some
+>>  advance preparation together, try drawing a concept map together or 
+>>  teaching a short snippet of the lessons for each other. 
+>>  
+>>- Discuss in advance if you will providing feedback to each other 
+>>  and how to do so (see notes above).  
+>>
+>>- If it won't cause cognitive overload for you (the instructors), 
+>>  work out a couple of hand signals to communicate.  "You're
+>>  going too fast", "speak up", "that learner needs help", and, "It's
+>>  time for a bathroom break" are all useful.
+>>
+>>- The person who isn't teaching shouldn't interrupt, offer
+>>  corrections, elaborations, or amusing personal anecdotes, or do
+>>  anything else to distract from what the person teaching at the time
+>>  is doing or saying.  The one exception is that it's sometimes
+>>  helpful to ask leading questions, particularly if the learners seem
+>>  unsure of themselves.
+>>
+>>- For Carpentries workshops, a single instructor usually teaches for a 
+>>  half-day stretch (2-3 hours).  You can alternate more frequently, but 
+>>  each person should teach for at least 10-15 minutes at a stretch,
+>>  since students may be distracted by more frequent interleaving. 
+>>
+>>- Each person should take a couple of minutes before they start
+>>  teaching to see what their partner is going to teach after they're
+>>  done.  This allows each instructor to set up their partner's material
+>>  without covering it themselves.  
+>>
+>>- Whenever possible, the person who isn't teaching should stay engaged 
+>>  with the class.  Monitor the shared notes, keep an eye
+>>  on the students to see who's struggling, jot down some feedback to
+>>  give your teaching partner at the next break - anything that
+>>  contributes to the lesson is better than anything that doesn't.  It's 
+>>  easier for the other instructor to take a break to catch up on outside 
+>>  work (like email) if there are at least 
+>>  three instructors or sufficient helpers to make sure that the main 
+>>  instructor is supported.  
+> {: .solution}
+{: .challenge}
+
+In teaching as in life, shared misery is lessened and shared joy increased; 
+take a few minutes when the class is over to either
+congratulate or commiserate with each other.  In that moment,
+no-one will understand how pleased you are at helping someone
+understand how loops work, or how disappointed you are that you just
+couldn't get software to install on that one learner's laptop, than
+the person you just taught with.
 
 
 
