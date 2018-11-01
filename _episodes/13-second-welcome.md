@@ -19,7 +19,7 @@ keypoints:
 
 Yesterday we focused on general aspects of educational psychology and pedagogy. Today we will focus on the specifics of teaching Software and Data Carpentry workshops.
 We will look at the lessons that have been written by the Carpentries and discuss how to teach effective workshops. We will review specific
-teaching practices we follow at our workshops and practice using some of them. One of the most important practices is live coding. You rarely
+teaching practices we follow at our workshops and practice using some of them. One of the most important practices is participatory live coding. You rarely
 find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with a discussion 
 about workshop logistics that will help you in preparing to teach your first workshop.  
 
