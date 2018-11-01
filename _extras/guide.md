@@ -60,6 +60,7 @@ Details about the Instructor Trainer role including the application process, dut
 - Assign (or let participants select) physical breakout groups.  
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants do all small-group exercises with participants at same site.  
+- See section IV below for more tips.  
 
 ### Online trainings (completely distributed)  
 - When watching videos, have all participants watch separately.  
@@ -67,6 +68,7 @@ Details about the Instructor Trainer role including the application process, dut
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
+- See section IV below for more tips.  
 
 ## IV. Zoom Manual (Online Trainings)
 Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom
@@ -99,7 +101,25 @@ you’re not the host, please contact Carpentry staff immediately.
 - **Exercise management**
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. (G.W.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
+- **Shared notes tips**
+  - No matter what kind of shared doc you are using, it's usually a good idea to create 
+  two documents -- one for each day of the training.  
+    - Suggestion from AN: create a third doc for sharing concept maps, since they are 
+    images and can slow down the document.  
+  - Etherpad pros + cons
+    - Pros: line numbers
+    - Cons: simple formatting
+  - Google Doc pros + cons
+    - Pros: richer formatting
+    - Cons: no line numbers
 - **Zoom tips**
+  - Announce *at the beginning* of the training that all participants should mute when 
+  they are not talking.  You may need to repeat this a few times during the early part 
+  of the training, until people are doing it consistently.  
+  - In general, it works best to have everyone use zoom individually on their computers
+  (so you can see everyone's faces); for trainings where some of the participants are 
+  co-located, have them use their own computer for video but pick one person to use 
+  for mic/sound.  
   - “Gallery view” in the upper right toggles the display to show more participants' videos.  
   - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
   - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.
@@ -109,6 +129,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
 
 ## V. Curriculum Teaching Tips
+
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
 ### Welcome	
@@ -132,16 +153,11 @@ As written, this can run long.  Suggestions:
 ### Building Teaching Skill: The Importance of Practice	
 ### Wrap-Up and Homework for Tomorrow	
 ### Welcome Back	
-### Building Teaching Skill: Lesson Study
 ### Building Teaching Skill: Live Coding	
-### Building Teaching Skill: Performance Revised	
-### The Carpentries: Workshop Introductions
+### Building Teaching Skill: Lesson Study
+### Building Teaching Skill: Performance Revised
+### Building Teaching Skill: Managing a Diverse Classroom
 
-* More or less time
-    * The second major exercise (writing a mini-introduction and then 
-    practicing) can be made longer if you have the time or people are 
-    very keen on practicing their introductions.  Instead of 2 minutes, 
-    people could talk for 4-5 minutes each.  
 
 ### The Carpentries: How We Operate
 
@@ -154,11 +170,19 @@ As written, this can run long.  Suggestions:
    be running workshops on their own (so open trainings, or trainings for folks 
    who are ready to get started right away).  
 
+### The Carpentries: Workshop Introductions
+
+* More or less time
+    * The second major exercise (writing a mini-introduction and then 
+    practicing) can be made longer if you have the time or people are 
+    very keen on practicing their introductions.  Instead of 2 minutes, 
+    people could talk for 4-5 minutes each.  
+
 ### Afternoon Wrap-Up	
 
 ### Using Slides
 
-* 
+TBA
 
 ### General Preparation
 
@@ -171,6 +195,7 @@ here are some ways where it's easy to do so without much prep:
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
 * find + talk about a good (or bad) learning objective in "Lesson Study"
+* have this person monitor the chat (if online) and answer questions, catch "hands"
 
 
 
