@@ -153,6 +153,10 @@ title: "Glossary"
 *   **One-Up, One-Down**: 
     A feedback technique in which learners take turns giving positive and negative feedback without repeating anything that has been said before.
 
+*   **Participatory Live Coding**
+	A style of teaching where the instructor [live codes][wikipedia-live-coding] 		
+	and the learners "code along".
+
 *   **Performance-based Praise**:
     Providing positive feedback to learners that focuses on whether they have attained the correct answer.
     <br>
@@ -191,3 +195,4 @@ title: "Glossary"
     see *short-term memory*.
 
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
+[wikipedia-live-coding]: https://en.wikipedia.org/wiki/Live_coding 
