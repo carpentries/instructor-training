@@ -33,7 +33,7 @@ This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
 However, the instructor is not live coding in a vacuum. 
 Importantly, students are strongly encouraged
 to "code-along" with the instructor. 
-We refer to the practice of having the instructor live code and the learners code along as "participatory live coding".
+We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'. 
 
 > ## Up and Down
 >
