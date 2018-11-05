@@ -109,7 +109,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 >     using a cell phone or some other handheld device.
 >     Use a whiteboard or other visual aids if available
 >     (Note: Do not live code you lesson.
->     There will be a change to live code later.)
+>     There will be a chance to live code later.)
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
