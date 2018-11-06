@@ -119,7 +119,7 @@ How can we incorporate error framing into our lessons? We need to reduce the neg
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". 
 Sharing experiences of learning from errors can encourage learners to adopt a growth-mindset. Associating improvement-based praise with errors
 can also encourage positive emotions associated with making errors in learning. Finally, the use of 
-[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for instructors to model how errors can be positively 
+[participatory live coding]({{ page.root }}/14-live/) as the focus for teaching allows for instructors to model how errors can be positively 
 framed and the process for overcoming them.
 
 > ## Helping Learners Learn From Mistakes

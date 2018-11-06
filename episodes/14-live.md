@@ -1,27 +1,27 @@
 ---
 start: false
-title: "Building Teaching Skill: Live Coding"
+title: "Building Teaching Skill: Participatory Live Coding"
 teaching: 20
 exercises: 50
 questions:
-- "Why do we teach programming using live coding?"
+- "Why do we teach programming using participatory live coding?"
 objectives:
-- "Explain the advantages and limitations of live coding."
-- "Summarize the key dos and don'ts of live coding."
-- "Demonstrate live coding."
+- "Explain the advantages and limitations of participatory live coding."
+- "Summarize the key dos and don'ts of participatory live coding."
+- "Demonstrate participatory live coding."
 keypoints:
-- "Live coding gives learners continuous practice and feedback."
 - "Live coding forces the instructor to slow down."
-- "Mistakes made during live coding are valuable learning opportunities."
+- "Coding-along gives learners continuous practice and feedback."
+- "Mistakes made during participatory live coding are valuable learning opportunities."
 ---
 
 One of the cornerstones of Software and Data Carpentry teaching is live
 coding: *instructors don't use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
-gives general tips for an effective live coding presentation.
+gives general tips for an effective participatory live coding presentation.
 
-## Why Live Coding?
+## Why Participatory Live Coding?
 
 We do not use slides in our lessons.
 Instead, instructors plug their laptop into the projector
@@ -29,10 +29,15 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
+This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
+However, the instructor is not live coding in a vacuum. 
+Importantly, students are strongly encouraged
+to "code-along" with the instructor. 
+We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'. 
 
 > ## Up and Down
 >
-> List some advantages and challenges of live coding
+> List some advantages and challenges of participatory live coding
 > from both a learner's and an instructor's point of view
 > in the Etherpad.  
 >
@@ -45,8 +50,8 @@ and talking as we go.
 >> watching someone page through slides that present bits and pieces of the same code.
 >> *   It enables instructors to be more responsive to "what if?" questions.
 >> Where a slide deck is like a railway track,
->> live coding allows instructors to go off-road and follow their learners' interests.
->> *   Lateral knowledge transfer: live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
+>> participatory live coding allows instructors to go off-road and follow their learners' interests.
+>> *   Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
 >> teaching by watching *how* instructors do things.
 >> *   It slows the instructor down:
 >> if she has to type in the program as she goes along,
@@ -82,7 +87,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 
 > ## Compare and Contrast
 >
-> Watch this [first live coding demo video][live-coding-bad]
+> Watch this [first participatory live coding demo video][live-coding-bad]
 > and this [second demo video][live-coding-good]
 > as a group and then summarize your feedback on both in the Etherpad.
 > Use the 2x2 rubric for feedback we discussed earlier.  
@@ -103,7 +108,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 > {: .solution}
 {: .challenge}
 
-## Top Ten Tips for Live Coding in a Workshop
+## Top Ten Tips for Participatory Live Coding in a Workshop
 1. **Stand up and move around the room if possible.** This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.
 2. **Go slowly.** For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it.  Then point to the command and its output on the screen and go through it a second time.  This slows you down and allows learners to copy what you do, or to catch up.  Do not copy-paste code.
 3. **Mirror your learner's environment.** Try to create an environment that is as similar as possible to what your learners have to reduce cognitive load. Avoid using keyboard shortcuts.
@@ -138,12 +143,12 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 >
 > Teach 3 minutes of your chosen lesson episode using live coding to one or two
 > fellow trainees, then swap and watch while the other person(s) live codes for
-> you.
+> you. (For this exercise, your peers will not "code-along", but will instead observe and give feedback.)
 >
 > Explain in advance to your fellow trainee(s) what you will be teaching
 > and what the learners you teach it to are expected to be familiar with.
 >
-> **Don't record the live coding sessions.** Give each other feedback
+> **Don't record this exercise.** Give each other feedback
 > using the 2x2 rubric we discussed previously and enter the feedback
 > you received in the Etherpad.
 >

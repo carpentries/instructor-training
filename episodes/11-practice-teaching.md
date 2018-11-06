@@ -107,8 +107,9 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Use a whiteboard or other visual aids if available, but do not use live coding. 
->     We'll be practicing with live coding later.
+>     Use a whiteboard or other visual aids if available
+>     (Note: Do not live code you lesson.
+>     There will be a chance to live code later.)
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
