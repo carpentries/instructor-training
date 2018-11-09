@@ -30,10 +30,10 @@ typing in the code,
 reformatting data,
 and talking as we go.
 This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
-However, the instructor is not live coding in a vacuum. 
-Importantly, students are strongly encouraged
-to "code-along" with the instructor. 
-We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'. 
+However, the instructor is not live coding in a vacuum.
+Importantly, learners are strongly encouraged
+to "code-along" with the instructor.
+We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'.
 
 > ## Up and Down
 >
@@ -83,7 +83,7 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It's
 important to keep in mind, however, that feedback isn't helpful if you can't understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier]({{ page.source }}/instructor-training/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners. 
+[we learned earlier]({{ page.source }}/instructor-training/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
 
 > ## Compare and Contrast
 >

@@ -7,7 +7,7 @@ questions:
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What do I do if there is a Code of Conduct violation?"
 objectives:
-- "Evaluate different strategies for managing a class in which students have diverse backgrounds and skill levels."
+- "Evaluate different strategies for managing a class in which learners have diverse backgrounds and skill levels."
 - "Know what to do if someone at your workshop violates the Code of Conduct."
 keypoints:
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
@@ -16,37 +16,37 @@ keypoints:
 ---
 ## Never Teach Alone: How to Be a Co-instructor
 
-The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you. 
+The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you.
 *Co-teaching* describes any situation in which two teachers work
 together in the same classroom.  Friend and Cook's
 *[Interactions][worldcat-interactions]* describes several ways to do
-this; we use the following methods most frequently: 
+this; we use the following methods most frequently:
 
 - **Team teaching:** Both teachers deliver a single stream of content
   in tandem, taking turns the way that musicians taking solos would.
 
 - **Teach and assist:** Teacher A teaches while Teacher B moves around
-  the classroom to help students.
+  the classroom to help learners.
 
 Both of these models are better than teaching alone because they create
 opportunities for lateral knowledge transfer.
 Team teaching is particularly beneficial in day-long
 workshops: not only does it give each teacher's voice a chance to
 rest, it reduces the risk that they will be so tired by the end of the
-day that they will start snapping at their students or fumbling at
-their keyboard.  Having a co-instructor also means that you can teach 
-a workshop without knowing all the topics that are being taught, and 
-if multiple instructors are both knowledgeable on the same topics, 
+day that they will start snapping at their learners or fumbling at
+their keyboard.  Having a co-instructor also means that you can teach
+a workshop without knowing all the topics that are being taught, and
+if multiple instructors are both knowledgeable on the same topics,
 they can help each other answer questions.  
 
 Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
 
 > ## How to Help
-> 
+>
 > Many people who aren't comfortable teaching are still willing and
-> able to provide in-class support.  We call these people "helpers." 
-> 
-> Helpers can assist in a variety 
+> able to provide in-class support.  We call these people "helpers."
+>
+> Helpers can assist in a variety
 > of ways: help learners
 > with setup and installation, answer questions during
 > exercises, monitor the room to spot people who may need help, or
@@ -54,11 +54,11 @@ Putting some thought into how you and your co-instructor will work together can 
 > remind the instructor to do so during breaks.
 > The [helper checklist][helpers] describes what helpers can do to
 > help instructors in more detail.
-> 
+>
 > Helpers are sometimes people training to become teachers (i.e.,
 > they're Teacher B in the teach and assist model), but they can also
-> be advanced learners who already know the material well, previous 
-> workshop participants, or members of the host institution's technical 
+> be advanced learners who already know the material well, previous
+> workshop participants, or members of the host institution's technical
 > support staff.  
 > Using advanced learners as helpers is doubly effective: not only are they
 > more likely to understand the problems their peers are having, it
@@ -66,32 +66,32 @@ Putting some thought into how you and your co-instructor will work together can 
 {: .callout}
 
 > ## Teaching Together - Nuts and Bolts
-> 
-> With a partner, imagine that you are planning a workshop together 
-> and answer the following questions: 
-> 
+>
+> With a partner, imagine that you are planning a workshop together
+> and answer the following questions:
+>
 > - How would you prepare to teach a workshop together?  
 > - During the workshop, what are some things the assisting instructor
-> can do (or shouldn't do!) to support the main instructor? 
-> 
-> As an entire group, discuss what you came up with and then compare 
+> can do (or shouldn't do!) to support the main instructor?
+>
+> As an entire group, discuss what you came up with and then compare
 > to the recommendations below.  
-> 
+>
 >> ## Recommendations
 >>
 >> If you and a partner are co-teaching, try to follow these recommendations:
->> 
->>- Coordinate who is teaching what, sufficiently in advance that 
+>>
+>>- Coordinate who is teaching what, sufficiently in advance that
 >>  both instructors are confident in their preparation.  
 >>
 >>- If you have time to do some
->>  advance preparation together, try drawing a concept map together or 
->>  teaching a short snippet of the lessons for each other. 
+>>  advance preparation together, try drawing a concept map together or
+>>  teaching a short snippet of the lessons for each other.
 >>  
->>- Discuss in advance if you will providing feedback to each other 
+>>- Discuss in advance if you will providing feedback to each other
 >>  and how to do so (see notes above).  
 >>
->>- If it won't cause cognitive overload for you (the instructors), 
+>>- If it won't cause cognitive overload for you (the instructors),
 >>  work out a couple of hand signals to communicate.  "You're
 >>  going too fast", "speak up", "that learner needs help", and, "It's
 >>  time for a bathroom break" are all useful.
@@ -103,29 +103,29 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  helpful to ask leading questions, particularly if the learners seem
 >>  unsure of themselves.
 >>
->>- For Carpentries workshops, a single instructor usually teaches for a 
->>  half-day stretch (2-3 hours).  You can alternate more frequently, but 
+>>- For Carpentries workshops, a single instructor usually teaches for a
+>>  half-day stretch (2-3 hours).  You can alternate more frequently, but
 >>  each person should teach for at least 10-15 minutes at a stretch,
->>  since students may be distracted by more frequent interleaving. 
+>>  since learners may be distracted by more frequent interleaving.
 >>
 >>- Each person should take a couple of minutes before they start
 >>  teaching to see what their partner is going to teach after they're
 >>  done.  This allows each instructor to set up their partner's material
 >>  without covering it themselves.  
 >>
->>- Whenever possible, the person who isn't teaching should stay engaged 
+>>- Whenever possible, the person who isn't teaching should stay engaged
 >>  with the class.  Monitor the shared notes, keep an eye
->>  on the students to see who's struggling, jot down some feedback to
+>>  on the learners to see who's struggling, jot down some feedback to
 >>  give your teaching partner at the next break - anything that
->>  contributes to the lesson is better than anything that doesn't.  It's 
->>  easier for the other instructor to take a break to catch up on outside 
->>  work (like email) if there are at least 
->>  three instructors or sufficient helpers to make sure that the main 
+>>  contributes to the lesson is better than anything that doesn't.  It's
+>>  easier for the other instructor to take a break to catch up on outside
+>>  work (like email) if there are at least
+>>  three instructors or sufficient helpers to make sure that the main
 >>  instructor is supported.  
 > {: .solution}
 {: .challenge}
 
-In teaching as in life, shared misery is lessened and shared joy increased; 
+In teaching as in life, shared misery is lessened and shared joy increased;
 take a few minutes when the class is over to either
 congratulate or commiserate with each other.  In that moment,
 no-one will understand how pleased you are at helping someone
@@ -138,35 +138,35 @@ the person you just taught with.
 ## Managing a Diverse Classroom
 
 Although our workshops are targeted at novices, every workshop
-will have participants from a variety of backgrounds and technical 
+will have participants from a variety of backgrounds and technical
 skill levels. Some may be at the novice level in one technology (e.g. git),
 but competent or even expert in another (e.g. R). As an instructor,
 you will need to be attentive to this diversity in your learners' prior skill level,
 and adjust your instruction appropriately. This is one of the most difficult things
-instructors experience when running a workshop. 
+instructors experience when running a workshop.
 
 > ## What Are the Challenges?
-> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with 
-> a partner and put your thoughts in the Etherpad. 
-> 
+> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with
+> a partner and put your thoughts in the Etherpad.
+>
 > This discussion should take about 10 minutes.
 {: .challenge}
 
-Here are some strategies Carpentry 
+Here are some strategies Carpentry
 instructors have generated to deal with this issue:
 
 *   Before running a workshop,
     communicate its level clearly to everyone who's thinking of signing up
     by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you're upfront with participants that you'll be spending time learning how `for` loops work, more 
+    If you're upfront with participants that you'll be spending time learning how `for` loops work, more
     advanced learners are less likely to sign up.
 *   When asking learners to complete exercises, give "beginner" and "advanced" options.
     Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
 *   Ask more advanced learners to help people next to them.
     They'll learn from answering their peers' questions
     (since it will force them to think about things in new ways).
-*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices 
+*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices
     and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
     with by helpers or the co-instructor in the Etherpad.
 *   The helpers and the instructor who isn't teaching the particular episode
@@ -190,7 +190,7 @@ and hope that they'll understand.
 > with their own machine set up to do real work.  We therefore continue
 > to teach on all three major platforms (Linux, Mac OS X, and Windows),
 > even though it would be simpler to require learners to use just one.
-> 
+>
 > We have experimented with virtual machines (VMs) on learners'
 > computers to reduce installation problems, but those introduce
 > problems of their own: older or smaller machines simply aren't fast
@@ -198,10 +198,10 @@ and hope that they'll understand.
 > two different sets of keyboard shortcuts for things like copying and
 > pasting.
 >
-> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh] 
-> (SSH) or web browser pages instead. This solves the installation 
-> issues, but makes us dependent on host institutions' WiFi (which can be 
-> of highly variable quality), and has the issues mentioned above with things 
+> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh]
+> (SSH) or web browser pages instead. This solves the installation
+> issues, but makes us dependent on host institutions' WiFi (which can be
+> of highly variable quality), and has the issues mentioned above with things
 > like keyboard shortcuts.
 {: .callout}
 
@@ -212,13 +212,13 @@ violated the Code of Conduct, you may warn them, ask them to
 apologize, and/or expel them, depending on the severity of the
 violation and whether or not you believe it was intentional.
 
-The local workshop host is expected to help enforce the Code of Conduct and 
-you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. 
-If you choose to settle the issue yourself, you should notify the workshop host 
+The local workshop host is expected to help enforce the Code of Conduct and
+you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
+If you choose to settle the issue yourself, you should notify the workshop host
 of the issue in case s/he feels additional steps should be taken.
 
-No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) 
-or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) 
+No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org)
+or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
 as soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.
 
@@ -229,7 +229,7 @@ as soon as possible if this happens.
 
 
 
-At the end of the morning, do the following: 
+At the end of the morning, do the following:
 
 > ## Minute Cards Revisited
 >
