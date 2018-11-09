@@ -35,7 +35,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
 >
-> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for student success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!.]
+> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for trainee success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in trainee progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!.]
 {: .discussion}
 
 > ## Information for Today's Learners
@@ -62,7 +62,7 @@ Carpentry organizations.
 Software and Data Carpentry are
 both communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
-researchers.  Software Carpentry focuses on helping researchers develop foundational 
+researchers.  Software Carpentry focuses on helping researchers develop foundational
 computational skills; Data Carpentry focuses on helping
 researchers work effectively with their data through its lifecycle.
 
@@ -91,12 +91,12 @@ findings and demonstrating how they can be used to help people learn better and 
 
 ### Building Teaching Skill
 
-Just like learning a new language, a musical instrument, 
+Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.  
 We will have many opportunities to practice and give each other feedback throughout this workshop.
 We welcome questions and dialogue
-at any point. We'll be using the Etherpad to help facilitate discussion. 
-Please feel free to ask questions verbally or to put them into the notes or chat box 
+at any point. We'll be using the Etherpad to help facilitate discussion.
+Please feel free to ask questions verbally or to put them into the notes or chat box
 of the Etherpad.
 
 ### Creating a Positive Learning Environment
@@ -105,8 +105,8 @@ One part of making this a productive two days for all of us is a
 community effort to treat one another with kindness and respect.  This
 training, as in all Software/Data Carpentry workshops is subject to
 the Software and Data Carpentry Code of Conduct.  We will be able to
-give our best effort (and have the most fun!) if everyone abides by these guidelines. 
-We will also be discussing and practicing teaching techniques to create a positive and 
+give our best effort (and have the most fun!) if everyone abides by these guidelines.
+We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms.
 
 ### Carpentry History and Culture
@@ -143,7 +143,7 @@ motivate the activities and how you communicate with the attendees.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the primary or secondary education level.
-> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities. 
+> 6.  I have taught informally through outreach programs, hackathons, laboratory demonstrations, and similar activities.
 >
 > This exercise should take about 3 minutes.
 {: .discussion}
