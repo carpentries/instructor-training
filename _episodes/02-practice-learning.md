@@ -1,5 +1,6 @@
 ---
-title: "How Learning Works: The Importance of Practice"
+title: "Building Skill With Practice"
+block: "How Learning Works"
 teaching: 20
 exercises: 45
 questions:
@@ -155,7 +156,7 @@ That model also includes things like:
 These two examples illustrate something else as well.
 Learning consists of more than "just" building mental models
 and adding information to them;
-creating linkages between concepts and facts is as least as important.
+creating linkages between concepts and facts is at least as important.
 Telling people that they shouldn't repeat things,
 and that they should try to think in terms of little pieces loosely joined,
 both set the stage for discussing functions.
