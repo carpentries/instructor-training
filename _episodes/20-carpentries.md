@@ -20,7 +20,10 @@ about how you can get involved.
 
 ## History
 
-[Software Carpentry]({{ site.swc_site }} ) was founded in 1998 with the mission of teaching lab skills
+[The Carpentries](https://carpentries.org/) is a fiscally sponsored project of [Community Initiatives]()
+that was founded on 1 January, 2018. The Carpentries project comprises [Software Carpentry]({{ site.swc_site }}) and [Data Carpentry]({{ site.dc_site }}) communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
+
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills
 for research computing. [Data Carpentry]({{ site.dc_site }}) was founded in 2013 with the mission of building communities teaching universial data literacy. While one focuses on computing and the other on data, both organizations share the same value of promoting efficient, shareable, and reproducible research practices. Their aligned misions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 You can learn more about the history
