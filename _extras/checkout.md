@@ -37,8 +37,8 @@ setting of the two-day training.  These are:
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
-Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
-March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
+Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of
+March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry
 are now considered Carpentry instructors and can teach either set of curricula.
 
 > ## Submit an application  
@@ -55,14 +55,14 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1. Providing substantive feedback on an existing issue or pull request (preferred). 
+1. Providing substantive feedback on an existing issue or pull request (preferred).
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
 Contributions to Data Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
-Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
+Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing
 to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that
 lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/). For Software Carpentry this is
 [www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
@@ -142,9 +142,9 @@ As you are reading, make notes about the following:
 1.  Was there anything that you found unclear in the material? Did you get stuck anywhere?
 2.  Did you feel like you would like to change the flow or present the concepts differently?
     If so, what and why?
-3.  What are some misconceptions that the students may have when learning this material?
+3.  What are some misconceptions that the learners may have when learning this material?
     Which bits of the lesson may be tricky and if poorly explained,
-    may lead the students to broken mental models?
+    may lead the learners to broken mental models?
 4.  What prior knowledge do learners need to have before participating in this lesson?
     If you were to list any prerequisites, what would they be?
 

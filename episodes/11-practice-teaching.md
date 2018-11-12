@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: The Importance of Practice"
+title: "Teaching is a Skill"
+block: "Building Teaching Skill"
 teaching: 15
 exercises: 55
 questions:
@@ -107,8 +108,9 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Use a whiteboard or other visual aids if available, but do not use live coding. 
->     We'll be practicing with live coding later.
+>     Use a whiteboard or other visual aids if available
+>     (Note: Do not live code you lesson.
+>     There will be a chance to live code later.)
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
@@ -200,7 +202,7 @@ will help them improve. Remember that giving and receiving feedback is a skill t
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.  
 
-> ## Feedback on Feedback
+> ## Feedback on Feedback (Optional)
 >
 > Watch either this [scipy tutorial][scipy-video-1] (8:40)
 > or this [other tutorial][scipy-video-2] (11:42).
@@ -228,13 +230,14 @@ may have a fixed mindset about teaching. By strengthening your growth mindset wi
 transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
 practice teaching and to get and give feedback tomorrow.
 
+
 ## Optional Exercises
 
 > ## Skill Acquisition: What level are your teaching skills?
 > 
 > As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice. 
 > Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
->Discuss with a partner and then write some thoughts in the Etherpad.
+> Discuss with a partner and then write some thoughts in the Etherpad.
 {: .challenge}
 
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
