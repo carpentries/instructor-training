@@ -132,36 +132,32 @@ you’re not the host, please contact Carpentry staff immediately.
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
 ### Welcome	
-
-* Introducing the Code of Conduct
-    * link to suggested text
-
-### How Learning Works: The Importance of Practice 
-### How Learning Works: Expertise and Instruction	
-### How Learning Works: Working Memory and Cognitive Load	
-### Building Teaching Skill: Getting Feedback	
-### Creating a Positive Learning Environment: Motivation and Demotivation
+### Building Skill With Practice
+### Expertise and Instruction	
+### Memory and Cognitive Load	
+### Building Skill With Feedback	
+### Motivation and Demotivation
 
 As written, this can run long.  Suggestions: 
 
-* Have the "One Thing" and "What Happens When Accessibility is an Issue" exercises be alternates (i.e. do only one of the two exercises).
-* Remove the "Strategies for Motivating Learners" exercise. Many of the strategies mentioned in this list are not directly applicable to our workshops and there is another exercise about motivational strategies that immediately follows. We could move this exercise to the "Optional Exercises" section.
-* CK: In general, I approach this section as "which 3 out of the 6 exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
+* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
 
-### Creating a Positive Learning Environment: Mindset
-### Building Teaching Skill: The Importance of Practice	
+### Mindset
+### Teaching is a Skill
 ### Wrap-Up and Homework for Tomorrow	
 ### Welcome Back	
-### Building Teaching Skill: Live Coding	
-### Building Teaching Skill: Lesson Study
-### Building Teaching Skill: Performance Revised
-### Building Teaching Skill: Managing a Diverse Classroom
-
+### Live Coding	is a Skill
+### Lesson Study
+### More Practice Live Coding
+### Managing a Diverse Classroom
 
 ### The Carpentries: How We Operate
 
+* CK: Not an "official" exercise, but after explaining the workshops and how to run them, 
+go around the room, asking each person if they have a question + then answer them.  
+
 * Exercise: Creating a Workshop Website
-   * This takes some time, so some people opt to skip this section.  Inevitably, 
+   * CK: This takes some time, so some people opt to skip this section.  Inevitably, 
    when working with a group of mixed experience with Github, some will be able 
    to zip through this exercise, where others will struggle.  We **have** gotten 
    positive feedback about this exercise as well, where learners felt like it was 
@@ -169,15 +165,19 @@ As written, this can run long.  Suggestions:
    be running workshops on their own (so open trainings, or trainings for folks 
    who are ready to get started right away).  
 
-### The Carpentries: Workshop Introductions
+* CK: The coffee break after this would be a great time for an "Ask and Offer" if the 
+group is interested. 
+
+### Workshop Introductions
 
 * More or less time
-    * The second major exercise (writing a mini-introduction and then 
+    * CK: The second major exercise (writing a mini-introduction and then 
     practicing) can be made longer if you have the time or people are 
     very keen on practicing their introductions.  Instead of 2 minutes, 
     people could talk for 4-5 minutes each.  
 
-### Afternoon Wrap-Up	
+### Afternoon Wrap-Up
+
 
 ### Using Slides
 
