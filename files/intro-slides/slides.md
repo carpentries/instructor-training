@@ -8,10 +8,10 @@ Think back to courses or workshops you really liked or didn't like.
 
 How did those courses start on the first day? Were you confident in the
 instructors ability to teach the course? Did you feel like the instructor was
-enthusiastic about the course and invested in the students outcomes? Was it clear
+enthusiastic about the course and invested in the learners outcomes? Was it clear
 what you were going to be learning? Were you excited to get the chance
 to be learning about those things? Or did you leave that first day thinking
-the instructor was uninterested, that you weren't the students they wanted to
+the instructor was uninterested, that you weren't the learners they wanted to
 be teaching or you had no idea what the course was supposed to be about?
 
 ---
@@ -40,7 +40,7 @@ Things here are adapted from: Eberly Center for Teaching Excellence & Educationa
 
 After the introduction
 
-Students should:
+Learners should:
 - believe in your competence to teach the workshop
 - be able to predict the type of instruction
 - know what the learning objectives are (what will be taught)
@@ -58,11 +58,11 @@ To meet these objectives an introduction should have 8 components
 - Orchestrate positive first impressions
 - Introduce yourself effectively
 - Clarify learning objectives and expectations
-- Help students learn about each other
+- Help learners learn about each other
 - Set the tone for the workshop
-- Collect baseline data on students' knowledge and motivation
-- Whet students' appetite for workshop content
-- Inform students of workshop requirements
+- Collect baseline data on learners' knowledge and motivation
+- Whet learners' appetite for workshop content
+- Inform learners of workshop requirements
 
 ---
 
@@ -75,7 +75,7 @@ To meet these objectives an introduction should have 8 components
   'Welcome!' or 'Yay, data' or even a question for people to think about.
 
 - **Your use of the few minutes before class.**  
-Greeting the students as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganization, and so on.
+Greeting the learners as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganization, and so on.
 
 ---
 
@@ -111,11 +111,11 @@ are confident in their success as long as they are trying new things.
 
 ---
 
-### Help students learn about each other
+### Help learners learn about each other
 
 Foster a collaborative environment
 
-Have students introduce themselves to each other.
+Have learners introduce themselves to each other.
 
 One idea:  
 Have everyone turn to a partner and introduce themselves with their name, one word about their research 'microbes', 'dogs', 'vectors', 'stars' and a thing they're proud of that they made. What
@@ -128,14 +128,14 @@ the effects of stereotype threat. (We have no actual evidence this particular ex
 
 ### Set the tone for the workshop
 
-The way you engage students at the beginning sends powerful messages about the level of involvement and interaction you expect from them.
+The way you engage learners at the beginning sends powerful messages about the level of involvement and interaction you expect from them.
 
 - get in to introductions and interactions right away, since this is an interactive workshop
-- establish a culture of feedback. Let students know you are interested in how they experience the course and in any suggestions they have.
+- establish a culture of feedback. Let learners know you are interested in how they experience the course and in any suggestions they have.
 
 ---
 
-### Collect baseline data on students' knowledge and motivation
+### Collect baseline data on learners' knowledge and motivation
 
 - you will already have information from the pre-assessment survey on this,
 so you won't need to survey the audience, but look through the survey data
@@ -143,16 +143,16 @@ before you arrive so you know who your audience is
 
 ---
 
-### Whet students' appetite for workshop content
+### Whet learners' appetite for workshop content
 
 They're already at the workshop, so it might seem unnecessary to motivate them to be there,
-but it is a great chance to stimulate interest about the workshop and to activate relevant prior knowledge students have about the material.
+but it is a great chance to stimulate interest about the workshop and to activate relevant prior knowledge learners have about the material.
 
 ---
 
-### Inform students of workshop requirements
+### Inform learners of workshop requirements
 
-Let students know about any logistics for the days - lunch times, breaks, accessibility, etc.
+Let learners know about any logistics for the days - lunch times, breaks, accessibility, etc.
 
 ---
 
