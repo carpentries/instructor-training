@@ -75,8 +75,8 @@ researchers to be more productive and do better research.
 
 This two-day training focuses on developing teaching skills that are broadly 
 useful across all of our lessons.
-These skills will be developed through active
-discussion with fellow learners.
+These skills will be developed through discussion, 
+practice, and feedback with fellow learners.
 
 We will **not** be going over Data Carpentry or Software Carpentry workshop content in detail (although you will get 
 familiarity with some of the content through the exercises), 
