@@ -1,7 +1,7 @@
 ---
 layout: break
-title: "Lunch"
+title: "Afternoon Coffee"
 teaching: 0
 exercises: 0
-break: 60
+break: 15
 ---

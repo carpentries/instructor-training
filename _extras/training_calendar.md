@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Instructor Training Calendar for Carpentries Members"
-permalink: /training_calendar/
 ---
 
 
@@ -18,25 +17,30 @@ Training dates for early 2019 will be announced in December 2018.
 # North America
 
 #### Eastern time
-*Additional training dates will be scheduled if needed*
+* September 25-26, 2018 (closed)
+* October 10-11, 2018 (closed)
+* December 3-4, 2018 (closed)
 
 #### Central time
-*Additional training dates will be scheduled if needed*
+* November 8-9, 2018 (closed)
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
 
 #### Pacific time
-* November 27-28
-* December 11-12
+* October 10-11, 2018 (closed)
+* November 27-28, 2018 (closed)
+* December 11-12, 2018
 
 # Europe
 
 #### Western European time
-*Additional training dates will be scheduled if needed*
+* October 9-10, 2018 (closed)
+* November 5-6, 2018 (closed)
 
 
 #### Central European time
+* October 16-17, 2018 (closed)
 * November 29-30, 2018 (*Note date has changed since calendar was first published*)
 
 

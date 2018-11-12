@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Icebreakers"
-permalink: /icebreakers/
 ---
 
 ## Icebreaker Ideas
@@ -34,7 +33,7 @@ Are there other ways of drawing knowledge that appeal to you more?
 
 ### Discussing Live Coding
 
-How does live coding compare to other kinds of demonstration-based teaching
+How does participatory live coding compare to other kinds of demonstration-based teaching
 like lab lessons?
 
 ### In the Real World

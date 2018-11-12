@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Checkout Procedure"
-permalink: /checkout/
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
-demopad: http://pad.software-carpentry.org/teaching-demos
+demopad: https://pad.carpentries.org/teaching-demos-recovered
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
@@ -38,8 +37,8 @@ setting of the two-day training.  These are:
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
-Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of 
-March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry 
+Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of
+March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry
 are now considered Carpentry instructors and can teach either set of curricula.
 
 > ## Submit an application  
@@ -56,14 +55,14 @@ with our collaborative curriculum development process.
 
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
-1. Providing substantive feedback on an existing issue or pull request (preferred). 
+1. Providing substantive feedback on an existing issue or pull request (preferred).
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email]({{ site.email }}).
+Contributions to Data Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}).
 Contributions to Software Carpentry materials must be submitted through GitHub.
 
-Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing 
+Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing
 to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that
 lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/). For Software Carpentry this is
 [www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
@@ -71,7 +70,7 @@ contributions.
 
 Please note that:
 
-1.  If you submit your contribution through GitHub, you need to [send us]({{ mailto:site.email }})
+1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
 2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
@@ -129,7 +128,7 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know]({{ mailto:site.email }})
+please [let us know](mailto:{{ site.email }})
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
@@ -143,9 +142,9 @@ As you are reading, make notes about the following:
 1.  Was there anything that you found unclear in the material? Did you get stuck anywhere?
 2.  Did you feel like you would like to change the flow or present the concepts differently?
     If so, what and why?
-3.  What are some misconceptions that the students may have when learning this material?
+3.  What are some misconceptions that the learners may have when learning this material?
     Which bits of the lesson may be tricky and if poorly explained,
-    may lead the students to broken mental models?
+    may lead the learners to broken mental models?
 4.  What prior knowledge do learners need to have before participating in this lesson?
     If you were to list any prerequisites, what would they be?
 
@@ -235,4 +234,4 @@ and when and where to sign up for another session.
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
-please [contact us]({{ mailto:site.email }}).
+please [contact us](mailto:{{ site.email }}).
