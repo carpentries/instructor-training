@@ -1,5 +1,6 @@
 ---
-title: "Creating a Positive Learning Environment: Mindset"
+title: "Mindset"
+block: "Creating a Positive Learning Environment"
 teaching: 20
 exercises: 20
 questions:

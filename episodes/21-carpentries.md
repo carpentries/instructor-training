@@ -1,5 +1,6 @@
 ---
 title: "The Carpentries: How We Operate"
+block: "The Carpentries"
 teaching: 30
 exercises: 45
 questions:

@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: The Importance of Practice"
+title: "Teaching is a Skill"
+block: "Building Teaching Skill"
 teaching: 15
 exercises: 55
 questions:

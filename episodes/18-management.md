@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: Managing a Diverse Classroom"
+title: "Managing a Diverse Classroom"
+block: "Building Teaching Skill"
 teaching: 10
 exercises: 10
 questions:
