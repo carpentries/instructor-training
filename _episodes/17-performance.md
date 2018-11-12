@@ -10,7 +10,7 @@ keypoints:
 - "(Reflective) Practice makes perfect."
 ---
 > ## Round Two
-> First, have a look at the [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md) that is given to trainers as a suggested framework for evaluating the online teaching demonstration sessions that are part of instructor checkout. 
+> First, have a look at the [rubric]({{ page.root }}/demos_rubric/) that is given to trainers as a suggested framework for evaluating the online teaching demonstration sessions that are part of instructor checkout. 
 > Does this rubric make sense? Take a moment to think about things you'd like to do differently with your next live coding
 > practice. This is also a good time to ask questions about teaching demonstration.
 >
