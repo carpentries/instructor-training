@@ -1,5 +1,6 @@
 ---
-title: "The Carpentries: Workshop Introductions"
+title: "Workshop Introductions"
+block: "The Carpentries"
 teaching: 10
 exercises: 30
 questions:

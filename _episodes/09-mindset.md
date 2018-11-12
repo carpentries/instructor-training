@@ -1,5 +1,6 @@
 ---
-title: "Creating a Positive Learning Environment: Mindset"
+title: "Mindset"
+block: "Creating a Positive Learning Environment"
 teaching: 20
 exercises: 20
 questions:
@@ -153,7 +154,7 @@ grit.
 - *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of learners' individual long-term goals can instill 
 passion and drive for learning despite the difficulties of the topic.
 
-> ## How Are You Gritty?
+> ## How Are You Gritty? (Optional)
 > 
 > A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.

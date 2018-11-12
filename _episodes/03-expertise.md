@@ -1,5 +1,6 @@
 ---
-title: "How Learning Works: Expertise and Instruction"
+title: "Expertise and Instruction"
+block: "How Learning Works"
 teaching: 20
 exercises: 30
 questions:
@@ -109,7 +110,7 @@ before a novice has even finished reading the error message. Because of this, it
 while teaching to be explicit about the process you are using to diagnose and correct errors, even if they
 seem trivial to you, as they often will.
 
-> ## Diagnosis  
+> ## Diagnosis  (Optional)
 >
 > What is an error message that you encounter frequently in your work? (These are often syntax errors.)
 > Take a few minutes to plan out how you would explain that error message to your learners. Write the
@@ -126,7 +127,7 @@ who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
-> ## Blind Spots  
+> ## Blind Spots  (Optional)
 >
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without

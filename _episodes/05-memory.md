@@ -1,5 +1,6 @@
 ---
-title: "How Learning Works: Memory and Cognitive Load"
+title: "Memory and Cognitive Load"
+block: "How Learning Works"
 teaching: 20
 exercises: 30
 questions:
@@ -48,13 +49,13 @@ the material as well as if we present small amounts of information interspersed 
 practice opportunities. This is yet another reason why frequent formative assessment is
 important.
 
-> ## Test Your short-term memory
+> ## Test Your Working Memory (5 min)
 >
-> [This website][memory-test] implements a short test of short-term memory. You
-> will be presented with a list of words, each shown for only a very short time.
-> At the end, you will be asked to list as many of the words as you can remember.
->
-> Take 5 minutes to complete the exercise. How many did you remember? Write your answer
+> [This website][memory-test] implements a short test of working memory. You will be presented with a variety of different 
+> symbols, each presented for only a very short time, and asked to select those that you remember from a second set of 
+> symbols. There are 21 steps to the quiz, after which you can skip over the survey to see your results. 
+> 
+> Take 5 minutes to complete the exercise. What was your score? Write your answer 
 > in the Etherpad.
 >
 > > ## Non-web version of this exercise
