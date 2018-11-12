@@ -1,5 +1,6 @@
 ---
 title: "The Carpentries: How We Operate"
+block: "The Carpentries"
 teaching: 30
 exercises: 45
 questions:
@@ -52,7 +53,7 @@ computational challenges,
 
 In February 2017, Software and Data Carpentry began to discuss merging the two projects. Software and Data
 Carpentry formed an umbrella project ("The Carpentries"), with a shared governance,
-community structure, and policies in January, 2018. Each project will maintain their own curricular materials.
+community structure, and policies in January, 2018. Each project maintains its own curricular materials.
 
 ## The Carpentry Community
 
