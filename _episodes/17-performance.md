@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: Performance Revised"
+title: "More Practice Live Coding"
+block: "Building Teaching Skill"
 teaching: 20
 exercises: 25
 questions:

@@ -1,6 +1,7 @@
 ---
 start: false
-title: "Building Teaching Skill: Participatory Live Coding"
+title: "Live Coding is a Skill"
+block: "Building Teaching Skill"
 teaching: 20
 exercises: 50
 questions:

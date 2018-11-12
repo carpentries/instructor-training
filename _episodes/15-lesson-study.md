@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: Lesson Study"
+title: "Preparing to Teach"
+block: "Building Teaching Skill"
 teaching: 20
 exercises: 30
 questions:

@@ -1,5 +1,6 @@
 ---
-title: "How Learning Works: The Importance of Practice"
+title: "Building Skill With Practice"
+block: "How Learning Works"
 teaching: 20
 exercises: 45
 questions:
