@@ -1,7 +1,8 @@
 ---
 title: "The Carpentries: How We Operate"
+block: "The Carpentries"
 teaching: 30
-exercises: 35
+exercises: 45
 questions:
 - "How are Software, Data, and Library Carpentry organized and run?"
 objectives:
@@ -52,7 +53,7 @@ computational challenges,
 
 In February 2017, Software and Data Carpentry began to discuss merging the two projects. Software and Data
 Carpentry formed an umbrella project ("The Carpentries"), with a shared governance,
-community structure, and policies in January, 2018. Each project will maintain their own curricular materials.
+community structure, and policies in January, 2018. Each project maintains its own curricular materials.
 
 ## The Carpentry Community
 
@@ -63,6 +64,22 @@ The Carpentries works to help institutions and individuals spread skills for dat
 > If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v2.pdf).
 >
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+>
+>> ## Solution  
+>> Instructors: C
+>> Mentors: E
+>> Trainers: D
+>> Lesson developers: J
+>> Curriculum advisors: B
+>> Lesson maintainers: F
+>> Lesson Infrastructure Team: I
+>> Assessment Team: K
+>> Champions: L
+>> Infrastructure Team: H
+>> Workshop Administrators: A
+>> Code of Conduct Committee: G
+> {: .solution}
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 > ## Get Connected
@@ -142,13 +159,13 @@ The workshop will show up on our websites shortly thereafter.
 > and follow the directions to create a workshop website using your local location and today's date.
 > Put the link for your workshop website into the Etherpad.
 >
-> This exercise should take about 10 minutes.
+> This exercise should take about 25 minutes.
 {: .challenge}
 
 > ## Question and Answer
 >
 > What questions do you have about running and teaching at a workshop? Talk with a partner and
-> enter your questions into the Etherpad.
+> enter your questions into the Etherpad. At this time we will also return to discuss questions remaining from the beginning of the day.
 >
 > Leave about 10 minutes for this discussion.
 {: .challenge}
@@ -165,38 +182,6 @@ based on best practices.  We want to draw together the collective expertise of
 our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
 
-### Lesson Contribution
-
-The lesson materials for Software and Data Carpentry
-are hosted on GitHub:
-
-*   [Data Carpentry on GitHub]({{ site.dc_github }})
-*   [Software Carpentry on GitHub]({{ site.swc_github }})
-
-and are developed collaboratively.  Each lesson is in a separate
-repository, and consists of narrative lesson material and an
-associated directory containing the data or scripts needed in the
-lesson.  This source material is also then served as a website, using
-GitHub's "gh-pages" feature.
-
-Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced
-as issues, discussed by the community, and addressed via a pull
-request, which serves as a "request" to make changes, and can also
-be discussed before changes are merged.  
-
-> ## Check Out the Discussion
->
-> As an instructor, your voice is important! We want you to be actively involved
-> in discussions about the lesson materials (and other aspects of the Carpentry community).
-> Go to the GitHub page for the lesson you worked with over the past two days and click on the
-> "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
-> to the conversation! If you do make a significant contribution to the discussion, send a link to
-> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You've
-> just completed one of the three remaining steps in becoming a Carpentry instructor.
->
-> Leave about 5-10 minutes for this exercise.
-{: .challenge}
 
 > ## Lesson Incubation
 >

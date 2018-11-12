@@ -1,5 +1,6 @@
 ---
-title: "Creating a Positive Learning Environment: Mindset"
+title: "Mindset"
+block: "Creating a Positive Learning Environment"
 teaching: 20
 exercises: 20
 questions:
@@ -119,7 +120,7 @@ How can we incorporate error framing into our lessons? We need to reduce the neg
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". 
 Sharing experiences of learning from errors can encourage learners to adopt a growth-mindset. Associating improvement-based praise with errors
 can also encourage positive emotions associated with making errors in learning. Finally, the use of 
-[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for instructors to model how errors can be positively 
+[participatory live coding]({{ page.root }}/14-live/) as the focus for teaching allows for instructors to model how errors can be positively 
 framed and the process for overcoming them.
 
 > ## Helping Learners Learn From Mistakes
@@ -153,7 +154,7 @@ grit.
 - *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of learners' individual long-term goals can instill 
 passion and drive for learning despite the difficulties of the topic.
 
-> ## How Are You Gritty?
+> ## How Are You Gritty? (Optional)
 > 
 > A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
