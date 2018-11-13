@@ -2,23 +2,34 @@
 layout: page
 title: "Instructor Notes"
 ---
-Shortcuts to: 
-- Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
+
+Table of Contents 
+
+* [I. Information For and About Instructor Trainers](#more-info)
+* [II. Running an Instructor Training Event (General)](#general)
+* [III. Online vs In Person Training Events](#online-inperson)
+* [IV. Using Zoom  for Online Trainings](#zoom)
+* [V. Curriculum Teaching Tips](#curriculum)
 
 ## I. Information For and About Instructor Trainers
+
+<a name="more-info"></a>
+
 Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. [Instructions on running a Demo session][demos] are also provided in the Trainer Guide.
 
 ## II. Running an Instructor Training Event (General)
 
-### Four weeks before the event
+<a name="general"></a>
+
+### Four Weeks before the Event
 -  Contact your co-Trainer(s) and decide who will teach what.  
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-### Two weeks before the event
+### Two Weeks before the Event
 -  Introduce yourself to your trainees.  
 
-### One week before the event    
+### One Week before the Event    
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely: 
@@ -47,7 +58,27 @@ Details about the Instructor Trainer role including the application process, dut
 ### Long-term after the event
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-## III. Differences Among Training Types
+### Using Slides
+
+TBA
+
+### General Preparation
+
+TBA
+
+### Using Helpers/Co-Instructors
+
+If you have a helper for the training, or want to involve your co-instructor more, 
+here are some ways where it's easy to do so without much prep: 
+* give an example of a mental model in "The Importance of Practice"
+* tell a motivational/demotivational story in "Motivation and Demotivation"
+* help collect 1-up, 1-down feedback by either writing or directing the participants
+* find + talk about a good (or bad) learning objective in "Lesson Study"
+* have this person monitor the chat (if online) and answer questions, catch "hands"
+
+## III. Online vs In Person Training Events
+
+<a name="online-inperson"></a>
 
 ### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -69,7 +100,10 @@ Details about the Instructor Trainer role including the application process, dut
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
 - See section IV below for more tips.  
 
-## IV. Zoom Manual (Online Trainings)
+## IV. Using Zoom  for Online Trainings 
+
+<a name="zoom"></a>
+
 Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
@@ -129,13 +163,15 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ## V. Curriculum Teaching Tips
 
+<a name="curriculum"></a>
+
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
 ### Welcome	
-### Building Skill With Practice
+### Building Skill with Practice
 ### Expertise and Instruction	
 ### Memory and Cognitive Load	
-### Building Skill With Feedback	
+### Building Skill with Feedback	
 ### Motivation and Demotivation
 
 As written, this can run long.  Suggestions: 
@@ -177,25 +213,6 @@ group is interested.
     people could talk for 4-5 minutes each.  
 
 ### Afternoon Wrap-Up
-
-
-### Using Slides
-
-TBA
-
-### General Preparation
-
-
-### Using Helpers/Co-Instructors
-
-If you have a helper for the training, or want to involve your co-instructor more, 
-here are some ways where it's easy to do so without much prep: 
-* give an example of a mental model in "The Importance of Practice"
-* tell a motivational/demotivational story in "Motivation and Demotivation"
-* help collect 1-up, 1-down feedback by either writing or directing the participants
-* find + talk about a good (or bad) learning objective in "Lesson Study"
-* have this person monitor the chat (if online) and answer questions, catch "hands"
-
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
