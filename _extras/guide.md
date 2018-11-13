@@ -2,7 +2,7 @@
 layout: page
 title: "Instructor Notes"
 ---
-Shortcuts to: 
+Shortcuts to:
 - Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
 
 ## I. Information For and About Instructor Trainers
@@ -21,7 +21,7 @@ Details about the Instructor Trainer role including the application process, dut
 ### One week before the event    
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
--  If teaching remotely: 
+-  If teaching remotely:
   -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
   -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
   -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
@@ -29,14 +29,14 @@ Details about the Instructor Trainer role including the application process, dut
   - Confirm with your host that breakout rooms are available or make an alternate plan
   - Create a plan for printing handouts & determine who will bring sticky notes
   - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
-  - Check on availability/timing of coffee, lunch, or any other details that matter to you
+  - Check on availability/timing of breaks, lunch, or any other details that matter to you
 
 ### During the event
 -  Take attendance.  
 -  Remind member trainees to fill out application (Open Training applicants have already done this).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
--  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
+-  If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch.  
 
 ### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
@@ -90,7 +90,7 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ### General tips for online training:  
 - **Support the lead**
-	- It's tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are: 
+	- It's tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
 	  - Monitor the chat in zoom/notes
 	  - Help post exercises + provide instructions
 	  - Find links or references
@@ -110,22 +110,22 @@ you’re not the host, please contact Carpentry staff immediately.
 ## V. Curriculum Teaching Tips
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
-### Welcome	
-### How Learning Works: The Importance of Practice 
-### How Learning Works: Expertise and Instruction	
-### How Learning Works: Working Memory and Cognitive Load	
-### Building Teaching Skill: Getting Feedback	
+### Welcome
+### How Learning Works: The Importance of Practice
+### How Learning Works: Expertise and Instruction
+### How Learning Works: Working Memory and Cognitive Load
+### Building Teaching Skill: Getting Feedback
 ### Creating a Positive Learning Environment: Mindset
-### Building Teaching Skill: The Importance of Practice	
-### Wrap-Up and Homework for Tomorrow	
-### Welcome Back	
-### Building Teaching Skill: Lesson Study	
-### Building Teaching Skill: Live Coding	
-### Building Teaching Skill: Performance Revised	
-### The Carpentries: Workshop Introductions	
-### The Carpentries: How We Operate	
+### Building Teaching Skill: The Importance of Practice
+### Wrap-Up and Homework for Tomorrow
+### Welcome Back
+### Building Teaching Skill: Lesson Study
+### Building Teaching Skill: Live Coding
+### Building Teaching Skill: Performance Revised
+### The Carpentries: Workshop Introductions
+### The Carpentries: How We Operate
 ### The Carpentries: Teaching Practices
-### Afternoon Wrap-Up	
+### Afternoon Wrap-Up
 
 ### Using Slides
 ### General Preparation
