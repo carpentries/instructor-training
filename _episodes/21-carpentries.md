@@ -5,7 +5,7 @@ teaching: 30
 exercises: 45
 questions:
 - "How is The Carpentries organized and run?"
-- "What is the difference between SWC, DC, and SWC workshops?"
+- "What is the difference between SWC, DC, and LC workshops?"
 objectives:
 - "Get connected with the Carpentry community."
 - "Describe where you can go to get information on running a workshop."
@@ -15,7 +15,7 @@ keypoints:
 
 ---
 
-In becoming a certified [Carpentry instructor](https://carpentries.org/instructors/),
+In becoming a certified [Carpentries instructor](https://carpentries.org/instructors/),
 you are also becoming part of a community of like-minded volunteers.
 This section provides some background on 
 [The Carpentries]({{ site.carpentries_site }}) projects and information
@@ -25,17 +25,18 @@ about how to get involved.
 
 [Software Carpentry]({{ site.swc_site }}) was founded in 1998 
 with the mission of teaching lab skills for research computing. 
-[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universial data literacy. 
+[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry](({{ site.lc_site }})) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
-One January 1, 2018, Software Carpentry and Data Carpentry merged 
+On January 1, 2018, Software Carpentry and Data Carpentry merged 
 their projects to form a new project called
 [The Carpentries]({{ site.carpentries_site }})
 under the fiscal sponsorship of 
-[Community Initiatives](https://communityin.org/)
+[Community Initiatives](https://communityin.org/).
+Within this new organization structure, Software Carpentry and Data Carpentry retain their individual identities as Lesson Programs of the Carpentries.
 On November 1, 2018, The Carpentries Executive Council 
 approved [Library Carpentry](({{ site.lc_site }})) 
-as an official Lesson Program.
+as the third official Lesson Program of the Carpentries.
 
 The Carpentries project comprises communities of Instructors, Trainers,
 Maintainers, helpers, and supporters from 
@@ -135,7 +136,7 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 
 ### Materials
 
-All of Software Carpentry and Data Carpentry's lessons materials are freely available
+All of Software Carpentry, Data Carpentry, and Library Carpentry lessons materials are freely available
 under a permissive [open license]({{ page.root }}/LICENSE).
 You may use them whenever and however you want,
 provided you cite the original source.
@@ -145,7 +146,7 @@ provided you cite the original source.
 The names "Software Carpentry", "Data Carpentry" and "Library Carpentry"
 and their respective logos
 are all trademarked.
-You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
+You may only call a workshop a Software Carpentry, Data Carpentry, or Library Carpentry workshop if:
 
 *   it covers the core topics,
 *   at least one instructor is certified,
@@ -164,9 +165,11 @@ other modules in the same domain from the Data Carpentry curriculum.
 Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials.
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
-A Library Carpentry [core curriculum](https://librarycarpentry.github.io/test/lessons/) 
-includes an introduction to data, the UNIX shell, OpenRefine, and Git. 
-The extended Library Carpentry curriculum includes 
+An Library Carpentry workshop must include three to four of the
+[core lessons](https://librarycarpentry.github.io/test/lessons/), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
+Library Carpentry almost maintains an "extended" set of lessons
+that can be taught in addition to the core curriculum 
+These lessons are taught infrequently or are under development and include:
 SQL, webscraping, Python and an introduction to data for archivists. 
 
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
