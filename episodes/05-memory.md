@@ -2,7 +2,7 @@
 title: "Memory and Cognitive Load"
 block: "How Learning Works"
 teaching: 20
-exercises: 30
+exercises: 25
 questions:
 - "What is cognitive load and how does it affect learning?"
 - "How can we design instruction to work with, rather than against, memory constraints?"
