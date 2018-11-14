@@ -4,7 +4,8 @@ block: "The Carpentries"
 teaching: 30
 exercises: 45
 questions:
-- "How are Software, Data, and Library Carpentry organized and run?"
+- "How is The Carpentries organized and run?"
+- "What is the difference between SWC, DC, and SWC workshops?"
 objectives:
 - "Get connected with the Carpentry community."
 - "Describe where you can go to get information on running a workshop."
@@ -14,40 +15,53 @@ keypoints:
 
 ---
 
-In becoming a Carpentry instructor,
+In becoming a certified [Carpentry instructor](https://carpentries.org/instructors/),
 you are also becoming part of a community of like-minded volunteers.
-This section provides some background on both projects and information
-about how you can get involved.
+This section provides some background on 
+[The Carpentries]({{ site.carpentries_site }}) projects and information
+about how to get involved.
 
-## History
+## A Brief History
 
-[The Carpentries](https://carpentries.org/) is a fiscally sponsored project of [Community Initiatives]()
-that was founded on 1 January, 2018. The Carpentries project comprises [Software Carpentry]({{ site.swc_site }}) and [Data Carpentry]({{ site.dc_site }}) communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 
+with the mission of teaching lab skills for research computing. 
+[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universial data literacy. 
+Also in 2014, [Library Carpentry](({{ site.lc_site }})) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
-[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills
-for research computing. [Data Carpentry]({{ site.dc_site }}) was founded in 2013 with the mission of building communities teaching universial data literacy. While one focuses on computing and the other on data, both organizations share the same value of promoting efficient, shareable, and reproducible research practices. Their aligned misions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+One January 1, 2018, Software Carpentry and Data Carpentry merged 
+their projects to form a new project called
+[The Carpentries]({{ site.carpentries_site }})
+under the fiscal sponsorship of 
+[Community Initiatives](https://communityin.org/)
+On November 1, 2018, The Carpentries Executive Council 
+approved [Library Carpentry](({{ site.lc_site }})) 
+as an official Lesson Program.
 
-You can learn more about the history
-and goals of each project by reading
-"[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)" and
-"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)".
+The Carpentries project comprises communities of Instructors, Trainers,
+Maintainers, helpers, and supporters from 
+[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry](({{ site.lc_site }})) 
+who share a mission to teach foundational computational and data science skills. 
 
-Similarities between Software Carpentry and Data Carpentry workshops include:
-*   a focus on computational skills.
+![A brief history](../fig/SWCDChistory.png)
+
+You can learn more about the history and goals of each Lesson Program by reading
+"[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)", 
+"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)" and
+"[Library Carpentry: software skills training for library professionals](https://www.liberquarterly.eu/article/10.18352/lq.10176/)"".
+
+## Similarities and Differences between The Carpentries Lesson Programs
+
+All lesson programs under The Carpentries share the same value 
+of promoting efficient, shareable, and reproducible research practices. 
+Their aligned misions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+
+Similarities between Software, Data and Library Carpentry workshops include:
+*   a focus on technical skills.
 *   two-day format taught by volunteer instructors.
-*   a focus on filling gaps in current training for researchers.
+*   a focus on filling gaps in current training for learners.
 
-A major different between Software Carpentry and Data Carpentry workshops
+The major different between Software, Data and Library Carpentry workshops
 is their content and intended audience.
-Data Carpentry workshops focus on best practices surrounding data.
-Its learners are not people who want to learn about coding,
-but rather those who have a lot of data and don't know what to do with it.
-
-Data Carpentry workshops:
-
-*   are aimed at pure novices,
-*   are domain-specific, and
-*   present a full curriculum centered around a single data set.
 
 Software Carpentry workshops are:
 
@@ -56,11 +70,19 @@ computational challenges,
 *   not domain-specific, and
 *   modular---each Software Carpentry lesson is standalone.
 
-![Software Carpentry and Data Carpentry Comparison](../fig/SWCvsDC.png)
+Data Carpentry workshops:
 
-In February 2017, Software and Data Carpentry began to discuss merging the two projects. Software and Data
-Carpentry formed an umbrella project ("The Carpentries"), with a shared governance,
-community structure, and policies in January, 2018. Each project maintains its own curricular materials.
+*   are aimed at pure novices,
+*   are domain-specific,
+*   focus on best practices surrounding data, and
+*   present a full curriculum centered around a single data set.
+
+Library Carpentry workshops: 
+
+*   are aimed at people in library- and information-related roles.
+*   focus on best practices in data structure, and
+*   are modular---each Library Carpentry lesson is standalone.
+
 
 ## The Carpentry Community
 
@@ -118,9 +140,9 @@ under a permissive [open license]({{ page.root }}/LICENSE).
 You may use them whenever and however you want,
 provided you cite the original source.
 
-### Using the Names
+### Using the Names and Logos
 
-The names "Software Carpentry" and "Data Carpentry"
+The names "Software Carpentry", "Data Carpentry" and "Library Carpentry"
 and their respective logos
 are all trademarked.
 You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
@@ -130,13 +152,22 @@ You may only call a workshop a Software Carpentry or Data Carpentry workshop if:
 *   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
 *   you send us summary information about attendees (at a minimum, the number of people who attended).
 
-### What's Core?
+### What is the Core Curriculum?
 
-A Software Carpentry workshop must include lessons on version control (e.g. git), the shell,
+A Software Carpentry workshop must include [lessons](https://software-carpentry.org/lessons/index.html) 
+on version control (e.g. Git), the UNIX shell,
 and a programming language (e.g. R or Python).
 
-A Data Carpentry workshop must include a Data Carpentry lesson on data organization and three
+A Data Carpentry workshop must include a Data Carpentry [lesson](https://datacarpentry.org/lessons/) 
+on data organization and three
 other modules in the same domain from the Data Carpentry curriculum.
+Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials.
+Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
+
+A Library Carpentry [core curriculum](https://librarycarpentry.github.io/test/lessons/) 
+includes an introduction to data, the UNIX shell, OpenRefine, and Git. 
+The extended Library Carpentry curriculum includes 
+SQL, webscraping, Python and an introduction to data for archivists. 
 
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
 which exercises you use, and whether you include optional materials (e.g. callouts) and
