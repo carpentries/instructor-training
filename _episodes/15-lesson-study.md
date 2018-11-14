@@ -103,10 +103,11 @@ aim to create learning objectives that are specific, accurate, and informative f
 While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
 heirarchy seems to be reasonably valid: outcomes at the top of the heirarchy cannot be achieved without mastery of outcomes at 
 the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
-need to be mindful about helping them to "grow a level," helping them to recognize when they have achieved that growth, and 
+need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and 
 guiding them to look ahead to where we might not be able to take them.
 
 ![Bloom's Taxonomy](../fig/Blooms.png)
+
 Image credit: Vanderbilt University Center for Teaching
 
 > ## Evaluate SWC and DC Learning Objectives
@@ -120,7 +121,7 @@ Image credit: Vanderbilt University Center for Teaching
 > 3. In your opinion, does the lesson do an effective job of meeting the stated objective?
 > 4. What would the next level on Bloom's taxonomy look like for your learners? How might you be able to help them think ahead 
 > to the next level without attempting to get them there during your workshop?
-
+>
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
