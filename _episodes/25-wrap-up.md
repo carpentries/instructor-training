@@ -40,4 +40,4 @@ keypoints:
 
 Thank you for taking part in this instructor training workshop.
 We hope it was a valuable and enjoyable experience,
-and we look forward to having you as Carpentry instructors!
+and we look forward to having you as Carpentries instructors!
