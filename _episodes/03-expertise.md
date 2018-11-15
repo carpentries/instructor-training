@@ -222,7 +222,7 @@ we have adopted a "teach most immediately useful first" approach.
 We'll talk much more about this when we discuss
 [motivation]({{ page.root }}/08-motivation/).
 
-> ## Software/Data Carpentry Is Not Computer Science  
+> ## The Carpentries Is Not Computer Science  
 >
 > Many of the foundational concepts of computer science,
 > such as computability,
