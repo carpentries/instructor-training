@@ -5,7 +5,7 @@ teaching: 20
 exercises: 45
 questions:
 - "How do people learn?"
-- "Who is a typical Carpentry learner?"
+- "Who is a typical Carpentries learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Explain why practice and feedback are important for learning."
@@ -114,7 +114,7 @@ In fact,
 presenting too many facts too soon can actually reinforce
 their incorrect mental model.
 
-Most learners coming to Software/Data Carpentry lessons are novices,
+Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
 Thus, our
 primary goal is *not*
@@ -194,7 +194,7 @@ Broadly speaking, misconceptions fall into three categories:
     These beliefs are deeply connected to the learner's social identity
     and are the hardest to change. 
 
-Since Software and Data Carpentry are focused on novices, and the building of
+Since the Carpentries workshops are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
@@ -369,7 +369,7 @@ in which you were going to explain something that your learners already know.
 
 > ## How Many? 
 > 
-> Software and Data Carpentry use formative assessments often. How many have we done since the start of this
+> The Carpentries use formative assessments often. How many have we done since the start of this
 > workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
 > 
 > This discussion should take about 5 minutes. 

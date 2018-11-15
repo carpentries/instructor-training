@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Use a learner profile to think about someone likely to attend a workshop you will teach."
 - "Classify the level of a learning objective in terms of Bloom's taxonomy."
-- "Critically analyze a SWC/DC lesson's objectives."
+- "Critically analyze a Carpentries lesson's objectives."
 - "Describe reverse instructional design and explain why this is useful when preparing to teach."
 - "Identify checkpoints in a lesson for formative assessment."
 - "Recognize instructor notes as a resource for preparation."
@@ -112,7 +112,7 @@ Image credit: Vanderbilt University Center for Teaching
 
 > ## Evaluate SWC and DC Learning Objectives
 >
-> Your instructor has posted links to a handful of current Software and Data Carpentry lessons in the Etherpad.
+> Your instructor has posted links to a handful of current Carpentries lessons in the Etherpad.
 > Select one learning objective from one of those lessons,
 > then complete the following steps to evaluate it.
 >
@@ -157,13 +157,12 @@ Awareness of the learning process, also known as "metacognition," will also help
 
 
 > ## Instructor Notes
-> Many of the Software and Data Carpentry lessons have 
+> Many of the Carpentries lessons have 
 > instructor's notes, with information 
 > from instructors who have already taught the material.  This can be a valuable 
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
-> The Software Carpentry instructor guides are linked on each lesson page; the 
-> instructor guides for Data Carpentry lessons are on 
-> their [main lesson page]({{ site.dc_site }}/lessons/).  In addition, configuration problems and other
+> The instructor notes are linked on each lesson page under the "Extras" pull down menu.
+> In addition, configuration problems and other
 > technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
 {: .callout}
 
