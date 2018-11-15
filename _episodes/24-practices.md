@@ -5,7 +5,7 @@ exercises: 15
 questions:
 - "How are the teaching practices we've learned used in our workshops?"
 objectives:
-- "Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentry workshop."
+- "Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentries workshop."
 keypoints:
 - "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
 
@@ -14,7 +14,7 @@ keypoints:
 We're almost done with our training!  At this point, we've covered many, many topics 
 around teaching, learning, and technology.  
 
-Carpentry instructors use a set of teaching techniques based on evidence from 
+Carpentries instructors use a set of teaching techniques based on evidence from 
 educational research. We've talked about some of these techniques explicitly 
 (e.g. participatory live coding and formative assessment), and others we've been modeling throughout
 the workshop, without necessarily calling attention to what we were doing. Some of 
