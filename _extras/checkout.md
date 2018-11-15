@@ -205,6 +205,10 @@ You can refer to the lists of [Software Carpentry lessons](https://software-carp
 A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
+_Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise. 
+You can indicate the lessons you are comfortable teaching when you update 
+[your instructor profile](https://amy.software-carpentry.org/workshops/trainee-dashboard/)._ 
+
 For your demonstration(s), you will screen-share
 and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
