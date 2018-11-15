@@ -343,7 +343,7 @@ concept in your concept map.
 >
 > The following exercise should be done in groups of 2-3.
 >
-> 1.  Pick a block of code from an existing Software or Data Carpentry lesson,
+> 1.  Pick a block of code from an existing Carpentries lesson,
 >     or from another lesson you have taught recently.
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the learner's ability to correctly fill in that blank.
