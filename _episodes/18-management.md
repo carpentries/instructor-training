@@ -153,7 +153,7 @@ instructors experience when running a workshop.
 > This discussion should take about 10 minutes.
 {: .challenge}
 
-Here are some strategies Carpentry
+Here are some strategies Carpentries
 instructors have generated to deal with this issue:
 
 *   Before running a workshop,
