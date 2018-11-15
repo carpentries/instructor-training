@@ -4,24 +4,23 @@ start: true
 teaching: 10
 exercises: 5
 questions:
-- "Who are Data and Software Carpentry and how do we approach teaching?"
+- "Who are we and how do we approach teaching?"
 - "What should you expect from this workshop?"
 objectives:
 - "Introduce yourself to your fellow workshop participants."
 - "Describe what will and will not be covered in this workshop."
 - "Understand that the Carpentries are communities of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."
 keypoints:
-- "Software and Data Carpentry are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
+- "The Carpentries are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
 - "This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust."
-- "This workshop will cover general teaching pedagogy and how it applies specifically to Software and Data Carpentry."
+- "This workshop will cover general teaching pedagogy and how it applies specifically to the Carpentries."
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
 ## Code of Conduct
 
-To make clear what is expected, everyone participating in Software Carpentry and Data Carpentry activities is required
-to conform to our Code of Conduct. This Code of Conduct applies to all spaces managed by Software Carpentry
-and Data Carpentry including, but not limited to workshops, email lists, online forums and on GitHub. Please review
+To make clear what is expected, everyone participating in Carpentries activities is required
+to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by the Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
 [the Code of Conduct](https://software-carpentry.org/conduct/) to familiarise yourself with it.
 
 ## Introductions
@@ -30,7 +29,7 @@ and Data Carpentry including, but not limited to workshops, email lists, online 
 > — Tracy Teal, Executive Director, The Carpentries
 {: .quotation}
 
-Hello everyone, and welcome to the Data Carpentry and Software Carpentry
+Hello everyone, and welcome to the the Carpentries
 instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
@@ -59,12 +58,13 @@ Carpentry organizations.
 
 ## A Brief Overview of the Carpentries
 
-Software and Data Carpentry are
-both communities of volunteer researchers, educators, and more who develop
+Software Carpentry, Data Carpentry, and Library Carpentry 
+are official Lesson Program of the Carpentries.
+Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on helping researchers develop foundational
 computational skills; Data Carpentry focuses on helping
-researchers work effectively with their data through its lifecycle.
+researchers work effectively with their data through its lifecycle; and Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
 
 The main goal of these organizations is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
@@ -78,7 +78,7 @@ useful across all of our lessons.
 These skills will be developed through discussion, 
 practice, and feedback with fellow learners.
 
-We will **not** be going over Data Carpentry or Software Carpentry workshop content in detail (although you will get 
+We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get 
 familiarity with some of the content through the exercises), 
 This workshop is the first step in becoming a certified Software and/or Data Carpentry instructor.
 The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
@@ -105,8 +105,8 @@ of the Etherpad.
 
 One part of making this a productive two days for all of us is a
 community effort to treat one another with kindness and respect.  This
-training, as in all Software/Data Carpentry workshops is subject to
-the Software and Data Carpentry Code of Conduct.  We will be able to
+training, as in all Carpentries workshops, is subject to
+the [Code of Conduct]({{ site.coc }}).  We will be able to
 give our best effort (and have the most fun!) if everyone abides by these guidelines.
 We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms.
@@ -114,9 +114,9 @@ welcoming environment in your classrooms.
 ### Carpentry History and Culture
 
 We will be introducing you to the teaching practices that have been
-adopted by the Software and Data Carpentry communities, and our
+adopted by the Carpentries communities, and our
 overall philosophy and procedures in order
-to prepare you to teach Carpentry workshops.
+to prepare you to teach Carpentries workshops.
 The greatest asset of the Carpentries is people like
 yourselves - people who want to help researchers learn about these ideas
 and share their own experience and enthusiasm.  We hope that this training
@@ -130,7 +130,7 @@ motivate the activities and how you communicate with the attendees.
 
 > ## Background
 >
-> *Have you ever participated in a Software Carpentry or Data Carpentry Workshop?*
+> *Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
 >
 > 1.  Yes, I have taken a workshop.
 > 2.  Yes, I have been a workshop helper.
@@ -151,8 +151,8 @@ motivate the activities and how you communicate with the attendees.
 {: .discussion}
 
 Now that we have a better idea of everyone's prior knowledge and
-familiarity with some of the key Carpentry teaching practices, we're
+familiarity with some of the key Carpentries teaching practices, we're
 ready to begin our training. Our goal is that by the end, you will
 have acquired some new knowledge, confidence, and skills that you can
-use in your teaching practice in general and in teaching Carpentry
+use in your teaching practice in general and in teaching Carpentries
 workshops specifically.
