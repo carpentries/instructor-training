@@ -2,23 +2,35 @@
 layout: page
 title: "Instructor Notes"
 ---
-Shortcuts to:
-- Teaching Tips: [Online vs In Person](#-III.-Differences-Among-Training-Types), [Online Teaching](#-IV.-Zoom-Manual-(Online-Trainings)), [Curriculum Teaching Tips](#IIX.-Curriculum-Teaching-Tips)
+
+Table of Contents 
+
+* [I. Information For and About Instructor Trainers](#more-info)
+* [II. Running an Instructor Training Event (General)](#general)
+* [III. Online vs In Person Training Events](#online-inperson)
+* [IV. Using Zoom  for Online Trainings](#zoom)
+* [V. Curriculum Teaching Tips](#curriculum)
+
 
 ## I. Information For and About Instructor Trainers
+
+<a name="more-info"></a>
+
 Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. [Instructions on running a Demo session][demos] are also provided in the Trainer Guide.
 
 ## II. Running an Instructor Training Event (General)
 
-### Four weeks before the event
+<a name="general"></a>
+
+### Four Weeks before the Event
 -  Contact your co-Trainer(s) and decide who will teach what.  
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-### Two weeks before the event
+### Two Weeks before the Event
 -  Introduce yourself to your trainees.  
 
-### One week before the event    
+### One Week before the Event    
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely:
@@ -47,7 +59,39 @@ Details about the Instructor Trainer role including the application process, dut
 ### Long-term after the event
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-## III. Differences Among Training Types
+### Using Slides
+
+Whether or not slides should be used be used during instructor training
+is a subject of [frequent discussion][great-slide-issue]. 
+
+The main **advantage** is that slides provide a visual aid when explaining 
+complex concepts or when presenting learning objectives and challenges. 
+The most notable **disadvantage** is that it can give the false impression 
+that it is okay to use slides rather than live coding in SWC/DC/LC workshops
+For online instructor training events, there are two additional risks: 
+the slides may fail to advance using Zoom's screen share feature and
+you risk losing the audience's attention because your face is less prominent. 
+
+If you chose to use slides in your workshop, 
+this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides. 
+
+### General Preparation
+
+TBA
+
+### Using Helpers/Co-Instructors
+
+If you have a helper for the training, or want to involve your co-instructor more, 
+here are some ways where it's easy to do so without much prep: 
+* give an example of a mental model in "The Importance of Practice"
+* tell a motivational/demotivational story in "Motivation and Demotivation"
+* help collect 1-up, 1-down feedback by either writing or directing the participants
+* find + talk about a good (or bad) learning objective in "Lesson Study"
+* have this person monitor the chat (if online) and answer questions, catch "hands"
+
+## III. Online vs In Person Training Events
+
+<a name="online-inperson"></a>
 
 ### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -59,6 +103,7 @@ Details about the Instructor Trainer role including the application process, dut
 - Assign (or let participants select) physical breakout groups.  
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants do all small-group exercises with participants at same site.  
+- See section IV below for more tips.  
 
 ### Online trainings (completely distributed)  
 - When watching videos, have all participants watch separately.  
@@ -66,8 +111,12 @@ Details about the Instructor Trainer role including the application process, dut
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
+- See section IV below for more tips.  
 
-## IV. Zoom Manual (Online Trainings)
+## IV. Using Zoom  for Online Trainings 
+
+<a name="zoom"></a>
+
 Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
@@ -98,7 +147,25 @@ you’re not the host, please contact Carpentry staff immediately.
 - **Exercise management**
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. (G.W.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
+- **Shared notes tips**
+  - No matter what kind of shared doc you are using, it's usually a good idea to create 
+  two documents -- one for each day of the training.  
+    - Suggestion from AN: create a third doc for sharing concept maps, since they are 
+    images and can slow down the document.  
+  - Etherpad pros + cons
+    - Pros: line numbers
+    - Cons: simple formatting
+  - Google Doc pros + cons
+    - Pros: richer formatting
+    - Cons: no line numbers
 - **Zoom tips**
+  - Announce *at the beginning* of the training that all participants should mute when 
+  they are not talking.  You may need to repeat this a few times during the early part 
+  of the training, until people are doing it consistently.  
+  - In general, it works best to have everyone use zoom individually on their computers
+  (so you can see everyone's faces); for trainings where some of the participants are 
+  co-located, have them use their own computer for video but pick one person to use 
+  for mic/sound.  
   - “Gallery view” in the upper right toggles the display to show more participants' videos.  
   - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
   - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.
@@ -108,28 +175,57 @@ you’re not the host, please contact Carpentry staff immediately.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
 
 ## V. Curriculum Teaching Tips
+
+<a name="curriculum"></a>
+
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
-### Welcome
-### How Learning Works: The Importance of Practice
-### How Learning Works: Expertise and Instruction
-### How Learning Works: Working Memory and Cognitive Load
-### Building Teaching Skill: Getting Feedback
-### Creating a Positive Learning Environment: Mindset
-### Building Teaching Skill: The Importance of Practice
-### Wrap-Up and Homework for Tomorrow
-### Welcome Back
-### Building Teaching Skill: Lesson Study
-### Building Teaching Skill: Live Coding
-### Building Teaching Skill: Performance Revised
-### The Carpentries: Workshop Introductions
+### Welcome	
+### Building Skill with Practice
+### Expertise and Instruction	
+### Memory and Cognitive Load	
+### Building Skill with Feedback	
+### Motivation and Demotivation
+
+As written, this can run long.  Suggestions: 
+
+* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
+
+### Mindset
+### Teaching is a Skill
+### Wrap-Up and Homework for Tomorrow	
+### Welcome Back	
+### Live Coding	is a Skill
+### Lesson Study
+### More Practice Live Coding
+### Managing a Diverse Classroom
+
 ### The Carpentries: How We Operate
-### The Carpentries: Teaching Practices
+
+* CK: Not an "official" exercise, but after explaining the workshops and how to run them, 
+go around the room, asking each person if they have a question + then answer them.  
+
+* Exercise: Creating a Workshop Website
+   * CK: This takes some time, so some people opt to skip this section.  Inevitably, 
+   when working with a group of mixed experience with Github, some will be able 
+   to zip through this exercise, where others will struggle.  We **have** gotten 
+   positive feedback about this exercise as well, where learners felt like it was 
+   a valuable experience. Can be especially valuable for groups that will probably 
+   be running workshops on their own (so open trainings, or trainings for folks 
+   who are ready to get started right away).  
+
+* CK: The coffee break after this would be a great time for an "Ask and Offer" if the 
+group is interested. 
+
+### Workshop Introductions
+
+* More or less time
+    * CK: The second major exercise (writing a mini-introduction and then 
+    practicing) can be made longer if you have the time or people are 
+    very keen on practicing their introductions.  Instead of 2 minutes, 
+    people could talk for 4-5 minutes each.  
+
 ### Afternoon Wrap-Up
-
-### Using Slides
-### General Preparation
-
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
@@ -141,3 +237,6 @@ This is a place for Trainers to leave tips and observations for those newer to t
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
+[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1 
+[great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
+[trainer-pad]: https://pad.carpentries.org/trainers
