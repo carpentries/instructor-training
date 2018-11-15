@@ -274,9 +274,9 @@ such as lack of prior experience) and instead use a systems approach
 
 > ## The Importance of Having Rules
 >
-> Software Carpentry and Data Carpentry share a
-> [Code of Conduct]({{ site.swc_site }}/conduct/),
-> and all participants in our workshops are required to abide by it.
+> To make clear what is expected, 
+> and all participants in our workshops are required to conform to the
+> [Code of Conduct]({{ site.coc }}).
 > Its details are important,
 > but the most important thing about it is that it exists:
 > knowing that we have rules
