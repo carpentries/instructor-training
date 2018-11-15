@@ -133,7 +133,7 @@ Consider talking about your research and computational interests as
 they relate to the workshop, in order to establish yourself as an
 authority, and to make the workshop more relevant.
 
-**Why are you teaching a Software or Data Carpentry workshop?**
+**Why are you teaching a Carpentries workshop?**
 Why are you an instructor? What's motivating you to be there today? One
 reason might be that you took a workshop and saw how valuable these
 skills were in your own work and wanted to share this information with
@@ -154,7 +154,7 @@ and helps them use their time productively.
 **Describe the prerequisites** so learners will know what information
 you are assuming they already know. For Data Carpentry no prior
 computational experience is required. Expectations vary for Software
-Carpentry workshops. Convey what your expectations are.
+Carpentry and Library Carpentry workshops. Convey what your expectations are.
 
 **Highlight main aspects of the schedule.**
 
