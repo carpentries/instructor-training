@@ -61,7 +61,19 @@ Details about the Instructor Trainer role including the application process, dut
 
 ### Using Slides
 
-TBA
+Whether or not slides should be used be used during instructor training
+is a subject of [frequent discussion][great-slide-issue]. 
+
+The main **advantage** is that slides provide a visual aid when explaining 
+complex concepts or when presenting learning objectives and challenges. 
+The most notable **disadvantage** is that it can give the false impression 
+that it is okay to use slides rather than live coding in SWC/DC/LC workshops
+For online instructor training events, there are two additional risks: 
+the slides may fail to advance using Zoom's screen share feature and
+you risk losing the audience's attention because your face is less prominent. 
+
+If you chose to use slides in your workshop, 
+this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides. 
 
 ### General Preparation
 
@@ -225,3 +237,5 @@ group is interested.
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
+[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1 
+[great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680)
