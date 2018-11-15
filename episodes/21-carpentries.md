@@ -26,7 +26,7 @@ about how to get involved.
 [Software Carpentry]({{ site.swc_site }}) was founded in 1998 
 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
-Also in 2014, [Library Carpentry](({{ site.lc_site }})) was founded with the mission of teaching data skills to people working in library- and information-related roles.
+Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
 On January 1, 2018, Software Carpentry and Data Carpentry merged 
 their projects to form a new project called
@@ -35,12 +35,12 @@ under the fiscal sponsorship of
 [Community Initiatives](https://communityin.org/).
 Within this new organization structure, Software Carpentry and Data Carpentry retain their individual identities as Lesson Programs of the Carpentries.
 On November 1, 2018, The Carpentries Executive Council 
-approved [Library Carpentry](({{ site.lc_site }})) 
+approved [Library Carpentry]({{ site.lc_site }}) 
 as the third official Lesson Program of the Carpentries.
 
 The Carpentries project comprises communities of Instructors, Trainers,
 Maintainers, helpers, and supporters from 
-[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry](({{ site.lc_site }})) 
+[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
 who share a mission to teach foundational computational and data science skills. 
 
 ![A brief history](../fig/SWCDChistory.png)
