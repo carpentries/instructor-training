@@ -38,9 +38,6 @@ setting of the two-day training.  These are:
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
-Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of
-March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry
-are now considered Carpentries instructors and can teach either set of curricula.
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
