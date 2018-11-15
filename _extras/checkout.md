@@ -6,9 +6,11 @@ demopad: https://pad.carpentries.org/teaching-demos-recovered
 discussionpad: http://pad.software-carpentry.org/instructor-discussion
 ---
 
-After you have finished the two-day training class,
-you must go through these steps to complete your training and be
-fully certified as a Data and Software Carpentry instructor:
+## Brief Overview and Rationale
+
+After you have completed the two-day instructor training workshop,
+you must go through these three steps to complete your training and be
+fully certified as a Carpentries instructor:
 
 1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
 2.  Take part in an online [discussion session](#discussion-session).
@@ -17,8 +19,7 @@ fully certified as a Data and Software Carpentry instructor:
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but
 you can complete them in any order.
 
-These checkout steps aim to introduce you to key components of being a Software
-and Data Carpentry instructor that are difficult to fully cover in the classroom
+These checkout steps aim to introduce you to key components of being a Carpentries instructor that are difficult to fully cover in the classroom
 setting of the two-day training.  These are:
 
 1.  Contributing to our lesson materials.  As our materials are developed by the
@@ -39,7 +40,7 @@ and must be requested before the three months are up. To request an extension, p
 
 Please note that in the past, instructors needed to certify separately for Data and Software Carpentry. As of
 March 2017 that is no longer the case. Instructors who have already certified for either Data or Software Carpentry
-are now considered Carpentry instructors and can teach either set of curricula.
+are now considered Carpentries instructors and can teach either set of curricula.
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
@@ -203,7 +204,7 @@ For your teaching demonstration, you will teach a short segment from your chosen
 We will pick the segment of the lesson(s) you are to teach
 on the day of the demonstration,
 so you must be prepared to teach any part of your chosen lesson(s).
-You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/) and [Data Carpentry lessons](http://www.datacarpentry.org/lessons/) on the websites.
+You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/), [Data Carpentry lessons](http://www.datacarpentry.org/lessons/), and [Library Carpentry](https://librarycarpentry.org/) on the websites.
 A lesson corresponds to a single line in the lesson table and a single repository in GitHub. Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
 
