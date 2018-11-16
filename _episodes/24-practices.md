@@ -73,8 +73,8 @@ Here is a non-exhaustive list of topics:
 > 1. If you are comfortable with / like concept maps, trying integrating all the 
 > topics above into a single concept map.  
 > 2. Use the provided handout to organize topics.  Here are two examples: 
->   - [Handout One](../handouts/Wrap-Up-doc.pdf) (with example content: [example](../handouts/Wrap-Up-doc-example.pdf))
->   - [Handout Two](../handouts/Carpentries_teaching_practices.pdf)
+>   - [Handout One](../files/handouts/Wrap-Up-doc.pdf) (with example content: [example](../handouts/Wrap-Up-doc-example.pdf))
+>   - [Handout Two](../files/handouts/Carpentries_teaching_practices.pdf)
 > 
 > Work on this on your own.  There's no "right answer" -- this is about you building 
 > up a mental model, moving from "novice" to "competent practitioner".
