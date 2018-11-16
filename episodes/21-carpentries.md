@@ -23,7 +23,8 @@ about how to get involved.
 
 ## A Brief History
 
-[Software Carpentry]({{ site.swc_site }}) was founded in 1998 
+[Software Carpentry]({{ 
+.swc_site }}) was founded in 1998 
 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
@@ -166,8 +167,8 @@ Published curricula include the Ecology, Genomics, Social Science and Geospatial
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
 An Library Carpentry workshop must include three to four of the
-[core lessons](https://librarycarpentry.github.io/test/lessons/), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
-Library Carpentry almost maintains an "extended" set of lessons
+[core lessons](https://librarycarpentry.org/lessons/#core-curriculum), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
+Library Carpentry also maintains an "extended" set of lessons
 that can be taught in addition to the core curriculum 
 These lessons are taught infrequently or are under development and include:
 SQL, webscraping, Python and an introduction to data for archivists. 
@@ -178,10 +179,9 @@ optional episodes.
 
 ### Who Can Teach What
 
-As of March 2017, a trained instructor can teach curricula for either
-Software Carpentry or Data Carpentry and are no longer required to certify separately for each:
-see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
-for details.
+Trained instructors can teach curricula for Software Carpentry, Data Carpentry, or Library Carpentry. While instructor badges 
+may list a primary lesson program affiliation, instructors are **not** required to certify separately for each. For more 
+information, see the description of [the instructor checkout procedure]({{ page.root }}/checkout/).
 
 ### Setting Up
 
