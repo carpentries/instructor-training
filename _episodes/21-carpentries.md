@@ -91,7 +91,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
-> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v2.pdf).
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v3.pdf).
 >
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
 >
@@ -165,12 +165,9 @@ other modules in the same domain from the Data Carpentry curriculum.
 Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials.
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
-An Library Carpentry workshop must include three to four of the
-[core lessons](https://librarycarpentry.github.io/test/lessons/), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
-Library Carpentry almost maintains an "extended" set of lessons
-that can be taught in addition to the core curriculum 
-These lessons are taught infrequently or are under development and include:
-SQL, webscraping, Python and an introduction to data for archivists. 
+A Library Carpentry workshop must include three to four of the
+[core lessons](https://librarycarpentry.org/lessons/), which include an introduction to data, the UNIX shell, OpenRefine, and Git. Library Carpentry maintains an "extended" set of lessons that can be taught in addition to the core curriculum. These lessons are taught infrequently and/or are under development and include:
+SQL, webscraping, Python, and an introduction to data for archivists. 
 
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
 which exercises you use, and whether you include optional materials (e.g. callouts) and
