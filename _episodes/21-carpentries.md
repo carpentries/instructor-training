@@ -71,6 +71,8 @@ computational challenges,
 *   not domain-specific, and
 *   modular---each Software Carpentry lesson is standalone.
 
+![Software Carpentry Workshop elements](../fig/workshop-layout-swc.png)
+
 Data Carpentry workshops:
 
 *   are aimed at pure novices,
@@ -78,11 +80,15 @@ Data Carpentry workshops:
 *   focus on best practices surrounding data, and
 *   present a full curriculum centered around a single data set.
 
+![Data Carpentry Workshop elements](../fig/workshop-layout-dc.png)
+
 Library Carpentry workshops: 
 
 *   are aimed at people in library- and information-related roles.
 *   focus on best practices in data structure, and
 *   are modular---each Library Carpentry lesson is standalone.
+
+![Library Carpentry Workshop elements](../fig/workshop-layout-lc.png)
 
 
 ## The Carpentry Community
