@@ -1,9 +1,24 @@
-# new-instructor-training
+[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
+ [![Slack Status](https://img.shields.io/badge/Slack_Channel-instructor--training-E01563.svg)](https://swcarpentry.slack.com/messages/C0CP2ERHA) 
 
-The [Software Carpentry](http://software-carpentry.org)
-and [Data Carpentry](http://datacarpentry.org) instructor training course..
+instructor-training
+===================
 
-Maintainers:
+The instructor training course for [Software Carpentry][swc-site] and [Data Carpentry][dc-site].
+Please see <https://carpentries.github.io/instructor-training/> for a rendered version of this material,
+[the lesson template documentation][lesson-example]
+for instructions on formatting, building, and submitting material,
+or run `make` in this directory for a list of helpful commands.
 
-* [Christina Koch](http://software-carpentry.org/team/#koch_christina)
-* [Greg Wilson](http://software-carpentry.org/team/#wilson_g)
+**Maintainer(s):**
+
+* [Erin Becker][becker_erin]
+* [Christina Koch][koch_christina]
+* [Karen Word][word_karen]
+
+[dc-site]: http://datacarpentry.org
+[lesson-example]: https://carpentries.github.io/lesson-example
+[swc-site]: http://software-carpentry.org
+[koch_christina]: https://carpentries.org/instructors/
+[becker_erin]: https://carpentries.org/team/
+[word_karen]: https://carpentries.org/team/

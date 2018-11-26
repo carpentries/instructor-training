@@ -3,7 +3,7 @@
   Days are displayed if at least one episode has 'start = true'.
 {% endcomment %}
 <div class="syllabus">
-  <h2>Schedule</h2>
+  <h2 id="schedule">Sample Schedule</h2>
 
   {% assign day = 0 %}
   {% assign multiday = false %}
@@ -13,6 +13,18 @@
   {% assign current = site.start_time %}
 
   <table class="table table-striped">
+  <tr>
+    {% if multiday %}<td class="col-md-1"></td>{% endif %}
+    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
+    <td class="col-md-3"><a href="{{ page.root }}{% link setup.md %}">Setup</a></td>
+    <td class="col-md-7">Download files required for the lesson</td>
+  </tr>
+  <tr>
+    {% if multiday %}<td class="col-md-1"></td>{% endif %}
+    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
+    <td class="col-md-3"><a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">Pre-training survey</a></td>
+    <td class="col-md-7">Please fill out our pre-training survey before the start of the course.</td>
+  </tr>
   {% for episode in site.episodes %}
     {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
       {% assign day = day | plus: 1 %}
@@ -20,8 +32,8 @@
         {% assign hours = current | divided_by: 60 %}
         {% assign minutes = current | modulo: 60 %}
         <tr>
-          {% if multiday %}<td></td>{% endif %}
-          <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
+          {% if multiday %}<td class="col-md-1"></td>{% endif %}
+          <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
           <td class="col-md-3">Finish</td>
           <td class="col-md-7"></td>
         </tr>
@@ -32,16 +44,22 @@
     {% assign minutes = current | modulo: 60 %}
     <tr>
       {% if multiday %}<td class="col-md-1">{% if episode.start %}Day {{ day }}{% endif %}</td>{% endif %}
-      <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
+      <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
-        <a href="{{ site.root }}{{ episode.url }}">{{ episode.title }}</a>
+        
+	 <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
       <td class="col-md-7">
         {% if episode.break %}
           Break
         {% else %}
           {% if episode.questions %}
-            {{ episode.questions | join: '<br/>' }}
+            {% for question in episode.questions %}
+              {{question|markdownify|strip_html}}
+              {% unless forloop.last %}
+              <br/>
+              {% endunless %}
+            {% endfor %}
           {% endif %}
         {% endif %}
       </td>
@@ -51,10 +69,24 @@
   {% assign hours = current | divided_by: 60 %}
   {% assign minutes = current | modulo: 60 %}
   <tr>
-    {% if multiday %}<td></td>{% endif %}
-    <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
+    {% if multiday %}<td class="col-md-1"></td>{% endif %}
+    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
+    <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
+    <td class="col-md-7">Please fill out our pre-training survey before the start of the course.</td>
+  </tr>
+  {% assign current = current | plus: 15 %}
+  {% assign hours = current | divided_by: 60 %}
+  {% assign minutes = current | modulo: 60 %}
+  <tr>
+    {% if multiday %}<td class="col-md-1"></td>{% endif %}
+    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
     <td class="col-md-3">Finish</td>
     <td class="col-md-7"></td>
   </tr>
   </table>
+
+  <p>
+    The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
+  </p>
+
 </div>

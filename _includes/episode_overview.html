@@ -3,30 +3,34 @@
 {% endcomment %}
 <blockquote class="objectives">
   <h2>Overview</h2>
+
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-3">
       <strong>Teaching:</strong> {{ page.teaching }} min
-    </div>
-    <div class="col-md-6">
+      <br/>
       <strong>Exercises:</strong> {{ page.exercises }} min
     </div>
-  </div>
-  <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-9">
       <strong>Questions</strong>
       <ul>
 	{% for question in page.questions %}
-	<li>{{ question }}</li>
-	{% endfor %}
-      </ul>
-    </div>
-    <div class="col-md-6">
-      <strong>Objectives</strong>
-      <ul>
-	{% for objective in page.objectives %}
-	<li>{{ objective }}</li>
+	<li>{{ question|markdownify }}</li>
 	{% endfor %}
       </ul>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col-md-3">
+    </div>
+    <div class="col-md-9">
+      <strong>Objectives</strong>
+      <ul>
+	{% for objective in page.objectives %}
+	<li>{{ objective|markdownify }}</li>
+	{% endfor %}
+      </ul>
+    </div>
+  </div>
+
 </blockquote>
