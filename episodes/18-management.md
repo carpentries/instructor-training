@@ -240,3 +240,5 @@ At the end of the morning, do the following:
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
+[vps]: https://en.wikipedia.org/wiki/Virtual_private_server
+[ssh]: https://en.wikipedia.org/wiki/Secure_Shell
