@@ -59,7 +59,7 @@ Carpentry organizations.
 ## A Brief Overview of the Carpentries
 
 Software Carpentry, Data Carpentry, and Library Carpentry 
-are official Lesson Program of the Carpentries.
+are official Lesson Programs of the Carpentries.
 Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on helping researchers develop foundational
