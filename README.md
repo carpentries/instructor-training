@@ -4,7 +4,7 @@
 instructor-training
 ===================
 
-The instructor training course for [Software Carpentry][swc-site] and [Data Carpentry][dc-site].
+The instructor training course for The Carpentries which includes [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site].
 Please see <https://carpentries.github.io/instructor-training/> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
@@ -19,6 +19,7 @@ or run `make` in this directory for a list of helpful commands.
 [dc-site]: http://datacarpentry.org
 [lesson-example]: https://carpentries.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
+[lc-site]: https://librarycarpentry.org
 [koch_christina]: https://carpentries.org/instructors/
 [becker_erin]: https://carpentries.org/team/
 [word_karen]: https://carpentries.org/team/
