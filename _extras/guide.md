@@ -110,7 +110,7 @@ here are some ways where it's easy to do so without much prep:
 - Assign breakout groups randomly to breakout rooms in Zoom. Be sure to remove Trainers and helpers when assigning groups.
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
-- For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
+- For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.
 - See section IV below for more tips.  
 
 ## IV. Using Zoom  for Online Trainings 
@@ -145,7 +145,7 @@ you’re not the host, please contact Carpentry staff immediately.
 	  - Find links or references
 	- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
 - **Exercise management**
-  - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. (G.W.)
+  - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
 - **Shared notes tips**
   - No matter what kind of shared doc you are using, it's usually a good idea to create 
