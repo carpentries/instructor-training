@@ -53,7 +53,7 @@ Here is a non-exhaustive list of topics:
 * lesson study
 * Code of Conduct
 * concept maps
-* MCQ
+* Multiple Choice Question (MCQ)
 * peer instruction
 * going slowly
 * "just"
