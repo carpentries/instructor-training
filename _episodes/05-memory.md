@@ -97,7 +97,13 @@ Storing words in groups reduces the number of effective
 items in your short-term memory, allowing you to keep
 more information in your head at once. This is one reason
 why helping our learners to see the connections among
-the concepts we are teaching is so important.  
+the concepts we are teaching is so important.
+
+When provided with unstructured information, chunks may be invented.
+In the _[method of loci](https://en.wikipedia.org/wiki/Method_of_loci)_,
+the items to remember are associated with places that are subsequently visited
+for an easier recalling. Such a link between cognition and spatial memory is
+confirmed by [recent research](http://science.sciencemag.org/content/362/6415/eaat6766).
 
 ## Active Learning Through Formative Assessment
 
