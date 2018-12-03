@@ -378,7 +378,7 @@ and that any additional concerns are likely to be addressed.
 The first step is to know what you need to do. There are a number of good resources for learning
 about accessibility.
 
-> ## Accessibility Posters in Multiple Languages
+> ## Learning about Accessibility
 >
 > The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
 > visual and web-based materials more accessible for different populations. Take a look at one of
