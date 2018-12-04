@@ -378,9 +378,9 @@ and that any additional concerns are likely to be addressed.
 The first step is to know what you need to do. There are a number of good resources for learning
 about accessibility.
 
-> ## One Thing
+> ## Learning about Accessibility
 >
-> The UK Home Office has put together a set of posters of dos and don'ts for making
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
 > visual and web-based materials more accessible for different populations. Take a look at one of
 > [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and
 > put one thing you've learned in the Etherpad.
