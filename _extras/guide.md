@@ -237,6 +237,6 @@ group is interested.
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
-[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1 
+[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
 [trainer-pad]: https://pad.carpentries.org/trainers
