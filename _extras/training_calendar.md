@@ -17,32 +17,32 @@ All trainings are offered online from 9 am to 5 pm in the time zone noted.  You 
 # North America
 
 #### Pacific time
-January 14-15, 2019
-March 20-21, 2019
-April 22-23, 2019
+* January 14-15, 2019
+* March 20-21, 2019
+* April 22-23, 2019
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
 
 #### Central time
-January 10-11, 2019
-February 25-26, 2019
-April 4-5, 2019
+* January 10-11, 2019
+* February 25-26, 2019
+* April 4-5, 2019
 
 #### Eastern time
-January 22-23, 2019
-February 14-15, 2019
-March 11-12, 2019
+* January 22-23, 2019
+* February 14-15, 2019
+* March 11-12, 2019
 
 # Europe
 
 #### Western European time
-January 22-23, 2019
-April 22-23, 2019
+* January 22-23, 2019
+* April 22-23, 2019
 
 #### Central European time
-January 30-31, 2019
-April 10-11, 2019
+* January 30-31, 2019
+* April 10-11, 2019
 
 
 
