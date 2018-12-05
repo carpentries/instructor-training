@@ -17,32 +17,32 @@ All trainings are offered online from 9 am to 5 pm in the time zone noted.  You 
 # North America
 
 #### Pacific time
-* [January 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-january-14-15-n-america-pacific-time-tickets-53346605132)
-* [March 20-21, 2019](https://www.eventbrite.com/e/online-instructor-training-march-20-21-n-america-pacific-time-tickets-53347451664)
-* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)
+* [January 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-january-14-15-n-america-pacific-time-tickets-53346605132)  (UTC -8)
+* [March 20-21, 2019](https://www.eventbrite.com/e/online-instructor-training-march-20-21-n-america-pacific-time-tickets-53347451664)  (UTC -8)
+* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7)
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
 
 #### Central time
-* [January 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-january-10-11-n-america-central-time-tickets-53310924410)
-* [February 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-february-25-26-n-america-central-time-tickets-53347008338)
-* [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)
+* [January 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-january-10-11-n-america-central-time-tickets-53310924410)  (UTC -6)
+* [February 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-february-25-26-n-america-central-time-tickets-53347008338)  (UTC -6)
+* [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5)
 
 #### Eastern time
-* [January 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-january-22-23-n-america-eastern-time-tickets-53319329550)
-* [February 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-february-14-15-n-america-eastern-time-tickets-53347246049)
-* [March 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-march-11-12-n-america-eastern-time-tickets-53347628192)
+* [January 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-january-22-23-n-america-eastern-time-tickets-53319329550)  (UTC -5)
+* [February 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-february-14-15-n-america-eastern-time-tickets-53347246049)  (UTC -5)
+* [March 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-march-11-12-n-america-eastern-time-tickets-53347628192)  (UTC -4)
 
 # Europe
 
 #### Western European time
-* [January 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-january-22-23-western-europe-tickets-53319510090)
-* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-western-europe-time-tickets-53348314244)
+* [January 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-january-22-23-western-europe-tickets-53319510090)  (UTC)
+* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-western-europe-time-tickets-53348314244)  (UTC +1)
 
 #### Central European time
-* [January 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-january-30-31-central-europe-tickets-53320114899)
-* [April 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-april-10-11-central-european-time-tickets-53349080536)
+* [January 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-january-30-31-central-europe-tickets-53320114899)  (UTC +1)
+* [April 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-april-10-11-central-european-time-tickets-53349080536)  (UTC +2)
 
 
 
