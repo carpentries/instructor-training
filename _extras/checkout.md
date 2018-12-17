@@ -3,7 +3,7 @@ layout: page
 title: "Checkout Procedure"
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: https://pad.carpentries.org/teaching-demos-recovered
-discussionpad: http://pad.software-carpentry.org/instructor-discussion
+discussionpad: http://pad.software-carpentry.org/community-discussions
 ---
 
 ## Brief Overview and Rationale
@@ -13,7 +13,7 @@ you must go through these three steps to complete your training and be
 fully certified as a Carpentries instructor:
 
 1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
-2.  Take part in an online [discussion session](#discussion-session).
+2.  Take part in an online [community discussion](#community-discussion).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but
@@ -112,18 +112,18 @@ Please note that:
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
-## Part 2: Take Part in An Online Discussion Session
-<a name="discussion-session"></a>
+## Part 2: Take Part in An Online Community Discussion
+<a name="community-discussion"></a>
 
-The next step is to take part in an hour-long discussion session
+The next step is to take part in an hour-long community discussion
 led by an experienced instructor.
-This session gives you a chance to ask questions about the material
+These sessions gives you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
-Our discussion sessions are run as video conferences several times per week:
+Our community discussions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
-You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
+You can sign up for a session on [the community discussions Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
 please [let us know](mailto:{{ site.email }})
