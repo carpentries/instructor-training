@@ -32,7 +32,7 @@ As you read in your homework last night, there are three final steps to complete
     1.  Submit a change (i.e. pull request) to fix an existing issue.
     2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
-2.  Take part in a [discussion session][discussion] with experienced instructors.
+2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 > ## Checking Out Review with Questions and Answers
@@ -107,5 +107,5 @@ Once you have completed all checkout steps, you will receive an email with your 
 
 
 [mentoring]: https://carpentries.org/community/#mentoring
-[discussion]: http://pad.software-carpentry.org/instructor-discussion
+[discussion]: http://pad.software-carpentry.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos-recovered
