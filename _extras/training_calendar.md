@@ -7,7 +7,7 @@ title: "Instructor Training Calendar for Carpentries Members"
 #### Carpentries Member Site Instructor Training Calendar
 ###  January to April 2019
 
-If you are wtih a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their membership term.
+If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their membership term.
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
