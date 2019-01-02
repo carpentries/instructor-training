@@ -16,7 +16,7 @@ objectives:
 keypoints:
 - "Growth mindset and grit promote learning by making effort a positive thing."
 - "Presenting errors as essential to the learning process helps learners learn from their mistakes."
-- "Successful lifelong learners aren't embarassed to ask for help."
+- "Successful lifelong learners aren't embarrassed to ask for help."
 ---
 
 ## The Importance of Mindset
