@@ -1,6 +1,6 @@
 Hi everyone,
 
-Thanks again for taking part in instructor training this week. I really enjoyed spending time with you, and I look forward to your continued involvement with the Software and Data Carpentry Communities. 
+Thanks again for taking part in instructor training this week. I really enjoyed spending time with you, and I look forward to your continued involvement with The Carpentries community. 
 
 We'd be very grateful if you could take a couple of minutes to fill in this survey (https://www.surveymonkey.com/r/post-instructor-training) to provide anonymous feedback about the workshop.
 
