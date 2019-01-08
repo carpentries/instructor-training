@@ -13,11 +13,13 @@ If you are joining through our open application program, applications are review
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone. 
 
+Registration for each event closes one week before that event.
+
 
 # North America
 
 #### Pacific time
-* [January 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-january-14-15-n-america-pacific-time-tickets-53346605132)  (UTC -8)
+* January 14-15, 2019 (UTC -8) *Registration closed*
 * [March 20-21, 2019](https://www.eventbrite.com/e/online-instructor-training-march-20-21-n-america-pacific-time-tickets-53347451664)  (UTC -8)
 * [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7)
 
@@ -25,7 +27,7 @@ All trainings are offered online from 9 am to 5 pm in the time zone noted.  You 
 *Additional training dates will be scheduled if needed*
 
 #### Central time
-* [January 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-january-10-11-n-america-central-time-tickets-53310924410)  (UTC -6)
+* January 10-11, 2019 (UTC -6) *Registration closed*
 * [February 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-february-25-26-n-america-central-time-tickets-53347008338)  (UTC -6)
 * [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5)
 
