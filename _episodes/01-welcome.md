@@ -34,7 +34,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
 >
-> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for trainee success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in trainee progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!.]
+> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for trainee success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in trainee progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!]
 {: .discussion}
 
 > ## Information for Today's Learners
