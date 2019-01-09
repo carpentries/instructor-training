@@ -2,7 +2,7 @@
 title: "Managing a Diverse Classroom"
 block: "Building Teaching Skill"
 teaching: 10
-exercises: 10
+exercises: 20
 questions:
 - "How can I prepare for effective co-teaching?"
 - "What are the challenges of managing a heterogeneous classroom?"

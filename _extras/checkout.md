@@ -117,13 +117,14 @@ Please note that:
 
 The next step is to take part in an hour-long community discussion session
 led by an experienced instructor.
-This session gives you a chance to ask questions about the material
+These sessions gives you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
+
 Our community discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
-You can sign up for a session on [the discussion Etherpad]({{page.discussionpad}});
+You can sign up for a session on [the community discussions Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
 please [let us know](mailto:{{ site.email }})
