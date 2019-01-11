@@ -350,6 +350,26 @@ concept in your concept map.
 > 5.  Paste your faded example in the Etherpad.
 >
 > This exercise should take about 10 minutes.
+> 
+>> ## Solution
+>> 
+>> Your solution to this exercise could look similar to the example
+>> given above, or something like this:
+>>
+>> **Question**  
+>> In this example, we will graph the change in life expectancy over time 
+>> as a line graph, giving each country a unique color and each continent
+>> its own unique panel or facet.  
+>> What would you add to the blank spaces to create this graph? 
+>>```
+>> ggplot(data = az.countries, aes(x = year, y = lifeExp, color = ________)) +
+>>   geom_line() +  facet_wrap( ~ _______)
+>>```
+>>
+>>**Answer** `country` and  `continent`
+>>
+>{: .solution}
+> 
 {: .challenge}
 
 ## Summary
