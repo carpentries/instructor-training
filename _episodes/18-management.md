@@ -221,14 +221,15 @@ of the issue in case s/he feels additional steps should be taken.
 No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org)
 or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
 as soon as you can and let us know what happened so that we can follow-up
-with the workshop host and/or participants as needed.
+with the workshop host and/or participants as needed.  
 
 You also have the right as an instructor to walk out of a workshop
 if you feel that the participants or hosts are not supporting your
 attempts to enforce the Code of Conduct. Again, please contact us
 as soon as possible if this happens.
 
-
+This information is also written up in the Carpentries handbook: 
+[Code of Conduct Reporting in the Carpentries Handbook][coc-reporting]
 
 At the end of the morning, do the following:
 
@@ -242,3 +243,4 @@ At the end of the morning, do the following:
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
 [vps]: https://en.wikipedia.org/wiki/Virtual_private_server
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
+[coc-reporting]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines

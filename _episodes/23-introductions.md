@@ -171,6 +171,24 @@ around:
 - ways to ask for help
 - ways to give instructors feedback
 
+> ## Introducing the Code of Conduct
+> 
+> The Carpentries handbook has an introduction to the Code of 
+> Conduct that can be adapted for explanation in a workshop introduction.
+> * [Code of Conduct in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+> 
+> Besides explaining the Code of Conduct in your introduction, you 
+> should also tell learners who to contact if they experience or 
+> observe a Code of Conduct violation.  
+> 
+> If you are a "mandated reporter" -- someone who is required to report specific 
+> types of behavior to your institution if someone talks to you -- you can 
+> either say this when talking about the Code of Conduct and designate a 
+> contact person who is not a mandated reporter; or remember to tell someone 
+> this before they share a Code of Conduct violation with you that might 
+> require you to report to your own institution, not just the Carpentries.
+{: .callout}
+
 **Communicate your commitment** to the learners' learning experience.
 
 **Share some advice for success** in your course. Let learners
