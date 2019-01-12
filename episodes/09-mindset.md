@@ -183,8 +183,8 @@ long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" atti
 
 Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) 
 is important, as it is a critical skill of lifelong learners. Encouraging learners to seek help can be difficult when societal norms view 
-seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially 
-[prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a 
+seeking help as "stigmatizing, self-threatening behavior". 
+Because of this, we need to reframe help-seeking behavior as a 
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners 
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a 
 positive learning community.  
