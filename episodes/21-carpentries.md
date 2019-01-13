@@ -203,6 +203,13 @@ The workshop will show up on our websites shortly thereafter.
 > Put the link for your workshop website into the Etherpad.
 >
 > This exercise should take about 25 minutes.
+> 
+> Note: Sometimes web browsers will cache the workshop webpage, so when 
+> you make changes in Github, they don't show up on the workshop webpage
+> immediately.  Two ways to avoid this are to use a "private" or 
+> "incognito" mode in your web browser or by following these 
+> [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+> 
 {: .challenge}
 
 > ## Question and Answer
