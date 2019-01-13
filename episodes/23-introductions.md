@@ -83,7 +83,7 @@ The instructor should:
 To meet these objectives an introduction should:
 
 1.  Set positive first impressions
-1.  Introduce yourself effectively
+1.  Introduce yourself effectively (and have other workshop leaders do the same)
 1.  Clarify learning objectives and expectations
 1.  Help learners learn about each other
 1.  Set the tone for the workshop
@@ -145,6 +145,17 @@ you've never taught the course before, or that it is your least
 favorite course to teach, or to disclose any irrelevant personal
 information that can undermine you in the eyes of your learners.
 
+> ## Introductions for Everyone
+>
+> If you're teaching a typical Carpentries workshop, then you're
+> probably not teaching alone!  After introducing yourself, make 
+> sure that you give everyone involved in the workshop - instructors, 
+> helpers, organizers - a chance to introduce themselves as well.
+> 
+> If you're the workshop organizer, this can also be a good time 
+> to thank volunteers who are instructing or helping.
+{: .callout}
+
 ### 3. Clarify Learning Objectives and Your Expectations
 
 This is probably the most important step. Clearly laying out
@@ -163,6 +174,10 @@ understand the decisions that have been made in designing the workshop.
 Make sure to highlight
 the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
+
+**Clarify workshop roles.** Explain who is doing what at the workshop and 
+what learners can expect from the workshop leaders.  If you haven't already 
+introduced helpers or other workshop leaders, make sure to do so.  
 
 **Explain your expectations** for learner behavior including expectations
 around:
