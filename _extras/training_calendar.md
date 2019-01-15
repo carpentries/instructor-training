@@ -43,7 +43,7 @@ Registration for each event closes one week before that event.
 * [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-western-europe-time-tickets-53348314244)  (UTC +1)
 
 #### Central European time
-* [January 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-january-30-31-central-europe-tickets-53320114899)  (UTC +1) *Event Canceled*
+* January 30-31, 2019 (UTC +1) *Event Canceled*
 * [April 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-april-10-11-central-european-time-tickets-53349080536)  (UTC +2)
 
 
