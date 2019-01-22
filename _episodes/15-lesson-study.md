@@ -149,7 +149,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 > ## You Can't Just Ask
 >
 > Self-assessments of skill level are usually inaccurate
-> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
+> because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is. This is one reason why assessments should be specific, as 
 > opposed to asking if everyone understands.
