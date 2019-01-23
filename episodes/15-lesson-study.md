@@ -99,9 +99,9 @@ The "learning objectives" section is an easy thing to pass over when you're prep
 unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We 
 aim to create learning objectives that are specific, accurate, and informative for both learners and instructors. 
 
-[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, heirarchical steps. 
+[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps. 
 While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
-heirarchy seems to be reasonably valid: outcomes at the top of the heirarchy cannot be achieved without mastery of outcomes at 
+hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved without mastery of outcomes at 
 the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
 need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and 
 guiding them to look ahead to where we might not be able to take them.
