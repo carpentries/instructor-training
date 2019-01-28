@@ -11,7 +11,8 @@ objectives:
 - "Describe where you can go to get information on running a workshop."
 keypoints:
 - "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
-- "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information."
+- "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information.
+- "Guidance for teaching and hosting workshops is provided in The Carpentries Handbook."
 
 ---
 
@@ -120,7 +121,12 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 ## How a Workshop Works
 
-There are two types of Carpentry workshops: self-organized and centrally-organized.
+The [**Capentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
+provides tips, checklists, and points of contact for nearly all Carpentries-related activties in one location. 
+The Capentries Handbook is the definitive source for policies and information. 
+Here, we will briefly cover workshop types, core cirricula, official logos, and workshop websites. 
+
+Briefly, there are two types of Carpentry workshops: self-organized and centrally-organized.
 For a centrally-organized workshop, Carpentry staff takes care of organization and administration
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
