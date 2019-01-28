@@ -8,8 +8,6 @@ questions:
 objectives:
 - "Describe overnight homework."
 - "Produce a paragraph, drawing, or diagram that summarizes what was taught today."  
-keypoints:
-- ""
 ---
 
 Today we have focused on understanding some core findings of pedagogical research about how the learning process
