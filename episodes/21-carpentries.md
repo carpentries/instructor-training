@@ -124,7 +124,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 The [**Capentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
 provides tips, checklists, and points of contact for nearly all Carpentries-related activties in one location. 
 The Capentries Handbook is the definitive source for policies and information. 
-Here, we will briefly cover workshop types, core cirricula, official logos, and workshop websites. 
+Here, we will briefly cover workshop types, core curricula, official logos, and workshop websites. 
 
 Briefly, there are two types of Carpentry workshops: self-organized and centrally-organized.
 For a centrally-organized workshop, Carpentry staff takes care of organization and administration
