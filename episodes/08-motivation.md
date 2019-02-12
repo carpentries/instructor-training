@@ -409,7 +409,7 @@ The third,
 and most important,
 is to *involve people with disabilities in decision-making*.
 Our mailing lists are a good place to ask for advice,
-and updates to [our accessibility checklist]({{ site.swc_site }}/checklists/accessibility/)
+and updates to [our accessibility checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility)
 are always welcome.
 
 
