@@ -28,7 +28,7 @@ Carol Dweck, now a professor of Psychology at Stanford University, has conducted
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
 affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
 someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
+almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
 People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
 tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.
