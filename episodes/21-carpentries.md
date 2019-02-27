@@ -42,7 +42,7 @@ as the third official Lesson Program of the Carpentries.
 
 The Carpentries project comprises communities of Instructors, Trainers,
 Maintainers, helpers, and supporters from 
-[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
+[Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
 who share a mission to teach foundational computational and data science skills. 
 
 ![A brief history](../fig/SWCDChistory.png)
