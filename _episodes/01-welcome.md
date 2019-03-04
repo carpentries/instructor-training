@@ -80,7 +80,7 @@ practice, and feedback with fellow learners.
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get 
 familiarity with some of the content through the exercises), 
-This workshop is the first step in becoming a certified Software and/or Data Carpentry instructor.
+This workshop is the first step in becoming a certified Carpentries instructor.
 The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.
