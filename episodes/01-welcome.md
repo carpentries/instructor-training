@@ -21,7 +21,7 @@ keypoints:
 
 To make clear what is expected, everyone participating in Carpentries activities is required
 to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by the Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
-[the Code of Conduct](https://software-carpentry.org/conduct/) to familiarise yourself with it.
+[the Code of Conduct]({{ site.coc }}) to familiarise yourself with it.
 
 ## Introductions
 
