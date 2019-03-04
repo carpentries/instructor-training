@@ -87,17 +87,18 @@ and hope that they'll understand.
 
 ## Code of Conduct Violations
 
-If you are an instructor, and believe that someone in a workshop has
-violated the Code of Conduct, you may warn them, ask them to
-apologize, and/or expel them, depending on the severity of the
-violation and whether or not you believe it was intentional.
+All Carpentries community members should feel empowered to enforce the Code of Conduct.
+
+Ideally we would all be able to diffuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. There are ways that you can be supportive, and steps that you can take during or after an incident. In our handbook we have provided several [Incident Response Checklists](https://docs.carpentries.org/topic_folders/policies/incident-response.html) that outline the steps any community member (workshop host, instructor, helper, etc.) can take during a potential Code of Conduct incident before reporting it to the Code of Conduct Committee. 
+
+You are encouraged to move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening, but feel someone should, please submit a report via the [Code of Conduct incident report form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform) to the Code of Conduct committee.
 
 The local workshop host is expected to help enforce the Code of Conduct and
 you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
-If you choose to settle the issue yourself, you should notify the workshop host
-of the issue in case s/he feels additional steps should be taken.
+If you choose to settle the incident yourself, you should notify the workshop host
+of the incident, and inform the Code of Conduct committee by completing the [Incident Report Form(https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform).
 
-No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org)
+No matter what you choose to do, please [contact the Carpentries Code of Conduct Committee](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform)
 or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
 as soon as you can and let us know what happened so that we can follow-up
 with the workshop host and/or participants as needed.
