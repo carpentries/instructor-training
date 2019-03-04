@@ -106,6 +106,6 @@ Once you have completed all checkout steps, you will receive an email with your 
 {: .callout}
 
 
-[mentoring]: https://carpentries.org/community/#mentoring
+[mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.software-carpentry.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos-recovered
