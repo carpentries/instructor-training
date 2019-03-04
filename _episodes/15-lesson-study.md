@@ -110,7 +110,7 @@ guiding them to look ahead to where we might not be able to take them.
 
 Image credit: Vanderbilt University Center for Teaching
 
-> ## Evaluate SWC and DC Learning Objectives
+> ## Evaluate Learning Objectives
 >
 > Your instructor has posted links to a handful of current Carpentries lessons in the Etherpad.
 > Select one learning objective from one of those lessons,
