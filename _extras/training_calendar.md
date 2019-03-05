@@ -28,13 +28,13 @@ Registration for each event closes one week before that event. You may change or
 
 #### Central time
 * January 10-11, 2019 (UTC -6) *Registration closed*
-* [February 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-february-25-26-n-america-central-time-tickets-53347008338)  (UTC -6)
+* February 25-26, 2019 (UTC -6) *Registration closed*
 * [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5)
 
 #### Eastern time
 * January 22-23, 2019(UTC -5) *Registration closed*
-* [February 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-february-14-15-n-america-eastern-time-tickets-53347246049)  (UTC -5) *Note: Event is full but you may join the waitlist*
-* [March 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-march-11-12-n-america-eastern-time-tickets-53347628192)  (UTC -4)
+* February 14-15, 2019(UTC -5) *Registration closed*
+* March 11-12, 2019 (UTC -4) *Registration closed*
 
 # Europe
 
