@@ -98,7 +98,7 @@ You are encouraged to move from being a bystander to being a Code of Conduct fir
 The local workshop host is expected to help enforce the Code of Conduct and
 you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
 If you choose to settle the incident yourself, you should notify the workshop host
-of the incident, and inform the Code of Conduct committee by completing the [Incident Report Form(https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform).
+of the incident, and inform the Code of Conduct committee by completing the [Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform).
 
 No matter what you choose to do, please [contact the Carpentries Code of Conduct Committee](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform)
 or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
