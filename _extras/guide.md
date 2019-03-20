@@ -189,6 +189,9 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 ### Building Skill with Practice
 ### Expertise and Instruction	
 ### Memory and Cognitive Load	
+
+* FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
+
 ### Building Skill with Feedback	
 ### Motivation and Demotivation
 
