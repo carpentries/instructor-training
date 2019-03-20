@@ -367,7 +367,7 @@ Anything you can do to a) recognize and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
-[memory-test]: http://opencoglab.org/memtest1/#interactive_test
+[memory-test]: https://carpentries.github.io/instructor-training/glossary/index.html
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
