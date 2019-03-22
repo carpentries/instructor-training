@@ -1,6 +1,6 @@
 # Contributing
 
-[Software Carpentry][swc-site], [Data Carpentry][dc-site], and Library Carpentry[lc-site] are open source projects,
+[Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] are open source projects,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
