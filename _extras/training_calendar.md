@@ -23,7 +23,7 @@ Events for May-August 2019 will be published here in early April.
 #### Pacific time
 * January 14-15, 2019 (UTC -8) *Registration closed*
 * March 20-21, 2019 (UTC -8) *Registration closed*
-* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7) *Event is full but you may join the waitlist using your code*
+* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7) 
 
 #### Mountain time
 *Additional training dates will be scheduled if needed*
@@ -31,7 +31,7 @@ Events for May-August 2019 will be published here in early April.
 #### Central time
 * January 10-11, 2019 (UTC -6) *Registration closed*
 * February 25-26, 2019 (UTC -6) *Registration closed*
-* [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5)
+* [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5) *Event is full but you may join the waitlist using your code*
 
 #### Eastern time
 * January 22-23, 2019(UTC -5) *Registration closed*
