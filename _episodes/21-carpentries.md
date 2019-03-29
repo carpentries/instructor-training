@@ -121,9 +121,9 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 ## How a Workshop Works
 
-The [**Capentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
+The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
 provides tips, checklists, and points of contact for nearly all Carpentries-related activties in one location. 
-The Capentries Handbook is the definitive source for policies and information. 
+The Carpentries Handbook is the definitive source for policies and information. 
 Here, we will briefly cover workshop types, core curricula, official logos, and workshop websites. 
 
 Briefly, there are two types of Carpentry workshops: self-organized and centrally-organized.
@@ -173,7 +173,7 @@ Published curricula include the Ecology, Genomics, Social Science and Geospatial
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
 
-An Library Carpentry workshop must include three to four of the
+A Library Carpentry workshop must include three to four of the
 [core lessons](https://librarycarpentry.org/lessons/#core-curriculum), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
 Library Carpentry also maintains an "extended" set of lessons
 that can be taught in addition to the core curriculum 
