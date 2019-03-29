@@ -93,7 +93,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
-> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v3.pdf).
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
 >
@@ -108,7 +108,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 >> Assessment Team: K
 >> Champions: L
 >> Infrastructure Team: H
->> Workshop Administrators: A
+>> Regional Coordinator: A
 >> Code of Conduct Committee: G
 > {: .solution}
 > This exercise should take about 10 minutes.
