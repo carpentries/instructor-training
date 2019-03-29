@@ -51,9 +51,7 @@ important.
 
 > ## Test Your Working Memory (5 min)
 >
-> [This website][memory-test] implements a short test of working memory. You will be presented with a variety of different 
-> symbols, each presented for only a very short time, and asked to select those that you remember from a second set of 
-> symbols. There are 21 steps to the quiz, after which you can skip over the survey to see your results. 
+> [This website][memory-test] implements a short test of working memory.  
 > 
 > Take 5 minutes to complete the exercise. What was your score? Write your answer 
 > in the Etherpad.
