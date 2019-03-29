@@ -51,9 +51,7 @@ important.
 
 > ## Test Your Working Memory (5 min)
 >
-> [This website][memory-test] implements a short test of working memory. You will be presented with a variety of different 
-> symbols, each presented for only a very short time, and asked to select those that you remember from a second set of 
-> symbols. There are 21 steps to the quiz, after which you can skip over the survey to see your results. 
+> [This website][memory-test] implements a short test of working memory.  
 > 
 > Take 5 minutes to complete the exercise. What was your score? Write your answer 
 > in the Etherpad.
@@ -387,7 +385,7 @@ Anything you can do to a) recognize and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
-[memory-test]: https://carpentries.github.io/instructor-training/glossary/index.html
+[memory-test]: https://cat.xula.edu/thinker/memory/working/serial
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
