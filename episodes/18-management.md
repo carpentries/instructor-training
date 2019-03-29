@@ -222,7 +222,7 @@ Putting some thought into how you and your co-instructor will work together can 
 In teaching as in life, shared misery is lessened and shared joy increased;
 take a few minutes when the class is over to either
 congratulate or commiserate with each other.  In that moment,
-no-one will understand how pleased you are at helping someone
+no-one will better understand how pleased you are at helping someone
 understand how loops work, or how disappointed you are that you just
 couldn't get software to install on that one learner's laptop, than
 the person you just taught with.
