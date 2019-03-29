@@ -56,7 +56,7 @@ You can learn more about the history and goals of each Lesson Program by reading
 
 All lesson programs under The Carpentries share the same value 
 of promoting efficient, shareable, and reproducible research practices. 
-Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
