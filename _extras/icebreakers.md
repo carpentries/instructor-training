@@ -21,7 +21,7 @@ How do their reasons compare to yours?
 
 ### Past Experiences
 
-If you have taken part in a Software or Data Carpentry workshop,
+If you have taken part in a Software, Data, or Library Carpentry workshop,
 how do your experiences compare to those of other people?
 If you haven't,
 what questions do you have that they might be able to answer?

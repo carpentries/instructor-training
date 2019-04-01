@@ -8,8 +8,6 @@ questions:
 objectives:
 - "Describe overnight homework."
 - "Produce a paragraph, drawing, or diagram that summarizes what was taught today."  
-keypoints:
-- ""
 ---
 
 Today we have focused on understanding some core findings of pedagogical research about how the learning process
@@ -29,7 +27,7 @@ To prepare for tomorrow, please:
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
     If you haven't already, pick an episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson and 
     read through it carefully.
-    Tomorrow, you will use this to practice live coding for 5 minutes in groups of three.
+    Tomorrow, you will use this to practice live coding for 3 minutes in groups of three.
     Your group members will comment on the delivery and content.
     The episodes we recommend were listed in the welcome message
     sent to you before the start of this course, and are:

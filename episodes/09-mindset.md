@@ -28,7 +28,7 @@ Carol Dweck, now a professor of Psychology at Stanford University, has conducted
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
 affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
 someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
+almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
 People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
 tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.
@@ -48,7 +48,7 @@ and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-le
 > ## Does Mindset matter?
 > Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
 > talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic 
-> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's  
+> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's 
 > mindset about computational skill influence their learning in a workshop setting?
 > 
 > Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
@@ -109,7 +109,7 @@ highlighting our ability to improve with effort.
 {: .quotation}
 
 One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being 
-fearful of making them. *Error framing* encourages learners to understand that making errors provides valuable learning opportunities instead 
+fearful of making them. *Error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead 
 of having negative consequences. For example, the [Language Acquisition Made Practical](http://www.worldcat.org/title/language-acquisition-made-practical-field-methods-for-language-learners/oclc/935845446?referer=di&ht=edition) (LAMP)
 system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By 
 being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has 
@@ -183,8 +183,8 @@ long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" atti
 
 Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) 
 is important, as it is a critical skill of lifelong learners. Encouraging learners to seek help can be difficult when societal norms view 
-seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially 
-[prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a 
+seeking help as "stigmatizing, self-threatening behavior". 
+Because of this, we need to reframe help-seeking behavior as a 
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners 
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a 
 positive learning community.  

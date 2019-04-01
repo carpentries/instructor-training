@@ -21,7 +21,7 @@ keypoints:
 
 To make clear what is expected, everyone participating in Carpentries activities is required
 to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by the Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
-[the Code of Conduct](https://software-carpentry.org/conduct/) to familiarise yourself with it.
+[the Code of Conduct]({{ site.coc }}) to familiarise yourself with it.
 
 ## Introductions
 
@@ -80,7 +80,7 @@ practice, and feedback with fellow learners.
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get 
 familiarity with some of the content through the exercises), 
-This workshop is the first step in becoming a certified Software and/or Data Carpentry instructor.
+This workshop is the first step in becoming a certified Carpentries instructor.
 The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.
