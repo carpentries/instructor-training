@@ -88,6 +88,7 @@ however, would be confused by this unexplained use of two different ways of repr
 > - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
 > - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
 > - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
+> - Chemistry: Switching between "Reference material" and "Standard"
 > - Mathematics: Thinking of things algebraically vs geometrically.
 > - Navigation: Switching among different routes between two locations.
 {: .callout}
