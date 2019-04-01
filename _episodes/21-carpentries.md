@@ -12,6 +12,7 @@ objectives:
 keypoints:
 - "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
 - "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information."
+- "Guidance for teaching and hosting workshops is provided in The Carpentries Handbook."
 
 ---
 
@@ -41,7 +42,7 @@ as the third official Lesson Program of the Carpentries.
 
 The Carpentries project comprises communities of Instructors, Trainers,
 Maintainers, helpers, and supporters from 
-[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
+[Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
 who share a mission to teach foundational computational and data science skills. 
 
 ![A brief history](../fig/SWCDChistory.png)
@@ -55,7 +56,7 @@ You can learn more about the history and goals of each Lesson Program by reading
 
 All lesson programs under The Carpentries share the same value 
 of promoting efficient, shareable, and reproducible research practices. 
-Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
@@ -120,7 +121,12 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 ## How a Workshop Works
 
-There are two types of Carpentry workshops: self-organized and centrally-organized.
+The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
+provides tips, checklists, and points of contact for nearly all Carpentries-related activties in one location. 
+The Carpentries Handbook is the definitive source for policies and information. 
+Here, we will briefly cover workshop types, core curricula, official logos, and workshop websites. 
+
+Briefly, there are two types of Carpentry workshops: self-organized and centrally-organized.
 For a centrally-organized workshop, Carpentry staff takes care of organization and administration
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
@@ -167,7 +173,7 @@ Published curricula include the Ecology, Genomics, Social Science and Geospatial
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
 
-An Library Carpentry workshop must include three to four of the
+A Library Carpentry workshop must include three to four of the
 [core lessons](https://librarycarpentry.org/lessons/#core-curriculum), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
 Library Carpentry also maintains an "extended" set of lessons
 that can be taught in addition to the core curriculum 
@@ -203,6 +209,13 @@ The workshop will show up on our websites shortly thereafter.
 > Put the link for your workshop website into the Etherpad.
 >
 > This exercise should take about 25 minutes.
+> 
+> Note: Sometimes web browsers will cache the workshop webpage, so when 
+> you make changes in Github, they don't show up on the workshop webpage
+> immediately.  Two ways to avoid this are to use a "private" or 
+> "incognito" mode in your web browser or by following these 
+> [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+> 
 {: .challenge}
 
 > ## Question and Answer

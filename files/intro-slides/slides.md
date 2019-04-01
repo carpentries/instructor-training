@@ -19,7 +19,7 @@ be teaching or you had no idea what the course was supposed to be about?
 ## Why is the environment important
 
 
-- In Software Carpentry and Data Carpentry we're teaching not only a set of skills,
+- In Software, Data, and Library Carpentry we're teaching not only a set of skills,
 but at least as importantly we're trying to empower learners and give them the confidence to use
 these tools and learn more on their own.
 
@@ -94,7 +94,7 @@ You want to convey
 ### Clarify learning objectives and expectations
 
 - let people know what the prerequisites are
-For Data Carpentry, no prior computational experience is required and for
+For Data and Library Carpentry, no prior computational experience is required and for
 Software Carpentry it can vary.
 - highlight the main aspects of the schedule
 - highlight the learning objectives

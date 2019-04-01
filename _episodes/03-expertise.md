@@ -88,6 +88,7 @@ however, would be confused by this unexplained use of two different ways of repr
 > - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
 > - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
 > - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
+> - Chemistry: Switching between "Reference material" and "Standard"
 > - Mathematics: Thinking of things algebraically vs geometrically.
 > - Navigation: Switching among different routes between two locations.
 {: .callout}
@@ -242,5 +243,5 @@ motivations, making it easier for you to target your lesson materials to their n
 you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
 learners aren't getting it, it's probably more complicated than you thought.
 
-[motivation-words]: http://www.chicagotribune.com/bluesky/hub/ct-buffer-words-and-phrases-that-motivate-bsi-hub-20160225-story.html
+[motivation-words]: https://perma.cc/LE2H-VWXG?type=image
 [four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words

@@ -180,10 +180,18 @@ you’re not the host, please contact Carpentry staff immediately.
 
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
+### Breaks
+
+* Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give 
+learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
+
 ### Welcome	
 ### Building Skill with Practice
 ### Expertise and Instruction	
 ### Memory and Cognitive Load	
+
+* FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
+
 ### Building Skill with Feedback	
 ### Motivation and Demotivation
 

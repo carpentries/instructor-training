@@ -13,7 +13,7 @@ you must go through these three steps to complete your training and be
 fully certified as a Carpentries instructor:
 
 1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
-2.  Take part in an online [community discussion](#community-discussion).
+2.  Take part in an online [community discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but
@@ -27,7 +27,7 @@ setting of the two-day training.  These are:
     to our materials, particularly so that you can contribute in the future.
 
 2.  Participating in the larger Carpentry instructor community.  We
-    include the discussion session in the checkout because we hear
+    include the community discussion session in the checkout because we hear
     from many instructors that one of their favorite aspects of being a
     Carpentry instructor is meeting and talking with other instructors in the community.
 
@@ -57,15 +57,16 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}).
-Contributions to Software Carpentry and Library Carpentry materials must be submitted through GitHub.
+Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing
-to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that
-lesson on the lesson page. For Data Carpentry this is [www.datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/). For Software Carpentry this is
-[www.software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/). For Software Carpentry this is
-[www.librarycarpentry.org/lessons/]({{ site.lc_site }}/lessons/). Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson
-contributions.
+to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that lesson on the lesson page. The lesson pages can be found at:  
+
+* [https://datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/)
+* [https://software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/)
+* [https://librarycarpentry.org//lessons/]({{ site.lc_site }}/lessons/) 
+
+Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
 
 Please note that:
 
@@ -113,16 +114,17 @@ Please note that:
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
 
-## Part 2: Take Part in An Online Community Discussion
-<a name="community-discussion"></a>
+## Part 2: Take Part in An Online Community Discussion Session
+<a name="discussion-session"></a>
 
-The next step is to take part in an hour-long community discussion
+The next step is to take part in an hour-long community discussion session
 led by an experienced instructor.
 These sessions gives you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
-Our community discussions are run as video conferences several times per week:
+
+Our community discussion sessions are run as video conferences several times per week:
 please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the community discussions Etherpad]({{page.discussionpad}});
 if none of the available times work for you,

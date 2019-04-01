@@ -1,7 +1,0 @@
-Hi,
-
-Thanks very much for your pull request - when you have a moment, please head over to http://pad.software-carpentry.org/instructor-discussion to sign up for a discussion session, and then to http://pad.software-carpentry.org/teaching-demos to sign up for your final demo, and we'll get you through and certified as quickly as we can.
-
-Cheers,
-
-Greg
