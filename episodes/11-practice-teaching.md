@@ -1,5 +1,6 @@
 ---
-title: "Building Teaching Skill: The Importance of Practice"
+title: "Teaching is a Skill"
+block: "Building Teaching Skill"
 teaching: 15
 exercises: 55
 questions:
@@ -81,12 +82,12 @@ forward momentum on system-wide improvements to teaching.
 The Carpentries pedagogical model supports lesson study by providing many opportunities for our instructors
 to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another 
 and to give each other feedback, you'll also have the opportunity to practice in front of an experienced instructor 
-as part of your instructor training checkout. In addition, Carpentry instructors always teach in pairs (or more), 
+as part of your instructor training checkout. In addition, Carpentries instructors always teach in pairs (or more), 
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
 > ## Giving Feedback
 >
-> We'll start by observing some examples of Carpentry workshop teaching and providing some feedback.
+> We'll start by observing some examples of teaching and providing some feedback.
 > 
 > Watch this [example teaching video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
@@ -103,12 +104,13 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > **Trainings where trainees are co-located:** 
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
->     the Carpentry lesson episode you chose before the start of the training course.
+>     the lesson episode you chose before the start of the training course.
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Use a whiteboard or other visual aids if available, but do not use live coding. 
->     We'll be practicing with live coding later.
+>     Use a whiteboard or other visual aids if available
+>     (Note: Do not live code you lesson.
+>     There will be a chance to live code later.)
 >     Keep a strict time limit of 90 seconds per person. 
 > 3.  After the first person finishes,
 >     rotate roles
@@ -177,7 +179,7 @@ read as professional suggestions rather than personal judgments.
   are following, so you could speed up" than to read several notes all saying, "this is
   too slow" or "this is boring".
 
-This is part of the reason for Data Carpentry and Software Carpentry's rule,
+This is part of the reason for the Carpentries' rule,
 "Never teach alone."
 Having another instructor in the classroom saves your voice
 (it's hard to talk for two days straight),
@@ -200,7 +202,7 @@ will help them improve. Remember that giving and receiving feedback is a skill t
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.  
 
-> ## Feedback on Feedback
+> ## Feedback on Feedback (Optional)
 >
 > Watch either this [scipy tutorial][scipy-video-1] (8:40)
 > or this [other tutorial][scipy-video-2] (11:42).
@@ -228,13 +230,14 @@ may have a fixed mindset about teaching. By strengthening your growth mindset wi
 transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
 practice teaching and to get and give feedback tomorrow.
 
+
 ## Optional Exercises
 
 > ## Skill Acquisition: What level are your teaching skills?
 > 
 > As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice. 
 > Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
->Discuss with a partner and then write some thoughts in the Etherpad.
+> Discuss with a partner and then write some thoughts in the Etherpad.
 {: .challenge}
 
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081

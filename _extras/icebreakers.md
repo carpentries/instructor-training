@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Icebreakers"
-permalink: /icebreakers/
 ---
 
 ## Icebreaker Ideas
@@ -22,7 +21,7 @@ How do their reasons compare to yours?
 
 ### Past Experiences
 
-If you have taken part in a Software or Data Carpentry workshop,
+If you have taken part in a Software, Data, or Library Carpentry workshop,
 how do your experiences compare to those of other people?
 If you haven't,
 what questions do you have that they might be able to answer?
@@ -34,7 +33,7 @@ Are there other ways of drawing knowledge that appeal to you more?
 
 ### Discussing Live Coding
 
-How does live coding compare to other kinds of demonstration-based teaching
+How does participatory live coding compare to other kinds of demonstration-based teaching
 like lab lessons?
 
 ### In the Real World

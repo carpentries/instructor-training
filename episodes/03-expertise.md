@@ -1,5 +1,6 @@
 ---
-title: "How Learning Works: Expertise and Instruction"
+title: "Expertise and Instruction"
+block: "How Learning Works"
 teaching: 20
 exercises: 30
 questions:
@@ -87,6 +88,7 @@ however, would be confused by this unexplained use of two different ways of repr
 > - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
 > - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
 > - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
+> - Chemistry: Switching between "Reference material" and "Standard"
 > - Mathematics: Thinking of things algebraically vs geometrically.
 > - Navigation: Switching among different routes between two locations.
 {: .callout}
@@ -109,7 +111,7 @@ before a novice has even finished reading the error message. Because of this, it
 while teaching to be explicit about the process you are using to diagnose and correct errors, even if they
 seem trivial to you, as they often will.
 
-> ## Diagnosis  
+> ## Diagnosis  (Optional)
 >
 > What is an error message that you encounter frequently in your work? (These are often syntax errors.)
 > Take a few minutes to plan out how you would explain that error message to your learners. Write the
@@ -126,7 +128,7 @@ who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
-> ## Blind Spots  
+> ## Blind Spots  (Optional)
 >
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
@@ -210,7 +212,7 @@ a much bigger problem for us than experienced programmers like to acknowledge.
 It isn't just the time we lose at the start of workshops
 as we try to get a Unix shell working on Windows,
 or set up a version control client on some idiosyncratic Linux distribution, or ask people to download and unzip files.
-It isn't even the unfairness of asking students to debug things
+It isn't even the unfairness of asking learners to debug things
 that depend on precisely the knowledge they have come to learn,
 but which they don't yet have.
 The real problem is that every such failure reinforces the belief that computing is hard,
@@ -221,7 +223,7 @@ we have adopted a "teach most immediately useful first" approach.
 We'll talk much more about this when we discuss
 [motivation]({{ page.root }}/08-motivation/).
 
-> ## Software/Data Carpentry Is Not Computer Science  
+> ## The Carpentries Is Not Computer Science  
 >
 > Many of the foundational concepts of computer science,
 > such as computability,
@@ -241,5 +243,5 @@ motivations, making it easier for you to target your lesson materials to their n
 you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
 learners aren't getting it, it's probably more complicated than you thought.
 
-[motivation-words]: http://www.chicagotribune.com/bluesky/hub/ct-buffer-words-and-phrases-that-motivate-bsi-hub-20160225-story.html
+[motivation-words]: https://perma.cc/LE2H-VWXG?type=image
 [four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words

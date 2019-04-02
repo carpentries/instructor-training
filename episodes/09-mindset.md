@@ -1,5 +1,6 @@
 ---
-title: "Creating a Positive Learning Environment: Mindset"
+title: "Mindset"
+block: "Creating a Positive Learning Environment"
 teaching: 20
 exercises: 20
 questions:
@@ -15,7 +16,7 @@ objectives:
 keypoints:
 - "Growth mindset and grit promote learning by making effort a positive thing."
 - "Presenting errors as essential to the learning process helps learners learn from their mistakes."
-- "Successful lifelong learners aren't embarassed to ask for help."
+- "Successful lifelong learners aren't embarrassed to ask for help."
 ---
 
 ## The Importance of Mindset
@@ -27,7 +28,7 @@ Carol Dweck, now a professor of Psychology at Stanford University, has conducted
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
 affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
 someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
+almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
 People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
 tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.
@@ -47,7 +48,7 @@ and receive feedback, which, [as we've discussed]({{ page.root }}/02-practice-le
 > ## Does Mindset matter?
 > Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
 > talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic 
-> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's  
+> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's 
 > mindset about computational skill influence their learning in a workshop setting?
 > 
 > Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
@@ -68,18 +69,18 @@ The way in which we praise learners has an important impact on their mindset dev
 investigated three types of praise: performance-based, effort-based and improvement-based, and looked at how these
 types of praise influence learner's mindsets.
 
-We're most used to hearing performance-based praise. This sort of praise focuses on outcomes and implies that the
+We're most used to hearing **performance-based praise**. This sort of praise focuses on outcomes and implies that the
 outcome (for example, getting a correct answer) is the most important part of the task. It is often (but not always)
 combined with language that explicitly or implicitly supports the "intrinsic" model of competence. For example, "You
 did a great job! You must be very smart."
 
-Effort-based praise focuses on the learner's hard work. For example, "You did a good job, you must have worked very hard."
+**Effort-based praise** focuses on the learner's hard work. For example, "You did a good job, you must have worked very hard."
 Exposing learners frequently to this type of praise helps them to transition from a fixed mindset to a growth mindset by
 changing their perception of effort. For fixed-mindset people, if something doesn't come easy to you, it means that you
 don't have natural ability and shouldn't bother. People with a growth mindset are much more likely to persevere in the face of challenge
 and accomplish their goals.
 
-Improvement-based praise is related to praise based on effort, but explicitly draws a learner's attention to the progress they've made.
+**Improvement-based praise** is related to praise based on effort, but explicitly draws a learner's attention to the progress they've made.
 For example, "You're doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
 highlighting our ability to improve with effort.
 
@@ -108,7 +109,7 @@ highlighting our ability to improve with effort.
 {: .quotation}
 
 One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being 
-fearful of making them. *Error framing* encourages learners to understand that making errors provides valuable learning opportunities instead 
+fearful of making them. *Error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead 
 of having negative consequences. For example, the [Language Acquisition Made Practical](http://www.worldcat.org/title/language-acquisition-made-practical-field-methods-for-language-learners/oclc/935845446?referer=di&ht=edition) (LAMP)
 system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By 
 being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has 
@@ -119,7 +120,7 @@ How can we incorporate error framing into our lessons? We need to reduce the neg
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)". 
 Sharing experiences of learning from errors can encourage learners to adopt a growth-mindset. Associating improvement-based praise with errors
 can also encourage positive emotions associated with making errors in learning. Finally, the use of 
-[live coding]({{ page.root }}/15-live/) as the focus for teaching allows for instructors to model how errors can be positively 
+[participatory live coding]({{ page.root }}/14-live/) as the focus for teaching allows for instructors to model how errors can be positively 
 framed and the process for overcoming them.
 
 > ## Helping Learners Learn From Mistakes
@@ -153,7 +154,7 @@ grit.
 - *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of learners' individual long-term goals can instill 
 passion and drive for learning despite the difficulties of the topic.
 
-> ## How Are You Gritty?
+> ## How Are You Gritty? (Optional)
 > 
 > A [previous exercise]({{ page.root }}/08-motivation/#overcoming-imposter-syndrome) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
@@ -182,8 +183,8 @@ long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" atti
 
 Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking) 
 is important, as it is a critical skill of lifelong learners. Encouraging learners to seek help can be difficult when societal norms view 
-seeking help as "stigmatizing, self-threatening behavior". This view of asking help as a stigma can be especially 
-[prevalent in male learners](https://www.ncbi.nlm.nih.gov/pubmed/15737222). Because of this, we need to reframe help-seeking behavior as a 
+seeking help as "stigmatizing, self-threatening behavior". 
+Because of this, we need to reframe help-seeking behavior as a 
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners 
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a 
 positive learning community.  

@@ -1,10 +1,11 @@
 ---
-title: "How Learning Works: The Importance of Practice"
+title: "Building Skill With Practice"
+block: "How Learning Works"
 teaching: 20
 exercises: 45
 questions:
 - "How do people learn?"
-- "Who is a typical Carpentry learner?"
+- "Who is a typical Carpentries learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Explain why practice and feedback are important for learning."
@@ -92,6 +93,8 @@ does not have to be completely accurate in order to be useful:
 for example, the average driver's mental model of how a car works probably doesn't include
 most of the complexities that a mechanical engineer would be concerned with.
 
+![Mental Models](../fig/mental_models.svg)
+
 We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/03-expertise/).
 
 > ## Your Mental Models
@@ -111,7 +114,7 @@ In fact,
 presenting too many facts too soon can actually reinforce
 their incorrect mental model.
 
-Most learners coming to Software/Data Carpentry lessons are novices,
+Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
 Thus, our
 primary goal is *not*
@@ -153,7 +156,7 @@ That model also includes things like:
 These two examples illustrate something else as well.
 Learning consists of more than "just" building mental models
 and adding information to them;
-creating linkages between concepts and facts is as least as important.
+creating linkages between concepts and facts is at least as important.
 Telling people that they shouldn't repeat things,
 and that they should try to think in terms of little pieces loosely joined,
 both set the stage for discussing functions.
@@ -191,7 +194,7 @@ Broadly speaking, misconceptions fall into three categories:
     These beliefs are deeply connected to the learner's social identity
     and are the hardest to change. 
 
-Since Software and Data Carpentry are focused on novices, and the building of
+Since the Carpentries workshops are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
@@ -366,7 +369,7 @@ in which you were going to explain something that your learners already know.
 
 > ## How Many? 
 > 
-> Software and Data Carpentry use formative assessments often. How many have we done since the start of this
+> The Carpentries use formative assessments often. How many have we done since the start of this
 > workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
 > 
 > This discussion should take about 5 minutes. 

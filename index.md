@@ -15,11 +15,11 @@ This two-day class has the following overall goals:
 *   Introduce you to evidence-based best-practices of teaching.
 *   Teach you how to create a positive environment for learners at your workshops.
 *   Provide opportunities for you to practice and build your teaching skills.
-*   Help you become integrated into the Carpentries community. 
-*   Prepare you to use these teaching skills in teaching Carpentries workshops.
+*   Help you become integrated into the [Carpentries]({{ site.carpentries_site }}) community. 
+*   Prepare you to use these teaching skills in teaching [Carpentries]({{ site.carpentries_site }}) workshops.
 
 Because we have only two days, some things are beyond the scope of this class. We will not be learning:  
-*   How to program in R or Python, use git, or any of the other topics taught in Software Carpentry or Data Carpentry workshops. 
+*   How to program in R or Python, use Git or SQL, or any of the other topics taught in Software Carpentry, Data Carpentry, or Library Carpentry workshops. 
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
 *Please fill in [the online application form][application-form] if you wish to take part in this course.
@@ -31,8 +31,7 @@ short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
 Those who complete the two full days
 and [some short follow-up exercises online]({{ page.root }}/checkout/)
-will be certified to teach [Software Carpentry]({{ site.swc_site }})
-and [Data Carpentry]({{ site.dc_site }}) workshops.
+will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
 
 *   All participants in this course are required to abide by our [Code of Conduct][conduct].
 *   There are no specific prerequisites for this training,
