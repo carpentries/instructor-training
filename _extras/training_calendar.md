@@ -53,7 +53,7 @@ Registration for each event closes one week before that event. You may change or
 * [June 19-20, 2019](https://www.eventbrite.com/e/online-instructor-training-june-19-20-bst-tickets-59706679285) (UTC +1)
 * [July 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-july-25-26-bst-tickets-59707376370) (UTC +1) 
 
-#### Central European time
+#### Central European/Western African time
 * January 30-31, 2019 (UTC +1) *Event Canceled*
 * [April 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-april-10-11-central-european-time-tickets-53349080536)  (UTC +2)
 * [July 1-2, 2019](https://www.eventbrite.com/e/online-instructor-training-july-1-2-cest-tickets-59707865834)  (UTC +2)
