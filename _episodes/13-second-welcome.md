@@ -17,18 +17,20 @@ keypoints:
 - "Teaching is a learned skill."
 ---
 
-Yesterday we focused on general aspects of educational psychology and pedagogy. Today we will focus on the specifics of teaching Software and Data Carpentry workshops.
+Yesterday we focused on general aspects of educational psychology and pedagogy. Today we will focus on the specifics of teaching Software Carpentry, Data Carpentry, and Library Carpentry workshops.
 We will look at the lessons that have been written by the Carpentries and discuss how to teach effective workshops. We will review specific
-teaching practices we follow at our workshops and practice using some of them. One of the most important practices is live coding. You rarely
+teaching practices we follow at our workshops and practice using some of them. One of the most important practices is participatory live coding. You rarely
 find this approach in a current university setting so we'll spend some time practicing this skill. We will conclude our training with a discussion 
 about workshop logistics that will help you in preparing to teach your first workshop.  
 
+
 > ## Questions
 > 
-> Yesterday we asked you to read some resources about the logistics of teaching and running Carpentry workshops. Please 
-> add your questions about logistics and preparation to the Etherpad. We will answer some of these questions now and make sure to 
-> answer the rest by the end of the day.
+> Yesterday we asked you to read some resources about the logistics of teaching and running Carpentries workshops. Please 
+> add your questions about logistics and preparation to the Etherpad. We will answer these questions in the etherpad during your work time
+> and will return to this list later today.
 > 
-> This discussion take about 5-10 minutes.
+> This activity should take about 5 minutes.
 {: .challenge}
+
 

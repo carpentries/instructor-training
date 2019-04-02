@@ -1,6 +1,6 @@
 # Contributing
 
-[Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
+[Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] are open source projects,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
@@ -14,7 +14,7 @@ you agree that we may redistribute your work under [our license](LICENSE.md).
 In exchange,
 we will address your issues and/or assess your change proposal as promptly as we can,
 and help you become a member of our community.
-Everyone involved in [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+Everyone involved in [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] 
 agrees to abide by our [code of conduct](CONDUCT.md).
 
 ## How to Contribute
@@ -73,8 +73,8 @@ and submitting [bug reports][issues]
 about things that don't work, aren't clear, or are missing.
 If you are looking for ideas,
 please see [the list of issues for this repository][issues],
-or the issues for [Data Carpentry][dc-issues]
-and [Software Carpentry][swc-issues] projects.
+or the issues for [Data Carpentry][dc-issues], [Software Carpentry][swc-issues]
+, and [Library Carpentry][lc-issues] projects.
 
 Comments on issues and reviews of pull requests are just as welcome:
 we are smarter together than we are on our own.
@@ -87,8 +87,7 @@ so fresh eyes are always welcome.
 
 Our lessons already contain more material than we can cover in a typical workshop,
 so we are usually *not* looking for more concepts or tools to add to them.
-As a rule,
-if you want to introduce a new idea,
+As a rule, if you want to introduce a new idea,
 you must (a) estimate how long it will take to teach
 and (b) explain what you would take out to make room for it.
 The first encourages contributors to be honest about requirements;
@@ -96,8 +95,7 @@ the second, to think hard about priorities.
 
 We are also not looking for exercises or other material that only run on one platform.
 Our workshops typically contain a mixture of Windows, Mac OS X, and Linux users;
-in order to be usable,
-our lessons must run equally well on all three.
+in order to be usable, our lessons must run equally well on all three.
 
 ## Using GitHub
 
@@ -130,12 +128,12 @@ and have final say over what gets merged into the lesson.
 
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
-[contact]: mailto:admin@software-carpentry.org
+[contact]: mailto:admin@software-carpentry.orgf
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
@@ -149,3 +147,6 @@ You can also [reach us by email][contact].
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
+[lc-issues]: https://github.com/issues?q=user%3Alibrarycarpentry
+[lc-lessons]: https://librarycarpentry.org/lessons/
+[lc-site]: https://librarycarpentry.org/
