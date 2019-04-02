@@ -31,7 +31,7 @@ Events for May-August 2019 will be published here in early April.
 #### Central time
 * January 10-11, 2019 (UTC -6) *Registration closed*
 * February 25-26, 2019 (UTC -6) *Registration closed*
-* [April 4-5, 2019](https://www.eventbrite.com/e/online-instructor-training-april-4-5-n-america-central-time-tickets-53348194887)  (UTC -5) *Event is full but you may join the waitlist using your code*
+* April 4-5, 2019 (UTC -5) *Registration closed*
 
 #### Eastern time
 * January 22-23, 2019(UTC -5) *Registration closed*
