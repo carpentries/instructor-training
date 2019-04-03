@@ -26,7 +26,8 @@ Registration for each event closes one week before that event. You may change or
 * [August 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-august-15-16-pst-tickets-59701413535) (UTC -7)
 
 #### Mountain time
-*Additional training dates will be scheduled if needed*
+* [July 23-24, 2019](https://www.eventbrite.com/e/online-instructor-training-july-23-24-mdt-tickets-59840643977)  (UTC -6)
+
 
 #### Central time
 * January 10-11, 2019 (UTC -6) *Registration closed*
