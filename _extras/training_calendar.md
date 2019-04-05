@@ -56,7 +56,7 @@ Registration for each event closes one week before that event. You may change or
 
 #### Central European/Western African time
 * January 30-31, 2019 (UTC +1) *Event Canceled*
-* [April 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-april-10-11-central-european-time-tickets-53349080536)  (UTC +2)
+* April 10-11, 2019 (UTC +2) *Registration closed*
 * [July 1-2, 2019](https://www.eventbrite.com/e/online-instructor-training-july-1-2-cest-tickets-59707865834)  (UTC +2)
 * [August 28-29, 2019](https://www.eventbrite.com/e/online-instructor-training-august-20-21-cest-tickets-59708227917)  (UTC +2)
 
