@@ -23,7 +23,7 @@ Registration for each event closes one week before that event. You may change or
 * [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7) 
 * [May 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-may-30-31-pdt-tickets-59714433478) (UTC -7)
 * [June 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-june-18-19-pdt-tickets-59709046365) (UTC -7)
-* [August 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-august-15-16-pst-tickets-59701413535) (UTC -7)
+* [August 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-august-14-15-n-america-pacific-time-tickets-59701413535) (UTC -7)
 
 #### Mountain time
 * [July 23-24, 2019](https://www.eventbrite.com/e/online-instructor-training-july-23-24-mdt-tickets-59840643977)  (UTC -6)
@@ -33,7 +33,7 @@ Registration for each event closes one week before that event. You may change or
 * January 10-11, 2019 (UTC -6) *Registration closed*
 * February 25-26, 2019 (UTC -6) *Registration closed*
 * April 4-5, 2019 (UTC -5) *Registration closed*
-* [June 12-13, 2019](https://www.eventbrite.com/e/online-instructor-training-june-6-7-cdt-tickets-59702061473) (UTC -5)
+* [June 12-13, 2019](https://www.eventbrite.com/e/online-instructor-training-june-12-13-n-america-central-time-tickets-59702061473) (UTC -5)
 * [July 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-july-18-19-cdt-tickets-59703135686) (UTC -5)
 * [August 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-august-26-27-cdt-tickets-59705042389) (UTC -5)
 
@@ -58,7 +58,7 @@ Registration for each event closes one week before that event. You may change or
 * January 30-31, 2019 (UTC +1) *Event Canceled*
 * April 10-11, 2019 (UTC +2) *Registration closed*
 * [July 1-2, 2019](https://www.eventbrite.com/e/online-instructor-training-july-1-2-cest-tickets-59707865834)  (UTC +2)
-* [August 28-29, 2019](https://www.eventbrite.com/e/online-instructor-training-august-20-21-cest-tickets-59708227917)  (UTC +2)
+* [August 28-29, 2019](https://www.eventbrite.com/e/online-instructor-training-august-28-29-central-european-time-tickets-59708227917)  (UTC +2)
 
 
 
