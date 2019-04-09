@@ -134,13 +134,18 @@ more aware of their progress is motivating and helps to transfer learned content
 Awareness of the learning process, also known as "metacognition," will also help them to identify appropriate next steps after a workshop has completed. 
 
 > ## Where are your checkpoints?
-> 
-> Have a look at your lesson again. Choose a learning objective, and identify *where* in the lesson that objective should 
-> reasonably be achieved. How will you know that that objective has been met for all learners? Will this be clear to them? 
-> 
-> Make a plan for *where* in your lesson you will use different types of formative assessment to help everyone in the room  
-> monitor their progress. Keep in mind that formative assessment can can take many forms, including multiple 
-> choice questions, faded examples, spontaneous questions and calls for sticky notes. Write some notes or thoughts about this > process in the Etherpad for discussion.
+>
+> Have a look at your lesson again. Choose a learning objective, and identify
+> *where* in the lesson that objective should reasonably be achieved. How will
+> you know that that objective has been met for all learners? Will this be clear
+> to them?
+>
+> Make a plan for *where* in your lesson you will use different types of
+> formative assessment to help everyone in the room monitor their progress. Keep
+> in mind that formative assessment can can take many forms, including multiple
+> choice questions, faded examples, spontaneous questions and calls for sticky
+> notes. Write some notes or thoughts about this process in the Etherpad for
+> discussion.
 > 
 > This exercise and discussion should take about 10 minutes. 
 {: .challenge}
