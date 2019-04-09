@@ -202,7 +202,7 @@ the [workshop coordinator](mailto:admin@software-carpentry.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
-> ## Practice With SWC or DC Infrastructure
+> ## Practice With The Carpentries Infrastructure
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }})
 > and follow the directions to create a workshop website using your local location and today's date.
