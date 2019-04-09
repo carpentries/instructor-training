@@ -63,8 +63,8 @@ Similarities between Software, Data and Library Carpentry workshops include:
 *   two-day format taught by volunteer instructors.
 *   a focus on filling gaps in current training for learners.
 
-The major different between Software, Data and Library Carpentry workshops
-is their content and intended audience.
+The major differences between Software, Data and Library Carpentry workshops
+are their content and intended audience.
 
 Software Carpentry workshops are:
 
