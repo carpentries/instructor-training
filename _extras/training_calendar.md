@@ -33,7 +33,6 @@ Registration for each event closes one week before that event. You may change or
 * January 10-11, 2019 (UTC -6) *Registration closed*
 * February 25-26, 2019 (UTC -6) *Registration closed*
 * April 4-5, 2019 (UTC -5) *Registration closed*
-* [June 12-13, 2019](https://www.eventbrite.com/e/online-instructor-training-june-12-13-n-america-central-time-tickets-59702061473) (UTC -5)
 * [July 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-july-18-19-cdt-tickets-59703135686) (UTC -5)
 * [August 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-august-26-27-cdt-tickets-59705042389) (UTC -5)
 
