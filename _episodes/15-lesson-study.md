@@ -142,7 +142,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 >
 > Make a plan for *where* in your lesson you will use different types of
 > formative assessment to help everyone in the room monitor their progress. Keep
-> in mind that formative assessment can can take many forms, including multiple
+> in mind that formative assessment can take many forms, including multiple
 > choice questions, faded examples, spontaneous questions and calls for sticky
 > notes. Write some notes or thoughts about this process in the Etherpad for
 > discussion.
