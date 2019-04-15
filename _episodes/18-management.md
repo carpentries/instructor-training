@@ -137,7 +137,7 @@ Putting some thought into how you and your co-instructor will work together can 
 
 > ## How to Help
 >
-> Many people who aren't comfortable teaching are still willing and
+> Many people are willing and
 > able to provide in-class support.  We call these people "helpers."
 >
 > Helpers can assist in a variety
