@@ -41,7 +41,7 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
     (though of course they should know enough about the subjects of one or more of our lessons
     to be able to teach them).
 
-Feedback on these materials is welcome as an [issue][issues] on the Github repository that hosts this site.
+Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 

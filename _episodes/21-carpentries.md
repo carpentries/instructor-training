@@ -82,7 +82,7 @@ Data Carpentry workshops:
 
 Library Carpentry workshops: 
 
-*   are aimed at people in library- and information-related roles.
+*   are aimed at people in library- and information-related roles,
 *   focus on best practices in data structure, and
 *   are modular---each Library Carpentry lesson is standalone.
 
@@ -95,7 +95,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 >
 > If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >
-> Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+> Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
 >
 >> ## Solution  
 >> Instructors: C
@@ -122,7 +122,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 ## How a Workshop Works
 
 The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
-provides tips, checklists, and points of contact for nearly all Carpentries-related activties in one location. 
+provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
 The Carpentries Handbook is the definitive source for policies and information. 
 Here, we will briefly cover workshop types, core curricula, official logos, and workshop websites. 
 
@@ -211,7 +211,7 @@ The workshop will show up on our websites shortly thereafter.
 > This exercise should take about 25 minutes.
 > 
 > Note: Sometimes web browsers will cache the workshop webpage, so when 
-> you make changes in Github, they don't show up on the workshop webpage
+> you make changes in GitHub, they don't show up on the workshop webpage
 > immediately.  Two ways to avoid this are to use a "private" or 
 > "incognito" mode in your web browser or by following these 
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).

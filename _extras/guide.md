@@ -212,7 +212,7 @@ go around the room, asking each person if they have a question + then answer the
 
 * Exercise: Creating a Workshop Website
    * CK: This takes some time, so some people opt to skip this section.  Inevitably, 
-   when working with a group of mixed experience with Github, some will be able 
+   when working with a group of mixed experience with GitHub, some will be able
    to zip through this exercise, where others will struggle.  We **have** gotten 
    positive feedback about this exercise as well, where learners felt like it was 
    a valuable experience. Can be especially valuable for groups that will probably 
