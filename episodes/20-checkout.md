@@ -37,7 +37,7 @@ As you read in your homework last night, there are three final steps to complete
 
 > ## Checking Out Review with Questions and Answers
 > 
-> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process? 
+> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process?
 > 
 > This exercise should take about 5 minutes.
 {: .challenge}
