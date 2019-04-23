@@ -170,6 +170,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
+  - when you are in the Zoom meeting room but unintentionally not as the host, look for the button 'Claim host' (click on the 'Participants' button; you'll be asked for a 6-digit host key, which you can find (after logging in to [Zoom][zoom-home]), at the bottom of the profile, see [the explanation here][zoom-host-key].
 
 ## V. Curriculum Teaching Tips
 
@@ -242,6 +243,7 @@ group is interested.
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
+[zoom-host-key]: https://support.zoom.us/hc/en-us/articles/115001315866-Host-Key-Control-For-Zoom-Rooms
 [slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
 [trainer-pad]: https://pad.carpentries.org/trainers
