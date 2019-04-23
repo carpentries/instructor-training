@@ -21,7 +21,7 @@ keypoints:
 
 To make clear what is expected, everyone participating in Carpentries activities is required
 to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by the Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
-[the Code of Conduct](https://software-carpentry.org/conduct/) to familiarise yourself with it.
+[the Code of Conduct]({{ site.coc }}) to familiarise yourself with it.
 
 ## Introductions
 
@@ -34,7 +34,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Information for Today's Trainers
 >
-> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for trainee success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in trainee progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!.]
+> To begin your class, each Trainer should give a brief introduction that will convey (a) their capacity to teach the material, (b) accessibility/approachability, (c) desire for trainee success, and (d) enthusiasm. Tailor your introduction to the learners’ skill level so that you convey competence (without seeming too advanced) and demonstrate that you can relate to the learners. Throughout the workshop, continually demonstrate that you are interested in trainee progress and that you are enthusiastic about the topics. [We will have the opportunity to [work more on this](http://carpentries.github.io/instructor-training/19-introductions/index.html) later on in the course, so don't be daunted by the criteria above!]
 {: .discussion}
 
 > ## Information for Today's Learners
@@ -59,7 +59,7 @@ Carpentry organizations.
 ## A Brief Overview of the Carpentries
 
 Software Carpentry, Data Carpentry, and Library Carpentry 
-are official Lesson Program of the Carpentries.
+are official Lesson Programs of the Carpentries.
 Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach two day workshops on basic computing and data skills for
 researchers.  Software Carpentry focuses on helping researchers develop foundational
@@ -80,7 +80,7 @@ practice, and feedback with fellow learners.
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get 
 familiarity with some of the content through the exercises), 
-This workshop is the first step in becoming a certified Software and/or Data Carpentry instructor.
+This workshop is the first step in becoming a certified Carpentries instructor.
 The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 To orient yourself, there is a schedule on the workshop webpage which is linked through this workshop's Etherpad.

@@ -27,7 +27,7 @@ about workshop logistics that will help you in preparing to teach your first wor
 > ## Questions
 > 
 > Yesterday we asked you to read some resources about the logistics of teaching and running Carpentries workshops. Please 
-> add your questions about logistics and preparation to the Etherpad. We will answer these questions in the etherpad during your work time
+> add your questions about logistics and preparation to the Etherpad. We will answer these questions in the Etherpad during your work time
 > and will return to this list later today.
 > 
 > This activity should take about 5 minutes.

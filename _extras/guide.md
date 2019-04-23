@@ -27,9 +27,6 @@ Details about the Instructor Trainer role including the application process, dut
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-### Two Weeks before the Event
--  Introduce yourself to your trainees.  
-
 ### One Week before the Event    
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
@@ -110,7 +107,7 @@ here are some ways where it's easy to do so without much prep:
 - Assign breakout groups randomly to breakout rooms in Zoom. Be sure to remove Trainers and helpers when assigning groups.
 - Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
 - Have participants screen share with their breakout room during the live coding exercises.   
-- For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
+- For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.
 - See section IV below for more tips.  
 
 ## IV. Using Zoom  for Online Trainings 
@@ -145,7 +142,7 @@ you’re not the host, please contact Carpentry staff immediately.
 	  - Find links or references
 	- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
 - **Exercise management**
-  - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. (G.W.)
+  - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
 - **Shared notes tips**
   - No matter what kind of shared doc you are using, it's usually a good idea to create 
@@ -181,10 +178,18 @@ you’re not the host, please contact Carpentry staff immediately.
 
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
+### Breaks
+
+* Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give 
+learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
+
 ### Welcome	
 ### Building Skill with Practice
 ### Expertise and Instruction	
 ### Memory and Cognitive Load	
+
+* FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
+
 ### Building Skill with Feedback	
 ### Motivation and Demotivation
 
@@ -208,7 +213,7 @@ go around the room, asking each person if they have a question + then answer the
 
 * Exercise: Creating a Workshop Website
    * CK: This takes some time, so some people opt to skip this section.  Inevitably, 
-   when working with a group of mixed experience with Github, some will be able 
+   when working with a group of mixed experience with GitHub, some will be able
    to zip through this exercise, where others will struggle.  We **have** gotten 
    positive feedback about this exercise as well, where learners felt like it was 
    a valuable experience. Can be especially valuable for groups that will probably 
@@ -239,6 +244,6 @@ group is interested.
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [zoom-host-key]: https://support.zoom.us/hc/en-us/articles/115001315866-Host-Key-Control-For-Zoom-Rooms
-[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1 
+[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
 [trainer-pad]: https://pad.carpentries.org/trainers

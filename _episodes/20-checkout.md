@@ -32,12 +32,12 @@ As you read in your homework last night, there are three final steps to complete
     1.  Submit a change (i.e. pull request) to fix an existing issue.
     2.  Proof-read a lesson and add a new issue describing something to be improved.
     3.  Provide substantive feedback on an existing issue or pull request.
-2.  Take part in a [discussion session][discussion] with experienced instructors.
+2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 > ## Checking Out Review with Questions and Answers
 > 
-> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process? 
+> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process?
 > 
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -75,6 +75,13 @@ as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
 be discussed before changes are merged.  
 
+### What's in a Badge?
+
+Once you have completed all checkout steps, you will receive an email with your Instructor badge! What does this mean?
+* **You get to teach!** Badged instructors are certified to co-teach any Carpentries lesson. All Carpentries Instructor badges are acceptable to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While non-badged instructors may also co-teach, every Carpentries branded workshop must have one badged instructor to lead the way.
+* **You get to vote!** Badged instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) for rules governing continuing voting eligibility.
+* **You've got something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
+
 > ## Check Out the Discussion (Optional)
 >
 > As an instructor, your voice is important! We want you to be actively involved
@@ -99,6 +106,6 @@ be discussed before changes are merged.
 {: .callout}
 
 
-[mentoring]: https://carpentries.org/community/#mentoring
-[discussion]: http://pad.software-carpentry.org/instructor-discussion
+[mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
+[discussion]: http://pad.software-carpentry.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos-recovered

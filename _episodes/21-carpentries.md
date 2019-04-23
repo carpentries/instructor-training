@@ -12,6 +12,7 @@ objectives:
 keypoints:
 - "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
 - "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information."
+- "Guidance for teaching and hosting workshops is provided in The Carpentries Handbook."
 
 ---
 
@@ -23,7 +24,8 @@ about how to get involved.
 
 ## A Brief History
 
-[Software Carpentry]({{ site.swc_site }}) was founded in 1998 
+[Software Carpentry]({{ 
+.swc_site }}) was founded in 1998 
 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
@@ -40,7 +42,7 @@ as the third official Lesson Program of the Carpentries.
 
 The Carpentries project comprises communities of Instructors, Trainers,
 Maintainers, helpers, and supporters from 
-[Software Carpentry)]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
+[Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }}) 
 who share a mission to teach foundational computational and data science skills. 
 
 ![A brief history](../fig/SWCDChistory.png)
@@ -54,15 +56,15 @@ You can learn more about the history and goals of each Lesson Program by reading
 
 All lesson programs under The Carpentries share the same value 
 of promoting efficient, shareable, and reproducible research practices. 
-Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, domain-tailored lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
 *   two-day format taught by volunteer instructors.
 *   a focus on filling gaps in current training for learners.
 
-The major different between Software, Data and Library Carpentry workshops
-is their content and intended audience.
+The major differences between Software, Data and Library Carpentry workshops
+are their content and intended audience.
 
 Software Carpentry workshops are:
 
@@ -80,7 +82,7 @@ Data Carpentry workshops:
 
 Library Carpentry workshops: 
 
-*   are aimed at people in library- and information-related roles.
+*   are aimed at people in library- and information-related roles,
 *   focus on best practices in data structure, and
 *   are modular---each Library Carpentry lesson is standalone.
 
@@ -91,9 +93,9 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 > ## Participating in the Carpentries -- What's Your Role?
 >
-> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v3.pdf).
+> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >
-> Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the etherpad.
+> Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
 >
 >> ## Solution  
 >> Instructors: C
@@ -106,7 +108,7 @@ The Carpentries works to help institutions and individuals spread skills for dat
 >> Assessment Team: K
 >> Champions: L
 >> Infrastructure Team: H
->> Workshop Administrators: A
+>> Regional Coordinator: A
 >> Code of Conduct Committee: G
 > {: .solution}
 > This exercise should take about 10 minutes.
@@ -119,7 +121,12 @@ The Carpentries works to help institutions and individuals spread skills for dat
 
 ## How a Workshop Works
 
-There are two types of Carpentry workshops: self-organized and centrally-organized.
+The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that 
+provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
+The Carpentries Handbook is the definitive source for policies and information. 
+Here, we will briefly cover workshop types, core curricula, official logos, and workshop websites. 
+
+Briefly, there are two types of Carpentry workshops: self-organized and centrally-organized.
 For a centrally-organized workshop, Carpentry staff takes care of organization and administration
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
@@ -165,9 +172,14 @@ other modules in the same domain from the Data Carpentry curriculum.
 Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials.
 Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development. 
 
+
 A Library Carpentry workshop must include three to four of the
-[core lessons](https://librarycarpentry.org/lessons/), which include an introduction to data, the UNIX shell, OpenRefine, and Git. Library Carpentry maintains an "extended" set of lessons that can be taught in addition to the core curriculum. These lessons are taught infrequently and/or are under development and include:
-SQL, webscraping, Python, and an introduction to data for archivists. 
+[core lessons](https://librarycarpentry.org/lessons/#core-curriculum), which include an introduction to data, the UNIX shell, OpenRefine, and Git. 
+Library Carpentry also maintains an "extended" set of lessons
+that can be taught in addition to the core curriculum 
+These lessons are taught infrequently or are under development and include:
+SQL, webscraping, Python and an introduction to data for archivists. 
+
 
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
 which exercises you use, and whether you include optional materials (e.g. callouts) and
@@ -175,10 +187,9 @@ optional episodes.
 
 ### Who Can Teach What
 
-As of March 2017, a trained instructor can teach curricula for either
-Software Carpentry or Data Carpentry and are no longer required to certify separately for each:
-see the description of [the instructor checkout procedure]({{ page.root }}/checkout/)
-for details.
+Trained instructors can teach curricula for Software Carpentry, Data Carpentry, or Library Carpentry. While instructor badges 
+may list a primary lesson program affiliation, instructors are **not** required to certify separately for each. For more 
+information, see the description of [the instructor checkout procedure]({{ page.root }}/checkout/).
 
 ### Setting Up
 
@@ -191,13 +202,20 @@ the [workshop coordinator](mailto:admin@software-carpentry.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
-> ## Practice With SWC or DC Infrastructure
+> ## Practice With The Carpentries Infrastructure
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }})
 > and follow the directions to create a workshop website using your local location and today's date.
 > Put the link for your workshop website into the Etherpad.
 >
 > This exercise should take about 25 minutes.
+> 
+> Note: Sometimes web browsers will cache the workshop webpage, so when 
+> you make changes in GitHub, they don't show up on the workshop webpage
+> immediately.  Two ways to avoid this are to use a "private" or 
+> "incognito" mode in your web browser or by following these 
+> [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+> 
 {: .challenge}
 
 > ## Question and Answer
