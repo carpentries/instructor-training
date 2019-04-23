@@ -99,9 +99,9 @@ The "learning objectives" section is an easy thing to pass over when you're prep
 unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We 
 aim to create learning objectives that are specific, accurate, and informative for both learners and instructors. 
 
-[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, heirarchical steps. 
+[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps. 
 While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
-heirarchy seems to be reasonably valid: outcomes at the top of the heirarchy cannot be achieved without mastery of outcomes at 
+hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved without mastery of outcomes at 
 the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
 need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and 
 guiding them to look ahead to where we might not be able to take them.
@@ -110,7 +110,7 @@ guiding them to look ahead to where we might not be able to take them.
 
 Image credit: Vanderbilt University Center for Teaching
 
-> ## Evaluate SWC and DC Learning Objectives
+> ## Evaluate Learning Objectives
 >
 > Your instructor has posted links to a handful of current Carpentries lessons in the Etherpad.
 > Select one learning objective from one of those lessons,
@@ -134,13 +134,18 @@ more aware of their progress is motivating and helps to transfer learned content
 Awareness of the learning process, also known as "metacognition," will also help them to identify appropriate next steps after a workshop has completed. 
 
 > ## Where are your checkpoints?
-> 
-> Have a look at your lesson again. Choose a learning objective, and identify *where* in the lesson that objective should 
-> reasonably be achieved. How will you know that that objective has been met for all learners? Will this be clear to them? 
-> 
-> Make a plan for *where* in your lesson you will use different types of formative assessment to help everyone in the room  
-> monitor their progress. Keep in mind that formative assessment can can take many forms, including multiple 
-> choice questions, faded examples, spontaneous questions and calls for sticky notes. Write some notes or thoughts about this > process in the Etherpad for discussion.
+>
+> Have a look at your lesson again. Choose a learning objective, and identify
+> *where* in the lesson that objective should reasonably be achieved. How will
+> you know that that objective has been met for all learners? Will this be clear
+> to them?
+>
+> Make a plan for *where* in your lesson you will use different types of
+> formative assessment to help everyone in the room monitor their progress. Keep
+> in mind that formative assessment can take many forms, including multiple
+> choice questions, faded examples, spontaneous questions and calls for sticky
+> notes. Write some notes or thoughts about this process in the Etherpad for
+> discussion.
 > 
 > This exercise and discussion should take about 10 minutes. 
 {: .challenge}
@@ -149,7 +154,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 > ## You Can't Just Ask
 >
 > Self-assessments of skill level are usually inaccurate
-> because of the [Dunning-Kruger effect][wikipedia-dunning-kruger]:
+> because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is. This is one reason why assessments should be specific, as 
 > opposed to asking if everyone understands.
@@ -163,7 +168,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions.
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We'll see more about workshop pages this afternoon.  
 {: .callout}
 
 
