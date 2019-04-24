@@ -33,7 +33,7 @@ Appears focused and attentive to learners|Appears significantly distracted by co
 
 ---
 
-Traineers can also use the form below to take notes during the teaching demonstration.
+Trainers can also use the form below to take notes during the teaching demonstration.
 
 Trainee:
 
