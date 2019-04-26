@@ -20,7 +20,7 @@ Registration for each event closes one week before that event. You may change or
 #### Pacific time
 * January 14-15, 2019 (UTC -8) *Registration closed*
 * March 20-21, 2019 (UTC -8) *Registration closed*
-* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-n-america-pacific-time-tickets-53348102611)  (UTC -7) 
+* April 22-23, 2019 (UTC -7)  *Registration closed*
 * [May 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-may-30-31-pdt-tickets-59714433478) (UTC -7)
 * [June 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-june-18-19-pdt-tickets-59709046365) (UTC -7)
 * [August 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-august-14-15-n-america-pacific-time-tickets-59701413535) (UTC -7)
@@ -48,7 +48,7 @@ Registration for each event closes one week before that event. You may change or
 
 #### Western European time
 * January 22-23, 2019 (UTC) *Registration closed*
-* [April 22-23, 2019](https://www.eventbrite.com/e/online-instructor-training-april-22-23-western-europe-time-tickets-53348314244)  (UTC +1)
+* April 22-23, 2019  (UTC +1)  *Registration closed*
 * [May 13-14, 2019](https://www.eventbrite.com/e/online-instructor-training-may-13-14-bst-tickets-59705835762) (UTC +1)
 * [June 19-20, 2019](https://www.eventbrite.com/e/online-instructor-training-june-19-20-bst-tickets-59706679285) (UTC +1)
 * [July 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-july-25-26-bst-tickets-59707376370) (UTC +1) 
