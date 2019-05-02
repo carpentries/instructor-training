@@ -37,10 +37,12 @@ Instructor Trainer leading your teaching demonstration or (if no one is listed f
 
 ### Library Carpentry
 
-| Carpentry | Curriculum | Lesson  | 
-| --------- | ---- | ------- |  
-| LC | | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) |
-| LC | | [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/) |
+| Carpentry | Curriculum | Lesson  | Good Starting Points | Avoid | Notes
+|---------- |---------- |---------- |---------- |---------- |---------- |
+| LC | | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) | * [ Navigating the filesystem](https://librarycarpentry.github.io/lc-shell/02-navigating-the-filesystem/index.html)<br/> * [Working with files and directories](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)<br/> * [Automating the tedious with loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)<br/> * [Counting and mining with the shell](https://librarycarpentry.github.io/lc-shell/05-counting-mining/index.html)<br/> * [Working with free text](https://librarycarpentry.github.io/lc-shell/06-free-text/index.html) | [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/)  |  [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/) has no live coding. |
+| LC | | [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/) | [Importing data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html) | any other episode | [Introduction to OpenRefine](https://librarycarpentry.org/lc-open-refine/01-introduction/index.html) has no live coding. Later episodes have dependencies. |
+
+
 
 ### Software Carpentry
 
