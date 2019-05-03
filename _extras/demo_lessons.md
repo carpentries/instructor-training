@@ -46,15 +46,31 @@ Instructor Trainer leading your teaching demonstration or (if no one is listed f
 
 ### Software Carpentry
 
-| Carpentry | Curriculum | Lesson  | 
-| --------- | ---- | ------- |  
-| SWC | |  [The Unix Shell](http://swcarpentry.github.io/shell-novice/) | 
-| SWC | |  [Version Control with Git](http://swcarpentry.github.io/git-novice/) | 
-| SWC | | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) | 
-| SWC | | [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/) | 
-| SWC | | [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) | 
-| SWC | | [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) | 
-| SWC | | [Automation and Make](http://swcarpentry.github.io/make-novice/) | 
+| Carpentry | Curriculum | Lesson  | Good Starting Points | Avoid | Notes
+|---------- |---------- |---------- |---------- |---------- |---------- |
+| SWC | |  [The Unix Shell](http://swcarpentry.github.io/shell-novice/) | any other episode | [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) |  [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) has no live coding. |
+| SWC | |  [Version Control with Git](http://swcarpentry.github.io/git-novice/) |  * [Setting up Git](http://swcarpentry.github.io/git-novice/02-setup)<br/> * [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create)<br/> * [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes)| any other episode | [Automated Version Control](http://swcarpentry.github.io/git-novice/01-basics) has no live coding. Later episodes have dependencies. |
+| SWC | | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) |  * [Configuring Mercurial](http://swcarpentry.github.io/hg-novice/02-configuration/)<br/> * [Creating a Repository](http://swcarpentry.github.io/hg-novice/03-create-repo/)<br/> * [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) | any other episode | [Automated Version Control](http://swcarpentry.github.io/hg-novice/01-basics/) has no live coding. Later episodes have dependencies. |
+| SWC | | [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/) | any other episode | [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) |  [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) has no live coding. |
+| SWC | | [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) | any other episode | [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) |  [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) has no live coding. |
+| SWC | | [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) | any other episode | [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) | [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) has no live coding. |
+| SWC | | [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) | * [Analyzing Multiple Data Sets](http://swcarpentry.github.io/r-novice-inflammation/03-loops-R/index.html) <br/> *  [Loops in R](http://swcarpentry.github.io/r-novice-inflammation/15-supp-loops-in-depth/index.html) <br/> * [Making Choices](http://swcarpentry.github.io/r-novice-inflammation/04-cond/index.html)  | * [Creating Functions](http://swcarpentry.github.io/r-novice-inflammation/02-func-R/index.html) <br/> *  [Best Practices for Writing R Code](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html) <br/> *  [Reading and Writing CSV Files](http://swcarpentry.github.io/r-novice-inflammation/11-supp-read-write-csv/index.html) |  The episodes to avoid have dependencies. |
+| SWC | | [Automation and Make](http://swcarpentry.github.io/make-novice/) |  * [Introduction](http://swcarpentry.github.io/make-novice/01-intro)<br/> *  [Makefiles](http://swcarpentry.github.io/make-novice/02-makefiles) | any other episode | Later episodes have dependencies. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
