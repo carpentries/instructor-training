@@ -3,8 +3,7 @@ layout: page
 title: "Suggested Lessons for Teaching Demonstrations"
 ---
 
-Please see the table below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the 
-Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email team@carpentries.org.
+Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email team@carpentries.org.
 
 ### Data Carpentry: Ecology
 
