@@ -20,14 +20,9 @@
 - Award +1 for using tools "every day" or "a few times a week".
 
 - Award +4 for meeting criteria for current recruitment push. As of June 2018, active recruitment areas are:
-* Library Carpentry
-* Social Sciences Data Carpentry lessons
-* Geospatial Data Carpentry Lessons
+
+  * Library Carpentry
+  * Social Sciences Data Carpentry lessons
+  * Geospatial Data Carpentry Lessons
 
 - Award -3 to +3 based on free text responses.
-
-
-
-
-
-
