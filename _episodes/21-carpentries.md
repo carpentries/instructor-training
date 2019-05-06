@@ -131,14 +131,9 @@ For a centrally-organized workshop, Carpentry staff takes care of organization a
 such as finding instructors and handling workshop registration. For a self-organized workshop,
 all of these details are handled by the instructors or organization hosting the event.
 
-If you would like to host a Software Carpentry workshop at
-your institution, information can be found on the [request a Software Carpentry workshop](https://software-carpentry.org/workshops/request/) page.
+To request a Data Carpentry, Library Carpentry, or Software Carpentry workshop, please complete our [workshop request form](https://amy.carpentries.org/forms/workshop/). For more details, vist the [Data Carpentry](http://www.datacarpentry.org/workshops-host/), [Library Carpentry](https://librarycarpentry.org/workshops/), or  [Software Carpentry](https://software-carpentry.org/workshops/request/) workshop pages.
 
-If you would like to host a Data Carpentry workshop at your
-institution, visit [Data Carpentry centrally-organized workshops](http://www.datacarpentry.org/workshops-host/) and [Data Carpentry self-organized workshops](http://www.datacarpentry.org/self-organized-workshops/).
-
-Policies related to instructor training and workshops for both Software Carpentry and
-Data Carpentry can be found in [the policies repository](https://github.com/carpentries/policies). Please
+Policies related to instructor training and workshops The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
 be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
 
 ### Materials
