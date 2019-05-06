@@ -87,26 +87,17 @@ and hope that they'll understand.
 
 ## Code of Conduct Violations
 
-If you are an instructor, and believe that someone in a workshop has
-violated the Code of Conduct, you may warn them, ask them to
-apologize, and/or expel them, depending on the severity of the
-violation and whether or not you believe it was intentional.
+If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them, ask them to apologize, and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
 
-The local workshop host is expected to help enforce the Code of Conduct and
-you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself.
-If you choose to settle the issue yourself, you should notify the workshop host
+If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
+
+If you believe someone violated the Code of Conduct during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform)
+or e-mailing C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) as soon as you can to let us know what happened so that we can follow-up with the workshop host and/or participants as needed. The form may be completed anonymously, or you may include your contact information.
+
+The local workshop host is expected to help enforce the Code of Conduct and you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. If you choose to settle the issue yourself, you should notify the workshop host
 of the issue in case s/he feels additional steps should be taken.
 
-No matter what you choose to do, please contact the Carpentries Code of Conduct Committee by completing the [Code of Conduct Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform)
-or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org)
-as soon as you can and let us know what happened so that we can follow-up
-with the workshop host and/or participants as needed.
-
-You also have the right as an instructor to walk out of a workshop
-if you feel that the participants or hosts are not supporting your
-attempts to enforce the Code of Conduct. Again, please contact us
-as soon as possible if this happens.
-
+You also have the right as an instructor to walk out of a workshop if you feel that the participants or hosts are not supporting your attempts to enforce the Code of Conduct. Again, please contact us as soon as possible if this happens.
 
 ## Never Teach Alone: How to Be a Co-instructor
 
