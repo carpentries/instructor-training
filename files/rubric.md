@@ -2,7 +2,7 @@
 
 - Award +1 for being outside Europe/UK/US/Canada/Australia/New Zealand or
 - Award +1 for being in smaller/remote/less affluent institution within EU/UK/US/Can/Aus/NZ.
-- Award +1 for being in economics or social sciences, arts, humanities, or library science.
+- Award +1 for being in economics or social sciences, arts, humanities, library science, or chemistry.
 
 - Optionally award +1 for self-identifing as a member of a group that is under-represented
         in research and/or computing, e.g., women, ethnic minorities, LGBTQ,
