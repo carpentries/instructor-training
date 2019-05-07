@@ -49,7 +49,7 @@ Registration for each event closes one week before that event. You may change or
 #### Western European time
 * January 22-23, 2019 (UTC) *Registration closed*
 * April 22-23, 2019  (UTC +1)  *Registration closed*
-* [May 13-14, 2019](https://www.eventbrite.com/e/online-instructor-training-may-13-14-bst-tickets-59705835762) (UTC +1)
+* May 13-14, 2019 (UTC +1) *Registration closed*
 * [June 19-20, 2019](https://www.eventbrite.com/e/online-instructor-training-june-19-20-bst-tickets-59706679285) (UTC +1)
 * [July 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-july-25-26-bst-tickets-59707376370) (UTC +1) 
 
