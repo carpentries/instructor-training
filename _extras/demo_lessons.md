@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Suggested Lessons for Teaching Demonstrations"
+title: "Suggested Episodes for Teaching Demonstrations"
 ---
 
 Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email [team@carpentries.org](mailto:team@carpentries.org).  Note that while a trainee can choose the lesson to teach from, the Trainer leading the demo session will choose the specific episode at the time of the demo session.
@@ -68,15 +68,11 @@ Please see the tables below for recommendations about choosing a lesson for your
 | [Automation and Make](http://swcarpentry.github.io/make-novice/) |  * [Introduction](http://swcarpentry.github.io/make-novice/01-intro)<br/> *  [Makefiles](http://swcarpentry.github.io/make-novice/02-makefiles) | any other episode | Later episodes have dependencies. |
 | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) |  * [Configuring Mercurial](http://swcarpentry.github.io/hg-novice/02-configuration/)<br/> * [Creating a Repository](http://swcarpentry.github.io/hg-novice/03-create-repo/)<br/> * [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) | any other episode | [Automated Version Control](http://swcarpentry.github.io/hg-novice/01-basics/) has no live coding. <br/> Later episodes have dependencies. |
 
+### Lecciones en español
 
-
-
-
-
-
-
-
-
-
-
-
+| Lesson  | Good Starting Points | Avoid | Notes
+|---------- |---------- |---------- |---------- |
+|  [La Terminal de Unix](http://swcarpentry.github.io/shell-novice-es/) | any other episode | [Introducción a la Terminal](https://swcarpentry.github.io/shell-novice-es/01-intro) |  [Introducción a la Terminal](https://swcarpentry.github.io/shell-novice-es/01-intro) no tiene programando en vivo. |
+|  [Control de versiones con Git](http://swcarpentry.github.io/git-novice-es/) |  * [Configurando Git](http://swcarpentry.github.io/git-novice-es/02-setup)<br/> * [Creando un repositorio](http://swcarpentry.github.io/git-novice-es/03-create)<br/> * [Rastreando Cambios](http://swcarpentry.github.io/git-novice-es/04-changes)| cualquier otro episodio | [Control Automatizado de Versiones](http://swcarpentry.github.io/git-novice-es/01-basics) no tiene programando en vivo. <br/> Los episodios posteriores tienen dependencias. |
+| [R para Análisis Científicos Reproducibles](http://swcarpentry.github.io/r-novice-gapminder-es/) | cualquier otro episodio | [Escribiendo buen software](https://swcarpentry.github.io/r-novice-gapminder-es/16-wrap-up/) | [Escribiendo buen software](https://swcarpentry.github.io/r-novice-gapminder-es/16-wrap-up/) no tiene programando en vivo. |
+| [Análisis y visualización de datos usando Python](http://www.datacarpentry.org/python-ecology-lesson-es/) |  * [Breve introducción a la Programación en Python](https://datacarpentry.org/python-ecology-lesson-es/01-short-introduction-to-Python/)<br/> * [Comenzando con datos](https://datacarpentry.org/python-ecology-lesson-es/02-starting-with-data/)<br/> * [Indexación, segmentación y creación de subconjuntos](https://datacarpentry.org/python-ecology-lesson-es/03-index-slice-subset/)<br/> * [Data Types and Formats](https://datacarpentry.org/python-ecology-lesson-es/04-data-types-and-format/)<br/> * [Combinando DataFrames con Pandas](https://datacarpentry.org/python-ecology-lesson-es/05-merging-data/)<br/> * [Flujos de trabajo y automatización](https://datacarpentry.org/python-ecology-lesson-es/06-loops-and-functions/) | cualquier otro episodio | [Antes de comenzar](https://datacarpentry.org/python-ecology-lesson-es/00-before-we-start/) has no live coding. <br/> Los episodios posteriores tienen dependencias. |
