@@ -201,7 +201,8 @@ please let us know in advance so that we can attempt to find someone to moderate
 We may not be able to accommodate all languages.
 
 For your teaching demonstration, you will prepare to teach a lesson from one of the
-Carpentries lesson programs. You will be asked to teach a short segment from your chosen lesson. 
+Carpentries lesson programs. You will be asked to teach a short segment from your chosen lesson from this 
+[list of suggested episodes](https://carpentries.github.io/instructor-training/demo_lessons/index.html). 
 The host of the session will pick a segment of the lesson for you to teach on the day of the 
 demonstration, so you must be prepared to teach any part of your chosen lesson.
 
