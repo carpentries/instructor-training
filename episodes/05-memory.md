@@ -56,15 +56,20 @@ important.
 > Take 5 minutes to complete the exercise. What was your score? Write your answer 
 > in the Etherpad.
 >
-> > ## Non-web version of this exercise
-> > Read the following list and try to memorize the items in it:
-> >
-> > cat, apple, ball, tree, square, head, house, door, box, car, king,
-> > hammer, milk, fish, book, tape, arrow, flower, key, shoe
-> >
-> > Without looking at the list again, write down as many words from the list as
-> > you can. How many did you remember? Write your answer in the Etherpad.
-> {: .solution}
+{: .challenge}
+
+  
+
+> ## Test Your Working Memory - Analog version (5 min)
+>
+> Read the following list and try to memorize the items in it:
+> 
+> cat, apple, ball, tree, square, head, house, door, box, car, king,
+> hammer, milk, fish, book, tape, arrow, flower, key, shoe
+> 
+> Without looking at the list again, write down as many words from the list as
+> you can. How many did you remember? Write your answer in the Etherpad.
+>
 {: .challenge}
 
 Most people will have found they only remember 5-7 words. Don't worry if you
@@ -385,7 +390,7 @@ Anything you can do to a) recognize and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
 [kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
-[memory-test]: https://cat.xula.edu/thinker/memory/working/serial
+[memory-test]: https://miku.github.io/activememory/
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
