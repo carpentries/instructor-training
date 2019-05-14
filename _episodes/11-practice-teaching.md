@@ -16,13 +16,13 @@ keypoints:
 ---
 
 So far, we've focused on how we can be effective instructors in helping our learners
-develop computational skills. We've seen that providing opportunities for practice 
-and giving useful feedback to learners are essential components in the learning 
+develop computational skills. We've seen that providing opportunities for practice
+and giving useful feedback to learners are essential components in the learning
 process. Learning to teach is no different. Instructors develop teaching skill
 over time through practice and improve most when given feedback on their performance
-from other instructors who share their pedagogical model. In this section, we'll 
+from other instructors who share their pedagogical model. In this section, we'll
 discuss how instructors improve their teaching and give you some opportunities to
-practice. 
+practice.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
@@ -36,7 +36,7 @@ though,
 that assumption is wrong,
 which is why educational reforms based on it have repeatedly failed.
 
-In the 1980s and 90s, an educational psychologist named James Stigler observed 
+In the 1980s and 90s, an educational psychologist named James Stigler observed
 teachers in the US and Japan. In the [OECD's annual rankings][oecd-pisa] of countries' educational
 achievements, Japanese students routinely test near the top in reading, math and science, while
 American students rank at or below average.
@@ -44,8 +44,8 @@ American students rank at or below average.
 Looking at differences in teaching methods, Stigler found that American teachers met at most once
 a year to exchange ideas about teaching, compared to the weekly or even daily meetings of Japanese
 teachers. During these meetings, teachers in the US described their lessons to each other, but they did
-not observe each others' teaching in practice. In contrast, Japanese teachers regularly conducted lesson study: 
-observing each other at work, discussing the lesson afterward, and studying curriculum materials with their 
+not observe each others' teaching in practice. In contrast, Japanese teachers regularly conducted lesson study:
+observing each other at work, discussing the lesson afterward, and studying curriculum materials with their
 colleagues.
 
 Closely observing work in this way in order to improve it is commonplace in sports and music.
@@ -65,30 +65,30 @@ a textbook publisher,
 or the Internet,
 but each teacher has to figure out on their own how to combine that with
 the theory they've learned in their educational programs
-to deliver an actual lesson in an actual classroom for actual learners. 
+to deliver an actual lesson in an actual classroom for actual learners.
 When teachers don't observe each other teaching, the tricks and techniques that each instructor
 has painstakingly incorporated into their practice don't have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
 
 > ## Reading It Isn't Enough
 > Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
-> that teachers don't adopt instructional practices based on reports about the effectiveness of those practices. 
+> that teachers don't adopt instructional practices based on reports about the effectiveness of those practices.
 > Social norms, institutional
-> culture, and lack of time and support prevent many teachers from moving out of 
-> their accustomed teaching habits. Change in teaching doesn't come about through reading about new teaching practices, but by seeing 
+> culture, and lack of time and support prevent many teachers from moving out of
+> their accustomed teaching habits. Change in teaching doesn't come about through reading about new teaching practices, but by seeing
 > these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
 
 The Carpentries pedagogical model supports lesson study by providing many opportunities for our instructors
-to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another 
-and to give each other feedback, you'll also have the opportunity to practice in front of an experienced instructor 
-as part of your instructor training checkout. In addition, Carpentries instructors always teach in pairs (or more), 
+to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
+and to give each other feedback, you'll also have the opportunity to practice in front of an experienced instructor
+as part of your instructor training checkout. In addition, Carpentries instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
 > ## Giving Feedback
 >
 > We'll start by observing some examples of teaching and providing some feedback.
-> 
+>
 > Watch this [example teaching video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
 > Organize your feedback along two axes:
@@ -101,17 +101,24 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 
 > ## Feedback on Yourself
 >
-> **Trainings where trainees are co-located:** 
+> The goal of this exercise is to practice giving and receiving feedback, so don't be
+> overly concerned about creating a perfectly polished presentation.  
+> We don't give you a lot of time to prep and the teaching time is short, so embrace
+> the challenge (and improvisation) of the exercise and see what you can learn by
+> watching other people teach, thinking about how to give them feedback, and how it
+> feels to get feedback on your own teaching.
+>
+> **Trainings where trainees are co-located:**
 > 1.  Split into groups of three.
-> 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of 
->     the lesson episode you chose before the start of the training course.
+> 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of
+>     the lesson episode you chose before the start of the training course. You will not
+>     be live coding; you can use a whiteboard or other visual aids if available (but
+>     this is not required!). We recommend using this 90 second teaching moment
+>     to introduce the topic of your lesson.
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Use a whiteboard or other visual aids if available
->     (Note: Do not live code you lesson.
->     There will be a chance to live code later.)
->     Keep a strict time limit of 90 seconds per person. 
+>     Keep a strict time limit of 90 seconds per person.
 > 3.  After the first person finishes,
 >     rotate roles
 >     (they become the videographer,
@@ -125,11 +132,11 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
 >
-> **Distributed trainings:** 
+> **Distributed trainings:**
 > Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
-> but do not record each other. Instead, give each person feedback immediately after they finish their 
-> turn teaching. 
-> 
+> but do not record each other. Instead, give each person feedback immediately after they finish their
+> turn teaching.
+>
 > This exercise should take about 25 minutes.  
 {: .challenge}
 
@@ -140,12 +147,12 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 ![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved
-share ground rules and expectations. In Carpentries teaching, we use the 2x2 
+share ground rules and expectations. In Carpentries teaching, we use the 2x2
 paradigm for feedback. Each person giving feedback is expected to provide at least one
 piece of negative and one piece of positive feedback each for content and delivery. This
-helps overcome two common tendencies when giving feedback on teaching: to focus on the content 
-(even though delivery is at least as important) and to either provide only negative or 
-only positive feedback. 
+helps overcome two common tendencies when giving feedback on teaching: to focus on the content
+(even though delivery is at least as important) and to either provide only negative or
+only positive feedback.
 
 Here is a list of different
 ways that you, as the instructor, can set the stage for receiving feedback
@@ -198,7 +205,7 @@ it's OK to remind yourself that:
 
 Giving good feedback is at least as important as knowing how to receive and process feedback. When
 giving feedback, stay positive, be specific and give your feedback recipient a clear next step to follow that
-will help them improve. Remember that giving and receiving feedback is a skill that requires practice, so don't 
+will help them improve. Remember that giving and receiving feedback is a skill that requires practice, so don't
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.  
 
@@ -206,36 +213,36 @@ with the feedback you gave.
 >
 > Watch either this [scipy tutorial][scipy-video-1] (8:40)
 > or this [other tutorial][scipy-video-2] (11:42).
-> For each, give feedback following the 2x2 
+> For each, give feedback following the 2x2
 > model. Put your feedback in the Etherpad.
 >
 > This exercise and discussion should take about 15 minutes.  
 {: .challenge}
 
 > ## Using Feedback
-> 
-> Look back at the feedback you received on your teaching in an earlier exercise. 
-> How do you feel about this feedback? Is it fair and reasonable? Do you agree with it? 
-> 
+>
+> Look back at the feedback you received on your teaching in an earlier exercise.
+> How do you feel about this feedback? Is it fair and reasonable? Do you agree with it?
+>
 > Identify at least one specific change you will make to your teaching based on this feedback.
 > Describe your change in the Etherpad.
-> 
+>
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to 
+Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to
 use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
-If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you 
+If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you
 may have a fixed mindset about teaching. By strengthening your growth mindset with respect to teaching, you can
-transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to 
+transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to
 practice teaching and to get and give feedback tomorrow.
 
 
 ## Optional Exercises
 
 > ## Skill Acquisition: What level are your teaching skills?
-> 
-> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice. 
+>
+> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice.
 > Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
 > Discuss with a partner and then write some thoughts in the Etherpad.
 {: .challenge}
