@@ -183,6 +183,9 @@ separate information will need to be "stored" in memory during each part of the 
 > of concepts in your map? If so, how would you re-divide those concepts to avoid
 > overwhelming your learners' short-term memory?
 >
+> Note for online trainings: please use a bold marker and write large so that your concept map 
+> can be shared on Zoom if you are prompted to do so.
+>
 > Take 10 minutes to draw the concept maps and share with your neighbor.
 > Write "*done*" in the Etherpad chat once you have finished.
 {: .challenge}
