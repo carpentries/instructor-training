@@ -23,7 +23,7 @@ Registration for each event closes one week before that event. You may change or
 * April 22-23, 2019 (UTC -7)  *Registration closed*
 * [May 30-31, 2019](https://www.eventbrite.com/e/online-instructor-training-may-30-31-pdt-tickets-59714433478) (UTC -7)
 * [June 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-june-18-19-pdt-tickets-59709046365) (UTC -7)
-* [August 14-15, 2019](https://www.eventbrite.com/e/online-instructor-training-august-14-15-n-america-pacific-time-tickets-59701413535) (UTC -7)
+
 
 #### Mountain time
 * [July 23-24, 2019](https://www.eventbrite.com/e/online-instructor-training-july-23-24-mdt-tickets-59840643977)  (UTC -6)
