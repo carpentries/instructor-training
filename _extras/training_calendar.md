@@ -40,7 +40,7 @@ Registration for each event closes one week before that event. You may change or
 * January 22-23, 2019(UTC -5) *Registration closed*
 * February 14-15, 2019(UTC -5) *Registration closed*
 * March 11-12, 2019 (UTC -4) *Registration closed*
-* [May 21-22, 2019](https://www.eventbrite.com/e/online-instructor-training-may-21-22-edt-tickets-59703338292) (UTC -4) 
+* May 21-22, 2019 (UTC -4)  *Registration closed* 
 * [June 3-4, 2019](https://www.eventbrite.com/e/online-instructor-training-june-3-4-edt-tickets-59703947113) (UTC -4) 
 * [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4)  
 
