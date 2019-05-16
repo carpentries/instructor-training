@@ -12,7 +12,7 @@ or run `make` in this directory for a list of helpful commands.
 
 **Maintainer(s):**
 
-* [Erin Becker][becker_erin]
+* [Rayna Harris][harris_rayna]
 * [Christina Koch][koch_christina]
 * [Karen Word][word_karen]
 
@@ -21,5 +21,5 @@ or run `make` in this directory for a list of helpful commands.
 [swc-site]: http://software-carpentry.org
 [lc-site]: https://librarycarpentry.org
 [koch_christina]: https://carpentries.org/instructors/
-[becker_erin]: https://carpentries.org/team/
+[harris_rayna]: https://carpentries.org/instructors/
 [word_karen]: https://carpentries.org/team/
