@@ -16,8 +16,11 @@ keypoints:
 - "With practice, we can learn to overcome our expert blind spot."
 ---
 
-We now discuss what distinguishes expertise
-from earlier stages of learning, how being an expert can make it
+Having previously discussed the transition from novice to competent practitioner,
+via the formation of a mental model, we now shift our attention to experts. It's
+unlikely that you'll be teaching experts; the expert we want to talk about is you!
+We'll discuss what distinguishes expertise
+from novices/competent practitioners, how being an expert can make it
 more difficult to teach novices, and some tools to help instructors
 identify and overcome these difficulties.  
 
@@ -35,13 +38,14 @@ How are experts different from both of these groups?
 > 1. Name someone that you think is an expert (doesn't matter what they're
 > an expert in).  As an expert, what makes them special or different from
 > other people?  
+> OR
 > 2. What is something that you're an expert in?  How does your experience
 > when you're acting as an expert differ from when you're not an expert?  
 >
 > This discussion should take about 5 minutes.
 {: .challenge}
 
-The answer is not that experts know more facts:
+The answer is not that experts know more facts (although they almost always do have a lot of knowledge):
 competent practitioners can memorize a lot of information
 without any noticeable improvement to their performance.  The answer is
 rather that experts have more connections among pieces of knowledge;
@@ -55,11 +59,18 @@ but it's a useful metaphor.)
 The key difference between experts and competent practitioners
 is that experts have many more connections among concepts.
 Their mental models are much more densely connected. Therefore
-experts can jump directly from a problem to its solution
+experts can
+
+* see connections between two topics or ideas that no one else can see
+* see a single problem in several different ways
+* know how to solve a problem, or "what questions to ask"
+* jump directly from a problem to its solution
 because there is a direct link between the two in their mind.
 Where a competent practitioner would have to reason
 "A therefore B therefore C therefore D therefore E",
 the expert can go from A to E in a single step ("A therefore E").
+
+We'll expand on some of these below and how they can manifest in the way you teach.
 
 > ## Connections and Mental Models
 >
@@ -71,10 +82,12 @@ the expert can go from A to E in a single step ("A therefore E").
 > among facts or concepts.
 {: .callout}
 
-## Limitations of Expertise  
+## Expertise and Teaching
 
 Because your learners' mental models will likely be less densely connected than your own,
-a conclusion that seems obvious to you will not seem that way to your learners.
+a conclusion that seems obvious to you will not seem that way to your learners.  It's important
+to explain what you're doing step-by-step, and how each step leads to the next one.
+
 Another feature of expertise that has important consequences for teaching is the
 ability of experts to make use of *fluid representations*. Two ways of thinking about a problem
 will seem interchangable to an expert, but will not seem that way to a novice. For example,
@@ -120,9 +133,10 @@ seem trivial to you, as they often will.
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
+Another potential challenge for experts who teach is what is called *expert blind spot*.
 Experts are frequently so familiar with their subject
 that they can no longer imagine what it's like to *not* see the world that way.
-This is called *expert blind spot* and can lead to what's known as the *expertise-reversal effect* - experts are often
+This is called expert blind spot and can lead to what's known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
@@ -133,7 +147,7 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
 > thinking about it?  
-> 2. Think about the area of expertise you identified earlier.  What could a
+> 2. Think about the area of expertise you identified for yourself earlier.  What could a
 > potential blind spot be?   
 {: .challenge}
 
@@ -141,13 +155,6 @@ The challenge of identifying and working around expert blind spots is one
 reason why we welcome instructors who still identify as "novices"!  Someone
 who is still in the process of learning can be a more effective instructor
 because they are speaking from their own recent experience.  
-
-In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
-novices. However, that's not to say that experts can't be good teachers.  Experts can
-be effective as long as they take the time to identify and correct
-for their own expert blind spots. You can use some of the exercises we've done while
-preparing to teach to help you overcome these
-challenges.
 
 ## Dismissive Language  
 
@@ -191,6 +198,22 @@ Another language choice that can have very positive effects on learner mindset i
 "Does anyone have any questions?" Asking "Does anyone have any questions?" can create the impression that you hope people don't have
 questions, so that you can continue on with the lesson. By asking what questions people have, you are setting up an expectation that
 people will, indeed, have questions, and that that is normal and expected.
+
+## Expert Advantages
+
+In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
+novices. However, that's not to say that experts can't be good teachers.  Experts can
+be effective as long as they take the time to identify and correct
+for their own expert blind spots. You can use some of the exercises we've done while
+preparing to teach to help you overcome these
+challenges.  
+
+Because of their well-connected knowledge, self-aware experts are well-poised
+to help students make meaningful connections among their knowledge, to confidently
+turn an error into a learning opportunity, or to explain
+a complex topic in multiple ways.  The important thing is to be aware of
+blind spots and to try to identify from the learner's perspective as much as
+possible.
 
 ## You Are Not Your Learners  
 
