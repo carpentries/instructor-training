@@ -146,6 +146,11 @@ as they feel able. While instructor badges
 may list a primary lesson program affiliation, instructors are **not** required to certify separately for each. For more
 information, see the description of [the instructor checkout procedure]({{ page.root }}/checkout/).
 
+Note that as long as you have at least one certified instructor, the other
+instructors and helpers at a branded workshop do not have to be certified. We
+rely on the judgment of local organizers to recruit and orient volunteers who
+will embody the Carpentries ethos and practices.
+
 ## How to Run a Carpentries Workshop
 
 The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that
@@ -178,8 +183,9 @@ a good summary of points here: TBD
 
 > ## Workshops as an Instructor
 >
-> As an instructor, you may be primarily teaching at local workshops or want to
-> teach elsewhere.
+> As an instructor, you may be primarily teaching at local workshops or you
+> may not have local opportunities, or you may just want to
+> teach somewhere else.
 >
 > If you want to teach non-locally, you should be sure to join our instructor
 > mailing list during the community exercise below, so that you hear about
@@ -197,8 +203,8 @@ a good summary of points here: TBD
 In both cases (self- or centrally-organized), you can start the workshop
 process by completing the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/).
 
-Workshop organization is done through Carpentries "regional coordinators" and
-this form will alert them to your interest in running a workshop and they will be
+Workshop organization is done through Carpentries "regional coordinators".
+This form will alert them to your interest in running a workshop and they will be
 in contact about workshop logistics and requirements. At the moment, there are
 regional coordinators for:
 * North America
@@ -208,6 +214,7 @@ regional coordinators for:
 
 For more details on how to run each type of workshop, see:
 * [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)
+
 or the the following Lesson Program specific references:
 * [Data Carpentry](http://www.datacarpentry.org/workshops-host/)
 * [Library Carpentry](https://librarycarpentry.org/workshops/)
@@ -240,8 +247,7 @@ The workshop will show up on our websites shortly thereafter.
 > immediately.  Two ways to avoid this are to use a "private" or
 > "incognito" mode in your web browser or by following these
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
->
-{: .challenge}
+>{: .challenge}
 
 > ## Question and Answer
 >
