@@ -23,7 +23,7 @@ keypoints:
 >
 > If the trainer has chosen an [icebreaker question]({{training_site}}/extras/icebreakers.html),
 > participate by writing your answers in the course's shared notes.
-{: .exercise}
+> {: .exercise}
 
 ## Code of Conduct
 
@@ -40,9 +40,9 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 Hello everyone, and welcome to the the Carpentries
 instructor training.  We're very pleased to have you with us.
 
-> ## Information for Today's Trainers
+> ## Today's Trainers
 >
-> To begin class, each Trainer should give a brief introduction.
+> To begin class, each Trainer should give a brief introduction of themselves.
 {: .discussion}
 
 Now we would like to get to know all of you.
@@ -71,9 +71,12 @@ Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of the Carpentries.
 Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach intensive one to two day workshops on basic computing and data skills for
-researchers.  Software Carpentry focuses on helping researchers develop foundational
-computational skills; Data Carpentry focuses on helping
-researchers work effectively with their data through its lifecycle; and Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
+researchers.  
+* Software Carpentry focuses on helping researchers develop foundational
+computational skills
+* Data Carpentry focuses on helping
+researchers work effectively with their data through its lifecycle
+* Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
 
 The main goal of these organizations is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
