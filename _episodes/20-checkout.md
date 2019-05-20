@@ -49,7 +49,7 @@ As you read in your homework last night, there are three final steps to complete
 > host and co-host to ask if you can attend. 
 >
 > If you'd prefer to do your teaching demonstration before your discussion, 
-> visit the [demo Etherpad][demo] and sign up there. 
+> visit the [demo Etherpad][demo] and sign up there. This [demo rubric] is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration. 
 >
 > This exercise should take 5 minutes.
 {: .challenge}
@@ -109,3 +109,4 @@ Once you have completed all checkout steps, you will receive an email with your 
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.software-carpentry.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos-recovered
+[demo rubric]: https://carpentries.github.io/instructor-training/17-performance/index.html
