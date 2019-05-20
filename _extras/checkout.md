@@ -189,7 +189,7 @@ The final step is to sign up for a 5-minute demonstration online using
 [the teaching demo schedule Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 
-The link to connect to the video conference is at the top of the Etherpad.
+The link to connect to the video conference is at the top of the Etherpad. 
 Please be sure to use a headset with a built-in microphone during the session
 rather than open-air speakers and your laptop's built-in microphone,
 since the latter often lead to audio quality problems.
@@ -234,7 +234,7 @@ we will send you your certificate
 and instructions on how to add yourself to the teaching roster and our website.
 If for any reason the trainer leading the session feels that you should try again,
 you will be told what to focus on
-and when and where to sign up for another session.
+and when and where to sign up for another session. You will find the criteria our Trainers use to score your teaching demonstration on the [suggested rubric](https://carpentries.github.io/instructor-training/demos_rubric/).
 
 ## Contacting Us
 
