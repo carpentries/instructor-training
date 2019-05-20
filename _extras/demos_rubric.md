@@ -3,8 +3,7 @@ layout: page
 title: "Suggested Rubric for Teaching Demonstrations"
 ---
 
-This rubric is provided as a guide for Trainers evaluating potential new instructors during the final stage of instructor training checkout 
-(the teaching demonstration). Deciding whether a particular trainee passes or fails the demonstration is the sole discretion of the
+This rubric is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration. Deciding whether a particular trainee passes or fails the demonstration is the sole discretion of the
 Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
 skills.
 
