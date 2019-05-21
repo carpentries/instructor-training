@@ -38,8 +38,7 @@ of many factors:
 
 People learn best when they care about a topic and believe they can master it.
 This presents us with a problem
-because most scientists might know vaguely the value of programming but struggle  
-with how to get started:
+because most scientists might know vaguely the value of programming, find it imitating, and struggle with how to get started:
 Their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
