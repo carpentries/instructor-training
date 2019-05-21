@@ -38,10 +38,9 @@ of many factors:
 
 People learn best when they care about a topic and believe they can master it.
 This presents us with a problem
-because most scientists don't want to program:
-they want to do science.
-In addition,
-their early experiences with computers are often demoralizing,
+because most scientists might know vaguely the value of programming but struggle  
+with how to get started:
+Their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
