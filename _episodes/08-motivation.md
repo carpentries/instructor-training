@@ -43,11 +43,12 @@ of many factors:
 One way to build a positive classroom environment is to create a space
 that cultivates and encourages learners' motivations.
 
-In the Carpentries, this can present us with a problem
-because most scientists don't want to program:
-they want to do science.
-In addition,
-their early experiences with computers are often demoralizing,
+People learn best when they care about a topic and believe they can master it.
+This presents us with a problem
+because most scientists might know vaguely the value of programming 
+but find it intimidating, and struggle  
+with how to get started. 
+Their early experiences with computers are often demoralizing,
 and believing that something will be hard to learn is a self-fulfilling prophecy.
 
 We have therefore adopted a "teach most immediately useful first" approach.
