@@ -234,7 +234,7 @@ we will send you your certificate
 and instructions on how to add yourself to the teaching roster and our website.
 If for any reason the trainer leading the session feels that you should try again,
 you will be told what to focus on
-and when and where to sign up for another session. You will find the criteria our Trainers use to score your teaching demonstration on the [suggested rubric](https://carpentries.github.io/instructor-training/demos_rubric/).
+and when and where to sign up for another session. Here is a [rubric](https://carpentries.github.io/instructor-training/demos_rubric/) made available to Trainers to aid with scoring. 
 
 ## Contacting Us
 
