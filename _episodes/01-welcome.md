@@ -43,25 +43,27 @@ instructor training.  We're very pleased to have you with us.
 > ## Today's Trainers
 >
 > To begin class, each Trainer should give a brief introduction of themselves.
+> 
+> (For some guidelines on introducing yourself, see some content from 
+> later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/19-introductions/index.html))
 {: .discussion}
 
 Now we would like to get to know all of you.
 
-> ## Looking Backwards and Forwards
+> ## Reviewing Carpentries Experience and Goals
 >
 > Please answer the following two questions next to your name on the shared notes document:
-> 1. If you have taken part in a Software, Data, or Library Carpentry workshop,
-> how do your experiences compare to those of other people?
-> If you haven't,
-> what questions do you have that they might be able to answer?
+> 
+> 1. Have you previously participated in a Software Carpentry, Data Carpentry, 
+> or Library Carpentry Workshop. If so, how did you participate? If not, have you 
+> learned about the Carpentries in another setting? 
 > 1. Why are you taking this course? What goals do you have for today and tomorrow?
 >
 > If time permits, the trainer may have you discuss these answers in small groups
 > (in breakout rooms if online), or all together as a group.
 {: .challenge}
 
-Most of you are probably here because you have attended or helped at
-a Carpentries workshop.  To make sure everyone has the
+To make sure everyone has the
 same context, we'll give a brief overview of the Carpentries
 organization before starting the training.
 
@@ -84,14 +86,15 @@ researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
 
-The goal of this two-day training is to provide you with the information you need
+The goal of this two-day training is to provide you with the skills and information you need
 to become a certified Carpentries instructor. Our expectations of certified Carpentries
 instructors is that they:
 
 - be familiar with and understand how to apply research-based teaching principles,
-especially as they apply to the Carpentries audience
-- believe in the importance of a respectful and inclusive classroom environment and be able to
-identify and implement Carpentries policies and general practices to support this.
+especially as they apply to the Carpentries audience.
+- understand the importance of a respectful and inclusive classroom environment; commit to 
+creating such an environment; and be able to
+identify and implement Carpentries policies and general practices to accomplish this.
 - practice and develop skills in the teaching methods used in Carpentries workshops
 - learn enough about the Carpentries organization to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
@@ -141,8 +144,8 @@ To orient yourself, there is a schedule on the workshop webpage which is linked 
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get
 familiarity with some of the content through the exercises),
-This workshop is the first step in becoming a certified Carpentries instructor.
-The follow-up steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
+This workshop is a significant requirement for becoming a certified Carpentries instructor.
+The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 We also do not how to develop lessons in specific detail.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
