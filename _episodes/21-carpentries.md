@@ -42,8 +42,8 @@ On November 1, 2018, The Carpentries Executive Council
 approved [Library Carpentry]({{ site.lc_site }})
 as the third official Lesson Program of the Carpentries.
 
-The Carpentries project comprises communities of instructors, trainers,
-maintainers, helpers, and supporters from
+The Carpentries project comprises communities of Instructors, Trainers,
+Maintainers, helpers, and supporters from
 [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }})
 who share a mission to teach foundational computational and data science skills.
 
@@ -62,7 +62,7 @@ Their aligned missions are accomplished by running accessible, inclusive trainin
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
-*   an intensive one-day or two-day format taught by volunteer instructors.
+*   an two-day format taught by volunteer instructors.
 *   a focus on filling gaps in current training for learners.
 
 The major differences between Software, Data and Library Carpentry workshops
@@ -87,6 +87,11 @@ Library Carpentry workshops:
 *   are aimed at people in library- and information-related roles,
 *   focus on best practices in data structure, and
 *   are modular---each Library Carpentry lesson is standalone.
+*   are sometimes less than two days. 
+
+In a visual representation, these similarities and differences look like this: 
+
+![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
 
 ## What is a Carpentries Workshop? The Rules.
 
@@ -98,7 +103,7 @@ are all trademarked.
 You may only call a workshop a Software Carpentry, Data Carpentry, or Library Carpentry workshop if:
 
 *   it covers the core topics (see below),
-*   at least one of the instructors is a certified Carpentries instructor,
+*   at least one of the instructors is a certified Carpentries Instructor,
 *   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
 *   you send us summary information about attendees (at a minimum, the number of people who attended).
 
@@ -151,35 +156,26 @@ instructors and helpers at a branded workshop do not have to be certified. We
 rely on the judgment of local organizers to recruit and orient volunteers who
 will embody the Carpentries ethos and practices.
 
+> ## Local Support
+> 
+> There is a great list
+> 
+> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
+).
+{: .callout}
+
 ## How to Run a Carpentries Workshop
 
 The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that
 provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
 The Carpentries Handbook is the definitive source for policies and information.
-Here, we will briefly cover some information about actually running a workshop.  
+Here, we will cover some information about actually running a workshop.  
 
-To run a workshop, you need three core things:
-
-* a location
-* instructors
-* learners
-
-There are two ways to delegate responsibility for these elements -- a centrally-organized
-or self-organized workshop.
-
-| Component | Centrally-Organized | Self-Organized
-|---------- |-------------------- |-------------- |
-| Location  | The local organizer provides the space and organizes local logistics. | The local organizer provides the space and organizes local logistics. |
-| Instructors | The Carpentries organization finds instructors for the workshop; the local workshop organizer books the instructor's travel and finds local helpers to assist. | The workshop organizer finds both instructors and helpers. |
-| Learners  | The local organizer advertises and recruits learners, but the Carpentries manages registration | The local organizer manages registration and advertising. |
-
-In both cases, the host site is expected to pay for instructor travel (if needed) and
-cover local costs.  For a centrally organized workshop, there is a fee if the organizer
-is not already a Carpentries member.
-
-Note that you are free to charge what you choose for a workshop;
-this is a perennial topic of discussion among the Carpentries community and there's
-a good summary of points here: TBD
+Briefly, there are two types of Carpentry workshops: centrally-organized and 
+self-organized. Centrally-organized workshops are organized by a team of 
+[Regional Coordinators](https://carpentries.org/regionalcoordinators/) who take care of logistics and administration such as 
+finding instructors and handling workshop registration. For self-organized 
+workshops, the organization hosting the event is responsible for these details.
 
 > ## Workshops as an Instructor
 >
@@ -202,15 +198,6 @@ a good summary of points here: TBD
 
 In both cases (self- or centrally-organized), you can start the workshop
 process by completing the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/).
-
-Workshop organization is done through Carpentries "regional coordinators".
-This form will alert them to your interest in running a workshop and they will be
-in contact about workshop logistics and requirements. At the moment, there are
-regional coordinators for:
-* North America
-* Europe
-* Africa
-* Australia/New Zealand
 
 For more details on how to run each type of workshop, see:
 * [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)
@@ -292,7 +279,7 @@ to the community than submitting the perfect lesson change.  The
 one way to start connecting to the community and find which area will allow you
 to contribute best.
 
-## The Carpentry Community
+## The Carpentries Community
 
 As you can imagine, based on the above, there are many aspects of running the Carpentries!
 While there are a small number of dedicated staff who work for the Carpentries organization,
