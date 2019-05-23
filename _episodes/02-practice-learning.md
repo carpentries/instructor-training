@@ -71,14 +71,16 @@ tasks with normal effort under normal circumstances.
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-For now, we are primarily concerned with novices and competent practitioners (we'll
-discuss expertise in a later section).  We'll next use a slightly different concept
+For now, we are primarily concerned with novices and competent practitioners,
+as this tends to characterize the Carpentries audience. (We, as instructors,
+  are more likely to be experts, and we'll
+discuss this in a later section).  We'll next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
 
 ## Cognitive Development and Mental Models
 
-Effective learning is facilitated by the creation of a robust mental model. A mental model is a collection of concepts and facts,
+Effective learning is facilitated by the creation of a well-founded mental model. A mental model is a collection of concepts and facts,
 along with the relationships between those concepts, which a person has about a topic. For example, a long-time resident of the United
 States may have an advanced understanding of the location of US states, major cities and landmarks, weather patterns, regional
 economies and demographic patterns, as well as the relationships among these, compared with their understanding of these relationships
@@ -131,22 +133,22 @@ management in a way that will allow them to learn more on their own or understan
 > — Kunal Marwaha, SWC instructor
 {: .quotation}
 
-If our goal is to help novices construct a new mental model of a new intellectual domain,
+If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
 this will impact our teaching. For example, we principally want to help learners
 form the right categories and make connections among concepts.  We *don't*
 want to overload them with a slew of unrelated facts, as this will be confusing.
 
 An important practical implication of this latter point is the pace at which we teach.  
-Software Carpentry's [lesson on the Unix shell][swc-shell-novice] only introduces 22 commands,
-and we usually spend two and a half hours working through it.
-Six and a half minutes per command may seem glacially slow,
-but the lesson's real purpose is to teach learners about paths,
-history, wildcards, pipes and filters,
+In the first main episode of Software Carpentry's [lesson on the Unix shell][swc-shell-novice],
+which covers "Navigating Files and Directories", there are only four "commands"
+for 40 minutes of teaching. Ten minutes per command may seem glacially slow,
+but that episodes's real purpose is to teach learners about paths; later on,
+they will learn about history, wildcards, pipes and filters,
 command-line arguments, redirection,
 and all the other big ideas on which the shell depends,
 and without which people cannot understand how to use commands.
 
-That model also includes things like:
+That mental model of the shell also includes things like:
 
 *   Anything you repeat manually, you'll eventually get wrong
     (so let the computer repeat things for you by using tab completion
