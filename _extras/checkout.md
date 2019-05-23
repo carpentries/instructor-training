@@ -64,7 +64,7 @@ to that lesson. You can access a lesson's GitHub repository by clicking on the G
 
 * [https://datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/)
 * [https://software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/)
-* [https://librarycarpentry.org//lessons/]({{ site.lc_site }}/lessons/) 
+* [https://librarycarpentry.org/lessons/]({{ site.lc_site }}/lessons/) 
 
 Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
 
