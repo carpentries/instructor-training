@@ -40,8 +40,8 @@ of many factors:
 
 ## Teach Most Useful First
 
-One element of a positive classroom environment is to find ways to motivate
-learners; people learn best when they care about a topic and believe they can master it.
+One way to build a positive classroom environment is to create a space
+that cultivates and encourages learners' motivations.
 
 In the Carpentries, this can present us with a problem
 because most scientists don't want to program:
@@ -251,8 +251,9 @@ favorite scripting language.
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
 of text editors and levels of technical knowledge. There are other factors, however, that contribute to demotivation,
-some of which are either systemic, or built into our psychological makeup as human beings.
-We can still have a positive impact in fighting these demotivators by thinking carefully about
+some of which are either systemic, or built into our psychological makeup as human beings. We can't
+always control these demotivators - often they come from outside classrom - but we can
+be aware of them, and take certain actions to lessen their impact by thinking carefully about
 the language that we use and how we interact with our learners.
 
 ### Stereotype Threat
@@ -273,7 +274,11 @@ Another is that there are [questions about the replicability of key studies][jus
 What *is* clear is that we need to avoid thinking in terms of a deficit model
 (i.e., we need to change the members of under-represented groups because they have some deficit,
 such as lack of prior experience) and instead use a systems approach
-(i.e., we need to change the system because it produces these disparities).
+(i.e., we need to change the system because it produces these disparities). We
+can also not highlight people based on their identity with a minority group; for
+example, it's not a good idea to say something like "Even though you're the only
+woman in the class, you're doing so well!" That may sound like praise at the end,
+but draws attention to the stereotype that women aren't good at programming. 
 
 > ## Never Learn Alone
 >
@@ -487,7 +492,7 @@ such as:
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
-## The Importance of Having Rules
+## Setting Expectations with the Code of Conduct
 
 Finally, a important way that the Carpentries foster an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
