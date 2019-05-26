@@ -73,7 +73,10 @@ Lesson contribution is managed within the repository using "issues"
 and "pull requests".  New problems or suggestions can be introduced
 as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
-be discussed before changes are merged.  
+be discussed before changes are merged.
+
+If contributing on GitHub is new for you, this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
+that is customized to the Carpentries workflow.
 
 ### What's in a Badge?
 
