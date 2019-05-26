@@ -20,7 +20,8 @@ One of the cornerstones of the Carpentries teaching is live
 coding: *instructors don't use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation.
+gives general tips for an effective participatory live coding presentation. We'll
+finish this section by practicing ourselves and providing feedback for each other. 
 
 ## Why Participatory Live Coding?
 

@@ -18,7 +18,8 @@ One of the most important things that you can do as an instructor is to
 set the workshop environment from the beginning.  One way to do this
 is by having a well-planned introduction.  This episode discusses the
 value of setting the environment from the beginning and some of the
-components that go into an effective introduction.  
+components that go into an effective introduction, and includes time to
+practice giving part of a workshop introduction.
 
 ## Setting the Workshop Environment
 
@@ -37,9 +38,9 @@ be teaching or you had no idea what the course was supposed to be about?
 Your impression on the first day of a course probably matched that of the rest of
 the course. Introductions set the tone for the workshop and the path for learning.
 
-Introductions are particularly important when we have just two days. Also, 
-in Carpentry workshops we're teaching not only a set of skills, but also 
-trying to give learners the confidence to become self-directed learners. Learners 
+Introductions are particularly important when we have just two days. Also,
+in Carpentry workshops we're teaching not only a set of skills, but also
+trying to give learners the confidence to become self-directed learners. Learners
 should leave feeling excited and empowered. It's up to you as an instructor to empower
 your learners, so it's important
 to set a positive and welcoming environment for the workshop.
@@ -53,15 +54,15 @@ you're comfortable and ready for.
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.  
 > Take notes on your answers -- we'll combine them later.  
-> 
+>
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
-> 
+>
 > After 5 minutes, come together, and combine ideas as a large group.  
-> 
+>
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?  
 > Did you come up with something that's not listed below?  
-> 
+>
 > Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
 
@@ -148,11 +149,11 @@ information that can undermine you in the eyes of your learners.
 > ## Introductions for Everyone
 >
 > If you're teaching a typical Carpentries workshop, then you're
-> probably not teaching alone!  After introducing yourself, make 
-> sure that you give everyone involved in the workshop - instructors, 
+> probably not teaching alone!  After introducing yourself, make
+> sure that you give everyone involved in the workshop - instructors,
 > helpers, organizers - a chance to introduce themselves as well.
-> 
-> If you're the workshop organizer, this can also be a good time 
+>
+> If you're the workshop organizer, this can also be a good time
 > to thank volunteers who are instructing or helping.
 {: .callout}
 
@@ -175,8 +176,8 @@ Make sure to highlight
 the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
 
-**Clarify workshop roles.** Explain who is doing what at the workshop and 
-what learners can expect from the workshop leaders.  If you haven't already 
+**Clarify workshop roles.** Explain who is doing what at the workshop and
+what learners can expect from the workshop leaders.  If you haven't already
 introduced helpers or other workshop leaders, make sure to do so.  
 
 **Explain your expectations** for learner behavior including expectations
@@ -252,9 +253,9 @@ accessibility, etc.
 
 > ## Practice Your Introduction
 >
-> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today. 
-> 
-> 1. Write out some notes, covering some of the topics described above: 
+> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today.
+>
+> 1. Write out some notes, covering some of the topics described above:
 > 	1.  Introduce yourself effectively
 > 	1.  Clarify learning objectives and expectations
 > 	1.  Set the tone for the workshop
