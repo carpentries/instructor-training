@@ -75,7 +75,7 @@ as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
 be discussed before changes are merged.
 
-If contributing on GitHub is new for you, this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
+If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 that is customized to the Carpentries workflow.
 
 ### What's in a Badge?
