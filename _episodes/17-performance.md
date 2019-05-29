@@ -12,8 +12,8 @@ keypoints:
 ---
 
 Continuing our theme of developing practical Carpentries teaching skills,
-this section provides another chance to practice live coding, observe others
-and give/receive feedback.
+this section provides another chance to practice live coding, to go through the
+process of observing and giving feedback, and to make changes to how we teach based on the feedback of others. 
 
 > ## Round Two
 > First, have a look at the [rubric]({{ page.root }}/demos_rubric/) that is given to trainers as a suggested framework for evaluating the online teaching demonstration sessions that are part of instructor checkout.

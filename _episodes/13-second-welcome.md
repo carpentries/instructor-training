@@ -30,14 +30,17 @@ how to start organizing a workshop, and how to get involved with community activ
 
 Yesterday we focused on general aspects of educational psychology and pedagogy and
 how to create a positive classroom as environment, addressing the first two goals.
-We started to address the third goal by discussing the important of lesson study
+We started to address the third goal by discussing the importance of lesson study
 and observation, and by providing an opportunity to teach and
 receive feedback. We will continue that skill development process today, as we
 focus on the specifics of teaching Software Carpentry, Data Carpentry, and Library Carpentry workshops.
 We will review specific
-teaching practices we follow at our workshops and practice using some of them. One of the most important practices is participatory live coding. You rarely
-find this approach in a current university setting so we'll spend some time practicing this skill.
-Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in the Carpentries community. 
+teaching practices we follow at our workshops and practice using some of them. One of the most important practices
+in the Carpentries is participatory live coding.  We'll spend some time practicing this skill for multiple reasons:
+one, you rarely find this approach in a current university setting so it's good
+to try it out, but also, this will give us a chance to continue developing skills
+we discussed yesterday that help improve our teaching: reflective practice and
+providing (and receiving!) constructive feedback. Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in the Carpentries community.
 
 > ## Questions
 >
