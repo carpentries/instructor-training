@@ -97,18 +97,18 @@ The Carpentries works to help institutions and individuals spread skills for dat
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
 >
 >> ## Solution  
->> Instructors: C
->> Mentors: E
->> Trainers: D
->> Lesson developers: J
->> Curriculum advisors: B
->> Lesson maintainers: F
->> Lesson Infrastructure Team: I
->> Assessment Team: K
->> Champions: L
->> Infrastructure Team: H
->> Regional Coordinator: A
->> Code of Conduct Committee: G
+>> * Instructors: C
+>> * Mentors: E
+>> * Trainers: D
+>> * Lesson developers: J
+>> * Curriculum advisors: B
+>> * Lesson maintainers: F
+>> * Lesson Infrastructure Team: I
+>> * Assessment Team: K
+>> * Champions: L
+>> * Infrastructure Team: H
+>> * Regional Coordinators: A
+>> * Code of Conduct Committee: G
 > {: .solution}
 > This exercise should take about 10 minutes.
 {: .challenge}
