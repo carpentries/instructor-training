@@ -24,8 +24,7 @@ about how to get involved.
 
 ## A Brief History
 
-[Software Carpentry]({{ 
-.swc_site }}) was founded in 1998 
+[Software Carpentry]({{ swc_site }}) was founded in 1998 
 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
