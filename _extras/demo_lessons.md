@@ -5,7 +5,16 @@ title: "Suggested Episodes for Teaching Demonstrations"
 
 Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email [team@carpentries.org](mailto:team@carpentries.org).  Note that while a trainee can choose the lesson to teach from, the Trainer leading the demo session will choose the specific episode at the time of the demo session.
 
-### Data Carpentry: Ecology
+* [Data Carpentry: Ecology](#dc-ecology)
+* [Data Carpentry: Genomics](#dc-genomics)
+* [Data Carpentry: Social Sciences](#dc-socialsci)
+* [Data Carpentry: Geospatial](#dc-geospatial)
+* [Library Carpentry](#lc)
+* [Software Carpentry](#swc)
+* [Lecciones en español](#espanol)
+
+
+### <a id="dc-ecology"></a> Data Carpentry: Ecology
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- | 
@@ -16,7 +25,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 | [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/) |  * [Short Introduction to Programming](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/)<br/> * [Starting with Data](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/)<br/> * [Indexing, Slicing, and Subsetting](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/)<br/> * [Data Types and Formats](https://datacarpentry.org/python-ecology-lesson/04-data-types-and-format/)<br/> * [Combining DataFrames with Pandas](https://datacarpentry.org/python-ecology-lesson/05-merging-data/)<br/> * [Data Workflows and Automation](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/) | any other episode | [Before we Start](https://datacarpentry.org/python-ecology-lesson/00-before-we-start/) has no live coding. <br/> Later episodes have dependencies. | 
 
 
-### Data Carpentry: Genomics
+### <a id="dc-genomics"></a>Data Carpentry: Genomics
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
@@ -27,7 +36,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 | [Data Analysis and Visualization in R](https://datacarpentry.org/genomics-r-intro/) | none  | all episodes | This lesson is not yet stable. |
 
 
-### Data Carpentry: Social Sciences
+### <a id="dc-socialsci"></a>Data Carpentry: Social Sciences
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
@@ -37,7 +46,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 
 
 
-### Data Carpentry: Geospatial
+### <a id="dc-geospatial"></a>Data Carpentry: Geospatial
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
@@ -46,7 +55,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 | [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | * [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)<br/> * [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)<br/> * [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)<br/> * [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)<br/> * [Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)<br/> * [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)<br/> * [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/) | any other episode | Many episodes rely on data from previous episodes. <br/> Trainees may need extra time to set up their environment. | 
 
 
-### Library Carpentry
+### <a id="lc"></a>Library Carpentry
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
@@ -55,7 +64,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 
 
 
-### Software Carpentry
+### <a id="swc"></a>Software Carpentry
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
@@ -68,7 +77,7 @@ Please see the tables below for recommendations about choosing a lesson for your
 | [Automation and Make](http://swcarpentry.github.io/make-novice/) |  * [Introduction](http://swcarpentry.github.io/make-novice/01-intro)<br/> *  [Makefiles](http://swcarpentry.github.io/make-novice/02-makefiles) | any other episode | Later episodes have dependencies. |
 | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) |  * [Configuring Mercurial](http://swcarpentry.github.io/hg-novice/02-configuration/)<br/> * [Creating a Repository](http://swcarpentry.github.io/hg-novice/03-create-repo/)<br/> * [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) | any other episode | [Automated Version Control](http://swcarpentry.github.io/hg-novice/01-basics/) has no live coding. <br/> Later episodes have dependencies. |
 
-### Lecciones en español
+### <a id="espanol"></a>Lecciones en español
 
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |
