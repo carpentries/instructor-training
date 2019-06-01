@@ -3,7 +3,7 @@ title: "Wrapping Up"
 teaching: 0
 exercises: 15
 questions:
-- "Provide final feedback to your instructors."
+- "What can we improve in this training?"
 objectives:
 - "Reflect on the two-day course."
 - "Articulate constructive feedback."
