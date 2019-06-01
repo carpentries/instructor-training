@@ -4,6 +4,9 @@ teaching: 0
 exercises: 15
 questions:
 - "Provide final feedback to your instructors."
+objectives:
+- "Reflect on the the two-day course."
+- "Articulate constructive feedback."
 keypoints:
 - "Feedback applies to all kinds of learning, including learning how to teach."
 ---
