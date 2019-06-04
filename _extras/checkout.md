@@ -113,6 +113,9 @@ Please note that:
     we would like our current learning objectives to be checked against the actual lesson content,
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
+    
+For more details on the workflow of how to contribute via GitHub, see this
+community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 
 ## Part 2: Take Part in An Online Community Discussion Session
 <a name="discussion-session"></a>
