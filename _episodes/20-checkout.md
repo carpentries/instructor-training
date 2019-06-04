@@ -11,22 +11,22 @@ keypoints:
 - "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
 
-During this period after lunch, we'll be talking about some of the nuts and bolts 
-of getting involved in the Carpentries.  First, we'll discuss what actions you'll 
-need to take after this training to become a fully certified instructor.  After that, 
-we'll address any questions about the Carpentries organizations, running workshops, and 
-getting involved in the community in other ways.  
+During this period after lunch, we'll be talking about some of the nuts and bolts
+of getting involved in the Carpentries.  First, we'll discuss what actions you'll
+need to take after this training to become a fully certified instructor.  After that,
+we'll address any questions about the Carpentries organizations, running workshops, and
+getting involved in the community in other ways. 
 
 ## Application form
 
-Make sure that you have filled out the Carpentries 
-[instructor application form](https://amy.software-carpentry.org/forms/request_training/). 
+Make sure that you have filled out the Carpentries
+[instructor application form](https://amy.software-carpentry.org/forms/request_training/).
 We can not track your progress and make you an official instructor without it. If you have already
 filled out this form, you do not need to submit another application.
 
 ## Instructor Checkout
 
-As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are: 
+As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
 
 1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
     1.  Submit a change (i.e. pull request) to fix an existing issue.
@@ -37,19 +37,21 @@ As you read in your homework last night, there are three final steps to complete
 
 > ## Checking Out Review with Questions and Answers
 > 
-> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/). Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process?
+> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
+> Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. 
+> What questions do you still have about the checkout process?
 > 
 > This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Schedule a Discussion or Demo
-> 
-> Visit the [discussion Etherpad][discussion] to sign up for a session. 
-> If the session you would like to attend is full, contact the discussion
-> host and co-host to ask if you can attend. 
 >
-> If you'd prefer to do your teaching demonstration before your discussion, 
-> visit the [demo Etherpad][demo] and sign up there. This [demo rubric] is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration. 
+> Visit the [discussion Etherpad][discussion] to sign up for a session.
+> If the session you would like to attend is full, contact the discussion
+> host and co-host to ask if you can attend.
+>
+> If you'd prefer to do your teaching demonstration before your discussion,
+> visit the [demo Etherpad][demo] and sign up there. This [demo rubric] is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration.
 >
 > This exercise should take 5 minutes.
 {: .challenge}
@@ -91,7 +93,7 @@ Once you have completed all checkout steps, you will receive an email with your 
 > in discussions about the lesson materials (and other aspects of the Carpentries community).
 > Go to the GitHub page for the lesson you worked with over the past two days and click on the
 > "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
-> to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for 
+> to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for
 > the repository you are working in. If you do make a significant contribution to the discussion, send a link to
 > the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You've
 > just completed one of the three remaining steps in becoming a Carpentries instructor.
@@ -101,9 +103,9 @@ Once you have completed all checkout steps, you will receive an email with your 
 
 
 > ## Ongoing support
-> 
-> Discussion sessions aren't only for instructors-in-training working towards their certification. 
-> Instructors are highly encouraged to participate in discussions before and after each of their workshops, 
+>
+> Discussion sessions aren't only for instructors-in-training working towards their certification.
+> Instructors are highly encouraged to participate in discussions before and after each of their workshops,
 > so that they can continue to learn from each other and advance their teaching skills. For even more support, consider
 > participating in our Carpentries [Mentoring program][mentoring]!
 {: .callout}
