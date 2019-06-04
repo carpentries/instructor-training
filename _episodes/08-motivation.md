@@ -220,7 +220,7 @@ likes to be made fun of, and talking badly about people who use GUIs, or who are
 writing their thesis in LaTeX is unlikely to make them excited about learning your
 favorite scripting language.
 
-> ## Brainstorming Demotivational Experiences 
+> ## Brainstorming Demotivational Experiences
 >
 > *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
 > *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
@@ -274,7 +274,7 @@ such as lack of prior experience) and instead use a systems approach
 
 > ## The Importance of Having Rules
 >
-> To make clear what is expected, 
+> To make clear what is expected,
 > and all participants in our workshops are required to conform to the
 > [Code of Conduct]({{ site.coc }}).
 > Its details are important,
@@ -331,7 +331,7 @@ The Ada Initiative has
 for teaching about and dealing with imposter syndrome.
 
 > ## Overcoming Imposter Syndrome (Optional)
-> 
+>
 > Think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
 > In the Etherpad, describe how you might use this as a motivational story to help your learners
@@ -392,6 +392,14 @@ about accessibility.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
+> ## Accessibility and PDFs
+>
+> The posters above are in PDF format - which itself can sometimes be inaccessible to people
+> who use screen readers. If you know of a similar resource describing accessibility guidelines
+> that would be more accessible than what's linked above, open an issue on our instructor
+> training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
+{: .callout}
+
 The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
 is a good starting point focused primarily on assisting the visually impaired,
 while Liz Henry's blog post about
@@ -414,7 +422,7 @@ are always welcome.
 
 
 > ## What Happens When Accessibility is an Issue? (Optional)
-> 
+>
 > Think of a time when you've been affected by, or noticed someone else
 > being affected by issues with accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
