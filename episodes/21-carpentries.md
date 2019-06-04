@@ -26,10 +26,10 @@ involved with the community.
 
 ## A Brief History
 
-[Software Carpentry]({{
-.swc_site }}) was founded in 1998
-with the mission of teaching lab skills for research computing.
-[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy.
+
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing. 
+[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
+
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
 On January 1, 2018, Software Carpentry and Data Carpentry merged
@@ -92,6 +92,7 @@ Library Carpentry workshops:
 In a visual representation, these similarities and differences look like this: 
 
 ![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
+
 
 ## What is a Carpentries Workshop? The Rules.
 
