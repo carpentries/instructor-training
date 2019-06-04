@@ -52,12 +52,26 @@ Now we would like to get to know all of you.
 
 > ## Reviewing Carpentries Experience and Goals
 >
-> Please answer the following two questions next to your name on the shared notes document:
+> Please answer the following questions in the shared notes document: 
+>
+> *Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
+>
+> 1.  Yes, I have taken a workshop.
+> 2.  Yes, I have been a workshop helper.
+> 3.  Yes, I organized a workshop.
+> 4.  No, but I am familiar with what is taught at a workshop.
+> 5.  No, and I am not familiar with what is taught at a workshop.
+>
+> *Which of these most accurately describes your teaching experience?*
+>
+> 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
+> 2.  I have not had any teaching experience in the past.
+> 3.  I have taught a seminar, workshop, or other short or informal course.
+> 4.  I have been the instructor-of-record for my own university/college course.
+> 5.  I have taught at the primary or secondary education level.
+> 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
 > 
-> 1. Have you previously participated in a Software Carpentry, Data Carpentry, 
-> or Library Carpentry Workshop. If so, how did you participate? If not, have you 
-> learned about the Carpentries in another setting? 
-> 1. Why are you taking this course? What goals do you have for today and tomorrow?
+> **Why are you taking this course? What goals do you have for today and tomorrow?**
 >
 > If time permits, the trainer may have you discuss these answers in small groups
 > (in breakout rooms if online), or all together as a group.
