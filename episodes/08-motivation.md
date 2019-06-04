@@ -63,7 +63,7 @@ don't belong in our workshops.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise/#limitations-of-expertise).
+> please revisit the discussion of [expert blind spot]({% link _episodes/03-expertise.md %}#limitations-of-expertise).
 {: .callout}
 
 We have therefore adopted a "teach most immediately useful first" approach.

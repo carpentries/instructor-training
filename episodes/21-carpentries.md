@@ -24,8 +24,7 @@ about how to get involved.
 
 ## A Brief History
 
-[Software Carpentry]({{ swc_site }}) was founded in 1998 
-with the mission of teaching lab skills for research computing. 
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
@@ -138,7 +137,7 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 ### Materials
 
 All of Software Carpentry, Data Carpentry, and Library Carpentry lessons materials are freely available
-under a permissive [open license]({{ page.root }}/LICENSE).
+under a permissive [open license]({% link LICENSE.md %}).
 You may use them whenever and however you want,
 provided you cite the original source.
 
