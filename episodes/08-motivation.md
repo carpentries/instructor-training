@@ -44,12 +44,10 @@ One way to build a positive classroom environment is to create a space
 that cultivates and encourages learners' motivations.
 
 People learn best when they care about a topic and believe they can master it.
-This presents us with a problem
-because most scientists might know vaguely the value of programming 
-but find it intimidating, and struggle  
-with how to get started. 
-Their early experiences with computers are often demoralizing,
-and believing that something will be hard to learn is a self-fulfilling prophecy.
+Many scientists might know vaguely the value of programming 
+but find it intimidating, and struggle with how to get started. 
+This presents us with a problem because believing that something will be hard 
+to learn often becomes a self-fulfilling prophecy.
 
 We have therefore adopted a "teach most immediately useful first" approach.
 We try to have learners do something that *they* think is useful in their daily work
