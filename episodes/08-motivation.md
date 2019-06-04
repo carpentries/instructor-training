@@ -276,8 +276,8 @@ What *is* clear is that we need to avoid thinking in terms of a deficit model
 such as lack of prior experience) and instead use a systems approach
 (i.e., we need to change the system because it produces these disparities). We
 can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "Even though you're the only
-woman in the class, you're doing so well!" That may sound like praise at the end,
+example, it's not a good idea to say something like "I'm so glad you're here because 
+we don't get enough women in programming." That may sound positive,
 but draws attention to the stereotype that women aren't good at programming. 
 
 > ## Never Learn Alone
