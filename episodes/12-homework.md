@@ -8,6 +8,9 @@ questions:
 objectives:
 - "Describe overnight homework."
 - "Produce a paragraph, drawing, or diagram that summarizes what was taught today."  
+keypoints:
+- "Today we learned about how people learn, how to build a positive classroom environment, and how to give feedback."
+- "Tomorrow we will cover specifics of Carpentries workshops and teaching practices."
 ---
 
 Today we have focused on understanding some core findings of pedagogical research about how the learning process
