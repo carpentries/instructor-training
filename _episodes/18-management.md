@@ -13,8 +13,14 @@ objectives:
 keypoints:
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
 - "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
-
 ---
+
+We now have several tools that can be used for teaching Carpentries workshops
+and improving our skills: live coding; observation and feedback; and how to
+prepare to teach a lesson. This last section includes tips and recommendations for interacting with real
+people in real-life settings -- which for the Carpentries, often means an
+audience with diverse backgrounds and experiences.
+
 ## Managing a Diverse Classroom
 
 Although our workshops are targeted at novices, every workshop
@@ -86,6 +92,11 @@ and hope that they'll understand.
 {: .callout}
 
 ## Code of Conduct Violations
+
+As discussed in the [Motivation episode]({% link _episodes/08-motivation.md %}),
+the Carpentries uses a Code of Conduct as a tool to create a respectful and
+inclusive learning environment. Occasionally, part of managing the classroom
+may include dealing with a Code of Conduct violation. 
 
 If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them, ask them to apologize, and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
 
