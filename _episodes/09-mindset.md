@@ -117,7 +117,7 @@ Another example of how our beliefs (in this case, our emotions) impact learning
 is in how we think about errors.  One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being
 fearful of making them.
 
-*Error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead
+*Positive error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead
 of having negative consequences. For example, the [Language Acquisition Made Practical](http://www.worldcat.org/title/language-acquisition-made-practical-field-methods-for-language-learners/oclc/935845446?referer=di&ht=edition) (LAMP)
 system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By
 being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has
