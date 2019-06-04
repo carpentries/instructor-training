@@ -36,9 +36,11 @@ As you read in your homework last night, there are three final steps to complete
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 > ## Checking Out Review with Questions and Answers
->
-> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [This page]({{ page.root }}/checkout/). Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. What questions do you still have about the checkout process?
->
+> 
+> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
+> Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process. 
+> What questions do you still have about the checkout process?
+> 
 > This exercise should take about 5 minutes.
 {: .challenge}
 
@@ -73,7 +75,10 @@ Lesson contribution is managed within the repository using "issues"
 and "pull requests".  New problems or suggestions can be introduced
 as issues, discussed by the community, and addressed via a pull
 request, which serves as a "request" to make changes, and can also
-be discussed before changes are merged.  
+be discussed before changes are merged.
+
+If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
+that is customized to the Carpentries workflow.
 
 ### What's in a Badge?
 

@@ -24,9 +24,7 @@ about how to get involved.
 
 ## A Brief History
 
-[Software Carpentry]({{ 
-.swc_site }}) was founded in 1998 
-with the mission of teaching lab skills for research computing. 
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing. 
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
@@ -98,18 +96,18 @@ The Carpentries works to help institutions and individuals spread skills for dat
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
 >
 >> ## Solution  
->> Instructors: C
->> Mentors: E
->> Trainers: D
->> Lesson developers: J
->> Curriculum advisors: B
->> Lesson maintainers: F
->> Lesson Infrastructure Team: I
->> Assessment Team: K
->> Champions: L
->> Infrastructure Team: H
->> Regional Coordinator: A
->> Code of Conduct Committee: G
+>> * Instructors: C
+>> * Mentors: E
+>> * Trainers: D
+>> * Lesson developers: J
+>> * Curriculum advisors: B
+>> * Lesson maintainers: F
+>> * Lesson Infrastructure Team: I
+>> * Assessment Team: K
+>> * Champions: L
+>> * Infrastructure Team: H
+>> * Regional Coordinators: A
+>> * Code of Conduct Committee: G
 > {: .solution}
 > This exercise should take about 10 minutes.
 {: .challenge}
@@ -139,7 +137,7 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 ### Materials
 
 All of Software Carpentry, Data Carpentry, and Library Carpentry lessons materials are freely available
-under a permissive [open license]({{ page.root }}/LICENSE).
+under a permissive [open license]({% link LICENSE.md %}).
 You may use them whenever and however you want,
 provided you cite the original source.
 
