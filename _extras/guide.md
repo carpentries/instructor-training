@@ -86,6 +86,14 @@ here are some ways where it's easy to do so without much prep:
 * find + talk about a good (or bad) learning objective in "Lesson Study"
 * have this person monitor the chat (if online) and answer questions, catch "hands"
 
+### Episode order
+
+Experience has shown that the current order of episodes on Day 2 works quite well. 
+If you're a new trainer, we recommend following in the official order. 
+However, the material enough to allow small shifts in lesson order. 
+If you are experimence instructor and you would like to re-arragne the schedule, 
+make sure to communicate with trainees and co-instructors! 
+
 ## III. Online vs In Person Training Events
 
 <a name="online-inperson"></a>
@@ -184,6 +192,11 @@ This is a place for Trainers to leave tips and observations for those newer to t
 learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
 
 ### Welcome
+
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this doesn't happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
+	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
+	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
+
 ### Building Skill with Practice
 ### Expertise and Instruction
 ### Memory and Cognitive Load
@@ -200,31 +213,6 @@ As written, this can run long.  Suggestions:
 ### Mindset
 ### Teaching is a Skill
 ### Wrap-Up and Homework for Tomorrow
-
-### Day 2 general
-
-* The official curriculum has been re-ordered over time and individual trainers have
-experimented with the order of the day 2 episodes. One example/motivation:
-  * From JS: "What happens is that we send participants home at the end of day one with a
-  request to look up more about the Carpentries workshop types and then we ask them what
-  questions they have at the start of day two. While the intent is that these questions
-  will be put in the etherpad and then taken up later in one way or another this doesn't
-   happen or at least only happens in part. The result is either a lot of saying, "We'll
-   cover that this afternoon" or pulling parts of the relevant afternoon sessions into the
-   morning. Participants thus either end up a little frustrated (because they'd really
-   like an answer now) or the schedule ends up being a little fractured."
-  * Note from CK: I've never had the problem described by JS; people are usually willing
-  to wait (especially once we dive into live coding), and I make sure to answer all
-  questions (and take new ones!) in the afternoon.
-  * KW: Another option is to have people put questions into the etherpad in the morning, 
-  and then answer them (in the etherpad) during the live coding practice. Trainees
-  can read them at any time then, and you can refer back to them when necessary.
-  * All that to say: if you're a new trainer, we recommend running in the official order, but
-  if you've taught once or twice, it's possible to rearrange the episodes.  The material
-  is flexible and can be done in many different ways.
-* If rearranging the schedule, make sure to communicate with trainees! Some people
-like to know what's happening throughout the day and will be thrown off by deviations
-from the "official" schedule.
 
 ### Welcome Back
 ### Live Coding	is a Skill
