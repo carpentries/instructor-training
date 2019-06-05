@@ -35,6 +35,8 @@ setting of the two-day training.  These are:
     signing up for a workshop, you will have practiced preparing a lesson and
     doing a brief session of live coding.
 
+Trainees will receive a certification of completion approximately 
+two weeks after completing all the requirements. 
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
