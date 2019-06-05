@@ -82,7 +82,7 @@ that is customized to the Carpentries workflow.
 
 ### What's in a Badge?
 
-Once you have completed all checkout steps, you will receive an email with your Instructor badge! What does this mean?
+Once you have completed all checkout steps, within about 2 weeks you will receive an email with your Instructor badge! What does this mean?
 * **You get to teach!** Badged instructors are certified to co-teach any Carpentries lesson. All Carpentries Instructor badges are acceptable to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While non-badged instructors may also co-teach, every Carpentries branded workshop must have one badged instructor to lead the way.
 * **You get to vote!** Badged instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) for rules governing continuing voting eligibility.
 * **You've got something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
