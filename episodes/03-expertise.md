@@ -19,6 +19,8 @@ keypoints:
 Having previously discussed the transition from novice to competent practitioner,
 via the formation of a mental model, we now shift our attention to experts. It's
 unlikely that you'll be teaching experts; the expert we want to talk about is you!
+You might not yet think of yourself as an expert, but chances are you have already
+advanced to the point where some of these key characteristics -- and potential pitfalls -- apply to you.
 We'll discuss what distinguishes expertise
 from novices/competent practitioners, how being an expert can make it
 more difficult to teach novices, and some tools to help instructors
@@ -133,10 +135,11 @@ seem trivial to you, as they often will.
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
-Another potential challenge for experts who teach is what is called *expert blind spot*.
+Another potential challenge for experts who teach is what we call *expert blind spot*.
 Experts are frequently so familiar with their subject
-that they can no longer imagine what it's like to *not* see the world that way.
-This is called expert blind spot and can lead to what's known as the *expertise-reversal effect* - experts are often
+that they can no longer imagine what it's like to *not* see the world that way - this
+inability to see things from a non-expert perspective is an expert blind spot
+and can lead to what's known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,

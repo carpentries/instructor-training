@@ -235,8 +235,8 @@ It posits that people have to deal with three things when they're learning:
 *   *Extraneous* load is everything else that distracts or gets in the way.
 
 Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning. One
-way to do this is by using *guided practice*: we set up a structure in which learners can test their
-skills and get feedback on their progress.
+way to do this is by using *guided practice*: we set up a structure in which learners can
+apply their skills with direction and get feedback on their progress.
 
 > ## Why We Don't Use Minimal Guidance
 >
@@ -247,10 +247,14 @@ skills and get feedback on their progress.
 > variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
 > or *inquiry-based* learning.
 >
-> Cognitive load theory came out a response to these approaches (in a paper titled "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".)
-> This paper argued that minimal-guidance approaches to teaching ignore both what we know
-> about human cognitive architecture and evidence from many research studies showing that
-> minimally-guided instruction is less effective than guided learning.
+> You may have heard of some of these strategies, and they are not without
+> merit! But they frequently run aground, and when they do it tends to be
+> because of something we call cognitive overload.
+>
+> Cognitive load theory, introduced by Kirshner et al.
+>  (in a paper titled "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".) in response to the
+> popularity and uneven success of these approaches, applies what we know about
+> human cognitive architecture to understand why minimal guidance often fails.
 >
 > Minimally-guided instruction requires learners to simultaneously
 > master a domain's factual content
@@ -258,6 +262,9 @@ skills and get feedback on their progress.
 > Fostering creativity and independence is intuitively appealing,
 > but that doesn't mean it works.
 {: .callout}
+
+Maybe add "
+Then... "" in place of the paragraph below, leading up to line 255.
 
 In the framework of cognitive load, some additional predictions can be made.
 
@@ -371,7 +378,7 @@ Another situation in which a concept map can be helpful is in deciding where to 
 blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
 concept in your concept map.
 
-> ## Create a Faded Example from a Lesson
+> ## Create a Faded Example from a Lesson (Optional)
 >
 > The following exercise should be done in groups of 2-3.
 >
