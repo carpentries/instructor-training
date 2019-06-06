@@ -35,6 +35,16 @@ As you read in your homework last night, there are three final steps to complete
 2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
+> ## Carpentries Tools: Etherpad
+> 
+> The Etherpad is a widely used tools in Carpentries workshops and many other activities in the community. 
+> There are etherpads about a many topics, like the two linked in the checkout instructions above. 
+> To make them all findable, the Carpentries manage a ["pad of pads"](https://pad.carpentries.org/pad-of-pads). 
+> This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
+> of The Carpentries community. 
+> 
+{: .callout}
+
 > ## Checking Out Review with Questions and Answers
 > 
 > In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
