@@ -247,6 +247,28 @@ group is interested.
 
 ### Afternoon Wrap-Up
 
+## VI. Teaching Demonstration Tips
+
+Suggested points to make during introductions:
+* This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
+people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
+we'd like you to change on your next visit. This does not mean we don't want you as an instructor, it means we want you to be
+ready to put your best foot forward in the classroom and we are here to help you do that. (KW)
+* I will not tell anyone that they have passed or ask anyone to repeat during this session. That information will come in the follow up email. (KW)
+* The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
+
+Different ways of managing feedback during the demo:
+* Create your own etherpad and populate it with episode links, feedback templates, whatever. 
+* Use +/- content delivery rubric. (Or use "improvement" in place of "-" as suggested by MC). Keep in mind that some learners
+(like some Trainers) do not have the content expertise to be able to fully evaluate that category for all lessons.
+* If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing 
+notes in the etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
+summarize/disagree/add/emphasize as needed.
+
+Suggested points to make during wrap-up:
+* Thank you for your excellent feedback! Instructors like you help to make this community what it is.
+* I will follow up with each of you by email within ___ (time period). If you don't hear from me by __ feel free to check in.
+
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
 [demos]: https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration
