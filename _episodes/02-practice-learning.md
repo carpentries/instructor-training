@@ -71,9 +71,9 @@ tasks with normal effort under normal circumstances.
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-For now, we are primarily concerned with novices and competent practitioners,
+For now, we are primarily concerned with novices,
 as this tends to characterize the Carpentries audience. (We, as instructors,
-  are more likely to be experts, and we'll
+  are more likely to be competent practitioners or experts, and we'll
 discuss this in a later section).  We'll next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
