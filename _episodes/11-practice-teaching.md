@@ -19,18 +19,31 @@ So far, we've focused on how we can be effective instructors by understanding
 how people learn and how to create a positive classroom environment, covering
 two of our primary goals in helping you become a certified Carpentries instructor.
 Now our focus will shift to developing additional teaching skills that you can
-use in a Carpentries workshop setting, starting with the process "lesson study",
+use in a Carpentries workshop setting, starting with the process of "lesson study",
 or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
 We've seen that providing opportunities for practice
 and giving useful feedback to learners are essential components in the learning
-process. Learning to teach is no different. Instructors develop teaching skill
+process. Learning to teach is no different.
+
+However, many people assume that teachers are born, not made.  From politicians
+to researchers and teachers themselves, most reformers have designed systems to
+find and promote those who can teach and eliminate those who can't.
+As Elizabeth Green describes in *[Building a Better Teacher][worldcat-babt]*, though,
+that assumption is wrong, which is why educational reforms based on it have repeatedly failed.
+
+To assume that teaching is an "inherited" or innate skill is to take on a fixed
+mindset about teaching. A growth mindset believes that anyone can become a better
+teacher by the same methods we use to learn any subject -- reflective practice.
+More specifically, instructors develop teaching skill
 over time through practice and improve most when given feedback on their performance
 from other instructors who share their pedagogical model.
 
-This practice can be seen in a well-developed form in Japan.
+We know that teachers can learn how to teach because of research done on
+the Japanese method of jugyokenkyu or "lesson study."
+
 In the 1980s and 90s, an educational psychologist named James Stigler observed
 teachers in the US and Japan. In the [OECD's annual rankings][oecd-pisa] of countries' educational
 achievements, Japanese students routinely test near the top in reading, math and science, while
@@ -43,10 +56,10 @@ not observe each others' teaching in practice. In contrast, Japanese teachers re
 observing each other at work, discussing the lesson afterward, and studying curriculum materials with their
 colleagues.
 
-The flip side of this process can be seen in many English-language school systems:
-in the US, Canada, the UK, Australia, and elsewhere, where
+The situation is different in many English-language school systems:
+in the US, Canada, the UK, Australia, and elsewhere, where often
 what happens in the classroom stays in the classroom.
-Teachers don't watch each other's lessons on a regular basis,
+Teachers aren't able to watch each other's lessons on a regular basis,
 so they can't borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
@@ -221,7 +234,10 @@ it's OK to remind yourself:
 
 Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to
 use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
-You'll have more opportunities to
+If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong,
+pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills
+are going to improve. By strengthening your growth mindset with respect to teaching, you can
+transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to
 practice teaching and to get and give feedback tomorrow.
 
 
