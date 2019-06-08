@@ -16,14 +16,13 @@ keypoints:
 - "Use formative assessments to avoid overloading short-term memory."
 ---
 
-In our final topic in educational psychology, we'll be learning more about human memory:
+In our final topic in how people learn (and therefore, how we can be more
+effective instructors), we'll be learning more about human memory:
 specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 ## Types of Memory
 
-While the graph model of knowledge is inaccurate but useful,
-another simple model of knowledge has a sound physical basis.
-For our purposes, human memory can be divided into two different
+Learning involves memory. For our purposes, human memory can be divided into two different
 layers.
 The first is called *long-term*.
 It is where we store  persistent information like our passwords and our home address.
@@ -46,27 +45,25 @@ short-term memory is limited. This has important implications for teaching. If w
 our learners with large amounts of information, without giving them the opportunity to
 practice using it (and thereby transfer it into long-term memory), they won't retain
 the material as well as if we present small amounts of information interspersed with
-practice opportunities. This is yet another reason why frequent formative assessment is
-important.
+practice opportunities. This is yet another reason why going slowly and using
+frequent formative assessment is important.
 
 > ## Test Your Working Memory (5 min)
 >
 > [This website][memory-test] implements a short test of working memory.  
-> 
-> Take 5 minutes to complete the exercise. What was your score? Write your answer 
+>
+> Take 5 minutes to complete the exercise. What was your score? Write your answer
 > in the Etherpad.
 >
 {: .challenge}
 
-  
-
 > ## Test Your Working Memory - Analog version (5 min)
 >
 > Read the following list and try to memorize the items in it:
-> 
+>
 > cat, apple, ball, tree, square, head, house, door, box, car, king,
 > hammer, milk, fish, book, tape, arrow, flower, key, shoe
-> 
+>
 > Without looking at the list again, write down as many words from the list as
 > you can. How many did you remember? Write your answer in the Etherpad.
 >
@@ -80,6 +77,14 @@ workshops.
 
 ## Strategies For Memory Management
 
+Our role as instructors, therefore, is to help our learners by not flooding their
+short term memory with too much information, partially by providing strategies
+and exercises to help them form the connections that will move concepts into
+long-term memory. What are some tools for doing this?
+
+### Chunking
+
+One is by explicitly forming connections or groupings.  
 Our minds can store larger numbers of facts in short-term memory by creating *chunks*, or
 relationships among separate items, causing them to be remembered as a single item.
 For example, most of us will remember a word we read as a single item ("cat"), rather
@@ -102,7 +107,7 @@ more information in your head at once. This is one reason
 why helping our learners to see the connections among
 the concepts we are teaching is so important.  
 
-## Active Learning Through Formative Assessment
+### Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding
 and transfer ideas from short-term memory into long-term memory. It's important
@@ -111,6 +116,13 @@ into their long-term memory, before their short-term memory fills up. It can
 be helpful to use pedagogical planning tools to identify the number of concepts
 that are being introduced in a lesson and plan where to include formative
 assessments.
+
+### Limit concepts
+
+In the same vein as "going slowly," it's important to limit the number of
+concepts introduced in a lesson; no matter how many exercises or formative
+assessments you do, you can't overcome the limit of items that can be
+shored in short-term memory.
 
 ## Concept Maps as Instructional Planning Tools
 
@@ -169,7 +181,9 @@ short-term memory.
 
 It's very important to use a technique like concept mapping for a lesson
 before teaching it - an instructor needs to identify just how many pieces of
-separate information will need to be "stored" in memory during each part of the lesson.
+separate information will need to be "stored" in memory during each part of the lesson. This
+can be particularly useful for experts who are trying to unpack their own
+knowledge.
 
 > ## Concept Mapping
 >
@@ -211,26 +225,8 @@ separate information will need to be "stored" in memory during each part of the 
 
 ## Why Guided Practice is Important
 
-The quality of practice that is provided to learners is very important. In Carpentry
-workshops, we use *guided practice*: we set up a structure in which learners can test their
-skills and get feedback on their progress. This contrasts with another teaching strategy
-variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
-or *inquiry-based* learning.
-
-In 2006, these types of teaching were the subject of a paper titled "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".
-
-This paper argued that minimal-guidance approaches to teaching ignore both what we know
-about human cognitive architecture and evidence from many research studies showing that
-minimally-guided instruction is less effective than guided learning.
-
-Minimally-guided instruction requires learners to simultaneously
-master a domain's factual content
-and its search and problem-solving strategies.
-Fostering creativity and independence is intuitively appealing,
-but that doesn't mean it works.
-
-One of the paper's authors (Sweller) proposed an alternative
-based on the theory of *[cognitive load][wikipedia-cognitive-load]*.
+Another way to think about the challenge of managing memory is through
+the theory of *[cognitive load][wikipedia-cognitive-load]*.
 It posits that people have to deal with three things when they're learning:
 
 *   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
@@ -238,9 +234,33 @@ It posits that people have to deal with three things when they're learning:
     (which is one of the things that distinguishes learning from memorization).
 *   *Extraneous* load is everything else that distracts or gets in the way.
 
-Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning.
+Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning. One
+way to do this is by using *guided practice*: we set up a structure in which learners can
+apply their skills with direction and get feedback on their progress.
 
-In the framework of cognitive load, some predictions can be made.
+> ## Why We Don't Use Minimal Guidance
+>
+> An alternative to guided practice is a *minimal guidance* approach, where
+> learners are given raw materials (for example a text or reference) and
+> asked to explore and learn to solve problems on their own.
+> Minimal guidance practice comes from another teaching strategy
+> variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
+> or *inquiry-based* learning.
+>
+> You may have heard of some of these strategies, and they are not without
+> merit! But they frequently fall flat. Cognitive load theory, introduced by [Kirshner et al.][kirschner-paper] 
+> in response to the popularity and uneven success of these approaches, applies what we know about
+> human cognitive architecture to understand why minimal guidance often fails.
+>
+> Minimally-guided instruction requires learners to simultaneously
+> master a domain's factual content
+> and its search and problem-solving strategies.
+> Fostering creativity and independence is intuitively appealing,
+> but that doesn't mean it works.
+{: .callout}
+
+In the framework of cognitive load, some additional predictions can be made.
+
 One example is work by Mayer and colleagues on
 the *[split-attention effect][wikipedia-split-attention]*.
 Linguistic and visual input are processed by different parts of the human brain,
@@ -255,14 +275,23 @@ in two different channels is redundant, rather than different.
 
 For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
 
-## Faded Examples
+## Guided Practice at Work
+
+How do we implement guided practice, lessening the burden of extraneous
+cognitive load and allow people to focus on what's important?  There are
+many different types of exercises that implement this guided practice; some
+are listed in this [blog post by Greg Wilson][GW-exercise-post], including
+Parson's Problems and labelling diagrams.
+
+To learn more about a specific guided practice exercise
+called *faded examples*, read on.
 
 According to cognitive load theory,
 searching for a solution strategy is an extra burden
 on top of applying that strategy.
 We can therefore accelerate learning
 by giving learners worked examples that show them a problem and a detailed step-by-step solution,
-followed by a series of *faded examples*.
+followed by a series of faded examples.
 The first of these presents a nearly-complete use of the same problem-solving strategy
 with a small number of blanks for the learner to fill in.
 The next problem is also of the same type,
@@ -342,7 +371,7 @@ Another situation in which a concept map can be helpful is in deciding where to 
 blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
 concept in your concept map.
 
-> ## Create a Faded Example from a Lesson
+> ## Create a Faded Example from a Lesson (Optional)
 >
 > The following exercise should be done in groups of 2-3.
 >
@@ -353,17 +382,17 @@ concept in your concept map.
 > 5.  Paste your faded example in the Etherpad.
 >
 > This exercise should take about 10 minutes.
-> 
+>
 >> ## Solution
->> 
+>>
 >> Your solution to this exercise could look similar to the example
 >> given above, or something like this:
 >>
 >> **Question**  
->> In this example, we will graph the change in life expectancy over time 
+>> In this example, we will graph the change in life expectancy over time
 >> as a line graph, giving each country a unique color and each continent
 >> its own unique panel or facet.  
->> What would you add to the blank spaces to create this graph? 
+>> What would you add to the blank spaces to create this graph?
 >>```
 >> ggplot(data = az.countries, aes(x = year, y = lifeExp, color = ________)) +
 >>   geom_line() +  facet_wrap( ~ _______)
@@ -372,7 +401,7 @@ concept in your concept map.
 >>**Answer** `country` and  `continent`
 >>
 >{: .solution}
-> 
+>
 {: .challenge}
 
 ## Summary
@@ -380,10 +409,11 @@ The process of learning is constrained by the limits of short-term memory. In or
 new information into long-term memory, it must be actively applied, but activities that
 make excessive demands on short-term memory are likely to induce cognitive overload and can
 easily harm learner motivation. Instructional tools that expand short-term memory by
-increasing connectivity (chunking) among new concepts, such as concept mapping, can improve
+increasing connectivity (chunking) among new concepts can improve
 outcomes for subsequent memory-intensive exercises. Formative assessments, when performed
 frequently, help learners by prompting them to apply new content before it has been
-overwritten. Faded examples both minimize demands on short-term memory and offer context that
+overwritten. Faded examples or other types of guided practice
+both minimize demands on short-term memory and offer context that
 helps improve connectivity for future work, in which the "scaffolding" of contextual support
 can be gradually removed.
 Anything you can do to a) recognize and b) support learners in working with the
@@ -396,3 +426,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
+[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types.html
