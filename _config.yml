@@ -95,6 +95,7 @@ exclude:
   - Makefile
   - bin/
   - .Rproj.user/
+  - files/rubric.md
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge

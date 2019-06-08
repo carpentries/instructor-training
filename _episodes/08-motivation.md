@@ -96,7 +96,7 @@ motivating.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise/#limitations-of-expertise).
+> please revisit the discussion of [expert blind spot]({% link _episodes/03-expertise.md %}#limitations-of-expertise).
 {: .callout}
 
 ## Other Motivational Strategies  
@@ -293,6 +293,7 @@ but draws attention to the stereotype that women aren't good at programming.
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
+
 ### Impostor Syndrome
 
 Another major psychological demotivator is *[impostor syndrome][wikipedia-impostor-syndrome]*.
@@ -400,6 +401,14 @@ about accessibility.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
+
+> ## Accessibility and PDFs
+>
+> The posters above are in PDF format - which itself can sometimes be inaccessible to people
+> who use screen readers. If you know of a similar resource describing accessibility guidelines
+> that would be more accessible than what's linked above, open an issue on our instructor
+> training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
+{: .callout}
 
 The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
 is a good starting point focused primarily on assisting the visually impaired,
