@@ -15,26 +15,34 @@ keypoints:
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
 
-So far, we've focused on how we can be effective instructors in helping our learners
-develop computational skills. We've seen that providing opportunities for practice
-and giving useful feedback to learners are essential components in the learning
-process. Learning to teach is no different. Instructors develop teaching skill
-over time through practice and improve most when given feedback on their performance
-from other instructors who share their pedagogical model. In this section, we'll
-discuss how instructors improve their teaching and give you some opportunities to
-practice.
+So far, we've focused on how we can be effective instructors by understanding
+how people learn and how to create a positive classroom environment, covering
+two of our primary goals in helping you become a certified Carpentries instructor.
+Now our focus will shift to developing additional teaching skills that you can
+use in a Carpentries workshop setting, starting with the process of "lesson study",
+or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
-Many people assume that teachers are born, not made.
-From politicians to researchers and teachers themselves,
-most reformers have designed systems to find and promote those who can teach
-and eliminate those who can't.
-As Elizabeth Green describes in
-*[Building a Better Teacher][worldcat-babt]*,
-though,
-that assumption is wrong,
-which is why educational reforms based on it have repeatedly failed.
+We've seen that providing opportunities for practice
+and giving useful feedback to learners are essential components in the learning
+process. Learning to teach is no different.
+
+However, many people assume that teachers are born, not made.  From politicians
+to researchers and teachers themselves, most reformers have designed systems to
+find and promote those who can teach and eliminate those who can't.
+As Elizabeth Green describes in *[Building a Better Teacher][worldcat-babt]*, though,
+that assumption is wrong, which is why educational reforms based on it have repeatedly failed.
+
+To assume that teaching is an "inherited" or innate skill is to take on a fixed
+mindset about teaching. A growth mindset believes that anyone can become a better
+teacher by the same methods we use to learn any subject -- reflective practice.
+More specifically, instructors develop teaching skill
+over time through practice and improve most when given feedback on their performance
+from other instructors who share their pedagogical model.
+
+We know that teachers can learn how to teach because of research done on
+the Japanese method of jugyokenkyu or "lesson study."
 
 In the 1980s and 90s, an educational psychologist named James Stigler observed
 teachers in the US and Japan. In the [OECD's annual rankings][oecd-pisa] of countries' educational
@@ -48,15 +56,10 @@ not observe each others' teaching in practice. In contrast, Japanese teachers re
 observing each other at work, discussing the lesson afterward, and studying curriculum materials with their
 colleagues.
 
-Closely observing work in this way in order to improve it is commonplace in sports and music.
-A professional musician, for example,
-will dissect half a dozen different recordings of "Body and Soul" or "Smells Like Teen Spirit" before performing it.
-They would also expect to get feedback from fellow musicians during practice and after performances.
-
-But this kind of feedback isn't part of teaching culture in English-language school systems:
-in the US, Canada, the UK, Australia, and elsewhere,
+The situation is different in many English-language school systems:
+in the US, Canada, the UK, Australia, and elsewhere, where often
 what happens in the classroom stays in the classroom.
-Teachers don't watch each other's lessons on a regular basis,
+Teachers aren't able to watch each other's lessons on a regular basis,
 so they can't borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
@@ -79,9 +82,11 @@ forward momentum on system-wide improvements to teaching.
 > these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
 
-The Carpentries pedagogical model supports lesson study by providing many opportunities for our instructors
+Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
+observing the work of others.  The Carpentries pedagogical model supports lesson
+study by providing many opportunities for our instructors
 to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
-and to give each other feedback, you'll also have the opportunity to practice in front of an experienced instructor
+and to give each other feedback.  You'll also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
@@ -155,30 +160,36 @@ helps overcome two common tendencies when giving feedback on teaching: to focus 
 only positive feedback.
 
 Here is a list of different
-ways that you, as the instructor, can set the stage for receiving feedback
-in a way that helps you improve:
+ways that you can set the stage for receiving or providing feedback
+in a way that facilitates growth.
 
-*   Initiate feedback.  It's better to ask for feedback than to receive it unwillingly.
+*   Initiate feedback as the instructor. It's better to ask for feedback than to receive it unwillingly.
 
-*   Choose your own questions and ask for specific feedback.  For example:
+*   Ask for and give specific feedback. See a great example of this from
+  this Lunar Baboon comic: ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
+  As an instructor one way to get specific feedback is to provide questions that
+  focus the responses.  Writing your own feedback questions allows you to frame
+  feedback in a way that is helpful to you - the questions below
+  reveal what didn't work in your teaching, but read as professional suggestions rather than personal judgments.
+  For example:
     *   "What is one thing I could have done as an instructor to make this
         lesson more effective?"
     *   "If you could pick one thing from the lesson to go over again, what
 	would it be?"
 
-Specific feedback like this is more useful than a generic "That was great!" or "That
-was terrible!"  Also, writing your own feedback questions allows you to frame
-feedback in a way that is helpful to you - the questions above
-reveal what didn't work in your teaching, but
-read as professional suggestions rather than personal judgments.
+* Balance positive and negative feedback.
+    * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
+    * Ask for both types of feedback, and give both types.
+
+* When sharing negative feedback, provide a clear next step to follow that will help the recipient improve.
 
 * Communicate expectations. If your teaching feedback is taking the form of an
   observation (and you're comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* Balance positive and negative feedback.
-    * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
-    * Ask for both types of feedback
+* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so don't
+be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
+with the feedback you gave.  
 
 * Use a feedback translator.  Have a fellow
   instructor (or other trusted person in the room) read over all the feedback and give
@@ -194,20 +205,11 @@ but more importantly,
 it's a chance for instructors to learn from one another and be a supportive voice
 in the room.
 
-Finally, be kind to yourself.
-Mental habits matter: if you're a self-critical person,
-it's OK to remind yourself that:
+Finally, be kind to yourself. If you're a self-critical person,
+it's OK to remind yourself:
 
-*   It's not personal.
-*   Look at the positives along with the negatives.
-
-![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
-
-Giving good feedback is at least as important as knowing how to receive and process feedback. When
-giving feedback, stay positive, be specific and give your feedback recipient a clear next step to follow that
-will help them improve. Remember that giving and receiving feedback is a skill that requires practice, so don't
-be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
-with the feedback you gave.  
+*   The feedback isn't personal.
+*   There are always positives along with the negatives.
 
 > ## Feedback on Feedback (Optional)
 >
@@ -232,8 +234,9 @@ with the feedback you gave.
 
 Hopefully you were able to identify at least one helpful comment in the feedback you received and are able to
 use it to start (or continue) the process of improving your teaching. Remember, teaching is a skill that is learned.
-If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, you
-may have a fixed mindset about teaching. By strengthening your growth mindset with respect to teaching, you can
+If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong,
+pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills
+are going to improve. By strengthening your growth mindset with respect to teaching, you can
 transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to
 practice teaching and to get and give feedback tomorrow.
 

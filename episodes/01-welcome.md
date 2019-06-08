@@ -46,6 +46,7 @@ instructor training.  We're very pleased to have you with us.
 > 
 > (For some guidelines on introducing yourself, see some content from 
 > later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/19-introductions/index.html))
+
 {: .discussion}
 
 Now we would like to get to know all of you.
