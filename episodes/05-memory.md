@@ -248,12 +248,8 @@ apply their skills with direction and get feedback on their progress.
 > or *inquiry-based* learning.
 >
 > You may have heard of some of these strategies, and they are not without
-> merit! But they frequently run aground, and when they do it tends to be
-> because of something we call cognitive overload.
->
-> Cognitive load theory, introduced by Kirshner et al.
->  (in a paper titled "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching][kirschner-paper]".) in response to the
-> popularity and uneven success of these approaches, applies what we know about
+> merit! But they frequently fall flat. Cognitive load theory, introduced by [Kirshner et al.][kirschner-paper] 
+> in response to the popularity and uneven success of these approaches, applies what we know about
 > human cognitive architecture to understand why minimal guidance often fails.
 >
 > Minimally-guided instruction requires learners to simultaneously
@@ -262,9 +258,6 @@ apply their skills with direction and get feedback on their progress.
 > Fostering creativity and independence is intuitively appealing,
 > but that doesn't mean it works.
 {: .callout}
-
-Maybe add "
-Then... "" in place of the paragraph below, leading up to line 255.
 
 In the framework of cognitive load, some additional predictions can be made.
 
