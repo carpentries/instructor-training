@@ -2,7 +2,7 @@
 title: "Building Skill With Practice"
 block: "How Learning Works"
 teaching: 20
-exercises: 45
+exercises: 40
 questions:
 - "How do people learn?"
 - "Who is a typical Carpentries learner?"
@@ -309,7 +309,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 >
 > For one of the above, enter your answer in the Etherpad.   
 >
-> This discussion should take about 10 minutes.
+> This discussion should take about 5 minutes.
 >
 >> ## Solution
 >> 1. If the majority of the class votes for a single wrong answer, you should go back
