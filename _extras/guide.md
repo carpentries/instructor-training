@@ -3,7 +3,7 @@ layout: page
 title: "Instructor Notes"
 ---
 
-Table of Contents 
+Table of Contents
 
 * [I. Information For and About Instructor Trainers](#more-info)
 * [II. Running an Instructor Training Event (General)](#general)
@@ -59,18 +59,18 @@ Details about the Instructor Trainer role including the application process, dut
 ### Using Slides
 
 Whether or not slides should be used be used during instructor training
-is a subject of [frequent discussion][great-slide-issue]. 
+is a subject of [frequent discussion][great-slide-issue].
 
-The main **advantage** is that slides provide a visual aid when explaining 
-complex concepts or when presenting learning objectives and challenges. 
-The most notable **disadvantage** is that it can give the false impression 
+The main **advantage** is that slides provide a visual aid when explaining
+complex concepts or when presenting learning objectives and challenges.
+The most notable **disadvantage** is that it can give the false impression
 that it is okay to use slides rather than live coding in SWC/DC/LC workshops
-For online instructor training events, there are two additional risks: 
+For online instructor training events, there are two additional risks:
 the slides may fail to advance using Zoom's screen share feature and
-you risk losing the audience's attention because your face is less prominent. 
+you risk losing the audience's attention because your face is less prominent.
 
-If you chose to use slides in your workshop, 
-this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides. 
+If you chose to use slides in your workshop,
+this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides.
 
 ### General Preparation
 
@@ -78,13 +78,21 @@ TBA
 
 ### Using Helpers/Co-Instructors
 
-If you have a helper for the training, or want to involve your co-instructor more, 
-here are some ways where it's easy to do so without much prep: 
+If you have a helper for the training, or want to involve your co-instructor more,
+here are some ways where it's easy to do so without much prep:
 * give an example of a mental model in "The Importance of Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
 * find + talk about a good (or bad) learning objective in "Lesson Study"
 * have this person monitor the chat (if online) and answer questions, catch "hands"
+
+### Episode order
+
+Experience has shown that the current order of episodes on Day 2 works quite well. 
+If you're a new trainer, we recommend following in the official order. 
+However, the material enough to allow small shifts in lesson order. 
+If you are experimence instructor and you would like to re-arragne the schedule, 
+make sure to communicate with trainees and co-instructors! 
 
 ## III. Online vs In Person Training Events
 
@@ -110,7 +118,7 @@ here are some ways where it's easy to do so without much prep:
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.
 - See section IV below for more tips.  
 
-## IV. Using Zoom  for Online Trainings 
+## IV. Using Zoom  for Online Trainings
 
 <a name="zoom"></a>
 
@@ -145,9 +153,9 @@ you’re not the host, please contact Carpentry staff immediately.
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
 - **Shared notes tips**
-  - No matter what kind of shared doc you are using, it's usually a good idea to create 
+  - No matter what kind of shared doc you are using, it's usually a good idea to create
   two documents -- one for each day of the training.  
-    - Suggestion from AN: create a third doc for sharing concept maps, since they are 
+    - Suggestion from AN: create a third doc for sharing concept maps, since they are
     images and can slow down the document.  
   - Etherpad pros + cons
     - Pros: line numbers
@@ -156,12 +164,12 @@ you’re not the host, please contact Carpentry staff immediately.
     - Pros: richer formatting
     - Cons: no line numbers
 - **Zoom tips**
-  - Announce *at the beginning* of the training that all participants should mute when 
-  they are not talking.  You may need to repeat this a few times during the early part 
+  - Announce *at the beginning* of the training that all participants should mute when
+  they are not talking.  You may need to repeat this a few times during the early part
   of the training, until people are doing it consistently.  
   - In general, it works best to have everyone use zoom individually on their computers
-  (so you can see everyone's faces); for trainings where some of the participants are 
-  co-located, have them use their own computer for video but pick one person to use 
+  (so you can see everyone's faces); for trainings where some of the participants are
+  co-located, have them use their own computer for video but pick one person to use
   for mic/sound.  
   - “Gallery view” in the upper right toggles the display to show more participants' videos.  
   - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
@@ -180,27 +188,33 @@ This is a place for Trainers to leave tips and observations for those newer to t
 
 ### Breaks
 
-* Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give 
+* Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give
 learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
 
-### Welcome	
+### Welcome
+
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this doesn't happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
+	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
+	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
+
 ### Building Skill with Practice
-### Expertise and Instruction	
-### Memory and Cognitive Load	
+### Expertise and Instruction
+### Memory and Cognitive Load
 
 * FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
 
-### Building Skill with Feedback	
+### Building Skill with Feedback
 ### Motivation and Demotivation
 
-As written, this can run long.  Suggestions: 
+As written, this can run long.  Suggestions:
 
 * CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
 
 ### Mindset
 ### Teaching is a Skill
-### Wrap-Up and Homework for Tomorrow	
-### Welcome Back	
+### Wrap-Up and Homework for Tomorrow
+
+### Welcome Back
 ### Live Coding	is a Skill
 ### Lesson Study
 ### More Practice Live Coding
@@ -208,27 +222,27 @@ As written, this can run long.  Suggestions:
 
 ### The Carpentries: How We Operate
 
-* CK: Not an "official" exercise, but after explaining the workshops and how to run them, 
+* CK: Not an "official" exercise, but after explaining the workshops and how to run them,
 go around the room, asking each person if they have a question + then answer them.  
 
 * Exercise: Creating a Workshop Website
-   * CK: This takes some time, so some people opt to skip this section.  Inevitably, 
+   * CK: This takes some time, so some people opt to skip this section.  Inevitably,
    when working with a group of mixed experience with GitHub, some will be able
-   to zip through this exercise, where others will struggle.  We **have** gotten 
-   positive feedback about this exercise as well, where learners felt like it was 
-   a valuable experience. Can be especially valuable for groups that will probably 
-   be running workshops on their own (so open trainings, or trainings for folks 
+   to zip through this exercise, where others will struggle.  We **have** gotten
+   positive feedback about this exercise as well, where learners felt like it was
+   a valuable experience. Can be especially valuable for groups that will probably
+   be running workshops on their own (so open trainings, or trainings for folks
    who are ready to get started right away).  
 
-* CK: The coffee break after this would be a great time for an "Ask and Offer" if the 
-group is interested. 
+* CK: The coffee break after this would be a great time for an "Ask and Offer" if the
+group is interested.
 
 ### Workshop Introductions
 
 * More or less time
-    * CK: The second major exercise (writing a mini-introduction and then 
-    practicing) can be made longer if you have the time or people are 
-    very keen on practicing their introductions.  Instead of 2 minutes, 
+    * CK: The second major exercise (writing a mini-introduction and then
+    practicing) can be made longer if you have the time or people are
+    very keen on practicing their introductions.  Instead of 2 minutes,
     people could talk for 4-5 minutes each.  
 
 ### Afternoon Wrap-Up

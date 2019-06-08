@@ -46,6 +46,6 @@ Feedback on these materials is welcome as an [issue][issues] on the GitHub repos
 **These materials are freely available under a [Creative Commons license][license].**
 
 [application-form]: https://amy.software-carpentry.org/forms/request_training/
-[conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct
+[conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [license]: {{ page.root }}/LICENSE.html
 [issues]: {{ site.github.repository_url }}/issues
