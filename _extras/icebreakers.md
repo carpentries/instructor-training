@@ -5,6 +5,18 @@ title: "Icebreakers"
 
 ## Icebreaker Ideas
 
+### Information for Today's Learners
+
+1. Add your name to the Etherpad
+1. Introduce yourselves (preferably verbally)! In your introduction, (a) explain your work in 3 words and (b) say something you are proud of (not necessarily related to research or teaching).
+
+### Our First Exercise
+
+In the Etherpad, write down your name, the best class you ever
+took (or one class from your top ten, if you can't decide), and
+what made it so great.
+This exercise should take about 2 minutes.
+
 ### Something Surprising
 
 Find someone who shares something surprising with you (e.g. your pet has the same name,
@@ -13,18 +25,6 @@ you come back from break and vote on the most surprising.
 
 We really want you to get to know your fellow learners and become comfortable interacting. There
 will be several interactive activities in the next two days. Let's all start bonding now.
-
-### Why Are We Here?  
-
-Talk to people about why they are taking this course.
-How do their reasons compare to yours?
-
-### Past Experiences
-
-If you have taken part in a Software, Data, or Library Carpentry workshop,
-how do your experiences compare to those of other people?
-If you haven't,
-what questions do you have that they might be able to answer?
 
 ### Discussing Concept Maps
 
@@ -46,7 +46,7 @@ the ways you have been shown?
 
 ### Favorite Food
 What is your favorite food?
-It be a meal or snack, something you eat often or only on special occassions. 
+It be a meal or snack, something you eat often or only on special occassions.
 
 ### Teaching Passion
 
