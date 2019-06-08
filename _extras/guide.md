@@ -249,6 +249,8 @@ group is interested.
 
 ## VI. Teaching Demonstration Tips
 
+This section contains tips and tricks on demo hosting that may be contributed by any Trainer describing things that work for them. For official/technical guidelines on how to run a demo, see the [Handbook].(https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration)
+
 Suggested points to make during introductions:
 * This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
 people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
