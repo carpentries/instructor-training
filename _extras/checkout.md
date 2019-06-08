@@ -17,7 +17,8 @@ fully certified as a Carpentries instructor:
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but
-you can complete them in any order.
+you can complete them in any order. Trainees will receive a certificate of completion approximately 
+two weeks after completing all the requirements. 
 
 These checkout steps aim to introduce you to key components of being a Carpentries instructor that are difficult to fully cover in the classroom
 setting of the two-day training.  These are:
@@ -34,6 +35,7 @@ setting of the two-day training.  These are:
 3.  Practicing and confirming the skills you need to teach on your own.  Before
     signing up for a workshop, you will have practiced preparing a lesson and
     doing a brief session of live coding.
+
 
 Trainees will have three months to complete the checkout exercises. Extensions may be granted at the discretion of Carpentries staff
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
