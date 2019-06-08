@@ -222,6 +222,11 @@ the [workshop coordinator](mailto:admin@software-carpentry.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
+You may also create an etherpad for your own Carpentries-related events. When you point a browser to a url at
+`pad.carpentries.org/name-of-pad` you will either arrive at an existing etherpad by that name or a brand new 
+etherpad with basic Carpentries information at the top.  For workshops we use `year-month-day-venue` as the name
+to ensure unique names. 
+
 > ## Practice With The Carpentries Infrastructure
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }})
