@@ -22,8 +22,7 @@ Registration for each event closes one week before that event. You may change or
 * March 20-21, 2019 (UTC -8) *Registration closed*
 * April 22-23, 2019 (UTC -7)  *Registration closed*
 * May 30-31, 2019 (UTC -7)  *Registration closed*
-* [June 18-19, 2019](https://www.eventbrite.com/e/online-instructor-training-june-18-19-pdt-tickets-59709046365) (UTC -7) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190618T09&p1=3921).
-
+* June 18-19, 2019 (UTC -7) *Registration closed*
 
 #### Mountain time
 * [July 23-24, 2019](https://www.eventbrite.com/e/online-instructor-training-july-23-24-mdt-tickets-59840643977)  (UTC -6) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190623T09&p1=3920)
