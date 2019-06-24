@@ -88,11 +88,11 @@ here are some ways where it's easy to do so without much prep:
 
 ### Episode order
 
-Experience has shown that the current order of episodes on Day 2 works quite well. 
-If you're a new trainer, we recommend following in the official order. 
-However, the material enough to allow small shifts in lesson order. 
-If you are experimence instructor and you would like to re-arragne the schedule, 
-make sure to communicate with trainees and co-instructors! 
+Experience has shown that the current order of episodes works quite well. 
+If you're a new Trainer, we recommend following the official order, however, 
+the material is flexible enough to allow small shifts in episode order. 
+If you are an experienced Trainer and you would like to re-arrange the schedule, 
+make sure to communicate with your trainees and co-Trainers! 
 
 ## III. Online vs In Person Training Events
 
