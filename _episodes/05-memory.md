@@ -172,6 +172,7 @@ are listed below:
 * [Input and Output](../fig/io.png)
 * [Lists and Loops](../fig/lists-loops.png)
 * [Git Version Control](../fig/git_concept_map.png)
+* [Library Carpentry Foundations](../fig/lc-foundations.png)
 
 Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing. An instructor can
