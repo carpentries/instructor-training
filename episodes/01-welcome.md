@@ -45,7 +45,7 @@ instructor training.  We're very pleased to have you with us.
 > To begin class, each Trainer should give a brief introduction of themselves.
 >
 > (For some guidelines on introducing yourself, see some content from
-> later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/19-introductions/index.html))
+> later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/23-introductions/index.html))
 
 {: .discussion}
 
