@@ -69,7 +69,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> have questions not directly addressed in the text of the lesson.
 >> * It can be hard for learners to listen and type at the same time, due to the  
 >> *split-attention effect* we
->> [discussed earlier]({% link _episodes/05-memory.md %}#why-guided-practice-is-important).
+>> [discussed earlier]({{ page.root }}/05-memory.md %}#why-guided-practice-is-important).
 >> This is why it's
 >> very important that instructors first explain what they're going to do, then
 >> say what they are typing as they type it, and then
@@ -85,7 +85,7 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It's
 important to keep in mind, however, that feedback isn't helpful if you can't understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier]({% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
+[we learned earlier]({{ page.root }}/09-mindset.md %}#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
 
 > ## Compare and Contrast
 >
