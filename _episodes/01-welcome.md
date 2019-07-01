@@ -23,7 +23,7 @@ keypoints:
 >
 > If the trainer has chosen an [icebreaker question]({{training_site}}/extras/icebreakers.html),
 > participate by writing your answers in the course's shared notes.
-> {: .exercise}
+{: .challenge}
 
 ## Code of Conduct
 
@@ -35,7 +35,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 
 > Introductions set the stage for learning.
 > — Tracy Teal, Executive Director, The Carpentries
-{: .quotation}
+{: .testimonial}
 
 Hello everyone, and welcome to the the Carpentries
 instructor training.  We're very pleased to have you with us.
@@ -46,7 +46,6 @@ instructor training.  We're very pleased to have you with us.
 > 
 > (For some guidelines on introducing yourself, see some content from 
 > later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/19-introductions/index.html))
-
 {: .discussion}
 
 Now we would like to get to know all of you.
