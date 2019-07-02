@@ -7,8 +7,8 @@ questions:
 - "How can I improve my teaching?"
 objectives:
 - "Use peer-to-peer lesson practice to transform your instruction."
-- "Give thoughtful and useful feedback."  
-- "Incorporate feedback into your teaching practices."  
+- "Give thoughtful and useful feedback."
+- "Incorporate feedback into your teaching practices."
 keypoints:
 - "Like all other skills, good teaching requires practice and feedback."
 - "Lesson study is essential to transferring skills among teachers."
@@ -99,7 +99,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 > Organize your feedback along two axes:
 > positive vs. negative
 > and content (what was said) vs. presentation (how it was said).
-> This exercise should take about 10 minutes.  
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 Now that you've had some practice observing teaching and giving feedback, let's practice with each other.
@@ -107,7 +107,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > ## Feedback on Yourself
 >
 > The goal of this exercise is to practice giving and receiving feedback, so don't be
-> overly concerned about creating a perfectly polished presentation.  
+> overly concerned about creating a perfectly polished presentation.
 > We don't give you a lot of time to prep and the teaching time is short, so embrace
 > the challenge (and improvisation) of the exercise and see what you can learn by
 > watching other people teach, thinking about how to give them feedback, and how it
@@ -142,7 +142,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > but do not record each other. Instead, give each person feedback immediately after they finish their
 > turn teaching.
 >
-> This exercise should take about 25 minutes.  
+> This exercise should take about 25 minutes.
 {: .challenge}
 
 ## Feedback Is Hard
@@ -167,6 +167,7 @@ in a way that facilitates growth.
 
 *   Ask for and give specific feedback. See a great example of this from
   this Lunar Baboon comic: ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
+
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
   feedback in a way that is helpful to you - the questions below
@@ -189,7 +190,7 @@ in a way that facilitates growth.
 
 * When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so don't
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
-with the feedback you gave.  
+with the feedback you gave.
 
 * Use a feedback translator.  Have a fellow
   instructor (or other trusted person in the room) read over all the feedback and give
@@ -218,7 +219,7 @@ it's OK to remind yourself:
 > For each, give feedback following the 2x2
 > model. Put your feedback in the Etherpad.
 >
-> This exercise and discussion should take about 15 minutes.  
+> This exercise and discussion should take about 15 minutes.
 {: .challenge}
 
 > ## Using Feedback
