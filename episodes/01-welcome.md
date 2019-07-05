@@ -34,7 +34,8 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 ## Introductions
 
 > Introductions set the stage for learning.
-> — Tracy Teal, Executive Director, The Carpentries
+> 
+> --- Tracy Teal, Executive Director, The Carpentries
 {: .testimonial}
 
 Hello everyone, and welcome to the the Carpentries
