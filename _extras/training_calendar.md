@@ -41,7 +41,7 @@ Registration for each event closes one week before that event. You may change or
 * March 11-12, 2019 (UTC -4) *Registration closed*
 * May 21-22, 2019 (UTC -4)  *Registration closed* 
 * June 3-4, 2019 (UTC -4) *Registration closed* 
-* [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190729T09&p1=3918)
+* [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190729T09&p1=3918) *This event is full but you may join the waitlist with your registration code*
 
 # Europe and Africa
 
