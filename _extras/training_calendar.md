@@ -25,8 +25,7 @@ Registration for each event closes one week before that event. You may change or
 * June 18-19, 2019 (UTC -7) *Registration closed*
 
 #### Mountain time
-* [July 23-24, 2019](https://www.eventbrite.com/e/online-instructor-training-july-23-24-mdt-tickets-59840643977)  (UTC -6) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190623T09&p1=3920)
-
+* July 23-24, 2019 (UTC -6) *Event Canceled*
 
 #### Central time
 * January 10-11, 2019 (UTC -6) *Registration closed*
