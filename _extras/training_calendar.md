@@ -23,8 +23,8 @@ Registration for each event closes one week before that event. You may change or
 * April 22-23, 2019 (UTC -7)  *Registration closed*
 * May 30-31, 2019 (UTC -7)  *Registration closed*
 * June 18-19, 2019 (UTC -7) *Registration closed*
-* [September 5-6, 2019](https://www.eventbrite.com/e/online-instructor-training-september-5-6-n-america-pacific-time-tickets-65407558769)  (UTC -7)
-* [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)
+* [September 5-6, 2019](https://www.eventbrite.com/e/online-instructor-training-september-5-6-n-america-pacific-time-tickets-65407558769)  (UTC -7)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-09-05-ttt-PDT&iso=20190905T09&p1=137)
+* [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137)
 
 #### Mountain time
 * July 23-24, 2019 (UTC -6) *Event Canceled*
@@ -43,7 +43,7 @@ Registration for each event closes one week before that event. You may change or
 * May 21-22, 2019 (UTC -4)  *Registration closed* 
 * June 3-4, 2019 (UTC -4) *Registration closed* 
 * [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190729T09&p1=3918). *This event is full but you may join the waitlist with your registration code*
-* [November 11-12, 2019](https://www.eventbrite.com/e/instructor-training-november-11-12-n-america-eastern-time-tickets-65408168593) (UTC -5)
+* [November 11-12, 2019](https://www.eventbrite.com/e/instructor-training-november-11-12-n-america-eastern-time-tickets-65408168593) (UTC -5) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-11-11-ttt-EST&iso=20191111T09&p1=179).
 
 # Europe and Africa
 
