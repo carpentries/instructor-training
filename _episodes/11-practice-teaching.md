@@ -173,10 +173,9 @@ in a way that facilitates growth.
   feedback in a way that is helpful to you - the questions below
   reveal what didn't work in your teaching, but read as professional suggestions rather than personal judgments.
   For example:
-    *   "What is one thing I could have done as an instructor to make this
-        lesson more effective?"
-    *   "If you could pick one thing from the lesson to go over again, what
-	would it be?"
+  
+* "What is one thing I could have done as an instructor to make this lesson more effective?"
+* "If you could pick one thing from the lesson to go over again, what would it be?"
 
 * Balance positive and negative feedback.
     * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
