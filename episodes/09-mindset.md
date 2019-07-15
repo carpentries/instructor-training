@@ -1,8 +1,8 @@
 ---
 title: "Mindset"
 block: "Creating a Positive Learning Environment"
-teaching: 20
-exercises: 20
+teaching: 15
+exercises: 15
 questions:
 - "How does mindset influence learning?"
 - "How should we praise our learners?"
@@ -131,7 +131,7 @@ can also encourage positive emotions associated with making errors in learning. 
 [participatory live coding]({{ page.root }}/14-live/) as the focus for teaching allows for instructors to model how errors can be positively
 framed and the process for overcoming them.
 
-> ## Helping Learners Learn From Mistakes
+> ## Helping Learners Learn From Mistakes (optional)
 > A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
 > that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
 > `ls` and the name of the directory they are looking at). What would you say to the learner?
@@ -178,7 +178,7 @@ passion and drive for learning despite the difficulties of the topic.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-## Habits of Lifelong Learners  
+## Habits of Lifelong Learners 
 
 Adopting beliefs and qualities like those listed above will help people become
 lifelong learners. By helping learners develop the habits of lifelong learning,
