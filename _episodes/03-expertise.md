@@ -1,7 +1,7 @@
 ---
 title: "Expertise and Instruction"
 block: "How Learning Works"
-teaching: 20
+teaching: 15
 exercises: 30
 questions:
 - "What type of instructor is best for novices?"

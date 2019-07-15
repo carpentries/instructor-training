@@ -2,7 +2,7 @@
 title: "Welcome"
 start: true
 teaching: 10
-exercises: 5
+exercises: 15
 questions:
 - "Who are we and how do we approach teaching?"
 - "What should you expect from this workshop?"
@@ -162,7 +162,7 @@ familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries instructor.
 The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
-We also do not how to develop lessons in specific detail.  Many of the ideas we
+We also do not go over how to develop lessons in specific detail.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
 of lesson design called "Reverse Instructional Design", but it won't be an emphasis
 of this particular course.
