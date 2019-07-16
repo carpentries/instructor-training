@@ -43,6 +43,7 @@ Registration for each event closes one week before that event. You may change or
 * May 21-22, 2019 (UTC -4)  *Registration closed* 
 * June 3-4, 2019 (UTC -4) *Registration closed* 
 * [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190729T09&p1=3918). *This event is full but you may join the waitlist with your registration code*
+* [September 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-september-26-27-n-america-eastern-time-tickets-65522996045) (UTC-4)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+September+26-27%2C+2019+EDT&iso=20190926T09&p1=179)  
 * [November 11-12, 2019](https://www.eventbrite.com/e/instructor-training-november-11-12-n-america-eastern-time-tickets-65408168593) (UTC -5) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-11-11-ttt-EST&iso=20191111T09&p1=179).
 
 # Europe and Africa
@@ -53,6 +54,7 @@ Registration for each event closes one week before that event. You may change or
 * May 13-14, 2019 (UTC +1) *Registration closed*
 * June 19-20, 2019 (UTC +1) *Registration closed*
 * [July 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-july-25-26-bst-tickets-59707376370) (UTC +1) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190725T09&p1=3903)
+* [September 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-september-10-11-british-summer-time-tickets-65523276885) (UTC +1)   To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+September+10-11+2019%2C+BST&iso=20190910T09&p1=136)
 
 #### Central European/Western African time
 * January 30-31, 2019 (UTC +1) *Event Canceled*
