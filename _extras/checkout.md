@@ -224,9 +224,9 @@ and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
 You may use whatever notes you want,
 provided they are not visible on your screen.
-You are *not* to read the lesson aloud line by line:
+You are *not* allowed to read the lesson aloud line by line:
 instead,
-you are to teach as you would in an actual workshop.
+you should teach as you would in an actual workshop.
 When your five minutes are up,
 the trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching
