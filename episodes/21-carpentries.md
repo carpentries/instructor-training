@@ -218,7 +218,7 @@ and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website with information about their workshop.
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:admin@software-carpentry.org),
+the [workshop coordinator](mailto:team@carpentries.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
