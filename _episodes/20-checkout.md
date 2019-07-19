@@ -28,10 +28,10 @@ filled out this form, you do not need to submit another application.
 
 As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
 
-1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
-    1.  Submit a change (i.e. pull request) to fix an existing issue.
-    2.  Proof-read a lesson and add a new issue describing something to be improved.
-    3.  Provide substantive feedback on an existing issue or pull request.
+1. Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
+   1. Submit a change (i.e. pull request) to fix an existing issue.
+   2. Proof-read a lesson and add a new issue describing something to be improved.
+   3. Provide substantive feedback on an existing issue or pull request.
 2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
