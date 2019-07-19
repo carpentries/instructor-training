@@ -48,7 +48,7 @@ they study, seeing the poor score as an indication that they need to try harder 
 
 Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
-and receive feedback, which, [as we've discussed]({% link _episodes/02-practice-learning.md %}), is essential to learning.
+and receive feedback, which, [as we've discussed]({{ page.root }}{% link _episodes/02-practice-learning.md %}), is essential to learning.
 
 > ## Does Mindset Matter?
 > Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
