@@ -111,7 +111,7 @@ You may only call a workshop a Software Carpentry, Data Carpentry, or Library Ca
 ### Materials
 
 Note that the individual Software Carpentry, Data Carpentry, and Library Carpentry lessons
-materials are freely available under a permissive [open license]({{ relative_root_path}}{% link LICENSE.md %}).
+materials are freely available under a permissive [open license]({{ page.root }}{% link LICENSE.md %}).
 This means that you may use them in contexts outside a Carpentries workshop (e.g. as material
 introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
 provided you cite the original source.
