@@ -236,7 +236,7 @@ At the end of the morning, do the following:
 > ## Minute Cards Revisited
 >
 > Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/06-feedback#minute-cards).
+> as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
 {: .challenge}
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
