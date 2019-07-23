@@ -1,7 +1,7 @@
 ---
 title: "Motivation and Demotivation"
 block: "Creating a Positive Learning Environment"
-teaching: 20
+teaching: 30
 exercises: 45
 questions:
 - "Why is motivation important?"
@@ -44,9 +44,9 @@ One way to build a positive classroom environment is to create a space
 that cultivates and encourages learners' motivations.
 
 People learn best when they care about a topic and believe they can master it.
-Many scientists might know vaguely the value of programming 
-but find it intimidating, and struggle with how to get started. 
-This presents us with a problem because believing that something will be hard 
+Many scientists might know vaguely the value of programming
+but find it intimidating, and struggle with how to get started.
+This presents us with a problem because believing that something will be hard
 to learn often becomes a self-fulfilling prophecy.
 
 We have therefore adopted a "teach most immediately useful first" approach.
@@ -58,7 +58,7 @@ so that if it takes longer to get to something they find useful in a later topic
 they'll persist with the lesson.
 
 To do this, we as instructors need to go through the work of identifying
-what to teach first (or at all!).  
+what to teach first (or at all!).
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
 Everything that's quick to master, and immediately useful should be taught first;
 things in the opposite corner
@@ -82,7 +82,7 @@ motivating.
 > In the class Etherpad, **share** the task and where it fits on the graph.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
-> This exercise and discussion should take about 10 minutes.  
+> This exercise and discussion should take about 10 minutes.
 {: .challenge}
 
 > ## Actual Time
@@ -96,10 +96,10 @@ motivating.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({% link _episodes/03-expertise.md %}#limitations-of-expertise).
+> please revisit the discussion of [expert blind spot]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
 {: .callout}
 
-## Other Motivational Strategies  
+## Other Motivational Strategies
 
 In addition to teaching things that will make our learners' lives easier and focusing
 on authentic tasks, there are a number of other strategies we can use to motivate
@@ -160,7 +160,7 @@ learners.
 > *Pair* up with your neighbor and discuss what motivated you.
 > *Share* the motivational story in the Etherpad.
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Not Just Learners
@@ -176,12 +176,12 @@ learners.
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > The Carpentries want instructors with diverse backgrounds because you each bring something
-> unique to our community.  
+> unique to our community.
 >
 > What motivates you to teach? Write a short explanation of what motivates you to teach.
-> Save this as part of your teaching philosophy for future reference.  
+> Save this as part of your teaching philosophy for future reference.
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 ## How Not to Demotivate Your Learners
@@ -198,11 +198,11 @@ common demotivators and help you develop strategies for avoiding them.
 >
 > *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
 > *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
-> *Share* your story in the Etherpad.  
+> *Share* your story in the Etherpad.
 >
 > If time, what themes do you see among the stories?  What are positive actions you could take to avoid these?
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 ### Things You Shouldn't Do in a Workshop
@@ -275,9 +275,9 @@ What *is* clear is that we need to avoid thinking in terms of a deficit model
 such as lack of prior experience) and instead use a systems approach
 (i.e., we need to change the system because it produces these disparities). We
 can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "I'm so glad you're here because 
+example, it's not a good idea to say something like "I'm so glad you're here because
 we don't get enough women in programming." That may sound positive,
-but draws attention to the stereotype that women aren't good at programming. 
+but draws attention to the stereotype that women aren't good at programming.
 
 > ## Never Learn Alone
 >
@@ -301,7 +301,7 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
-![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)  
+![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)
 https://xkcd.com/1954/
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and

@@ -2,7 +2,7 @@
 title: "Welcome"
 start: true
 teaching: 10
-exercises: 5
+exercises: 15
 questions:
 - "Who are we and how do we approach teaching?"
 - "What should you expect from this workshop?"
@@ -21,9 +21,9 @@ keypoints:
 
 > ## Getting to know each other
 >
-> If the trainer has chosen an [icebreaker question]({{training_site}}/extras/icebreakers.html),
+> If the trainer has chosen an [icebreaker question]({{training_site}}/icebreakers/index.html),
 > participate by writing your answers in the course's shared notes.
-> {: .exercise}
+{: .challenge}
 
 ## Code of Conduct
 
@@ -35,7 +35,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 
 > Introductions set the stage for learning.
 > — Tracy Teal, Executive Director, The Carpentries
-{: .quotation}
+{: .testimonial}
 
 Hello everyone, and welcome to the the Carpentries
 instructor training.  We're very pleased to have you with us.
@@ -43,17 +43,16 @@ instructor training.  We're very pleased to have you with us.
 > ## Today's Trainers
 >
 > To begin class, each Trainer should give a brief introduction of themselves.
-> 
-> (For some guidelines on introducing yourself, see some content from 
-> later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/19-introductions/index.html))
-
+>
+> (For some guidelines on introducing yourself, see some content from
+> later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/23-introductions/index.html))
 {: .discussion}
 
 Now we would like to get to know all of you.
 
 > ## Reviewing Carpentries Experience and Goals
 >
-> Please answer the following questions in the shared notes document: 
+> Please answer the following questions in the shared notes document:
 >
 > *Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
 >
@@ -71,7 +70,7 @@ Now we would like to get to know all of you.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
-> 
+>
 > **Why are you taking this course? What goals do you have for today and tomorrow?**
 >
 > If time permits, the trainer may have you discuss these answers in small groups
@@ -88,7 +87,7 @@ Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of the Carpentries.
 Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach intensive one to two day workshops on basic computing and data skills for
-researchers.  
+researchers.
 * Software Carpentry focuses on helping researchers develop foundational
 computational skills
 * Data Carpentry focuses on helping
@@ -107,7 +106,7 @@ instructors is that they:
 
 - be familiar with and understand how to apply research-based teaching principles,
 especially as they apply to the Carpentries audience.
-- understand the importance of a respectful and inclusive classroom environment; commit to 
+- understand the importance of a respectful and inclusive classroom environment; commit to
 creating such an environment; and be able to
 identify and implement Carpentries policies and general practices to accomplish this.
 - practice and develop skills in the teaching methods used in Carpentries workshops
@@ -125,7 +124,7 @@ findings and demonstrating how they can be used to help people learn better and 
 ### Building Teaching Skill
 
 Just like learning a new language, a musical instrument,
-or a sport, teaching is a skill that requires practice and feedback.  
+or a sport, teaching is a skill that requires practice and feedback.
 We will have many opportunities to practice and give each other feedback throughout this workshop.
 We welcome questions and dialogue
 at any point. We'll be using the Etherpad to help facilitate discussion.
@@ -162,7 +161,7 @@ familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries instructor.
 The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
-We also do not develop lessons in specific detail.  Many of the ideas we
+We also do not go over how to develop lessons in specific detail.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
 of lesson design called "Reverse Instructional Design", but it won't be an emphasis
 of this particular course.

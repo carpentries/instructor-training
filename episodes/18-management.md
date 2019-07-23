@@ -93,10 +93,10 @@ and hope that they'll understand.
 
 ## Code of Conduct Violations
 
-As discussed in the [Motivation episode]({% link _episodes/08-motivation.md %}),
+As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/08-motivation.md %}),
 the Carpentries uses a Code of Conduct as a tool to create a respectful and
 inclusive learning environment. Occasionally, part of managing the classroom
-may include dealing with a Code of Conduct violation. 
+may include dealing with a Code of Conduct violation.
 
 If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them, ask them to apologize, and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
 
@@ -133,7 +133,7 @@ day that they will start snapping at their learners or fumbling at
 their keyboard.  Having a co-instructor also means that you can teach
 a workshop without knowing all the topics that are being taught, and
 if multiple instructors are both knowledgeable on the same topics,
-they can help each other answer questions.  
+they can help each other answer questions.
 
 Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
 
@@ -155,10 +155,10 @@ Putting some thought into how you and your co-instructor will work together can 
 > they're Teacher B in the teach and assist model), but they can also
 > be advanced learners who already know the material well, previous
 > workshop participants, or members of the host institution's technical
-> support staff.  
+> support staff.
 > Using advanced learners as helpers is doubly effective: not only are they
 > more likely to understand the problems their peers are having, it
-> also stops them from getting bored.  
+> also stops them from getting bored.
 {: .callout}
 
 > ## Teaching Together - Nuts and Bolts
@@ -166,26 +166,26 @@ Putting some thought into how you and your co-instructor will work together can 
 > With a partner, imagine that you are planning a workshop together
 > and answer the following questions:
 >
-> - How would you prepare to teach a workshop together?  
+> - How would you prepare to teach a workshop together?
 > - During the workshop, what are some things the assisting instructor
 > can do (or shouldn't do!) to support the main instructor?
 >
 > As an entire group, discuss what you came up with and then compare
-> to the recommendations below.  
+> to the recommendations below.
 >
 >> ## Recommendations
 >>
 >> If you and a partner are co-teaching, try to follow these recommendations:
 >>
 >>- Coordinate who is teaching what, sufficiently in advance that
->>  both instructors are confident in their preparation.  
+>>  both instructors are confident in their preparation.
 >>
 >>- If you have time to do some
 >>  advance preparation together, try drawing a concept map together or
 >>  teaching a short snippet of the lessons for each other.
->>  
+>>
 >>- Discuss in advance if you will providing feedback to each other
->>  and how to do so (see notes above).  
+>>  and how to do so (see notes above).
 >>
 >>- If it won't cause cognitive overload for you (the instructors),
 >>  work out a couple of hand signals to communicate.  "You're
@@ -207,7 +207,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>- Each person should take a couple of minutes before they start
 >>  teaching to see what their partner is going to teach after they're
 >>  done.  This allows each instructor to set up their partner's material
->>  without covering it themselves.  
+>>  without covering it themselves.
 >>
 >>- Whenever possible, the person who isn't teaching should stay engaged
 >>  with the class.  Monitor the shared notes, keep an eye
@@ -217,7 +217,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  easier for the other instructor to take a break to catch up on outside
 >>  work (like email) if there are at least
 >>  three instructors or sufficient helpers to make sure that the main
->>  instructor is supported.  
+>>  instructor is supported.
 > {: .solution}
 {: .challenge}
 
@@ -236,7 +236,7 @@ At the end of the morning, do the following:
 > ## Minute Cards Revisited
 >
 > Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/06-feedback/).
+> as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
 {: .challenge}
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
