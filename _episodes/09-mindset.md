@@ -44,7 +44,7 @@ People who believe that ability is intrinsic view every situation as a test. A f
 to succeed. Thus, students with a fixed-mindset will *decrease* their study time after receiving a poor exam score, because they see this score as a
 judgment that they aren't good at that subject and shouldn't waste their time trying. In the same situation, a growth-mindset student will increase
 the amount of time that
-they study, seeing the poor score as an indication that they need to try harder to improve in that area.  
+they study, seeing the poor score as an indication that they need to try harder to improve in that area.
 
 Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
@@ -67,7 +67,7 @@ and receive feedback, which, [as we've discussed]({{ page.root }}{% link _episod
 If you recognize aspects of the fixed mindset in yourself, don't panic! Like everything else, a growth mindset can be learned. We're going to talk about some
 strategies that will help you promote a growth mindset in your learners and yourself.
 
-## Praise Influences Mindset  
+## Praise Influences Mindset
 
 One specific way in which instructors can foster a growth mindset in learners
 is in how we praise. [Carol Dweck's research](http://www.ascd.org/publications/educational-leadership/oct07/vol65/num02/The-Perils-and-Promises-of-Praise.aspx)
@@ -109,7 +109,7 @@ highlighting our ability to improve with effort.
 
 ## Errors are Essential to Learning
 
-> The typos are the pedagogy.  
+> The typos are the pedagogy.
 > — Emily Jane McTavish
 {: .quotation}
 
@@ -141,7 +141,7 @@ framed and the process for overcoming them.
 > This exercise and discussion should take about 5 minutes.
 {: .challenge}
 
-## Perseverance Predicts Success  
+## Perseverance Predicts Success
 
 Finally, have you ever thought about how the quality of persistence can
 impact someone's learning?
@@ -166,7 +166,7 @@ grit.
 passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty? (Optional)
-> 
+
 > A [previous exercise]({{ page.root }}{% link _episodes/08-motivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
 >
@@ -178,7 +178,7 @@ passion and drive for learning despite the difficulties of the topic.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-## Habits of Lifelong Learners 
+## Habits of Lifelong Learners
 
 Adopting beliefs and qualities like those listed above will help people become
 lifelong learners. By helping learners develop the habits of lifelong learning,
@@ -188,7 +188,7 @@ to be a lifelong learner, in order to learn and adapt to new skills that may
 be required by employers. Many of these positions can be described as *Knowledge Work*, work that requires
 ["non-routine" problem solving](http://doi.wiley.com/10.1002/kpm.378). Knowledge workers need to be capable of what Cal
 Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively
-demanding tasks".  
+demanding tasks".
 
 Lifelong learning arises from those who have the growth mindset. Both grit and
 [curiosity](https://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as
@@ -202,7 +202,7 @@ seeking help as "stigmatizing, self-threatening behavior".
 Because of this, we need to reframe help-seeking behavior as a
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a
-positive learning community.  
+positive learning community.
 
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
