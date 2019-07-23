@@ -88,11 +88,11 @@ here are some ways where it's easy to do so without much prep:
 
 ### Episode order
 
-Experience has shown that the current order of episodes on Day 2 works quite well. 
-If you're a new trainer, we recommend following in the official order. 
-However, the material enough to allow small shifts in lesson order. 
-If you are experimence instructor and you would like to re-arragne the schedule, 
-make sure to communicate with trainees and co-instructors! 
+Experience has shown that the current order of episodes works quite well. 
+If you're a new Trainer, we recommend following the official order, however, 
+the material is flexible enough to allow small shifts in episode order. 
+If you are an experienced Trainer and you would like to re-arrange the schedule, 
+make sure to communicate with your trainees and co-Trainers! 
 
 ## III. Online vs In Person Training Events
 
@@ -249,7 +249,7 @@ group is interested.
 
 ## VI. Teaching Demonstration Tips
 
-This section contains tips and tricks on demo hosting that may be contributed by any Trainer describing things that work for them. For official/technical guidelines on how to run a demo, see the [Handbook].(https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration)
+This section contains tips and tricks on demo hosting that may be contributed by any Trainer describing things that work for them. For official/technical guidelines on how to run a demo, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration).
 
 Suggested points to make during introductions:
 * This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
@@ -258,6 +258,15 @@ we'd like you to change on your next visit. This does not mean we don't want you
 ready to put your best foot forward in the classroom and we are here to help you do that. (KW)
 * I will not tell anyone that they have passed or ask anyone to repeat during this session. That information will come in the follow up email. (KW)
 * The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
+* Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the 
+mute button is. (EB)
+* I have already determined a random order for you each to do your demonstration. When it's your turn, I will tell you what
+episode you will be teaching from, and
+you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the 
+option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
+from, that way you can keep your notes up on your screen without us seeing them. It's perfectly fine to teach using your
+notes - that's how I always teach. (EB)
+* When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
 Different ways of managing feedback during the demo:
 * Create your own etherpad and populate it with episode links, feedback templates, whatever. 
@@ -266,6 +275,9 @@ Different ways of managing feedback during the demo:
 * If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing 
 notes in the etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
 summarize/disagree/add/emphasize as needed.
+* I take notes on physical paper during each demo with points I think need to be made, then mark things off as others
+mention them in their feedback. Usually, the trainees catch most of the things I wanted to mention, and I can choose just
+one or two things to comment on. (EB)
 
 Suggested points to make during wrap-up:
 * Thank you for your excellent feedback! Instructors like you help to make this community what it is.

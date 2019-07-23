@@ -5,6 +5,8 @@ title: "Suggested Episodes for Teaching Demonstrations"
 
 Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email [team@carpentries.org](mailto:team@carpentries.org).  Note that while a trainee can choose the lesson to teach from, the Trainer leading the demo session will choose the specific episode at the time of the demo session.
 
+If the chosen episode is very short and finishes in less than five minutes, the trainee can continue on to the next episode in that lesson.
+
 * [Data Carpentry: Ecology](#dc-ecology)
 * [Data Carpentry: Genomics](#dc-genomics)
 * [Data Carpentry: Social Sciences](#dc-socialsci)

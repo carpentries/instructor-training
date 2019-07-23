@@ -27,8 +27,8 @@ involved with the community.
 ## A Brief History
 
 
-[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing. 
-[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy. 
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing.
+[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy.
 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
@@ -87,9 +87,9 @@ Library Carpentry workshops:
 *   are aimed at people in library- and information-related roles,
 *   focus on best practices in data structure, and
 *   are modular---each Library Carpentry lesson is standalone.
-*   are sometimes less than two days. 
+*   are sometimes less than two days.
 
-In a visual representation, these similarities and differences look like this: 
+In a visual representation, these similarities and differences look like this:
 
 ![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
 
@@ -111,7 +111,7 @@ You may only call a workshop a Software Carpentry, Data Carpentry, or Library Ca
 ### Materials
 
 Note that the individual Software Carpentry, Data Carpentry, and Library Carpentry lessons
-materials are freely available under a permissive [open license]({{ page.root }}/LICENSE).
+materials are freely available under a permissive [open license]({{ page.root }}{% link LICENSE.md %}).
 This means that you may use them in contexts outside a Carpentries workshop (e.g. as material
 introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
 provided you cite the original source.
@@ -140,7 +140,7 @@ SQL, webscraping, Python and an introduction to data for archivists.
 
 Within these guidelines, there is flexibility in which episodes of the lesson you cover,
 which exercises you use, and whether you include optional materials (e.g. callouts) and
-optional episodes.  
+optional episodes.
 
 ### Who Can Teach What
 
@@ -158,9 +158,9 @@ rely on the judgment of local organizers to recruit and orient volunteers who
 will embody the Carpentries ethos and practices.
 
 > ## Local Support
-> 
+>
 > There is a great list
-> 
+>
 > here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
 ).
 {: .callout}
@@ -170,12 +170,12 @@ will embody the Carpentries ethos and practices.
 The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that
 provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
 The Carpentries Handbook is the definitive source for policies and information.
-Here, we will cover some information about actually running a workshop.  
+Here, we will cover some information about actually running a workshop.
 
-Briefly, there are two types of Carpentry workshops: centrally-organized and 
-self-organized. Centrally-organized workshops are organized by a team of 
-[Regional Coordinators](https://carpentries.org/regionalcoordinators/) who take care of logistics and administration such as 
-finding instructors and handling workshop registration. For self-organized 
+Briefly, there are two types of Carpentry workshops: centrally-organized and
+self-organized. Centrally-organized workshops are organized by a team of
+[Regional Coordinators](https://carpentries.org/regionalcoordinators/) who take care of logistics and administration such as
+finding instructors and handling workshop registration. For self-organized
 workshops, the organization hosting the event is responsible for these details.
 
 > ## Workshops as an Instructor
@@ -218,14 +218,14 @@ and to help us keep track of who's taught what and where,
 each workshop's instructors create a one-page website with information about their workshop.
 Once that has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:admin@software-carpentry.org),
+the [workshop coordinator](mailto:team@carpentries.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
 You may also create an etherpad for your own Carpentries-related events. When you point a browser to a url at
-`pad.carpentries.org/name-of-pad` you will either arrive at an existing etherpad by that name or a brand new 
+`pad.carpentries.org/name-of-pad` you will either arrive at an existing etherpad by that name or a brand new
 etherpad with basic Carpentries information at the top.  For workshops we use `year-month-day-venue` as the name
-to ensure unique names. 
+to ensure unique names.
 
 > ## Practice With The Carpentries Infrastructure
 >
@@ -240,7 +240,7 @@ to ensure unique names.
 > immediately.  Two ways to avoid this are to use a "private" or
 > "incognito" mode in your web browser or by following these
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
->{: .challenge}
+{: .challenge}
 
 > ## Question and Answer
 >
@@ -266,7 +266,7 @@ and improve the lessons via "bug fixes" as we go along.
 >
 > Maybe this instructor training has inspired you to go home and write your
 > own fantastic lesson!  If you'd like to model it after the Software and
-> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).  
+> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
 {: .callout}
 
 > ## Many Ways to Contribute
@@ -299,7 +299,7 @@ build local and global communities of practice around  skills for data analysis,
 >
 > Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
 >
->> ## Solution  
+>> ## Solution
 >> Instructors: C
 >> Mentors: E
 >> Trainers: D
@@ -318,5 +318,5 @@ build local and global communities of practice around  skills for data analysis,
 
 > ## Get Connected
 >
-> Take a couple of minutes to sign up for the Carpentry discussion channels you want to stay involved with.  
+> Take a couple of minutes to sign up for the Carpentry discussion channels you want to stay involved with.
 {: .challenge}

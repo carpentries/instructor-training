@@ -183,7 +183,7 @@ introduced helpers or other workshop leaders, make sure to do so.
 **Explain your expectations** for learner behavior including expectations
 around:
 
-- [Code of Conduct]({{ site.dc_site }}/code-of-conduct/)
+- [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
 - ways to ask for help
 - ways to give instructors feedback
 

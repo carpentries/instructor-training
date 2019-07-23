@@ -2,7 +2,7 @@
 title: "Building Skill With Practice"
 block: "How Learning Works"
 teaching: 20
-exercises: 45
+exercises: 40
 questions:
 - "How do people learn?"
 - "Who is a typical Carpentries learner?"
@@ -22,7 +22,7 @@ are put into practice in Carpentry workshops.
 
 ## The Carpentries Pedagogical Model
 
-The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general
+The Carpentries aims to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general
 in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on
 practice, we develop learners' confidence and lay the foundation for future learning.
 
@@ -329,7 +329,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 >
 > For one of the above, enter your answer in the Etherpad.   
 >
-> This discussion should take about 10 minutes.
+> This discussion should take about 5 minutes.
 >
 >> ## Solution
 >> 1. If the majority of the class votes for a single wrong answer, you should go back
