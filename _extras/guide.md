@@ -33,7 +33,7 @@ Details about the Instructor Trainer role including the application process, dut
 -  If teaching remotely:
   -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
   -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
-  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event. To make a copy, click on the three dots at the top right and select "Make a copy" on the drop-down. ("Add to My Drive" will **not** create a new copy of the form, but will instead add a shortcut to the original template from your Google Drive.)
 -  If teaching in person:
   - Confirm with your host that breakout rooms are available or make an alternate plan
   - Create a plan for printing handouts & determine who will bring sticky notes
