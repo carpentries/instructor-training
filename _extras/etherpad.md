@@ -23,7 +23,7 @@ Please sign in so we can record your attendance.<br/>
   <li>&nbsp;</li>
 </ul>
 <br/>
-Please fill out the pre-training survey at https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=2019-07-18-ttt-macquarie
+Please fill out the pre-training survey at https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE
  
 </blockquote> 
 
@@ -35,14 +35,14 @@ Create anchor for each one of the episodes.
 {% endcomment %}
 
 {% for episode in site.episodes %}
-<h1>Episode: {{episode.title}} <a href="{{site.url}}{{site.baseurl}}{{episode.url}}">{{site.url}}{{site.baseurl}}{{episode.url}}</a></h1>
+<h1>Episode: {{episode.title}} <br/><a href="{{site.url}}{{ relative_root_path }}{{episode.url}}">{{site.url}}{{ relative_root_path }}{{episode.url}}</a></h1>
 
 <br/>
 <blockquote>
 <h2>Episode Questions:</h2>
 <ul>
-{% for q in episode.questions %}
-<li>{{q}}</li>
+{% for question in episode.questions %}
+<li>{{question | markdownify}}</li>
 {% endfor %}
 </ul>
 </blockquote>
@@ -50,8 +50,8 @@ Create anchor for each one of the episodes.
 <blockquote>
 <h2>Episode Objectives:</h2>
 <ul>
-{% for q in episode.objectives %}
-<li>{{q}}</li>
+{% for objective in episode.objectives %}
+<li>{{objective|markdownify}}</li>
 {% endfor %}
 </ul>
 </blockquote>
@@ -64,8 +64,8 @@ Create anchor for each one of the episodes.
   <br/><br/>
 <h2>Episode Keypoints:</h2>
 <ul>
-{% for q in episode.keypoints %}
-<li>{{q}}</li>
+{% for keypoint in episode.keypoints %}
+<li>{{keypoint|markdownify}}</li>
 {% endfor %}
 </ul>
 <br/><br/>
@@ -74,7 +74,7 @@ Create anchor for each one of the episodes.
 </blockquote>
 
 
-
+Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE
 
 {% endfor %}
 
@@ -82,19 +82,42 @@ Create anchor for each one of the episodes.
 
 <script>  window.onload = function() {
 
-$( "h1, h2, h3" ).not("blockquote h2").before("<br style='line-height:0px'/><br/>").after("<br/>").wrap("<b>");
+// Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad. 
+
+$( "h1, h2, h3" ).not("blockquote h2").before("<br style='line-height:0px'/><br/>").after("<br/>");
+
+// Also wrap headers in bold, as headers do not transfer over to the etherpad.
+$( "h1, h2, h3" ).not("blockquote h2").wrap("<b>");
+
+// We want to differentiate level 2 and level 3 headers, so I'm progressively adding styling to them, while retaining the bold.
 $("h2").wrap("<i>");
 $("h3").wrap("<u>");
 
+
+// Remove all paragraph text which exists outside of a blockquote
 $( "p").not('blockquote p').remove();
+
+// Also remove all unordered lists.
 $( "ul").not('blockquote ul').remove();
+
+// The navbar presents copying problems, so we need to clear that as well
 $(".navbar").remove();
+
+// Code should also not be copied over to the etherpad. Code is indicated by the .source class on divs, rather than as a blockquote
 $( "div.source").not('blockquote div.source').remove();
+
+//Take all ordered lists and turn them into unordered lists, because ordered lists don't transfer well into the etherpad.
 //https://stackoverflow.com/a/12679823/263449
 $($('ol').get().reverse()).each(function(){
   $(this).replaceWith($('<ul>'+$(this).html()+'</ul>'))
 })
+
+
+//Remove all solutions from the text
 $("blockquote.solution").remove();
+
+
+// I wanted to keep challenges, callouts, and discussion blocks. However, the icons don't transfer, so I need to add the calling-out word (exercise, etc) to the header (and then render the header as an h2) so that there is appropriate formatting transfered to the etherpad, and that each of these has a useful label in the text-only zone.
 $("blockquote.challenge h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Exercise: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
@@ -110,7 +133,15 @@ $("blockquote.discussion h2").each(function(){
   
 });
 
-    console.log("hi");
+
+//Once we've cleaned out things, we need to unblockquote everything for best pasting.
+//https://stackoverflow.com/a/17872365/263449
+$("blockquote").contents().unwrap();
+
+//This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
+//console.log("hi");
+
+
   }
 
 </script>
