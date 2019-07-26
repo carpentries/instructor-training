@@ -75,7 +75,7 @@ this [Google Drive folder][slides-folder] contains slides with diagrams, cartoon
 ### Using Etherpad 
 
 Each workshop will have an Etherpad. 
-You can use the [Insturctor Training Etherpad template](https://pad.carpentries.org/ttt-template)
+You can use the [Instructor Training Etherpad template](https://pad.carpentries.org/ttt-template)
 to quickly copy and paste challenges or useful information into your Etherpad. 
 
 Given the central role that Etherpad plays is running Carpentry workshops,
