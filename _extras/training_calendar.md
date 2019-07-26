@@ -35,6 +35,7 @@ Registration for each event closes one week before that event. You may change or
 * April 4-5, 2019 (UTC -5) *Registration closed*
 * July 18-19, 2019] (UTC -5) *Registration closed*
 * [August 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-august-26-27-cdt-tickets-59705042389) (UTC -5) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190826T09&p1=3919)
+* [October 24-25, 2019](https://www.eventbrite.com/e/online-instructor-training-october-24-25-2019-n-america-central-time-tickets-66684385793) (UTC -5) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20191024T09&p1=64)
 
 #### Eastern time
 * January 22-23, 2019(UTC -5) *Registration closed*
