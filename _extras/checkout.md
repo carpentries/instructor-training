@@ -49,7 +49,7 @@ and must be requested before the three months are up. To request an extension, p
 ## Part 1: Submit a Small Contribution to One of Our Lessons
 <a name="lesson-change"></a>
 
-Our lessons and lesson infrastructur are maintained and improved by the people who use them.
+Our lessons and lesson infrastructure are maintained and improved by the people who use them.
 With this part of the checkout procedure, you will familiarize yourself
 with our collaborative curriculum development process.
 
