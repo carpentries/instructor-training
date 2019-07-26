@@ -28,31 +28,13 @@ To prepare for tomorrow, please:
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
-    Pick any episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson. 
+    Pick an episode from an actively maintained Software Carpentry, Data Carpentry, or Library Carpentry lesson. 
     Read through the episode carefully and prepare to teach 3 minutes-worth of the material using live coding in small groups.
     Your group members will comment on the delivery and content.
-    
     If you need assistance choosing an episode, 
-    here is a short list of episodes that are well suited to this exercise. 
-    *   Data Carpentry
-        *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
-        *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
-        *   [Starting with Data in R](<{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>)
-        *   [Starting with Data in Python](<{{ site.dc_site }}/python-ecology-lesson/02-starting-with-data/>)
-        
-    *   Library Carpentry
-        *   [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)
-        *   [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering/index.html)
-        *   [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops/index.html)        
-        
-    *   Software Carpentry
-        *   [Working with Files and Directories in the Unix Shell](<{{ site.swc_pages }}/shell-novice/03-create/>)
-        *   [Tracking Changes in Git](<{{ site.swc_pages }}/git-novice/04-changes/>)
-        *   [Selecting Data in SQL](<{{ site.swc_pages }}/sql-novice-survey/01-select/>)
-        *   [Repeating Actions with Loops in Python](<{{ site.swc_pages }}/python-novice-inflammation/02-loop/>)
-        *   [Exploring Data Frames in R](<{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>)
-
-
+    we have provided [detailed table of suggested episodes](https://carpentries.github.io/instructor-training/demo_lessons/index.html) that provides of overview of which lessons have good starting points
+    for teaching with live coding and which episodes to avoid. 
+    
 
 > ## Feedback
 >
