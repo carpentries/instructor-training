@@ -28,13 +28,12 @@ To prepare for tomorrow, please:
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
-    Pick any episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson.
-    If you need assistance chosing an episode, 
-    we recommending chose one of the episodes listed below as they are well suited to this exercise.  
+    Pick any episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson. 
     Read through the episode carefully and prepare to teach 3 minutes-worth of the material using live coding in small groups.
     Your group members will comment on the delivery and content.
     
-    
+    If you need assistance choosing an episode, 
+    here is a short list of episodes that are well suited to this exercise. 
     *   Data Carpentry
         *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
         *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
