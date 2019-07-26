@@ -123,5 +123,5 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.software-carpentry.org/community-discussions
-[demo]: https://pad.carpentries.org/teaching-demos-recovered
+[demo]: https://pad.carpentries.org/teaching-demos
 [demo rubric]: https://carpentries.github.io/instructor-training/17-performance/index.html
