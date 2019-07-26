@@ -21,19 +21,20 @@ look in some depth at how the Carpentries operate to prepare you for the logisti
 
 To prepare for tomorrow, please:
 
-1.  Read about the two types of Carpentry workshops: [self-organized][dc-self] and 
-    [centrally-organized][dc-central] and the checklists
+1.  Read about the two types of Carpentry workshops ([self-organized][dc-self] and 
+    [centrally-organized][dc-central]), and read the checklists
     these pages link to. These summarize commonly asked questions about organizing and running workshops.
     When you arrive tomorrow, we will ask you to add one question about our operations to a list.
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
-    If you haven't already, pick an episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson and 
-    read through it carefully.
-    Tomorrow, you will use this to practice live coding for 3 minutes in groups of three.
+    Pick any episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson.
+    If you need assistance chosing an episode, 
+    we recommending chose one of the episodes listed below as they are well suited to this exercise.  
+    Read through the episode carefully and prepare to teach 3 minutes-worth of the material using live coding in small groups.
     Your group members will comment on the delivery and content.
-    The episodes we recommend were listed in the welcome message
-    sent to you before the start of this course, and are:
+    
+    
     *   Data Carpentry
         *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
         *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
