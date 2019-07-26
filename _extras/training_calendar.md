@@ -43,7 +43,7 @@ Registration for each event closes one week before that event. You may change or
 * March 11-12, 2019 (UTC -4) *Registration closed*
 * May 21-22, 2019 (UTC -4)  *Registration closed* 
 * June 3-4, 2019 (UTC -4) *Registration closed* 
-* [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-edt-tickets-59704588030) (UTC -4) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190729T09&p1=3918). *This event is full but you may join the waitlist with your registration code*
+* July 29-30, 2019 (UTC -4) *Registration closed* 
 * [September 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-september-26-27-n-america-eastern-time-tickets-65522996045) (UTC-4)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+September+26-27%2C+2019+EDT&iso=20190926T09&p1=179)  
 * [November 11-12, 2019](https://www.eventbrite.com/e/instructor-training-november-11-12-n-america-eastern-time-tickets-65408168593) (UTC -5) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-11-11-ttt-EST&iso=20191111T09&p1=179).
 
@@ -54,7 +54,7 @@ Registration for each event closes one week before that event. You may change or
 * April 22-23, 2019  (UTC +1)  *Registration closed*
 * May 13-14, 2019 (UTC +1) *Registration closed*
 * June 19-20, 2019 (UTC +1) *Registration closed*
-* [July 25-26, 2019](https://www.eventbrite.com/e/online-instructor-training-july-25-26-bst-tickets-59707376370) (UTC +1) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190725T09&p1=3903)
+* July 25-26, 2019 (UTC +1) *Registration closed* 
 * [September 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-september-10-11-british-summer-time-tickets-65523276885) (UTC +1)   To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+September+10-11+2019%2C+BST&iso=20190910T09&p1=136)
 
 #### Central European/Western African time
@@ -64,5 +64,4 @@ Registration for each event closes one week before that event. You may change or
 * [August 28-29, 2019](https://www.eventbrite.com/e/online-instructor-training-august-28-29-central-european-time-tickets-59708227917)  (UTC +2) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190828T09&p1=3904)
 
 # New Zealand
-* [July 29-30, 2019](https://www.eventbrite.com/e/online-instructor-training-july-29-30-new-zealand-time-tickets-63779926477) (UTC +12) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190729T09&p1=22)
-
+* July 29-30, 2019 (UTC +12) *Registration closed* 
