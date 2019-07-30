@@ -72,6 +72,16 @@ you risk losing the audience's attention because your face is less prominent.
 If you chose to use slides in your workshop,
 this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides.
 
+### Using Etherpad 
+
+Each workshop will have an Etherpad. 
+You can use the [Instructor Training Etherpad template](https://pad.carpentries.org/ttt-template)
+to quickly copy and paste challenges or useful information into your Etherpad. 
+
+Given the central role that Etherpad plays is running Carpentry workshops,
+you may want to take a minute to explain [how to create a pad](https://pad.carpentries.org/),
+what pads can be used for, and how long pads stick around. You may also want to point attendees to the ["pad of pads"](https://pad.carpentries.org/pad-of-pads).
+
 ### General Preparation
 
 TBA
