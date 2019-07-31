@@ -141,6 +141,15 @@ problem.
 
 Remind learners frequently about using their sticky notes, or they (and you) will forget.
 
+> ## Accessibility of Sticky Notes
+> We strongly encourage you to get sticky notes in colors other than red and green, 
+> as we have found that some learners (not to mention helpers and instructors!) 
+> may have colorblindness and thus cannot properly ask for/give help this way. 
+> Alternate ideas are to use differently-shaped sticky notes (stars and squares, 
+> thumbs up that can be turned into thumbs down stickies), or to use one sticky note 
+> as a flag for help.
+{: .callout}
+
 > ## Practice Teaching
 >
 > Teach 3 minutes of your chosen lesson episode using live coding to one or two
