@@ -4,7 +4,7 @@ title: "Instructor Training Calendar"
 ---
 
 
-#### Carpentries Member Site Instructor Training Calendar
+#### The Carpentries Instructor Training Calendar
 ###  January to December 2019
 
 If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their membership term.
