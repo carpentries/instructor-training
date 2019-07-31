@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructor Training Calendar for Carpentries Members"
+title: "Instructor Training Calendar"
 ---
 
 
