@@ -13,6 +13,17 @@ If you are joining through our open application program, applications are review
 
 All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone for the full 2-day event. A link is provided next to each event that will convert the start time to your local time zone.
 
+Read more about our Instructor Training program [here]({{ page.root }}).
+
+If you have not already done so, please be sure to complete our [instructor training application](https://amy.carpentries.org/forms/request_training/) so we can be sure you are in our system.  
+
+The class will be hands-on throughout:
+short lessons will alternate with individual and group practical exercises,
+including practice teaching sessions.
+Those who complete the two full days
+and [some short follow-up exercises online]({{ page.root }}/checkout/)
+will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
+
 Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
 # North America
