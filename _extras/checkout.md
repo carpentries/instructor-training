@@ -49,40 +49,52 @@ and must be requested before the three months are up. To request an extension, p
 ## Part 1: Submit a Small Contribution to One of Our Lessons
 <a name="lesson-change"></a>
 
-Our lessons are maintained and improved by the people who teach them,
-so this part of the checkout procedure gives you a chance to familiarize yourself
+Our lessons and lesson infrastructure are maintained and improved by the people who use them.
+With this part of the checkout procedure, you will familiarize yourself
 with our collaborative curriculum development process.
 
-Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
+### Examples of Contributions
 
-1. Providing substantive feedback on an existing issue or pull request (preferred).
-2. Submitting a change to fix an existing issue.
-3. Proof-reading a lesson and adding a new issue describing something to be improved.
+Trainees must make a contribution to any GitHub repository in The Carpentries organization that is actively maintained and supports a lesson (e.g. [LC Open Refine](https://github.com/LibraryCarpentry/lc-open-refine/), [SWC Unix Shell](http://swcarpentry.github.io/shell-novice/)) or lesson infrastructure (e.g. the [handbook](https://github.com/carpentries/handbook), [workshop template](https://github.com/carpentries/workshop-template)). 
 
-Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub.
+We **encourage** the following types of contributions:
 
-Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing
-to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that lesson on the lesson page. The lesson pages can be found at:  
+1. Comments on an existing issue or pull request (**preferred**).
+1. New pull requests the resolve an existing issue. 
+1. New issues describing something to be improved (e.g. reword a learning objective or the instructor notes)
+1. New issues describing something to be fixed (e.g. typos). 
+1. New diagrams for any of our lessons, submitted as a scalable vector graphics (SVG) file.
+
+We **discourage** the following types of contibutions:
+
+1. Materials that introduce new concepts.
+2. Challenges that test concepts not already covered in the material.
+
+### How to Contribute and Recieve Credit
+
+Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub. For more details on the workflow of how to contribute via GitHub, see this
+community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
+
+Each GitHub repository has a **CONTRIBUTING.md** file that explains best practices for contributing; please follow these guidelines when making a contribution. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that lesson on the lesson page. The lesson pages can be found at:  
 
 * [https://datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/)
 * [https://software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/)
 * [https://librarycarpentry.org/lessons/]({{ site.lc_site }}/lessons/) 
 
-Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
 
-Please note that:
+**After submiting your contribution** through GitHub, you need to [send us](mailto:{{ site.email }})
+ a link to the pull request or issue so that we can track your progress through checkout.
+Your contribution doesn't need to be accepted in order for you to copmlete checkout because
+the point is to make sure that you understand the process and have met the people who review material.
 
-1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
-    a link to the pull request or issue so that we can track your progress through checkout.
 
-2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
-    the point is to make sure that you understand the process and have met the people who review material.
+### Additional considerations
 
-3.  Be sure to format your submission in the same way as the content that's already there.
+1.  Formatting: Be sure to format your submission in the same way as the content that's already there.
     The `CONTRIBUTING.md` file in each lesson has guidelines
     (and improvements to these guidelines are welcome).
 
-4.  The lesson maintainers get many pull requests,
+1.  Commit messages: The lesson maintainers receive many pull requests,
     so please take some time to write a good commit message to help them understand what you're doing.
     For example:
 
@@ -101,23 +113,6 @@ Please note that:
     ~~~
     {: .source}
 
-5.  We do *not* want exercises or other material that introduce new concepts:
-    our lessons are already full to bursting.
-
-6.  We are happy to accept contributions of new diagrams for any of our lessons.
-    Please use SVG (scalable vector graphics),
-    since vector formats are easier to manipulate than raster formats.
-    SVG files can be produced using [Inkscape](https://inkscape.org/)
-    as well as other graphics programs.
-
-7.  We also appreciate improvements to our lessons' learning objectives.
-    In particular,
-    we would like our current learning objectives to be checked against the actual lesson content,
-    and to be framed in terms of observables
-    (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
-    
-For more details on the workflow of how to contribute via GitHub, see this
-community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 
 ## Part 2: Take Part in An Online Community Discussion Session
 <a name="discussion-session"></a>
