@@ -161,8 +161,7 @@ will embody the Carpentries ethos and practices.
 >
 > There is a great list
 >
-> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
-).
+> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
 {: .callout}
 
 ## How to Run a Carpentries Workshop
