@@ -54,7 +54,6 @@ frequent formative assessment is important.
 >
 > Take 5 minutes to complete the exercise. What was your score? Write your answer
 > in the Etherpad.
->
 {: .challenge}
 
 > ## Test Your Working Memory - Analog version (5 min)
@@ -66,7 +65,6 @@ frequent formative assessment is important.
 >
 > Without looking at the list again, write down as many words from the list as
 > you can. How many did you remember? Write your answer in the Etherpad.
->
 {: .challenge}
 
 Most people will have found they only remember 5-7 words. Don't worry if you
@@ -402,7 +400,6 @@ concept in your concept map.
 >>**Answer** `country` and  `continent`
 >>
 >{: .solution}
->
 {: .challenge}
 
 ## Summary
