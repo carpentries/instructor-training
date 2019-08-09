@@ -36,7 +36,7 @@ As you read in your homework last night, there are three final steps to complete
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-extensions may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
+extensions for up to a year may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
 > ## Carpentries Tools: Etherpad
 > 
