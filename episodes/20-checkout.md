@@ -35,6 +35,9 @@ As you read in your homework last night, there are three final steps to complete
 2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
+All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
+extensions may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
+
 > ## Carpentries Tools: Etherpad
 > 
 > The Etherpad is a widely used tools in Carpentries workshops and many other activities in the community. 
@@ -96,6 +99,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 * **You get to teach!** Badged instructors are certified to co-teach any Carpentries lesson. All Carpentries Instructor badges are acceptable to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While non-badged instructors may also co-teach, every Carpentries branded workshop must have one badged instructor to lead the way.
 * **You get to vote!** Badged instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) for rules governing continuing voting eligibility.
 * **You've got something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
+
 
 > ## Check Out the Discussion (Optional)
 >
