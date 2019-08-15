@@ -75,5 +75,8 @@ Registration for each event closes one week before that event. You may change or
 * July 1-2, 2019 (UTC +2) *Registration closed*
 * [August 28-29, 2019](https://www.eventbrite.com/e/online-instructor-training-august-28-29-central-european-time-tickets-59708227917)  (UTC +2) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+2-day+event+%28start+time%29&iso=20190828T09&p1=3904)
 
+# Australia
+* [November 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-november-26-27-australia-eastern-time-tickets-69253357657) (UTC +10) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191126T09&p1=47)
+
 # New Zealand
 * July 29-30, 2019 (UTC +12) *Registration closed* 
