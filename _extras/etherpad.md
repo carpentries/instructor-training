@@ -35,11 +35,11 @@ Create anchor for each one of the episodes.
 {% endcomment %}
 
 {% for episode in site.episodes %}
-<h1>Episode: {{episode.title}} <br/><a href="{{site.url}}{{ relative_root_path }}{{episode.url}}">{{site.url}}{{ relative_root_path }}{{episode.url}}</a></h1>
+<h1>{{episode.title}} <br/><a href="{{site.url}}{{ relative_root_path }}{{episode.url}}">{{site.url}}{{ relative_root_path }}{{episode.url}}</a></h1>
 
 <br/>
 <blockquote>
-<h2>Episode Questions:</h2>
+<h2>Questions:</h2>
 <ul>
 {% for question in episode.questions %}
 <li>{{question | markdownify}}</li>
@@ -48,7 +48,7 @@ Create anchor for each one of the episodes.
 </blockquote>
 
 <blockquote>
-<h2>Episode Objectives:</h2>
+<h2>Objectives:</h2>
 <ul>
 {% for objective in episode.objectives %}
 <li>{{objective|markdownify}}</li>
@@ -62,7 +62,7 @@ Create anchor for each one of the episodes.
 
 <blockquote>
   <br/><br/>
-<h2>Episode Keypoints:</h2>
+<h2>Keypoints:</h2>
 <ul>
 {% for keypoint in episode.keypoints %}
 <li>{{keypoint|markdownify}}</li>
@@ -94,17 +94,35 @@ $("h2").wrap("<i>");
 $("h3").wrap("<u>");
 
 
+// //Also need to kill images. Not sure we need to keep images in blockquotes, but eh, might be useful some day if we print it off or something.
+// //https://stackoverflow.com/a/19073240/263449
+
+
+$("img").each(function(){
+	$(this).parent().replaceWith("<blockquote><p>Image: "+$(this).prop('alt')+" "+$(this).prop('src')+"</p></blockquote>")
+})
+
+
 // Remove all paragraph text which exists outside of a blockquote
 $( "p").not('blockquote p').remove();
 
 // Also remove all unordered lists.
 $( "ul").not('blockquote ul').remove();
 
+// Can't forget ordered lists.
+$( "ol").not('blockquote ol').remove();
+
 // The navbar presents copying problems, so we need to clear that as well
 $(".navbar").remove();
 
 // Code should also not be copied over to the etherpad. Code is indicated by the .source class on divs, rather than as a blockquote
 $( "div.source").not('blockquote div.source').remove();
+
+// Other divs need to be removed too
+$( "[class^=highlight]").not('blockquote [class^=highlight]').remove();
+
+
+
 
 //Take all ordered lists and turn them into unordered lists, because ordered lists don't transfer well into the etherpad.
 //https://stackoverflow.com/a/12679823/263449
@@ -138,8 +156,13 @@ $("blockquote.discussion h2").each(function(){
 //https://stackoverflow.com/a/17872365/263449
 $("blockquote").contents().unwrap();
 
-//This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
-//console.log("hi");
+
+//remove all non-essential formatting.
+$("[class]").removeClass();
+$("*").removeAttr('id');
+
+// //This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
+// //console.log("hi");
 
 
   }
