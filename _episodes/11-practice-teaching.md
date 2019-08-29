@@ -123,7 +123,8 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Keep a strict time limit of 90 seconds per person.
+>     Keep a strict time limit of 90 seconds per person (one person
+>     should be responsible for the timekeeping).
 > 3.  After the first person finishes,
 >     rotate roles
 >     (they become the videographer,
@@ -140,7 +141,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > **Distributed trainings:**
 > Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
 > but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching.
+> turn teaching. Also with in this setup one person should be responsible for the timekeeping.
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
