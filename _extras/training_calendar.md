@@ -34,7 +34,7 @@ Registration for each event closes one week before that event. You may change or
 * April 22-23, 2019 (UTC -7)  *Registration closed*
 * May 30-31, 2019 (UTC -7)  *Registration closed*
 * June 18-19, 2019 (UTC -7) *Registration closed*
-* [September 5-6, 2019](https://www.eventbrite.com/e/online-instructor-training-september-5-6-n-america-pacific-time-tickets-65407558769)  (UTC -7)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-09-05-ttt-PDT&iso=20190905T09&p1=137)
+* September 5-6, 2019  (UTC -7)  *Registration closed*
 * [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137)
 
 #### Mountain time
