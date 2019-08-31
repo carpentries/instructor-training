@@ -3,6 +3,7 @@ layout: base
 title: "Etherpad Template"
 ---
 <blockquote><div style=' border:2px solid black; background:white;margin:10px;padding:5px;'><h1> Etherpad Exporter </h1><p>To use, click copy to clipboard, go to your etherpad, and paste, or click save page to disk for etherpad import, go to etherpad, click the double-arrow button in the top right, choose the file just downloaded, and click import now.</p>
+	<p>Workshop ID:<input id="workshop-id" name="workshop-id" value="WORKSHOP_ID_HERE"/></p>
 	<button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for etherpad import</button></div></blockquote>
 
 <div id="data-copy-target">
@@ -27,7 +28,7 @@ Please sign in so we can record your attendance.<br/>
   <li>&nbsp;</li>
 </ul>
 <br/>
-Please fill out the pre-training survey at https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE
+Please fill out the pre-training survey at https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=<span id="preid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span>
  
 </blockquote> 
 
@@ -36,6 +37,9 @@ Please fill out the pre-training survey at https://www.surveymonkey.com/r/instru
 
 {% comment %}
 Create anchor for each one of the episodes.
+
+Do not use the filter markdownify when specifying an <li> because otherwise firefox 68 adds extra bullets inside the included <p>.
+
 {% endcomment %}
 
 {% for episode in site.episodes %}
@@ -46,7 +50,7 @@ Create anchor for each one of the episodes.
 <h2>Questions:</h2>
 <ul>
 {% for question in episode.questions %}
-<li>{{question | markdownify}}</li>
+<li>{{question}}</li>
 {% endfor %}
 </ul>
 </blockquote>
@@ -55,7 +59,7 @@ Create anchor for each one of the episodes.
 <h2>Objectives:</h2>
 <ul>
 {% for objective in episode.objectives %}
-<li>{{objective|markdownify}}</li>
+<li>{{objective}}</li>
 {% endfor %}
 </ul>
 </blockquote>
@@ -69,7 +73,7 @@ Create anchor for each one of the episodes.
 <h2>Keypoints:</h2>
 <ul>
 {% for keypoint in episode.keypoints %}
-<li>{{keypoint|markdownify}}</li>
+<li>{{keypoint}}</li>
 {% endfor %}
 </ul>
 <br/><br/>
@@ -83,7 +87,7 @@ Create anchor for each one of the episodes.
 
 <blockquote>
 <p><b>BEFORE YOU LEAVE</b></p>
-<p>Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</p>
+<p>Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=<span id="postid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span></p>
 <br/><br/><br/><br/><br/>
 
 <p>Lesson content on this page released under a creative commons attribution license. Lesson Content &copy; 2018-2019 The Carpentries .</p>
@@ -106,8 +110,31 @@ function save() {
   a.click();
 }
 </script>
+<script>
+	// https://gist.github.com/yidas/41cc9272d3dff50f3c9560fb05e7255e
 
+	/**
+ * This function is same as PHP's nl2br() with default parameters.
+ *
+ * @param {string} str Input text
+ * @param {boolean} replaceMode Use replace instead of insert
+ * @param {boolean} isXhtml Use XHTML 
+ * @return {string} Filtered text
+ */
+function nl2br (str, replaceMode, isXhtml) {
+
+  var breakTag = (isXhtml) ? '<br />' : '<br>';
+  var replaceStr = (replaceMode) ? '$1'+ breakTag : '$1'+ breakTag +'$2';
+  return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, replaceStr);
+}
+</script>
 <script>  window.onload = function() {
+
+//Why paste workshop ID two places in the middle of the document when it can be highlighted front and centre and changed twice automatically?
+$("input#workshop-id").change(function(){
+	$("#preid").text($(this).val());
+	$("#postid").text($(this).val());
+})
 
 // Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad. 
 
@@ -133,6 +160,8 @@ $("img").each(function(){
 // Remove all paragraph text which exists outside of a blockquote
 $( "p").not('blockquote p').remove();
 
+$( "pre").not('blockquote pre').parent().parent().remove();
+
 // Also remove all unordered lists.
 $( "ul").not('blockquote ul').remove();
 
@@ -146,7 +175,7 @@ $(".navbar").remove();
 $( "div.source").not('blockquote div.source').remove();
 
 // Other divs need to be removed too
-$( "[class^='highlight']").not('blockquote [class^="highlight"]').remove();
+//$( "[class^='highlight']").not('blockquote [class^="highlight"]').remove();
 
 //oops, forgot to clear out the footer.
 $("footer").remove();
@@ -184,21 +213,40 @@ $("blockquote.discussion h2").each(function(){
 //https://stackoverflow.com/a/17872365/263449
 $("blockquote").contents().unwrap();
 
-//https://stackoverflow.com/a/22581382/263449
 
 
+//To address @maxim-belkin's comments on code formatting and newlines being lost.
+//$("*").removeAttr('id');
+
+$("div[class^='language']").each(function(){
+	if ($(this).hasClass("language-python") == true) {
+		$(this).before("<i>Python:</i><br/>");
+	} 
+	else {
+		$(this).before("<i>Code:</i><br/>");
+	}
+
+})
+$("div[class^='output']").each(function(){
+	$(this).before("<i>Output:</i><br/>");
+	
+
+})
+
+$("div").after("<br/>");
+
+$("pre").each(function(){
+	$(this).text($(this).text().replace("\n","\n\n")) ;
+})
 
 //remove all non-essential formatting.
 
 $("[class]").removeClass();
 
-//$("*").removeAttr('id');
-
-
-
 // //This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
 // //console.log("hi");
 
+//https://stackoverflow.com/a/22581382/263449
 new ClipboardJS("#copy-button");
 
   }
