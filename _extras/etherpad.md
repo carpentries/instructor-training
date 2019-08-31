@@ -110,24 +110,8 @@ function save() {
   a.click();
 }
 </script>
-<script>
-	// https://gist.github.com/yidas/41cc9272d3dff50f3c9560fb05e7255e
 
-	/**
- * This function is same as PHP's nl2br() with default parameters.
- *
- * @param {string} str Input text
- * @param {boolean} replaceMode Use replace instead of insert
- * @param {boolean} isXhtml Use XHTML 
- * @return {string} Filtered text
- */
-function nl2br (str, replaceMode, isXhtml) {
 
-  var breakTag = (isXhtml) ? '<br />' : '<br>';
-  var replaceStr = (replaceMode) ? '$1'+ breakTag : '$1'+ breakTag +'$2';
-  return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, replaceStr);
-}
-</script>
 <script>  window.onload = function() {
 
 //Why paste workshop ID two places in the middle of the document when it can be highlighted front and centre and changed twice automatically?
