@@ -2,7 +2,11 @@
 layout: base
 title: "Etherpad Template"
 ---
-<blockquote>
+<blockquote><div style=' border:2px solid black; background:white;margin:10px;padding:5px;'><h1> Etherpad Exporter </h1><p>To use, click copy to clipboard, go to your etherpad, and paste, or click save page to disk for etherpad import, go to etherpad, click the double-arrow button in the top right, choose the file just downloaded, and click import now.</p>
+	<button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for etherpad import</button></div></blockquote>
+
+<div id="data-copy-target">
+<blockquote >
 <p>Welcome to The Carpentries Etherpad!</p>
 
 <p>This pad is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents.</p>
@@ -74,11 +78,34 @@ Create anchor for each one of the episodes.
 </blockquote>
 
 
-Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE
 
 {% endfor %}
 
+<blockquote>
+<p><b>BEFORE YOU LEAVE</b></p>
+<p>Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</p>
+<br/><br/><br/><br/><br/>
 
+<p>Lesson content on this page released under a creative commons attribution license. Lesson Content &copy; 2018-2019 The Carpentries .</p>
+</blockquote>
+</div>
+<script src='../assets/js/clipboard.min.js'></script>
+
+<script>
+
+//https://stackoverflow.com/a/29462236/263449
+function save() {
+  var htmlContent = [$("#data-copy-target").html()];
+  var bl = new Blob(htmlContent, {type: "text/html"});
+  var a = document.createElement("a");
+  a.href = URL.createObjectURL(bl);
+  a.download = "etherpad-export-from-carpentries.html";
+  a.hidden = true;
+  document.body.appendChild(a);
+  a.innerHTML = "download link";
+  a.click();
+}
+</script>
 
 <script>  window.onload = function() {
 
@@ -119,9 +146,10 @@ $(".navbar").remove();
 $( "div.source").not('blockquote div.source').remove();
 
 // Other divs need to be removed too
-$( "[class^=highlight]").not('blockquote [class^=highlight]').remove();
+$( "[class^='highlight']").not('blockquote [class^="highlight"]').remove();
 
-
+//oops, forgot to clear out the footer.
+$("footer").remove();
 
 
 //Take all ordered lists and turn them into unordered lists, because ordered lists don't transfer well into the etherpad.
@@ -156,15 +184,24 @@ $("blockquote.discussion h2").each(function(){
 //https://stackoverflow.com/a/17872365/263449
 $("blockquote").contents().unwrap();
 
+//https://stackoverflow.com/a/22581382/263449
+
+
 
 //remove all non-essential formatting.
+
 $("[class]").removeClass();
-$("*").removeAttr('id');
+
+//$("*").removeAttr('id');
+
+
 
 // //This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
 // //console.log("hi");
 
+new ClipboardJS("#copy-button");
 
   }
 
 </script>
+
