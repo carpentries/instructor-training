@@ -223,9 +223,8 @@ $("pre").each(function(){
 	$(this).text($(this).text().replace("\n","\n\n")) ;
 })
 
-//remove all non-essential formatting.
-
-$("[class]").removeClass();
+//remove all non-essential formatting. (Specifically preserving the container.)
+$("[class]").not(".container").removeClass();
 
 // //This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
 // //console.log("hi");
