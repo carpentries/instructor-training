@@ -67,7 +67,7 @@ Registration for each event closes one week before that event. You may change or
 * May 13-14, 2019 (UTC +1) *Registration closed*
 * June 19-20, 2019 (UTC +1) *Registration closed*
 * July 25-26, 2019 (UTC +1) *Registration closed* 
-* [September 10-11, 2019](https://www.eventbrite.com/e/online-instructor-training-september-10-11-british-summer-time-tickets-65523276885) (UTC +1)   To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+September+10-11+2019%2C+BST&iso=20190910T09&p1=136)
+* September 10-11, 2019 (UTC +1) *Registration closed* 
 
 #### Central European/Western African time
 * January 30-31, 2019 (UTC +1) *Event Canceled*
