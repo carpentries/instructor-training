@@ -117,7 +117,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of
 >     the lesson episode you chose before the start of the training course. You will not
->     be live coding; you can use a whiteboard or other visual aids if available (but
+>     be doing live coding; you can use a whiteboard or other visual aids if available (but
 >     this is not required!). We recommend using this 90 second teaching moment
 >     to introduce the topic of your lesson.
 > 3.  Get together with your group and have each person teach their segment to the group,
