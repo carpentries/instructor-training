@@ -31,8 +31,9 @@ practice giving part of a workshop introduction.
 > - Did you feel like they were enthusiastic about the course and invested in you?
 > - Was it clear what you were going to be learning?
 > - Were you excited about the material?
-> - Did you leave that first day thinking the instructor was uninterested, that you weren't the learners they wanted to
-be teaching or you had no idea what the course was supposed to be about?
+> - Did you leave that first day thinking the instructor was uninterested,
+>   that you weren't the learners they wanted to be teaching
+>   or you had no idea what the course was supposed to be about?
 {: .discussion}
 
 Your impression on the first day of a course probably matched that of the rest of
