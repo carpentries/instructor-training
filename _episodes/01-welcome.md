@@ -21,7 +21,7 @@ keypoints:
 
 > ## Getting to know each other
 >
-> If the trainer has chosen an [icebreaker question]({{training_site}}/instructor-training/icebreakers/index.html),
+> If the trainer has chosen an [icebreaker question]({{training_site}}/icebreakers/index.html),
 > participate by writing your answers in the course's shared notes.
 {: .challenge}
 
@@ -34,7 +34,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 ## Introductions
 
 > Introductions set the stage for learning.
-> 
+>
 > --- Tracy Teal, Executive Director, The Carpentries
 {: .testimonial}
 
