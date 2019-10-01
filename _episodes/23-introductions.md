@@ -205,8 +205,8 @@ that they will be ready to work in groups or dialogue with each other.
 > ## Example Icebreaker
 > Here is one example of an icebreaker you can use:
 > Have everyone turn to a partner and introduce themselves with their
-> name, one word about their research 'microbes', 'dogs', 'vectors',
-> 'stars' and a thing they're proud of that they made.
+> name, one word about their research (e.g.'microbes', 'dogs', 'vectors',
+> 'stars') and a thing they're proud of that they made.
 {: .callout}
 
 Head here for [more examples of Icebreakers][icebreakers].
