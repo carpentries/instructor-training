@@ -264,8 +264,8 @@ and improve the lessons via "bug fixes" as we go along.
 > ## Lesson Incubation
 >
 > Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software and
-> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
+> own fantastic lesson!  If you'd like to model it after the Software, Data and
+> Library Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
 {: .callout}
 
 > ## Many Ways to Contribute
