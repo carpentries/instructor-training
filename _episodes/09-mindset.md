@@ -95,7 +95,7 @@ highlighting our ability to improve with effort.
 >
 > - I like the way you tried a couple of different strategies to solve that problem.
 > - You're getting really good at that. Keep up the hard work!
-> - You're really talented.
+> - You're really good at that.
 > - That was a hard problem. You didn't get the right answer, but look at how much you learned trying to solve it!
 >
 >> ## Solution
