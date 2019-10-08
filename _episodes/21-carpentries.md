@@ -11,7 +11,7 @@ objectives:
 - "Get connected with the Carpentry community."
 - "Describe where you can go to get information on running a workshop."
 keypoints:
-- "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
+- "Carpentry materials are all openly licensed, but Software, Data and Library Carpentry names and logos are trademarked."
 - "Carpentry workshops must cover core concepts, have at least one certified instructor, and use our pre- and post-workshop surveys."
 - "[Guidance for teaching and hosting workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) is provided in [The Carpentries Handbook](https://docs.carpentries.org)."
 
