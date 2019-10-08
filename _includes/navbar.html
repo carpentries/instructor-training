@@ -67,7 +67,13 @@
           <ul class="dropdown-menu">
             <li><a href="{{ relative_root_path }}{% link reference.md %}">Reference</a></li>
             {% for extra in site.extras %}
-            <li><a href="{{ relative_root_path }}{{ extra.url }}">{{ extra.title }}</a></li>
+
+            {% unless extra.exclude %}
+
+               <li><a href="{{ relative_root_path }}{{ extra.url }}">{{ extra.title }}</a></li>
+
+            {% endunless %}
+
             {% endfor %}
           </ul>
         </li>
