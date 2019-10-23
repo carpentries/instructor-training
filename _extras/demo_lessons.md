@@ -29,6 +29,8 @@ If the chosen episode is very short and finishes in less than five minutes, the 
 
 ### <a id="dc-genomics"></a>Data Carpentry: Genomics
 
+If you are an instructor in training and wish to use lessons from Data Carpentry’s Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/teaching_demos/index.html) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
+
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Project Organization and Management for ](https://datacarpentry.org/organization-genomics/) | none | all lessons | Discussion based. No live coding. |
