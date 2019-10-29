@@ -7,7 +7,7 @@ title: "Instructor Training Calendar"
 #### The Carpentries Instructor Training Calendar
 ###  January to December 2019
 
-If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their membership term.
+Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
@@ -15,7 +15,7 @@ All trainings are offered online from 9 am to 5 pm in the time zone noted.  You 
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
-If you have not already done so, please be sure to complete our [instructor training application](https://amy.carpentries.org/forms/request_training/) so we can be sure you are in our system.  
+If you have not already done so, please be sure to also complete our [instructor training application](https://amy.carpentries.org/forms/request_training/) so we can be sure you are in our system **in addition to** completing the registration on Eventbrite. The registration on Eventbrite secures your seat at an event; the application form ensures your information is in our system.    
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
