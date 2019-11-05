@@ -23,7 +23,7 @@ Because we have only two days, some things are beyond the scope of this class. W
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
 *Please fill in [the online application form][application-form] if you wish to take part in this course.
-Priority is given to members of our partner organizations,
+Priority is given to members of our member organizations,
 but we run several open-enrollment classes each year as well.*
 
 The class will be hands-on throughout:
