@@ -135,26 +135,44 @@ seem trivial to you, as they often will.
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
-Another potential challenge for experts who teach is what we call *expert blind spot*.
+Another potential challenge for experts who teach is known in the literature as *expert blind spot*.
 Experts are frequently so familiar with their subject
-that they can no longer imagine what it's like to *not* see the world that way - this
-inability to see things from a non-expert perspective is an expert blind spot
-and can lead to what's known as the *expertise-reversal effect* - experts are often
+that they can no longer imagine what it's like to *not* understand the world that way - this
+inability to consider the material from a non-expert perspective can lead to what's 
+known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
-> ## Blind Spots  (Optional)
+> ## Expert Awareness Gap
+>  
+> In the Carpentries, we aim to be an inclusive environment. We prefer to refer to this
+> phenomenon as the *expert awareness gap* thus avoiding abelist language. We introduce 
+> both terms, however, to help you as future intstructors engage with these ideas in
+> the literature and people outside of the Carpentries community. 
+> 
+> In evaluating potential terms, one instructor provided the following thoughts: 
+> 
+> I like expert awareness gap because it's more precise than blind spot 
+> (it's not about seeing, but about noticing) and feels more of a surmountable 
+> challenge than a disadvantage. To me a disadvantage can sometimes feel like 
+> thing that exists as a fact, like an inevitable consequence, but a gap is a 
+> thing to be bridged-- and we certainly want instructors to try to overcome 
+> (or mitigate) their expert awareness gap
+>
+{: .callout}
+
+> ## Awareness Gaps  (Optional)
 >
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
 > thinking about it?  
 > 2. Think about the area of expertise you identified for yourself earlier.  What could a
-> potential blind spot be?   
+> potential awarenss gap be?   
 {: .challenge}
 
-The challenge of identifying and working around expert blind spots is one
+The challenge of identifying and working around expert awareness gaps is one
 reason why we welcome instructors who still identify as "novices"!  Someone
 who is still in the process of learning can be a more effective instructor
 because they are speaking from their own recent experience.  
