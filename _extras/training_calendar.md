@@ -4,8 +4,11 @@ title: "Instructor Training Calendar"
 ---
 
 
-#### The Carpentries Instructor Training Calendar
+## The Carpentries Instructor Training Calendar
+
 ###  January to December 2019
+#### *A calendar for the first few months of 2020 will be published by early December.*
+
 
 Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
 
