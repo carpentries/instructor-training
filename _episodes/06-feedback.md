@@ -1,12 +1,13 @@
 ---
-title: "Building Teaching Skill: Getting Feedback"
+title: "Building Skill With Feedback"
+block: "Building Teaching Skill"
 teaching: 10
 exercises: 10
 questions:
 - "How can I get feedback from learners?"
 - "How can I use this feedback to improve my teaching?"
 objectives:
-- "Describe three feedback mechanisms used in Carpentry workshops."
+- "Describe three feedback mechanisms used in Carpentries workshops."
 - "Give feedback to your instructors."
 keypoints:
 - "Give your learners time to fill out the post-workshop survey at the end of your workshop."
@@ -22,7 +23,7 @@ at multiple points in the workshop and in different forms.
 
 ## Surveys
 
-Carpentry learners fill out a survey before attending and immediately after a workshop. 
+Carpentries learners fill out a survey before attending and immediately after a workshop. 
 These surveys include questions to help instructors get an idea of their attendees prior
 experience and backgrounds before the workshop starts. Using this information, instructors
 can start to plan how they will approach the materials and what level of exercises
@@ -33,6 +34,9 @@ You can preview the surveys your learners will receive at the links below:
 - [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
 - [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
 - [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
+- [Library Carpentry pre-workshop survey](https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id=)
+- [Library Carpentry post-workshop survey](https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id=)
+
 
 > ## Timing Matters
 > 

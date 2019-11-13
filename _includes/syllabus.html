@@ -1,3 +1,5 @@
+{% include base_path.html %}
+
 {% comment %}
   Display syllabus in tabular form.
   Days are displayed if at least one episode has 'start = true'.
@@ -16,7 +18,7 @@
   <tr>
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
-    <td class="col-md-3"><a href="{{ page.root }}{% link setup.md %}">Setup</a></td>
+    <td class="col-md-3"><a href="{{ relative_root_path }}{% link setup.md %}">Setup</a></td>
     <td class="col-md-7">Download files required for the lesson</td>
   </tr>
   <tr>
@@ -46,8 +48,8 @@
       {% if multiday %}<td class="col-md-1">{% if episode.start %}Day {{ day }}{% endif %}</td>{% endif %}
       <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
-        
-	 <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
+        {% assign lesson_number = lesson_number | plus: 1 %}
+	{{ lesson_number }}. <a href="{{ relative_root_path }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
       <td class="col-md-7">
         {% if episode.break %}
@@ -72,7 +74,7 @@
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
     <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
-    <td class="col-md-7">Please fill out our pre-training survey before the start of the course.</td>
+    <td class="col-md-7">Please fill out our post-training survey after the course.</td>
   </tr>
   {% assign current = current | plus: 15 %}
   {% assign hours = current | divided_by: 60 %}

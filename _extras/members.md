@@ -1,42 +1,56 @@
 ---
 layout: page
 title: "Information for Member Organizations"
-permalink: /members/
-survey_link: 
+survey_link:
 ---
 
+Welcome to The Carpentries community. We are excited to welcome you as a member organisation. Our instructor training process is a vital component of how we spread the teaching culture of the Carpentries to new organisations. We’re looking forward to meeting your team and helping them develop their teaching skills so you can have the best impact on the learners at your institution.
 
-Welcome to the Software Carpentry and Data Carpentry community.  We are excited to welcome you as a member organization. Our instructor training process is a large part of how we spread the teaching culture of the Carpentries to new organizations. We’re looking forward to meeting your team and bringing them up to speed on how we teach so we can have the best impact on our learners.
+Your annual membership gives you a number of slots in our Instructor Training program. This training is for people who want to become certified Instructors with The Carpentries and is based on our constantly updated open-source [curriculum](https://carpentries.github.io/instructor-training/). 
 
-Your annual membership gives you a number of slots in our instructor training program.  This is a training for people who want to become instructors with the Carpentries (Software Carpentry and Data Carpentry). The workshop is a mix of lectures and hands-on lessons and is very interactive where trainees practice giving short lessons using approaches learned and implement some of the teaching techniques which we will discuss. This is training about pedagogical approach to teaching, not technical training specific to particular lessons. Trainees do not need any particular technical background, and we will not be teaching our workshop curriculum to trainees. This workshop is based on our constantly revised and updated open sourced [curriculum for instructor training](https://carpentries.github.io/instructor-training/). 
+This two-day online workshop is a mix of lecture and hands-on practice and is highly interactive. Your trainees will learn evidence-based best-practices for teaching and strategies for creating a positive learning environment. They will have opportunities to practice these techniques and get feedback. This training will also help your team become integrated into the global Carpentries community. 
 
-Our trainings are all offered as two day, online events.  You can view our [training calendar](
-https://carpentries.github.io/instructor-training/training_calendar/) and sign up for a training that meets your team’s needs. A few points as you select dates:
+## How to select your trainees:
 
-* We recommend that you sign up for an event during the first six months of your membership year.  This ensures your trainees have time to complete the training program and start teaching workshops during your membership year.
-* You must sign up for this training at  least four weeks in advance. Events may be cancelled if no member organizations sign up by four weeks in advance.
-* All events run from 9am to 5pm in the time zone listed.  You do not need to be in the same time zone.  However, you do need to accommodate that time zone.  For example, a group from US/Central time may join a training scheduled from 9am to 5pm US/Eastern, but would need to be available from 8am to 4pm their time.
-* The number of seats your organization receives depends on your membership level (Silver/Gold/Platinum).  At least six participants must attend at once.  Any unused seats will be forfeited. This is to ensure we can accommodate everyone across all our member organization sites. Our  trainings include group exercises that  your  team must work on together.  We also want our training cohorts to recognize they are part of a team which represents the Carpentries at their institution.
-* Again, because we have group exercises, the entire team must be in the same room.  Individuals can not participate remotely.  
-* If an individual misses more than one hour of the training over both days, he/she will not pass the training requirement and his/her spot will be forfeited.  We are training people to deliver Carpentries training and be ambassadors of the Carpentries program, and need to ensure they get our full experience.
-* Names and emails of participants must be shared with Carpentries staff at least three weeks before the event.  Participants will be asked to complete our [application form](https://amy.software-carpentry.org/forms/request_training/) to register in our system. Participants will receive a link to more information including some pre-reading materials in advance of the event.  
-* Exceptions to any of the above may be granted at the discretion of Carpentries staff on a case by case basis. For questions please contact maneesha@carpentries.org.
+* Trainees should be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git). They do not need to be experts in that technology, but should use it at least weekly in their own work. We provide optional post-training onboarding sessions and mentoring opportunities to help Instructors level-up their skills and prepare to teach particular curricula.
+
+* Trainees do not need any previous teaching experience or background in education, but should have a passion for spreading computational and data literacy skills.
+
+* Trainees who have some previous experience with The Carpentries, whether as a learner or helper at a workshop, are more likely to complete the training and become active Instructors. 
+
+## How to schedule your team for training: 
+
+* You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/). All events run from 9am to 5pm in the time zone listed. 
+
+* Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organize a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training. 
+
+* We recommend that your team attends Instructor Training during the first six months of your membership year. This ensures they have time to complete the training requirements and start teaching workshops during your membership year.
+
+* If a trainee misses more than one hour of the training, they will not pass the training requirement and their spot will be forfeited. Because we are training people to deliver Carpentries training and be ambassadors of the Carpentries program, we need to ensure they get the full training experience.
+
+* Trainees may register or change their registration up to one week before the event. However, we recommend registering as early as possible, as these events fill up quickly. 
+
+* If one of your trainees is not able to attend after they've registered for an event, please get in touch with us at team@carpentries.org as soon as possible. In some cases, we will be able to transfer your training seat to another event, however, because the success of our program depends on accurately predicting our capacity needs, we may not be able to accommodate changes in registration unless we are notified in advance of the event. Except in case of emergency, training seats may be forfeited if advance notice is not given.
+
+* Information about software/hardware requirements for the training, preparatory homework, and video-conference connection information will be provided one week before the event. 
+
+* The [schedule](http://carpentries.github.io/instructor-training/#schedule) includes a lunch break as well as two shorter breaks in the morning and afternoon.
+
+*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, you will be notified two weeks before the event and will have the opportunity to sign up for a future event.*
 
 
-Once you’ve confirmed dates and participants, here is some information about preparing for the event itself:
+## What to expect after the event:
 
-* Trainings are offered remotely.  Your room should be set up for videoconferencing with a large screen & projector, speakers, camera, and microphone.
-* The training room should have wifi capable of videoconferencing and for each participant's laptop to connect.
-* Participants should bring their own laptop - not a Chromebook, tablet, etc.  No special software other than a modern internet browser is required.
-* Schedule will include a lunch break as well as mini breaks during the day.  We strongly encourage each site to provide coffee and lunch to help build team cohesiveness and to maintain the schedule.
-* Carpentries will provide a link to host the videoconference via Zoom in advance of the event in order to test your setup.
+* Participants will have three months (90 days) to complete [post-training homework exercises](http://carpentries.github.io/instructor-training/checkout/) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.   
+
+* After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
+
+* Your Instructors will receive ongoing support and mentorship from Carpentries staff and experienced Instructors to help them prepare to start teaching at your institution and beyond. 
+
+We’re excited to have you and your staff taking this important step to build a strong community of Instructors at your organization. We look forward to welcoming your Instructors into our community!
 
 
-Lastly, some information about what happens after the event:
 
-* Participants will have three months (90 days) to complete [post-training homework exercises](http://carpentries.github.io/instructor-training/checkout/) required to receive their instructor certificate.   
-* Participants who fail to complete these exercises will not be eligible for instructor certification. Extensions may be granted at the discretion of Carpentries staff. 
-* After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries instructors.
-* Participants will receive ongoing support and mentorship from Carpentries staff and experienced instructors to help them start teaching at their own institution or other locations.
 
-We’re excited to have you and your staff taking this important step to build a strong community of instructors at your organization. We look forward to welcoming your instructors into our community!
+
+
