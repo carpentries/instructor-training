@@ -39,7 +39,7 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * [Faceting and Clustering in OpenRefine]({{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/)
 * [Basic Queries in SQL]({{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/)
 * [Starting with Data in R]({{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html)
-* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/01-starting-with-data)
+* [Starting with Data in Python]({{ site.dc_site }}/python-ecology-lesson/02-starting-with-data)
 
 **Software Carpentry**
 
@@ -48,3 +48,9 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * [Selecting Data in SQL]({{ site.swc_pages }}/sql-novice-survey/01-select/)
 * [Repeating Actions with Loops in Python]({{ site.swc_pages }}/python-novice-inflammation/02-loop/)
 * [Exploring Data Frames in R]({{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/)
+
+**Library Carpentry**
+
+* [Working with Files and Directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)  
+* [Automating the Tedious with Loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)
+* [Importing Data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html)
