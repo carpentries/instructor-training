@@ -29,14 +29,18 @@ experience and backgrounds before the workshop starts. Using this information, i
 can start to plan how they will approach the materials and what level of exercises
 are likely to be appropriate for their learners. 
 
-You can preview the surveys your learners will receive at the links below:  
-- [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
-- [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
-- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
-- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
-- [Library Carpentry pre-workshop survey](https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id=)
-- [Library Carpentry post-workshop survey](https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id=)
+You can preview the surveys your learners will take at the links below:
 
+- [Pre-workshop survey](https://carpentries.typeform.com/to/wi32rS?__dangerous-disable-submissions)
+- [Post-workshop survey](https://carpentries.typeform.com/to/UgVdRQ?__dangerous-disable-submissions)
+
+> ## Survey links
+>
+> The survey links above are just for you to preview the survey as part of
+> Instructor Training. When you are teaching a workshop, make sure to share the
+> links that gets generated on your workshop website. Doing so will ensure that
+> you will receive all the survey results from your workshop participants.
+{: .checklist}
 
 > ## Timing Matters
 > 
