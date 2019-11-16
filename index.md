@@ -23,8 +23,7 @@ Because we have only two days, some things are beyond the scope of this class. W
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
 *Please fill in [the online application form][application-form] if you wish to take part in this course.
-Priority is given to members of our member organizations,
-but we run several open-enrollment classes each year as well.*
+Priority is given to participants at our member organizations.  We review open applications on a rolling basis, and accepted applicants are invited to join one of our online events.
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
