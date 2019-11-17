@@ -49,7 +49,7 @@ To prepare for tomorrow, please:
         *   [Working with Files and Directories in the Unix Shell](<{{ site.swc_pages }}/shell-novice/03-create/>)
         *   [Tracking Changes in Git](<{{ site.swc_pages }}/git-novice/04-changes/>)
         *   [Selecting Data in SQL](<{{ site.swc_pages }}/sql-novice-survey/01-select/>)
-        *   [Repeating Actions with Loops in Python](<{{ site.swc_pages }}/python-novice-inflammation/02-loop/>)
+        *   [Repeating Actions with Loops in Python](<{{ site.swc_pages }}/python-novice-inflammation/03-loop/>)
         *   [Exploring Data Frames in R](<{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/>)
 
 
