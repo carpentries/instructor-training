@@ -25,7 +25,7 @@ setting of the two-day training.  These are:
 
 1.  Contributing to our lesson materials.  As our materials are developed by the
     community, we want to ensure that all instructors know where and how to contribute
-    to our materials, particularly so that you can contribute in the future.
+    to our materials, particularly so that you can contribute in the future. 
 
 2.  Participating in the larger Carpentry instructor community.  We
     include the community discussion session in the checkout because we hear
@@ -56,7 +56,7 @@ with our collaborative curriculum development process.
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
 1. Providing substantive feedback on an existing issue or pull request (preferred).
-2. Submitting a change to fix an existing issue.
+2. Submitting a change to fix an existing issue.(Example [good first issues](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).)
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
 Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub.
