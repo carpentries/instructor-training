@@ -79,7 +79,5 @@ Registration for each event closes one week before that event. You may change or
 * August 28-29, 2019 (UTC +2)  *Registration closed*
 
 # Australia
-* [November 26-27, 2019](https://www.eventbrite.com/e/online-instructor-training-november-26-27-australia-eastern-time-tickets-69253357657) (UTC +10) To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191126T09&p1=47)
-
-# New Zealand
+* November 26-27, 2019 (UTC +10)  *Registration closed* 
 * July 29-30, 2019 (UTC +12) *Registration closed* 
