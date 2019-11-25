@@ -25,6 +25,8 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 
 Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
+**Additional events will be added on a rolling basis throughout the year.**
+
 ## North America
 
 #### Pacific time
