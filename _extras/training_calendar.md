@@ -4,7 +4,7 @@ title: "Instructor Training Calendar"
 ---
 
 
-## The Carpentries Instructor Training Calendar: 2020
+# The Carpentries Instructor Training Calendar: 2020
 
 Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
 
@@ -25,7 +25,7 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 
 Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
-# North America
+## North America
 
 #### Pacific time
 * [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137).  This event is full, but you may join the waitlist. You will be notified if space opens up.
@@ -39,7 +39,7 @@ Registration for each event closes one week before that event. You may change or
 * [January 29-30, 2020](https://www.eventbrite.com/e/online-instructor-training-january-29-30-n-america-eastern-time-tickets-83631408795) *To see the start time in your local time zone, click [here]()*
 * [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837) *To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-02-13-EST&iso=20200213T09&p1=179&ah=8)*
 
-# Europe and Africa
+## Europe and Africa
 
 #### Western European time
 
