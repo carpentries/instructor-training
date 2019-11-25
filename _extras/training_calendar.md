@@ -29,25 +29,25 @@ Registration for each event closes one week before that event. You may change or
 
 #### Pacific time
 * [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137).  This event is full, but you may join the waitlist. You will be notified if space opens up.
-* [February 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-february-19-20-2020-n-america-pacific-time-tickets-83636510053)
-* [April 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-april-16-17-2020-n-america-pacific-time-tickets-83638497999)
+* [February 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-february-19-20-2020-n-america-pacific-time-tickets-83636510053) *To see the start time in your local time zone, click [here]()*
+* [April 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-april-16-17-2020-n-america-pacific-time-tickets-83638497999) *To see the start time in your local time zone, click [here]()*
 
 #### Central time
-* [January 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-january-16-17-2020-n-america-central-time-tickets-83631003583)
+* [January 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-january-16-17-2020-n-america-central-time-tickets-83631003583) *To see the start time in your local time zone, click [here]()*
 
 #### Eastern time
-* [January 29-30, 2020](https://www.eventbrite.com/e/online-instructor-training-january-29-30-n-america-eastern-time-tickets-83631408795)
-* [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837)
+* [January 29-30, 2020](https://www.eventbrite.com/e/online-instructor-training-january-29-30-n-america-eastern-time-tickets-83631408795) *To see the start time in your local time zone, click [here]()*
+* [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837) *To see the start time in your local time zone, click [here]()*
 
 # Europe and Africa
 
 #### Western European time
 
-* [January 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-january-22-23-greenwich-mean-time-tickets-83631296459)
-* [March 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2020-greenwich-mean-time-tickets-83637691587)
+* [January 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-january-22-23-greenwich-mean-time-tickets-83631296459) *To see the start time in your local time zone, click [here]()*
+* [March 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2020-greenwich-mean-time-tickets-83637691587) *To see the start time in your local time zone, click [here]()*
 
 #### Central European/Western African time
 
-* [January 20-21, 2020](https://www.eventbrite.com/e/online-instructor-training-january-20-21-2020-central-european-time-tickets-83631264363)
-* [April 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-april-22-23-2020-central-european-time-tickets-83638889169)
+* [January 20-21, 2020](https://www.eventbrite.com/e/online-instructor-training-january-20-21-2020-central-european-time-tickets-83631264363) *To see the start time in your local time zone, click [here]()*
+* [April 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-april-22-23-2020-central-european-time-tickets-83638889169) *To see the start time in your local time zone, click [here]()*
 
