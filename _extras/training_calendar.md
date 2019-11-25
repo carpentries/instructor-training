@@ -4,11 +4,7 @@ title: "Instructor Training Calendar"
 ---
 
 
-## The Carpentries Instructor Training Calendar
-
-###  January to December 2019
-#### *A calendar for the first few months of 2020 will be published by early December.*
-
+# The Carpentries Instructor Training Calendar: 2020
 
 Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
 
@@ -29,55 +25,31 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 
 Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
-# North America
+**Additional events will be added on a rolling basis throughout the year.**
+
+## North America
 
 #### Pacific time
-* January 14-15, 2019 (UTC -8) *Registration closed*
-* March 20-21, 2019 (UTC -8) *Registration closed*
-* April 22-23, 2019 (UTC -7)  *Registration closed*
-* May 30-31, 2019 (UTC -7)  *Registration closed*
-* June 18-19, 2019 (UTC -7) *Registration closed*
-* September 5-6, 2019  (UTC -7)  *Registration closed*
-* [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  To see the start time in your local time zone, click [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137).  This event is full, but you may join the waitlist. You will be notified if space opens up.
-
-#### Mountain time
-* July 23-24, 2019 (UTC -6) *Event Canceled*
+* [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137).  This event is full, but you may join the waitlist. You will be notified if space opens up.
+* [February 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-february-19-20-2020-n-america-pacific-time-tickets-83636510053) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-02-19-PST&iso=20200219T09&p1=137&ah=8)*
+* [April 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-april-16-17-2020-n-america-pacific-time-tickets-83638497999) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-16-PST&iso=20200416T09&p1=137&ah=8)*
 
 #### Central time
-* January 10-11, 2019 (UTC -6) *Registration closed*
-* February 25-26, 2019 (UTC -6) *Registration closed*
-* April 4-5, 2019 (UTC -5) *Registration closed*
-* July 18-19, 2019] (UTC -5) *Registration closed*
-* August 26-27, 201 (UTC -5) *Registration closed*
-* September 18-19, 2019 (UTC -5) *Event Canceled*
-* October 24-25, 2019 (UTC -5) *Registration closed*
+* [January 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-january-16-17-2020-n-america-central-time-tickets-83631003583) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-01-16-CST&iso=20200116T09&p1=64&ah=8)*
 
 #### Eastern time
-* January 22-23, 2019(UTC -5) *Registration closed*
-* February 14-15, 2019(UTC -5) *Registration closed*
-* March 11-12, 2019 (UTC -4) *Registration closed*
-* May 21-22, 2019 (UTC -4)  *Registration closed* 
-* June 3-4, 2019 (UTC -4) *Registration closed* 
-* July 29-30, 2019 (UTC -4) *Registration closed* 
-* September 26-27, 2019 (UTC-4) *Registration closed* 
-* November 11-12, 2019 (UTC -5) *Registration closed* 
+* [January 29-30, 2020](https://www.eventbrite.com/e/online-instructor-training-january-29-30-n-america-eastern-time-tickets-83631408795) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-01-29-EST&iso=20200129T09&p1=179&ah=8)*
+* [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-02-13-EST&iso=20200213T09&p1=179&ah=8)*
 
-# Europe and Africa
+## Europe and Africa
 
 #### Western European time
-* January 22-23, 2019 (UTC) *Registration closed*
-* April 22-23, 2019  (UTC +1)  *Registration closed*
-* May 13-14, 2019 (UTC +1) *Registration closed*
-* June 19-20, 2019 (UTC +1) *Registration closed*
-* July 25-26, 2019 (UTC +1) *Registration closed* 
-* September 10-11, 2019 (UTC +1) *Registration closed* 
+
+* [January 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-january-22-23-greenwich-mean-time-tickets-83631296459) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-01-22-GMT&iso=20200122T09&p1=136&ah=8)*
+* [March 23-24, 2020](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2020-greenwich-mean-time-tickets-83637691587) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-03-22-GMT&iso=20200323T09&p1=136&ah=8)*
 
 #### Central European/Western African time
-* January 30-31, 2019 (UTC +1) *Event Canceled*
-* April 10-11, 2019 (UTC +2) *Registration closed*
-* July 1-2, 2019 (UTC +2) *Registration closed*
-* August 28-29, 2019 (UTC +2)  *Registration closed*
 
-# Australia
-* November 26-27, 2019 (UTC +10)  *Registration closed* 
-* July 29-30, 2019 (UTC +12) *Registration closed* 
+* [January 20-21, 2020](https://www.eventbrite.com/e/online-instructor-training-january-20-21-2020-central-european-time-tickets-83631264363) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-01-20-CEST&iso=20200120T09&p1=195&ah=8)*
+* [April 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-april-22-23-2020-central-european-time-tickets-83638889169) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-04-22-CET&iso=20200422T09&p1=195&ah=8)*
+
