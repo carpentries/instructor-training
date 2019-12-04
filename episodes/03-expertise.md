@@ -148,8 +148,10 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 > ## Expert Awareness Gap
 >  
 > In the Carpentries, we aim to be an inclusive environment. We prefer to refer to this
-> phenomenon as the *expert awareness gap* thus avoiding abelist language. We introduce 
-> both terms, however, to help you as future intstructors engage with these ideas in
+> phenomenon as the *expert awareness gap* to be consistent with our objective to use 
+> inclusive language. It can be exclusionary to term that relates to a disability to 
+> refer for other purposes. We introduce both terms, however, to help you as future
+> instructors engage with these ideas in
 > the literature and people outside of the Carpentries community. 
 > 
 > In evaluating potential terms, one instructor provided the following thoughts: 
