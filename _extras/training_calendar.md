@@ -46,7 +46,7 @@ Registration for each event closes one week before that event. You may change or
 
 * [January 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-january-22-23-greenwich-mean-time-tickets-83631296459) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-01-22-GMT&iso=20200122T09&p1=136&ah=8)*
 * [March 23-24, 2020](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2020-greenwich-mean-time-tickets-83637691587) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-03-22-GMT&iso=20200323T09&p1=136&ah=8)*
-* [April 30 - May 1](https://www.eventbrite.com/e/online-instructor-training-april-30-may-1-western-european-time-tickets-84737485099) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-30-BST&iso=20200430T09&p1=1440&ah=8)*
+* [April 30 - May 1, 2020](https://www.eventbrite.com/e/online-instructor-training-april-30-may-1-western-european-time-tickets-84737485099) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-30-BST&iso=20200430T09&p1=1440&ah=8)*
 
 #### Central European/Western African time
 
