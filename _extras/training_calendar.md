@@ -30,7 +30,6 @@ Registration for each event closes one week before that event. You may change or
 ## North America
 
 #### Pacific time
-* [December 11-12, 2019](https://www.eventbrite.com/e/online-instructor-training-december-11-12-2019-n-america-pacific-time-tickets-65407937903) (UTC -8)  See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2019-12-11-ttt-PST&iso=20191211T09&p1=137).  This event is full, but you may join the waitlist. You will be notified if space opens up.
 * [February 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-february-19-20-2020-n-america-pacific-time-tickets-83636510053) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-02-19-PST&iso=20200219T09&p1=137&ah=8)*
 * [April 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-april-16-17-2020-n-america-pacific-time-tickets-83638497999) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-16-PST&iso=20200416T09&p1=137&ah=8)*
 
