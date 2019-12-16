@@ -29,7 +29,7 @@ repository: <USERNAME>/<PROJECT>
 email: "checkout@carpentries.org"
 
 # Sites.
-amy_site: "https://amy.software-carpentry.org/workshops"
+amy_site: "https://amy.carpentries.org/workshops"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"

@@ -20,7 +20,7 @@ getting involved in the community in other ways.
 ## Application form
 
 Make sure that you have filled out the Carpentries
-[instructor application form](https://amy.software-carpentry.org/forms/request_training/).
+[instructor application form](https://amy.carpentries.org/forms/request_training/).
 We can not track your progress and make you an official instructor without it. If you have already
 filled out this form, you do not need to submit another application.
 
