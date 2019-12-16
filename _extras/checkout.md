@@ -43,7 +43,7 @@ and must be requested before the three months are up. To request an extension, p
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't already, please fill out [the online application form](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you haven't already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
@@ -217,7 +217,7 @@ You do not need to be prepared to teach the supplementary modules for your teach
 
 _Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise. 
 You can indicate the lessons you are comfortable teaching when you update 
-[your instructor profile](https://amy.software-carpentry.org/workshops/trainee-dashboard/)._ 
+[your instructor profile](https://amy.carpentries.org/workshops/trainee-dashboard/)._ 
 
 For your demonstration(s), you will screen-share
 and live code as if your computer was plugged into a projector
