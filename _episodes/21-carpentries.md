@@ -92,7 +92,7 @@ Library Carpentry workshops:
 In a visual representation, these similarities and differences look like this:
 
 ![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
-
+For this image, the word "carpentries" located in the center white space of the diagram should be capitalized to be "Carpentries". 
 
 ## What is a Carpentries Workshop? The Rules.
 
