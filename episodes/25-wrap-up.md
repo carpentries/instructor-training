@@ -12,31 +12,31 @@ keypoints:
 ---
 
 > ## One Up, One Down
-> 
+>
 > Provide one up, one down feedback on the entire two-day course.
-> 
+>
 > Just as in our regular workshops,
 > we collect post-instructor-training-workshop feedback.
 > Your participation will help us evaluate the efficacy of this training
 > and improve the content and delivery of the lesson materials.
-> 
+>
 > This exercise should take 5 minutes.
 {: .challenge}
 
 > ## Minute Cards
-> 
+>
 > In addition to giving one up, one down feedback. Please also fill out your sticky
-> notes to give your instructors anonymous feedback. 
-> 
+> notes to give your instructors anonymous feedback.
+>
 > This exercise should take 5 minutes.
 {: .challenge}
 
 > ## Post Workshop Surveys
-> 
-> Assessment is very important to us! Please take 5 minutes to complete 
-> this [five-minute post-workshop survey]({{site.training_post_survey}}).
 >
-> This exercise should take 5 minutes.  
+> Assessment is very important to us! Please take 5 minutes to complete
+> this [five-minute post-workshop survey]({{site.instructor_post_survey}}).
+>
+> This exercise should take 5 minutes.
 {: .challenge}
 
 ## Thank You
