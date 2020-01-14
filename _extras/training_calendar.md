@@ -50,6 +50,6 @@ Registration for each event closes one week before that event. You may change or
 
 #### Central European/Western African time
 
-* [January 20-21, 2020](https://www.eventbrite.com/e/online-instructor-training-january-20-21-2020-central-european-time-tickets-83631264363) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-01-20-CEST&iso=20200120T09&p1=195&ah=8)*
+* January 20-21, 2020 *Registration closed*
 * [April 22-23, 2020](https://www.eventbrite.com/e/online-instructor-training-april-22-23-2020-central-european-time-tickets-83638889169) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-04-22-CET&iso=20200422T09&p1=195&ah=8)*
 
