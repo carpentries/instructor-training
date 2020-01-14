@@ -96,7 +96,7 @@ motivating.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
+> please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
 {: .callout}
 
 ## Other Motivational Strategies
