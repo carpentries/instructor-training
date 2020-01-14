@@ -267,7 +267,7 @@ accessibility, etc.
 {: .challenge}
 
 
-These materials are adapted from [Carnegie Melon Eberly
+These materials are adapted from [Carnegie Mellon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
 [icebreakers]: {{ page.root }}/icebreakers/
