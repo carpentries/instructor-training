@@ -63,9 +63,10 @@ title: "Glossary"
     <br>
     See also *competent practitioner* and *novice*.
 
-*   **Expert Blind Spot**:
+*   **Expert Awareness Gap**:
     The inability of experts to empathize with novices who are
-    encountering concepts or practices for the first time.
+    encountering concepts or practices for the first time. 
+    Often referred to as expert blind spot in the literature. 
 
 *   **Faded Example**:
     A series of examples in which a steadily increasing number of key
