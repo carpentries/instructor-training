@@ -7,13 +7,13 @@ questions:
 - "What type of instructor is best for novices?"
 - "How are we (as instructors) different from our learners and how does this impact our teaching?"  
 objectives:
-- "Identify situations where you have an expert blind spot."
-- "Demonstrate strategies for compensating for your expert blind spot."
+- "Identify situations where you have an expert awareness gap."
+- "Demonstrate strategies for compensating for your expert awareness gap."
 - "Demonstrate strategies for avoiding demotivating language."
 keypoints:
-- "Experts face challenges when teaching novices due to expert blind spot."
-- "Expert blind spot: knowing something so well that it seems easy when it's not."
-- "With practice, we can learn to overcome our expert blind spot."
+- "Experts face challenges when teaching novices due to expert awareness gap."
+- "Expert awareness gap: knowing something so well that it seems easy when it's not."
+- "With practice, we can learn to overcome our expert awareness gap."
 ---
 
 Having previously discussed the transition from novice to competent practitioner,
