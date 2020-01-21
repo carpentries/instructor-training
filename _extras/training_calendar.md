@@ -37,7 +37,7 @@ Registration for each event closes one week before that event. You may change or
 * January 16-17, 2020 *Registration closed*
 
 #### Eastern time
-* [January 29-30, 2020](https://www.eventbrite.com/e/online-instructor-training-january-29-30-n-america-eastern-time-tickets-83631408795) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-01-29-EST&iso=20200129T09&p1=179&ah=8)*  Note this event is sold out. You may join the waitlist and will be notified if a spot opens up.
+* January 29-30, 2020 *Registration closed*
 * [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-02-13-EST&iso=20200213T09&p1=179&ah=8)*
 
 ## Europe and Africa
