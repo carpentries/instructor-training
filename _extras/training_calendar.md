@@ -40,6 +40,8 @@ Registration for each event closes one week before that event. You may change or
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
 * [February 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-february-13-14-2020-n-america-eastern-time-tickets-83631422837) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training%2C+2020-02-13-EST&iso=20200213T09&p1=179&ah=8)*
+* [April 1-2, 2020](https://www.eventbrite.com/e/online-instructor-training-april-1-2-2020-n-america-eastern-time-tickets-92121222055) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+&iso=20200401T09&p1=179)*
+* [April 14-15, 2020](https://www.eventbrite.com/e/online-instructor-training-april-14-15-2020-n-america-eastern-time-tickets-92121795771)  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200414T09&p1=179&ah=8)*
 
 ## Europe and Africa
 
