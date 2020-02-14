@@ -22,6 +22,8 @@ Because we have only two days, some things are beyond the scope of this class. W
 *   How to program in R or Python, use Git or SQL, or any of the other topics taught in Software Carpentry, Data Carpentry, or Library Carpentry workshops. 
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you're inspired to learn more). 
 
+Schedule suggestions
+
 *Please fill in [the online application form][application-form] if you wish to take part in this course.
 Priority is given to participants at our member organizations.  We review open applications on a rolling basis, and accepted applicants are invited to join one of our online events.
 
