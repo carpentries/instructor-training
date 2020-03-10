@@ -106,7 +106,7 @@ You may only call a workshop a Software Carpentry, Data Carpentry, or Library Ca
 *   it covers the core topics (see below),
 *   at least one of the instructors is a certified Carpentries Instructor,
 *   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
-*   you send us summary information about attendees (at a minimum, the number of people who attended).
+
 
 ### Materials
 
