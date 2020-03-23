@@ -173,7 +173,7 @@ know.
 ## Let's Get Started
 
 Now that we have a road map of what we're covering
-ready to begin our training. Our goal is that by the end, you will
+we're ready to begin our training. Our goal is that by the end, you will
 have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching Carpentries
 workshops specifically.
