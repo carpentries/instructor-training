@@ -171,7 +171,7 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 > something that you still need to think about, but your teacher can do without
 > thinking about it?  
 > 2. Think about the area of expertise you identified for yourself earlier.  What could a
-> potential awarenss gap be?   
+> potential awareness gap be?   
 {: .challenge}
 
 The challenge of identifying and working around expert awareness gaps is one
