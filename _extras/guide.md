@@ -161,7 +161,7 @@ you’re not the host, please contact Carpentry staff immediately.
 	- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
 - **Exercise management**
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
-  - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
+  - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N) [Cuckoo timers](https://cuckoo.team/carpentries-instructor-training) can also be helpful, especially during breakout room sessions: the countdown timer is shared between everyone visiting the webpage and all participants will hear an alarm sound when the timer runs out.
 - **Shared notes tips**
   - No matter what kind of shared doc you are using, it's usually a good idea to create
   two documents -- one for each day of the training.  
