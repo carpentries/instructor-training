@@ -227,15 +227,15 @@ people will, indeed, have questions, and that that is normal and expected.
 In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
 novices. However, that's not to say that experts can't be good teachers.  Experts can
 be effective as long as they take the time to identify and correct
-for their own expert blind spots. You can use some of the exercises we've done while
+for their own expert awareness gaps. You can use some of the exercises we've done while
 preparing to teach to help you overcome these
 challenges.  
 
 Because of their well-connected knowledge, self-aware experts are well-poised
 to help students make meaningful connections among their knowledge, to confidently
 turn an error into a learning opportunity, or to explain
-a complex topic in multiple ways.  The important thing is to be aware of
-blind spots and to try to identify from the learner's perspective as much as
+a complex topic in multiple ways.  The important thing is to identify
+awareness gaps and to try to see things from the learner's perspective as much as
 possible.
 
 ## You Are Not Your Learners  
