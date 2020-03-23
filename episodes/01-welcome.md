@@ -110,7 +110,7 @@ especially as they apply to the Carpentries audience.
 - understand the importance of a respectful and inclusive classroom environment; commit to
 creating such an environment; and be able to
 identify and implement Carpentries policies and general practices to accomplish this.
-- practice and develop skills in the teaching methods used in Carpentries workshops
+- practice and develop skills in the teaching methods used in Carpentries workshops.
 - learn enough about the Carpentries organization to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
 
