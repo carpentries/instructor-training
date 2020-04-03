@@ -136,7 +136,9 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
 
-About a week before your event, you will be given login credentials for a Carpentry account.
+About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
+one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list
+and enter the code in [this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
 This account will be the host for the event and will have extra privileges including the
 ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host
 can transfer host privileges to other participants, so you will be able to trade host status
