@@ -31,7 +31,7 @@ Registration for each event closes one week before that event. You may change or
 
 #### Pacific time
 * February 19-20, 2020 *Registration closed*
-* [April 16-17, 2020](https://www.eventbrite.com/e/online-instructor-training-april-16-17-2020-n-america-pacific-time-tickets-83638497999) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-16-PST&iso=20200416T09&p1=137&ah=8)*
+* April 16-17, 2020 *Registration closed*
 
 #### Central time
 * January 16-17, 2020 *Registration closed*
