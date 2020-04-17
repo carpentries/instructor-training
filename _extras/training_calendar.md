@@ -32,16 +32,20 @@ Registration for each event closes one week before that event. You may change or
 #### Pacific time
 * February 19-20, 2020 *Registration closed*
 * April 16-17, 2020 *Registration closed*
+* [June 17-18, 2020](https://www.eventbrite.com/e/online-instructor-training-june-17-18-2020-n-america-pacific-time-tickets-102985713040) 
+* [July 13-14, 2020](https://www.eventbrite.com/e/online-instructor-training-july-13-14-2020-n-america-pacific-time-tickets-102985985856)
 
 #### Central time
 * January 16-17, 2020 *Registration closed*
 * April 23-24, 2020 *Registration closed*
+* [June 15-16, 2020](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2020-n-america-central-time-tickets-102986196486)
 
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
 * February 13-14, 2020 *Registration closed*
 * April 1-2, 2020 *Registration closed*
 * April 14-15, 2020  *Registration closed*
+* [May 28-29, 2020](https://www.eventbrite.com/e/online-instructor-training-may-28-29-2020-n-america-eastern-time-tickets-102986316846)
 
 ## Europe and Africa
 
@@ -55,3 +59,4 @@ Registration for each event closes one week before that event. You may change or
 
 * January 20-21, 2020 *Registration closed*
 * April 22-23, 2020  *Registration closed*
+* [August 3-4, 2020](https://www.eventbrite.com/e/online-instructor-training-august-3-4-2020-central-european-time-tickets-102986547536)
