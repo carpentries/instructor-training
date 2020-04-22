@@ -136,11 +136,16 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
 
+### Becoming the meeting host
+
 About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
-one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list
-and enter the code in [this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
+one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list; 
+you'll be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
+See [the explanation here][zoom-host-key] for step-by-step instructions on how to 
+claim host in Zoom Rooms using the host key.
+
 This account will be the host for the event and will have extra privileges including the
-ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host
+ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with/claim these credentials. The host
 can transfer host privileges to other participants, so you will be able to trade host status
 back and forth with your co-Trainers during the event.  
 
@@ -190,7 +195,6 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
-  - when you are in the Zoom meeting room but unintentionally not as the host, look for the button 'Claim host' (click on the 'Participants' button; you'll be asked for a 6-digit host key, which you can find (after logging in to [Zoom][zoom-home]), at the bottom of the profile, see [the explanation here][zoom-host-key].
 
 ## V. Curriculum Teaching Tips
 
