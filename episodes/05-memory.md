@@ -7,8 +7,11 @@ questions:
 - "What is cognitive load and how does it affect learning?"
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
-- "Identify when cognitive load is likely to limit learning."
+- "Remember the quantitative limit of human memory." 
+- "Identify the number of concepts required in a lesson by drawing a concept map." 
 - "Use a concept map to plan a formative assessment strategy."
+- "Describe the three components of cognitive load theory and which should be emphasized or diminished." 
+- "Identify when cognitive load is likely to limit learning."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
