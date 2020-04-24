@@ -53,7 +53,7 @@ Registration for each event closes one week before that event. You may change or
 
 * January 22-23, 2020 *Event Canceled*
 * March 23-24, 2020 *Registration closed*
-* [April 30 - May 1, 2020](https://www.eventbrite.com/e/online-instructor-training-april-30-may-1-western-european-time-tickets-84737485099) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+2020-04-30-BST&iso=20200430T09&p1=1440&ah=8)*
+* April 30 - May 1, 2020 *Registration closed*
 
 #### Central European/Western African time
 
