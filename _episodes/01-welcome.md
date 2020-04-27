@@ -38,7 +38,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 > --- Tracy Teal, Former Executive Director, The Carpentries
 {: .testimonial}
 
-Hello everyone, and welcome to the the Carpentries
+Hello everyone, and welcome to the Carpentries
 instructor training.  We're very pleased to have you with us.
 
 > ## Today's Trainers
