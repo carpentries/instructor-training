@@ -17,14 +17,17 @@ keypoints:
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
-> ## Pronouns and Preferred Names
+> ## Pronouns and Names
 > 
-> Using preferred names and pronouns is important to setting a tone of respect. Learning these is hard to
+> Using correct names and pronouns is important to setting a tone of respect. Learning these is hard to
 > do quickly, so we recommend displaying it prominently during the workshop. 
 > 
 > If on Zoom, give everyone a moment to update their display name to reflect this information. 
 > 
-> If in person, encourage attendees to put this information on worn name tags or table-displayed name placards. 
+> If in person, encourage attendees to put this information on worn name tags or table-displayed name placards.
+> 
+> Note that pronouns are personal and some participants might prefer not to share them.
+> Do not force people to share their pronouns.
 {: .challenge}
 
 ## Before The Course Begins
