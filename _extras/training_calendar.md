@@ -10,7 +10,7 @@ Trainees can register for events listed below by clicking on the link for that e
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
-All trainings are offered online from 9 am to 5 pm in the time zone noted.  You do not need to be in the same time zone yourself but need to accommodate that time zone for the full 2-day event. A link is provided next to each event that will convert the start time to your local time zone.
+All trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below).  You do not need to be in the same time zone yourself but need to accommodate that time zone for the full 2-day event. A link is provided next to each event that will convert the start time to your local time zone.
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
@@ -59,4 +59,5 @@ Registration for each event closes one week before that event. You may change or
 
 * January 20-21, 2020 *Registration closed*
 * April 22-23, 2020  *Registration closed*
+* [June 29 - July 2, 2020](https://www.eventbrite.com/e/online-instructor-training-june-29-july-2-2020-central-european-time-tickets-104770094172) **Note this event takes place over four half days, from 9 am to 12:30 pm each day.** *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200629T09&p1=195&ah=4&am=30)
 * [August 3-4, 2020](https://www.eventbrite.com/e/online-instructor-training-august-3-4-2020-central-european-time-tickets-102986547536) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20200803T09&p1=%3A&ah=8)*
