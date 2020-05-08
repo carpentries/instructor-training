@@ -59,5 +59,5 @@ Registration for each event closes one week before that event. You may change or
 
 * January 20-21, 2020 *Registration closed*
 * April 22-23, 2020  *Registration closed*
-* [June 29 - July 2, 2020](https://www.eventbrite.com/e/online-instructor-training-june-29-july-2-2020-central-european-time-tickets-104770094172) **Note this event takes place over four half days, from 9 am to 12:30 pm each day.** *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200629T09&p1=195&ah=4&am=30)
+* [June 29 - July 2, 2020](https://www.eventbrite.com/e/online-instructor-training-june-29-july-2-2020-central-european-time-tickets-104770094172) **Note this event takes place over four half days, from 9 am to 12:30 pm each day.** *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200629T09&p1=195&ah=4&am=30)*
 * [August 3-4, 2020](https://www.eventbrite.com/e/online-instructor-training-august-3-4-2020-central-european-time-tickets-102986547536) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20200803T09&p1=%3A&ah=8)*
