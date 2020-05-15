@@ -45,7 +45,8 @@ Details about the Instructor Trainer role including the application process, dut
 -  Remind member trainees to fill out application (Open Training applicants have already done this).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
--  If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch.  
+-  If teaching remotely: Ensure that you are logged into the Zoom room with the host key so that you can mute participants and create breakout rooms as needed.
+-  If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch (note: you may need to re-log in with the host key if returning after disconnecting).  
 
 ### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
