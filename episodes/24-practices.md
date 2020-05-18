@@ -42,7 +42,7 @@ Here is a non-exhaustive list of topics:
 * novice, competent practitioner, expert
 * mental model
 * formative assessment
-* blind spot
+* expert awareness gap
 * short-term and long-term memory
 * cognitive load
 * motivation
