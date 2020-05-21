@@ -46,7 +46,7 @@ Registration for each event closes one week before that event. You may change or
 * February 13-14, 2020 *Registration closed*
 * April 1-2, 2020 *Registration closed*
 * April 14-15, 2020  *Registration closed*
-* [May 28-29, 2020](https://www.eventbrite.com/e/online-instructor-training-may-28-29-2020-n-america-eastern-time-tickets-102986316846) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20200528T09&p1=179&ah=8)*
+* May 28-29, 2020 *Registration closed*
 
 ## Europe and Africa
 
