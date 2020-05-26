@@ -8,7 +8,7 @@ questions:
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Remember the quantitative limit of human memory." 
-- "Apply a concept map to identify concepts and relationships required in a lesson."
+- "Apply concept mapping as a strategy to identify concepts and relationships required in a lesson."
 - "Use a concept map to plan a formative assessment strategy."
 - "Name the three components of cognitive load theory and which should be emphasized or diminished." 
 - "Identify when cognitive load is likely to limit learning."
