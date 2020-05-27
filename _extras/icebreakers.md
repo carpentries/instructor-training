@@ -47,12 +47,12 @@ the ways you have been shown?
 ### Favorite Food
 
 What is your favorite food?
-It be a meal or snack, something you eat often or only on special occassions.
+It may be a meal or snack, something you eat often, or only on special occassions.
 
 ### Teaching Passion
 
 What aspect of teaching are you passionate about or do you really enjoy?
-Is it seeing lightbulb moment in a students eye or learning something new when you teach?
+Is it seeing a lightbulb moment in a student's eye, or learning something new when you teach?
 
 ### Favorite Emoji
 
