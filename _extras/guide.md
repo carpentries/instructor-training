@@ -31,14 +31,14 @@ Details about the Instructor Trainer role including the application process, dut
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely:
-  -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
-  -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
-  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event. To make a copy, click on the three dots at the top right and select "Make a copy" on the drop-down. ("Add to My Drive" will **not** create a new copy of the form, but will instead add a shortcut to the original template from your Google Drive.)
+    -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
+    -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
+    -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event. To make a copy, click on the three dots at the top right and select "Make a copy" on the drop-down. ("Add to My Drive" will **not** create a new copy of the form, but will instead add a shortcut to the original template from your Google Drive.)
 -  If teaching in person:
-  - Confirm with your host that breakout rooms are available or make an alternate plan
-  - Create a plan for printing handouts & determine who will bring sticky notes
-  - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
-  - Check on availability/timing of breaks, lunch, or any other details that matter to you
+    - Confirm with your host that breakout rooms are available or make an alternate plan
+    - Create a plan for printing handouts & determine who will bring sticky notes
+    - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+    - Check on availability/timing of breaks, lunch, or any other details that matter to you
 
 ### During the event
 -  Take attendance.  
