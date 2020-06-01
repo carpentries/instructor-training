@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructor Notes"
+title: "Trainer Notes"
 ---
 
 Table of Contents
