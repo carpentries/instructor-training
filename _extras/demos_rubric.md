@@ -19,6 +19,7 @@ Teaches content correctly|Makes factual errors in content and doesn't correct|
 
 |Positive Delivery|Negative Delivery|
 |------|---------------------|
+Manually types out all their code| Copies and pastes code from the lesson materials into their programming environment
 Mirrors the learner's environment (e.g. default terminal setup, simplified prompt)|Uses shortcuts or tools that are unfamiliar/unavailable to learners|
 Uses appropriately sized fonts and windows|Font or windows are too small|
 Explains all typing|Types commands or troubleshoots errors without explaining|
