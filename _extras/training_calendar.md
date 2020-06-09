@@ -38,8 +38,8 @@ Registration for each event closes one week before that event. You may change or
 #### Central time
 * January 16-17, 2020 *Registration closed*
 * April 23-24, 2020 *Registration closed*
-* [June 8-9, 2020](https://www.eventbrite.com/e/university-of-chicago-online-instructor-training-june-8-9-cdt-tickets-102726724398) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training&iso=20200608T09&p1=64&ah=8)*
-* [June 15-16, 2020](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2020-n-america-central-time-tickets-102986196486) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20200615T09&p1=%3A&ah=8)*
+* June 8-9, 2020 *Registration closed*
+* June 15-16, 2020 *Registration closed*
 
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
