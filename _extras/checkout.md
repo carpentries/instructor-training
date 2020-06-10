@@ -124,7 +124,7 @@ community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/maste
 
 The next step is to take part in an hour-long community discussion session
 led by an experienced instructor.
-These sessions gives you a chance to ask questions about the material
+These sessions give you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
