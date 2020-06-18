@@ -7,6 +7,8 @@ questions:
 - "What type of instructor is best for novices?"
 - "How are we (as instructors) different from our learners and how does this impact our teaching?"  
 objectives:
+- "Explain what differentiates an expert from a competent practitioner." 
+- "Describe at least two examples of how expertise can help and hinder effective teaching."
 - "Identify situations where you have an expert awareness gap."
 - "Demonstrate strategies for compensating for your expert awareness gap."
 - "Demonstrate strategies for avoiding demotivating language."
