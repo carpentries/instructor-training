@@ -21,9 +21,7 @@ look in some depth at how the Carpentries operate to prepare you for the logisti
 
 To prepare for tomorrow, please:
 
-1.  Read about the two types of Carpentry workshops: [self-organized][dc-self] and 
-    [centrally-organized][dc-central] and the checklists
-    these pages link to. These summarize commonly asked questions about organizing and running workshops.
+1.  Read about [centrally-organized and self-organized workshops](https://static.carpentries.org/workshops/#workshop-organising) and our [checklists for running workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html). These summarize commonly asked questions about organizing and running workshops.
     When you arrive tomorrow, we will ask you to add one question about our operations to a list.
     We will then do our best to answer all of those questions during the day.
 
