@@ -7,7 +7,7 @@ This rubric is provided as a guide for Trainers evaluating potential new instruc
 Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
 skills.
 
-In general, these demonstrations have a very high (over 95%) pass rate. When a trainee is asked to redo a demo, it is usually a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Negative" columns below should probably be asked to try again. Even one 
+In general, the majority of people pass their demonstrations. When a trainee is asked to redo a demo, it is usually a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Negative" columns below should probably be asked to try again. Even one 
 mark in a "Negative" column can be considered justification for asking a trainee to redo their demonstration if the problem is significant. As always,
 Trainers should use their own judgement when applying this rubric in individual cases.  
 
@@ -19,6 +19,7 @@ Teaches content correctly|Makes factual errors in content and doesn't correct|
 
 |Positive Delivery|Negative Delivery|
 |------|---------------------|
+Manually types out all their code| Copies and pastes code from the lesson materials into their programming environment
 Mirrors the learner's environment (e.g. default terminal setup, simplified prompt)|Uses shortcuts or tools that are unfamiliar/unavailable to learners|
 Uses appropriately sized fonts and windows|Font or windows are too small|
 Explains all typing|Types commands or troubleshoots errors without explaining|
