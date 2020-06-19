@@ -12,8 +12,8 @@ objectives:
 - "Describe where you can go to get information on running a workshop."
 keypoints:
 - "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
-- "Carpentry workshops must cover core concepts, have at least one certified instructor, use our pre- and post-workshop surveys and report attendance information."
-- "Guidance for teaching and hosting workshops is provided in The Carpentries Handbook."
+- "Carpentry workshops must cover core concepts, have at least one certified instructor, and use our pre- and post-workshop surveys."
+- "[Guidance for teaching and hosting workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) is provided in [The Carpentries Handbook](https://docs.carpentries.org)."
 
 ---
 
@@ -62,7 +62,7 @@ Their aligned missions are accomplished by running accessible, inclusive trainin
 
 Similarities between Software, Data and Library Carpentry workshops include:
 *   a focus on technical skills.
-*   an two-day format taught by volunteer instructors.
+*   a two-day format taught by volunteer instructors.
 *   a focus on filling gaps in current training for learners.
 
 The major differences between Software, Data and Library Carpentry workshops
@@ -105,13 +105,13 @@ You may only call a workshop a Software Carpentry, Data Carpentry, or Library Ca
 
 *   it covers the core topics (see below),
 *   at least one of the instructors is a certified Carpentries Instructor,
-*   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
-*   you send us summary information about attendees (at a minimum, the number of people who attended).
+*   you run our standardized pre- and post-workshop assessments and ensure everyone participates.
+
 
 ### Materials
 
 Note that the individual Software Carpentry, Data Carpentry, and Library Carpentry lessons
-materials are freely available under a permissive [open license]({{ page.root }}/LICENSE).
+materials are freely available under a permissive [open license]({{ page.root }}{% link LICENSE.md %}).
 This means that you may use them in contexts outside a Carpentries workshop (e.g. as material
 introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
 provided you cite the original source.
@@ -159,10 +159,7 @@ will embody the Carpentries ethos and practices.
 
 > ## Local Support
 >
-> There is a great list
->
-> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
-).
+> There is a great list here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
 {: .callout}
 
 ## How to Run a Carpentries Workshop
@@ -215,17 +212,31 @@ be sure to read through the [instructor no-show policy](https://github.com/carpe
 
 In order to communicate with learners,
 and to help us keep track of who's taught what and where,
-each workshop's instructors create a one-page website with information about their workshop.
-Once that has been created,
+instructors create a website with information about their workshop.
+
+To ensure unique names for each event,
+we use the `year-month-day-venue` format for the identifier, the slug.
+For instance, for a workshop that starts on Febuary 22nd, 2022
+at the University of Data Skills,
+the slug would be `2022-02-22-data-skills`.
+If you are teaching a centrally-organized workshop,
+please wait for the email from your regional coordinator
+that will tell you the slug to use for your workshop.
+
+Once that your workshop website has been created,
 the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:admin@software-carpentry.org),
+the [workshop coordinator](mailto:team@carpentries.org),
 who adds it to our records.
 The workshop will show up on our websites shortly thereafter.
 
-You may also create an etherpad for your own Carpentries-related events. When you point a browser to a url at
-`pad.carpentries.org/name-of-pad` you will either arrive at an existing etherpad by that name or a brand new
-etherpad with basic Carpentries information at the top.  For workshops we use `year-month-day-venue` as the name
-to ensure unique names.
+You may also create an etherpad for your workshop
+(or other Carpentries-related event).
+When you point a browser to a url at
+`https://pad.carpentries.org/workshop-slug`
+(e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
+for the example above)
+you will either arrive at an existing etherpad by that name or a brand new
+etherpad with basic Carpentries information at the top.
 
 > ## Practice With The Carpentries Infrastructure
 >
@@ -265,8 +276,8 @@ and improve the lessons via "bug fixes" as we go along.
 > ## Lesson Incubation
 >
 > Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software and
-> Data Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
+> own fantastic lesson!  If you'd like to model it after the Software, Data and
+> Library Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
 {: .callout}
 
 > ## Many Ways to Contribute

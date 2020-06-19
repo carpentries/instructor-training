@@ -7,8 +7,11 @@ questions:
 - "What is cognitive load and how does it affect learning?"
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
-- "Identify when cognitive load is likely to limit learning."
+- "Remember the quantitative limit of human memory." 
+- "Apply concept mapping as a strategy to identify concepts and relationships required in a lesson."
 - "Use a concept map to plan a formative assessment strategy."
+- "Name the three components of cognitive load theory and which should be emphasized or diminished." 
+- "Identify when cognitive load is likely to limit learning."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
@@ -54,7 +57,6 @@ frequent formative assessment is important.
 >
 > Take 5 minutes to complete the exercise. What was your score? Write your answer
 > in the Etherpad.
->
 {: .challenge}
 
 > ## Test Your Working Memory - Analog version (5 min)
@@ -66,7 +68,6 @@ frequent formative assessment is important.
 >
 > Without looking at the list again, write down as many words from the list as
 > you can. How many did you remember? Write your answer in the Etherpad.
->
 {: .challenge}
 
 Most people will have found they only remember 5-7 words. Don't worry if you
@@ -172,6 +173,7 @@ are listed below:
 * [Input and Output](../fig/io.png)
 * [Lists and Loops](../fig/lists-loops.png)
 * [Git Version Control](../fig/git_concept_map.png)
+* [Library Carpentry Foundations](../fig/lc-foundations.png)
 
 Most of these are much larger than our recommended limit,
 but that's not necessarily a bad thing. An instructor can
@@ -401,7 +403,6 @@ concept in your concept map.
 >>**Answer** `country` and  `continent`
 >>
 >{: .solution}
->
 {: .challenge}
 
 ## Summary

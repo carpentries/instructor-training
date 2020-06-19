@@ -8,8 +8,11 @@ questions:
 - "Who is a typical Carpentries learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
+- "Compare and contrast the three stages of skill acquisition."
+- "Identify a mental model and explain what it represents." 
 - "Explain why practice and feedback are important for learning."
-- "Use formative assessments to guide your teaching."
+- "Explain the purpose of formative assessments."
+- "Identify formative assessments in your teaching and learning experiences." 
 keypoints:
 - "Our goal when teaching novices is to help them construct useful mental models."
 - "This requires practice and feedback."

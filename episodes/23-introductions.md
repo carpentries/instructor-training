@@ -10,8 +10,8 @@ objectives:
 - "Describe three ways to start workshop participants talking to each other."
 - "Receive one piece of feedback on your own introduction"
 keypoints:
-- "A planned introduction is a helpful tool in setting the workshop environment."  
-- "Introductions should both include practical information and start building relationships."  
+- "A planned introduction is a helpful tool in setting the workshop environment."
+- "Introductions should both include practical information and start building relationships."
 ---
 
 One of the most important things that you can do as an instructor is to
@@ -31,8 +31,9 @@ practice giving part of a workshop introduction.
 > - Did you feel like they were enthusiastic about the course and invested in you?
 > - Was it clear what you were going to be learning?
 > - Were you excited about the material?
-> - Did you leave that first day thinking the instructor was uninterested, that you weren't the learners they wanted to
-be teaching or you had no idea what the course was supposed to be about?
+> - Did you leave that first day thinking the instructor was uninterested,
+>   that you weren't the learners they wanted to be teaching
+>   or you had no idea what the course was supposed to be about?
 {: .discussion}
 
 Your impression on the first day of a course probably matched that of the rest of
@@ -52,16 +53,16 @@ you're comfortable and ready for.
 
 > ## What's in an Introduction?
 >
-> Get into small groups (3-4 people) and discuss these questions for 10 minutes.  
-> Take notes on your answers -- we'll combine them later.  
+> Get into small groups (3-4 people) and discuss these questions for 10 minutes.
+> Take notes on your answers -- we'll combine them later.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
 >
-> After 5 minutes, come together, and combine ideas as a large group.  
+> After 5 minutes, come together, and combine ideas as a large group.
 >
-> Finally, compare your ideas with the list of topics below.  Did you miss anything?  
-> Did you come up with something that's not listed below?  
+> Finally, compare your ideas with the list of topics below.  Did you miss anything?
+> Did you come up with something that's not listed below?
 >
 > Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
@@ -178,12 +179,12 @@ the workshop policies.
 
 **Clarify workshop roles.** Explain who is doing what at the workshop and
 what learners can expect from the workshop leaders.  If you haven't already
-introduced helpers or other workshop leaders, make sure to do so.  
+introduced helpers or other workshop leaders, make sure to do so.
 
 **Explain your expectations** for learner behavior including expectations
 around:
 
-- [Code of Conduct]({{ site.dc_site }}/code-of-conduct/)
+- [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
 - ways to ask for help
 - ways to give instructors feedback
 
@@ -199,16 +200,16 @@ The classroom is a social environment, so it is helpful to start the
 social dynamics in a productive way.
 
 Icebreakers raise the energy levels and get learners comfortable so
-that they will be ready to work in groups or dialogue with each other.  
+that they will be ready to work in groups or dialogue with each other.
 
 > ## Example Icebreaker
-> Here is one example of an icebreaker you can use:  
+> Here is one example of an icebreaker you can use:
 > Have everyone turn to a partner and introduce themselves with their
-> name, one word about their research 'microbes', 'dogs', 'vectors',
-> 'stars' and a thing they're proud of that they made.
+> name, one word about their research (e.g.'microbes', 'dogs', 'vectors',
+> 'stars') and a thing they're proud of that they made.
 {: .callout}
 
-Head here for [more examples of Icebreakers][icebreakers].  
+Head here for [more examples of Icebreakers][icebreakers].
 
 ### 5. Set the Tone for the Workshop
 
@@ -260,13 +261,13 @@ accessibility, etc.
 > 	1.  Clarify learning objectives and expectations
 > 	1.  Set the tone for the workshop
 > 2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-> 3. After each introduction, provide 2-3 minutes of feedback.  
+> 3. After each introduction, provide 2-3 minutes of feedback.
 >
-> This exercise will take 15-25 minutes depending on whether time is included for feedback or not.  
+> This exercise will take 15-25 minutes depending on whether time is included for feedback or not.
 {: .challenge}
 
 
-These materials are adapted from [Carnegie Melon Eberly
+These materials are adapted from [Carnegie Mellon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
 [icebreakers]: {{ page.root }}/icebreakers/

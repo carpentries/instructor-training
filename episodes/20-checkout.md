@@ -20,7 +20,7 @@ getting involved in the community in other ways.
 ## Application form
 
 Make sure that you have filled out the Carpentries
-[instructor application form](https://amy.software-carpentry.org/forms/request_training/).
+[instructor application form](https://amy.carpentries.org/forms/request_training/).
 We can not track your progress and make you an official instructor without it. If you have already
 filled out this form, you do not need to submit another application.
 
@@ -28,12 +28,16 @@ filled out this form, you do not need to submit another application.
 
 As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
 
-1.  Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
-    1.  Submit a change (i.e. pull request) to fix an existing issue.
-    2.  Proof-read a lesson and add a new issue describing something to be improved.
-    3.  Provide substantive feedback on an existing issue or pull request.
+1. Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
+   1. Providing substantive feedback on an existing issue or pull request (preferred).
+   2. Submiting a change (i.e. pull request) to fix an existing issue. (Example [good first issues](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).)
+   3. Proof-reading a lesson and adding a new issue describing something to be improved.
+   
 2.  Take part in a [community discussion][discussion] with experienced instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
+
+All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
+extensions for up to a year may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
 > ## Carpentries Tools: Etherpad
 > 
@@ -61,7 +65,7 @@ As you read in your homework last night, there are three final steps to complete
 > host and co-host to ask if you can attend.
 >
 > If you'd prefer to do your teaching demonstration before your discussion,
-> visit the [demo Etherpad][demo] and sign up there. This [demo rubric] is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration.
+> visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration.
 >
 > This exercise should take 5 minutes.
 {: .challenge}
@@ -97,6 +101,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 * **You get to vote!** Badged instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) for rules governing continuing voting eligibility.
 * **You've got something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
 
+
 > ## Check Out the Discussion (Optional)
 >
 > As an instructor, your voice is important! We want you to be actively involved
@@ -122,6 +127,6 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 
 
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[discussion]: http://pad.software-carpentry.org/community-discussions
-[demo]: https://pad.carpentries.org/teaching-demos-recovered
+[discussion]: http://pad.carpentries.org/community-discussions
+[demo]: https://pad.carpentries.org/teaching-demos
 [demo rubric]: https://carpentries.github.io/instructor-training/17-performance/index.html
