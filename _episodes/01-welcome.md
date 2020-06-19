@@ -17,11 +17,24 @@ keypoints:
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
+> ## Pronouns and Names
+> 
+> Using correct names and pronouns is important to setting a tone of respect. Learning these is hard to
+> do quickly, so we recommend displaying it prominently during the workshop. 
+> 
+> If on Zoom, give everyone a moment to update their display name to reflect this information. 
+> 
+> If in person, encourage attendees to put this information on worn name tags or table-displayed name placards.
+> 
+> Note that pronouns are personal and some participants might prefer not to share them.
+> Do not force people to share their pronouns.
+{: .challenge}
+
 ## Before The Course Begins
 
 > ## Getting to know each other
 >
-> If the trainer has chosen an [icebreaker question]({{training_site}}/icebreakers/index.html),
+> If the trainer has chosen an [icebreaker question]({{ site.training_site }}/icebreakers/index.html),
 > participate by writing your answers in the course's shared notes.
 {: .challenge}
 
@@ -34,11 +47,11 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 ## Introductions
 
 > Introductions set the stage for learning.
-> 
-> --- Tracy Teal, Executive Director, The Carpentries
+>
+> --- Tracy Teal, Former Executive Director, The Carpentries
 {: .testimonial}
 
-Hello everyone, and welcome to the the Carpentries
+Hello everyone, and welcome to the Carpentries
 instructor training.  We're very pleased to have you with us.
 
 > ## Today's Trainers
@@ -110,7 +123,7 @@ especially as they apply to the Carpentries audience.
 - understand the importance of a respectful and inclusive classroom environment; commit to
 creating such an environment; and be able to
 identify and implement Carpentries policies and general practices to accomplish this.
-- practice and develop skills in the teaching methods used in Carpentries workshops
+- practice and develop skills in the teaching methods used in Carpentries workshops.
 - learn enough about the Carpentries organization to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
 
@@ -162,7 +175,7 @@ familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries instructor.
 The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
-We also do not go over how to develop lessons in specific detail.  Many of the ideas we
+We also do not discuss how to develop lessons.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
 of lesson design called "Reverse Instructional Design", but it won't be an emphasis
 of this particular course.
@@ -173,7 +186,7 @@ know.
 ## Let's Get Started
 
 Now that we have a road map of what we're covering
-ready to begin our training. Our goal is that by the end, you will
+we're ready to begin our training. Our goal is that by the end, you will
 have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching Carpentries
 workshops specifically.

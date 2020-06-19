@@ -123,7 +123,8 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
->     Keep a strict time limit of 90 seconds per person.
+>     Keep a strict time limit of 90 seconds per person (one person
+>     should be responsible for the timekeeping).
 > 3.  After the first person finishes,
 >     rotate roles
 >     (they become the videographer,
@@ -140,7 +141,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 > **Distributed trainings:**
 > Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
 > but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching.
+> turn teaching. Also with in this setup one person should be responsible for the timekeeping.
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
@@ -173,10 +174,9 @@ in a way that facilitates growth.
   feedback in a way that is helpful to you - the questions below
   reveal what didn't work in your teaching, but read as professional suggestions rather than personal judgments.
   For example:
-    *   "What is one thing I could have done as an instructor to make this
-        lesson more effective?"
-    *   "If you could pick one thing from the lesson to go over again, what
-	would it be?"
+  
+* "What is one thing I could have done as an instructor to make this lesson more effective?"
+* "If you could pick one thing from the lesson to go over again, what would it be?"
 
 * Balance positive and negative feedback.
     * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)

@@ -19,7 +19,7 @@ title: "Etherpad Template"
 <p>All content is publicly available under the Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/</p>
 <br/> ____________________________________________________________________________________________________________
 <br/>
-<b>Sign in: Name, Institution, Email, Twitter (optional)</b><br/>
+<b>Sign in: Name, Pronouns, Institution, Email (optional), Twitter (optional)</b><br/>
 Please sign in so we can record your attendance.<br/>
 <ul>
   <li>&nbsp;</li>

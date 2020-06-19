@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instructor Notes"
+title: "Trainer Notes"
 ---
 
 Table of Contents
@@ -31,21 +31,22 @@ Details about the Instructor Trainer role including the application process, dut
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely:
-  -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
-  -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
-  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+    -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
+    -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
+    -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event. To make a copy, click on the three dots at the top right and select "Make a copy" on the drop-down. ("Add to My Drive" will **not** create a new copy of the form, but will instead add a shortcut to the original template from your Google Drive.)
 -  If teaching in person:
-  - Confirm with your host that breakout rooms are available or make an alternate plan
-  - Create a plan for printing handouts & determine who will bring sticky notes
-  - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
-  - Check on availability/timing of breaks, lunch, or any other details that matter to you
+    - Confirm with your host that breakout rooms are available or make an alternate plan
+    - Create a plan for printing handouts & determine who will bring sticky notes
+    - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+    - Check on availability/timing of breaks, lunch, or any other details that matter to you
 
 ### During the event
 -  Take attendance.  
 -  Remind member trainees to fill out application (Open Training applicants have already done this).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
--  If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch.  
+-  If teaching remotely: Ensure that you are logged into the Zoom room with the host key so that you can mute participants and create breakout rooms as needed.
+-  If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch (note: you may need to re-log in with the host key if returning after disconnecting).  
 
 ### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
@@ -71,6 +72,16 @@ you risk losing the audience's attention because your face is less prominent.
 
 If you chose to use slides in your workshop,
 this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides.
+
+### Using Etherpad 
+
+Each workshop will have an Etherpad. 
+You can use the [Instructor Training Etherpad template](https://pad.carpentries.org/ttt-template)
+to quickly copy and paste challenges or useful information into your Etherpad. 
+
+Given the central role that Etherpad plays is running Carpentry workshops,
+you may want to take a minute to explain [how to create a pad](https://pad.carpentries.org/),
+what pads can be used for, and how long pads stick around. You may also want to point attendees to the ["pad of pads"](https://pad.carpentries.org/pad-of-pads).
 
 ### General Preparation
 
@@ -126,9 +137,16 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 account for yourself for free. This personal account will be able to attend the training event
 (or any other online Carpentry event), but will not be able to act as host.   
 
-About a week before your event, you will be given login credentials for a Carpentry account.
+### Becoming the meeting host
+
+About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
+one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list; 
+you'll be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
+See [the explanation here][zoom-host-key] for step-by-step instructions on how to 
+claim host in Zoom Rooms using the host key.
+
 This account will be the host for the event and will have extra privileges including the
-ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host
+ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with/claim these credentials. The host
 can transfer host privileges to other participants, so you will be able to trade host status
 back and forth with your co-Trainers during the event.  
 
@@ -151,7 +169,7 @@ you’re not the host, please contact Carpentry staff immediately.
 	- Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
 - **Exercise management**
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
-  - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N)
+  - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N) [Cuckoo timers](https://cuckoo.team/carpentries-instructor-training) can also be helpful, especially during breakout room sessions: the countdown timer is shared between everyone visiting the webpage and all participants will hear an alarm sound when the timer runs out.
 - **Shared notes tips**
   - No matter what kind of shared doc you are using, it's usually a good idea to create
   two documents -- one for each day of the training.  
@@ -178,7 +196,6 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
-  - when you are in the Zoom meeting room but unintentionally not as the host, look for the button 'Claim host' (click on the 'Participants' button; you'll be asked for a 6-digit host key, which you can find (after logging in to [Zoom][zoom-home]), at the bottom of the profile, see [the explanation here][zoom-host-key].
 
 ## V. Curriculum Teaching Tips
 

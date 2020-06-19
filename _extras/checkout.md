@@ -2,7 +2,7 @@
 layout: page
 title: "Checkout Procedure"
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
-demopad: https://pad.carpentries.org/teaching-demos-recovered
+demopad: https://pad.carpentries.org/teaching-demos
 discussionpad: http://pad.software-carpentry.org/community-discussions
 ---
 
@@ -25,7 +25,7 @@ setting of the two-day training.  These are:
 
 1.  Contributing to our lesson materials.  As our materials are developed by the
     community, we want to ensure that all instructors know where and how to contribute
-    to our materials, particularly so that you can contribute in the future.
+    to our materials, particularly so that you can contribute in the future. 
 
 2.  Participating in the larger Carpentry instructor community.  We
     include the community discussion session in the checkout because we hear
@@ -43,7 +43,7 @@ and must be requested before the three months are up. To request an extension, p
 
 > ## Submit an application  
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't already, please fill out [the online application form](https://amy.software-carpentry.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you haven't already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to One of Our Lessons
@@ -56,7 +56,7 @@ with our collaborative curriculum development process.
 Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
 
 1. Providing substantive feedback on an existing issue or pull request (preferred).
-2. Submitting a change to fix an existing issue.
+2. Submitting a change to fix an existing issue.(Example [good first issues](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).)
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
 Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub.
@@ -124,7 +124,7 @@ community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/maste
 
 The next step is to take part in an hour-long community discussion session
 led by an experienced instructor.
-These sessions gives you a chance to ask questions about the material
+These sessions give you a chance to ask questions about the material
 you plan on teaching
 and to clarify anything that may be unclear about our operations in general.
 
@@ -217,16 +217,14 @@ You do not need to be prepared to teach the supplementary modules for your teach
 
 _Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise. 
 You can indicate the lessons you are comfortable teaching when you update 
-[your instructor profile](https://amy.software-carpentry.org/workshops/trainee-dashboard/)._ 
+[your instructor profile](https://amy.carpentries.org/workshops/trainee-dashboard/)._ 
 
 For your demonstration(s), you will screen-share
 and live code as if your computer was plugged into a projector
 and you were standing in front of a class.
 You may use whatever notes you want,
 provided they are not visible on your screen.
-You are *not* to read the lesson aloud line by line:
-instead,
-you are to teach as you would in an actual workshop.
+Please teach as you would in an actual workshop.
 When your five minutes are up,
 the trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching

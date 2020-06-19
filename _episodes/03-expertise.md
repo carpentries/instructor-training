@@ -7,13 +7,15 @@ questions:
 - "What type of instructor is best for novices?"
 - "How are we (as instructors) different from our learners and how does this impact our teaching?"  
 objectives:
-- "Identify situations where you have an expert blind spot."
-- "Demonstrate strategies for compensating for your expert blind spot."
+- "Explain what differentiates an expert from a competent practitioner." 
+- "Describe at least two examples of how expertise can help and hinder effective teaching."
+- "Identify situations where you have an expert awareness gap."
+- "Demonstrate strategies for compensating for your expert awareness gap."
 - "Demonstrate strategies for avoiding demotivating language."
 keypoints:
-- "Experts face challenges when teaching novices due to expert blind spot."
-- "Expert blind spot: knowing something so well that it seems easy when it's not."
-- "With practice, we can learn to overcome our expert blind spot."
+- "Experts face challenges when teaching novices due to expert awareness gap."
+- "Expert awareness gap: knowing something so well that it seems easy when it's not."
+- "With practice, we can learn to overcome our expert awareness gap."
 ---
 
 Having previously discussed the transition from novice to competent practitioner,
@@ -135,33 +137,53 @@ seem trivial to you, as they often will.
 > This discussion should take about 5 minutes.  
 {: .challenge}
 
-Another potential challenge for experts who teach is what we call *expert blind spot*.
+Another potential challenge for experts who teach is known in the literature as *expert blind spot*.
 Experts are frequently so familiar with their subject
-that they can no longer imagine what it's like to *not* see the world that way - this
-inability to see things from a non-expert perspective is an expert blind spot
-and can lead to what's known as the *expertise-reversal effect* - experts are often
+that they can no longer imagine what it's like to *not* understand the world that way - this
+inability to consider the material from a non-expert perspective can lead to what's
+known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it's like to have to learn the things.
 This effect can be overcome with training,
 but it's part of the reason world-famous researchers are often poor lecturers.
 
-> ## Blind Spots  (Optional)
+> ## Expert Awareness Gap
+>  
+> In the Carpentries, we aim to create an inclusive environment. We prefer to refer to this
+> phenomenon as the *expert awareness gap* to be consistent with our objective to use
+> inclusive language. It can be exclusionary to use a term that relates to a disability
+> for other purposes. We introduce both terms, however, to help you as future
+> instructors engage with these ideas in
+> the literature and with people outside of the Carpentries community.
+>
+> In evaluating potential terms, one instructor provided the following thoughts:
+>
+> I like expert awareness gap because it's more precise than blind spot
+> (it's not about seeing, but about noticing) and feels more of a surmountable
+> challenge than a disadvantage. To me a disadvantage can sometimes feel like
+> thing that exists as a fact, like an inevitable consequence, but a gap is a
+> thing to be bridged-- and we certainly want instructors to try to overcome
+> (or mitigate) their expert awareness gap
+>
+{: .callout}
+
+> ## Awareness Gaps  (Optional)
 >
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
 > thinking about it?  
 > 2. Think about the area of expertise you identified for yourself earlier.  What could a
-> potential blind spot be?   
+> potential awareness gap be?   
 {: .challenge}
 
-The challenge of identifying and working around expert blind spots is one
+The challenge of identifying and working around expert awareness gaps is one
 reason why we welcome instructors who still identify as "novices"!  Someone
 who is still in the process of learning can be a more effective instructor
 because they are speaking from their own recent experience.  
 
 ## Dismissive Language  
 
-Experts often betray their blind spot by using the word "just" in explanations,
+Experts often betray their extensive knowledge by using the word "just" in explanations,
 as in, "Oh, it's easy, you just fire up a new virtual machine
 and then you just install these four patches to Ubuntu
 and then you just re-write your entire program in a pure functional style---no problem."
@@ -207,15 +229,15 @@ people will, indeed, have questions, and that that is normal and expected.
 In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
 novices. However, that's not to say that experts can't be good teachers.  Experts can
 be effective as long as they take the time to identify and correct
-for their own expert blind spots. You can use some of the exercises we've done while
+for their own expert awareness gaps. You can use some of the exercises we've done while
 preparing to teach to help you overcome these
 challenges.  
 
 Because of their well-connected knowledge, self-aware experts are well-poised
 to help students make meaningful connections among their knowledge, to confidently
 turn an error into a learning opportunity, or to explain
-a complex topic in multiple ways.  The important thing is to be aware of
-blind spots and to try to identify from the learner's perspective as much as
+a complex topic in multiple ways.  The important thing is to identify
+awareness gaps and to try to see things from the learner's perspective as much as
 possible.
 
 ## You Are Not Your Learners  
@@ -266,7 +288,7 @@ We'll talk much more about this when we discuss
 All of the above points illustrate the importance of using formative assessments frequently. The right
 formative assessment at the right time will give you valuable information about your learners' goals and
 motivations, making it easier for you to target your lesson materials to their needs. This strategy also helps
-you as an instructor overcome your expert blind spot. It doesn't matter how easy you think a task is, if your
+you as an instructor overcome your expert awareness gap. It doesn't matter how easy you think a task is, if your
 learners aren't getting it, it's probably more complicated than you thought.
 
 [motivation-words]: https://perma.cc/LE2H-VWXG?type=image
