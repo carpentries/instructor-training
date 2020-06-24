@@ -205,8 +205,8 @@ or the the following Lesson Program specific references:
 * [Library Carpentry](https://librarycarpentry.org/workshops/)
 * [Software Carpentry](https://software-carpentry.org/workshops/request/) workshop pages.
 
-Policies related to instructor training and workshops The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
-be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
+Policies related to instructor training and workshops The Carpentries can be found in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/index.html). Please
+be sure to read through the [instructor no-show policy](https://docs.carpentries.org/topic_folders/policies/instructor-no-show-policy.html#instructor-no-show-policy) before signing up for your first workshop.
 
 ### Setting Up
 
