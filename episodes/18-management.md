@@ -98,7 +98,7 @@ the Carpentries uses a Code of Conduct as a tool to create a respectful and
 inclusive learning environment. Occasionally, part of managing the classroom
 may include dealing with a Code of Conduct violation.
 
-If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them, ask them to apologize, and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
+If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
 
 If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
 
