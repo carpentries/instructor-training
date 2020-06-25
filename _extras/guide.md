@@ -23,7 +23,11 @@ Details about the Instructor Trainer role including the application process, dut
 <a name="general"></a>
 
 ### Four Weeks before the Event
--  Contact your co-Trainer(s) and decide who will teach what.  
+-  Contact your co-Trainer(s) to plan how you will co-teach.  Suggested discussion questions include:
+    - What are some useful tips and tricks to organize yourself, pace yourself, share resources, etc. while teaching?
+    - How do you ensure that all trainees stay engaged and participate? 
+    - How can Trainers help each other (at times when we are not the active Trainer)? How should we communicate with each other during the training?
+    - How can we address trainee challenges? These may include internet connectivity problems, distractions caused by working from home, etc.
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
