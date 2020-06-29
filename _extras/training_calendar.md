@@ -27,6 +27,15 @@ Registration for each event closes one week before that event. You may change or
 
 **During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact team@carpentries.org if you have questions.  Thank you.**
 
+## New! Events over four half days
+To offer more flexible options for our community, we are piloting events that run over four days, for 3.5 hours each day.
+
+* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) Start time: 9 am North America Pacific; 12 noon North America Eastern; 5 pm British Summer Time. *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200824T09&p1=224&ah=3&am=30)*
+
+<hr>
+
+The events below run for two days, from 9 am to 5 pm in the time zone specified. 
+
 ## North America
 
 #### Pacific time
