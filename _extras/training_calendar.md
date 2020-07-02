@@ -10,7 +10,7 @@ Trainees can register for events listed below by clicking on the link for that e
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
-All trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below).  You do not need to be in the same time zone yourself but need to accommodate that time zone for the full 2-day event. A link is provided next to each event that will convert the start time to your local time zone.
+Most trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below). Select events run for shorter periods of time over several days. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
@@ -49,7 +49,7 @@ To offer more flexible options for our community, we are piloting events that ru
 
 The events below run for two days, from 9 am to 5 pm in the time zone specified. 
 
-## North America
+### North America
 
 #### Pacific time
 * February 19-20, 2020 *Registration closed*
@@ -70,7 +70,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 14-15, 2020  *Registration closed*
 * May 28-29, 2020 *Registration closed*
 
-## Europe and Africa
+### Europe and Africa
 
 #### Western European time
 
