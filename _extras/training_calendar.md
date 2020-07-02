@@ -10,7 +10,7 @@ Trainees can register for events listed below by clicking on the link for that e
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
-All trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below).  You do not need to be in the same time zone yourself but need to accommodate that time zone for the full 2-day event. A link is provided next to each event that will convert the start time to your local time zone.
+Most trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below). Select events run for shorter periods of time over several days. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
@@ -27,16 +27,29 @@ Registration for each event closes one week before that event. You may change or
 
 **During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact team@carpentries.org if you have questions.  Thank you.**
 
-## New! Events over four half days
-To offer more flexible options for our community, we are piloting events that run over four days, for 3.5 hours each day.
+## New! Events over multiple days
+To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day.
 
-* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) Start time: 9 am North America Pacific; 12 noon North America Eastern; 5 pm British Summer Time. *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200824T09&p1=224&ah=3&am=30)*
+* [July 20-August 11, 2020](https://www.eventbrite.com/e/online-instructor-training-july-20-aug-11-2020-australia-east-std-time-tickets-112144314664) This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks.
+    - 12:30 pm to 2:00 pm Australia Eastern Standard Time
+    - 2:30 pm to 4 pm New Zealand Standard Time
+    - 8:00 am to 9:30 am India Standard Time
+    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+Australia+Eastern+Standard+Time&iso=20200720T1230&p1=240&ah=1&am=30)*
+<br><br>
 
-<hr>
+
+* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) This event will run for 3.5 hours a day, Monday through Thursday of one week.
+   - 9 am to 12:30 pm North America Pacific
+   - 12 noon to 3:30 pm North America Eastern
+   - 5 pm to 8:30 pm British Summer time
+   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200824T09&p1=224&ah=3&am=30)*
+
+
+## Two day events
 
 The events below run for two days, from 9 am to 5 pm in the time zone specified. 
 
-## North America
+### North America
 
 #### Pacific time
 * February 19-20, 2020 *Registration closed*
@@ -57,7 +70,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 14-15, 2020  *Registration closed*
 * May 28-29, 2020 *Registration closed*
 
-## Europe and Africa
+### Europe and Africa
 
 #### Western European time
 
