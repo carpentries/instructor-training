@@ -97,12 +97,14 @@ highlighting our ability to improve with effort.
 > - You're getting really good at that. Keep up the hard work!
 > - You're really good at that.
 > - That was a hard problem. You didn't get the right answer, but look at how much you learned trying to solve it!
+> - You're a natural!
 >
 >> ## Solution
 >> - Effort-based.
 >> - Improvement-based.
 >> - Performance-based.
 >> - Improvement-based.
+>> - Performance-based. Explicit reference to 'intrinsic' ability.
 > {: .solution}
 {: .challenge}
 
