@@ -43,7 +43,7 @@ Do not use the filter markdownify when specifying an <li> because otherwise fire
 {% endcomment %}
 
 {% for episode in site.episodes %}
-<h1>{{episode.title}} <br/><a href="{{ page.root }}/{{ relative_root_path }}{{episode.url}}">{{ page.root }}/{{ relative_root_path }}{{episode.url}}</a></h1>
+<h1>{{episode.title}} <br/><a href="{{episode.url | absolute_url}}">{{episode.url | absolute_url }}</a></h1>
 
 <br/>
 <blockquote>
