@@ -56,6 +56,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 16-17, 2020 *Registration closed*
 * June 17-18, 2020 *Registration closed*
 * July 13-14, 2020 *Registration closed*
+* [September 23-24, 2020](https://www.eventbrite.com/e/online-instructor-training-sept-23-24-2020-n-america-pacific-time-tickets-112803277640) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200923T09&p1=137&ah=8)*
 
 #### Central time
 * January 16-17, 2020 *Registration closed*
@@ -69,6 +70,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 1-2, 2020 *Registration closed*
 * April 14-15, 2020  *Registration closed*
 * May 28-29, 2020 *Registration closed*
+* [September 15-16, 2020](https://www.eventbrite.com/e/online-instructor-training-sept-15-16-2020-n-america-eastern-time-tickets-112801807242) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200915T09&p1=179&ah=8)*
 
 ### Europe and Africa
 
