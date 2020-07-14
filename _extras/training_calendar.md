@@ -30,11 +30,11 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day.
 
-* [July 20-August 11, 2020](https://www.eventbrite.com/e/online-instructor-training-july-20-aug-11-2020-australia-east-std-time-tickets-112144314664) This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks.
+* [August 31 - September 22, 2020](https://www.eventbrite.com/e/online-instructor-training-aug-31-sep-22-2020-australia-east-std-time-tickets-112144314664) This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks.
     - 12:30 pm to 2:00 pm Australia Eastern Standard Time
     - 2:30 pm to 4 pm New Zealand Standard Time
     - 8:00 am to 9:30 am India Standard Time
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+Australia+Eastern+Standard+Time&iso=20200720T1230&p1=240&ah=1&am=30)*
+    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training%2C+Australia+Eastern+Standard+Time&iso=20200831T1230&p1=240&ah=1&am=30)*
 <br><br>
 
 
