@@ -103,7 +103,7 @@ Porter et al: "[Success in Introductory Programming: What Works?]({{ page.root }
 Wiggins and McTighe: "[UbD in a Nutshell]({{ page.root }}/files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
 :   A four-page summary of the authors' take on reverse instructional design.
 
-Wilson et al: "[Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)".
+Wilson et al: "[Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)".
 :   Describes and justifies a minimal set of computing practices that every researcher could and should adopt.
 
 Wilson et al: "[Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)"
