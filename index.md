@@ -34,7 +34,7 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 
 *   All participants in this course are required to abide by our [Code of Conduct][conduct].
 *   There are no specific prerequisites for this training,
-    but participants will benefit from having attended a Data Carpentry or Software Carpentry workshop either as learner or helper
+    but participants will benefit from having attended a Data Carpentry, Software Carpentry, or Library Carpentry workshop either as learner or helper
     so that they are familiar with our teaching techniques and the style of our workshops.
 *   In particular, participants are *not* required to have any specific programming skills
     (though they should know enough about the subjects of one or more of our lessons
