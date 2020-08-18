@@ -38,7 +38,7 @@ To offer more flexible options for our community, we are piloting events that ru
 <br><br>
 
 
-* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) This event will run for 3.5 hours a day, Monday through Thursday of one week.
+* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) This event will run for 3.5 hours a day, Monday through Thursday of one week.  *Registration is full, but you may join the waitlist.*
    - 9 am to 12:30 pm North America Pacific
    - 12 noon to 3:30 pm North America Eastern
    - 5 pm to 8:30 pm British Summer time
