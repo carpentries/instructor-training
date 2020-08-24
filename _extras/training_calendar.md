@@ -28,9 +28,9 @@ Registration for each event closes one week before that event. You may change or
 **During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact team@carpentries.org if you have questions.  Thank you.**
 
 ## New! Events over multiple days
-To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day.
+To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* [August 31 - September 22, 2020](https://www.eventbrite.com/e/online-instructor-training-aug-31-sep-22-2020-australia-east-std-time-tickets-112144314664) This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks.
+* August 31 - September 22, 2020 This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks. *Registration closed*
     - 12:30 pm to 2:00 pm Australia Eastern Standard Time
     - 2:30 pm to 4 pm New Zealand Standard Time
     - 8:00 am to 9:30 am India Standard Time
@@ -38,7 +38,7 @@ To offer more flexible options for our community, we are piloting events that ru
 <br><br>
 
 
-* [August 24-27, 2020](https://www.eventbrite.com/e/online-instructor-training-august-24-27-2020-tickets-111346030976) This event will run for 3.5 hours a day, Monday through Thursday of one week.  *Registration is full, but you may join the waitlist.*
+* August 24-27, 2020 This event will run for 3.5 hours a day, Monday through Thursday of one week.  *Registration closed*
    - 9 am to 12:30 pm North America Pacific
    - 12 noon to 3:30 pm North America Eastern
    - 5 pm to 8:30 pm British Summer time
