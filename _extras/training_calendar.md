@@ -43,7 +43,12 @@ To offer more flexible options for our community, we are piloting events that ru
    - 12 noon to 3:30 pm North America Eastern
    - 5 pm to 8:30 pm British Summer time
    -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200824T09&p1=224&ah=3&am=30)*
-
+    
+* [September 29 - October 2, 2020](https://www.eventbrite.com/e/online-instructor-training-september-29-october-2-pacific-time-tickets-119164350781) This event will run for 4 hours a day, Tuesday to Friday of one week. 
+    - 9 am to 1 pm North America Pacific
+    - 12 noon to 4 pm North America Eastern
+    - 5 pm to 9 pm British Summer time 
+   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200929T09&p1=224&ah=4)
 
 ## Two day events
 
