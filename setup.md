@@ -14,13 +14,19 @@ training_site: https://carpentries.github.io/instructor-training
     You will be using your selected episode for several in-class exercises,
     so be sure you are comfortable with the content.
 
-3.  We will be recording one another teaching in pairs or threes during the class,
+For In-Person Events: 
+
+3\.  We will be recording one another teaching in pairs or threes during the class,
     so please bring a cell phone or hand-held camera that can record audio and video.
     It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
+4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
     (a tablet won't be sufficient).
 
+For Online Events:
+
+3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full 2-days. You will need to have
+    the bandwidth to transmit video during your practice exerises.
 
 After this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
