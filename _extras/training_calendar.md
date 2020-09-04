@@ -76,6 +76,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 23-24, 2020 *Registration closed*
 * June 8-9, 2020 *Registration closed*
 * June 15-16, 2020 *Registration closed*
+* [October 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-october-19-20-2020-n-america-central-time-tickets-119640173981) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201019T09&p1=64&ah=8)*
 
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
