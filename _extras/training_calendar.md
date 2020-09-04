@@ -48,7 +48,15 @@ To offer more flexible options for our community, we are piloting events that ru
     - 9 am to 1 pm North America Pacific
     - 12 noon to 4 pm North America Eastern
     - 5 pm to 9 pm British Summer time 
-   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200929T09&p1=224&ah=4)
+   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200929T09&p1=224&ah=4)*
+
+
+* [October 27-30, 2020](https://www.eventbrite.com/e/online-instructor-training-october-27-30-2020-pacific-time-tickets-119641497941) This event will run for 3.5 hours a day, Tuesday to Friday of one week.
+   - 9 am to 12:30 pm North America Pacific
+   - 12 noon to 3:30 pm North America Eastern
+   - 5 pm to 8:30 pm British Summer time
+   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20201027T09&p1=224&ah=3&am=30)*
+
 
 ## Two day events
 
@@ -68,6 +76,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 23-24, 2020 *Registration closed*
 * June 8-9, 2020 *Registration closed*
 * June 15-16, 2020 *Registration closed*
+* [October 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-october-19-20-2020-n-america-central-time-tickets-119640173981) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201019T09&p1=64&ah=8)*
 
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
@@ -91,3 +100,5 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 22-23, 2020  *Registration closed*
 * June 29 - July 2, 2020 *Event canceled*
 * August 3-4, 2020 *Event canceled*
+* [November 11-12, 2020](https://www.eventbrite.com/e/online-instructor-training-november-12-13-2020-central-european-time-tickets-119642009471) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201111T09&p1=195&ah=8)*
+
