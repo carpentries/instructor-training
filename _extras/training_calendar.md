@@ -100,3 +100,5 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 22-23, 2020  *Registration closed*
 * June 29 - July 2, 2020 *Event canceled*
 * August 3-4, 2020 *Event canceled*
+* [November 11-12, 2020](https://www.eventbrite.com/e/online-instructor-training-november-12-13-2020-central-european-time-tickets-119642009471) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201111T09&p1=195&ah=8)*
+
