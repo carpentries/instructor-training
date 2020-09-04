@@ -91,7 +91,7 @@ Library Carpentry workshops:
 
 In a visual representation, these similarities and differences look like this:
 
-![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
+![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20200904.svg)
 
 
 ## What is a Carpentries Workshop? The Rules.
