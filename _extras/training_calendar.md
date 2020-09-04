@@ -48,7 +48,8 @@ To offer more flexible options for our community, we are piloting events that ru
     - 9 am to 1 pm North America Pacific
     - 12 noon to 4 pm North America Eastern
     - 5 pm to 9 pm British Summer time 
-   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200929T09&p1=224&ah=4)
+   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20200929T09&p1=224&ah=4)*
+
 
 ## Two day events
 
