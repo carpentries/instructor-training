@@ -423,7 +423,7 @@ can be gradually removed.
 Anything you can do to a) recognize and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
-[kirschner-paper]: http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
+[kirschner-paper]: https://www.tandfonline.com/doi/pdf/10.1207/s15326985ep4102_1
 [memory-test]: https://miku.github.io/activememory/
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
