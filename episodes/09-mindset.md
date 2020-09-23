@@ -113,7 +113,7 @@ highlighting our ability to improve with effort.
 
 > The typos are the pedagogy.
 > — Emily Jane McTavish
-{: .quotation}
+{: .testimonial}
 
 Another example of how our beliefs (in this case, our emotions) impact learning
 is in how we think about errors.  One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being
