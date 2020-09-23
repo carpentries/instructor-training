@@ -9,11 +9,11 @@ questions:
 objectives:
 - "Introduce yourself to your fellow workshop participants."
 - "Describe what will and will not be covered in this workshop."
-- "Understand that the Carpentries are communities of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."
+- "Understand that The Carpentries is a community of volunteers who develop lessons and teach workshops on basic computing and data skills for researchers."
 keypoints:
-- "The Carpentries are communities of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
+- "The Carpentries is a community of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously."
 - "This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust."
-- "This workshop will cover general teaching pedagogy and how it applies specifically to the Carpentries."
+- "This workshop will cover general teaching pedagogy and how it applies specifically to The Carpentries."
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
@@ -34,14 +34,14 @@ keypoints:
 
 > ## Getting to know each other
 >
-> If the trainer has chosen an [icebreaker question]({{ site.training_site }}/icebreakers/index.html),
+> If the Trainer has chosen an [icebreaker question]({{ site.training_site }}/icebreakers/index.html),
 > participate by writing your answers in the course's shared notes.
 {: .challenge}
 
 ## Code of Conduct
 
-To make clear what is expected, everyone participating in Carpentries activities is required
-to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by the Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
+To make clear what is expected, everyone participating in The Carpentries activities is required
+to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to workshops, email lists, online forums and on GitHub. Please review
 [the Code of Conduct]({{ site.coc }}) to familiarise yourself with it.
 
 ## Introductions
@@ -51,7 +51,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 > --- Tracy Teal, Former Executive Director, The Carpentries
 {: .testimonial}
 
-Hello everyone, and welcome to the Carpentries
+Hello everyone, and welcome to The Carpentries
 instructor training.  We're very pleased to have you with us.
 
 > ## Today's Trainers
@@ -64,7 +64,7 @@ instructor training.  We're very pleased to have you with us.
 
 Now we would like to get to know all of you.
 
-> ## Reviewing Carpentries Experience and Goals
+> ## Reviewing The Carpentries Experience and Goals
 >
 > Please answer the following questions in the shared notes document:
 >
@@ -87,18 +87,18 @@ Now we would like to get to know all of you.
 >
 > **Why are you taking this course? What goals do you have for today and tomorrow?**
 >
-> If time permits, the trainer may have you discuss these answers in small groups
+> If time permits, the Trainer may have you discuss these answers in small groups
 > (in breakout rooms if online), or all together as a group.
 {: .challenge}
 
 To make sure everyone has the
-same context, we'll give a brief overview of the Carpentries
+same context, we'll give a brief overview of The Carpentries
 organization before starting the training.
 
-## A Brief Overview of the Carpentries
+## A Brief Overview of The Carpentries
 
 Software Carpentry, Data Carpentry, and Library Carpentry
-are official Lesson Programs of the Carpentries.
+are official Lesson Programs of The Carpentries.
 Together, they comprise communities of volunteer researchers, educators, and more who develop
 lessons and teach intensive one to two day workshops on basic computing and data skills for
 researchers.
@@ -108,23 +108,23 @@ computational skills
 researchers work effectively with their data through its lifecycle
 * Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
 
-The main goal of these organizations is not to teach specific skills, per se - although those
+The main goal of The Carpentries is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
 
 The goal of this two-day training is to provide you with the skills and information you need
-to become a certified Carpentries instructor. Our expectations of certified Carpentries
-instructors is that they:
+to become a certified Carpentries Instructor. Our expectations of certified Carpentries
+Instructors is that they:
 
 - be familiar with and understand how to apply research-based teaching principles,
-especially as they apply to the Carpentries audience.
+especially as they apply to The Carpentries audience.
 - understand the importance of a respectful and inclusive classroom environment; commit to
 creating such an environment; and be able to
-identify and implement Carpentries policies and general practices to accomplish this.
-- practice and develop skills in the teaching methods used in Carpentries workshops.
-- learn enough about the Carpentries organization to know where to go for help,
+identify and implement The Carpentries policies and general practices to accomplish this.
+- practice and develop skills in the teaching methods used in The Carpentries workshops.
+- learn enough about The Carpentries organisation to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
 
 These four goals are broken down into four main modules of content:
@@ -155,13 +155,13 @@ give our best effort (and have the most fun!) if everyone abides by these guidel
 We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms.
 
-### Carpentry History and Culture
+### The Carpentries History and Culture
 
 We will be introducing you to the teaching practices that have been
-adopted by the Carpentries communities, and our
+adopted by The Carpentries community, and our
 overall philosophy and procedures in order
 to prepare you to teach Carpentries workshops.
-The greatest asset of the Carpentries is people like
+The greatest asset of The Carpentries is people like
 yourselves - people who want to help researchers learn about these ideas
 and share their own experience and enthusiasm.  We hope that this training
 gives everyone a chance to meet new people and share ideas.
@@ -172,7 +172,7 @@ To orient yourself, there is a schedule on the workshop webpage which is linked 
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get
 familiarity with some of the content through the exercises),
-This workshop is a significant requirement for becoming a certified Carpentries instructor.
+This workshop is a significant requirement for becoming a certified Carpentries Instructor.
 The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
 
 We also do not discuss how to develop lessons.  Many of the ideas we
