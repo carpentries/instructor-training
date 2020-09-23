@@ -16,7 +16,7 @@ keypoints:
 - "Mistakes made during participatory live coding are valuable learning opportunities."
 ---
 
-One of the cornerstones of the Carpentries teaching is live
+One of the cornerstones of The Carpentries teaching is live
 coding: *instructors don't use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
