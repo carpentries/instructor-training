@@ -18,14 +18,14 @@ keypoints:
 ---
 
 To recap from yesterday's introduction, the goal of this training is prepare
-you to be a certified Carpentries instructor, which includes the following:
+you to be a certified Carpentries Instructor, which includes the following:
 - be familiar with and understand how to apply research-based teaching principles,
-especially as they apply to the Carpentries audience.
+especially as they apply to The Carpentries audience.
 - understand the importance of a respectful and inclusive classroom environment; commit to
 creating such an environment; and be able to
-identify and implement Carpentries policies and general practices to accomplish this.
+identify and implement The Carpentries policies and general practices to accomplish this.
 - practice and develop skills in the teaching methods used in Carpentries workshops
-- learn enough about the Carpentries organization to know where to go for help,
+- learn enough about The Carpentries organization to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
 
 Yesterday we focused on general aspects of educational psychology and pedagogy and
@@ -36,11 +36,11 @@ receive feedback. We will continue that skill development process today, as we
 focus on the specifics of teaching Software Carpentry, Data Carpentry, and Library Carpentry workshops.
 We will review specific
 teaching practices we follow at our workshops and practice using some of them. One of the most important practices
-in the Carpentries is participatory live coding.  We'll spend some time practicing this skill for multiple reasons:
+in The Carpentries is participatory live coding.  We'll spend some time practicing this skill for multiple reasons:
 one, you rarely find this approach in a current university setting so it's good
 to try it out, but also, this will give us a chance to continue developing skills
 we discussed yesterday that help improve our teaching: reflective practice and
-providing (and receiving!) constructive feedback. Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in the Carpentries community.
+providing (and receiving!) constructive feedback. Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
 
 > ## Questions
 >
