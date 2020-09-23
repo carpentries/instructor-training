@@ -149,12 +149,12 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 
 > ## Expert Awareness Gap
 >  
-> In the Carpentries, we aim to create an inclusive environment. We prefer to refer to this
+> In The Carpentries, we aim to create an inclusive environment. We prefer to refer to this
 > phenomenon as the *expert awareness gap* to be consistent with our objective to use
 > inclusive language. It can be exclusionary to use a term that relates to a disability
 > for other purposes. We introduce both terms, however, to help you as future
 > instructors engage with these ideas in
-> the literature and with people outside of the Carpentries community.
+> the literature and with people outside of The Carpentries community.
 >
 > In evaluating potential terms, one instructor provided the following thoughts:
 >
@@ -246,7 +246,7 @@ One way to overcome these limitations is by understanding the goals
 and motivations of your learners.  We will discuss motivation in more depth
 in a [later lesson]({{ page.root }}/08-motivation/)
 but for now, consider some of these ideas about the typical audience for
-Carpentry workshops.  
+Carpentries workshops.  
 
 - Most scientists' primary goal is not to program, but to do scientific research.
 They may not care how hash tables work,
