@@ -21,7 +21,7 @@ keypoints:
 
 We'll now get started with a discussion of how learning works. We'll learn
 some key findings from educational research and identify how these principles
-are put into practice in Carpentry workshops.
+are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
 
@@ -75,7 +75,7 @@ tasks with normal effort under normal circumstances.
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 For now, we are primarily concerned with novices,
-as this tends to characterize the Carpentries audience. (We, as instructors,
+as this tends to characterize The Carpentries audience. (We, as instructors,
   are more likely to be competent practitioners or experts, and we'll
 discuss this in a later section).  We'll next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
@@ -133,7 +133,7 @@ management in a way that will allow them to learn more on their own or understan
 ### The Importance of Going Slowly
 
 > If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming.
-> — Kunal Marwaha, SWC instructor
+> — Kunal Marwaha, SWC Instructor
 {: .testimonial}
 
 If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
@@ -171,7 +171,7 @@ Explicitly referring back to pipes and filters in the shell when introducing fun
 helps solidify both ideas.
 
 > ## Meeting Learners Where They Are
-> One of the strengths of Carpentry workshops is that we meet learners where they're at. Carpentry instructors
+> One of the strengths of Carpentries workshops is that we meet learners where they're at. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
@@ -205,7 +205,7 @@ Broadly speaking, misconceptions fall into three categories:
     These beliefs are deeply connected to the learner's social identity
     and are the hardest to change.
 
-Since the Carpentries workshops are focused on novices, and the building of
+Since The Carpentries workshops are focused on novices, and the building of
 strong mental models, we're most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
@@ -256,7 +256,7 @@ results are easily interpretable by the learner and instructor.
 > and then changing behavior in response to that feedback to get cumulatively better.
 > Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
 > This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
-> instructor training program.
+> Instructor Training program.
 {: .callout}
 
 ## Formative Assessments Come in Many Forms
@@ -268,7 +268,7 @@ There are many types of formative assessment, and each have their advantages and
 > Based on your previous educational experience (or even this training so far!)
 > what types of formative assessments do you know about?
 >
-> Write your answers in the etherpad; or go around and have each person in the group name one.
+> Write your answers in the Etherpad; or go around and have each person in the group name one.
 {: .challenge}
 
 One example of formative assessment that we would like to highlight is
