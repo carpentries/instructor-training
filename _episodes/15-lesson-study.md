@@ -163,7 +163,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 
 
 > ## Instructor Notes
-> Many of the Carpentries lessons have
+> Many of The Carpentries lessons have
 > instructor's notes, with information
 > from instructors who have already taught the material.  This can be a valuable
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
