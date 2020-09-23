@@ -134,7 +134,7 @@ management in a way that will allow them to learn more on their own or understan
 
 > If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming.
 > — Kunal Marwaha, SWC instructor
-{: .quotation}
+{: .testimonial}
 
 If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
 this will impact our teaching. For example, we principally want to help learners
