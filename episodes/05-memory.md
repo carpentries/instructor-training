@@ -189,7 +189,7 @@ knowledge.
 
 > ## Concept Mapping
 >
-> Create a hand-drawn concept map for a part of a Carpentry lesson you would teach in
+> Create a hand-drawn concept map for a part of a Carpentries lesson you would teach in
 > five minutes (i.e.
 > the amount of material you would teach before doing a formative assessment).
 > You can use the same subject about which you created a multiple choice question, or
