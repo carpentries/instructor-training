@@ -19,7 +19,7 @@ keypoints:
 
 In the morning we covered some educational research and how we can apply it
 to teaching Carpentries workshops.  Part of this afternoon will cover
-another important aspect of being a Carpentries instructor: fostering a
+another important aspect of being a Carpentries Instructor: fostering a
 positive learning environment.
 
 This section discusses typical ways that
@@ -175,7 +175,7 @@ learners.
 > ## Why Do You Teach? (Optional)
 >
 > We all have a different motivation for teaching, and that is a really good thing!
-> The Carpentries want instructors with diverse backgrounds because you each bring something
+> The Carpentries wants instructors with diverse backgrounds because you each bring something
 > unique to our community.
 >
 > What motivates you to teach? Write a short explanation of what motivates you to teach.
@@ -501,7 +501,7 @@ such as:
 
 ## Setting Expectations with the Code of Conduct
 
-Finally, a important way that the Carpentries foster an inclusive, respectful
+Finally, a important way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
 
 To make clear what is expected,
