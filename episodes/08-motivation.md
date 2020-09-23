@@ -65,7 +65,7 @@ things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in our workshops.
 
-![What to Teach](../fig/what-to-teach.png)
+![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
 
 Another way to think about the graph shown above is "authentic tasks."
 An authentic task is exactly what it sounds like -- a real task performed
@@ -301,8 +301,7 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
-![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)
-https://xkcd.com/1954/
+![One stick figure introducing another to a third says, "This is Dr. Adams. She's a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, don't be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and
 criticized publicly. In addition,
