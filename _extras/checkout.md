@@ -261,3 +261,4 @@ If you have any questions or suggestions about any of the above,
 please [contact us](mailto:{{ site.email }}).
 
 [glosario-github]: https://github.com/carpentries/glosario/
+[help-wanted]: https://carpentries.org/help-wanted-issues/
