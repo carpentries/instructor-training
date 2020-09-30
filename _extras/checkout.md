@@ -53,7 +53,8 @@ Our lessons are maintained and improved by the people who teach them,
 so this part of the checkout procedure gives you a chance to familiarize yourself
 with our collaborative curriculum development process.
 
-Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
+If contributing to a lesson,
+trainees must make a contribution to the lesson's content, exercises, or instructor's guide by doing one of the following:
 
 1. Providing substantive feedback on an existing issue or pull request (preferred).
 2. Submitting a change to fix an existing issue. Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance and is a good place to start when looking for ways to contribute.
