@@ -59,6 +59,10 @@ Trainees must make a contribution to a lesson's content, exercises, or instructo
 2. Submitting a change to fix an existing issue. Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance and is a good place to start when looking for ways to contribute.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
+If contributing to Glosario, trainees can make a change in the form of
+introducing a relevant new term to the glossary or
+adding a definition to an existing term in another language.
+
 <a name="eligible-repositories"></a>A contribution will be valid for checkout if it is made to:
 
 * any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
