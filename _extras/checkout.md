@@ -12,7 +12,7 @@ After you have completed the two-day instructor training workshop,
 you must go through these three steps to complete your training and be
 fully certified as a Carpentries instructor:
 
-1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
+1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson or glossary](#lesson-change).
 2.  Take part in an online [community discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
@@ -23,9 +23,9 @@ two weeks after completing all the requirements.
 These checkout steps aim to introduce you to key components of being a Carpentries instructor that are difficult to fully cover in the classroom
 setting of the two-day training.  These are:
 
-1.  Contributing to our lesson materials.  As our materials are developed by the
+1.  Contributing to our materials.  As our materials are developed by the
     community, we want to ensure that all instructors know where and how to contribute
-    to our materials, particularly so that you can contribute in the future.
+    to them, particularly so that you can contribute in the future.
 
 2.  Participating in the larger Carpentry instructor community.  We
     include the community discussion session in the checkout because we hear
@@ -78,9 +78,9 @@ to that lesson. You can access a lesson's GitHub repository by clicking on the G
 
 Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
 
-If contributing to Glosario, trainees can make a change in the form of
-introducing a relevant new term to the glossary or
-adding a definition to an existing term in another language.
+If contributing to Glosario,
+trainees must introduce a relevant new term to the glossary or
+add a definition to an existing term in another language.
 
 Please note that:
 
