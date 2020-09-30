@@ -46,10 +46,10 @@ To offer more flexible options for our community, we are piloting events that ru
     - 5 pm to 9 pm British Summer time 
 <br><br>
 * [October 14-22, 2020](https://www.eventbrite.com/e/online-instructor-training-october-14-22-2020-nzdt-tickets-123260626853) This event will run for 4 hours a day, Wednesday and Thursday, for two weeks.
+   - 8:30 am to 12:30 pm Japan Standard Time
+   - 9:30 am to 1:30 pm Australia Eastern Standard Time
    - 12:30 pm - 4:30 pm New Zealand Daylight Time
-   - 7:30 am to 11:30 am Australia Western Standard Time
-   - 11:30 pm October 13 to 3:30 am October 14 Greenwich Mean time
-   -  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+&iso=20201014T1230&p1=22)*. Note that date as well as time may vary in compatible time zones for this event.
+   - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+&iso=20201014T1230&p1=22)*. Note that date as well as time may vary in compatible time zones for this event.
 <br><br>
 * [October 27-30, 2020](https://www.eventbrite.com/e/online-instructor-training-october-27-30-2020-pacific-time-tickets-119641497941) This event will run for 3.5 hours a day, Tuesday to Friday of one week.
    - 9 am to 12:30 pm North America Pacific
