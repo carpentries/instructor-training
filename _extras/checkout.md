@@ -53,22 +53,18 @@ Our lessons are maintained and improved by the people who teach them,
 so this part of the checkout procedure gives you a chance to familiarize yourself
 with our collaborative curriculum development process.
 
+<a name="eligible-repositories"></a>A contribution will be valid for checkout if it is made to:
+
+* any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
+* any [community developed lesson](https://carpentries.org/community-lessons/)
+* our open source, multilingual glossary of data science terms, [Glosario](glosario-github)
+
 If contributing to a lesson,
 trainees must make a contribution to the lesson's content, exercises, or instructor's guide by doing one of the following:
 
 1. Providing substantive feedback on an existing issue or pull request (preferred).
 2. Submitting a change to fix an existing issue. Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance and is a good place to start when looking for ways to contribute.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
-
-If contributing to Glosario, trainees can make a change in the form of
-introducing a relevant new term to the glossary or
-adding a definition to an existing term in another language.
-
-<a name="eligible-repositories"></a>A contribution will be valid for checkout if it is made to:
-
-* any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
-* any [community developed lesson](https://carpentries.org/community-lessons/)
-* our open source, multilingual glossary of data science terms, [Glosario](glosario-github)
 
 Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials, community developed lessons, and Glosario must be submitted through GitHub.
 
@@ -81,6 +77,10 @@ to that lesson. You can access a lesson's GitHub repository by clicking on the G
 * [https://carpentries.org/community-lessons/](https://carpentries.org/community-lessons/)
 
 Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
+
+If contributing to Glosario, trainees can make a change in the form of
+introducing a relevant new term to the glossary or
+adding a definition to an existing term in another language.
 
 Please note that:
 
