@@ -272,12 +272,16 @@ Carpentries organization itself aims to be open, collaborative, and
 based on best practices.  We want to draw together the collective expertise of
 our teaching community to create collaborative lessons, share other materials,
 and improve the lessons via "bug fixes" as we go along.
+Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance
+and is a good place to start when looking for ways to contribute.
 
 > ## Lesson Incubation
 >
 > Maybe this instructor training has inspired you to go home and write your
 > own fantastic lesson!  If you'd like to model it after the Software, Data and
-> Library Carpentry lesson format, you can find a template and instructions in [The Carpentries lesson example repository]({{ site.example_repo }}).
+> Library Carpentry lesson format, you can find a template and instructions in
+> [The Carpentries lesson example repository]({{ site.example_repo }}),
+> and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
 {: .callout}
 
 > ## Many Ways to Contribute
@@ -331,3 +335,6 @@ build local and global communities of practice around  skills for data analysis,
 >
 > Take a couple of minutes to sign up for The Carpentry discussion channels you want to stay involved with.
 {: .challenge}
+
+[help-wanted]: https://carpentries.org/help-wanted-issues/
+[carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
