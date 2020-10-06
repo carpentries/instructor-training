@@ -12,20 +12,20 @@ After you have completed the two-day instructor training workshop,
 you must go through these three steps to complete your training and be
 fully certified as a Carpentries instructor:
 
-1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson's content, exercises, or instructor's guide](#lesson-change).
+1.  Make (and [send us a link to](mailto:{{ site.email }})) a [contribution to a lesson or glossary](#lesson-change).
 2.  Take part in an online [community discussion session](#discussion-session).
 3.  Teach a short [demonstration lesson](#demo-lesson) online.
 
 Tasks are listed in the order most of our instructor trainees complete the checkout process, but
-you can complete them in any order. Trainees will receive a certificate of completion approximately 
-two weeks after completing all the requirements. 
+you can complete them in any order. Trainees will receive a certificate of completion approximately
+two weeks after completing all the requirements.
 
 These checkout steps aim to introduce you to key components of being a Carpentries instructor that are difficult to fully cover in the classroom
 setting of the two-day training.  These are:
 
-1.  Contributing to our lesson materials.  As our materials are developed by the
+1.  Contributing to our materials.  As our materials are developed by the
     community, we want to ensure that all instructors know where and how to contribute
-    to our materials, particularly so that you can contribute in the future. 
+    to them, particularly so that you can contribute in the future.
 
 2.  Participating in the larger Carpentry instructor community.  We
     include the community discussion session in the checkout because we hear
@@ -41,34 +41,46 @@ Trainees will have three months to complete the checkout exercises. Extensions m
 and must be requested before the three months are up. To request an extension, please [contact us](mailto:{{ site.email }}).
 
 
-> ## Submit an application  
+> ## Submit an application
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
 > If you haven't already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
-## Part 1: Submit a Small Contribution to One of Our Lessons
+## Part 1: Submit a Small Contribution to a Lesson or Glossary
 <a name="lesson-change"></a>
 
 Our lessons are maintained and improved by the people who teach them,
 so this part of the checkout procedure gives you a chance to familiarize yourself
 with our collaborative curriculum development process.
 
-Trainees must make a contribution to a lesson's content, exercises, or instructor's guide by doing one of the following:
+<a name="eligible-repositories"></a>A contribution will be valid for checkout if it is made to:
+
+* any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
+* any [community developed lesson](https://carpentries.org/community-lessons/)
+* our open source, multilingual glossary of data science terms, [Glosario](glosario-github)
+
+If contributing to a lesson,
+trainees must make a contribution to the lesson's content, exercises, or instructor's guide by doing one of the following:
 
 1. Providing substantive feedback on an existing issue or pull request (preferred).
-2. Submitting a change to fix an existing issue.(Example [good first issues](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).)
+2. Submitting a change to fix an existing issue. Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance and is a good place to start when looking for ways to contribute.
 3. Proof-reading a lesson and adding a new issue describing something to be improved.
 
-Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials must be submitted through GitHub.
+Contributions to Data Carpentry and Library Carpentry materials may be submitted through GitHub or by [email](mailto:{{ site.email }}). Contributions to Software Carpentry materials, community developed lessons, and Glosario must be submitted through GitHub.
 
 Each lesson has a CONTRIBUTING.md file in its repository on GitHub. This file explains best practices for contributing
-to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that lesson on the lesson page. The lesson pages can be found at:  
+to that lesson. You can access a lesson's GitHub repository by clicking on the GitHub kitty icon in the "Repository" column for that lesson on the lesson page. The lesson pages can be found at:
 
-* [https://datacarpentry.org/lessons/]({{ site.dc_site }}/lessons/)
-* [https://software-carpentry.org/lessons/]({{ site.swc_site }}/lessons/)
-* [https://librarycarpentry.org/lessons/]({{ site.lc_site }}/lessons/) 
+* [{{ site.dc_site }}/lessons/]({{ site.dc_site }}/lessons/)
+* [{{ site.swc_site }}/lessons/]({{ site.swc_site }}/lessons/)
+* [{{ site.lc_site }}/lessons/]({{ site.lc_site }}/lessons/)
+* [https://carpentries.org/community-lessons/](https://carpentries.org/community-lessons/)
 
 Please follow the guidelines in the appropriate CONTRIBUTING.md file when making lesson contributions.
+
+If contributing to Glosario,
+trainees must introduce a relevant new term to the glossary or
+add a definition to an existing term in another language.
 
 Please note that:
 
@@ -115,7 +127,7 @@ Please note that:
     we would like our current learning objectives to be checked against the actual lesson content,
     and to be framed in terms of observables
     (e.g., "Learner will be able to do X") rather than intangibles (e.g., "Learner will appreciate X").
-    
+
 For more details on the workflow of how to contribute via GitHub, see this
 community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 
@@ -194,7 +206,7 @@ The final step is to sign up for a 5-minute demonstration online using
 [the teaching demo schedule Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
 
-The link to connect to the video conference is at the top of the Etherpad. 
+The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
 rather than open-air speakers and your laptop's built-in microphone,
 since the latter often lead to audio quality problems.
@@ -207,19 +219,19 @@ We may not be able to accommodate all languages.
 
 For your teaching demonstration, you will prepare to teach a lesson from one of the
 Carpentries lesson programs. You can refer to the lists of [Software Carpentry lessons](https://software-carpentry.org/lessons/), [Data Carpentry lessons](http://www.datacarpentry.org/lessons/), and [Library Carpentry lessons](https://librarycarpentry.org/lessons/) on the websites.
-A lesson corresponds to a single line in the lesson table and a single repository in GitHub. 
-(An example of a lesson: [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)). 
+A lesson corresponds to a single line in the lesson table and a single repository in GitHub.
+(An example of a lesson: [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)).
 Some lessons have supplementary modules.
-You do not need to be prepared to teach the supplementary modules for your teaching demonstration.  
+You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
-You will be asked to teach a short segment from your chosen lesson from this 
-[list of suggested episodes](https://carpentries.github.io/instructor-training/demo_lessons/index.html). 
-The host of the session will pick a segment of the lesson for you to teach on the day of the 
+You will be asked to teach a short segment from your chosen lesson from this
+[list of suggested episodes](https://carpentries.github.io/instructor-training/demo_lessons/index.html).
+The host of the session will pick a segment of the lesson for you to teach on the day of the
 demonstration (An example for a segment could be: [Data Structures](http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html)), so you must be prepared to teach any part of your chosen lesson.
 
-_Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise. 
-You can indicate the lessons you are comfortable teaching when you update 
-[your instructor profile](https://amy.carpentries.org/workshops/trainee-dashboard/)._ 
+_Please note that you only need to demonstrate your ability to teach one lesson; once certified you can teach any lesson if you have the relevant expertise.
+You can indicate the lessons you are comfortable teaching when you update
+[your instructor profile](https://amy.carpentries.org/workshops/trainee-dashboard/)._
 
 For your demonstration(s), you will screen-share
 and live code as if your computer was plugged into a projector
@@ -241,9 +253,12 @@ we will send you your certificate
 and instructions on how to add yourself to the teaching roster and our website.
 If for any reason the trainer leading the session feels that you should try again,
 you will be told what to focus on
-and when and where to sign up for another session. Here is a [rubric](https://carpentries.github.io/instructor-training/demos_rubric/) made available to Trainers to aid with scoring. 
+and when and where to sign up for another session. Here is a [rubric](https://carpentries.github.io/instructor-training/demos_rubric/) made available to Trainers to aid with scoring.
 
 ## Contacting Us
 
 If you have any questions or suggestions about any of the above,
 please [contact us](mailto:{{ site.email }}).
+
+[glosario-github]: https://github.com/carpentries/glosario/
+[help-wanted]: https://carpentries.org/help-wanted-issues/
