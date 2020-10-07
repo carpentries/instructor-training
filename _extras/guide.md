@@ -74,7 +74,10 @@ this [Google Drive folder][slides-folder] contains slides with diagrams, cartoon
 
 ### General Preparation
 
-TBA
+- Have water and cough drops nearby.
+- Decide ahead of time if you will be using google docs or an etherpad.
+- Most people like or enjoy this training.
+- There is no such thing as "too much coffee" or "too many donuts"
 
 ### Using Helpers/Co-Instructors
 
