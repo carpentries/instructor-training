@@ -45,7 +45,7 @@ To offer more flexible options for our community, we are piloting events that ru
     - 12 noon to 4 pm North America Eastern
     - 5 pm to 9 pm British Summer time 
 <br><br>
-* [October 14-22, 2020](https://www.eventbrite.com/e/online-instructor-training-october-14-22-2020-nzdt-tickets-123260626853) This event will run for 4 hours a day, Wednesday and Thursday, for two weeks.
+* October 14-22, 202 This event will run for 4 hours a day, Wednesday and Thursday, for two weeks. *Registration closed*
    - 8:30 am to 12:30 pm Japan Standard Time
    - 9:30 am to 1:30 pm Australia Eastern Standard Time
    - 12:30 pm - 4:30 pm New Zealand Daylight Time
@@ -77,7 +77,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 23-24, 2020 *Registration closed*
 * June 8-9, 2020 *Registration closed*
 * June 15-16, 2020 *Registration closed*
-* [October 19-20, 2020](https://www.eventbrite.com/e/online-instructor-training-october-19-20-2020-n-america-central-time-tickets-119640173981) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201019T09&p1=64&ah=8)*
+* October 19-20, 2020  *Registration closed*
 
 #### Eastern time
 * January 29-30, 2020 *Registration closed*
