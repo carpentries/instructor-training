@@ -57,7 +57,7 @@ with our collaborative curriculum development process.
 
 * any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
 * any [community developed lesson](https://carpentries.org/community-lessons/)
-* our open source, multilingual glossary of data science terms, [Glosario](glosario-github)
+* our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
 If contributing to a lesson,
 trainees must make a contribution to the lesson's content, exercises, or instructor's guide by doing one of the following:
