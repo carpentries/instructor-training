@@ -30,7 +30,7 @@ process. Learning to teach is no different.
 
 However, many people assume that teachers are born, not made.  From politicians
 to researchers and teachers themselves, most reformers have designed systems to
-find and promote those who can teach and eliminate those who can't.
+find and promote those who can teach and eliminate those who cannot.
 As Elizabeth Green describes in *[Building a Better Teacher][worldcat-babt]*, though,
 that assumption is wrong, which is why educational reforms based on it have repeatedly failed.
 
@@ -60,7 +60,7 @@ The situation is different in many English-language school systems:
 in the US, Canada, the UK, Australia, and elsewhere, where often
 what happens in the classroom stays in the classroom.
 Teachers aren't able to watch each other's lessons on a regular basis,
-so they can't borrow each other's good ideas.
+so they cannot borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
 the school board,

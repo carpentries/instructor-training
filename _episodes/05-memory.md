@@ -46,7 +46,7 @@ More recent research suggests that short-term memory is actually even smaller th
 Regardless of its exact size, which may differ across people and contexts, we know that
 short-term memory is limited. This has important implications for teaching. If we present
 our learners with large amounts of information, without giving them the opportunity to
-practice using it (and thereby transfer it into long-term memory), they won't retain
+practice using it (and thereby transfer it into long-term memory), they will not retain
 the material as well as if we present small amounts of information interspersed with
 practice opportunities. This is yet another reason why going slowly and using
 frequent formative assessment is important.
@@ -122,7 +122,7 @@ assessments.
 
 In the same vein as "going slowly," it's important to limit the number of
 concepts introduced in a lesson; no matter how many exercises or formative
-assessments you do, you can't overcome the limit of items that can be
+assessments you do, you cannot overcome the limit of items that can be
 shored in short-term memory.
 
 ## Concept Maps as Instructional Planning Tools
@@ -273,7 +273,7 @@ and linguistic and visual memories are stored separately as well.
 This means that correlating different linguistic, auditory, and visual
 streams of information takes cognitive effort:
 when someone reads one thing while hearing something else spoken aloud,
-their brain can't help but check that it's getting the same information on both channels.
+their brain cannot help but check that it's getting the same information on both channels.
 Discrepancies between these channels increase cognitive load and decrease learning.
 Learning is therefore more effective when information that is being presented simultaneously
 in two different channels is redundant, rather than different.

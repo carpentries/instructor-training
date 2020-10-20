@@ -21,7 +21,7 @@ For In-Person Events:
     It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
 4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
-    (a tablet won't be sufficient).
+    (a tablet will not be sufficient).
 
 For Online Events:
 

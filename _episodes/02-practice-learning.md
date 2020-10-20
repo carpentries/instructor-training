@@ -61,7 +61,7 @@ the three stages of this model are:
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
 
-*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details
+*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They will not know all the details
 of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
 tasks with normal effort under normal circumstances.
 
@@ -187,7 +187,7 @@ misconceptions of broken mental models.
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
 with some amount of information, ideas and opinions about the topic. This is true even
-in the case where a learner can't articulate their prior knowledge and beliefs.  
+in the case where a learner cannot articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
 can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
@@ -299,7 +299,7 @@ but each of the other answers provides valuable insight.
 >> ## Solution
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
->> *   If they answer 312, they know that they can't just discard the carried '1',
+>> *   If they answer 312, they know that they cannot just discard the carried '1',
 >>     but doesn't understand that it's actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,

@@ -13,7 +13,7 @@ title: "Icebreakers"
 ### Our First Exercise
 
 In the Etherpad, write down your name, the best class you ever
-took (or one class from your top ten, if you can't decide), and
+took (or one class from your top ten, if you cannot decide), and
 what made it so great.
 This exercise should take about 2 minutes.
 

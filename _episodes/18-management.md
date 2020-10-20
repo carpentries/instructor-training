@@ -187,7 +187,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>- Discuss in advance if you will providing feedback to each other
 >>  and how to do so (see notes above).
 >>
->>- If it won't cause cognitive overload for you (the instructors),
+>>- If it will not cause cognitive overload for you (the instructors),
 >>  work out a couple of hand signals to communicate.  "You're
 >>  going too fast", "speak up", "that learner needs help", and, "It's
 >>  time for a bathroom break" are all useful.

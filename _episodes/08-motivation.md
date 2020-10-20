@@ -94,7 +94,7 @@ motivating.
 > editing a text file seems like a simple task,
 > but most graphical editors save things to the user's desktop or home directory.
 > If people need to run shell commands on the files they've edited,
-> a substantial fraction won't be able to navigate to the right directory without help.
+> a substantial fraction will not be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
 > please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
 {: .callout}
@@ -232,7 +232,7 @@ common demotivators and help you develop strategies for avoiding them.
     Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
     that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
     skills that are essential for independent work.
-*  Feign surprise. Saying things like "I can't believe you don't know X"
+*  Feign surprise. Saying things like "I cannot believe you don't know X"
     or "You've never heard of Y?" signals to the learner that they do not have
     some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
     and it may prevent them from asking questions in
@@ -250,7 +250,7 @@ favorite scripting language.
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
 of text editors and levels of technical knowledge. There are other factors, however, that contribute to demotivation,
-some of which are either systemic, or built into our psychological makeup as human beings. We can't
+some of which are either systemic, or built into our psychological makeup as human beings. We cannot
 always control these demotivators - often they come from outside classrom - but we can
 be aware of them, and take certain actions to lessen their impact by thinking carefully about
 the language that we use and how we interact with our learners.
