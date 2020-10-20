@@ -51,7 +51,7 @@ To offer more flexible options for our community, we are piloting events that ru
    - 12:30 pm - 4:30 pm New Zealand Daylight Time
    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training+&iso=20201014T1230&p1=22)*. Note that date as well as time may vary in compatible time zones for this event.
 <br><br>
-* [October 27-30, 2020](https://www.eventbrite.com/e/online-instructor-training-october-27-30-2020-pacific-time-tickets-119641497941) This event will run for 3.5 hours a day, Tuesday to Friday of one week.
+* October 27-30, 2020  This event will run for 3.5 hours a day, Tuesday to Friday of one week. *Registration closed*
    - 9 am to 12:30 pm North America Pacific
    - 12 noon to 3:30 pm North America Eastern
    - 4 pm to 7:30 pm Greenwich Mean time
