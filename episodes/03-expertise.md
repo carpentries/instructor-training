@@ -227,7 +227,7 @@ people will, indeed, have questions, and that that is normal and expected.
 ## Expert Advantages
 
 In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
-novices. However, that's not to say that experts can't be good teachers.  Experts can
+novices. However, that's not to say that experts cannot be good teachers.  Experts can
 be effective as long as they take the time to identify and correct
 for their own expert awareness gaps. You can use some of the exercises we've done while
 preparing to teach to help you overcome these

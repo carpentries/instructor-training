@@ -86,7 +86,7 @@ You want to convey
 - your accessibility to learners
 - your shared experience with the learners
 - why you're excited about teaching SWC/DC
-- don't want to come across as too 'expert' so that you can't relate to the audience
+- don't want to come across as too 'expert' so that you cannot relate to the audience
 - even if it's your first time teaching, you don't need to say that :)
 
 ---
@@ -138,7 +138,7 @@ The way you engage learners at the beginning sends powerful messages about the l
 ### Collect baseline data on learners' knowledge and motivation
 
 - you will already have information from the pre-assessment survey on this,
-so you won't need to survey the audience, but look through the survey data
+so you will not need to survey the audience, but look through the survey data
 before you arrive so you know who your audience is
 
 ---

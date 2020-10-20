@@ -64,7 +64,7 @@ To prepare for tomorrow, please:
 > Before we wrap up for the day, take 5 minutes to think over
 > everything we covered today.  On a piece of paper, write
 > down something that captures what you want to remember about
-> the day.  The Trainers won't look at this - it's just for you.  
+> the day.  The Trainers will not look at this - it's just for you.  
 >
 > If you don't know where to start, consider
 > the following list for a starting point:

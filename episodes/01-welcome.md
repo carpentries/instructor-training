@@ -177,7 +177,7 @@ The additional steps for certification will require that you dig into the worksh
 
 We also do not discuss how to develop lessons.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
-of lesson design called "Reverse Instructional Design", but it won't be an emphasis
+of lesson design called "Reverse Instructional Design", but it will not be an emphasis
 of this particular course.
 
 If there's a particular topic that you would like us to address, let the trainers
