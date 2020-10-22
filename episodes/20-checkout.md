@@ -119,7 +119,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 
 > ## Ongoing support
 >
-> Discussion sessions aren't only for instructors-in-training working towards their certification.
+> Discussion sessions are not only for instructors-in-training working towards their certification.
 > Instructors are highly encouraged to participate in discussions before and after each of their workshops,
 > so that they can continue to learn from each other and advance their teaching skills. For even more support, consider
 > participating in our Carpentries [Mentoring program][mentoring]!

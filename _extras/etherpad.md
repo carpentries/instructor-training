@@ -165,7 +165,7 @@ $( "div.source").not('blockquote div.source').remove();
 $("footer").remove();
 
 
-//Take all ordered lists and turn them into unordered lists, because ordered lists don't transfer well into the etherpad.
+//Take all ordered lists and turn them into unordered lists, because ordered lists do not transfer well into the etherpad.
 //https://stackoverflow.com/a/12679823/263449
 $($('ol').get().reverse()).each(function(){
   $(this).replaceWith($('<ul>'+$(this).html()+'</ul>'))
@@ -176,7 +176,7 @@ $($('ol').get().reverse()).each(function(){
 $("blockquote.solution").remove();
 
 
-// I wanted to keep challenges, callouts, and discussion blocks. However, the icons don't transfer, so I need to add the calling-out word (exercise, etc) to the header (and then render the header as an h2) so that there is appropriate formatting transfered to the etherpad, and that each of these has a useful label in the text-only zone.
+// I wanted to keep challenges, callouts, and discussion blocks. However, the icons do not transfer, so I need to add the calling-out word (exercise, etc) to the header (and then render the header as an h2) so that there is appropriate formatting transfered to the etherpad, and that each of these has a useful label in the text-only zone.
 $("blockquote.challenge h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Exercise: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
@@ -226,7 +226,7 @@ $("pre").each(function(){
 //remove all non-essential formatting. (Specifically preserving the container.)
 $("[class]").not(".container").removeClass();
 
-// //This is just a check for me to make sure that execution has proceeded this far and I haven't messed something fundamental up.
+// //This is just a check for me to make sure that execution has proceeded this far and I have not messed something fundamental up.
 // //console.log("hi");
 
 //https://stackoverflow.com/a/22581382/263449

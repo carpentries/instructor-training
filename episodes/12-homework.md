@@ -26,7 +26,7 @@ To prepare for tomorrow, please:
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
-    If you haven't already, pick an episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson and 
+    If you have not already, pick an episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson and 
     read through it carefully.
     Tomorrow, you will use this to practice live coding for 3 minutes in groups of three.
     Your group members will comment on the delivery and content.
@@ -66,7 +66,7 @@ To prepare for tomorrow, please:
 > down something that captures what you want to remember about
 > the day.  The Trainers will not look at this - it's just for you.  
 >
-> If you don't know where to start, consider
+> If you do not know where to start, consider
 > the following list for a starting point:
 >
 > * draw a concept map, connecting the material

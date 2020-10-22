@@ -43,7 +43,7 @@ and must be requested before the three months are up. To request an extension, p
 
 > ## Submit an application
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you have not already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to a Lesson or Glossary
@@ -87,7 +87,7 @@ Please note that:
 1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
-2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
+2.  **Your contribution does not need to be accepted in order for you to become an instructor**:
     the point is to make sure that you understand the process and have met the people who review material.
 
 3.  Be sure to format your submission in the same way as the content that's already there.

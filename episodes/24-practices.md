@@ -84,7 +84,7 @@ Here is a non-exhaustive list of topics:
 
 > ## Parting Thoughts
 >
-> If you didn't think about these issues when organizing your topics in the previous
+> If you did not think about these issues when organizing your topics in the previous
 > exercise, now consider:
 > 1. What is your mental model of teaching?
 > 2. Can you identify why each topic above applies to teaching for the Carpentries?  
@@ -96,6 +96,6 @@ teaching that is **learner-centered**.  In other words, teaching is not really a
 teacher, but the learners!  The more we know about learner's backgrounds, motivations,
 and how they learn (educational psychology) and what interventions can address these
 issues, the more effective our teaching can be.  This also means that our model of teaching
-doesn't mean you need to be an expert in the content you're teaching or that you have
+does not mean you need to be an expert in the content you're teaching or that you have
 to have a certain kind of personality -- ANYONE can learn, practice and improve their
 teaching, as with any skill.  

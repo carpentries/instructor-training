@@ -257,10 +257,10 @@ and conversely that we don't teach anything just because it's "fundamental".
 
 It's also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
-It isn't just the time we lose at the start of workshops
+It is not just the time we lose at the start of workshops
 as we try to get a Unix shell working on Windows,
 or set up a version control client on some idiosyncratic Linux distribution, or ask people to download and unzip files.
-It isn't even the unfairness of asking learners to debug things
+It is not even the unfairness of asking learners to debug things
 that depend on precisely the knowledge they have come to learn,
 but which they don't yet have.
 The real problem is that every such failure reinforces the belief that computing is hard,
