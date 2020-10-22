@@ -54,9 +54,9 @@ the three stages of this model are:
 
 ![Novice, Competent Practitioner, Expert](../fig/skill-level.svg)
 
-*   *Novice*: someone who doesn't know what they don't know, i.e.,
-    they don't yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions "aren't even wrong".
+*   *Novice*: someone who does not know what they do not know, i.e.,
+    they do not yet know what the key ideas in the domain are or how they relate.
+    One sign that someone is a novice is that their questions "are not even wrong".
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
@@ -99,7 +99,7 @@ borrowing bits and pieces of their mental models of other domains
 which seem superficially similar.
 *     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model
 does not have to be completely accurate in order to be useful:
-for example, the average driver's mental model of how a car works probably doesn't include
+for example, the average driver's mental model of how a car works probably does not include
 most of the complexities that a mechanical engineer would be concerned with.
 
 ![Mental Models](../fig/mental_models.svg)
@@ -164,7 +164,7 @@ These two examples illustrate something else as well.
 Learning consists of more than "just" building mental models
 and adding information to them;
 creating linkages between concepts and facts is at least as important.
-Telling people that they shouldn't repeat things,
+Telling people that they should not repeat things,
 and that they should try to think in terms of little pieces loosely joined,
 both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
@@ -358,7 +358,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
 >     If you are having a hard time coming up with diagnostic distractors,
 >     then either you need to think more about your learners' mental models,
->     or your question simply isn't a good starting point for an MCQ.
+>     or your question simply is not a good starting point for an MCQ.
 > *   When you are trying to come up with distractors,
 >     think about questions that learners asked or problems they had
 >     the last time you taught this subject.

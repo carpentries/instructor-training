@@ -59,7 +59,7 @@ colleagues.
 The situation is different in many English-language school systems:
 in the US, Canada, the UK, Australia, and elsewhere, where often
 what happens in the classroom stays in the classroom.
-Teachers aren't able to watch each other's lessons on a regular basis,
+Teachers are not able to watch each other's lessons on a regular basis,
 so they cannot borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
@@ -69,16 +69,16 @@ or the Internet,
 but each teacher has to figure out on their own how to combine that with
 the theory they've learned in their educational programs
 to deliver an actual lesson in an actual classroom for actual learners.
-When teachers don't observe each other teaching, the tricks and techniques that each instructor
-has painstakingly incorporated into their practice don't have the opportunity to spread, limiting
+When teachers do not observe each other teaching, the tricks and techniques that each instructor
+has painstakingly incorporated into their practice do not have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
 
-> ## Reading It Isn't Enough
+> ## Reading It Is Not Enough
 > Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
-> that teachers don't adopt instructional practices based on reports about the effectiveness of those practices.
+> that teachers do not adopt instructional practices based on reports about the effectiveness of those practices.
 > Social norms, institutional
 > culture, and lack of time and support prevent many teachers from moving out of
-> their accustomed teaching habits. Change in teaching doesn't come about through reading about new teaching practices, but by seeing
+> their accustomed teaching habits. Change in teaching does not come about through reading about new teaching practices, but by seeing
 > these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
 
@@ -106,9 +106,9 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 
 > ## Feedback on Yourself
 >
-> The goal of this exercise is to practice giving and receiving feedback, so don't be
+> The goal of this exercise is to practice giving and receiving feedback, so do not be
 > overly concerned about creating a perfectly polished presentation.
-> We don't give you a lot of time to prep and the teaching time is short, so embrace
+> We do not give you a lot of time to prep and the teaching time is short, so embrace
 > the challenge (and improvisation) of the exercise and see what you can learn by
 > watching other people teach, thinking about how to give them feedback, and how it
 > feels to get feedback on your own teaching.
@@ -172,7 +172,7 @@ in a way that facilitates growth.
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
   feedback in a way that is helpful to you - the questions below
-  reveal what didn't work in your teaching, but read as professional suggestions rather than personal judgments.
+  reveal what did not work in your teaching, but read as professional suggestions rather than personal judgments.
   For example:
   
 * "What is one thing I could have done as an instructor to make this lesson more effective?"
@@ -209,7 +209,7 @@ in the room.
 Finally, be kind to yourself. If you're a self-critical person,
 it's OK to remind yourself:
 
-*   The feedback isn't personal.
+*   The feedback is not personal.
 *   There are always positives along with the negatives.
 
 > ## Feedback on Feedback (Optional)

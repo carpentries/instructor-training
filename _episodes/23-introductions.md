@@ -25,14 +25,14 @@ practice giving part of a workshop introduction.
 
 > ## Your Academic Past
 >
-> Think back to courses or workshops you really liked or didn't like.
+> Think back to courses or workshops you really liked or did not like.
 > - How did those courses start?
 > - Were you confident in the instructors abilities?
 > - Did you feel like they were enthusiastic about the course and invested in you?
 > - Was it clear what you were going to be learning?
 > - Were you excited about the material?
 > - Did you leave that first day thinking the instructor was uninterested,
->   that you weren't the learners they wanted to be teaching
+>   that you were not the learners they wanted to be teaching
 >   or you had no idea what the course was supposed to be about?
 {: .discussion}
 
@@ -178,7 +178,7 @@ the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
 
 **Clarify workshop roles.** Explain who is doing what at the workshop and
-what learners can expect from the workshop leaders.  If you haven't already
+what learners can expect from the workshop leaders.  If you have not already
 introduced helpers or other workshop leaders, make sure to do so.
 
 **Explain your expectations** for learner behavior including expectations
@@ -216,9 +216,9 @@ Head here for [more examples of Icebreakers][icebreakers].
 The way you engage learners at the beginning sends powerful messages
 about the level of involvement and interaction you expect from them.
 
-Since these workshops are hands-on don't spend a lot of the time at
+Since these workshops are hands-on do not spend a lot of the time at
 the beginning lecturing. Get to introductions and interactions
-right away. You don't want learners to think they just have to listen
+right away. You do not want learners to think they just have to listen
 in the course.
 
 Also establish a culture of feedback. Let learners know you are

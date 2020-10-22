@@ -214,7 +214,7 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 ### Welcome
 
-* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this doesn't happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
 	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
 	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
@@ -275,7 +275,7 @@ This section contains tips and tricks on demo hosting that may be contributed by
 Suggested points to make during introductions:
 * This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
 people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
-we'd like you to change on your next visit. This does not mean we don't want you as an instructor, it means we want you to be
+we'd like you to change on your next visit. This does not mean we do not want you as an instructor, it means we want you to be
 ready to put your best foot forward in the classroom and we are here to help you do that. (KW)
 * I will not tell anyone that they have passed or ask anyone to repeat during this session. That information will come in the follow up email. (KW)
 * The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
@@ -302,7 +302,7 @@ one or two things to comment on. (EB)
 
 Suggested points to make during wrap-up:
 * Thank you for your excellent feedback! Instructors like you help to make this community what it is.
-* I will follow up with each of you by email within ___ (time period). If you don't hear from me by __ feel free to check in.
+* I will follow up with each of you by email within ___ (time period). If you do not hear from me by __ feel free to check in.
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers

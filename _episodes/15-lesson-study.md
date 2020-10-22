@@ -152,7 +152,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 {: .challenge}
 
 
-> ## You Can't Just Ask
+> ## You Cannot Just Ask
 >
 > Self-assessments of skill level are usually inaccurate
 > because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):

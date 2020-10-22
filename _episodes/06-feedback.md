@@ -16,7 +16,7 @@ keypoints:
 
 We use formative assessment of learners during workshops to help track 
 learners' progress and adjust our approach to teaching the content as needed.
-But formative assessment isn't just for learners. As we'll discuss in more detail 
+But formative assessment is not just for learners. As we'll discuss in more detail 
 [later]({{ page.root }}/11-practice-teaching/), teaching is also a skill that is improved 
 through regular practice and feedback. We gather feedback from our learners
 at multiple points in the workshop and in different forms. 
