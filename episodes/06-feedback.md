@@ -34,6 +34,12 @@ You can preview the surveys your learners will take at the links below:
 - [Pre-workshop survey](https://carpentries.typeform.com/to/wi32rS?__dangerous-disable-submissions)
 - [Post-workshop survey](https://carpentries.typeform.com/to/UgVdRQ?__dangerous-disable-submissions)
 
+If you'd like have an overview of the questions asked in the surveys without having to go through
+all the questions, you can preview them in a text-format below:
+
+- [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
+- [Post-workhop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
+
 > ## Survey links
 >
 > The survey links above are just for you to preview the survey as part of
