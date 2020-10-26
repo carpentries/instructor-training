@@ -64,7 +64,7 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 > If the session you would like to attend is full, contact the discussion
 > host and co-host to ask if you can attend.
 >
-> If you'd prefer to do your teaching demonstration before your discussion,
+> If you would prefer to do your teaching demonstration before your discussion,
 > visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 >
 > This exercise should take 5 minutes.

@@ -244,7 +244,7 @@ the trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching
 in the session's Etherpad.
 Note that people are required to give feedback on themselves as well as on others;
-note also that it's useful to organize your feedback along the two axes of positive vs. negative
+note also that it is useful to organize your feedback along the two axes of positive vs. negative
 and content vs. presentation,
 just as you will have done during the two-day class.
 

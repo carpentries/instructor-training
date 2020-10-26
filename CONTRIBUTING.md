@@ -79,7 +79,7 @@ or the issues for [Data Carpentry][dc-issues], [Software Carpentry][swc-issues]
 Comments on issues and reviews of pull requests are just as welcome:
 we are smarter together than we are on our own.
 Reviews from novices and newcomers are particularly valuable:
-it's easy for people who have been using these lessons for a while
+it is easy for people who have been using these lessons for a while
 to forget how impenetrable some of this material can be,
 so fresh eyes are always welcome.
 

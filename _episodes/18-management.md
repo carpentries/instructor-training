@@ -67,7 +67,7 @@ the other 38 are not being well served.
 Equally,
 if she spends a few minutes talking about an advanced topic because two learners are bored,
 the 38 who do not understand it will feel left out.
-All we can do is tell our learners what we're doing and why,
+All we can do is tell our learners what we are doing and why,
 and hope that they will understand.
 
 
@@ -188,14 +188,14 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  and how to do so (see notes above).
 >>
 >>- If it will not cause cognitive overload for you (the instructors),
->>  work out a couple of hand signals to communicate.  "You're
->>  going too fast", "speak up", "that learner needs help", and, "It's
+>>  work out a couple of hand signals to communicate.  "You are
+>>  going too fast", "speak up", "that learner needs help", and, "It is
 >>  time for a bathroom break" are all useful.
 >>
 >>- The person who is not teaching should not interrupt, offer
 >>  corrections, elaborations, or amusing personal anecdotes, or do
 >>  anything else to distract from what the person teaching at the time
->>  is doing or saying.  The one exception is that it's sometimes
+>>  is doing or saying.  The one exception is that it is sometimes
 >>  helpful to ask leading questions, particularly if the learners seem
 >>  unsure of themselves.
 >>
@@ -213,7 +213,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  with the class.  Monitor the shared notes, keep an eye
 >>  on the learners to see who's struggling, jot down some feedback to
 >>  give your teaching partner at the next break - anything that
->>  contributes to the lesson is better than anything that does not.  It's
+>>  contributes to the lesson is better than anything that does not.  It is
 >>  easier for the other instructor to take a break to catch up on outside
 >>  work (like email) if there are at least
 >>  three instructors or sufficient helpers to make sure that the main

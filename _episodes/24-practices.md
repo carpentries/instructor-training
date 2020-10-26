@@ -3,7 +3,7 @@ title: "Putting It Together"
 teaching: 5
 exercises: 15
 questions:
-- "How are the teaching practices we've learned used in our workshops?"
+- "How are the teaching practices we have learned used in our workshops?"
 objectives:
 - "Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentries workshop."
 keypoints:
@@ -11,17 +11,17 @@ keypoints:
 
 ---
 
-We're almost done with our training!  At this point, we've covered many, many topics
+We are almost done with our training!  At this point, we have covered many, many topics
 around teaching and learning, especially in the context of Carpentries workshops.
 
 Carpentries instructors use a set of teaching techniques based on evidence from
 educational research. We've talked about some of these techniques explicitly
-(e.g. participatory live coding and formative assessment), and others we've been modeling throughout
+(e.g. participatory live coding and formative assessment), and others we have been modeling throughout
 the workshop, without necessarily calling attention to what we were doing. Some of
 these teaching techniques are implemented at particular points in a workshop, while
-others are used throughout. Let's put together everything we've learned and organize
+others are used throughout. Let us put together everything we have learned and organize
 these practices in terms of what parts of a workshop we need to be conscious of each
-of these strategies. In other words, let's put down on paper some of our mental model
+of these strategies. In other words, let us put down on paper some of our mental model
 about teaching and learning, specifically in the Carpentries context.  
 
 > ## Picking up the Pieces (optional)
@@ -67,7 +67,7 @@ Here is a non-exhaustive list of topics:
 
 > ## Organize Your Knowledge
 >
-> Let's put the pieces together by creating a visual organization of information.  
+> Let us put the pieces together by creating a visual organization of information.  
 > We suggest doing this in two ways:
 >
 > 1. If you are comfortable with / like concept maps, trying integrating all the
