@@ -190,8 +190,8 @@ Motivation can go both ways. Besides using strategies to motivate learners,
 one of our additional challenges as instructors
 is to not **demotivate** participants through our words or actions. None of us goes into
 a workshop with the intention of creating a hostile environment or making the learners
-hate the tools we're teaching, but we can all accidentally do just that if we do not
-pay attention to what we say and how we interact with our learners. We'll discuss some
+hate the tools we are teaching, but we can all accidentally do just that if we do not
+pay attention to what we say and how we interact with our learners. We will discuss some
 common demotivators and help you develop strategies for avoiding them.
 
 > ## Brainstorming Demotivational Experiences
@@ -267,7 +267,7 @@ summarizes what we know about stereotype threat in general and presents some str
 the classroom.
 
 While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
-it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
+it is not clear that stereotype threat is the underlying mechanism. Part of the problem is that
 [the term has been used in many ways][shapiro-neuberg-stereotype-threat].
 Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
 What *is* clear is that we need to avoid thinking in terms of a deficit model
@@ -275,7 +275,7 @@ What *is* clear is that we need to avoid thinking in terms of a deficit model
 such as lack of prior experience) and instead use a systems approach
 (i.e., we need to change the system because it produces these disparities). We
 can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "I'm so glad you're here because
+example, it is not a good idea to say something like "I'm so glad you're here because
 we do not get enough women in programming." That may sound positive,
 but draws attention to the stereotype that women are not good at programming.
 
@@ -289,7 +289,7 @@ but draws attention to the stereotype that women are not good at programming.
 > that they will be with at least a few people they trust,
 > which increases the chances of them actually coming.
 > Furthermore,
-> if people attend a workshop with their labmates, it's more likely they will
+> if people attend a workshop with their labmates, it is more likely they will
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
@@ -324,7 +324,7 @@ Two ways of dealing with your own impostor syndrome are:
 As an instructor,
 you can help people with their impostor syndrome by
 sharing stories of mistakes that you have made or things you struggled to learn.
-This reassures the class that it's OK to find topics difficult.
+This reassures the class that it is OK to find topics difficult.
 Being open with the group makes it easier to build trust and make learners confident to ask questions.
 (Live coding is great for this:
 typos let the class see you're not superhuman.)
@@ -333,7 +333,7 @@ You can also emphasize that you want questions:
 you are not succeeding as a teacher if no one can follow your class,
 so you're asking learners to help you learn and improve.
 Remember,
-it's much more important to *be* smart than to *look* smart.
+it is much more important to *be* smart than to *look* smart.
 
 The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
@@ -444,7 +444,7 @@ are always welcome.
 
 > ## Every Little Bit Counts
 >
-> Looking at people who work with disability and accessibility, it's
+> Looking at people who work with disability and accessibility, it is
 > easy to be overwhelmed by all the different ways we could make
 > instruction more accessible.  *Don't panic.*  Instead:
 >

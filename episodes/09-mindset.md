@@ -48,7 +48,7 @@ they study, seeing the poor score as an indication that they need to try harder 
 
 Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
-and receive feedback, which, [as we've discussed]({{ page.root }}{% link _episodes/02-practice-learning.md %}), is essential to learning.
+and receive feedback, which, [as we have discussed]({{ page.root }}{% link _episodes/02-practice-learning.md %}), is essential to learning.
 
 > ## Does Mindset Matter?
 > Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
@@ -64,7 +64,7 @@ and receive feedback, which, [as we've discussed]({{ page.root }}{% link _episod
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-If you recognize aspects of the fixed mindset in yourself, do not panic! Like everything else, a growth mindset can be learned. We're going to talk about some
+If you recognize aspects of the fixed mindset in yourself, do not panic! Like everything else, a growth mindset can be learned. We are going to talk about some
 strategies that will help you promote a growth mindset in your learners and yourself.
 
 ## Praise Influences Mindset
@@ -74,7 +74,7 @@ is in how we praise. [Carol Dweck's research](http://www.ascd.org/publications/e
 investigated three types of praise: performance-based, effort-based and improvement-based, and looked at how these
 types of praise influence learner's mindsets.
 
-We're most used to hearing **performance-based praise**. This sort of praise focuses on outcomes and implies that the
+We are most used to hearing **performance-based praise**. This sort of praise focuses on outcomes and implies that the
 outcome (for example, getting a correct answer) is the most important part of the task. It is often (but not always)
 combined with language that explicitly or implicitly supports the "intrinsic" model of competence. For example, "You
 did a great job! You must be very smart."
@@ -86,18 +86,18 @@ do not have natural ability and should not bother. People with a growth mindset 
 and accomplish their goals.
 
 **Improvement-based praise** is related to praise based on effort, but explicitly draws a learner's attention to the progress they've made.
-For example, "You're doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
+For example, "You are doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
 highlighting our ability to improve with effort.
 
 > ## Choosing our Praises
-> Since we're so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
+> Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
 > are examples of performance-based, effort-based, or improvement-based praise?
 >
 > - I like the way you tried a couple of different strategies to solve that problem.
-> - You're getting really good at that. Keep up the hard work!
-> - You're really good at that.
+> - You are getting really good at that. Keep up the hard work!
+> - You are really good at that.
 > - That was a hard problem. You did not get the right answer, but look at how much you learned trying to solve it!
-> - You're a natural!
+> - You are a natural!
 >
 >> ## Solution
 >> - Effort-based.

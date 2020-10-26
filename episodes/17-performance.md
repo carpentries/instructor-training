@@ -17,7 +17,7 @@ process of observing and giving feedback, and to make changes to how we teach ba
 
 > ## Round Two
 > First, have a look at the [rubric]({{ page.root }}/demos_rubric/) that is given to trainers as a suggested framework for evaluating the online teaching demonstration sessions that are part of instructor checkout.
-> Does this rubric make sense? Take a moment to think about things you'd like to do differently with your next live coding
+> Does this rubric make sense? Take a moment to think about things you would like to do differently with your next live coding
 > practice. This is also a good time to ask questions about teaching demonstration.
 >
 > Next, get back into the same groups you did your live coding with.

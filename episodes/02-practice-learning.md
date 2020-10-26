@@ -19,7 +19,7 @@ keypoints:
 - "Formative assessments provide practice for learners and feedback to learners and instructors."
 ---
 
-We'll now get started with a discussion of how learning works. We'll learn
+We will now get started with a discussion of how learning works. We will learn
 some key findings from educational research and identify how these principles
 are put into practice in Carpentries workshops.
 
@@ -77,7 +77,7 @@ tasks with normal effort under normal circumstances.
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience. (We, as instructors,
   are more likely to be competent practitioners or experts, and we will
-discuss this in a later section).  We'll next use an additional concept
+discuss this in a later section).  We will next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
 
@@ -132,7 +132,7 @@ management in a way that will allow them to learn more on their own or understan
 
 ### The Importance of Going Slowly
 
-> If someone feels it's too slow, they will be a bit bored. If they feel it's too fast, they will never come back to programming.
+> If someone feels it is too slow, they will be a bit bored. If they feel it is too fast, they will never come back to programming.
 > — Kunal Marwaha, SWC Instructor
 {: .testimonial}
 
@@ -176,7 +176,7 @@ helps solidify both ideas.
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
 > building an inclusive learning environment, and continually getting (and paying attention to!) feedback
-> from learners. We'll be talking in more depth about each of these strategies as we go forward in our workshop.
+> from learners. We will be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
 
 ## How "Knowledge" Gets in the Way
@@ -206,7 +206,7 @@ Broadly speaking, misconceptions fall into three categories:
     and are the hardest to change.
 
 Since The Carpentries workshops are focused on novices, and the building of
-strong mental models, we're most interested in the middle category of misconceptions.
+strong mental models, we are most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
 ## Identifying and Correcting Misconceptions
@@ -300,7 +300,7 @@ but each of the other answers provides valuable insight.
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
 >> *   If they answer 312, they know that they cannot just discard the carried '1',
->>     but doesn't understand that it's actually a ten
+>>     but doesn't understand that it is actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
 >>     they are treating each column of numbers as unconnected to its neighbors.
@@ -338,9 +338,9 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 >> 1. If the majority of the class votes for a single wrong answer, you should go back
 >> and work on correcting that particular misconception.  
 >> 2. If most of the class votes
->> for the right answer, it's probably safe to move on.  
+>> for the right answer, it is probably safe to move on.  
 >> 3. If answers are pretty evenly
->> split between options, learners are probably guessing randomly and it's a good
+>> split between options, learners are probably guessing randomly and it is a good
 >> idea to go back to a point where everyone was on the same page.
 > {: .solution}
 {: .challenge}

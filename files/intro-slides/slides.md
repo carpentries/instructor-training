@@ -4,7 +4,7 @@
 
 ## Setting the workshop environment
 
-Think back to courses or workshops you really liked or didn't like.
+Think back to courses or workshops you really liked or did not like.
 
 How did those courses start on the first day? Were you confident in the
 instructors ability to teach the course? Did you feel like the instructor was
@@ -19,8 +19,8 @@ be teaching or you had no idea what the course was supposed to be about?
 ## Why is the environment important
 
 
-- In Software, Data, and Library Carpentry we're teaching not only a set of skills,
-but at least as importantly we're trying to empower learners and give them the confidence to use
+- In Software, Data, and Library Carpentry we are teaching not only a set of skills,
+but at least as importantly we are trying to empower learners and give them the confidence to use
 these tools and learn more on their own.
 
 - Can help reduce stereotype threat by letting people think about their strengths
@@ -87,7 +87,7 @@ You want to convey
 - your shared experience with the learners
 - why you're excited about teaching SWC/DC
 - do not want to come across as too 'expert' so that you cannot relate to the audience
-- even if it's your first time teaching, you do not need to say that :)
+- even if it is your first time teaching, you do not need to say that :)
 
 ---
 
@@ -98,7 +98,7 @@ For Data and Library Carpentry, no prior computational experience is required an
 Software Carpentry it can vary.
 - highlight the main aspects of the schedule
 - highlight the learning objectives
-- highlight the approach we're using - hands on! - and that all materials
+- highlight the approach we are using - hands on! - and that all materials
 are open and freely available to use, develop or share
 - code of conduct - basically be respectful
 - how can people offer feedback or get help

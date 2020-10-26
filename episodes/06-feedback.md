@@ -65,7 +65,7 @@ Instructors can change the prompt to elicit different types of feedback at each 
 - What new skill are you most excited about using? 
 
 **Example "negative" prompts:**  
-- Write down one thing that is confusing and you'd like clarification on.    
+- Write down one thing that is confusing and you would like clarification on.    
 - What is one specific question you have about the material? 
 
 Over lunch and before the second day starts, the instructors read through the minute 

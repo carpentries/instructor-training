@@ -15,7 +15,7 @@ keypoints:
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
 
-So far, we've focused on how we can be effective instructors by understanding
+So far, we have focused on how we can be effective instructors by understanding
 how people learn and how to create a positive classroom environment, covering
 two of our primary goals in helping you become a certified Carpentries Instructor.
 Now our focus will shift to developing additional teaching skills that you can
@@ -92,7 +92,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 
 > ## Giving Feedback
 >
-> We'll start by observing some examples of teaching and providing some feedback.
+> We will start by observing some examples of teaching and providing some feedback.
 >
 > Watch this [example teaching video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
@@ -102,7 +102,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 > This exercise should take about 10 minutes.
 {: .challenge}
 
-Now that you've had some practice observing teaching and giving feedback, let's practice with each other.
+Now that you've had some practice observing teaching and giving feedback, let us practice with each other.
 
 > ## Feedback on Yourself
 >
@@ -164,7 +164,7 @@ Here is a list of different
 ways that you can set the stage for receiving or providing feedback
 in a way that facilitates growth.
 
-*   Initiate feedback as the instructor. It's better to ask for feedback than to receive it unwillingly.
+*   Initiate feedback as the instructor. It is better to ask for feedback than to receive it unwillingly.
 
 *   Ask for and give specific feedback. See a great example of this from
   this Lunar Baboon comic: ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
@@ -201,13 +201,13 @@ with the feedback you gave.
 This is part of the reason for The Carpentries rule,
 "Never teach alone."
 Having another instructor in the classroom saves your voice
-(it's hard to talk for two days straight),
+(it is hard to talk for two days straight),
 but more importantly,
-it's a chance for instructors to learn from one another and be a supportive voice
+it is a chance for instructors to learn from one another and be a supportive voice
 in the room.
 
 Finally, be kind to yourself. If you're a self-critical person,
-it's OK to remind yourself:
+it is OK to remind yourself:
 
 *   The feedback is not personal.
 *   There are always positives along with the negatives.

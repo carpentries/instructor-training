@@ -191,7 +191,7 @@ workshops, the organization hosting the event is responsible for these details.
 > a workshop or even a single lesson yourself. It can seem daunting to organize
 > your own workshop, but as long as you have 1-2 people who can either help or
 > co-instruct, The Carpentries Core Team and community can provide
-> support and guidance so that it's not so scary!
+> support and guidance so that it is not so scary!
 {: .callout}
 
 In both cases (self- or centrally-organized), you can start the workshop
@@ -278,7 +278,7 @@ and is a good place to start when looking for ways to contribute.
 > ## Lesson Incubation
 >
 > Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software, Data and
+> own fantastic lesson!  If you would like to model it after the Software, Data and
 > Library Carpentry lesson format, you can find a template and instructions in
 > [The Carpentries lesson example repository]({{ site.example_repo }}),
 > and a place to develop it in [The Carpentries Incubator][carpentries-incubator].

@@ -73,7 +73,7 @@ frequent formative assessment is important.
 Most people will have found they only remember 5-7 words. Don't worry if you
 remembered fewer - many factors can affect short-term memory in different situations.
 Fortunately, there are techniques that we can use to improve our effective short-term memory.
-We'll illustrate one of these techniques and then describe how this is applicable to our
+We will illustrate one of these techniques and then describe how this is applicable to our
 workshops.  
 
 ## Strategies For Memory Management
@@ -111,7 +111,7 @@ the concepts we are teaching is so important.
 ### Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding
-and transfer ideas from short-term memory into long-term memory. It's important
+and transfer ideas from short-term memory into long-term memory. It is important
 to use formative assessments frequently to help learners transition new concepts
 into their long-term memory, before their short-term memory fills up. It can
 be helpful to use pedagogical planning tools to identify the number of concepts
@@ -120,7 +120,7 @@ assessments.
 
 ### Limit concepts
 
-In the same vein as "going slowly," it's important to limit the number of
+In the same vein as "going slowly," it is important to limit the number of
 concepts introduced in a lesson; no matter how many exercises or formative
 assessments you do, you cannot overcome the limit of items that can be
 shored in short-term memory.
@@ -156,7 +156,7 @@ are:
 
 A quick count shows that there are actually 6 things here,
 not just 3,
-so we're already brushing up against the limits of short-term memory.
+so we are already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
 ![Recommendations](../fig/for-loop-rec.png)
@@ -181,7 +181,7 @@ draw a concept map for an entire topic,
 and use that to decide where to introduce a formative assessment to avoid overloading
 short-term memory.
 
-It's very important to use a technique like concept mapping for a lesson
+It is very important to use a technique like concept mapping for a lesson
 before teaching it - an instructor needs to identify just how many pieces of
 separate information will need to be "stored" in memory during each part of the lesson. This
 can be particularly useful for experts who are trying to unpack their own
@@ -214,8 +214,8 @@ knowledge.
 > out what they're trying to teach.
 > 2.  To aid communication with fellow lesson designers.
 > 3.  To aid communication with learners.
->     While it's possible to give learners a pre-drawn map at the start of a lesson for them
-> to annotate, it's better to draw it piece by piece while teaching
+>     While it is possible to give learners a pre-drawn map at the start of a lesson for them
+> to annotate, it is better to draw it piece by piece while teaching
 > to reinforce the ties between what's in the map and what the instructor said.
 > 4. Concept maps can be used as a classroom discussion exercise.
 > 	Put learners in small groups (2-4 people each),
@@ -273,7 +273,7 @@ and linguistic and visual memories are stored separately as well.
 This means that correlating different linguistic, auditory, and visual
 streams of information takes cognitive effort:
 when someone reads one thing while hearing something else spoken aloud,
-their brain cannot help but check that it's getting the same information on both channels.
+their brain cannot help but check that it is getting the same information on both channels.
 Discrepancies between these channels increase cognitive load and decrease learning.
 Learning is therefore more effective when information that is being presented simultaneously
 in two different channels is redundant, rather than different.

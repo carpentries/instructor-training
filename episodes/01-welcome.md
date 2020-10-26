@@ -52,7 +52,7 @@ to conform to our [Code of Conduct]({{ site.coc }}). This Code of Conduct applie
 {: .testimonial}
 
 Hello everyone, and welcome to The Carpentries
-instructor training.  We're very pleased to have you with us.
+instructor training.  We are very pleased to have you with us.
 
 > ## Today's Trainers
 >
@@ -141,7 +141,7 @@ Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.
 We will have many opportunities to practice and give each other feedback throughout this workshop.
 We welcome questions and dialogue
-at any point. We'll be using the Etherpad to help facilitate discussion.
+at any point. We will be using the Etherpad to help facilitate discussion.
 Please feel free to ask questions verbally or to put them into the notes or chat box
 of the Etherpad.
 
@@ -173,7 +173,7 @@ To orient yourself, there is a schedule on the workshop webpage which is linked 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will get
 familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries Instructor.
-The additional steps for certification will require that you dig into the workshop content yourself. We'll talk about that more tomorrow afternoon.
+The additional steps for certification will require that you dig into the workshop content yourself. We will talk about that more tomorrow afternoon.
 
 We also do not discuss how to develop lessons.  Many of the ideas we
 present can be applied to lesson development, and we will briefly touch on a method
@@ -183,10 +183,10 @@ of this particular course.
 If there's a particular topic that you would like us to address, let the trainers
 know.
 
-## Let's Get Started
+## Let us Get Started
 
-Now that we have a road map of what we're covering
-we're ready to begin our training. Our goal is that by the end, you will
+Now that we have a road map of what we are covering
+we are ready to begin our training. Our goal is that by the end, you will
 have acquired some new knowledge, confidence, and skills that you can
 use in your teaching practice in general and in teaching Carpentries
 workshops specifically.

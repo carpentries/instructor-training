@@ -193,7 +193,7 @@ $("blockquote.discussion h2").each(function(){
 });
 
 
-//Once we've cleaned out things, we need to unblockquote everything for best pasting.
+//Once we have cleaned out things, we need to unblockquote everything for best pasting.
 //https://stackoverflow.com/a/17872365/263449
 $("blockquote").contents().unwrap();
 

@@ -40,10 +40,10 @@ Your impression on the first day of a course probably matched that of the rest o
 the course. Introductions set the tone for the workshop and the path for learning.
 
 Introductions are particularly important when we have just two days. Also,
-in Carpentry workshops we're teaching not only a set of skills, but also
+in Carpentry workshops we are teaching not only a set of skills, but also
 trying to give learners the confidence to become self-directed learners. Learners
-should leave feeling excited and empowered. It's up to you as an instructor to empower
-your learners, so it's important
+should leave feeling excited and empowered. It is up to you as an instructor to empower
+your learners, so it is important
 to set a positive and welcoming environment for the workshop.
 
 Having a planned introduction, also helps you be less nervous. Having a planned introduction

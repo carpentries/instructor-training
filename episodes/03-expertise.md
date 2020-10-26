@@ -14,16 +14,16 @@ objectives:
 - "Demonstrate strategies for avoiding demotivating language."
 keypoints:
 - "Experts face challenges when teaching novices due to expert awareness gap."
-- "Expert awareness gap: knowing something so well that it seems easy when it's not."
+- "Expert awareness gap: knowing something so well that it seems easy when it is not."
 - "With practice, we can learn to overcome our expert awareness gap."
 ---
 
 Having previously discussed the transition from novice to competent practitioner,
-via the formation of a mental model, we now shift our attention to experts. It's
+via the formation of a mental model, we now shift our attention to experts. It is
 unlikely that you'll be teaching experts; the expert we want to talk about is you!
 You might not yet think of yourself as an expert, but chances are you have already
 advanced to the point where some of these key characteristics -- and potential pitfalls -- apply to you.
-We'll discuss what distinguishes expertise
+We will discuss what distinguishes expertise
 from novices/competent practitioners, how being an expert can make it
 more difficult to teach novices, and some tools to help instructors
 identify and overcome these difficulties.  
@@ -59,7 +59,7 @@ One way to illustrate this is to model
 storing knowledge as a graph
 in which facts are nodes and relationships are arcs.
 (This is emphatically *not* how our brains work,
-but it's a useful metaphor.)
+but it is a useful metaphor.)
 The key difference between experts and competent practitioners
 is that experts have many more connections among concepts.
 Their mental models are much more densely connected. Therefore
@@ -74,7 +74,7 @@ Where a competent practitioner would have to reason
 "A therefore B therefore C therefore D therefore E",
 the expert can go from A to E in a single step ("A therefore E").
 
-We'll expand on some of these below and how they can manifest in the way you teach.
+We will expand on some of these below and how they can manifest in the way you teach.
 
 > ## Connections and Mental Models
 >
@@ -89,7 +89,7 @@ We'll expand on some of these below and how they can manifest in the way you tea
 ## Expertise and Teaching
 
 Because your learners' mental models will likely be less densely connected than your own,
-a conclusion that seems obvious to you will not seem that way to your learners.  It's important
+a conclusion that seems obvious to you will not seem that way to your learners.  It is important
 to explain what you're doing step-by-step, and how each step leads to the next one.
 
 Another feature of expertise that has important consequences for teaching is the
@@ -139,13 +139,13 @@ seem trivial to you, as they often will.
 
 Another potential challenge for experts who teach is known in the literature as *expert blind spot*.
 Experts are frequently so familiar with their subject
-that they can no longer imagine what it's like to *not* understand the world that way - this
+that they can no longer imagine what it is like to *not* understand the world that way - this
 inability to consider the material from a non-expert perspective can lead to what's
 known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
-who still remember what it's like to have to learn the things.
+who still remember what it is like to have to learn the things.
 This effect can be overcome with training,
-but it's part of the reason world-famous researchers are often poor lecturers.
+but it is part of the reason world-famous researchers are often poor lecturers.
 
 > ## Expert Awareness Gap
 >  
@@ -158,8 +158,8 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 >
 > In evaluating potential terms, one instructor provided the following thoughts:
 >
-> I like expert awareness gap because it's more precise than blind spot
-> (it's not about seeing, but about noticing) and feels more of a surmountable
+> I like expert awareness gap because it is more precise than blind spot
+> (it is not about seeing, but about noticing) and feels more of a surmountable
 > challenge than a disadvantage. To me a disadvantage can sometimes feel like
 > thing that exists as a fact, like an inevitable consequence, but a gap is a
 > thing to be bridged-- and we certainly want instructors to try to overcome
@@ -184,7 +184,7 @@ because they are speaking from their own recent experience.
 ## Dismissive Language  
 
 Experts often betray their extensive knowledge by using the word "just" in explanations,
-as in, "Oh, it's easy, you just fire up a new virtual machine
+as in, "Oh, it is easy, you just fire up a new virtual machine
 and then you just install these four patches to Ubuntu
 and then you just re-write your entire program in a pure functional style---no problem."
 This gives learners the very clear signal
@@ -229,7 +229,7 @@ people will, indeed, have questions, and that that is normal and expected.
 In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
 novices. However, that's not to say that experts cannot be good teachers.  Experts can
 be effective as long as they take the time to identify and correct
-for their own expert awareness gaps. You can use some of the exercises we've done while
+for their own expert awareness gaps. You can use some of the exercises we have done while
 preparing to teach to help you overcome these
 challenges.  
 
@@ -252,10 +252,10 @@ Carpentries workshops.
 They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
-and conversely that we do not teach anything just because it's "fundamental".
+and conversely that we do not teach anything just because it is "fundamental".
 - Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
 
-It's also why installing and configuring software is
+It is also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
 It is not just the time we lose at the start of workshops
 as we try to get a Unix shell working on Windows,
@@ -268,7 +268,7 @@ and that they'd have a better chance of making next Thursday's conference submis
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach.
-We'll talk much more about this when we discuss
+We will talk much more about this when we discuss
 [motivation]({{ page.root }}/08-motivation/).
 
 > ## The Carpentries Is Not Computer Science  
@@ -289,7 +289,7 @@ All of the above points illustrate the importance of using formative assessments
 formative assessment at the right time will give you valuable information about your learners' goals and
 motivations, making it easier for you to target your lesson materials to their needs. This strategy also helps
 you as an instructor overcome your expert awareness gap. It doesn't matter how easy you think a task is, if your
-learners are not getting it, it's probably more complicated than you thought.
+learners are not getting it, it is probably more complicated than you thought.
 
 [motivation-words]: https://perma.cc/LE2H-VWXG?type=image
 [four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words

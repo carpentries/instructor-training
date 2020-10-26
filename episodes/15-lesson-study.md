@@ -169,7 +169,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We'll see more about workshop pages this afternoon.  
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
 {: .callout}
 
 

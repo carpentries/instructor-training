@@ -20,7 +20,7 @@ One of the cornerstones of The Carpentries teaching is live
 coding: *instructors do not use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation. We'll
+gives general tips for an effective participatory live coding presentation. We will
 finish this section by practicing ourselves and providing feedback for each other. 
 
 ## Why Participatory Live Coding?
@@ -61,7 +61,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> rather than ten-fold faster as she could with slides.
 >> *   Learners get to see instructors' mistakes *and how to diagnose and correct them*.
 >> Novices are going to spend most of their time doing this,
->> but it's left out of most textbooks.
+>> but it is left out of most textbooks.
 >>
 >> Some challenges are:   
 >>
@@ -70,7 +70,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> * It can be hard for learners to listen and type at the same time, due to the  
 >> *split-attention effect* we
 >> [discussed earlier]({{ page.root }}{% link _episodes/05-memory.md %}#why-guided-practice-is-important).
->> This is why it's
+>> This is why it is
 >> very important that instructors first explain what they're going to do, then
 >> say what they are typing as they type it, and then
 >> explain what they did again afterwards.
@@ -80,9 +80,9 @@ We refer to the practice of having the instructor live code and the learners cod
 > {: .solution}
 {: .challenge}
 
-Live coding fits well into the practice-feedback model we've been discussing - by providing
+Live coding fits well into the practice-feedback model we have been discussing - by providing
 learners with continuous opportunities for practice (every time they type in a line of code)
-and continuous feedback (their code either works or fails with an error message). It's
+and continuous feedback (their code either works or fails with an error message). It is
 important to keep in mind, however, that feedback is not helpful if you cannot understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
@@ -121,7 +121,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
 8. **Leave no learner behind.** Use sticky notes, see below, to gauge learners' progress and understanding.
 9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
-10. **Have fun!** It's OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
+10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 
 ## Sticky Notes
 Give each learner two sticky notes of different colours, e.g., yellow and blue.
@@ -129,7 +129,7 @@ If someone has completed an exercise, they put the blue sticky note on their lap
 if they run into a problem and need help, the put up the yellow one.  This is better
 than having people raise their hands because:
 
-*  it's more discreet (which means they're more likely to actually do it),
+*  it is more discreet (which means they're more likely to actually do it),
 *  they can keep working while their flag is raised, and
 *  the instructor can quickly see from the front of the room what state the class is in.
 

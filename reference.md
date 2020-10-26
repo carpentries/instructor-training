@@ -7,7 +7,7 @@ root: .
 
 Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][worldcat-hlw]*.
 :   An excellent overview of what we know about education and why we
-    believe it's true, covering everything from cognitive psychology
+    believe it is true, covering everything from cognitive psychology
     to social factors.
 
 Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][worldcat-discussion]*.
@@ -110,7 +110,7 @@ Wilson et al: "[Best Practices for Scientific Computing](http://journals.plos.or
 :   Describes and justifies the practices that mature scientific software developers ought to use.
 
 Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
-:   Summarizes what we've learned in 17 years of running classes for scientists.
+:   Summarizes what we have learned in 17 years of running classes for scientists.
 
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915

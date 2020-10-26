@@ -94,7 +94,7 @@ TBA
 ### Using Helpers/Co-Instructors
 
 If you have a helper for the training, or want to involve your co-instructor more,
-here are some ways where it's easy to do so without much prep:
+here are some ways where it is easy to do so without much prep:
 * give an example of a mental model in "The Importance of Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
@@ -166,7 +166,7 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ### General tips for online training:  
 - **Support the lead**
-	- It's tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
+	- It is tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
 	  - Monitor the chat in zoom/notes
 	  - Help post exercises + provide instructions
 	  - Find links or references
@@ -175,7 +175,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N) [Cuckoo timers](https://cuckoo.team/carpentries-instructor-training) can also be helpful, especially during breakout room sessions: the countdown timer is shared between everyone visiting the webpage and all participants will hear an alarm sound when the timer runs out.
 - **Shared notes tips**
-  - No matter what kind of shared doc you are using, it's usually a good idea to create
+  - No matter what kind of shared doc you are using, it is usually a good idea to create
   two documents -- one for each day of the training.  
     - Suggestion from AN: create a third doc for sharing concept maps, since they are
     images and can slow down the document.  
@@ -214,7 +214,7 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 ### Welcome
 
-* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
 	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
 	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
@@ -281,11 +281,11 @@ ready to put your best foot forward in the classroom and we are here to help you
 * The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
 * Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the 
 mute button is. (EB)
-* I have already determined a random order for you each to do your demonstration. When it's your turn, I will tell you what
+* I have already determined a random order for you each to do your demonstration. When it is your turn, I will tell you what
 episode you will be teaching from, and
 you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the 
 option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
-from, that way you can keep your notes up on your screen without us seeing them. It's perfectly fine to teach using your
+from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
 notes - that's how I always teach. (EB)
 * When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
