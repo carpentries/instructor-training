@@ -55,7 +55,7 @@ within 15 minutes of starting each lesson.
 This not only motivates them,
 it also helps build their confidence in us,
 so that if it takes longer to get to something they find useful in a later topic,
-they'll persist with the lesson.
+they will persist with the lesson.
 
 To do this, we as instructors need to go through the work of identifying
 what to teach first (or at all!).
