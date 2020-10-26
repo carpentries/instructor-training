@@ -118,7 +118,7 @@ One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
 In particular,
 presenting novices with a pile of facts early on is counter-productive,
-because they don't yet have a model or framework to fit those facts into.
+because they do not yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
 an incorrect mental model.
@@ -138,7 +138,7 @@ management in a way that will allow them to learn more on their own or understan
 
 If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
 this will impact our teaching. For example, we principally want to help learners
-form the right categories and make connections among concepts.  We *don't*
+form the right categories and make connections among concepts.  We *do not*
 want to overload them with a slew of unrelated facts, as this will be confusing.
 
 An important practical implication of this latter point is the pace at which we teach.  
@@ -237,7 +237,7 @@ that provides feedback to both instructors and learners about learners' level of
 material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
 their instruction to respond to challenges that learners are facing.  
 
-Learners don't "pass" or "fail" formative assessments; they are simply a feedback mechanism.
+Learners do not "pass" or "fail" formative assessments; they are simply a feedback mechanism.
 For example, a music teacher might ask a learner to play a scale very slowly
 in order to see whether they are breathing correctly,
 and if not, what they should change.
@@ -312,8 +312,8 @@ but each of the other answers provides valuable insight.
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:
 instructors will often put supposedly-silly answers like "a fish!" on MCQs,
-but (a) they don't provide any insight
-and (b) learners actually don't find them funny.
+but (a) they do not provide any insight
+and (b) learners actually do not find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what concepts learners are having difficulty with.  
 

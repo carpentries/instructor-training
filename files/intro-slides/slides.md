@@ -86,8 +86,8 @@ You want to convey
 - your accessibility to learners
 - your shared experience with the learners
 - why you're excited about teaching SWC/DC
-- don't want to come across as too 'expert' so that you cannot relate to the audience
-- even if it's your first time teaching, you don't need to say that :)
+- do not want to come across as too 'expert' so that you cannot relate to the audience
+- even if it's your first time teaching, you do not need to say that :)
 
 ---
 

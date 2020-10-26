@@ -192,7 +192,7 @@ Sample questions include:
 
 Trainees may also ask about:
 
-*   material in the lessons that they don't understand,
+*   material in the lessons that they do not understand,
 *   how teaching these workshops has helped people's own work or careers, and
 *   anything else that comes to mind.
 

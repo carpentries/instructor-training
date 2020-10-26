@@ -188,7 +188,7 @@ in a way that facilitates growth.
   observation (and you're comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so don't
+* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so do not
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.
 
