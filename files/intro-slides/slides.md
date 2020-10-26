@@ -11,7 +11,7 @@ instructors ability to teach the course? Did you feel like the instructor was
 enthusiastic about the course and invested in the learners outcomes? Was it clear
 what you were going to be learning? Were you excited to get the chance
 to be learning about those things? Or did you leave that first day thinking
-the instructor was uninterested, that you weren't the learners they wanted to
+the instructor was uninterested, that you were not the learners they wanted to
 be teaching or you had no idea what the course was supposed to be about?
 
 ---
@@ -162,7 +162,7 @@ Let learners know about any logistics for the days - lunch times, breaks, access
 - practice introducing yourself
 - serves as an icebreaker - an opportunity to meet other people in the workshop
 
-Get in a group of three with two other people you haven't met before.
+Get in a group of three with two other people you have not met before.
 Each person do a video introducing themselves and get feedback from the
 other two in the group. Your introduction should be just around a minute or two.
 
