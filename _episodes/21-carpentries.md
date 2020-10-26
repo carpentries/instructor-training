@@ -211,7 +211,7 @@ be sure to read through the [instructor no-show policy](https://docs.carpentries
 ### Setting Up
 
 In order to communicate with learners,
-and to help us keep track of who's taught what and where,
+and to help us keep track of who has taught what and where,
 instructors create a website with information about their workshop.
 
 To ensure unique names for each event,
