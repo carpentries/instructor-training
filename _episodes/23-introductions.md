@@ -54,7 +54,7 @@ you're comfortable and ready for.
 > ## What's in an Introduction?
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.
-> Take notes on your answers -- we'll combine them later.
+> Take notes on your answers -- we will combine them later.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
