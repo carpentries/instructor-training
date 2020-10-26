@@ -48,7 +48,7 @@ instructors have generated to deal with this issue:
     If you're upfront with participants that you'll be spending time learning how `for` loops work, more
     advanced learners are less likely to sign up.
 *   When asking learners to complete exercises, give "beginner" and "advanced" options.
-    Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
+    Learners who finish the "beginner" exercise can then challenge themselves and do not get bored.
 *   Ask more advanced learners to help people next to them.
     They'll learn from answering their peers' questions
     (since it will force them to think about things in new ways).

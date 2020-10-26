@@ -220,7 +220,7 @@ it with more positive and motivating word choices.
 {: .challenge}
 
 Another language choice that can have very positive effects on learner mindset is to ask "What questions do people have?" rather than
-"Does anyone have any questions?" Asking "Does anyone have any questions?" can create the impression that you hope people don't have
+"Does anyone have any questions?" Asking "Does anyone have any questions?" can create the impression that you hope people do not have
 questions, so that you can continue on with the lesson. By asking what questions people have, you are setting up an expectation that
 people will, indeed, have questions, and that that is normal and expected.
 
@@ -252,7 +252,7 @@ Carpentries workshops.
 They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
-and conversely that we don't teach anything just because it's "fundamental".
+and conversely that we do not teach anything just because it's "fundamental".
 - Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
 
 It's also why installing and configuring software is
@@ -262,7 +262,7 @@ as we try to get a Unix shell working on Windows,
 or set up a version control client on some idiosyncratic Linux distribution, or ask people to download and unzip files.
 It is not even the unfairness of asking learners to debug things
 that depend on precisely the knowledge they have come to learn,
-but which they don't yet have.
+but which they do not yet have.
 The real problem is that every such failure reinforces the belief that computing is hard,
 and that they'd have a better chance of making next Thursday's conference submission deadline
 if they kept doing things the way they always have.

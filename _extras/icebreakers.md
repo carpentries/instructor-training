@@ -56,7 +56,7 @@ Is it seeing a lightbulb moment in a student's eye, or learning something new wh
 
 ### Favorite Emoji
 
-What is your favorite emoji. If you don't have a favorite or don't use emoiji's, that is an okay answer.
+What is your favorite emoji. If you do not have a favorite or do not use emoiji's, that is an okay answer.
 
 ### Mythical creature
 
