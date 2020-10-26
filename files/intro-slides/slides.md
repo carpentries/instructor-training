@@ -85,7 +85,7 @@ You want to convey
 - capability of teaching the materials
 - your accessibility to learners
 - your shared experience with the learners
-- why you're excited about teaching SWC/DC
+- why you are excited about teaching SWC/DC
 - do not want to come across as too 'expert' so that you cannot relate to the audience
 - even if it is your first time teaching, you do not need to say that :)
 
@@ -107,7 +107,7 @@ are open and freely available to use, develop or share
 Share some advice for success in your course (give it a try!) and let them know you
 are confident in their success as long as they are trying new things.
 
-"If you're not falling, you're not learning."
+"If you are not falling, you are not learning."
 
 ---
 
@@ -175,4 +175,4 @@ e.g. researchers who are mainly biologists with little computational experience
   - capability of teaching the materials
   - your accessibility to learners
   - shared experience
-- Why you're excited about teaching SWC/DC
+- Why you are excited about teaching SWC/DC

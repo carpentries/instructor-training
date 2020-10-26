@@ -43,8 +43,8 @@ How are experts different from both of these groups?
 > an expert in).  As an expert, what makes them special or different from
 > other people?  
 > OR
-> 2. What is something that you're an expert in?  How does your experience
-> when you're acting as an expert differ from when you're not an expert?  
+> 2. What is something that you are an expert in?  How does your experience
+> when you are acting as an expert differ from when you are not an expert?  
 >
 > This discussion should take about 5 minutes.
 {: .challenge}
@@ -90,7 +90,7 @@ We will expand on some of these below and how they can manifest in the way you t
 
 Because your learners' mental models will likely be less densely connected than your own,
 a conclusion that seems obvious to you will not seem that way to your learners.  It is important
-to explain what you're doing step-by-step, and how each step leads to the next one.
+to explain what you are doing step-by-step, and how each step leads to the next one.
 
 Another feature of expertise that has important consequences for teaching is the
 ability of experts to make use of *fluid representations*. Two ways of thinking about a problem
@@ -169,7 +169,7 @@ but it is part of the reason world-famous researchers are often poor lecturers.
 
 > ## Awareness Gaps  (Optional)
 >
-> 1. Is there anything you're learning how to do right now?  Can you identify
+> 1. Is there anything you are learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
 > thinking about it?  
 > 2. Think about the area of expertise you identified for yourself earlier.  What could a

@@ -45,7 +45,7 @@ instructors have generated to deal with this issue:
     communicate its level clearly to everyone who's thinking of signing up
     by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you're upfront with participants that you'll be spending time learning how `for` loops work, more
+    If you are upfront with participants that you'll be spending time learning how `for` loops work, more
     advanced learners are less likely to sign up.
 *   When asking learners to complete exercises, give "beginner" and "advanced" options.
     Learners who finish the "beginner" exercise can then challenge themselves and do not get bored.

@@ -185,7 +185,7 @@ in a way that facilitates growth.
 * When sharing negative feedback, provide a clear next step to follow that will help the recipient improve.
 
 * Communicate expectations. If your teaching feedback is taking the form of an
-  observation (and you're comfortable enough with the observer), tell
+  observation (and you are comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
 * When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so do not
@@ -206,7 +206,7 @@ but more importantly,
 it is a chance for instructors to learn from one another and be a supportive voice
 in the room.
 
-Finally, be kind to yourself. If you're a self-critical person,
+Finally, be kind to yourself. If you are a self-critical person,
 it is OK to remind yourself:
 
 *   The feedback is not personal.

@@ -41,7 +41,7 @@ Details about the Instructor Trainer role including the application process, dut
 -  If teaching in person:
     - Confirm with your host that breakout rooms are available or make an alternate plan
     - Create a plan for printing handouts & determine who will bring sticky notes
-    - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+    - Make sure you are prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
     - Check on availability/timing of breaks, lunch, or any other details that matter to you
 
 ### During the event
@@ -104,7 +104,7 @@ here are some ways where it is easy to do so without much prep:
 ### Episode order
 
 Experience has shown that the current order of episodes works quite well. 
-If you're a new Trainer, we recommend following the official order, however, 
+If you are a new Trainer, we recommend following the official order, however, 
 the material is flexible enough to allow small shifts in episode order. 
 If you are an experienced Trainer and you would like to re-arrange the schedule, 
 make sure to communicate with your trainees and co-Trainers! 
@@ -229,7 +229,7 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 As written, this can run long.  Suggestions:
 
-* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
+* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there is time (or interest! depends on the group) I will add or adapt.
 
 ### Mindset
 ### Teaching is a Skill

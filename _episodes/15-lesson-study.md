@@ -96,7 +96,7 @@ the lesson to identify promising points to check in with your learners, using fo
 Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals
 are usually communicated through *learning objectives*.
 
-The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or
+The "learning objectives" section is an easy thing to pass over when you are preparing to teach. It may seem obvious or
 unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We
 aim to create learning objectives that are specific, accurate, and informative for both learners and instructors.
 

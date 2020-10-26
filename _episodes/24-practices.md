@@ -76,7 +76,7 @@ Here is a non-exhaustive list of topics:
 >   - [Handout One](../files/handouts/Wrap-Up-doc.pdf) (with example content: [example](../files/handouts/Wrap-Up-doc-example.pdf))
 >   - [Handout Two](../files/handouts/Carpentries_teaching_practices.pdf)
 >
-> Work on this on your own.  There's no "right answer" -- this is about you building
+> Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
 >
 > Once you've organized your thoughts, move to the next exercise.  
@@ -96,6 +96,6 @@ teaching that is **learner-centered**.  In other words, teaching is not really a
 teacher, but the learners!  The more we know about learner's backgrounds, motivations,
 and how they learn (educational psychology) and what interventions can address these
 issues, the more effective our teaching can be.  This also means that our model of teaching
-does not mean you need to be an expert in the content you're teaching or that you have
+does not mean you need to be an expert in the content you are teaching or that you have
 to have a certain kind of personality -- ANYONE can learn, practice and improve their
 teaching, as with any skill.  

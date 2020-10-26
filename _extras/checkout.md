@@ -95,7 +95,7 @@ Please note that:
     (and improvements to these guidelines are welcome).
 
 4.  The lesson maintainers get many pull requests,
-    so please take some time to write a good commit message to help them understand what you're doing.
+    so please take some time to write a good commit message to help them understand what you are doing.
     For example:
 
     ~~~
@@ -172,7 +172,7 @@ The third and fourth question refer back to the instructor training course,
 and are meant to give you a chance to apply some of what you've learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that you've thought about what you're going to teach
+you are expected to ask questions to show that you've thought about what you are going to teach
 (including questions you had while reading through your chosen lesson),
 and about how our workshops are run in general.
 
