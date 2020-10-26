@@ -67,7 +67,7 @@ the school board,
 a textbook publisher,
 or the Internet,
 but each teacher has to figure out on their own how to combine that with
-the theory they've learned in their educational programs
+the theory they have learned in their educational programs
 to deliver an actual lesson in an actual classroom for actual learners.
 When teachers do not observe each other teaching, the tricks and techniques that each instructor
 has painstakingly incorporated into their practice do not have the opportunity to spread, limiting
@@ -86,7 +86,7 @@ Therefore, just like other disciplines (sports and music are two good examples),
 observing the work of others.  The Carpentries pedagogical model supports lesson
 study by providing many opportunities for our instructors
 to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
-and to give each other feedback.  You'll also have the opportunity to practice in front of an experienced instructor
+and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
@@ -238,7 +238,7 @@ use it to start (or continue) the process of improving your teaching. Remember, 
 If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong,
 pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills
 are going to improve. By strengthening your growth mindset with respect to teaching, you can
-transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to
+transform getting feedback from an unpleasant experience to a richly rewarding one. You will have more opportunities to
 practice teaching and to get and give feedback tomorrow.
 
 

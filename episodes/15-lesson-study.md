@@ -75,7 +75,7 @@ When sitting down to plan a course or workshop, it might be tempting to dive int
 understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this
 approach can take you down extended rabbit-holes in which you anticipate and research questions that only an expert
 would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to
-know when they've gotten there.  
+know when they have gotten there.  
 
 This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to allow *content*
 objectives to distract from *learning* objectives. One way to prevent this is to take a "reverse" approach to instruction, as

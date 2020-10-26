@@ -85,7 +85,7 @@ changing their perception of effort. For fixed-mindset people, if something does
 do not have natural ability and should not bother. People with a growth mindset are much more likely to persevere in the face of challenge
 and accomplish their goals.
 
-**Improvement-based praise** is related to praise based on effort, but explicitly draws a learner's attention to the progress they've made.
+**Improvement-based praise** is related to praise based on effort, but explicitly draws a learner's attention to the progress they have made.
 For example, "You are doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
 highlighting our ability to improve with effort.
 
@@ -134,7 +134,7 @@ can also encourage positive emotions associated with making errors in learning. 
 framed and the process for overcoming them.
 
 > ## Helping Learners Learn From Mistakes (optional)
-> A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
+> A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they have made an error
 > that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
 > `ls` and the name of the directory they are looking at). What would you say to the learner?
 >

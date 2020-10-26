@@ -13,9 +13,9 @@ Trainers should use their own judgement when applying this rubric in individual 
 
 |Positive Content|Negative Content|
 |------|---------------------|
-Uses Carpentries curriculum with only minor deviations|Deviates significantly or doesn't use Carpentries curriculum|
+Uses Carpentries curriculum with only minor deviations|Deviates significantly or does not use Carpentries curriculum|
 Places content in context and explains relevance/utility to learners|Jumps into the content without context|
-Teaches content correctly|Makes factual errors in content and doesn't correct|
+Teaches content correctly|Makes factual errors in content and does not correct|
 
 |Positive Delivery|Negative Delivery|
 |------|---------------------|

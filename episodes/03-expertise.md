@@ -20,7 +20,7 @@ keypoints:
 
 Having previously discussed the transition from novice to competent practitioner,
 via the formation of a mental model, we now shift our attention to experts. It is
-unlikely that you'll be teaching experts; the expert we want to talk about is you!
+unlikely that you will be teaching experts; the expert we want to talk about is you!
 You might not yet think of yourself as an expert, but chances are you have already
 advanced to the point where some of these key characteristics -- and potential pitfalls -- apply to you.
 We will discuss what distinguishes expertise
@@ -39,7 +39,7 @@ How are experts different from both of these groups?
 
 > ## What Is An Expert?  
 >
-> 1. Name someone that you think is an expert (doesn't matter what they're
+> 1. Name someone that you think is an expert (does not matter what they're
 > an expert in).  As an expert, what makes them special or different from
 > other people?  
 > OR
@@ -227,7 +227,7 @@ people will, indeed, have questions, and that that is normal and expected.
 ## Expert Advantages
 
 In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
-novices. However, that's not to say that experts cannot be good teachers.  Experts can
+novices. However, that is not to say that experts cannot be good teachers.  Experts can
 be effective as long as they take the time to identify and correct
 for their own expert awareness gaps. You can use some of the exercises we have done while
 preparing to teach to help you overcome these
@@ -264,7 +264,7 @@ It is not even the unfairness of asking learners to debug things
 that depend on precisely the knowledge they have come to learn,
 but which they do not yet have.
 The real problem is that every such failure reinforces the belief that computing is hard,
-and that they'd have a better chance of making next Thursday's conference submission deadline
+and that they would have a better chance of making next Thursday's conference submission deadline
 if they kept doing things the way they always have.
 For these reasons,
 we have adopted a "teach most immediately useful first" approach.
@@ -288,7 +288,7 @@ We will talk much more about this when we discuss
 All of the above points illustrate the importance of using formative assessments frequently. The right
 formative assessment at the right time will give you valuable information about your learners' goals and
 motivations, making it easier for you to target your lesson materials to their needs. This strategy also helps
-you as an instructor overcome your expert awareness gap. It doesn't matter how easy you think a task is, if your
+you as an instructor overcome your expert awareness gap. It does not matter how easy you think a task is, if your
 learners are not getting it, it is probably more complicated than you thought.
 
 [motivation-words]: https://perma.cc/LE2H-VWXG?type=image

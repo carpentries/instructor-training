@@ -176,7 +176,7 @@ are listed below:
 * [Library Carpentry Foundations](../fig/lc-foundations.png)
 
 Most of these are much larger than our recommended limit,
-but that's not necessarily a bad thing. An instructor can
+but that is not necessarily a bad thing. An instructor can
 draw a concept map for an entire topic,
 and use that to decide where to introduce a formative assessment to avoid overloading
 short-term memory.
@@ -261,7 +261,7 @@ apply their skills with direction and get feedback on their progress.
 > master a domain's factual content
 > and its search and problem-solving strategies.
 > Fostering creativity and independence is intuitively appealing,
-> but that doesn't mean it works.
+> but that does not mean it works.
 {: .callout}
 
 In the framework of cognitive load, some additional predictions can be made.

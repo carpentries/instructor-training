@@ -97,7 +97,7 @@ practitioner* for a given domain based on the complexity of their mental models.
 They therefore reason by analogy and guesswork,
 borrowing bits and pieces of their mental models of other domains
 which seem superficially similar.
-*     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model
+*     A *competent practitioner* is someone who has a mental model that is good enough for everyday purposes. This model
 does not have to be completely accurate in order to be useful:
 for example, the average driver's mental model of how a car works probably does not include
 most of the complexities that a mechanical engineer would be concerned with.
@@ -153,7 +153,7 @@ and without which people cannot understand how to use commands.
 
 That mental model of the shell also includes things like:
 
-*   Anything you repeat manually, you'll eventually get wrong
+*   Anything you repeat manually, you will eventually get wrong
     (so let the computer repeat things for you by using tab completion
     and the `history` command).
 *   Lots of little tools, combined as needed, are more productive than
@@ -300,7 +300,7 @@ but each of the other answers provides valuable insight.
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
 >> *   If they answer 312, they know that they cannot just discard the carried '1',
->>     but doesn't understand that it is actually a ten
+>>     but does not understand that it is actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
 >>     they are treating each column of numbers as unconnected to its neighbors.
@@ -401,7 +401,7 @@ in which you were going to explain something that your learners already know.
 >> ## Solution
 >> This will depend on the event they are attending. Most attendees will guess low.
 >> The purpose of this exercise is to emphasize the importance of frequent formative
->> assessments and that an individual assessment doesn't have to take a lot of time.
+>> assessments and that an individual assessment does not have to take a lot of time.
 > {: .solution}
 {: .challenge}
 

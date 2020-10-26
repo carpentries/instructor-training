@@ -62,7 +62,7 @@ you are comfortable and ready for.
 > After 5 minutes, come together, and combine ideas as a large group.
 >
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
-> Did you come up with something that's not listed below?
+> Did you come up with something that is not listed below?
 >
 > Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}

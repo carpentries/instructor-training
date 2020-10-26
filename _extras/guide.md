@@ -145,7 +145,7 @@ account for yourself for free. This personal account will be able to attend the 
 
 About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
 one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list; 
-you'll be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
+you will be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
 See [the explanation here][zoom-host-key] for step-by-step instructions on how to 
 claim host in Zoom Rooms using the host key.
 
@@ -214,7 +214,7 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 ### Welcome
 
-* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they would really like an answer now) or the schedule ends up being a little fractured."
 	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
 	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
@@ -286,7 +286,7 @@ episode you will be teaching from, and
 you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the 
 option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
 from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
-notes - that's how I always teach. (EB)
+notes - that is how I always teach. (EB)
 * When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
 Different ways of managing feedback during the demo:
