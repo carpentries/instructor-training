@@ -92,7 +92,7 @@ Now we would like to get to know all of you.
 {: .challenge}
 
 To make sure everyone has the
-same context, we'll give a brief overview of The Carpentries
+same context, we will give a brief overview of The Carpentries
 organization before starting the training.
 
 ## A Brief Overview of The Carpentries

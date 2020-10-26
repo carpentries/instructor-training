@@ -20,7 +20,7 @@ keypoints:
 ---
 
 In our final topic in how people learn (and therefore, how we can be more
-effective instructors), we'll be learning more about human memory:
+effective instructors), we will be learning more about human memory:
 specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 ## Types of Memory

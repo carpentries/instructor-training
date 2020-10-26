@@ -76,7 +76,7 @@ tasks with normal effort under normal circumstances.
 
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience. (We, as instructors,
-  are more likely to be competent practitioners or experts, and we'll
+  are more likely to be competent practitioners or experts, and we will
 discuss this in a later section).  We'll next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
@@ -242,7 +242,7 @@ For example, a music teacher might ask a learner to play a scale very slowly
 in order to see whether they are breathing correctly,
 and if not, what they should change.
 
-Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
+Formative assessment is most useful when it happens frequently (we will talk about how frequently later) and when the
 results are easily interpretable by the learner and instructor.
 
 > ## Repetition vs. Reflective Practice

@@ -21,7 +21,7 @@ keypoints:
 Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-practice-teaching/).
 We started out by focusing on the lessons we can learn as instructors from watching others teach, having
 others observe our teaching, and giving and receiving feedback based on these observations. In this
-section, we'll switch our focus to another important part of lesson study: detailed discussion of
+section, we will switch our focus to another important part of lesson study: detailed discussion of
 curricular components (including lesson objectives, contents, and exercises) with an eye toward actively preparing to
 teach a workshop.
 
