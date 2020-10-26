@@ -70,7 +70,7 @@ There are many ways to contribute,
 from writing new exercises and improving existing ones
 to updating or filling in the documentation
 and submitting [bug reports][issues]
-about things that do not work, aren't clear, or are missing.
+about things that do not work, are not clear, or are missing.
 If you are looking for ideas,
 please see [the list of issues for this repository][issues],
 or the issues for [Data Carpentry][dc-issues], [Software Carpentry][swc-issues]

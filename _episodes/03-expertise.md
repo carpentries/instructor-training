@@ -276,8 +276,8 @@ We'll talk much more about this when we discuss
 > Many of the foundational concepts of computer science,
 > such as computability,
 > are difficult to learn and not immediately useful.
-> This does *not* mean that they aren't important,
-> or aren't worth learning,
+> This does *not* mean that they are not important,
+> or are not worth learning,
 > but if our aim is to convince people that they can learn this stuff,
 > and that doing so will help them do more science faster,
 > they are less compelling than things like automating repetitive tasks.
@@ -289,7 +289,7 @@ All of the above points illustrate the importance of using formative assessments
 formative assessment at the right time will give you valuable information about your learners' goals and
 motivations, making it easier for you to target your lesson materials to their needs. This strategy also helps
 you as an instructor overcome your expert awareness gap. It doesn't matter how easy you think a task is, if your
-learners aren't getting it, it's probably more complicated than you thought.
+learners are not getting it, it's probably more complicated than you thought.
 
 [motivation-words]: https://perma.cc/LE2H-VWXG?type=image
 [four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words

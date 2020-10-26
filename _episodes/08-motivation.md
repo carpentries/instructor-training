@@ -242,7 +242,7 @@ It can be difficult to avoid these demotivators entirely. Some people are so use
 making fun of Windows-users with their friends, or talking about how terrible Excel is
 that they initially fail to realize they're doing it while teaching. Teaching yourself
 to avoid these types of comments takes practice, but is well worth the effort. No one
-likes to be made fun of, and talking badly about people who use GUIs, or who aren't
+likes to be made fun of, and talking badly about people who use GUIs, or who are not
 writing their thesis in LaTeX is unlikely to make them excited about learning your
 favorite scripting language.
 
@@ -277,7 +277,7 @@ such as lack of prior experience) and instead use a systems approach
 can also not highlight people based on their identity with a minority group; for
 example, it's not a good idea to say something like "I'm so glad you're here because
 we do not get enough women in programming." That may sound positive,
-but draws attention to the stereotype that women aren't good at programming.
+but draws attention to the stereotype that women are not good at programming.
 
 > ## Never Learn Alone
 >
