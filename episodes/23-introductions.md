@@ -51,7 +51,7 @@ helps get you started. Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
 you are comfortable and ready for.
 
-> ## What's in an Introduction?
+> ## What is in an Introduction?
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.
 > Take notes on your answers -- we will combine them later.
@@ -136,14 +136,14 @@ they relate to the workshop, in order to establish yourself as an
 authority, and to make the workshop more relevant.
 
 **Why are you teaching a Carpentries workshop?**
-Why are you an instructor? What's motivating you to be there today? One
+Why are you an instructor? What is motivating you to be there today? One
 reason might be that you took a workshop and saw how valuable these
 skills were in your own work and wanted to share this information with
 others. Convey your enthusiasm for being there.
 
 **What should you be careful not to say?** Learners do not need to
 know everything about you. In particular, it is not helpful to say
-you've never taught the course before, or that it is your least
+you have never taught the course before, or that it is your least
 favorite course to teach, or to disclose any irrelevant personal
 information that can undermine you in the eyes of your learners.
 
@@ -206,7 +206,7 @@ that they will be ready to work in groups or dialogue with each other.
 > Here is one example of an icebreaker you can use:
 > Have everyone turn to a partner and introduce themselves with their
 > name, one word about their research (e.g.'microbes', 'dogs', 'vectors',
-> 'stars') and a thing they're proud of that they made.
+> 'stars') and a thing they are proud of that they made.
 {: .callout}
 
 Head here for [more examples of Icebreakers][icebreakers].
@@ -242,7 +242,7 @@ own.
 
 ### 7. Whet Learners' Appetites for Workshop Content
 
-They're already at the workshop, so it might seem unnecessary to
+They are already at the workshop, so it might seem unnecessary to
 motivate them to be there, but it is a great chance to stimulate
 interest about the workshop and to activate relevant prior knowledge
 learners have about the material.

@@ -24,7 +24,7 @@ or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
-We've seen that providing opportunities for practice
+We have seen that providing opportunities for practice
 and giving useful feedback to learners are essential components in the learning
 process. Learning to teach is no different.
 
@@ -102,7 +102,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 > This exercise should take about 10 minutes.
 {: .challenge}
 
-Now that you've had some practice observing teaching and giving feedback, let us practice with each other.
+Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
 
 > ## Feedback on Yourself
 >

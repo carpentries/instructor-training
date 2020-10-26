@@ -38,7 +38,7 @@ like lab lessons?
 
 ### In the Real World
 
-How practical do you think it would be to use the techniques you've learned in this workshop
+How practical do you think it would be to use the techniques you have learned in this workshop
 in regular teaching?
 In particular,
 do you think you would have enough time to prepare and teach lessons

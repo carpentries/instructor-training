@@ -308,7 +308,7 @@ the real power of The Carpentries is in its community of volunteers that take on
 roles to teach and organize workshops, help produce and maintain lessons, and most importantly,
 build local and global communities of practice around  skills for data analysis, computational thinking, and research software development. Our community depends on individuals like you who are passionate about expanding these communities of practice through inclusive and evidence-based instructional practices, and can contribute your perspective and expertise to continually refine our instructional materials and practices.  A full description of the breadth and diversity of community member roles, an overview of The Carpentries various social media channels, a calendar of future community events, and descriptions of mailing lists used by the community can be found [here on The Carpentries website](http://static.carpentries.org/community/) and also on the [getting connected page](https://carpentries.org/connect/).
 
-> ## Participating in The Carpentries -- What's Your Role?
+> ## Participating in The Carpentries -- What is Your Role?
 >
 > If you are at an in-person training, your Trainer will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >

@@ -50,7 +50,7 @@ instructors have generated to deal with this issue:
 *   When asking learners to complete exercises, give "beginner" and "advanced" options.
     Learners who finish the "beginner" exercise can then challenge themselves and do not get bored.
 *   Ask more advanced learners to help people next to them.
-    They'll learn from answering their peers' questions
+    They will learn from answering their peers' questions
     (since it will force them to think about things in new ways).
 *   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices
     and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
@@ -152,7 +152,7 @@ Putting some thought into how you and your co-instructor will work together can 
 > help instructors in more detail.
 >
 > Helpers are sometimes people training to become teachers (i.e.,
-> they're Teacher B in the teach and assist model), but they can also
+> they are Teacher B in the teach and assist model), but they can also
 > be advanced learners who already know the material well, previous
 > workshop participants, or members of the host institution's technical
 > support staff.
@@ -205,7 +205,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  since learners may be distracted by more frequent interleaving.
 >>
 >>- Each person should take a couple of minutes before they start
->>  teaching to see what their partner is going to teach after they're
+>>  teaching to see what their partner is going to teach after they are
 >>  done.  This allows each instructor to set up their partner's material
 >>  without covering it themselves.
 >>

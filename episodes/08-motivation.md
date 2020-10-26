@@ -12,7 +12,7 @@ objectives:
 - "Recognize and overcome imposter syndrome in yourself and your learners."
 keypoints:
 - "A positive learning environment helps people concentrate on learning."
-- "People learn best when they see the utility in what they're learning, so teach what's most immediately useful first."
+- "People learn best when they see the utility in what they are learning, so teach what is most immediately useful first."
 - "Imposter syndrome is a powerful force, but can be overcome."
 - "Accessibility benefits everyone."
 ---
@@ -165,7 +165,7 @@ learners.
 
 > ## Not Just Learners
 >
-> What's missing from this list is strategies to motivate the *instructor*.
+> What is missing from this list is strategies to motivate the *instructor*.
 > As we said in the introduction,
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
@@ -205,7 +205,7 @@ common demotivators and help you develop strategies for avoiding them.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-### Things You Shouldn't Do in a Workshop
+### Things You Should Not Do in a Workshop
 
 *   Tell learners they are rubbish because they use Excel and/or Word,
     do not modularize their code, etc.
@@ -240,7 +240,7 @@ common demotivators and help you develop strategies for avoiding them.
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to
 making fun of Windows-users with their friends, or talking about how terrible Excel is
-that they initially fail to realize they're doing it while teaching. Teaching yourself
+that they initially fail to realize they are doing it while teaching. Teaching yourself
 to avoid these types of comments takes practice, but is well worth the effort. No one
 likes to be made fun of, and talking badly about people who use GUIs, or who are not
 writing their thesis in LaTeX is unlikely to make them excited about learning your
@@ -392,7 +392,7 @@ about accessibility.
 > The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and do nots for making
 > visual and web-based materials more accessible for different populations. Take a look at one of
 > [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and
-> put one thing you've learned in the Etherpad.
+> put one thing you have learned in the Etherpad.
 >
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 > available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
@@ -405,7 +405,7 @@ about accessibility.
 >
 > The posters above are in PDF format - which itself can sometimes be inaccessible to people
 > who use screen readers. If you know of a similar resource describing accessibility guidelines
-> that would be more accessible than what's linked above, open an issue on our instructor
+> that would be more accessible than what is linked above, open an issue on our instructor
 > training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
 {: .callout}
 
@@ -432,7 +432,7 @@ are always welcome.
 
 > ## What Happens When Accessibility is an Issue? (Optional)
 >
-> Think of a time when you've been affected by, or noticed someone else
+> Think of a time when you have been affected by, or noticed someone else
 > being affected by issues with accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
 > a class you were taking relied on audio delivery of content. Describe what happened,
@@ -446,9 +446,9 @@ are always welcome.
 >
 > Looking at people who work with disability and accessibility, it is
 > easy to be overwhelmed by all the different ways we could make
-> instruction more accessible.  *Don't panic.*  Instead:
+> instruction more accessible.  *Do not panic.*  Instead:
 >
-> *   *Don't do everything at once.*
+> *   *Do not do everything at once.*
 >     We do not ask learners in our workshops to adopt all our best practices or tools in one go,
 >     but instead to work things in gradually at whatever rate they can manage.
 >     Similarly, try to build in accessibility habits when preparing for workshops

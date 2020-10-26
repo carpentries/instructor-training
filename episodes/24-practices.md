@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentries workshop."
 keypoints:
-- "Having a plan makes it easier for you to remember to implement the important teaching practices you've learned."
+- "Having a plan makes it easier for you to remember to implement the important teaching practices you have learned."
 
 ---
 
@@ -15,7 +15,7 @@ We are almost done with our training!  At this point, we have covered many, many
 around teaching and learning, especially in the context of Carpentries workshops.
 
 Carpentries instructors use a set of teaching techniques based on evidence from
-educational research. We've talked about some of these techniques explicitly
+educational research. We have talked about some of these techniques explicitly
 (e.g. participatory live coding and formative assessment), and others we have been modeling throughout
 the workshop, without necessarily calling attention to what we were doing. Some of
 these teaching techniques are implemented at particular points in a workshop, while
@@ -26,13 +26,13 @@ about teaching and learning, specifically in the Carpentries context.
 
 > ## Picking up the Pieces (optional)
 >
-> In small groups or on your own, make a list of all the concepts and skills you've
+> In small groups or on your own, make a list of all the concepts and skills you have
 > encountered in this training.  Your list can include everything from
 > educational/teaching theories to specific in-classroom practices.  
 >
 > > ## Solution
 > >
-> > Compare your list of topics with the list below.  What's missing, either in your
+> > Compare your list of topics with the list below.  What is missing, either in your
 > > list or the one below?  
 > {: .solution}
 {: .challenge}
@@ -79,7 +79,7 @@ Here is a non-exhaustive list of topics:
 > Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
 >
-> Once you've organized your thoughts, move to the next exercise.  
+> Once you have organized your thoughts, move to the next exercise.  
 {: .challenge}
 
 > ## Parting Thoughts

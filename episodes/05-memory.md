@@ -70,7 +70,7 @@ frequent formative assessment is important.
 > you can. How many did you remember? Write your answer in the Etherpad.
 {: .challenge}
 
-Most people will have found they only remember 5-7 words. Don't worry if you
+Most people will have found they only remember 5-7 words. Do not worry if you
 remembered fewer - many factors can affect short-term memory in different situations.
 Fortunately, there are techniques that we can use to improve our effective short-term memory.
 We will illustrate one of these techniques and then describe how this is applicable to our
@@ -211,12 +211,12 @@ knowledge.
 > be used in many other ways:
 >
 > 1.  To aid solo design of a lesson by helping authors figure
-> out what they're trying to teach.
+> out what they are trying to teach.
 > 2.  To aid communication with fellow lesson designers.
 > 3.  To aid communication with learners.
 >     While it is possible to give learners a pre-drawn map at the start of a lesson for them
 > to annotate, it is better to draw it piece by piece while teaching
-> to reinforce the ties between what's in the map and what the instructor said.
+> to reinforce the ties between what is in the map and what the instructor said.
 > 4. Concept maps can be used as a classroom discussion exercise.
 > 	Put learners in small groups (2-4 people each),
 >	give each group some sticky notes on which a few key concepts are written,
@@ -232,7 +232,7 @@ knowledge.
 
 Another way to think about the challenge of managing memory is through
 the theory of *[cognitive load][wikipedia-cognitive-load]*.
-It posits that people have to deal with three things when they're learning:
+It posits that people have to deal with three things when they are learning:
 
 *   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
 *   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
@@ -243,7 +243,7 @@ Cognitive load theory's proponents claim that eliminating extraneous cognitive l
 way to do this is by using *guided practice*: we set up a structure in which learners can
 apply their skills with direction and get feedback on their progress.
 
-> ## Why We Don't Use Minimal Guidance
+> ## Why We Do not Use Minimal Guidance
 >
 > An alternative to guided practice is a *minimal guidance* approach, where
 > learners are given raw materials (for example a text or reference) and
@@ -283,7 +283,7 @@ For our workshops, this means the instructor should say out loud commands as the
 ## Guided Practice at Work
 
 How do we implement guided practice, lessening the burden of extraneous
-cognitive load and allow people to focus on what's important?  There are
+cognitive load and allow people to focus on what is important?  There are
 many different types of exercises that implement this guided practice; some
 are listed in this [blog post by Greg Wilson][GW-exercise-post], including
 Parson's Problems and labelling diagrams.

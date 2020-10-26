@@ -71,7 +71,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> *split-attention effect* we
 >> [discussed earlier]({{ page.root }}{% link _episodes/05-memory.md %}#why-guided-practice-is-important).
 >> This is why it is
->> very important that instructors first explain what they're going to do, then
+>> very important that instructors first explain what they are going to do, then
 >> say what they are typing as they type it, and then
 >> explain what they did again afterwards.
 >> * It may take a bit of practice for instructors to
@@ -129,7 +129,7 @@ If someone has completed an exercise, they put the blue sticky note on their lap
 if they run into a problem and need help, the put up the yellow one.  This is better
 than having people raise their hands because:
 
-*  it is more discreet (which means they're more likely to actually do it),
+*  it is more discreet (which means they are more likely to actually do it),
 *  they can keep working while their flag is raised, and
 *  the instructor can quickly see from the front of the room what state the class is in.
 

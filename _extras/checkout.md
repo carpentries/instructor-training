@@ -169,10 +169,10 @@ As you are reading, make notes about the following:
 The first two questions are intended to help you become more comfortable
 with our collaborative lesson development methods.
 The third and fourth question refer back to the instructor training course,
-and are meant to give you a chance to apply some of what you've learned to these specific lessons.
+and are meant to give you a chance to apply some of what you have learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that you've thought about what you are going to teach
+you are expected to ask questions to show that you have thought about what you are going to teach
 (including questions you had while reading through your chosen lesson),
 and about how our workshops are run in general.
 
