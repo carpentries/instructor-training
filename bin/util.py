@@ -19,7 +19,7 @@ IMAGE_FILE_SUFFIX = {
     '.svg'
 }
 
-# Files that shouldn't be present.
+# Files that should not be present.
 UNWANTED_FILES = [
     '.nojekyll'
 ]

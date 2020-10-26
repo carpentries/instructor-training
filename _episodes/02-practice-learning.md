@@ -171,7 +171,7 @@ Explicitly referring back to pipes and filters in the shell when introducing fun
 helps solidify both ideas.
 
 > ## Meeting Learners Where They Are
-> One of the strengths of Carpentries workshops is that we meet learners where they're at. Carpentries Instructors
+> One of the strengths of Carpentries workshops is that we meet learners where they are at. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills

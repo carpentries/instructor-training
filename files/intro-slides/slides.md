@@ -118,9 +118,9 @@ Foster a collaborative environment
 Have learners introduce themselves to each other.
 
 One idea:  
-Have everyone turn to a partner and introduce themselves with their name, one word about their research 'microbes', 'dogs', 'vectors', 'stars' and a thing they're proud of that they made. What
+Have everyone turn to a partner and introduce themselves with their name, one word about their research 'microbes', 'dogs', 'vectors', 'stars' and a thing they are proud of that they made. What
 they made could be a bookshelf, a curry, a 3D plot, a piece of software, their bed this morning, just
-something they did that they're proud of. Studies have shown that encouraging people to think about their characteristics, skills, values, or roles that they value or view as important can help reduce
+something they did that they are proud of. Studies have shown that encouraging people to think about their characteristics, skills, values, or roles that they value or view as important can help reduce
 the effects of stereotype threat. (We have no actual evidence this particular exercise helps, but it
   is along these lines)
 
@@ -145,7 +145,7 @@ before you arrive so you know who your audience is
 
 ### Whet learners' appetite for workshop content
 
-They're already at the workshop, so it might seem unnecessary to motivate them to be there,
+They are already at the workshop, so it might seem unnecessary to motivate them to be there,
 but it is a great chance to stimulate interest about the workshop and to activate relevant prior knowledge learners have about the material.
 
 ---

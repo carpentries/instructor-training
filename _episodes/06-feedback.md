@@ -44,8 +44,8 @@ You can preview the surveys your learners will take at the links below:
 
 > ## Timing Matters
 > 
-> We've found that learners are much more likely to fill out the post-workshop survey
-> while they're still at the workshop than they are after they leave the venue. At the end 
+> We have found that learners are much more likely to fill out the post-workshop survey
+> while they are still at the workshop than they are after they leave the venue. At the end 
 > of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
 > post-workshop survey at the end of your workshop. You will be helping them (they get a

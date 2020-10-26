@@ -39,7 +39,7 @@ How are experts different from both of these groups?
 
 > ## What Is An Expert?  
 >
-> 1. Name someone that you think is an expert (does not matter what they're
+> 1. Name someone that you think is an expert (does not matter what they are
 > an expert in).  As an expert, what makes them special or different from
 > other people?  
 > OR
@@ -140,7 +140,7 @@ seem trivial to you, as they often will.
 Another potential challenge for experts who teach is known in the literature as *expert blind spot*.
 Experts are frequently so familiar with their subject
 that they can no longer imagine what it is like to *not* understand the world that way - this
-inability to consider the material from a non-expert perspective can lead to what's
+inability to consider the material from a non-expert perspective can lead to what is
 known as the *expertise-reversal effect* - experts are often
 less good at teaching a subject to novices than people with less expertise
 who still remember what it is like to have to learn the things.
@@ -253,7 +253,7 @@ They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
 and conversely that we do not teach anything just because it is "fundamental".
-- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they're not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
+- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they are not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
 
 It is also why installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.

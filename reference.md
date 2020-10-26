@@ -29,7 +29,7 @@ Mark Guzdial: *[Learner-Centered Design of Computing Education: Research on Comp
 Doug Lemov: *[Teach Like a Champion 2.0][worldcat-tlac]*.
 :   Presents 62 classroom techniques drawn from intensive study of thousands of hours of video of good teachers in action.
 
-Therese Huston: *[Teaching What You Don't Know][worldcat-twydk]*.
+Therese Huston: *[Teaching What You Do not Know][worldcat-twydk]*.
 :   A pointed, funny, and very useful book that explores exactly what the title suggests.
 
 James Lang: *[Small Teaching][worldcat-small-teaching]*.

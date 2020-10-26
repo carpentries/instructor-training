@@ -94,7 +94,7 @@ be discussed before changes are merged.
 If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 that is customized to the Carpentries workflow.
 
-### What's in a Badge?
+### What is in a Badge?
 
 Once you have completed all checkout steps, within about 2 weeks you will receive an email with your Instructor badge! What does this mean?
 * **You get to teach!** Badged Instructors are certified to co-teach any Carpentries lesson. All Carpentries Instructor badges are acceptable to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While non-badged instructors may also co-teach, every Carpentries branded workshop must have one badged Instructor to lead the way.
