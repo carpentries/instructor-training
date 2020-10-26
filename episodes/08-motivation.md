@@ -233,7 +233,7 @@ common demotivators and help you develop strategies for avoiding them.
     that you do not want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
     skills that are essential for independent work.
 *  Feign surprise. Saying things like "I cannot believe you do not know X"
-    or "You've never heard of Y?" signals to the learner that they do not have
+    or "You have never heard of Y?" signals to the learner that they do not have
     some required pre-knowledge of the material you are teaching, that they do not belong at the workshop,
     and it may prevent them from asking questions in
     the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
@@ -359,7 +359,7 @@ you will find that the text beside the slides includes all of the narration---bu
 none of the Python source code.
 Someone using a [screen reader][wikipedia-screen-reader]
 would therefore be able to hear what was being said about the program,
-but wouldn't know what the program actually was.
+but would not know what the program actually was.
 
 While it may not be possible to accommodate everyone's needs,
 it *is* possible to get a good working structure in place

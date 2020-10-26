@@ -362,7 +362,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > *   When you are trying to come up with distractors,
 >     think about questions that learners asked or problems they had
 >     the last time you taught this subject.
->     If you haven't taught it before,
+>     If you have not taught it before,
 >     think about your own misconceptions
 >     or ask colleagues about their experiences.
 {: .callout}

@@ -42,7 +42,7 @@ Here are some strategies Carpentries
 instructors have generated to deal with this issue:
 
 *   Before running a workshop,
-    communicate its level clearly to everyone who's thinking of signing up
+    communicate its level clearly to everyone who is thinking of signing up
     by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
     If you are upfront with participants that you will be spending time learning how `for` loops work, more
@@ -211,7 +211,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >>
 >>- Whenever possible, the person who is not teaching should stay engaged
 >>  with the class.  Monitor the shared notes, keep an eye
->>  on the learners to see who's struggling, jot down some feedback to
+>>  on the learners to see who is struggling, jot down some feedback to
 >>  give your teaching partner at the next break - anything that
 >>  contributes to the lesson is better than anything that does not.  It is
 >>  easier for the other instructor to take a break to catch up on outside
