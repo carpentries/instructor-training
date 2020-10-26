@@ -60,7 +60,7 @@ they will persist with the lesson.
 To do this, we as instructors need to go through the work of identifying
 what to teach first (or at all!).
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
-Everything that's quick to master, and immediately useful should be taught first;
+Everything that is quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
 do not belong in our workshops.
@@ -93,7 +93,7 @@ motivating.
 > For example,
 > editing a text file seems like a simple task,
 > but most graphical editors save things to the user's desktop or home directory.
-> If people need to run shell commands on the files they've edited,
+> If people need to run shell commands on the files they have edited,
 > a substantial fraction will not be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
 > please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
@@ -290,7 +290,7 @@ but draws attention to the stereotype that women are not good at programming.
 > which increases the chances of them actually coming.
 > Furthermore,
 > if people attend a workshop with their labmates, it is more likely they will
-> work together to implement what they've learned after the workshop has ended.
+> work together to implement what they have learned after the workshop has ended.
 {: .callout}
 
 
@@ -355,7 +355,7 @@ Not providing equal access to lessons and exercises
 is about as demotivating as it gets.
 If you look at [our old lesson on Python][swc-python-v4],
 for example,
-you'll find that the text beside the slides includes all of the narration---but
+you will find that the text beside the slides includes all of the narration---but
 none of the Python source code.
 Someone using a [screen reader][wikipedia-screen-reader]
 would therefore be able to hear what was being said about the program,
@@ -477,7 +477,7 @@ are always welcome.
 In computing, it means making a positive effort to be more welcoming to women,
 people of color, people with various sexual orientations,
 the elderly, people with physical disabilities, the formerly incarcerated,
-the economically disadvantaged, and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
+the economically disadvantaged, and everyone else who does not fit Silicon Valley's white/Asian male demographic.
 Lee's paper
 "[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
 is a brief, practical guide with references to the research literature.

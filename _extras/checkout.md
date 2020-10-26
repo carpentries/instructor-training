@@ -90,7 +90,7 @@ Please note that:
 2.  **Your contribution does not need to be accepted in order for you to become an instructor**:
     the point is to make sure that you understand the process and have met the people who review material.
 
-3.  Be sure to format your submission in the same way as the content that's already there.
+3.  Be sure to format your submission in the same way as the content that is already there.
     The `CONTRIBUTING.md` file in each lesson has guidelines
     (and improvements to these guidelines are welcome).
 

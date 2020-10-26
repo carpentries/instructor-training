@@ -48,8 +48,8 @@ You can preview the surveys your learners will take at the links below:
 > while they're still at the workshop than they are after they leave the venue. At the end 
 > of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
-> post-workshop survey at the end of your workshop. You'll be helping them (they get a
-> bit of a rest), yourself (you'll get more useful feedback), and The Carpentries.
+> post-workshop survey at the end of your workshop. You will be helping them (they get a
+> bit of a rest), yourself (you will get more useful feedback), and The Carpentries.
 {: .callout}
 
 ## Minute Cards
