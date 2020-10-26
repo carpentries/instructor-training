@@ -266,7 +266,7 @@ and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[W
 summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in
 the classroom.
 
-While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
+While there is lots of evidence that unwelcoming climates demotivate members of under-represented groups,
 it is not clear that stereotype threat is the underlying mechanism. Part of the problem is that
 [the term has been used in many ways][shapiro-neuberg-stereotype-threat].
 Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
@@ -275,7 +275,7 @@ What *is* clear is that we need to avoid thinking in terms of a deficit model
 such as lack of prior experience) and instead use a systems approach
 (i.e., we need to change the system because it produces these disparities). We
 can also not highlight people based on their identity with a minority group; for
-example, it is not a good idea to say something like "I'm so glad you're here because
+example, it is not a good idea to say something like "I'm so glad you are here because
 we do not get enough women in programming." That may sound positive,
 but draws attention to the stereotype that women are not good at programming.
 
@@ -301,7 +301,7 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
-![One stick figure introducing another to a third says, "This is Dr. Adams. She's a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, do not be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
+![One stick figure introducing another to a third says, "This is Dr. Adams. She is a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, do not be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and
 criticized publicly. In addition,
@@ -327,11 +327,11 @@ sharing stories of mistakes that you have made or things you struggled to learn.
 This reassures the class that it is OK to find topics difficult.
 Being open with the group makes it easier to build trust and make learners confident to ask questions.
 (Live coding is great for this:
-typos let the class see you're not superhuman.)
+typos let the class see you are not superhuman.)
 
 You can also emphasize that you want questions:
 you are not succeeding as a teacher if no one can follow your class,
-so you're asking learners to help you learn and improve.
+so you are asking learners to help you learn and improve.
 Remember,
 it is much more important to *be* smart than to *look* smart.
 
@@ -417,7 +417,7 @@ has a good checklist for people with mobility issues,
 and this [interview with Chad Taylor][deaf-accessibility]
 is a good introduction to issues faced by those with no or limited hearing.
 
-The second is to know how well you're doing.
+The second is to know how well you are doing.
 For example,
 sites like [WebAIM][webaim] allow you to check
 how accessible your online materials are to users with no or limited vision.

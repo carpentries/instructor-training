@@ -77,7 +77,7 @@ non-teaching instructor can also type answers to the questions in the Etherpad.
 > 
 > Learners are more likely to give useful feedback if they feel that their feedback
 > is being taken seriously. Spending a few minutes talking about the feedback you got
-> and being explicit about what changes you're making in light of that feedback
+> and being explicit about what changes you are making in light of that feedback
 > will encourage learners to continue to give informative feedback throughout the workshop.
 {: .callout}
 
@@ -94,7 +94,7 @@ participants will start saying what they really think. The instructor
 writes down the feedback in the Etherpad or a text editor,
 but does not comment on the feedback while collecting it. The instructors then
 discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
-about how you're responding to learner feedback.
+about how you are responding to learner feedback.
 
 
 > ## Give Us Feedback

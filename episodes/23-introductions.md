@@ -49,7 +49,7 @@ to set a positive and welcoming environment for the workshop.
 Having a planned introduction, also helps you be less nervous. Having a planned introduction
 helps get you started. Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
-you're comfortable and ready for.
+you are comfortable and ready for.
 
 > ## What's in an Introduction?
 >
@@ -127,7 +127,7 @@ key areas. These questions should help you decide what to say:
 **What characteristics do you want to convey about yourself?** You probably want the learners to get a sense of your
 qualifications, how formal/informal you want
 to be, and how available you will be to the learners. You want to
-demonstrate that you're qualified, but that you share the same
+demonstrate that you are qualified, but that you share the same
 challenges as the learners, so you remain accessible.
 
 **What will you need to say to convey those characteristics?**
@@ -149,12 +149,12 @@ information that can undermine you in the eyes of your learners.
 
 > ## Introductions for Everyone
 >
-> If you're teaching a typical Carpentries workshop, then you're
+> If you are teaching a typical Carpentries workshop, then you are
 > probably not teaching alone!  After introducing yourself, make
 > sure that you give everyone involved in the workshop - instructors,
 > helpers, organizers - a chance to introduce themselves as well.
 >
-> If you're the workshop organizer, this can also be a good time
+> If you are the workshop organizer, this can also be a good time
 > to thank volunteers who are instructing or helping.
 {: .callout}
 

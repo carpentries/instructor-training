@@ -52,7 +52,7 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 > ## Checking Out Review with Questions and Answers
 >
 > In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
-> Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process.
+> Make notes in the Etherpad and when you are done, report back to the full group about the requirements for that stage of the process.
 > What questions do you still have about the checkout process?
 >
 > This exercise should take about 5 minutes.

@@ -29,11 +29,11 @@ One example of how our beliefs impact learning is Carol Dweck's theory of "minds
 
 Dweck, a professor of Psychology at Stanford University, has conducted decades of research focused on understanding
 people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
-affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
-someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
+affect our perseverance in learning. She has discovered that, in any given area, people tend to have either a fixed mindset - believing that
+someone's ability in that area is intrinsic, you are either born with it or you are not - or a growth mindset - believing that, with enough effort,
+almost anyone can learn almost anything. (She has written a very accessible popularized [summary][worldcat-dweck] of her findings. There is also a [short summary][cardiff-dweck] available.)
 
-Do you believe that you're just not good at math? Or maybe you're not artistic? Not good at sports? If any of these
+Do you believe that you are just not good at math? Or maybe you are not artistic? Not good at sports? If any of these
 sound like you, you probably have a fixed mindset when it comes to mathematical, artistic and/or athletic ability.
 People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
 tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.

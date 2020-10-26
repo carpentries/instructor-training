@@ -180,7 +180,7 @@ present can be applied to lesson development, and we will briefly touch on a met
 of lesson design called "Reverse Instructional Design", but it will not be an emphasis
 of this particular course.
 
-If there's a particular topic that you would like us to address, let the trainers
+If there is a particular topic that you would like us to address, let the trainers
 know.
 
 ## Let us Get Started
