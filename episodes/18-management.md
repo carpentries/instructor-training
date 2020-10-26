@@ -68,7 +68,7 @@ Equally,
 if she spends a few minutes talking about an advanced topic because two learners are bored,
 the 38 who do not understand it will feel left out.
 All we can do is tell our learners what we're doing and why,
-and hope that they'll understand.
+and hope that they will understand.
 
 
 > ## Learners Use Their Own Machines

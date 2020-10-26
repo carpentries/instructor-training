@@ -132,7 +132,7 @@ management in a way that will allow them to learn more on their own or understan
 
 ### The Importance of Going Slowly
 
-> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming.
+> If someone feels it's too slow, they will be a bit bored. If they feel it's too fast, they will never come back to programming.
 > — Kunal Marwaha, SWC Instructor
 {: .testimonial}
 
