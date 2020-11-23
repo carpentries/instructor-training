@@ -49,7 +49,6 @@ To offer more flexible options for our community, we are piloting events that ru
    - 8:30 am to 12:30 pm Japan Standard Time
    - 9:30 am to 1:30 pm Australia Eastern Standard Time
    - 12:30 pm - 4:30 pm New Zealand Daylight Time
-
 <br><br>
 * October 27-30, 2020  This event will run for 3.5 hours a day, Tuesday to Friday of one week. *Registration closed*
    - 9 am to 12:30 pm North America Pacific
