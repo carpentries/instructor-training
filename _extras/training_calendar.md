@@ -4,7 +4,7 @@ title: "Instructor Training Calendar"
 ---
 
 
-# The Carpentries Instructor Training Calendar: 2020
+# The Carpentries Instructor Training Calendar: 2021
 
 Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
 
@@ -30,30 +30,17 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* August 31 - September 22, 2020 This event will run for 1.5 hours a day, Monday and Tuesday, for four weeks. *Registration closed*
-    - 12:30 pm to 2:00 pm Australia Eastern Standard Time
-    - 2:30 pm to 4 pm New Zealand Standard Time
-    - 8:00 am to 9:30 am India Standard Time
-<br><br>
-* August 24-27, 2020 This event will run for 3.5 hours a day, Monday through Thursday of one week.  *Registration closed*
-   - 9 am to 12:30 pm North America Pacific
-   - 12 noon to 3:30 pm North America Eastern
-   - 5 pm to 8:30 pm British Summer time
-<br><br>    
-* September 29 - October 2, 2020 *Registration closed*
-    - 9 am to 1 pm North America Pacific
-    - 12 noon to 4 pm North America Eastern
-    - 5 pm to 9 pm British Summer time 
-<br><br>
-* October 14-22, 202 This event will run for 4 hours a day, Wednesday and Thursday, for two weeks. *Registration closed*
-   - 8:30 am to 12:30 pm Japan Standard Time
-   - 9:30 am to 1:30 pm Australia Eastern Standard Time
-   - 12:30 pm - 4:30 pm New Zealand Daylight Time
-<br><br>
-* October 27-30, 2020  This event will run for 3.5 hours a day, Tuesday to Friday of one week. *Registration closed*
-   - 9 am to 12:30 pm North America Pacific
-   - 12 noon to 3:30 pm North America Eastern
-   - 4 pm to 7:30 pm Greenwich Mean time
+* February 1-4, 2021
+    * 9 am to 1 pm North America Pacific
+    * 12 noon to 4 pm North America Eastern
+    * 5 pm to 9 pm Greenwich Mean Time
+    * *See the start time in [your local time zone]()*    
+
+March 15-18, 2021
+    * 7 am to 11 am North America Pacific  
+    * 9 am to 1 pm North America Central
+    * 2 pm to 6 pm Greenwich Mean Time
+    * *See the start time in [your local time zone]()*
 
 ## Two day events
 
@@ -62,41 +49,24 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 ### North America
 
 #### Pacific time
-* February 19-20, 2020 *Registration closed*
-* April 16-17, 2020 *Registration closed*
-* June 17-18, 2020 *Registration closed*
-* July 13-14, 2020 *Registration closed*
-* September 23-24, 2020 *Registration closed*
 * [December 9-10, 2020](https://www.eventbrite.com/e/online-instructor-training-december-9-10-2020-n-america-pacific-time-tickets-121056690821) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201209T09&p1=137&ah=8)*
+* [January 13-14, 2021]() *See the start time in [your local time zone]()*
+* [March 25-26, 2021]() *See the start time in [your local time zone]()*
+
 
 #### Central time
-* January 16-17, 2020 *Registration closed*
-* April 23-24, 2020 *Registration closed*
-* June 8-9, 2020 *Registration closed*
-* June 15-16, 2020 *Registration closed*
-* October 19-20, 2020  *Registration closed*
+* [February 11-12, 2021]() *See the start time in [your local time zone]()*
+* [March 23-24, 2021]() *See the start time in [your local time zone]()*
 
 #### Eastern time
-* January 29-30, 2020 *Registration closed*
-* February 13-14, 2020 *Registration closed*
-* April 1-2, 2020 *Registration closed*
-* April 14-15, 2020  *Registration closed*
-* May 28-29, 2020 *Registration closed*
-* September 15-16, 2020 *Registration closed*
 * [December 1-2, 2020](https://www.eventbrite.com/e/online-instructor-training-december-1-2-2020-n-america-eastern-time-tickets-120455853701) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20201201T09&p1=179&ah=8)*
+* [January 21-22, 2021]() *See the start time in [your local time zone]()*
+* [March 3-4, 2021]() *See the start time in [your local time zone]()*
 
 ### Europe and Africa
 
 #### Western European time
-
-* January 22-23, 2020 *Event Canceled*
-* March 23-24, 2020 *Registration closed*
-* April 30 - May 1, 2020 *Registration closed*
+* [January 25-26, 2021]() *See the start time in [your local time zone]()*
 
 #### Central European/Western African time
-
-* January 20-21, 2020 *Registration closed*
-* April 22-23, 2020  *Registration closed*
-* June 29 - July 2, 2020 *Event canceled*
-* August 3-4, 2020 *Event canceled*
-* November 12-13, 2020  *Registration closed*
+* [February 25-26, 2021]() *See the start time in [your local time zone]()*
