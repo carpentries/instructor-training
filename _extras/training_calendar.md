@@ -66,7 +66,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 ### Europe and Africa
 
 #### Western European time
-* [January 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-january-25-26-2021-central-european-time-tickets-130298399019) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210125T09&p1=195&ah=8)*
+* [February 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-february-25-26-2021-western-european-time-tickets-130298872435) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210225T09&p1=136&ah=8)*
 
 #### Central European/Western African time
-* [February 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-february-25-26-2021-western-european-time-tickets-130298872435) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210225T09&p1=136&ah=8)*
+* [January 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-january-25-26-2021-central-european-time-tickets-130298399019) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210125T09&p1=195&ah=8)*
