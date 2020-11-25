@@ -83,7 +83,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * April 14-15, 2020  *Registration closed*
 * May 28-29, 2020 *Registration closed*
 * September 15-16, 2020 *Registration closed*
-* [December 1-2, 2020](https://www.eventbrite.com/e/online-instructor-training-december-1-2-2020-n-america-eastern-time-tickets-120455853701) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20201201T09&p1=179&ah=8)*
+* December 1-2, 2020  *Registration closed*
 
 ### Europe and Africa
 
