@@ -36,7 +36,9 @@ To offer more flexible options for our community, we are piloting events that ru
     * 5 pm to 9 pm Greenwich Mean Time
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210201T09&p1=137&ah=4)*    
 
-[March 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-march-15-18-2021-n-america-central-time-tickets-130300910531)
+<br>
+
+* [March 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-march-15-18-2021-n-america-central-time-tickets-130300910531)
     * 7 am to 11 am North America Pacific  
     * 9 am to 1 pm North America Central
     * 2 pm to 6 pm Greenwich Mean Time
