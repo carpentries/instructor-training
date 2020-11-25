@@ -30,13 +30,13 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* February 1-4, 2021
+* [February 1-4, 2021]()
     * 9 am to 1 pm North America Pacific
     * 12 noon to 4 pm North America Eastern
     * 5 pm to 9 pm Greenwich Mean Time
     * *See the start time in [your local time zone]()*    
 
-March 15-18, 2021
+[March 15-18, 2021]()
     * 7 am to 11 am North America Pacific  
     * 9 am to 1 pm North America Central
     * 2 pm to 6 pm Greenwich Mean Time
