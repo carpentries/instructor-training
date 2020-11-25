@@ -30,17 +30,17 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* [February 1-4, 2021]()
+* [February 1-4, 2021](https://www.eventbrite.com/e/online-instructor-training-february-1-4-2021-n-america-pacific-time-tickets-130300679841)
     * 9 am to 1 pm North America Pacific
     * 12 noon to 4 pm North America Eastern
     * 5 pm to 9 pm Greenwich Mean Time
-    * *See the start time in [your local time zone]()*    
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210201T09&p1=137&ah=4)*    
 
-[March 15-18, 2021]()
+[March 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-march-15-18-2021-n-america-central-time-tickets-130300910531)
     * 7 am to 11 am North America Pacific  
     * 9 am to 1 pm North America Central
     * 2 pm to 6 pm Greenwich Mean Time
-    * *See the start time in [your local time zone]()*
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210315T09&p1=64&ah=4)*
 
 ## Two day events
 
@@ -49,24 +49,23 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 ### North America
 
 #### Pacific time
-* [December 9-10, 2020](https://www.eventbrite.com/e/online-instructor-training-december-9-10-2020-n-america-pacific-time-tickets-121056690821) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20201209T09&p1=137&ah=8)*
-* [January 13-14, 2021]() *See the start time in [your local time zone]()*
-* [March 25-26, 2021]() *See the start time in [your local time zone]()*
+* [January 13-14, 2021](https://www.eventbrite.com/e/online-instructor-training-january-13-14-2021-n-america-pacific-time-tickets-130296208467) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210113T09&p1=137&ah=8)*
+* [March 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-march-25-26-2021-n-america-pacific-time-tickets-130300356875) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210325T09&p1=137&ah=8)*
 
 
 #### Central time
-* [February 11-12, 2021]() *See the start time in [your local time zone]()*
-* [March 23-24, 2021]() *See the start time in [your local time zone]()*
+* [February 11-12, 2021](https://www.eventbrite.com/e/online-instructor-training-february-11-12-2021-n-america-central-time-tickets-130299696901) *See the start time in [your local time zone]()*
+* [March 23-24, 2021]() *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210211T09&p1=64&ah=8)*
 
 #### Eastern time
 * [December 1-2, 2020](https://www.eventbrite.com/e/online-instructor-training-december-1-2-2020-n-america-eastern-time-tickets-120455853701) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20201201T09&p1=179&ah=8)*
-* [January 21-22, 2021]() *See the start time in [your local time zone]()*
-* [March 3-4, 2021]() *See the start time in [your local time zone]()*
+* [January 21-22, 2021](https://www.eventbrite.com/e/online-instructor-training-january-21-22-2021-n-america-eastern-time-tickets-130297799225) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210121T09&p1=179&ah=8)*
+* [March 3-4, 2021](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2021-n-america-eastern-time-tickets-130300204419) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210303T09&p1=179&ah=8)*
 
 ### Europe and Africa
 
 #### Western European time
-* [January 25-26, 2021]() *See the start time in [your local time zone]()*
+* [January 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-january-25-26-2021-central-european-time-tickets-130298399019) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210125T09&p1=195&ah=8)*
 
 #### Central European/Western African time
-* [February 25-26, 2021]() *See the start time in [your local time zone]()*
+* [February 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-february-25-26-2021-western-european-time-tickets-130298872435) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210225T09&p1=136&ah=8)*
