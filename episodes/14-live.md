@@ -123,7 +123,7 @@ Some instructors use printouts of the lesson material during teaching. Others us
 9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It's OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 
-Read more about these tips by reading [this paper][live-coding-tips-paper]
+Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper]
 
 ## Sticky Notes
 Give each learner two sticky notes of different colours, e.g., yellow and blue.
