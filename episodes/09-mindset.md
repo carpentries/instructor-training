@@ -111,6 +111,7 @@ highlighting our ability to improve with effort.
 
 ## Errors are Essential to Learning
 
+> ## Typos
 > The typos are the pedagogy.
 > — Emily Jane McTavish
 {: .testimonial}
