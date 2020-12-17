@@ -146,20 +146,20 @@ for ch in "abc":
 
 The three key concepts used in this loop are:
 
-![Key Concepts](../fig/for-loop-concepts.png)
+![Three rectangles labelled "loop variable", "collection", and "loop body".](../fig/for-loop-concepts.png)
 
 The key relationships,
 which are as important as the concepts themselves,
 are:
 
-![Relationships](../fig/for-loop-arcs.png)
+!["Loop variable" is connected to "collection" with an arrow labelled "takes each value in order" and to "loop body" with an arrow labelled "changes each time". "Loop body" is connected to "collection" by an arrow reading "runs for each".](../fig/for-loop-arcs.png)
 
 A quick count shows that there are actually 6 things here,
 not just 3,
 so we're already brushing up against the limits of short-term memory.
 If we add two more facts to show things that are usually (but not always) true:
 
-![Recommendations](../fig/for-loop-rec.png)
+![Two arrows are added to the previous figure, showing that the loop variable and collection are usually not changed by the loop body.](../fig/for-loop-rec.png)
 
 the count rises to 8,
 which is a good size for a single teaching episode.
