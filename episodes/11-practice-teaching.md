@@ -150,7 +150,7 @@ Now that you've had some practice observing teaching and giving feedback, let's 
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
 
-![Feedback Feelings](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
+![A three panel comic. In the first panel, a smiling figure is surrounded by speech bubbles with mostly positive feedback. In the second panel, the figure is eating dinner. All of the previous speech bubbles appear faded out, except the one negative bubble. The third panel shows the figure in bed, with an unhappy face, with the one piece of negative feedback lingering after all others have faded.](../fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155")
 
 Feedback is most effective when the people involved
 share ground rules and expectations. In Carpentries teaching, we use the 2x2
@@ -167,7 +167,7 @@ in a way that facilitates growth.
 *   Initiate feedback as the instructor. It's better to ask for feedback than to receive it unwillingly.
 
 *   Ask for and give specific feedback. See a great example of this from
-  this Lunar Baboon comic: ![Giving Good Feedback](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
+  this Lunar Baboon comic: ![A four panel comic. The first panel shows a kid saying, "Dad, that kid said my artwork sucked." In the second panel, the father rolls up his sleeves and says "Oh yeah, well I'm going to teach him a lesson!" In the third panel, the child watches while the father points to a whiteboard on which is written "How to Give Good Feedback: 1) Be positive, 2) Be specific, 3) Give a next step." The fourth panel shows the child saying "Good use of color, but I think it needs more detail." The artist responds "I'll definitely consider that, thanks."](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
 
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
