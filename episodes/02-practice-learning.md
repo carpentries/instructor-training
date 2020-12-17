@@ -52,7 +52,8 @@ in her studies of
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
 the three stages of this model are:
 
-![Novice, Competent Practitioner, Expert](../fig/skill-level.svg)
+![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath the people,
+an arrow labelled "Experience level" points from left to right. Underneath the figure labelled "Novice" a quote says "I'm not sure what questions to ask." The Competent Practitioner says "I'm pretty confident, but I still look stuff up a lot!" The Expert says "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
 
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
@@ -102,7 +103,7 @@ does not have to be completely accurate in order to be useful:
 for example, the average driver's mental model of how a car works probably doesn't include
 most of the complexities that a mechanical engineer would be concerned with.
 
-![Mental Models](../fig/mental_models.svg)
+![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
 We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/03-expertise/).
 
