@@ -107,7 +107,7 @@ the bottom. In the long term, everybody wants to be at the top. However, in aimi
 need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and
 guiding them to look ahead to where we might not be able to take them.
 
-![Bloom's Taxonomy](../fig/Blooms.png)
+![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create. Next to each level is a description of that stage and a list of action verbs associated with each level. From the bottom - Remember is recall facts and basic concepts: define, duplicate, list, memorize, repeat, state. Understand is explain ideas or concepts: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate. Apply is use information in new situations: execute, implement, solve, use, demonstrate, interpret, operate, schedule, sketch. Analyze is draw connections among ideas: differentiate, organize, relate, compare, contrast, distinguish, examine, experiment, question, test. Evaluate is justify a stand or decision: appraise, argue, defend, judge, select, support, value, critique, weight. Create is produce new or original work: design, assemble, construct, conjecture, develop, formulate, author, investigate.](../fig/Blooms.png)
 
 Image credit: Vanderbilt University Center for Teaching
 

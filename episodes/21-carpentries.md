@@ -47,7 +47,7 @@ Maintainers, helpers, and supporters from
 [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }})
 who share a mission to teach foundational computational and data science skills.
 
-![A brief history](../fig/SWCDChistory.png)
+![A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organized in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.](../fig/SWCDChistory.png)
 
 You can learn more about the history and goals of each Lesson Program by reading
 "[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)",
@@ -91,7 +91,7 @@ computational challenges,
 
 In a visual representation, these similarities and differences look like this:
 
-![The Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20200904.svg)
+![Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have modular a curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.](../fig/carpentries-venn-diagram_20200904.svg)
 
 
 ## What is a Carpentries Workshop? The Rules.
