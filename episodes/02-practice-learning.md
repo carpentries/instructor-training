@@ -300,7 +300,7 @@ but each of the other answers provides valuable insight.
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
 >> *   If they answer 312, they know that they cannot just discard the carried '1',
->>     but does not understand that it is actually a ten
+>>     but do not understand that it is actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
 >>     they are treating each column of numbers as unconnected to its neighbors.
