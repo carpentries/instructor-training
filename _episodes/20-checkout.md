@@ -36,6 +36,7 @@ As you read in your homework last night, there are three final steps to complete
 2.  Take part in a [community discussion][discussion] with experienced Instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
+
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
 extensions for up to a year may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
@@ -66,6 +67,15 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 >
 > If you'd prefer to do your teaching demonstration before your discussion,
 > visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
+>
+> __Note:__
+> When you're scheduling you may see extra information on some sessions. These
+> sessions may be themed (community discussions) or sub community focused(teaching demos)
+> , be careful to select a session that matches your interests and needs. A themed
+> Community Discussion may not leave you time to ask questions about your upcoming
+> workshop. A focused teaching demo may, for example, be offered in a language
+> other than English. 
+>  
 >
 > This exercise should take 5 minutes.
 {: .challenge}

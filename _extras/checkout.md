@@ -4,6 +4,7 @@ title: "Checkout Procedure"
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: https://pad.carpentries.org/teaching-demos
 discussionpad: http://pad.software-carpentry.org/community-discussions
+discussioninfo: https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html
 ---
 
 ## Brief Overview and Rationale
@@ -134,7 +135,7 @@ community [contributed guide](https://github.com/dmgt/swc_github_flow/blob/maste
 ## Part 2: Take Part in An Online Community Discussion Session
 <a name="discussion-session"></a>
 
-The next step is to take part in an hour-long community discussion session
+The next step is to take part in an hour-long [community discussion session]({{page.discussioninfo}})
 led by an experienced instructor.
 These sessions give you a chance to ask questions about the material
 you plan on teaching
@@ -146,14 +147,20 @@ please see our [Community Calendar]({{page.calendar}}) for times.
 You can sign up for a session on [the community discussions Etherpad]({{page.discussionpad}});
 if none of the available times work for you,
 or if you need any special arrangements,
-please [let us know](mailto:{{ site.email }})
+please [let us know](mailto:{{ site.email }}).
+
+> ## Community Focus
+>
+> Community Discussions can take many forms, read the Etherpad carefully when
+> signing up to be sure you sign up for a session that meets your needs and interests.
+{: .callout}
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
 rather than open-air speakers and your laptop's built-in microphone,
 since the latter often lead to audio quality problems.
 
-To prepare for your session,
+To prepare for a Pre- and Post- workshop Community Discussion,
 pick one lesson that you plan on teaching and read the whole lesson.
 As you are reading, make notes about the following:
 
@@ -205,6 +212,12 @@ they will notify the training coordinator.
 The final step is to sign up for a 5-minute demonstration online using
 [the teaching demo schedule Etherpad]({{page.demopad}})
 (or add yourself to the top of the pad if none of the available times work for you).
+
+> ## Community Focus
+>
+> Some teaching demos may be focused for a specific sub-community, carefully read
+> the Etherpad when you're signing up.
+{: .callout}
 
 The link to connect to the video conference is at the top of the Etherpad.
 Please be sure to use a headset with a built-in microphone during the session
