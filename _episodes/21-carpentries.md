@@ -282,6 +282,12 @@ and is a good place to start when looking for ways to contribute.
 > Library Carpentry lesson format, you can find a template and instructions in
 > [The Carpentries lesson example repository]({{ site.example_repo }}),
 > and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
+> 
+> Any lesson that uses The Carpentries [lesson template][lesson-template],
+> follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] 
+> can be hosted in The Carpentries Incubator. 
+> Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
+> the backwards design approach we recommend for lesson development.
 {: .callout}
 
 > ## Many Ways to Contribute
