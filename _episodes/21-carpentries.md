@@ -282,10 +282,10 @@ and is a good place to start when looking for ways to contribute.
 > Library Carpentry lesson format, you can find a template and instructions in
 > [The Carpentries lesson example repository]({{ site.example_repo }}),
 > and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
-> 
+>
 > Any lesson that uses The Carpentries [lesson template][lesson-template],
-> follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] 
-> can be hosted in The Carpentries Incubator. 
+> follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
+> can be hosted in The Carpentries Incubator.
 > Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
 > the backwards design approach we recommend for lesson development.
 {: .callout}
@@ -344,3 +344,8 @@ build local and global communities of practice around  skills for data analysis,
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
+[lesson-template],
+[cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cdh]: https://cdh.carpentries.org/
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
