@@ -87,7 +87,7 @@ The lesson materials are hosted on GitHub:
 *   [Data Carpentry on GitHub]({{ site.dc_github }})
 *   [Library Carpentry on GitHub]({{ site.lc_github }})
 *   [Software Carpentry on GitHub]({{ site.swc_github }})
-*   [Community-developed lessons on GitHub][carpentires-incubator]
+*   [Community-developed lessons on GitHub][carpentries-incubator]
 
 and are developed collaboratively.  Each lesson is in a separate
 repository, and consists of narrative lesson material and an
