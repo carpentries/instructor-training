@@ -74,8 +74,8 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 > , be careful to select a session that matches your interests and needs. A themed
 > Community Discussion may not leave you time to ask questions about your upcoming
 > workshop. A focused teaching demo may, for example, be offered in a language
-> other than English. 
->  
+> other than English.
+>
 >
 > This exercise should take 5 minutes.
 {: .challenge}
@@ -87,7 +87,7 @@ The lesson materials are hosted on GitHub:
 *   [Data Carpentry on GitHub]({{ site.dc_github }})
 *   [Library Carpentry on GitHub]({{ site.lc_github }})
 *   [Software Carpentry on GitHub]({{ site.swc_github }})
-
+*   [Community-developed lessons on GitHub][carpentires-incubator]
 
 and are developed collaboratively.  Each lesson is in a separate
 repository, and consists of narrative lesson material and an
@@ -136,6 +136,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 {: .callout}
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
+[carpentries-incubator]: https://github.com/carpentries-incubator/
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.carpentries.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos
