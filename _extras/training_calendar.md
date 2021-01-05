@@ -51,7 +51,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 ### North America
 
 #### Pacific time
-* [January 13-14, 2021](https://www.eventbrite.com/e/online-instructor-training-january-13-14-2021-n-america-pacific-time-tickets-130296208467) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210113T09&p1=137&ah=8)*
+* January 13-14, 2021 *Registration Closed*
 * [March 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-march-25-26-2021-n-america-pacific-time-tickets-130300356875) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210325T09&p1=137&ah=8)*
 
 
