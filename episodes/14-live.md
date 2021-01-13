@@ -16,11 +16,12 @@ keypoints:
 - "Mistakes made during participatory live coding are valuable learning opportunities."
 ---
 
-One of the cornerstones of Software and Data Carpentry teaching is live
+One of the cornerstones of The Carpentries teaching is live
 coding: *instructors don't use slides*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation.
+gives general tips for an effective participatory live coding presentation. We'll
+finish this section by practicing ourselves and providing feedback for each other. 
 
 ## Why Participatory Live Coding?
 
@@ -68,7 +69,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> have questions not directly addressed in the text of the lesson.
 >> * It can be hard for learners to listen and type at the same time, due to the  
 >> *split-attention effect* we
->> [discussed earlier]( {{ page.source }}/instructor-training/05-memory/#why-guided-practice-is-important).
+>> [discussed earlier]({{ page.root }}{% link _episodes/05-memory.md %}#why-guided-practice-is-important).
 >> This is why it's
 >> very important that instructors first explain what they're going to do, then
 >> say what they are typing as they type it, and then
@@ -84,7 +85,7 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It's
 important to keep in mind, however, that feedback isn't helpful if you can't understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier]({{ page.source }}/instructor-training/09-mindset/#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
+[we learned earlier]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
 
 > ## Compare and Contrast
 >
@@ -116,11 +117,13 @@ Many error messages are obscure and not written with novices in mind. Continue t
 4. **Use your screen wisely.** Use a big font, and maximize the window.  A black font on a white background works better than a light font on a dark background.  When the bottom of the projector screen is at the same height, or below, the heads of the learners, people in the back won't be able to see the lower parts.  Draw up the bottom of your window(s) to compensate. Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, re-position the tables so all learners can see the screen, and helpers can easily reach all learners.
 5. **Use illustrations** to help learners understand and organize the material. You can also generate the illustrations on the board as you progress through the material.  This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching.  It helps learners understand the material, makes for a more lively workshop and gathers the learners' attention to you as well.
 6. **Turn off notifications** on your laptop and phone.
-7. **Stick to the lesson material.** The core Software and Data Carpentry lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Don't do this, since there is a fair chance you'll run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
+7. **Stick to the lesson material.** The core Carpentries lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Don't do this, since there is a fair chance you'll run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
 Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
 8. **Leave no learner behind.** Use sticky notes, see below, to gauge learners' progress and understanding.
-9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]( {{ page.root }}/09-mindset/#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
+9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It's OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
+
+Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper]
 
 ## Sticky Notes
 Give each learner two sticky notes of different colours, e.g., yellow and blue.
@@ -140,6 +143,15 @@ problem.
 
 Remind learners frequently about using their sticky notes, or they (and you) will forget.
 
+> ## Accessibility of Sticky Notes
+> We strongly encourage you to get sticky notes in colors other than red and green, 
+> as we have found that some learners (not to mention helpers and instructors!) 
+> may have colorblindness and thus cannot properly ask for/give help this way. 
+> Alternate ideas are to use differently-shaped sticky notes (stars and squares, 
+> thumbs up that can be turned into thumbs down stickies), or to use one sticky note 
+> as a flag for help.
+{: .callout}
+
 > ## Practice Teaching
 >
 > Teach 3 minutes of your chosen lesson episode using live coding to one or two
@@ -153,13 +165,10 @@ Remind learners frequently about using their sticky notes, or they (and you) wil
 > using the 2x2 rubric we discussed previously and enter the feedback
 > you received in the Etherpad.
 >
-> To make this exercise as similar to the workshop experience as possible,
-> ask your fellow trainees to code along with you, as if they were learners at your
-> workshop.
->
 > This exercise should take about 25 minutes.  
 {: .challenge}
 
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
+[live-coding-tips-paper]: https://doi.org/10.1371/journal.pcbi.1008090
