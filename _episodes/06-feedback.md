@@ -7,7 +7,7 @@ questions:
 - "How can I get feedback from learners?"
 - "How can I use this feedback to improve my teaching?"
 objectives:
-- "Describe three feedback mechanisms used in Carpentry workshops."
+- "Describe three feedback mechanisms used in Carpentries workshops."
 - "Give feedback to your instructors."
 keypoints:
 - "Give your learners time to fill out the post-workshop survey at the end of your workshop."
@@ -23,17 +23,30 @@ at multiple points in the workshop and in different forms.
 
 ## Surveys
 
-Carpentry learners fill out a survey before attending and immediately after a workshop. 
+Carpentries learners fill out a survey before attending and immediately after a workshop. 
 These surveys include questions to help instructors get an idea of their attendees prior
 experience and backgrounds before the workshop starts. Using this information, instructors
 can start to plan how they will approach the materials and what level of exercises
 are likely to be appropriate for their learners. 
 
-You can preview the surveys your learners will receive at the links below:  
-- [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
-- [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
-- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
-- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
+You can preview the surveys your learners will take at the links below:
+
+- [Pre-workshop survey](https://carpentries.typeform.com/to/wi32rS?__dangerous-disable-submissions)
+- [Post-workshop survey](https://carpentries.typeform.com/to/UgVdRQ?__dangerous-disable-submissions)
+
+If you'd like have an overview of the questions asked in the surveys without having to go through
+all the questions, you can preview them in a text-format below:
+
+- [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
+- [Post-workhop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
+
+> ## Survey links
+>
+> The survey links above are just for you to preview the survey as part of
+> Instructor Training. When you are teaching a workshop, make sure to share the
+> links that gets generated on your workshop website. Doing so will ensure that
+> you will receive all the survey results from your workshop participants.
+{: .checklist}
 
 > ## Timing Matters
 > 
@@ -42,7 +55,7 @@ You can preview the surveys your learners will receive at the links below:
 > of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
 > post-workshop survey at the end of your workshop. You'll be helping them (they get a
-> bit of a rest), yourself (you'll get more useful feedback), and the Carpentries.
+> bit of a rest), yourself (you'll get more useful feedback), and The Carpentries.
 {: .callout}
 
 ## Minute Cards

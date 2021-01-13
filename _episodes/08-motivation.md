@@ -1,7 +1,7 @@
 ---
 title: "Motivation and Demotivation"
 block: "Creating a Positive Learning Environment"
-teaching: 20
+teaching: 30
 exercises: 45
 questions:
 - "Why is motivation important?"
@@ -17,8 +17,12 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-In order for learners to step out into new and unfamiliar terrain, they will
-need encouragement.  This section discusses typical ways that
+In the morning we covered some educational research and how we can apply it
+to teaching Carpentries workshops.  Part of this afternoon will cover
+another important aspect of being a Carpentries Instructor: fostering a
+positive learning environment.
+
+This section discusses typical ways that
 learners are motivated (and can be demotivated!) and provides practice opportunities
 for you to become confident in motivating your learners.
 
@@ -29,28 +33,57 @@ for learner success. As instructors, it is crucial to establish the workshop set
 as a safe space for learning. Establishing a safe space for learning is a combination
 of many factors:
 
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When done well, these errors can be very instructive for novice learners.
-+ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a Code of Conduct or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
++ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
++ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
 + *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
 + *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 ## Teach Most Useful First
 
-People learn best when they care about a topic and believe they can master it.
-This presents us with a problem
-because most scientists don't want to program:
-they want to do science.
-In addition,
-their early experiences with computers are often demoralizing,
-and believing that something will be hard to learn is a self-fulfilling prophecy.
+One way to build a positive classroom environment is to create a space
+that cultivates and encourages learners' motivations.
 
+People learn best when they care about a topic and believe they can master it.
+Many scientists might know vaguely the value of programming
+but find it intimidating, and struggle with how to get started.
+This presents us with a problem because believing that something will be hard
+to learn often becomes a self-fulfilling prophecy.
+
+We have therefore adopted a "teach most immediately useful first" approach.
+We try to have learners do something that *they* think is useful in their daily work
+within 15 minutes of starting each lesson.
+This not only motivates them,
+it also helps build their confidence in us,
+so that if it takes longer to get to something they find useful in a later topic,
+they'll persist with the lesson.
+
+To do this, we as instructors need to go through the work of identifying
+what to teach first (or at all!).
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
 Everything that's quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
 don't belong in our workshops.
 
-![What to Teach](../fig/what-to-teach.png)
+![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
+
+Another way to think about the graph shown above is "authentic tasks."
+An authentic task is exactly what it sounds like -- a real task performed
+by someone doing their work. If you can identify authentic tasks from your
+own work that could be useful to others, these examples will be highly
+motivating.
+
+> ## Authentic Tasks: Think, Pair, Share
+>
+> **Think** about some task you did this week that uses one or more of the skills we teach,
+> (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
+> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
+> **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
+> In the class Etherpad, **share** the task and where it fits on the graph.
+> As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
+>
+> This exercise and discussion should take about 10 minutes.
+{: .challenge}
 
 > ## Actual Time
 >
@@ -63,30 +96,10 @@ don't belong in our workshops.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert blind spot]({{ page.root }}/03-expertise/#limitations-of-expertise).
+> please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
 {: .callout}
 
-We have therefore adopted a "teach most immediately useful first" approach.
-We try to have learners do something that *they* think is useful in their daily work
-within 15 minutes of starting each lesson.
-This not only motivates them,
-it also helps build their confidence in us,
-so that if it takes longer to get to something they find useful in a later topic,
-they'll persist with the lesson.
-
-> ## Authentic Tasks: Think, Pair, Share
->
-> **Think** about some task you did this week that uses one or more of the skills we teach,
-> (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
-> and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
-> In the class Etherpad, **share** the task and where it fits on the graph.
-> As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
->
-> This exercise and discussion should take about 10 minutes.  
-{: .challenge}
-
-## Other Motivational Strategies  
+## Other Motivational Strategies
 
 In addition to teaching things that will make our learners' lives easier and focusing
 on authentic tasks, there are a number of other strategies we can use to motivate
@@ -147,7 +160,7 @@ learners.
 > *Pair* up with your neighbor and discuss what motivated you.
 > *Share* the motivational story in the Etherpad.
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Not Just Learners
@@ -159,25 +172,38 @@ learners.
 > particularly when they are volunteers.
 {: .callout}
 
-> ## Why Do You Teach?
+> ## Why Do You Teach? (Optional)
 >
 > We all have a different motivation for teaching, and that is a really good thing!
-> The Carpentries want instructors with diverse backgrounds because you each bring something
-> unique to our community.  
+> The Carpentries wants instructors with diverse backgrounds because you each bring something
+> unique to our community.
 >
 > What motivates you to teach? Write a short explanation of what motivates you to teach.
-> Save this as part of your teaching philosophy for future reference.  
+> Save this as part of your teaching philosophy for future reference.
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 ## How Not to Demotivate Your Learners
 
-One of our biggest challenges as instructors when teaching a workshop is to not demotivate participants through our words or actions. None of us goes into
+Motivation can go both ways. Besides using strategies to motivate learners,
+one of our additional challenges as instructors
+is to not **demotivate** participants through our words or actions. None of us goes into
 a workshop with the intention of creating a hostile environment or making the learners
 hate the tools we're teaching, but we can all accidentally do just that if we don't
 pay attention to what we say and how we interact with our learners. We'll discuss some
 common demotivators and help you develop strategies for avoiding them.
+
+> ## Brainstorming Demotivational Experiences
+>
+> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
+> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
+> *Share* your story in the Etherpad.
+>
+> If time, what themes do you see among the stories?  What are positive actions you could take to avoid these?
+>
+> This exercise should take about 5 minutes.
+{: .challenge}
 
 ### Things You Shouldn't Do in a Workshop
 
@@ -220,22 +246,13 @@ likes to be made fun of, and talking badly about people who use GUIs, or who are
 writing their thesis in LaTeX is unlikely to make them excited about learning your
 favorite scripting language.
 
-> ## Brainstorming Demotivational Experiences 
->
-> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
-> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
-> *Share* your story in the Etherpad.  
->
-> This exercise should take about 5 minutes.  
-{: .challenge}
-
-## Psychological Demotivators
+## Systemic and Psychological Demotivators
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
-of text editors and levels of technical knowledge. This helps a lot in avoiding
-demotivating learners. There are other factors, however, that contribute to demotivation,
-some of which are either systemic, or built into our psychological makeup as human beings.
-We can still have a positive impact in fighting these demotivators by thinking carefully about
+of text editors and levels of technical knowledge. There are other factors, however, that contribute to demotivation,
+some of which are either systemic, or built into our psychological makeup as human beings. We can't
+always control these demotivators - often they come from outside classrom - but we can
+be aware of them, and take certain actions to lessen their impact by thinking carefully about
 the language that we use and how we interact with our learners.
 
 ### Stereotype Threat
@@ -256,7 +273,11 @@ Another is that there are [questions about the replicability of key studies][jus
 What *is* clear is that we need to avoid thinking in terms of a deficit model
 (i.e., we need to change the members of under-represented groups because they have some deficit,
 such as lack of prior experience) and instead use a systems approach
-(i.e., we need to change the system because it produces these disparities).
+(i.e., we need to change the system because it produces these disparities). We
+can also not highlight people based on their identity with a minority group; for
+example, it's not a good idea to say something like "I'm so glad you're here because
+we don't get enough women in programming." That may sound positive,
+but draws attention to the stereotype that women aren't good at programming.
 
 > ## Never Learn Alone
 >
@@ -272,17 +293,6 @@ such as lack of prior experience) and instead use a systems approach
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
 
-> ## The Importance of Having Rules
->
-> Software Carpentry and Data Carpentry share a
-> [Code of Conduct]({{ site.swc_site }}/conduct/),
-> and all participants in our workshops are required to abide by it.
-> Its details are important,
-> but the most important thing about it is that it exists:
-> knowing that we have rules
-> tells people a great deal about our values
-> and about what kind of learning experience they can expect.
-{: .callout}
 
 ### Impostor Syndrome
 
@@ -291,8 +301,7 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
-![XKCD's take on imposter syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)  
-https://xkcd.com/1954/
+![One stick figure introducing another to a third says, "This is Dr. Adams. She's a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, don't be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and
 criticized publicly. In addition,
@@ -331,7 +340,7 @@ The Ada Initiative has
 for teaching about and dealing with imposter syndrome.
 
 > ## Overcoming Imposter Syndrome (Optional)
-> 
+>
 > Think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
 > In the Etherpad, describe how you might use this as a motivational story to help your learners
@@ -378,9 +387,9 @@ and that any additional concerns are likely to be addressed.
 The first step is to know what you need to do. There are a number of good resources for learning
 about accessibility.
 
-> ## One Thing
+> ## Learning about Accessibility
 >
-> The UK Home Office has put together a set of posters of dos and don'ts for making
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
 > visual and web-based materials more accessible for different populations. Take a look at one of
 > [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and
 > put one thing you've learned in the Etherpad.
@@ -391,6 +400,14 @@ about accessibility.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
+
+> ## Accessibility and PDFs
+>
+> The posters above are in PDF format - which itself can sometimes be inaccessible to people
+> who use screen readers. If you know of a similar resource describing accessibility guidelines
+> that would be more accessible than what's linked above, open an issue on our instructor
+> training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
+{: .callout}
 
 The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
 is a good starting point focused primarily on assisting the visually impaired,
@@ -409,12 +426,12 @@ The third,
 and most important,
 is to *involve people with disabilities in decision-making*.
 Our mailing lists are a good place to ask for advice,
-and updates to [our accessibility checklist]({{ site.swc_site }}/checklists/accessibility/)
+and updates to [our accessibility checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility)
 are always welcome.
 
 
 > ## What Happens When Accessibility is an Issue? (Optional)
-> 
+>
 > Think of a time when you've been affected by, or noticed someone else
 > being affected by issues with accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
@@ -482,6 +499,21 @@ such as:
     e.g.,
     use of jargon or "questions" that are actually asked to display knowledge.
 
+## Setting Expectations with the Code of Conduct
+
+Finally, a important way that The Carpentries fosters an inclusive, respectful
+learning environment is our [Code of Conduct]({{ site.coc }}).
+
+To make clear what is expected,
+all participants in our workshops are required to conform to the
+[Code of Conduct]({{ site.coc }}).
+ Its details are important,
+but the most important thing about it is that it exists:
+knowing that we have rules
+tells people a great deal about our values
+and about what kind of learning experience they can expect.
+
+We will discuss the Code of Conduct in greater detail tomorrow.
 
 [ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915

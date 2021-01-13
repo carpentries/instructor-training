@@ -29,14 +29,17 @@ repository: <USERNAME>/<PROJECT>
 email: "checkout@carpentries.org"
 
 # Sites.
-amy_site: "https://amy.software-carpentry.org/workshops"
+amy_site: "https://amy.carpentries.org/workshops"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"
 dc_site: "http://datacarpentry.org"
+dc_github: "https://github.com/datacarpentry"
 example_repo: "https://github.com/carpentries/lesson-example"
 example_site: "https://carpentries.github.io/lesson-example"
-lc_site: "https://librarycarpentry.github.io/"
+lc_site: "https://librarycarpentry.org/"
+lc_github: "https://github.com/LibraryCarpentry"
+lc_pages: "https://librarycarpentry.github.io"
 swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
@@ -44,15 +47,9 @@ template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
+coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 
 # Surveys.
-swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
-training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
-dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id="
-dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
-lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
-lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
 instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id="
 instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id="
 
@@ -91,6 +88,7 @@ exclude:
   - Makefile
   - bin/
   - .Rproj.user/
+  - files/rubric.md
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge

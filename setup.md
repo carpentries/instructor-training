@@ -14,13 +14,19 @@ training_site: https://carpentries.github.io/instructor-training
     You will be using your selected episode for several in-class exercises,
     so be sure you are comfortable with the content.
 
-3.  We will be recording one another teaching in pairs or threes during the class,
+For In-Person Events: 
+
+3\.  We will be recording one another teaching in pairs or threes during the class,
     so please bring a cell phone or hand-held camera that can record audio and video.
     It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-4.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
+4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
     (a tablet won't be sufficient).
 
+For Online Events:
+
+3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full 2-days. You will need to have
+    the bandwidth to transmit video during your practice exerises.
 
 After this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
@@ -46,5 +52,11 @@ Please read through *one* of the episodes below carefully, so that you can do so
 * [Working with Files and Directories in the Unix Shell]({{ site.swc_pages }}/shell-novice/03-create/)
 * [Tracking Changes in Git]({{ site.swc_pages }}/git-novice/04-changes/)
 * [Selecting Data in SQL]({{ site.swc_pages }}/sql-novice-survey/01-select/)
-* [Repeating Actions with Loops in Python]({{ site.swc_pages }}/python-novice-inflammation/02-loop/)
+* [Repeating Actions with Loops in Python]({{ site.swc_pages }}/python-novice-inflammation/04-loop/)
 * [Exploring Data Frames in R]({{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/)
+
+**Library Carpentry**
+
+* [Working with Files and Directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)  
+* [Automating the Tedious with Loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)
+* [Importing Data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html)
