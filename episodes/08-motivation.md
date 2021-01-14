@@ -22,48 +22,38 @@ to teaching Carpentries workshops.  Part of this afternoon will cover
 another important aspect of being a Carpentries Instructor: fostering a
 positive learning environment.
 
+Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do to facilitate the cognitive processes
+necessary for learning to occur. But anyone who has spent time in a classroom can tell you that any technique can fall flat when learners are not motivated.
+Indeed "but the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
+
+It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
+However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to avoid doing harm to the precious drive your 
+learners bring to the classroom themselves.
+
 This section discusses typical ways that
-learners are motivated (and can be demotivated!) and provides practice opportunities
+learners can be motivated (or demotivated!) by instrutional content and practices, and provides practice opportunities
 for you to become confident in motivating your learners.
 
-## Creating A Positive Learning Environment
+## How Does Content Influence Motivation?
 
-Creating a positive learning environment is an important first step to setting the stage
-for learner success. As instructors, it is crucial to establish the workshop setting
-as a safe space for learning. Establishing a safe space for learning is a combination
-of many factors:
-
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
-+ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
-+ *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
-
-## Teach Most Useful First
-
-One way to build a positive classroom environment is to create a space
-that cultivates and encourages learners' motivations.
-
-People learn best when they care about a topic and believe they can master it.
-Many scientists might know vaguely the value of programming
-but find it intimidating, and struggle with how to get started.
-This presents us with a problem because believing that something will be hard
+People learn best when they care about a topic and believe they can master it with a reasonable investment of time and effort.
+Many scientists might appreciate the value of programming
+but believe that developing useful skills will take more time than they have available.
+This presents a problem because believing that something will take a long time
 to learn often becomes a self-fulfilling prophecy.
 
-We have therefore adopted a "teach most immediately useful first" approach.
-We try to have learners do something that *they* think is useful in their daily work
-within 15 minutes of starting each lesson.
+One way to combat this problem is to begin a lesson with something that is quick to learn and immediately useful. 
+It is particularly important that *learners* see it as useful in their daily work.
 This not only motivates them,
 it also helps build their confidence in us,
 so that if it takes longer to get to something they find useful in a later topic,
-they'll persist with the lesson.
+they will persist with the lesson.
 
-To do this, we as instructors need to go through the work of identifying
-what to teach first (or at all!).
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
-Everything that's quick to master, and immediately useful should be taught first;
+Everything that is quick to master, and immediately useful should ideally be taught first;
 things in the opposite corner
-that are hard to learn and have little near-term application
-don't belong in our workshops.
+that are time-consuming to learn and have little near-term application
+should be avoided in our workshops.
 
 ![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
 
@@ -78,7 +68,7 @@ motivating.
 > **Think** about some task you did this week that uses one or more of the skills we teach,
 > (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-> **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
+> **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness". 
 > In the class Etherpad, **share** the task and where it fits on the graph.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
@@ -95,9 +85,14 @@ motivating.
 > but most graphical editors save things to the user's desktop or home directory.
 > If people need to run shell commands on the files they've edited,
 > a substantial fraction won't be able to navigate to the right directory without help.
-> If this seems like a small problem to you,
-> please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
+> These sorts of unexpected hang-ups frequently occur when instructors have not fully explored their [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
+> If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
 {: .callout}
+
+While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
+workshops may start at the beginning of the workflow, for example. And even when a 'motivating example' is built in to the start of a workshop, technical 
+problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
+be mindful of the fact that your environment is not motivating, and to strategize your rescue using some of the other techniques in this section.
 
 ## Other Motivational Strategies
 
@@ -702,6 +697,16 @@ Because of this, we need to reframe help-seeking behavior as a
 positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a
 positive learning community.
+
+# Graveyard (delete)
+
+Establishing a safe space for learning is a combination
+of many factors:
+
++ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
++ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
++ *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
++ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
