@@ -9,12 +9,11 @@ questions:
 objectives:
 - "Identify authentic tasks and explain why teaching using them is important."
 - "Develop strategies to avoid demotivating learners."
-- "Recognize and overcome imposter syndrome in yourself and your learners."
+- "Distinguish praise based on the type of mindset it promotes."
 keypoints:
 - "A positive learning environment helps people concentrate on learning."
-- "People learn best when they see the utility in what they're learning, so teach what's most immediately useful first."
-- "Imposter syndrome is a powerful force, but can be overcome."
-- "Accessibility benefits everyone."
+- "People learn best when they see the utility in what they're learning and believe it can be accomplished with reasonable effort."
+- "Encouraging participation and embracing errors helps learners to stay motivated."
 ---
 
 Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do when teaching to facilitate the cognitive processes
