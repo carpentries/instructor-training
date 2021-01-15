@@ -23,12 +23,12 @@ another important aspect of being a Carpentries Instructor: fostering a
 positive learning environment.
 
 Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do to facilitate the cognitive processes
-necessary for learning to occur. But anyone who has spent time in a classroom can tell you that any technique can fall flat when learners are not motivated.
-Indeed "but the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
+necessary for learning to occur. But any technique can fall flat when learners are not motivated. And demotivation is contagious!
+Indeed "the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
 
 It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
 However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to avoid doing harm to the precious drive your 
-learners bring to the classroom themselves.
+learners bring to the classroom on day one. 
 
 This section discusses typical ways that
 learners can be motivated (or demotivated!) by instrutional content and practices, and provides practice opportunities
@@ -39,10 +39,10 @@ for you to become confident in motivating your learners.
 People learn best when they care about a topic and believe they can master it with a reasonable investment of time and effort.
 Many scientists might appreciate the value of programming
 but believe that developing useful skills will take more time than they have available.
-This presents a problem because believing that something will take a long time
-to learn often becomes a self-fulfilling prophecy.
+This presents a problem because **believing that something will take a long time
+to learn often becomes a self-fulfilling prophecy**.
 
-One way to combat this problem is to begin a lesson with something that is quick to learn and immediately useful. 
+One way to combat this problem is to begin a lesson with something that is **quick to learn and immediately useful**. 
 It is particularly important that *learners* see it as useful in their daily work.
 This not only motivates them,
 it also helps build their confidence in us,
@@ -92,71 +92,39 @@ motivating.
 While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
 workshops may start at the beginning of the workflow, for example. And even when a 'motivating example' is built in to the start of a workshop, technical 
 problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-be mindful of the fact that your environment is not motivating, and to strategize your rescue using some of the other techniques in this section.
+**be mindful of times when your content is not motivating**, and to strategize your rescue using some of the other techniques in this section.
 
-## Other Motivational Strategies
+## How Can Instructional Approach Influence Motivation?
 
 In addition to teaching things that will make our learners' lives easier and focusing
 on authentic tasks, there are a number of other strategies we can use to motivate
 learners.
 
-> ## Strategies for Motivating Learners
+> ## Brainstorming Motivational Impacts
 >
-> *[How Learning Works][worldcat-hlw]* by Susan Ambrose, et al.,
-> contains this list of evidence-based methods to motivate learners.
->
-> In groups of two or three, pick three of these points and briefly describe
-> in the Etherpad how we can apply these strategies in our workshops.
->
-> * Strategies to Establish Value
->     1. Connect the material to learners' interests.
->     2. Provide authentic, real-world tasks.
->     3. Show relevance to learners' current academic lives.
->     4. Demonstrate the relevance of higher-level skills to learners' future professional lives.
->     5. Identify and reward what you value.
->     6. Show your own passion and enthusiasm for the discipline.
-> * Strategies to Build Positive Expectations
-> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
-> 	2. Identify an appropriate level of challenge.
-> 	3. Create assignments that provide an appropriate level of challenge.
-> 	4. Provide early success opportunities.
-> 	5. Articulate your expectations.
-> 	6. Provide rubrics.
-> 	7. Provide targeted feedback.
-> 	8. Be fair.
-> 	9. Educate learners about the ways we explain success and failure.
-> 	10. Describe effective study strategies.
-> * Strategies for Self-Efficacy
-> 	1. Provide learners with options and the ability to make choices.
-> 	2. Give learners an opportunity to reflect.
->
-> This exercise and discussion should take about 5 minutes.
-{: .challenge}
-
-> ## Provide an Example
->
-> Insert a personal story here about how you establish value in the classroom.
->
-> Or, insert an example story about establishing value, which goes like this:
->
-> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
-> a haiku is used to to teach grep.
-> This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didactic example, I connect my bioinformatics users with domain-specific examples by showing
-> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> consisting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
-> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
-{: .callout}
-
-> ## Brainstorming Motivational Strategies
->
-> *Think* back to a computational (or other) course you took in the past, and
-> identify one thing the instructor did that motivated you.
-> *Pair* up with your neighbor and discuss what motivated you.
-> *Share* the motivational story in the Etherpad.
+> Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either *motivating* or *demotivating*. 
+> Try to think of one example in each case, and share your example under the appropriate heading in the etherpad. 
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
+
+### Inviting Participation
+
+Motivation is supported by active engagement. This allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building 
+confidence. However, in a room full of strangers, most learners will not immediately take it upon themselves to speak up, especially when they feel 
+confusion or doubt. Creating a motivating classroom means inviting communication and reinforcing that invitation with an attentive response.
+
++ *Establishing norms for interaction*. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) also provides a framework for positive communication to occur. 
++ *Encouraging learners to learn from each other*. Working in pairs encourages learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to maximize learning for both.
++ *Acknowledging when learners are confused.* In addition to rewarding learners for expressing confusion, acknowledging and exploring that confusion will contribute to your growth as an instructor, filling in your expert awareness gaps. Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share their confusion, this helps them develop confidence in sharing their own uncertainties.
+
+### Encouraging a Growth Mindset
+
+People vary in how they conceptualize intelligence and skill development. In academic environments, people often become accustomed to being praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
+
+The impact of this kind of philosophy of mind -- called "mindset" by Carol Dweck -- is unclear, but in Carpentries workshops it is extremely common to encounter learners who believe that they are not "computational people," and Instructors often report that this mindset interferes with motivation to engage fully with the task of learning to program.
+
+
 
 > ## Not Just Learners
 >
