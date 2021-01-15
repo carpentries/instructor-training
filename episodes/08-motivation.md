@@ -130,10 +130,27 @@ program. Many learners will automatically interpret errors as indicators of inab
 positive way -- as an opportunity to learn something they would have missed had they not encountered the error -- reinforces a growth mindset and helps them to 
 stay motivated in the face of challenge. Be sure to discuss this with your helpers before a workshop begins, as they are the ones who will most often guide your learners through the process of responding to error they have made.
 
+
+> ## Helping Learners Learn From Mistakes (optional)
+> A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
+> that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
+> `ls` and the name of the directory they are looking at). What would you say to the learner?
+>
+> In the Etherpad, describe the error your learner has made and how you would respond.
+>
+> This exercise and discussion should take about 5 minutes.
+{: .challenge}
+
+
 + **Presenting the instructor as a learner**. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes. Using 
 [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
 coding. Embrace these with enthusiasm! When handled openly, these errors can be very instructive for novice learners -- both with regard to technical details and 
-in demonstrating how to frame errors in a positive light.
+in demonstrating how to frame errors in a positive light. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can help here, too.
+
+> ## Typos
+> The typos are the pedagogy.
+> — Emily Jane McTavish
+{: .testimonial}
 
 + **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes 
 straight to your identity as a person of intellect and skill. When faced with a fixed mindset, many well-intentioned teachers will end up countering with another 
@@ -168,26 +185,26 @@ a temporary state, and encourages a growth mindset towards progress.
 
 When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes create a professional identity around having technical expertise. While sometimes useful for a boost or a laugh in conversation with fellow experts, these can all present serious hazards in the classroom! Here are a few **things you should not do in your classroom:**
 
-*   Talk contemptuously or with scorn about any tool or practice, or people who use them. Regardless of
+*   **Talk contemptuously or with scorn about any tool or practice**, or the people who use them. Regardless of
     its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so.
     Convincing someone to change their practices is much harder when
     they think you disdain them. 
-*   Dive into complex or detailed technical discussion with the one or
+*   **Dive into complex or detailed technical discussion** with the one or
     two people in the audience who clearly don't actually need to be
     there. Reserve those conversations for breaks or follow-up emails.
-*   Pretend to know more than you do.  People will actually trust you
+*   **Pretend to know more than you do**.  People will actually trust you
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
-*   Use the J word ("just") or other demotivating words we talked about in a
+*   **Use the J word ("just") or other demotivating words** we talked about in a
     [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be stupid
     for not being able to figure it out.
-*   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners.
+*   **Take over the learner's keyboard**. It is rarely a good idea to type anything for your learners.
     Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
     that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
     skills that are essential for independent work. 
-*  Feign surprise. Saying things like "I can't believe you don't know X"
+*   **Express surprise at unawareness**. Saying things like "I can't believe you don't know X"
     or "You've never heard of Y?" signals to the learner that they do not have
     some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
     and it may prevent them from asking questions in
@@ -495,89 +512,10 @@ and about what kind of learning experience they can expect.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
-# Mindset
-Our beliefs and attitudes about learning can impact how we learn! In this section
-we examine how learners can create a "positive learning environment" for themselves
-by how they think about learning; and how to model these behaviors as an instructor.
 
-## The Importance of Mindset
+# Move these items to References, then link above and delete
 
-One example of how our beliefs impact learning is Carol Dweck's theory of "mindset".
-
-Dweck, a professor of Psychology at Stanford University, has conducted decades of research focused on understanding
-people's attitudes towards ability, our beliefs about whether ability is ingrained or developed, and how those beliefs
-affect our perseverance in learning. She's discovered that, in any given area, people tend to have either a fixed mindset - believing that
-someone's ability in that area is intrinsic, you're either born with it or you're not - or a growth mindset - believing that, with enough effort,
-almost anyone can learn almost anything. (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
-
-Do you believe that you're just not good at math? Or maybe you're not artistic? Not good at sports? If any of these
-sound like you, you probably have a fixed mindset when it comes to mathematical, artistic and/or athletic ability.
-People with a fixed mindset tend to avoid effort and to give up when faced with failure or challenge. They also
-tend to take fewer risks, be less likely to take an opportunity to learn something new and to feel best about themselves when they perform flawlessly.
-In contrast, people with a growth mindset tend to actively seek challenges and to work harder when faced with failure. They regularly take risks and
-take advantage of opportunities for learning new skills. In fact, initial difficulties in a topic make them more interested and motivated to learn!
-
-People who believe that ability is intrinsic view every situation as a test. A failure indicates that they don't have the natural ability they need
-to succeed. Thus, students with a fixed-mindset will *decrease* their study time after receiving a poor exam score, because they see this score as a
-judgment that they aren't good at that subject and shouldn't waste their time trying. In the same situation, a growth-mindset student will increase
-the amount of time that
-they study, seeing the poor score as an indication that they need to try harder to improve in that area.
-
-Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
-questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
-and receive feedback, which, [as we've discussed]({{ page.root }}{% link _episodes/02-practice-learning.md %}), is essential to learning.
-
-> ## Does Mindset Matter?
-> Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
-> talented" at? Mindset often varies in different areas -- someone might have a fixed mindset with respect to artistic
-> ability, but a growth mindset with respect to computing skill. Then, think about your learners. How might a learner's
-> mindset about computational skill influence their learning in a workshop setting?
->
-> Pair: Discuss your thoughts about the influence of mindset in a workshop. Try to come up with a few different ways or
-> situations in which mindset might be relevant.
->
-> Share: A few thoughts in the Etherpad (or go around the room and discuss)
->
-> This exercise should take about 5 minutes.
-{: .challenge}
-
-If you recognize aspects of the fixed mindset in yourself, don't panic! Like everything else, a growth mindset can be learned. We're going to talk about some
-strategies that will help you promote a growth mindset in your learners and yourself.
-
-## Praise Influences Mindset
-
-One specific way in which instructors can foster a growth mindset in learners
-is in how we praise. [Carol Dweck's research](http://www.ascd.org/publications/educational-leadership/oct07/vol65/num02/The-Perils-and-Promises-of-Praise.aspx)
-investigated three types of praise: performance-based, effort-based and improvement-based, and looked at how these
-types of praise influence learner's mindsets.
-
-We're most used to hearing **performance-based praise**. This sort of praise focuses on outcomes and implies that the
-outcome (for example, getting a correct answer) is the most important part of the task. It is often (but not always)
-combined with language that explicitly or implicitly supports the "intrinsic" model of competence. For example, "You
-did a great job! You must be very smart."
-
-**Effort-based praise** focuses on the learner's hard work. For example, "You did a good job, you must have worked very hard."
-Exposing learners frequently to this type of praise helps them to transition from a fixed mindset to a growth mindset by
-changing their perception of effort. For fixed-mindset people, if something doesn't come easy to you, it means that you
-don't have natural ability and shouldn't bother. People with a growth mindset are much more likely to persevere in the face of challenge
-and accomplish their goals.
-
-**Improvement-based praise** is related to praise based on effort, but explicitly draws a learner's attention to the progress they've made.
-For example, "You're doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
-highlighting our ability to improve with effort.
-
-
-
-## Errors are Essential to Learning
-
-> ## Typos
-> The typos are the pedagogy.
-> — Emily Jane McTavish
-{: .testimonial}
-
-Another example of how our beliefs (in this case, our emotions) impact learning
-is in how we think about errors.  One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being
-fearful of making them.
+(She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
 *Positive error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead
 of having negative consequences. For example, the [Language Acquisition Made Practical](http://www.worldcat.org/title/language-acquisition-made-practical-field-methods-for-language-learners/oclc/935845446?referer=di&ht=edition) (LAMP)
@@ -588,20 +526,10 @@ shown to be useful in learning complex tasks such as programming. In one study, 
 
 How can we incorporate error framing into our lessons? We need to reduce the negative emotions associated with errors, instead casting errors
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)".
-Sharing experiences of learning from errors can encourage learners to adopt a growth-mindset. Associating improvement-based praise with errors
-can also encourage positive emotions associated with making errors in learning. Finally, the use of
-[participatory live coding]({{ page.root }}/14-live/) as the focus for teaching allows for instructors to model how errors can be positively
-framed and the process for overcoming them.
 
-> ## Helping Learners Learn From Mistakes (optional)
-> A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
-> that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
-> `ls` and the name of the directory they are looking at). What would you say to the learner?
->
-> In the Etherpad, describe the error your learner has made and how you would respond.
->
-> This exercise and discussion should take about 5 minutes.
-{: .challenge}
+
+# Graveyard (delete)
+
 
 ## Perseverance Predicts Success
 
@@ -665,15 +593,7 @@ positive behavior to cope with difficulties. Part of this reframing can be model
 and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a
 positive learning community.
 
-# Graveyard (delete)
 
-Establishing a safe space for learning is a combination
-of many factors:
-
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
-+ *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
-+ *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
 
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
