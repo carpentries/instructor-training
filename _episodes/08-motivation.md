@@ -18,16 +18,16 @@ keypoints:
 ---
 
 Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do when teaching to facilitate the cognitive processes
-necessary for learning to occur. But any technique can fall flat when learners are not motivated. And demotivation is contagious!
+necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. And demotivation is contagious!
 Indeed "the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
 
 It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
-However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to avoid doing harm to the precious drive your 
+However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to **avoid doing harm** to the precious drive your 
 learners bring to the classroom on day one. 
 
 The fact is that there is only so much technical learning that can occur during a 2-day workshop. Novices do not emerge from Carpentries workshops as competent 
 practitioners. Short-format training of this kind is situated in the context of *self training*, in which learners begin to develop a roadmap during a workshop of this kind but from there largely proceed on their own. We are a launch point with a guide rail. Therefore, while a need for technical learning is our *raison 
-d'etre*, cultivating motivation to continue that learning, and to carefully pursue best-practices in doing so, is arguably the most important outcome we can achieve.
+d'etre*, **cultivating motivation to continue that learning, and to carefully pursue best-practices in doing so, is arguably the most important outcome we can achieve**.
 
 This section discusses several ways that
 learners can be motivated (or demotivated!) by instrutional content and practices, and provides practice opportunities
@@ -49,7 +49,7 @@ so that if it takes longer to get to something they find useful in a later topic
 they will persist with the lesson.
 
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
-Everything that is quick to master, and immediately useful should ideally be taught first;
+Tasks that are quick to master and immediately useful should ideally be taught first;
 things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
@@ -101,7 +101,7 @@ learners.
 
 > ## Brainstorming Motivational Impacts
 >
-> Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either *motivating* or *demotivating*. 
+> Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either **motivating** or **demotivating**. 
 > Try to think of one example in each case, and share your example under the appropriate heading in the etherpad. 
 >
 > This exercise should take about 5 minutes.
@@ -110,19 +110,96 @@ learners.
 ### Inviting Participation
 
 Motivation is supported by active engagement. This allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building 
-confidence. However, in a room full of strangers, most learners will not immediately take it upon themselves to speak up, especially when they feel 
+confidence. However, in a room full of strangers, most learners will not immediately feel comfortable speaking up, especially when they feel 
 confusion or doubt. Creating a motivating classroom means inviting communication and reinforcing that invitation with an attentive response.
 
-+ *Establishing norms for interaction*. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) also provides a framework for positive communication to occur. 
-+ *Encouraging learners to learn from each other*. Working in pairs encourages learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to maximize learning for both.
-+ *Acknowledging when learners are confused.* In addition to rewarding learners for expressing confusion, acknowledging and exploring that confusion will contribute to your growth as an instructor, filling in your expert awareness gaps. Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share their confusion, this helps them develop confidence in sharing their own uncertainties.
+A few ways to invite participation are:
+
++ **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) also provides a framework for positive communication to occur. 
++ **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to maximize learning for both. In these cases, make sure the less experienced learner is the one doing the typing!
++ **Acknowledging when learners are confused**. In addition to rewarding learners for expressing confusion, acknowledging and exploring that confusion will contribute to your growth as an instructor, filling in your expert awareness gaps. Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share their confusion, this helps them develop confidence in sharing their own uncertainties.
 
 ### Encouraging a Growth Mindset
 
-People vary in how they conceptualize intelligence and skill development. In academic environments, people often become accustomed to being praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
+People vary in how they conceptualize intelligence and skill development. In academic environments, people are often praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
 
-The impact of this kind of philosophy of mind -- called "mindset" by Carol Dweck -- is unclear, but in Carpentries workshops it is extremely common to encounter learners who believe that they are not "computational people," and Instructors often report that this mindset interferes with motivation to engage fully with the task of learning to program.
+The impact of belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- is a continuing topic of research and debate. However, in Carpentries workshops we frequently encounter learners who believe that they are not "computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through effort -- a **growth mindset**.
 
++ **Positive error framing**. Errors are an inevitable part of learning any new skill, and they can be particularly intimidating and frustrating when learning to 
+program. Many learners will automatically interpret errors as indicators of inability -- adopting a fixed mindset. Encouraging learners to understand errors in a 
+positive way -- as an opportunity to learn something they would have missed had they not encountered the error -- reinforces a growth mindset and helps them to 
+stay motivated in the face of challenge. Be sure to discuss this with your helpers before a workshop begins, as they are the ones who will most often guide your learners through the process of responding to error they have made.
+
++ **Presenting the instructor as a learner**. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes. Using 
+[participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
+coding. Embrace these with enthusiasm! When handled openly, these errors can be very instructive for novice learners -- both with regard to technical details and 
+in demonstrating how to frame errors in a positive light.
+
++ **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes 
+straight to your identity as a person of intellect and skill. When faced with a fixed mindset, many well-intentioned teachers will end up countering with another 
+fixed mindset -- "I'm not a computational person" vs "You ARE a computational person!" However, this approach doesn't prepare learners well to interpret future obstacles as irrelevant to innate ability. Evidence suggests that learner perseverence is best supported in the long term by praising effort or improvement instead. If you are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
+
+> ## Choosing our Praises
+> Since we're so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
+> are examples of performance-based, effort-based, or improvement-based praise?
+>
+> - That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
+> - You're getting to be really good at that. See how it pays to keep at it?
+> - Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
+> - That was a hard problem. You didn't get the right answer, but let's look at what you learned trying to solve it!
+> - Look at that - you're a natural!
+>
+>> ## Solution
+>> - Effort-based.
+>> - Improvement-based.
+>> - Performance-based.
+>> - Improvement-based.
+>> - Performance-based. 
+> {: .solution}
+{: .challenge}
+
++ **Leveraging the Power of "Yet"**. A request for help might start with "I can't ___ " or "I don't understand ___ ". Depending on the attitude of the learner, 
+these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasize that being a novice is 
+a temporary state, and encourages a growth mindset towards progress. 
+
+
+
+### First, Do No Harm!
+
+When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes create a professional identity around having technical expertise. While sometimes useful for a boost or a laugh in conversation with fellow experts, these can all present serious hazards in the classroom! Here are a few **things you should not do in your classroom:**
+
+*   Talk contemptuously or with scorn about any tool or practice, or people who use them. Regardless of
+    its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so.
+    Convincing someone to change their practices is much harder when
+    they think you disdain them. 
+*   Dive into complex or detailed technical discussion with the one or
+    two people in the audience who clearly don't actually need to be
+    there. Reserve those conversations for breaks or follow-up emails.
+*   Pretend to know more than you do.  People will actually trust you
+    more if you are frank about the limitations of your knowledge, and
+    will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
+*   Use the J word ("just") or other demotivating words we talked about in a
+    [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
+    the instructor thinks their problem is trivial
+    and by extension that they therefore must be stupid
+    for not being able to figure it out.
+*   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners.
+    Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
+    that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
+    skills that are essential for independent work. 
+*  Feign surprise. Saying things like "I can't believe you don't know X"
+    or "You've never heard of Y?" signals to the learner that they do not have
+    some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
+    and it may prevent them from asking questions in
+    the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
+
+It can be difficult to avoid these demotivators entirely. Some people are so used to
+complaining about Windows with their friends, or talking about how terrible Excel is
+that they initially fail to realize they're doing it while teaching. Teaching yourself
+to avoid these types of comments takes practice, but is well worth the effort. No one
+likes to be made fun of, and talking badly about people who use GUIs, or who aren't
+writing their thesis in LaTeX is unlikely to make them excited about learning your
+favorite scripting language. This is another important conversation to have in advance with your helpers, as well.
 
 
 > ## Not Just Learners
@@ -146,67 +223,8 @@ The impact of this kind of philosophy of mind -- called "mindset" by Carol Dweck
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-## How Not to Demotivate Your Learners
 
-Motivation can go both ways. Besides using strategies to motivate learners,
-one of our additional challenges as instructors
-is to not **demotivate** participants through our words or actions. None of us goes into
-a workshop with the intention of creating a hostile environment or making the learners
-hate the tools we're teaching, but we can all accidentally do just that if we don't
-pay attention to what we say and how we interact with our learners. We'll discuss some
-common demotivators and help you develop strategies for avoiding them.
 
-> ## Brainstorming Demotivational Experiences
->
-> *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
-> *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
-> *Share* your story in the Etherpad.
->
-> If time, what themes do you see among the stories?  What are positive actions you could take to avoid these?
->
-> This exercise should take about 5 minutes.
-{: .challenge}
-
-### Things You Shouldn't Do in a Workshop
-
-*   Tell learners they are rubbish because they use Excel and/or Word,
-    don't modularize their code, etc.
-*   Say negative things about Windows and praise Linux, e.g., say that
-    the former is for amateurs.
-*   Criticize GUI applications (and by implication their users) and
-    describe command-line tools as the One True Way.
-*   Talk contemptuously or with scorn about any tool. Regardless of
-    its shortcomings, many of your learners may be using that tool.
-    Convincing someone to change their practices is much harder when
-    they think you disdain them.
-*   Dive into complex or detailed technical discussion with the one or
-    two people in the audience who clearly don't actually need to be
-    there.
-*   Pretend to know more than you do.  People will actually trust you
-    more if you are frank about the limitations of your knowledge, and
-    will be more likely to ask questions and seek help.
-*   Use the J word ("just") or other demotivating words we talked about in a
-    [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
-    the instructor thinks their problem is trivial
-    and by extension that they therefore must be stupid
-    for not being able to figure it out.
-*   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners.
-    Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
-    that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
-    skills that are essential for independent work.
-*  Feign surprise. Saying things like "I can't believe you don't know X"
-    or "You've never heard of Y?" signals to the learner that they do not have
-    some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
-    and it may prevent them from asking questions in
-    the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
-
-It can be difficult to avoid these demotivators entirely. Some people are so used to
-making fun of Windows-users with their friends, or talking about how terrible Excel is
-that they initially fail to realize they're doing it while teaching. Teaching yourself
-to avoid these types of comments takes practice, but is well worth the effort. No one
-likes to be made fun of, and talking badly about people who use GUIs, or who aren't
-writing their thesis in LaTeX is unlikely to make them excited about learning your
-favorite scripting language.
 
 ## Systemic and Psychological Demotivators
 
@@ -548,24 +566,6 @@ and accomplish their goals.
 For example, "You're doing so much better at this than last time, you must have worked very hard." This helps reinforce a growth-mindset by
 highlighting our ability to improve with effort.
 
-> ## Choosing our Praises
-> Since we're so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
-> are examples of performance-based, effort-based, or improvement-based praise?
->
-> - I like the way you tried a couple of different strategies to solve that problem.
-> - You're getting really good at that. Keep up the hard work!
-> - You're really good at that.
-> - That was a hard problem. You didn't get the right answer, but look at how much you learned trying to solve it!
-> - You're a natural!
->
->> ## Solution
->> - Effort-based.
->> - Improvement-based.
->> - Performance-based.
->> - Improvement-based.
->> - Performance-based. Explicit reference to 'intrinsic' ability.
-> {: .solution}
-{: .challenge}
 
 
 ## Errors are Essential to Learning
