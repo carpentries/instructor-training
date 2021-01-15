@@ -17,12 +17,7 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-In the morning we covered some educational research and how we can apply it
-to teaching Carpentries workshops.  Part of this afternoon will cover
-another important aspect of being a Carpentries Instructor: fostering a
-positive learning environment.
-
-Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do to facilitate the cognitive processes
+Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do when teaching to facilitate the cognitive processes
 necessary for learning to occur. But any technique can fall flat when learners are not motivated. And demotivation is contagious!
 Indeed "the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
 
@@ -30,7 +25,11 @@ It is true that learner motivation is influenced by many factors well beyond the
 However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to avoid doing harm to the precious drive your 
 learners bring to the classroom on day one. 
 
-This section discusses typical ways that
+The fact is that there is only so much technical learning that can occur during a 2-day workshop. Novices do not emerge from Carpentries workshops as competent 
+practitioners. Short-format training of this kind is situated in the context of *self training*, in which learners begin to develop a roadmap during a workshop of this kind but from there largely proceed on their own. We are a launch point with a guide rail. Therefore, while a need for technical learning is our *raison 
+d'etre*, cultivating motivation to continue that learning, and to carefully pursue best-practices in doing so, is arguably the most important outcome we can achieve.
+
+This section discusses several ways that
 learners can be motivated (or demotivated!) by instrutional content and practices, and provides practice opportunities
 for you to become confident in motivating your learners.
 
