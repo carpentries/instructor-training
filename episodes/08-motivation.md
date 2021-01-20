@@ -16,20 +16,22 @@ keypoints:
 - "Encouraging participation and embracing errors helps learners to stay motivated."
 ---
 
-Teaching and learning are not the same process. As we have seen so far, there are many things an instructor can do when teaching to facilitate the cognitive processes
-necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. And demotivation is contagious!
-Indeed "the students just are not motivated" is a common refrain among teachers facing burn-out after years of ineffectual effort. 
+Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
+necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated 
+learners is not fun or rewarding. It can be tempting, especially for teachers facing burnout after strenuous and ineffectual effort, to blame learners for 
+spoiling the classroom experience.
 
 It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
-However, there are many things you can do to cultivate motivation in your classroom, and perhaps more importantly, to **avoid doing harm** to the precious drive your 
-learners bring to the classroom on day one. 
+However, there are many things you can do to cultivate motivation in your classroom, and perhaps most importantly, to **avoid doing harm** to the precious drive your 
+learners bring to the classroom on day one. In Carpentries workshops, most learners come eager to learn! You have the power to influence how they feel when they depart.
 
-The fact is that there is only so much technical learning that can occur during a 2-day workshop. Novices do not emerge from Carpentries workshops as competent 
-practitioners. Short-format training of this kind is situated in the context of *self training*, in which learners begin to develop a roadmap during a workshop of this kind but from there largely proceed on their own. We are a launch point with a guide rail. Therefore, while a need for technical learning is our *raison 
-d'etre*, **cultivating motivation to continue that learning, and to carefully pursue best-practices in doing so, is arguably the most important outcome we can achieve**.
+No two-day workshop can truly bring a total novice to the level of a competent practitioner. Carpentries workshops function in a context of 
+*self training*, in which workshops offer vital tools and a map for learners to proceed on their own. Our workshops lower the barrier to entry and help learners 
+to get off on the right foot. In this context, **cultivating motivation to continue learning, and to carefully pursue best-practices in doing so, is arguably the 
+most important outcome we can achieve**.
 
 This section discusses several ways that
-learners can be motivated (or demotivated!) by instrutional content and practices, and provides practice opportunities
+learners can be motivated (or demotivated!) by instrutional content and approach, and provides practice opportunities
 for you to become confident in motivating your learners.
 
 ## How Does Content Influence Motivation?
@@ -37,7 +39,7 @@ for you to become confident in motivating your learners.
 People learn best when they care about a topic and believe they can master it with a reasonable investment of time and effort.
 Many scientists might appreciate the value of programming
 but believe that developing useful skills will take more time than they have available.
-This presents a problem because **believing that something will take a long time
+This presents a problem because **believing that something will be too hard
 to learn often becomes a self-fulfilling prophecy**.
 
 One way to combat this problem is to begin a lesson with something that is **quick to learn and immediately useful**. 
