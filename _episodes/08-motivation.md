@@ -57,11 +57,11 @@ should be avoided in our workshops.
 
 ![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
 
-Another way to think about the graph shown above is "authentic tasks."
-An authentic task is exactly what it sounds like -- a real task performed
+Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
 own work that could be useful to others, these examples will be highly
 motivating.
+
 
 > ## Authentic Tasks: Think, Pair, Share
 >
@@ -77,28 +77,29 @@ motivating.
 
 > ## Actual Time
 >
-> Any useful estimate of how long something takes to master must take into account
-> how frequent failures are
+> Any useful estimate of time must take into account
+> **how frequent failures are**
 > and how much time is lost to them.
 > For example,
-> editing a text file seems like a simple task,
+> editing a text file seems like a quick task,
 > but most graphical editors save things to the user's desktop or home directory.
-> If people need to run shell commands on the files they've edited,
-> a substantial fraction won't be able to navigate to the right directory without help.
-> These sorts of unexpected hang-ups frequently occur when instructors have not fully explored their [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
+> If a novice needs to run shell commands on the files they've edited,
+> they often fail to navigate to the right directory without help.
+> You will learn to anticipate these sorts of hang-ups as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
 > If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
 {: .callout}
 
+
 While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
-workshops may start at the beginning of the workflow, for example. And even when a 'motivating example' is built in to the start of a workshop, technical 
+workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical 
 problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
 **be mindful of times when your content is not motivating**, and to strategize your rescue using some of the other techniques in this section.
 
-## How Can Instructional Approach Influence Motivation?
+## How Can You Affect Motivation?
 
 In addition to teaching things that will make our learners' lives easier and focusing
 on authentic tasks, there are a number of other strategies we can use to motivate
-learners.
+learners when we teach.
 
 > ## Brainstorming Motivational Impacts
 >
@@ -108,28 +109,39 @@ learners.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-### Inviting Participation
+### Invite Participation
 
-Motivation is supported by active engagement. This allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building 
-confidence. However, in a room full of strangers, most learners will not immediately feel comfortable speaking up, especially when they feel 
+Motivation is supported by active engagement. Participation allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building 
+confidence. It also facilitates learning! However, in a room full of strangers, **most learners will not immediately feel comfortable speaking up**, especially when they feel 
 confusion or doubt. Creating a motivating classroom means inviting communication and reinforcing that invitation with an attentive response.
 
 A few ways to invite participation are:
 
-+ **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) also provides a framework for positive communication to occur. 
-+ **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to maximize learning for both. In these cases, make sure the less experienced learner is the one doing the typing!
-+ **Acknowledging when learners are confused**. In addition to rewarding learners for expressing confusion, acknowledging and exploring that confusion will contribute to your growth as an instructor, filling in your expert awareness gaps. Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share their confusion, this helps them develop confidence in sharing their own uncertainties.
++ **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking 
+stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
+also provides a framework for positive communication to occur. 
++ **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages 
+learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and 
+resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to 
+maximize learning for both. In these cases, make sure the less experienced learner is the one doing the typing!
++ **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also 
+helps you examine your expert awareness gaps! Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share 
+their confusion, this helps them develop confidence in sharing their own uncertainties.
 
-### Encouraging a Growth Mindset
+### Encourage a Growth Mindset
 
-People vary in how they conceptualize intelligence and skill development. In academic environments, people are often praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
+People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people are often praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
 
-The impact of belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- is a continuing topic of research and debate. However, in Carpentries workshops we frequently encounter learners who believe that they are not "computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through effort -- a **growth mindset**.
+The impact of belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- on the learning process broadly is a 
+continuing topic of research and debate in education communities. In Carpentries workshops, we frequently encounter learners who believe that they are not 
+"computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We 
+therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through 
+effort -- a **growth mindset**.
 
-+ **Positive error framing**. Errors are an inevitable part of learning any new skill, and they can be particularly intimidating and frustrating when learning to 
-program. Many learners will automatically interpret errors as indicators of inability -- adopting a fixed mindset. Encouraging learners to understand errors in a 
-positive way -- as an opportunity to learn something they would have missed had they not encountered the error -- reinforces a growth mindset and helps them to 
-stay motivated in the face of challenge. Be sure to discuss this with your helpers before a workshop begins, as they are the ones who will most often guide your learners through the process of responding to error they have made.
++ **Positive error framing**. Errors are inevitable when learning a new skill. However, many learners will automatically interpret errors as indicators of 
+inability -- adopting a fixed mindset. Encouraging learners to understand errors in a positive way -- as an opportunity to learn something they would have missed 
+had they not encountered the error -- reinforces a growth mindset and helps them to stay motivated. Be sure to discuss this with your helpers, since they are 
+often the 'first responders' to learner mistakes. 
 
 
 > ## Helping Learners Learn From Mistakes (optional)
@@ -154,17 +166,19 @@ in demonstrating how to frame errors in a positive light. If you are unlucky and
 {: .testimonial}
 
 + **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes 
-straight to your identity as a person of intellect and skill. When faced with a fixed mindset, many well-intentioned teachers will end up countering with another 
-fixed mindset -- "I'm not a computational person" vs "You ARE a computational person!" However, this approach doesn't prepare learners well to interpret future obstacles as irrelevant to innate ability. Evidence suggests that learner perseverence is best supported in the long term by praising effort or improvement instead. If you are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
+straight to your identity as a person of intellect and skill. When faced with a fixed mindset ("I'm not a computational person!"), many well-intentioned teachers 
+counter with another fixed mindset ("You ARE a computational person! You're really good at this!"). However, this doesn't prepare learners to interpret future obstacles as 
+irrelevant to innate ability. Evidence suggests that learner perseverence is best supported in the long term by praising effort or improvement instead. If you 
+are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
 
 > ## Choosing our Praises
-> Since we're so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
+> Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
 > are examples of performance-based, effort-based, or improvement-based praise?
 >
 > - That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
 > - You're getting to be really good at that. See how it pays to keep at it?
 > - Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
-> - That was a hard problem. You didn't get the right answer, but let's look at what you learned trying to solve it!
+> - That was a hard problem. You didn't get the right answer, but look at what you learned trying to solve it!
 > - Look at that - you're a natural!
 >
 >> ## Solution
@@ -179,8 +193,6 @@ fixed mindset -- "I'm not a computational person" vs "You ARE a computational pe
 + **Leveraging the Power of "Yet"**. A request for help might start with "I can't ___ " or "I don't understand ___ ". Depending on the attitude of the learner, 
 these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasize that being a novice is 
 a temporary state, and encourages a growth mindset towards progress. 
-
-
 
 ### First, Do No Harm!
 
