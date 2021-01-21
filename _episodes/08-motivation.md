@@ -34,7 +34,7 @@ This section discusses several ways that
 learners can be motivated (or demotivated!) by instrutional content and approach, and provides practice opportunities
 for you to become confident in motivating your learners.
 
-## How Does Content Influence Motivation?
+## How Can Content Influence Motivation?
 
 People learn best when they care about a topic and believe they can master it with a reasonable investment of time and effort.
 Many scientists might appreciate the value of programming
@@ -121,26 +121,27 @@ A few ways to invite participation are:
 stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
 also provides a framework for positive communication to occur. 
 + **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages 
-learners to communicate with each other about their learning process, reinforcing memory and making it more likely that points of confusion will be expressed and 
-resolved. This can also address challenges of having a mixture of background experience: asking more advanced learners to help beginner learners is a good way to 
-maximize learning for both. In these cases, make sure the less experienced learner is the one doing the typing!
+learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and 
+resolved. This can also address challenges of varying background experience: asking more advanced learners to help beginners can 
+maximize learning for both. In these cases, make sure the beginner is doing the typing!
 + **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also 
-helps you examine your expert awareness gaps! Formative assessments can be used to pinpoint learners' misunderstandings. When learners see that others share 
-their confusion, this helps them develop confidence in sharing their own uncertainties.
+helps you examine your expert awareness gaps! Formative assessments can pinpoint misunderstandings. When learners see  that others are confused, they are more likely to share their own uncertainties.
 
 ### Encourage a Growth Mindset
 
-People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people are often praised as "talented" or having "high ability" in certain areas, and may develop an identity around being a certain "type of person" who has inherent strengths or weaknesses.
+People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people 
+are often praised as "talented" or having "high ability," and may develop an identity around being a certain "type of 
+person" who has inherent strengths or weaknesses.
 
-The impact of belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- on the learning process broadly is a 
-continuing topic of research and debate in education communities. In Carpentries workshops, we frequently encounter learners who believe that they are not 
+The belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
+continuing topic of research and debate in education communities. In the specific context of Carpentries workshops, we frequently encounter learners who believe that they are not 
 "computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We 
 therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through 
 effort -- a **growth mindset**.
 
-+ **Positive error framing**. Errors are inevitable when learning a new skill. However, many learners will automatically interpret errors as indicators of 
++ **Positive error framing**. Errors are inevitable when learning a new skill. However, learners will often interpret errors as indicators of 
 inability -- adopting a fixed mindset. Encouraging learners to understand errors in a positive way -- as an opportunity to learn something they would have missed 
-had they not encountered the error -- reinforces a growth mindset and helps them to stay motivated. Be sure to discuss this with your helpers, since they are 
+otherwise -- reinforces a growth mindset and helps them to stay motivated. Be sure to discuss this with your helpers, since they are 
 often the 'first responders' to learner mistakes. 
 
 
@@ -155,10 +156,11 @@ often the 'first responders' to learner mistakes.
 {: .challenge}
 
 
-+ **Presenting the instructor as a learner**. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes. Using 
++ **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using 
 [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
-coding. Embrace these with enthusiasm! When handled openly, these errors can be very instructive for novice learners -- both with regard to technical details and 
-in demonstrating how to frame errors in a positive light. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can help here, too.
+coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both 
+problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can 
+help here, too.
 
 > ## Typos
 > The typos are the pedagogy.
@@ -196,7 +198,9 @@ a temporary state, and encourages a growth mindset towards progress.
 
 ### First, Do No Harm!
 
-When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes create a professional identity around having technical expertise. While sometimes useful for a boost or a laugh in conversation with fellow experts, these can all present serious hazards in the classroom! Here are a few **things you should not do in your classroom:**
+When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes base a professional identity 
+around displaying technical expertise. Technical boasts, digs, and other showy moves can score points in conversation with fellow experts, but these present 
+serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
 
 *   **Talk contemptuously or with scorn about any tool or practice**, or the people who use them. Regardless of
     its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so.
@@ -224,22 +228,20 @@ When learning a skill, we develop more than expert awareness gaps -- we also dev
     the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to
-complaining about Windows with their friends, or talking about how terrible Excel is
-that they initially fail to realize they're doing it while teaching. Teaching yourself
-to avoid these types of comments takes practice, but is well worth the effort. No one
-likes to be made fun of, and talking badly about people who use GUIs, or who aren't
-writing their thesis in LaTeX is unlikely to make them excited about learning your
-favorite scripting language. This is another important conversation to have in advance with your helpers, as well.
+complaining about certain tools
+that they initially fail to realize they're doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself -- and your helpers! -- 
+to avoid these types of comments takes practice, but is well worth the effort. 
 
 
-> ## Not Just Learners
->
-> What's missing from this list is strategies to motivate the *instructor*.
-> As we said in the introduction,
-> learners respond to an instructor's enthusiasm,
-> and instructors need to care about a topic in order to keep teaching it,
-> particularly when they are volunteers.
-{: .callout}
+## Not Just Learners
+
+What we have not discussed yet is strategies to motivate the *instructor*. But why does *your* motivation matter?
++ **Learners respond to an instructor's enthusiasm**. The more motivated you are, the more motivated they will be!
++ **Instructors are learning to teach.** This takes motivation, too! Deliberative practice, seeking feedback, and reflecting on mistakes in the
+context of your own busy work life is a challenge. What will keep you energized to stay engaged with your learning process?
++ **Carpentries Instructors teach because they want to.** Whether you are truly volunteering your time or are fulfilling a role in a job you have 
+chosen, teaching is something you came here motivated to do. Teaching can be an incredibly gratifying activity! Finding and preserving your own motivation
+through the many challenges ahead will make your journey as a teacher a more joyful one. 
 
 > ## Why Do You Teach? (Optional)
 >
