@@ -339,7 +339,7 @@ build local and global communities of practice around  skills for data analysis,
 
 > ## Get Connected
 >
-> Take a couple of minutes to sign up for The Carpentry discussion channels you want to stay involved with.
+> Take a couple of minutes to sign up for The Carpentries [discussion channels](https://carpentries.org/connect/) you want to stay involved with.
 {: .challenge}
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
