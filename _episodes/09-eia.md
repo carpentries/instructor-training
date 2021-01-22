@@ -155,29 +155,35 @@ beyond our control, that can contribute to demotivation and add to cogitive load
 is our own awareness of the challenges these forces present to learners. As with other demotivation pitfalls, we can also
 think carefully about the language that we use and how we interact with our learners to avoid triggering or reinforcing systemic bias.
 
-### Stereotype Threat
-Reminding people of negative stereotypes,
-even in subtle ways, can create distracting anxiety about the risk of confirming those stereotypes, in turn reducing
-their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
-and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
-only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
-and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
-summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in
-the classroom.
+# Stereotypes
 
-While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
-it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
-[the term has been used in many ways][shapiro-neuberg-stereotype-threat].
-Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
-What *is* clear is that we need to avoid thinking in terms of a deficit model
-(i.e., we need to change the members of under-represented groups because they have some deficit,
-such as lack of prior experience) and instead use a systems approach
-(i.e., we need to change the system because it produces these disparities). We
-can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "I'm so glad you're here because
-we don't get enough women in programming." That may sound positive,
-but draws attention to the stereotype that women aren't good at programming.
+We all use stereotypes, and for good reason. They serve a cognitive purpose. One study suggests we encounter more than 34 gigabytes of information everyday. That is more information than we could ever process, so our brains' use shortcuts. Stereotypes are one of those shortcuts.  
+
+## What are stereotypes?
+They:
+- are an established feature of human social cognition 
+- are a set of characteristics that a perceiver associates with members of a group
+- may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
+- guide what we notice about people 
+- guide how we interpret people's behaviors
+- can facilitate quick judgements in appropriate situations (e.g. stopping a child from driving a car)
+- can lead to systematically negative attitudes and behaviors towards members of certain groups 
+
+
+Stereotypes can demotivate learners in at least two ways: 
+- Instructors may have stereotypes about learners 
+    - They may treat certain learners differently, often without meaning to 
+        - not giving the same attention to one Learner compared to another (may be less or more attention to a stereotyped group)
+        - responding to questions with a dismissive or patronizing tone
+- Learners may experience stereotypes about them  
+    - They may believe that they are not as capable of learning compared with others, i.e. have a fixed mindset.
+    - They may be distracted by reminders of stereotypes that affect them, increasing cognitive load and interfering with the learning process. This is known as **stereotype threat**.
+
+## What can we do about these stereotypes?
+- Get to know people from many different groups!
+- Build awareness of situations in which your perceptions and behaviors are influenced by your own stereotypes
+- Do not call attention to common stereotypes (that might activate stereotype threat (maybe we can link to our current stereotype threat content, but just as fyi) 
+
 
 > ## Never Learn Alone
 >
@@ -302,3 +308,29 @@ none of the Python source code.
 Someone using a [screen reader][wikipedia-screen-reader]
 would therefore be able to hear what was being said about the program,
 but wouldn't know what the program actually was.
+
+
+### Stereotype Threat
+Reminding people of negative stereotypes,
+even in subtle ways, can create distracting anxiety about the risk of confirming those stereotypes, in turn reducing
+their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
+and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
+only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
+There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
+and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
+summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in
+the classroom.
+
+While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
+it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
+[the term has been used in many ways][shapiro-neuberg-stereotype-threat].
+Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
+What *is* clear is that we need to avoid thinking in terms of a deficit model
+(i.e., we need to change the members of under-represented groups because they have some deficit,
+such as lack of prior experience) and instead use a systems approach
+(i.e., we need to change the system because it produces these disparities). We
+can also not highlight people based on their identity with a minority group; for
+example, it's not a good idea to say something like "I'm so glad you're here because
+we don't get enough women in programming." That may sound positive,
+but draws attention to the stereotype that women aren't good at programming.
+
