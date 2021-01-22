@@ -344,7 +344,7 @@ build local and global communities of practice around  skills for data analysis,
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
-[lesson-template],
+[lesson-template]: https://carpentries.github.io/lesson-example/ 
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
