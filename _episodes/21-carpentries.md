@@ -339,12 +339,12 @@ build local and global communities of practice around  skills for data analysis,
 
 > ## Get Connected
 >
-> Take a couple of minutes to sign up for The Carpentry discussion channels you want to stay involved with.
+> Take a couple of minutes to sign up for The Carpentries [discussion channels](https://carpentries.org/connect/) you want to stay involved with.
 {: .challenge}
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
-[lesson-template],
+[lesson-template]: https://carpentries.github.io/lesson-example/ 
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
