@@ -113,8 +113,7 @@ Image credit: Vanderbilt University Center for Teaching
 
 > ## Evaluate Learning Objectives
 >
-> Your instructor has posted links to a handful of current Carpentries lessons in the Etherpad.
-> Select one learning objective from one of those lessons,
+> Select one learning objective from the episode you've used for teaching practice,
 > then complete the following steps to evaluate it.
 >
 > 1. Identify the learning objective verb. How specifically does this verb describe the desired learner outcome?
@@ -136,7 +135,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 
 > ## Where are your checkpoints?
 >
-> Have a look at your lesson again. Choose a learning objective, and identify
+> Have a look at your learning objective again and identify
 > *where* in the lesson that objective should reasonably be achieved. How will
 > you know that that objective has been met for all learners? Will this be clear
 > to them?
