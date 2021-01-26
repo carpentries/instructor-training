@@ -25,14 +25,14 @@ practice giving part of a workshop introduction.
 
 > ## Your Academic Past
 >
-> Think back to courses or workshops you really liked or didn't like.
+> Think back to courses or workshops you really liked or did not like.
 > - How did those courses start?
 > - Were you confident in the instructors abilities?
 > - Did you feel like they were enthusiastic about the course and invested in you?
 > - Was it clear what you were going to be learning?
 > - Were you excited about the material?
 > - Did you leave that first day thinking the instructor was uninterested,
->   that you weren't the learners they wanted to be teaching
+>   that you were not the learners they wanted to be teaching
 >   or you had no idea what the course was supposed to be about?
 {: .discussion}
 
@@ -40,21 +40,21 @@ Your impression on the first day of a course probably matched that of the rest o
 the course. Introductions set the tone for the workshop and the path for learning.
 
 Introductions are particularly important when we have just two days. Also,
-in Carpentry workshops we're teaching not only a set of skills, but also
+in Carpentry workshops we are teaching not only a set of skills, but also
 trying to give learners the confidence to become self-directed learners. Learners
-should leave feeling excited and empowered. It's up to you as an instructor to empower
-your learners, so it's important
+should leave feeling excited and empowered. It is up to you as an instructor to empower
+your learners, so it is important
 to set a positive and welcoming environment for the workshop.
 
 Having a planned introduction, also helps you be less nervous. Having a planned introduction
 helps get you started. Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
-you're comfortable and ready for.
+you are comfortable and ready for.
 
-> ## What's in an Introduction?
+> ## What is in an Introduction?
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.
-> Take notes on your answers -- we'll combine them later.
+> Take notes on your answers -- we will combine them later.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
@@ -62,7 +62,7 @@ you're comfortable and ready for.
 > After 5 minutes, come together, and combine ideas as a large group.
 >
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
-> Did you come up with something that's not listed below?
+> Did you come up with something that is not listed below?
 >
 > Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
@@ -127,7 +127,7 @@ key areas. These questions should help you decide what to say:
 **What characteristics do you want to convey about yourself?** You probably want the learners to get a sense of your
 qualifications, how formal/informal you want
 to be, and how available you will be to the learners. You want to
-demonstrate that you're qualified, but that you share the same
+demonstrate that you are qualified, but that you share the same
 challenges as the learners, so you remain accessible.
 
 **What will you need to say to convey those characteristics?**
@@ -136,25 +136,25 @@ they relate to the workshop, in order to establish yourself as an
 authority, and to make the workshop more relevant.
 
 **Why are you teaching a Carpentries workshop?**
-Why are you an instructor? What's motivating you to be there today? One
+Why are you an instructor? What is motivating you to be there today? One
 reason might be that you took a workshop and saw how valuable these
 skills were in your own work and wanted to share this information with
 others. Convey your enthusiasm for being there.
 
 **What should you be careful not to say?** Learners do not need to
 know everything about you. In particular, it is not helpful to say
-you've never taught the course before, or that it is your least
+you have never taught the course before, or that it is your least
 favorite course to teach, or to disclose any irrelevant personal
 information that can undermine you in the eyes of your learners.
 
 > ## Introductions for Everyone
 >
-> If you're teaching a typical Carpentries workshop, then you're
+> If you are teaching a typical Carpentries workshop, then you are
 > probably not teaching alone!  After introducing yourself, make
 > sure that you give everyone involved in the workshop - instructors,
 > helpers, organizers - a chance to introduce themselves as well.
 >
-> If you're the workshop organizer, this can also be a good time
+> If you are the workshop organizer, this can also be a good time
 > to thank volunteers who are instructing or helping.
 {: .callout}
 
@@ -178,7 +178,7 @@ the learning objectives and the hands-on instructional strategies we use and
 the workshop policies.
 
 **Clarify workshop roles.** Explain who is doing what at the workshop and
-what learners can expect from the workshop leaders.  If you haven't already
+what learners can expect from the workshop leaders.  If you have not already
 introduced helpers or other workshop leaders, make sure to do so.
 
 **Explain your expectations** for learner behavior including expectations
@@ -206,7 +206,7 @@ that they will be ready to work in groups or dialogue with each other.
 > Here is one example of an icebreaker you can use:
 > Have everyone turn to a partner and introduce themselves with their
 > name, one word about their research (e.g.'microbes', 'dogs', 'vectors',
-> 'stars') and a thing they're proud of that they made.
+> 'stars') and a thing they are proud of that they made.
 {: .callout}
 
 Head here for [more examples of Icebreakers][icebreakers].
@@ -216,9 +216,9 @@ Head here for [more examples of Icebreakers][icebreakers].
 The way you engage learners at the beginning sends powerful messages
 about the level of involvement and interaction you expect from them.
 
-Since these workshops are hands-on don't spend a lot of the time at
+Since these workshops are hands-on do not spend a lot of the time at
 the beginning lecturing. Get to introductions and interactions
-right away. You don't want learners to think they just have to listen
+right away. You do not want learners to think they just have to listen
 in the course.
 
 Also establish a culture of feedback. Let learners know you are
@@ -242,7 +242,7 @@ own.
 
 ### 7. Whet Learners' Appetites for Workshop Content
 
-They're already at the workshop, so it might seem unnecessary to
+They are already at the workshop, so it might seem unnecessary to
 motivate them to be there, but it is a great chance to stimulate
 interest about the workshop and to activate relevant prior knowledge
 learners have about the material.

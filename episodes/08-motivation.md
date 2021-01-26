@@ -12,7 +12,7 @@ objectives:
 - "Recognize and overcome imposter syndrome in yourself and your learners."
 keypoints:
 - "A positive learning environment helps people concentrate on learning."
-- "People learn best when they see the utility in what they're learning, so teach what's most immediately useful first."
+- "People learn best when they see the utility in what they are learning, so teach what is most immediately useful first."
 - "Imposter syndrome is a powerful force, but can be overcome."
 - "Accessibility benefits everyone."
 ---
@@ -33,7 +33,7 @@ for learner success. As instructors, it is crucial to establish the workshop set
 as a safe space for learning. Establishing a safe space for learning is a combination
 of many factors:
 
-+ *Presenting the instructor as a learner*. Admitting that you don't know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we'll talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
++ *Presenting the instructor as a learner*. Admitting that you do not know everything is part of showing that it is acceptable to make mistakes, and encouraging a growth mindset in learners (we will talk much more about growth mindset in [a later lesson]({{ page.root }}/09-mindset/)). Using [participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while coding. When handled transparently, these errors can be very instructive for novice learners.
 + *Establishing norms for interaction*. This can be done by having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) or by having rules of interaction such as ensuring turn taking in discussions, possibly by passing around a talking stick, or by encouraging quieter people to contribute.
 + *Encouraging learners to learn from each other*. Acknowledge that some of the material can be difficult and that they will learn more working together. Asking more advanced learners to help beginner learners is a good way to maximize learning for both.
 + *Acknowledging when learners are confused.* Understanding why learners are confused provides useful feedback for instructors. We use formative assessments to pinpoint learners' misunderstandings. Acknowledging that their misunderstandings are valid is also key to encouraging a growth mindset.
@@ -55,17 +55,17 @@ within 15 minutes of starting each lesson.
 This not only motivates them,
 it also helps build their confidence in us,
 so that if it takes longer to get to something they find useful in a later topic,
-they'll persist with the lesson.
+they will persist with the lesson.
 
 To do this, we as instructors need to go through the work of identifying
 what to teach first (or at all!).
 Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
-Everything that's quick to master, and immediately useful should be taught first;
+Everything that is quick to master, and immediately useful should be taught first;
 things in the opposite corner
 that are hard to learn and have little near-term application
-don't belong in our workshops.
+do not belong in our workshops.
 
-![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
+![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".](../fig/what-to-teach.png)
 
 Another way to think about the graph shown above is "authentic tasks."
 An authentic task is exactly what it sounds like -- a real task performed
@@ -93,8 +93,8 @@ motivating.
 > For example,
 > editing a text file seems like a simple task,
 > but most graphical editors save things to the user's desktop or home directory.
-> If people need to run shell commands on the files they've edited,
-> a substantial fraction won't be able to navigate to the right directory without help.
+> If people need to run shell commands on the files they have edited,
+> a substantial fraction will not be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
 > please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
 {: .callout}
@@ -165,7 +165,7 @@ learners.
 
 > ## Not Just Learners
 >
-> What's missing from this list is strategies to motivate the *instructor*.
+> What is missing from this list is strategies to motivate the *instructor*.
 > As we said in the introduction,
 > learners respond to an instructor's enthusiasm,
 > and instructors need to care about a topic in order to keep teaching it,
@@ -190,8 +190,8 @@ Motivation can go both ways. Besides using strategies to motivate learners,
 one of our additional challenges as instructors
 is to not **demotivate** participants through our words or actions. None of us goes into
 a workshop with the intention of creating a hostile environment or making the learners
-hate the tools we're teaching, but we can all accidentally do just that if we don't
-pay attention to what we say and how we interact with our learners. We'll discuss some
+hate the tools we are teaching, but we can all accidentally do just that if we do not
+pay attention to what we say and how we interact with our learners. We will discuss some
 common demotivators and help you develop strategies for avoiding them.
 
 > ## Brainstorming Demotivational Experiences
@@ -205,10 +205,10 @@ common demotivators and help you develop strategies for avoiding them.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-### Things You Shouldn't Do in a Workshop
+### Things You Should Not Do in a Workshop
 
 *   Tell learners they are rubbish because they use Excel and/or Word,
-    don't modularize their code, etc.
+    do not modularize their code, etc.
 *   Say negative things about Windows and praise Linux, e.g., say that
     the former is for amateurs.
 *   Criticize GUI applications (and by implication their users) and
@@ -218,7 +218,7 @@ common demotivators and help you develop strategies for avoiding them.
     Convincing someone to change their practices is much harder when
     they think you disdain them.
 *   Dive into complex or detailed technical discussion with the one or
-    two people in the audience who clearly don't actually need to be
+    two people in the audience who clearly do not actually need to be
     there.
 *   Pretend to know more than you do.  People will actually trust you
     more if you are frank about the limitations of your knowledge, and
@@ -229,20 +229,20 @@ common demotivators and help you develop strategies for avoiding them.
     and by extension that they therefore must be stupid
     for not being able to figure it out.
 *   Take over the learner's keyboard. It is rarely a good idea to type anything for your learners.
-    Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
-    that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
+    Doing so can be demotivating for the learner (as it implies you do not think they can do it themselves or
+    that you do not want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
     skills that are essential for independent work.
-*  Feign surprise. Saying things like "I can't believe you don't know X"
-    or "You've never heard of Y?" signals to the learner that they do not have
-    some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
+*  Feign surprise. Saying things like "I cannot believe you do not know X"
+    or "You have never heard of Y?" signals to the learner that they do not have
+    some required pre-knowledge of the material you are teaching, that they do not belong at the workshop,
     and it may prevent them from asking questions in
     the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to
 making fun of Windows-users with their friends, or talking about how terrible Excel is
-that they initially fail to realize they're doing it while teaching. Teaching yourself
+that they initially fail to realize they are doing it while teaching. Teaching yourself
 to avoid these types of comments takes practice, but is well worth the effort. No one
-likes to be made fun of, and talking badly about people who use GUIs, or who aren't
+likes to be made fun of, and talking badly about people who use GUIs, or who are not
 writing their thesis in LaTeX is unlikely to make them excited about learning your
 favorite scripting language.
 
@@ -250,7 +250,7 @@ favorite scripting language.
 
 As instructors, we can learn to avoid talking disparagingly about our learners' choice
 of text editors and levels of technical knowledge. There are other factors, however, that contribute to demotivation,
-some of which are either systemic, or built into our psychological makeup as human beings. We can't
+some of which are either systemic, or built into our psychological makeup as human beings. We cannot
 always control these demotivators - often they come from outside classrom - but we can
 be aware of them, and take certain actions to lessen their impact by thinking carefully about
 the language that we use and how we interact with our learners.
@@ -266,8 +266,8 @@ and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[W
 summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in
 the classroom.
 
-While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
-it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
+While there is lots of evidence that unwelcoming climates demotivate members of under-represented groups,
+it is not clear that stereotype threat is the underlying mechanism. Part of the problem is that
 [the term has been used in many ways][shapiro-neuberg-stereotype-threat].
 Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
 What *is* clear is that we need to avoid thinking in terms of a deficit model
@@ -275,9 +275,9 @@ What *is* clear is that we need to avoid thinking in terms of a deficit model
 such as lack of prior experience) and instead use a systems approach
 (i.e., we need to change the system because it produces these disparities). We
 can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "I'm so glad you're here because
-we don't get enough women in programming." That may sound positive,
-but draws attention to the stereotype that women aren't good at programming.
+example, it is not a good idea to say something like "I'm so glad you are here because
+we do not get enough women in programming." That may sound positive,
+but draws attention to the stereotype that women are not good at programming.
 
 > ## Never Learn Alone
 >
@@ -289,8 +289,8 @@ but draws attention to the stereotype that women aren't good at programming.
 > that they will be with at least a few people they trust,
 > which increases the chances of them actually coming.
 > Furthermore,
-> if people attend a workshop with their labmates, it's more likely they will
-> work together to implement what they've learned after the workshop has ended.
+> if people attend a workshop with their labmates, it is more likely they will
+> work together to implement what they have learned after the workshop has ended.
 {: .callout}
 
 
@@ -301,7 +301,7 @@ Imposter syndrome is the belief that one is not good enough for a job or positio
 and that one's achievements are due to luck rather than talent or skill.
 This is also accompanied by the fear of being "found out".
 
-![One stick figure introducing another to a third says, "This is Dr. Adams. She's a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, don't be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
+![One stick figure introducing another to a third says, "This is Dr. Adams. She is a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, do not be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
 
 Academic work is frequently undertaken alone or in small groups but the results are shared and
 criticized publicly. In addition,
@@ -324,16 +324,16 @@ Two ways of dealing with your own impostor syndrome are:
 As an instructor,
 you can help people with their impostor syndrome by
 sharing stories of mistakes that you have made or things you struggled to learn.
-This reassures the class that it's OK to find topics difficult.
+This reassures the class that it is OK to find topics difficult.
 Being open with the group makes it easier to build trust and make learners confident to ask questions.
 (Live coding is great for this:
-typos let the class see you're not superhuman.)
+typos let the class see you are not superhuman.)
 
 You can also emphasize that you want questions:
 you are not succeeding as a teacher if no one can follow your class,
-so you're asking learners to help you learn and improve.
+so you are asking learners to help you learn and improve.
 Remember,
-it's much more important to *be* smart than to *look* smart.
+it is much more important to *be* smart than to *look* smart.
 
 The Ada Initiative has
 [some excellent resources][ada-initiative-resources]
@@ -355,11 +355,11 @@ Not providing equal access to lessons and exercises
 is about as demotivating as it gets.
 If you look at [our old lesson on Python][swc-python-v4],
 for example,
-you'll find that the text beside the slides includes all of the narration---but
+you will find that the text beside the slides includes all of the narration---but
 none of the Python source code.
 Someone using a [screen reader][wikipedia-screen-reader]
 would therefore be able to hear what was being said about the program,
-but wouldn't know what the program actually was.
+but would not know what the program actually was.
 
 While it may not be possible to accommodate everyone's needs,
 it *is* possible to get a good working structure in place
@@ -389,10 +389,10 @@ about accessibility.
 
 > ## Learning about Accessibility
 >
-> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and do nots for making
 > visual and web-based materials more accessible for different populations. Take a look at one of
 > [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and
-> put one thing you've learned in the Etherpad.
+> put one thing you have learned in the Etherpad.
 >
 > Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 > available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
@@ -405,7 +405,7 @@ about accessibility.
 >
 > The posters above are in PDF format - which itself can sometimes be inaccessible to people
 > who use screen readers. If you know of a similar resource describing accessibility guidelines
-> that would be more accessible than what's linked above, open an issue on our instructor
+> that would be more accessible than what is linked above, open an issue on our instructor
 > training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
 {: .callout}
 
@@ -417,7 +417,7 @@ has a good checklist for people with mobility issues,
 and this [interview with Chad Taylor][deaf-accessibility]
 is a good introduction to issues faced by those with no or limited hearing.
 
-The second is to know how well you're doing.
+The second is to know how well you are doing.
 For example,
 sites like [WebAIM][webaim] allow you to check
 how accessible your online materials are to users with no or limited vision.
@@ -432,7 +432,7 @@ are always welcome.
 
 > ## What Happens When Accessibility is an Issue? (Optional)
 >
-> Think of a time when you've been affected by, or noticed someone else
+> Think of a time when you have been affected by, or noticed someone else
 > being affected by issues with accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
 > a class you were taking relied on audio delivery of content. Describe what happened,
@@ -444,18 +444,18 @@ are always welcome.
 
 > ## Every Little Bit Counts
 >
-> Looking at people who work with disability and accessibility, it's
+> Looking at people who work with disability and accessibility, it is
 > easy to be overwhelmed by all the different ways we could make
-> instruction more accessible.  *Don't panic.*  Instead:
+> instruction more accessible.  *Do not panic.*  Instead:
 >
-> *   *Don't do everything at once.*
->     We don't ask learners in our workshops to adopt all our best practices or tools in one go,
+> *   *Do not do everything at once.*
+>     We do not ask learners in our workshops to adopt all our best practices or tools in one go,
 >     but instead to work things in gradually at whatever rate they can manage.
 >     Similarly, try to build in accessibility habits when preparing for workshops
 >     by adding something new each time.
 > *   *Do the easy things first.*
 >     There are plenty of ways to make workshops more accessible
->     that are both easy and don't create extra cognitive load for anyone:
+>     that are both easy and do not create extra cognitive load for anyone:
 >     font choices, general text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
@@ -477,7 +477,7 @@ are always welcome.
 In computing, it means making a positive effort to be more welcoming to women,
 people of color, people with various sexual orientations,
 the elderly, people with physical disabilities, the formerly incarcerated,
-the economically disadvantaged, and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
+the economically disadvantaged, and everyone else who does not fit Silicon Valley's white/Asian male demographic.
 Lee's paper
 "[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
 is a brief, practical guide with references to the research literature.
