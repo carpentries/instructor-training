@@ -191,7 +191,7 @@ workshops, the organization hosting the event is responsible for these details.
 > a workshop or even a single lesson yourself. It can seem daunting to organize
 > your own workshop, but as long as you have 1-2 people who can either help or
 > co-instruct, The Carpentries Core Team and community can provide
-> support and guidance so that it's not so scary!
+> support and guidance so that it is not so scary!
 {: .callout}
 
 In both cases (self- or centrally-organized), you can start the workshop
@@ -211,7 +211,7 @@ be sure to read through the [instructor no-show policy](https://docs.carpentries
 ### Setting Up
 
 In order to communicate with learners,
-and to help us keep track of who's taught what and where,
+and to help us keep track of who has taught what and where,
 instructors create a website with information about their workshop.
 
 To ensure unique names for each event,
@@ -247,7 +247,7 @@ etherpad with basic Carpentries information at the top.
 > This exercise should take about 25 minutes.
 >
 > Note: Sometimes web browsers will cache the workshop webpage, so when
-> you make changes in GitHub, they don't show up on the workshop webpage
+> you make changes in GitHub, they do not show up on the workshop webpage
 > immediately.  Two ways to avoid this are to use a "private" or
 > "incognito" mode in your web browser or by following these
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
@@ -278,7 +278,7 @@ and is a good place to start when looking for ways to contribute.
 > ## Lesson Incubation
 >
 > Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software, Data and
+> own fantastic lesson!  If you would like to model it after the Software, Data and
 > Library Carpentry lesson format, you can find a template and instructions in
 > [The Carpentries lesson example repository]({{ site.example_repo }}),
 > and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
@@ -314,7 +314,7 @@ the real power of The Carpentries is in its community of volunteers that take on
 roles to teach and organize workshops, help produce and maintain lessons, and most importantly,
 build local and global communities of practice around  skills for data analysis, computational thinking, and research software development. Our community depends on individuals like you who are passionate about expanding these communities of practice through inclusive and evidence-based instructional practices, and can contribute your perspective and expertise to continually refine our instructional materials and practices.  A full description of the breadth and diversity of community member roles, an overview of The Carpentries various social media channels, a calendar of future community events, and descriptions of mailing lists used by the community can be found [here on The Carpentries website](http://carpentries.org/community/) and also on the [getting connected page](https://carpentries.org/connect/).
 
-> ## Participating in The Carpentries -- What's Your Role?
+> ## Participating in The Carpentries -- What is Your Role?
 >
 > If you are at an in-person training, your Trainer will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >

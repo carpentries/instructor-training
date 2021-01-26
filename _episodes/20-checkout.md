@@ -11,10 +11,10 @@ keypoints:
 - "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
 
-During this period after lunch, we'll be talking about some of the nuts and bolts
-of getting involved in The Carpentries.  First, we'll discuss what actions you'll
+During this period after lunch, we will be talking about some of the nuts and bolts
+of getting involved in The Carpentries.  First, we will discuss what actions you will
 need to take after this training to become a fully certified Instructor.  After that,
-we'll address any questions about The Carpentries organization, running workshops, and
+we will address any questions about The Carpentries organization, running workshops, and
 getting involved in the community in other ways.
 
 ## Application form
@@ -53,7 +53,7 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 > ## Checking Out Review with Questions and Answers
 >
 > In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
-> Make notes in the Etherpad and when you're done, report back to the full group about the requirements for that stage of the process.
+> Make notes in the Etherpad and when you are done, report back to the full group about the requirements for that stage of the process.
 > What questions do you still have about the checkout process?
 >
 > This exercise should take about 5 minutes.
@@ -65,7 +65,7 @@ extensions for up to a year may be requested by emailing [checkout@carpentries.o
 > If the session you would like to attend is full, contact the discussion
 > host and co-host to ask if you can attend.
 >
-> If you'd prefer to do your teaching demonstration before your discussion,
+> If you would prefer to do your teaching demonstration before your discussion,
 > visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 >
 > __Note:__
@@ -104,12 +104,12 @@ be discussed before changes are merged.
 If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 that is customized to the Carpentries workflow.
 
-### What's in a Badge?
+### What is in a Badge?
 
 Once you have completed all checkout steps, within about 2 weeks you will receive an email with your Instructor badge! What does this mean?
 * **You get to teach!** Badged Instructors are certified to co-teach any Carpentries lesson. All Carpentries Instructor badges are acceptable to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While non-badged instructors may also co-teach, every Carpentries branded workshop must have one badged Instructor to lead the way.
 * **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) for rules governing continuing voting eligibility.
-* **You've got something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
+* **You have something to brag about!** Looking for language to add to showcase your skills and experience? [Here is some text](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) to get you started!
 
 
 > ## Check Out the Discussion (Optional)
@@ -120,7 +120,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 > "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
 > to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for
 > the repository you are working in. If you do make a significant contribution to the discussion, send a link to
-> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You've
+> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You have
 > just completed one of the three remaining steps in becoming a Carpentries Instructor.
 >
 > Leave about 5-10 minutes for this exercise.
@@ -129,7 +129,7 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 
 > ## Ongoing support
 >
-> Discussion sessions aren't only for instructors-in-training working towards their certification.
+> Discussion sessions are not only for instructors-in-training working towards their certification.
 > Instructors are highly encouraged to participate in discussions before and after each of their workshops,
 > so that they can continue to learn from each other and advance their teaching skills. For even more support, consider
 > participating in our Carpentries [Mentoring program][mentoring]!

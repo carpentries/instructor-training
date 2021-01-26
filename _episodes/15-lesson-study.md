@@ -21,7 +21,7 @@ keypoints:
 Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-practice-teaching/).
 We started out by focusing on the lessons we can learn as instructors from watching others teach, having
 others observe our teaching, and giving and receiving feedback based on these observations. In this
-section, we'll switch our focus to another important part of lesson study: detailed discussion of
+section, we will switch our focus to another important part of lesson study: detailed discussion of
 curricular components (including lesson objectives, contents, and exercises) with an eye toward actively preparing to
 teach a workshop.
 
@@ -75,7 +75,7 @@ When sitting down to plan a course or workshop, it might be tempting to dive int
 understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this
 approach can take you down extended rabbit-holes in which you anticipate and research questions that only an expert
 would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to
-know when they've gotten there.  
+know when they have gotten there.  
 
 This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to allow *content*
 objectives to distract from *learning* objectives. One way to prevent this is to take a "reverse" approach to instruction, as
@@ -96,7 +96,7 @@ the lesson to identify promising points to check in with your learners, using fo
 Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals
 are usually communicated through *learning objectives*.
 
-The "learning objectives" section is an easy thing to pass over when you're preparing to teach. It may seem obvious or
+The "learning objectives" section is an easy thing to pass over when you are preparing to teach. It may seem obvious or
 unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We
 aim to create learning objectives that are specific, accurate, and informative for both learners and instructors.
 
@@ -152,7 +152,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 {: .challenge}
 
 
-> ## You Can't Just Ask
+> ## You Cannot Just Ask
 >
 > Self-assessments of skill level are usually inaccurate
 > because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
@@ -169,7 +169,7 @@ Awareness of the learning process, also known as "metacognition," will also help
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We'll see more about workshop pages this afternoon.  
+> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
 {: .callout}
 
 
