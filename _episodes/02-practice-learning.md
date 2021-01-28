@@ -105,14 +105,33 @@ most of the complexities that a mechanical engineer would be concerned with.
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
-We will discuss the mental models of experts in more detail in [a later lesson]({{ page.root }}/03-expertise/).
+### Concept maps
+This kind of visual representation of concepts and connections between them can be a useful way to explore your own knowledge, evaluate comprehension, or
+communicate complex relationships. There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
+flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
+classroom use by John Novak in the 1970s, a concept map asks you identify which concepts are most relevant to your instructional question and -- critically -- to
+identify how they are related. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
+format can often reveal connections you may not have been aware of, or illuminate gaps. Either way, concept mapping can help you to make your mental model of a 
+concept more clear to yourself or others.
+
+### The power (and limitations) of analogies
+Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
+pervasive because they rapidly convey characteristics that can otherwise be difficult to explain. Good analogies can be extraordinarily useful when teaching,
+because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
+As with all models, "all... are wrong but some are useful." If you choose to use an analogy, be sure its usefulness outweighs its potential to generate harmful
+misconceptions. 
+
 
 > ## Your Mental Models
 >
-> In the Etherpad, write your primary research domain or area of expertise and some aspects of the mental model you use to frame
-> and understand your work. What concepts/facts are included? What types of relationships are included?
+> 1. Think of an analogy to explore. Perhaps you have one that relates to your area of professional interest, or a hobby. Or, maybe you would like to explore
+> the comparison of a teacher to a gardener. In the etherpad below, take a moment to explain what that analogy conveys about the topic. Then, take another moment
+> to identify a limitation where that analogy breaks down or could foster a misconception.
+>
+> 2. On a piece of paper, draw a concept map of the same concept, without the analogy. What are 3-4 core concepts involved? How are those concepts related?
 >  
-> This discussion should take about 5 minutes.
+> 3. Share your analogy with a partner, and describe the process of building the concept map. Have you learned anything about your mental model of the process 
+> at hand? If you were asked to teach this concept, would this influence how you would teach it?
 {: .challenge}
 
 One key insight from research on cognitive development is that
