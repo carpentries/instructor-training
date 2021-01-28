@@ -19,7 +19,7 @@ keypoints:
 - "Formative assessments provide practice for learners and feedback to learners and instructors."
 ---
 
-We'll now get started with a discussion of how learning works. We'll learn
+We will now get started with a discussion of how learning works. We will learn
 some key findings from educational research and identify how these principles
 are put into practice in Carpentries workshops.
 
@@ -55,14 +55,14 @@ the three stages of this model are:
 ![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath the people,
 an arrow labelled "Experience level" points from left to right. Underneath the figure labelled "Novice" a quote says "I'm not sure what questions to ask." The Competent Practitioner says "I'm pretty confident, but I still look stuff up a lot!" The Expert says "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
 
-*   *Novice*: someone who doesn't know what they don't know, i.e.,
-    they don't yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions "aren't even wrong".
+*   *Novice*: someone who does not know what they do not know, i.e.,
+    they do not yet know what the key ideas in the domain are or how they relate.
+    One sign that someone is a novice is that their questions "are not even wrong".
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
 
-*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details
+*   *Competent practitioner*: someone who has enough understanding for everyday purposes. They will not know all the details
 of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
 tasks with normal effort under normal circumstances.
 
@@ -77,8 +77,8 @@ tasks with normal effort under normal circumstances.
 
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience. (We, as instructors,
-  are more likely to be competent practitioners or experts, and we'll
-discuss this in a later section).  We'll next use an additional concept
+  are more likely to be competent practitioners or experts, and we will
+discuss this in a later section).  We will next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
 
@@ -98,9 +98,9 @@ practitioner* for a given domain based on the complexity of their mental models.
 They therefore reason by analogy and guesswork,
 borrowing bits and pieces of their mental models of other domains
 which seem superficially similar.
-*     A *competent practitioner* is someone who has a mental model that's good enough for everyday purposes. This model
+*     A *competent practitioner* is someone who has a mental model that is good enough for everyday purposes. This model
 does not have to be completely accurate in order to be useful:
-for example, the average driver's mental model of how a car works probably doesn't include
+for example, the average driver's mental model of how a car works probably does not include
 most of the complexities that a mechanical engineer would be concerned with.
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
@@ -119,7 +119,7 @@ One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
 In particular,
 presenting novices with a pile of facts early on is counter-productive,
-because they don't yet have a model or framework to fit those facts into.
+because they do not yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
 an incorrect mental model.
@@ -133,13 +133,13 @@ management in a way that will allow them to learn more on their own or understan
 
 ### The Importance of Going Slowly
 
-> If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming.
+> If someone feels it is too slow, they will be a bit bored. If they feel it is too fast, they will never come back to programming.
 > — Kunal Marwaha, SWC Instructor
 {: .testimonial}
 
 If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
 this will impact our teaching. For example, we principally want to help learners
-form the right categories and make connections among concepts.  We *don't*
+form the right categories and make connections among concepts.  We *do not*
 want to overload them with a slew of unrelated facts, as this will be confusing.
 
 An important practical implication of this latter point is the pace at which we teach.  
@@ -154,7 +154,7 @@ and without which people cannot understand how to use commands.
 
 That mental model of the shell also includes things like:
 
-*   Anything you repeat manually, you'll eventually get wrong
+*   Anything you repeat manually, you will eventually get wrong
     (so let the computer repeat things for you by using tab completion
     and the `history` command).
 *   Lots of little tools, combined as needed, are more productive than
@@ -165,19 +165,19 @@ These two examples illustrate something else as well.
 Learning consists of more than "just" building mental models
 and adding information to them;
 creating linkages between concepts and facts is at least as important.
-Telling people that they shouldn't repeat things,
+Telling people that they should not repeat things,
 and that they should try to think in terms of little pieces loosely joined,
 both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
 > ## Meeting Learners Where They Are
-> One of the strengths of Carpentries workshops is that we meet learners where they're at. Carpentries Instructors
+> One of the strengths of Carpentries workshops is that we meet learners where they are at. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
 > building an inclusive learning environment, and continually getting (and paying attention to!) feedback
-> from learners. We'll be talking in more depth about each of these strategies as we go forward in our workshop.
+> from learners. We will be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
 
 ## How "Knowledge" Gets in the Way
@@ -188,7 +188,7 @@ misconceptions of broken mental models.
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
 with some amount of information, ideas and opinions about the topic. This is true even
-in the case where a learner can't articulate their prior knowledge and beliefs.  
+in the case where a learner cannot articulate their prior knowledge and beliefs.  
 
 In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
 can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
@@ -207,7 +207,7 @@ Broadly speaking, misconceptions fall into three categories:
     and are the hardest to change.
 
 Since The Carpentries workshops are focused on novices, and the building of
-strong mental models, we're most interested in the middle category of misconceptions.
+strong mental models, we are most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them build better ones.
 
 ## Identifying and Correcting Misconceptions
@@ -238,12 +238,12 @@ that provides feedback to both instructors and learners about learners' level of
 material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
 their instruction to respond to challenges that learners are facing.  
 
-Learners don't "pass" or "fail" formative assessments; they are simply a feedback mechanism.
+Learners do not "pass" or "fail" formative assessments; they are simply a feedback mechanism.
 For example, a music teacher might ask a learner to play a scale very slowly
 in order to see whether they are breathing correctly,
 and if not, what they should change.
 
-Formative assessment is most useful when it happens frequently (we'll talk about how frequently later) and when the
+Formative assessment is most useful when it happens frequently (we will talk about how frequently later) and when the
 results are easily interpretable by the learner and instructor.
 
 > ## Repetition vs. Reflective Practice
@@ -300,8 +300,8 @@ but each of the other answers provides valuable insight.
 >> ## Solution
 >>
 >> *   If the child answers 32, they are throwing away the carry completely.
->> *   If they answer 312, they know that they can't just discard the carried '1',
->>     but doesn't understand that it's actually a ten
+>> *   If they answer 312, they know that they cannot just discard the carried '1',
+>>     but do not understand that it is actually a ten
 >>     and needs to be added into the next column.
 >>     In other words,
 >>     they are treating each column of numbers as unconnected to its neighbors.
@@ -313,8 +313,8 @@ but each of the other answers provides valuable insight.
 Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
 "Plausible" means that it looks like it could be right:
 instructors will often put supposedly-silly answers like "a fish!" on MCQs,
-but (a) they don't provide any insight
-and (b) learners actually don't find them funny.
+but (a) they do not provide any insight
+and (b) learners actually do not find them funny.
 "Diagnostic power" means that each of the distractors helps the instructor figure out
 what concepts learners are having difficulty with.  
 
@@ -339,9 +339,9 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 >> 1. If the majority of the class votes for a single wrong answer, you should go back
 >> and work on correcting that particular misconception.  
 >> 2. If most of the class votes
->> for the right answer, it's probably safe to move on.  
+>> for the right answer, it is probably safe to move on.  
 >> 3. If answers are pretty evenly
->> split between options, learners are probably guessing randomly and it's a good
+>> split between options, learners are probably guessing randomly and it is a good
 >> idea to go back to a point where everyone was on the same page.
 > {: .solution}
 {: .challenge}
@@ -359,11 +359,11 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
 >     If you are having a hard time coming up with diagnostic distractors,
 >     then either you need to think more about your learners' mental models,
->     or your question simply isn't a good starting point for an MCQ.
+>     or your question simply is not a good starting point for an MCQ.
 > *   When you are trying to come up with distractors,
 >     think about questions that learners asked or problems they had
 >     the last time you taught this subject.
->     If you haven't taught it before,
+>     If you have not taught it before,
 >     think about your own misconceptions
 >     or ask colleagues about their experiences.
 {: .callout}
@@ -402,7 +402,7 @@ in which you were going to explain something that your learners already know.
 >> ## Solution
 >> This will depend on the event they are attending. Most attendees will guess low.
 >> The purpose of this exercise is to emphasize the importance of frequent formative
->> assessments and that an individual assessment doesn't have to take a lot of time.
+>> assessments and that an individual assessment does not have to take a lot of time.
 > {: .solution}
 {: .challenge}
 

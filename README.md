@@ -12,14 +12,16 @@ or run `make` in this directory for a list of helpful commands.
 
 **Maintainer(s):**
 
-* [Rayna Harris][harris_rayna]
-* [Christina Koch][koch_christina]
-* [Karen Word][word_karen]
+* [Sarah Brown][brown_sarah]: @brownsarahm
+* [Christina Koch][koch_christina]: @ChristinaLK 
+* [Tim Dennis][dennis_tim]: @jt14den
+* [Karen Word][word_karen]: @karenword  
 
 [dc-site]: http://datacarpentry.org
 [lesson-example]: https://carpentries.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
 [lc-site]: https://librarycarpentry.org
 [koch_christina]: https://carpentries.org/instructors/
-[harris_rayna]: https://carpentries.org/instructors/
+[brown_sarah]: https://carpentries.org/instructors/ 
+[dennis_tim]: https://carpentries.org/instructors/
 [word_karen]: https://carpentries.org/team/

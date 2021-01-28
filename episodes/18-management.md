@@ -42,23 +42,23 @@ Here are some strategies Carpentries
 instructors have generated to deal with this issue:
 
 *   Before running a workshop,
-    communicate its level clearly to everyone who's thinking of signing up
+    communicate its level clearly to everyone who is thinking of signing up
     by describing not only the topics that will be covered (e.g. plotting in R), but
     also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you're upfront with participants that you'll be spending time learning how `for` loops work, more
+    If you are upfront with participants that you will be spending time learning how `for` loops work, more
     advanced learners are less likely to sign up.
 *   When asking learners to complete exercises, give "beginner" and "advanced" options.
-    Learners who finish the "beginner" exercise can then challenge themselves and don't get bored.
+    Learners who finish the "beginner" exercise can then challenge themselves and do not get bored.
 *   Ask more advanced learners to help people next to them.
-    They'll learn from answering their peers' questions
+    They will learn from answering their peers' questions
     (since it will force them to think about things in new ways).
 *   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices
     and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
     with by helpers or the co-instructor in the Etherpad.
-*   The helpers and the instructor who isn't teaching the particular episode
+*   The helpers and the instructor who is not teaching the particular episode
     should keep an eye out for learners who are falling behind
     and intervene early
-    so that they don't become frustrated and give up.
+    so that they do not become frustrated and give up.
 
 The most important thing is to accept that
 no class can possibly meet everyone's individual needs.
@@ -66,9 +66,9 @@ If the instructor slows down to accommodate two people who are struggling,
 the other 38 are not being well served.
 Equally,
 if she spends a few minutes talking about an advanced topic because two learners are bored,
-the 38 who don't understand it will feel left out.
-All we can do is tell our learners what we're doing and why,
-and hope that they'll understand.
+the 38 who do not understand it will feel left out.
+All we can do is tell our learners what we are doing and why,
+and hope that they will understand.
 
 
 > ## Learners Use Their Own Machines
@@ -79,7 +79,7 @@ and hope that they'll understand.
 >
 > We have experimented with virtual machines (VMs) on learners'
 > computers to reduce installation problems, but those introduce
-> problems of their own: older or smaller machines simply aren't fast
+> problems of their own: older or smaller machines simply are not fast
 > enough, and learners often struggle to switch back and forth between
 > two different sets of keyboard shortcuts for things like copying and
 > pasting.
@@ -152,7 +152,7 @@ Putting some thought into how you and your co-instructor will work together can 
 > help instructors in more detail.
 >
 > Helpers are sometimes people training to become teachers (i.e.,
-> they're Teacher B in the teach and assist model), but they can also
+> they are Teacher B in the teach and assist model), but they can also
 > be advanced learners who already know the material well, previous
 > workshop participants, or members of the host institution's technical
 > support staff.
@@ -168,7 +168,7 @@ Putting some thought into how you and your co-instructor will work together can 
 >
 > - How would you prepare to teach a workshop together?
 > - During the workshop, what are some things the assisting instructor
-> can do (or shouldn't do!) to support the main instructor?
+> can do (or should not do!) to support the main instructor?
 >
 > As an entire group, discuss what you came up with and then compare
 > to the recommendations below.
@@ -187,15 +187,15 @@ Putting some thought into how you and your co-instructor will work together can 
 >>- Discuss in advance if you will providing feedback to each other
 >>  and how to do so (see notes above).
 >>
->>- If it won't cause cognitive overload for you (the instructors),
->>  work out a couple of hand signals to communicate.  "You're
->>  going too fast", "speak up", "that learner needs help", and, "It's
+>>- If it will not cause cognitive overload for you (the instructors),
+>>  work out a couple of hand signals to communicate.  "You are
+>>  going too fast", "speak up", "that learner needs help", and, "It is
 >>  time for a bathroom break" are all useful.
 >>
->>- The person who isn't teaching shouldn't interrupt, offer
+>>- The person who is not teaching should not interrupt, offer
 >>  corrections, elaborations, or amusing personal anecdotes, or do
 >>  anything else to distract from what the person teaching at the time
->>  is doing or saying.  The one exception is that it's sometimes
+>>  is doing or saying.  The one exception is that it is sometimes
 >>  helpful to ask leading questions, particularly if the learners seem
 >>  unsure of themselves.
 >>
@@ -205,15 +205,15 @@ Putting some thought into how you and your co-instructor will work together can 
 >>  since learners may be distracted by more frequent interleaving.
 >>
 >>- Each person should take a couple of minutes before they start
->>  teaching to see what their partner is going to teach after they're
+>>  teaching to see what their partner is going to teach after they are
 >>  done.  This allows each instructor to set up their partner's material
 >>  without covering it themselves.
 >>
->>- Whenever possible, the person who isn't teaching should stay engaged
+>>- Whenever possible, the person who is not teaching should stay engaged
 >>  with the class.  Monitor the shared notes, keep an eye
->>  on the learners to see who's struggling, jot down some feedback to
+>>  on the learners to see who is struggling, jot down some feedback to
 >>  give your teaching partner at the next break - anything that
->>  contributes to the lesson is better than anything that doesn't.  It's
+>>  contributes to the lesson is better than anything that does not.  It is
 >>  easier for the other instructor to take a break to catch up on outside
 >>  work (like email) if there are at least
 >>  three instructors or sufficient helpers to make sure that the main
@@ -226,7 +226,7 @@ take a few minutes when the class is over to either
 congratulate or commiserate with each other.  In that moment,
 no-one will better understand how pleased you are at helping someone
 understand how loops work, or how disappointed you are that you just
-couldn't get software to install on that one learner's laptop, than
+could not get software to install on that one learner's laptop, than
 the person you just taught with.
 
 

@@ -44,7 +44,7 @@ and must be requested before the three months are up. To request an extension, p
 
 > ## Submit an application
 > To help us track your progress through the checkout process and make sure you get the credit you deserve, you will need to submit an application in our database management system (AMY).
-> If you haven't already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
+> If you have not already, please fill out [the online application form](https://amy.carpentries.org/forms/request_training/). For group name, please enter the name your instructor provides.
 {: .challenge}
 
 ## Part 1: Submit a Small Contribution to a Lesson or Glossary
@@ -88,15 +88,15 @@ Please note that:
 1.  If you submit your contribution through GitHub, you need to [send us](mailto:{{ site.email }})
     a link to the pull request or issue so that we can track your progress through checkout.
 
-2.  **Your contribution doesn't need to be accepted in order for you to become an instructor**:
+2.  **Your contribution does not need to be accepted in order for you to become an instructor**:
     the point is to make sure that you understand the process and have met the people who review material.
 
-3.  Be sure to format your submission in the same way as the content that's already there.
+3.  Be sure to format your submission in the same way as the content that is already there.
     The `CONTRIBUTING.md` file in each lesson has guidelines
     (and improvements to these guidelines are welcome).
 
 4.  The lesson maintainers get many pull requests,
-    so please take some time to write a good commit message to help them understand what you're doing.
+    so please take some time to write a good commit message to help them understand what you are doing.
     For example:
 
     ~~~
@@ -176,10 +176,10 @@ As you are reading, make notes about the following:
 The first two questions are intended to help you become more comfortable
 with our collaborative lesson development methods.
 The third and fourth question refer back to the instructor training course,
-and are meant to give you a chance to apply some of what you've learned to these specific lessons.
+and are meant to give you a chance to apply some of what you have learned to these specific lessons.
 
 During the session,
-you are expected to ask questions to show that you've thought about what you're going to teach
+you are expected to ask questions to show that you have thought about what you are going to teach
 (including questions you had while reading through your chosen lesson),
 and about how our workshops are run in general.
 
@@ -199,7 +199,7 @@ Sample questions include:
 
 Trainees may also ask about:
 
-*   material in the lessons that they don't understand,
+*   material in the lessons that they do not understand,
 *   how teaching these workshops has helped people's own work or careers, and
 *   anything else that comes to mind.
 
@@ -257,7 +257,7 @@ the trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching
 in the session's Etherpad.
 Note that people are required to give feedback on themselves as well as on others;
-note also that it's useful to organize your feedback along the two axes of positive vs. negative
+note also that it is useful to organize your feedback along the two axes of positive vs. negative
 and content vs. presentation,
 just as you will have done during the two-day class.
 
