@@ -54,25 +54,42 @@ and that any additional concerns are likely to be addressed.
 If you are in charge of advance communication with learners for your workshop, note that our [host template](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) includes an inquiry regarding accessibility needs. However, be aware that many people will not feel comfortable requesting accommodations in advance, or at all if it can be avoided.
 For example, a participant with minor hearing loss may simply hope that the workshop will be adequately amplified or captioned for them to get by. Taking steps to make your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
-> ## Accommodations Can Help Everyone
->
-> [Curb cuts][wikipedia-curb-cuts]
-> (the small sloped ramps joining a sidewalk to the street)
-> were originally created to make it easier for wheelchair users to move around,
-> but proved to be equally helpful to people with strollers and grocery carts.
-> Similarly,
-> steps taken to make lessons more accessible to people with various disabilities
-> also help everyone else.
-> Adding alt-text to images,
-> for example,
-> benefits people with limited vision by giving screen readers something to say;
-> it also makes the images more findable
-> by exposing their content to search engines.
-{: .callout}
+# From Accomodation to Universal Design 
 
-The first step is to know what you need to do. There are a number of good resources for learning
-about accessibility.
+Accomodation means making a change to an existing system in order to serve an individual with a demonstrated need. Think of a student asking a professor for more time to take an exam because of a learning disability. However, accomodation puts the onus on the indvidual with the need to have to disclose their disability and ask for accomodations. Research suggests that requests for accomodation are often met with negative emotions such as uncertainity, confusion, annoyance or anger by those making the accomodations.  
 
+By contrast, universal design is "the design of products, environments, and communication to be usable by all people, to the greatest extent possible, without adaptation or specialized design" (Institute for Human Centered Design, 2016). A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/Curb_cut) and sidewalk ramps. While they were originally created to make it easier for wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
+
+## Universal Design in Learning (UDL)
+
+In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design into Education with the Universal Design in Learning (UDL) Framework. 
+
+UDL argues for putting the accessibility responsibility on the curriculum rather than on the learner. It states that the most inclusive approach to education is to design curriculum with diverse learners in mind from the beginning.
+
+UDL is not about finding the one, best way to teach everyone. The key to UDL is creating redundancies such that learners have multiple options in how they: 
+1. receive
+2. engage, and
+3. share information.  
+
+Activity: Applying Universal Design in Your Teaching
+
+Choose a lesson you are familiar with and think abou how you have taught it or plan to teach it, perhaps drawing upon some of the ideas we have discussed so far in this workshop. What teaching tools and strategies would you use? Would any of these meet UDL goals of providing multiple options for learners? 
+
+Try to come up with one way in which your approach would create multiple ways for learners to:
+- receive information
+- engage with you, the material, and other learners
+- share what they have learned.
+
+Examples
+- receive information
+    - Provide course material in multiple formats (e.g., verbally, visually through live coding, and in a text format such as a Command History or notes document)
+- engage with you, the material, and other learners
+    - Learn about your learners (through pre-workshop surveys, introductions, or feedback) and try to tailor the material you focus on or the examples you use to their needs and interests
+    - Offer multiple ways to interact (e.g., collaborative notetaking document, breakout groups)
+- share what they have learned.
+    - Create many opportunities for learners to provide feedback (e.g., challenge exercises, sticky notes)
+{.challenge}
+ 
 > ## Learning about Accessibility
 >
 > The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
