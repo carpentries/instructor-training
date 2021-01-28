@@ -18,10 +18,10 @@ For In-Person Events:
 
 3\.  We will be recording one another teaching in pairs or threes during the class,
     so please bring a cell phone or hand-held camera that can record audio and video.
-    It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
+    It does not have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
 4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
-    (a tablet won't be sufficient).
+    (a tablet will not be sufficient).
 
 For Online Events:
 

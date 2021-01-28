@@ -13,7 +13,7 @@ title: "Icebreakers"
 ### Our First Exercise
 
 In the Etherpad, write down your name, the best class you ever
-took (or one class from your top ten, if you can't decide), and
+took (or one class from your top ten, if you cannot decide), and
 what made it so great.
 This exercise should take about 2 minutes.
 
@@ -24,7 +24,7 @@ or you both brush your teeth in the shower). Put your "surprise" similarity into
 you come back from break and vote on the most surprising.
 
 We really want you to get to know your fellow learners and become comfortable interacting. There
-will be several interactive activities in the next two days. Let's all start bonding now.
+will be several interactive activities in the next two days. Let us all start bonding now.
 
 ### Discussing Concept Maps
 
@@ -38,7 +38,7 @@ like lab lessons?
 
 ### In the Real World
 
-How practical do you think it would be to use the techniques you've learned in this workshop
+How practical do you think it would be to use the techniques you have learned in this workshop
 in regular teaching?
 In particular,
 do you think you would have enough time to prepare and teach lessons
@@ -56,7 +56,7 @@ Is it seeing a lightbulb moment in a student's eye, or learning something new wh
 
 ### Favorite Emoji
 
-What is your favorite emoji. If you don't have a favorite or don't use emoiji's, that is an okay answer.
+What is your favorite emoji. If you do not have a favorite or do not use emoiji's, that is an okay answer.
 
 ### Mythical creature
 
