@@ -82,37 +82,32 @@ discuss this in a later section).  We will next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
 implications for how we teach novices.
 
-## Cognitive Development and Mental Models
+## "All Models are Wrong, but Some are Useful"
 
-Effective learning is facilitated by the creation of a well-founded mental model. A mental model is a collection of concepts and facts,
-along with the relationships between those concepts, which a person has about a topic. For example, a long-time resident of the United
-States may have an advanced understanding of the location of US states, major cities and landmarks, weather patterns, regional
-economies and demographic patterns, as well as the relationships among these, compared with their understanding of these relationships
-for other countries. In other words, their mental model of the United States is more complex compared with their mental model of other
-countries.
+"Knowledge" turns out to be a rather tricky thing to describe. Even for an expert, understanding is never a mirror of reality; rather, it is 
+a complicated construction of concepts and connections, much of which is beyond our awareness, leading to things like "intuition". 
+One way of conceptualizing our understanding of a topic is as a **mental model** - whatever reality may be, we have ideas about concepts and
+relationships and our minds put them together in a way that allows us to extrapolate, or make predictions beyond what we strictly know, filling in 
+gaps to the point that things "make sense." 
 
-We can distinguish between a *novice* and a *competent
-practitioner* for a given domain based on the complexity of their mental models.
+Effective learning is facilitated by the creation of a mental model that makes reasonable predictions in our area of interest, or at the very least
+does not break down entirely in the face of new information. A driver may get by just fine with a mental model that includes fuel, an engine, and a car battery;
+an alternator failure may not be something they could explicitly predict, but it is reasonable in that context that another part might broker the relationship 
+between the engine and the battery. Alternatively, a child who attributes sentient will to a vehicle will have to work much harder to make sense 
+of such a problem.
 
-*     A *novice* is someone who has not yet built a mental model of the domain.
+A mental model may be understood as a collection of concepts and facts, along with the relationships between those concepts, which a person has about a topic. 
+The mental model of an expert in any given subject will be far more complex than that of a novice, though both may be perfectly useful in certain contexts. 
+
+We can also, then, define skill levels according to the level of mental model development: 
+*     A *novice* is someone who has a minimal and potentially inaccurate mental model of surface features of the domain.
 They therefore reason by analogy and guesswork,
 borrowing bits and pieces of their mental models of other domains
-which seem superficially similar.
-*     A *competent practitioner* is someone who has a mental model that is good enough for everyday purposes. This model
-does not have to be completely accurate in order to be useful:
-for example, the average driver's mental model of how a car works probably does not include
-most of the complexities that a mechanical engineer would be concerned with.
+which seem superficially similar. New information can be difficult to connect, especially where the existing model is wrong.
+*     A *competent practitioner* is someone who has a mental model that is useful for everyday purposes. Most new information
+they are likely to encounter will fit well with their existing model, even though many related elements may still be missing or wrong.
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
-
-### Concept maps
-This kind of visual representation of concepts and connections between them can be a useful way to explore your own knowledge, evaluate comprehension, or
-communicate complex relationships. There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
-flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
-classroom use by John Novak in the 1970s, a concept map asks you identify which concepts are most relevant to your instructional question and -- critically -- to
-identify how they are related. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
-format can often reveal connections you may not have been aware of, or illuminate gaps. Either way, concept mapping can help you to make your mental model of a 
-concept more clear to yourself or others.
 
 ### The power (and limitations) of analogies
 Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
@@ -121,18 +116,35 @@ because they draw upon an existing mental model to fill in another, speeding lea
 As with all models, "all... are wrong but some are useful." If you choose to use an analogy, be sure its usefulness outweighs its potential to generate harmful
 misconceptions. 
 
-
-> ## Your Mental Models
+> ## Breaking Down Analogies
 >
-> 1. Think of an analogy to explore. Perhaps you have one that relates to your area of professional interest, or a hobby. Or, maybe you would like to explore
-> the comparison of a teacher to a gardener. In the etherpad below, take a moment to explain what that analogy conveys about the topic. Then, take another moment
-> to identify a limitation where that analogy breaks down or could foster a misconception.
->
-> 2. On a piece of paper, draw a concept map of the same concept, without the analogy. What are 3-4 core concepts involved? How are those concepts related?
->  
-> 3. Share your analogy with a partner, and describe the process of building the concept map. Have you learned anything about your mental model of the process 
-> at hand? If you were asked to teach this concept, would this influence how you would teach it?
+> 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. Or, maybe you would like to 
+> explore the comparison of a teacher to a gardener. 
+> 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
+> convey about the topic? How is it useful? In what ways is it wrong?
+> This activity should take about 5 minutes.
 {: .challenge}
+
+### Concept maps
+Visual representation of concepts and relationships can be a useful way to explore your own knowledge, evaluate comprehension, or
+communicate complex relationships. There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
+flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
+classroom use by John Novak in the 1970s, a concept map asks you identify which concepts are most relevant to your instructional question and -- critically -- to
+identify how they are connected. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
+format can often reveal connections you may not have been aware of, or illuminate gaps. Especially where analogies are not available, concept mapping can help 
+you to make your mental model of a concept more clear to yourself or others.
+
+![Four words inside circles, with labeled arrows connecting them. "Car" is at the top, with an arrow pointing to "engine" labeled as "is powered by." An arrow connects "engine" to "fuel," at left, labeled "requires energy from." Another arrow connects "engine" to "battery," at right, labeled "charges." An arrow connects "battery" back to "car," labeled "is needed to start."](../fig/Cmap-Car.svg)
+
+> ## Mapping a Mental Model
+>
+> 1. On a piece of paper, draw a concept map of the same concept you discussed in the last activity, but this time without the analogy. What are 3-4 core 
+> concepts involved? How are those concepts related?
+>  
+> 2. In the etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
+> What would be necessary for a learner to complete such an exercise?
+{: .challenge}
+
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
