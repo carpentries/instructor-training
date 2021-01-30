@@ -18,23 +18,28 @@ keypoints:
 - "A good exercise provides useful guidance to instructors about next steps needed in teaching."
 ---
 
-Yesterday we started a discussion of the importance of [lesson study]({{ page.root }}/11-practice-teaching/).
-We started out by focusing on the lessons we can learn as instructors from watching others teach, having
-others observe our teaching, and giving and receiving feedback based on these observations. In this
-section, we will switch our focus to another important part of lesson study: detailed discussion of
-curricular components (including lesson objectives, contents, and exercises) with an eye toward actively preparing to
-teach a workshop.
+Yesterday we learned many cognitive principles and teaching practices that are at the heart of the curriculum we design, collaboratively, in The Carpentries
+community. Ultimately, however, this curriculum is in *your* hands. If you have signed up to teach Carpentries workshops, we know that you care about the
+content you are teaching, and we suspect you probably have a pretty good idea of how to prepare your technical knowledge. We also expect that you may be more
+of a novice when it comes to implementing the principles and practices we discussed yesterday in a real classroom.
 
-### Learner Profiles
+When you prepare to teach a workshop, it is useful to take a moment *before* deeply reviewing your technical content to think through the learner experience, how
+your teaching will translate into their learning, and how both of you will know when that happens.
 
-To teach effectively, you have to know *who* you are teaching. Your audience can be identified in many ways.  Frequently
-people who are hosting a workshop have a specific audience in mind, based on their own experience.  
+### Anticipating Your Audience
 
-One "creative" way to think deeply about the audience for a workshop is to take a few moments to write *learner profiles*.
+To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
+(we hope!) have a plan to learn a few things about your participants after a class has begun. However, in thinking about your learners, it is 
+also important to consider the broader contexts they bring in ways that you will never get to fully explore in your classroom. It can be helpful
+to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others. 
+
+For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner 
+profile**. This is a good way to support an empathic and intentional approach to your plan for instruction.
+
 Learner profiles have three parts:
-the person's general background,
-the problem they face,
-and how the course will help them.
+- the person's general background,
+- the problem they face,
+- and how the course will help them.
 One example of a learner profile for a Software Carpentry workshop might be:
 
 > João is an agricultural engineer doing his masters in soil physics.
@@ -56,9 +61,7 @@ One example of a learner profile for a Software Carpentry workshop might be:
 
 > ## Learner Profiles
 >
-> Read [Software Carpentry's learner profiles]({{ site.swc_site }}/audience/). Note that these example profiles contain more
-> information than you will ever know about a learner; this is a creative exercise in imagining (and empathizing with) the
-> whole people behind the faces. Now, sketch out a profile of someone you might expect to attend your first workshop.
+> Sketch out a profile of someone you might expect to attend your first workshop, based on the example above.
 > Who are they,
 > what problems do they face,
 > and how might this training help them?
@@ -68,81 +71,91 @@ One example of a learner profile for a Software Carpentry workshop might be:
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
+More exmples of learner profiles for Software Carpentry are provided [here]({{ site.swc_site }}/audience/). Note that some of these example profiles contain more
+personal details, which can be uncomfortable to read. It is not necessary to include these kinds of details when creating your own learner profiles. However this kind of
+thinking can also support a careful approach to accessibility and inclusion. Whether through learner profiles or more general brainstorming, it is
+useful to recognize that you will never know everything about the whole people who come into your classroom. You will not
+be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
+workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped 
+breakfast to save money that morning. Thinking deeply about learners as people can help you prepare to bring your best self and provide an inclusive environment for everyone.
 
-## Reverse Instructional Design (and Preparation!)
 
-When sitting down to plan a course or workshop, it might be tempting to dive into reviewing the content, questioning your
-understanding, and anticipating questions that learners might have for you. While it is good to prepare your content, this
-approach can take you down extended rabbit-holes in which you anticipate and research questions that only an expert
-would think to ask, and never get around to thinking about how to get your learners from one point to the next, and how to
-know when they have gotten there.  
+## Reviewing your Learning Goals
 
-This is a problem with curriculum design as well as preparation. When writing curriculum, it is easy to allow *content*
-objectives to distract from *learning* objectives. One way to prevent this is to take a "reverse" approach to instruction, as
+Now that you have a good sense of who might be in your classroom, you are ready to think through their experience with the content you plan to teach. 
+This is different from thinking through the content itself. 
+
+In curriculum design, it is common to put content design first, then design assessments, and perhaps create learning objectives if asked to do so. However,
+the actual goal of a course should be learning -- all the great content in the world will be useless if it is not learned. 
+
+One way to keep the focus on the learner experience is to take a "reverse" approach to instruction, as
 advanced in Wiggins and McTighe's *[Understanding by Design](http://www.worldcat.org/title/understanding-by-
-design/oclc/56491025)*, that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
+design/oclc/56491025)*. The order of course design in this case becomes
 
-1.  Determine your learning objectives
+1.  Determine learning objectives
 2.  Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
 3.  Design instruction: Sort assessments in order of increasing complexity, and write content that connects everything together
 
-In the context of preparing for a Carpentries-style workshop, the lesson design has already occurred, and many lessons include
-pre-written exercises to use for assessment. In this context, *reverse instructional design*  principles might be applied as
-follows: 1) review the lesson's learning objectives carefully, thinking about how they will work for your audience, 2) scan
-the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 3) review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
+This process is much more likely to lead to an appropriately stepped curriculum that guides learners to specific goals and demonstrates to both instructors
+and learners that those goals have been met. 
+
+In the case of Carpentries workshops, the lesson has already been designed, and pre-written exercises are often available to use for assessment. here, **reverse 
+instructional design** principles might be applied as follows: 
+
+1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
+2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 
+3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
 
 ## Working With Learning Objectives
-Once you have an idea of your intended audience, the next step is to think through the goals for your workshop. These goals
-are usually communicated through *learning objectives*.
+All Carpentries workshops should have learning objectives listed at the top of each episode. Did you notice the objectives in the lesson you chose to study for 
+today? In the next exercise, we are going to take a moment to understand those objectives, because in the best cases they are quite specific about exactly what 
+level a learner is expected to operate at. This can be helpful in both designing formative assessments and in evaluating potential additions or digressions for 
+appropriateness.
 
-The "learning objectives" section is an easy thing to pass over when you are preparing to teach. It may seem obvious or
-unnecessary. However, good learning objectives are quite specific about the intended effect of a lesson on its learners. We
-aim to create learning objectives that are specific, accurate, and informative for both learners and instructors.
-
-[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps.
-While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
-hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved without mastery of outcomes at
-the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
-need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and
-guiding them to look ahead to where we might not be able to take them.
-
-![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create. Next to each level is a description of that stage and a list of action verbs associated with each level. From the bottom - Remember is recall facts and basic concepts: define, duplicate, list, memorize, repeat, state. Understand is explain ideas or concepts: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate. Apply is use information in new situations: execute, implement, solve, use, demonstrate, interpret, operate, schedule, sketch. Analyze is draw connections among ideas: differentiate, organize, relate, compare, contrast, distinguish, examine, experiment, question, test. Evaluate is justify a stand or decision: appraise, argue, defend, judge, select, support, value, critique, weight. Create is produce new or original work: design, assemble, construct, conjecture, develop, formulate, author, investigate.](../fig/Blooms.png)
-
-Image credit: Vanderbilt University Center for Teaching
+When thinking about learning objectives, it is important to keep the 'level' of a learner in mind. There are many ways of conceptualizing 'level' in education. 
+However, you probably have your own sense of what kinds of goals can be achieved by a novice, and what kinds of things can
+only be achieved after some 'groundwork' has been laid. 
 
 > ## Evaluate Learning Objectives
 >
-> Select one learning objective from the episode you've used for teaching practice,
-> then complete the following steps to evaluate it.
+> Select one learning objective from the episode you've used for teaching practice. Copy it into the etherpad
+> then add numbers below your objective to address the following:
 >
-> 1. Identify the learning objective verb. How specifically does this verb describe the desired learner outcome?
-> 2. Where does this verb fit on Bloom's taxonomy? Do you think this is an appropriate level for your learners?
-> 3. In your opinion, does the lesson do an effective job of meeting the stated objective?
-> 4. What would the next level on Bloom's taxonomy look like for your learners? How might you be able to help them think ahead
-> to the next level without attempting to get them there during your workshop?
+> 1. Identify the *action* specified in the learning objective. 
+> 2. Suppose a learner had met this objective. Write a "next step" learning objective for them on the same topic. How is the action different?
+> 3. Is it possible to write an objective at a *lower* level than the one in your lesson? What would that look like?
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
+Chances are, your class has re-invented many components of Bloom's Taxonomy. While Bloom's is not an empirically derived framework, research supports the 
+existence -- and constraints -- of such a heirarchy. 
+
+![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.png)
+
+What is useful about this model is that it helps us to be mindful of skipping steps in our ambition to achieve the highest levels of learning. Many courses
+strive -- and brag about -- bringing learners to "higher order" thought processes, asking learners to apply, analyze, evaluate, or create using content they
+learn in a course. When these efforts fail, it is typically because instructors have neglected to attend to the 'lowly' task of helping learners to remember and
+understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower levels. Where more advanced 
+actions are expected, be mindful to provide support where prior learning may be required.
 
 ## Using Formative Assessments
 
-When assessments are created in a reverse-design setting, their primary purpose is to inform the instructor about whether
-objectives have been met. But, as noted in previous lessons, these assessments are good for everyone! For learners, becoming
-more aware of their progress is motivating and helps to transfer learned content to long-term memory.
-Awareness of the learning process, also known as "metacognition," will also help them to identify appropriate next steps after a workshop has completed.
+When a learning objective has been met, everyone should know about it! You, as an Instructor, can be satisfied that your teaching has successfully translated
+into learning. For learners, recognizing that they have successfully learned something is motivating and it also supports their ability to monitor their own 
+progress -- this awareness, or *metacognition*, is especially key to supporting continued learning beyond the classroom. However, not all lessons have 
+checkpoints built in where such progress is made clear.
 
 > ## Where are your checkpoints?
 >
 > Have a look at your learning objective again and identify
-> *where* in the lesson that objective should reasonably be achieved. How will
-> you know that that objective has been met for all learners? Will this be clear
-> to them?
+> *where* in the lesson that objective should reasonably be achieved. 
 >
-> Make a plan for *where* in your lesson you will use different types of
-> formative assessment to help everyone in the room monitor their progress. Keep
-> in mind that formative assessment can take many forms, including multiple
+> How might you apply formative assessment to 
+> a) verify that that achievement has been met by all and 
+> b) make learners aware of their accomplishment?
+> Keep in mind that formative assessment can take many forms, including multiple
 > choice questions, faded examples, spontaneous questions and calls for sticky
 > notes. Write some notes or thoughts about this process in the Etherpad for
 > discussion.
@@ -151,13 +164,15 @@ Awareness of the learning process, also known as "metacognition," will also help
 {: .challenge}
 
 
-> ## You Cannot Just Ask
+> ## "Do You Understand?" is a Bad Question
 >
-> Self-assessments of skill level are usually inaccurate
+> Learners are often reluctant to admit when they do not understand. Furthermore, self-assessments of skill in the absence of formative assessment are often inaccurate
 > because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
 > the less people know about a subject,
-> the less accurate their estimate of their knowledge is. This is one reason why assessments should be specific, as
-> opposed to asking if everyone understands.
+> the less accurate their estimate of their knowledge is. Therefore, if you ask a room full of people
+> "Do you understand?" the result will invariably be a number of 'yes' responses (many of them inaccurate) which tend to drown out a
+> variable amount of silence. Instead, a targeted formative assessment takes the inaccuracy and stress of self-judgement away and demonstrates to all whether understanding has
+> met the instructor's goal.
 {: .callout}
 
 
