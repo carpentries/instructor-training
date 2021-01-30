@@ -99,22 +99,11 @@ of such a problem.
 A mental model may be understood as a collection of concepts and facts, along with the relationships between those concepts, which a person has about a topic. 
 The mental model of an expert in any given subject will be far more complex than that of a novice, though both may be perfectly useful in certain contexts. 
 
-We can also, then, define skill levels according to the level of mental model development: 
-*     A *novice* is someone who has a minimal and potentially inaccurate mental model of surface features of the domain.
-They therefore reason by analogy and guesswork,
-borrowing bits and pieces of their mental models of other domains
-which seem superficially similar. New information can be difficult to connect, especially where the existing model is wrong.
-*     A *competent practitioner* is someone who has a mental model that is useful for everyday purposes. Most new information
-they are likely to encounter will fit well with their existing model, even though many related elements may still be missing or wrong.
-
-![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
-
 ### The power (and limitations) of analogies
 Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
 pervasive because they rapidly convey characteristics that can otherwise be difficult to explain. Good analogies can be extraordinarily useful when teaching,
 because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
-As with all models, "all... are wrong but some are useful." If you choose to use an analogy, be sure its usefulness outweighs its potential to generate harmful
-misconceptions. 
+If you choose to use an analogy, be sure its usefulness outweighs its potential to generate harmful misconceptions. 
 
 > ## Breaking Down Analogies
 >
@@ -124,6 +113,18 @@ misconceptions.
 > convey about the topic? How is it useful? In what ways is it wrong?
 > This activity should take about 5 minutes.
 {: .challenge}
+
+
+Mental models can also help us to better understand different levels of skill development: 
+*     A *novice* is someone who has a minimal and potentially inaccurate mental model of surface features of the domain.
+They therefore reason by analogy and guesswork,
+borrowing bits and pieces of their mental models of other domains
+which seem superficially similar. New information can be difficult to connect, especially where the existing model is wrong.
+*     A *competent practitioner* is someone who has a mental model that is useful for everyday purposes. Most new information
+they are likely to encounter will fit well with their existing model, even though many related elements may still be missing or wrong.
+
+![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
+
 
 ### Concept maps
 Visual representation of concepts and relationships can be a useful way to explore your own knowledge, evaluate comprehension, or
