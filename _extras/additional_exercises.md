@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "Additional Exercises"
+---
 
 ## Episode 2: Building Skill with Practice
 
