@@ -172,12 +172,3 @@ Awareness of the learning process, also known as "metacognition," will also help
 {: .callout}
 
 
-> ## Feedback On Your Challenges (Optional)
->
-> With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
-> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to
-> make at least one modification to your exercise(s). Discuss in the Etherpad the change you made and how it will
-> help you get more useful information about your learners.
->
-> This exercise and discussion should take about 15 minutes.
-{: .challenge}
