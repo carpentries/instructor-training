@@ -61,8 +61,8 @@ of promoting efficient, shareable, and reproducible research practices.
 Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
-*   a focus on technical skills.
-*   a two-day format taught by volunteer instructors.
+*   a focus on technical skills,
+*   a two-day format taught by volunteer instructors, and
 *   a focus on filling gaps in current training for learners.
 
 The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
@@ -78,8 +78,8 @@ Data Carpentry workshops:
 Library Carpentry workshops:
 
 *   are aimed at people in library- and information-related roles,
-*   focus on best practices in data structure, and
-*   are modular---each Library Carpentry lesson is standalone.
+*   focus on best practices in data structure,
+*   are modular---each Library Carpentry lesson is standalone, and
 *   are sometimes less than two days.
 
 Software Carpentry workshops are:
@@ -104,7 +104,7 @@ are all trademarked.
 You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if:
 
 *   it covers the core topics (see below),
-*   at least one of the instructors is a certified Carpentries Instructor,
+*   at least one of the instructors is a certified Carpentries Instructor, and
 *   you run our standardized pre- and post-workshop assessments and ensure everyone participates.
 
 
