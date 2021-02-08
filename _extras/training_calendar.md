@@ -30,12 +30,7 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* [February 1-4, 2021](https://www.eventbrite.com/e/online-instructor-training-february-1-4-2021-n-america-pacific-time-tickets-130300679841)
-    * 9 am to 1 pm North America Pacific
-    * 12 noon to 4 pm North America Eastern
-    * 5 pm to 9 pm Greenwich Mean Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210201T09&p1=137&ah=4)*
-
+* February 1-4, 2021 *Registration Closed*
 
 <br>
 
