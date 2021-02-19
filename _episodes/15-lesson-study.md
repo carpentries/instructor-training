@@ -171,7 +171,8 @@ checkpoints built in where such progress is made clear.
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is. Therefore, if you ask a room full of people
 > "Do you understand?" the result will invariably be a number of 'yes' responses (many of them inaccurate) which tend to drown out a
-> variable amount of silence. Instead, a targeted formative assessment takes the inaccuracy and stress of self-judgement away and demonstrates to all whether understanding has
+> variable amount of silence. Instead, a targeted formative assessment takes the inaccuracy and stress of self-judgement away and 
+> demonstrates to all whether the learners' level of understanding has
 > met the instructor's goal.
 {: .callout}
 
