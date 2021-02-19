@@ -20,8 +20,9 @@ keypoints:
 
 Yesterday we learned many cognitive principles and teaching practices that are at the heart of the curriculum we design, collaboratively, in The Carpentries
 community. Ultimately, however, this curriculum is in *your* hands. If you have signed up to teach Carpentries workshops, we know that you care about the
-content you are teaching, and we suspect you probably have a pretty good idea of how to prepare your technical knowledge. We also expect that you may be more
-of a novice when it comes to implementing the principles and practices we discussed yesterday in a real classroom.
+content you are teaching, and we suspect you probably have a pretty good idea of how to prepare your technical knowledge. We also expect that, compared with your 
+technical accomplishments, your skill level may be less advanced when it comes to implementing the principles and practices we discussed yesterday in a real classroom. 
+Even if you have years of experience in the classroom, new instructional practices can take you into uncharted territory! 
 
 When you prepare to teach a workshop, it is useful to take a moment *before* deeply reviewing your technical content to think through the learner experience, how
 your teaching will translate into their learning, and how both of you will know when that happens.
