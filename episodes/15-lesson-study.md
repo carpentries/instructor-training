@@ -62,7 +62,7 @@ One example of a learner profile for a Software Carpentry workshop might be:
 
 > ## Learner Profiles
 >
-> Sketch out a profile of someone you might expect to attend your first workshop, based on the example above.
+> Sketch out a profile of someone you might expect to attend your workshop, based on the example above.
 > Who are they,
 > what problems do they face,
 > and how might this training help them?
@@ -137,7 +137,7 @@ existence -- and constraints -- of such a heirarchy.
 
 What is useful about this model is that it helps us to be mindful of skipping steps in our ambition to achieve the highest levels of learning. Many courses
 strive -- and brag about -- bringing learners to "higher order" thought processes, asking learners to apply, analyze, evaluate, or create using content they
-learn in a course. When these efforts fail, it is typically because instructors have neglected to attend to the 'lowly' task of helping learners to remember and
+learn in a course. When these efforts fail, it is typically because instructors have neglected to attend to the 'low-level' (foundational!) task of helping learners to remember and
 understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower levels. Where more advanced 
 actions are expected, be mindful to provide support where prior learning may be required.
 
