@@ -155,8 +155,8 @@ Here, we will cover some information about actually running a workshop.
 
 Briefly, there are two types of Carpentries workshops: **centrally-organized** and
 **self-organized**. Centrally-organized workshops include support from
-[Regional Coordinators](https://carpentries.org/regionalcoordinators/).
-Regional Coordinators will:
+[Regional Coordinators](https://carpentries.org/regionalcoordinators/) and our workshop administration team.
+The Carpentries team will:
 - recruit Instructors to teach
 - manage workshop registration
 - coordinate communication between Instructors and Hosts
