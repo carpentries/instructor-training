@@ -124,8 +124,8 @@ only be achieved after some 'groundwork' has been laid.
 > then add numbers below your objective to address the following:
 >
 > 1. Identify the *action* specified in the learning objective. 
-> 2. Suppose a learner had met this objective. Write a "next step" learning objective for them on the same topic. How is the action different?
-> 3. Is it possible to write an objective at a *lower* level than the one in your lesson? What would that look like?
+> 2. Suppose a learner had met this objective, and wanted to do more or challenge themselves on the same topic. What do you think a *next level* objective might look like? How is the action different?
+> 3. Suppose a learner struggles to meet the specified objective. Is it possible to write an objective at a *lower level* than the one in your lesson? What would that look like?
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
@@ -137,7 +137,7 @@ existence -- and constraints -- of such a heirarchy.
 
 What is useful about this model is that it helps us to be mindful of skipping steps in our ambition to achieve the highest levels of learning. Many courses
 strive -- and brag about -- bringing learners to "higher order" thought processes, asking learners to apply, analyze, evaluate, or create using content they
-learn in a course. When these efforts fail, it is typically because instructors have neglected to attend to the 'low-level' (foundational!) task of helping learners to remember and
+learn in a course. When these efforts fail, it is often because instructors have neglected to attend to the 'low-level' (foundational!) task of helping learners to remember and
 understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower levels. Be mindful to provide support where prior learning may be required.
 
 ## Using Formative Assessments
