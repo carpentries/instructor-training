@@ -140,6 +140,8 @@ strive -- and brag about -- bringing learners to "higher order" thought processe
 learn in a course. When these efforts fail, it is often because instructors have neglected to attend to the 'low-level' (foundational!) task of helping learners to remember and
 understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower levels. Be mindful to provide support where prior learning may be required.
 
+Do your answers to the previous activity fit into Bloom's Taxonomy? Does it add to or change the way you think about your responses?
+
 ## Using Formative Assessments
 
 When a learning objective has been met, everyone should know about it! You, as an Instructor, can be satisfied that your teaching has successfully translated
