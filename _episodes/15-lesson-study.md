@@ -197,7 +197,7 @@ If you are teaching a centrally-organized workshop,
 please wait for the email from your regional coordinator
 that will tell you the slug to use for your workshop.
 
-Once that your workshop website has been created,
+Once your workshop website has been created,
 the host or lead instructor sends its URL to
 the [workshop coordinator](mailto:team@carpentries.org),
 who adds it to our records.
