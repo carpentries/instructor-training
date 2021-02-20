@@ -57,14 +57,15 @@ an arrow labelled "Experience level" points from left to right. Underneath the f
 
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions "are not even wrong".
+    Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic
+    as they reach for anything they know to connect.
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
 
 *   *Competent practitioner*: someone who has enough understanding for everyday purposes. They will not know all the details
-of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
-tasks with normal effort under normal circumstances.
+    of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
+    tasks with normal effort under normal circumstances.
 
     > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to
     move around directories and use individual programs, but they might not understand how they can fit these programs
@@ -75,12 +76,15 @@ tasks with normal effort under normal circumstances.
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
+Note that, while you may not think of yourself as a computational "expert," in the context above that term may accurately describe
+your skill level. We will come back to the expertise of the instructor in the next episode. 
 For now, we are primarily concerned with novices,
-as this tends to characterize The Carpentries audience. (We, as instructors,
-  are more likely to be competent practitioners or experts, and we will
-discuss this in a later section).  We will next use an additional concept
-to help us differentiate between novices and competent practitioners, which will have
-implications for how we teach novices.
+as this tends to characterize The Carpentries audience.
+
+You might think of a novice as a sort of an 'empty vessel' into which knowledge can be 'poured'. Unfortunately, this analogy has
+very limited usefulness and generates dangerous misconceptions. In our next section, we will briefly explore the nature of "knowledge" through a concept
+that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
+for how we teach.
 
 ## "All Models are Wrong, but Some are Useful"
 
@@ -90,22 +94,25 @@ One way of conceptualizing our understanding of a topic is as a **mental model**
 relationships and our minds put them together in a way that allows us to extrapolate, or make predictions beyond what we strictly know, filling in 
 gaps to the point that things "make sense." 
 
-Effective learning is facilitated by the creation of a mental model that makes reasonable predictions in our area of interest, or at the very least
-does not break down entirely in the face of new information. A driver may get by just fine with a mental model that includes fuel, an engine, and a car battery;
-an alternator failure may not be something they could explicitly predict, but it is reasonable in that context that another part might broker the relationship 
-between the engine and the battery. Alternatively, a child who attributes sentient will to a vehicle will have to work much harder to make sense 
-of such a problem.
+As we learn, we create a mental model of a topic. A useful model is one that makes reasonable predictions and fits well with new things
+we are likely to encounter, or at least does not break down entirely as new concepts are added. A driver of a gasoline powered car may 
+do just fine with a mental model that includes relationships between fuel, an engine, and a car battery;
+a broken alternator may not be something they could predict, but learning that another part mediates the relationship 
+between the engine and the battery adds to the model without the driver having to add any other concepts or un-learn mis-conceived relationships. 
+Alternatively, a child who attributes sentient will to a vehicle will have to work much harder to make sense 
+of a broken alternator.
 
-A mental model may be understood as a collection of concepts and facts, along with the relationships between those concepts, which a person has about a topic. 
-The mental model of an expert in any given subject will be far more complex than that of a novice, though both may be perfectly useful in certain contexts. 
+A mental model may be understood as a collection of concepts and facts, connected by relationships. 
+The mental model of an expert in any given subject will be far more complex than that of a novice, including both more concepts 
+and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
 
 ### The power (and limitations) of analogies
 Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
 pervasive because they rapidly convey characteristics that can otherwise be difficult to explain. Good analogies can be extraordinarily useful when teaching,
 because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
-If you choose to use an analogy, be sure its usefulness outweighs its potential to generate harmful misconceptions. 
+If you choose to use an analogy, be sure its usefulness outweighs its potential to generate misconceptions. 
 
-> ## Breaking Down Analogies
+> ## Analogy Brainstorm
 >
 > 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. Or, maybe you would like to 
 > explore the comparison of a teacher to a gardener. 
@@ -115,7 +122,7 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 {: .challenge}
 
 
-Mental models can also help us to better understand different levels of skill development: 
+Mental models can be applied to explain levels of skill development: 
 *     A *novice* is someone who has a minimal and potentially inaccurate mental model of surface features of the domain.
 They therefore reason by analogy and guesswork,
 borrowing bits and pieces of their mental models of other domains
@@ -127,8 +134,8 @@ they are likely to encounter will fit well with their existing model, even thoug
 
 
 ### Concept maps
-Visual representation of concepts and relationships can be a useful way to explore your own knowledge, evaluate comprehension, or
-communicate complex relationships. There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
+Visual representation of concepts and relationships can be a useful way to explore, evaluate, or communicate when teaching.
+There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
 flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
 classroom use by John Novak in the 1970s, a concept map asks you identify which concepts are most relevant to your instructional question and -- critically -- to
 identify how they are connected. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
@@ -194,17 +201,16 @@ That mental model of the shell also includes things like:
     (This motivates the pipe-and-filter model.)
 
 These two examples illustrate something else as well.
-Learning consists of more than "just" building mental models
-and adding information to them;
+Learning consists of more than "just" adding information to mental models;
 creating linkages between concepts and facts is at least as important.
 Telling people that they should not repeat things,
-and that they should try to think in terms of little pieces loosely joined,
+and that they should try to think (by analogy) in terms of little pieces loosely joined,
 both set the stage for discussing functions.
 Explicitly referring back to pipes and filters in the shell when introducing functions
 helps solidify both ideas.
 
 > ## Meeting Learners Where They Are
-> One of the strengths of Carpentries workshops is that we meet learners where they are at. Carpentries Instructors
+> One of the strengths of Carpentries workshops is that we meet learners *where they are*. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
@@ -240,7 +246,7 @@ Broadly speaking, misconceptions fall into three categories:
 
 Since The Carpentries workshops are focused on novices, and the building of
 strong mental models, we are most interested in the middle category of misconceptions.
-While teaching, we want to expose learners' broken models so that we can help them build better ones.
+While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place.
 
 ## Identifying and Correcting Misconceptions
 
@@ -248,7 +254,7 @@ How do we expose misconceptions, especially as they pertain to broken models? Ho
 can we, in-class, know whether the learners already understand this topic
 (so that the class can move on),
 and if not,
-what misconceptions and gaps in their knowledge we should address.
+what misconceptions and gaps in their knowledge we should address?
 
 To be effective, instructors need feedback on their learners' progress,
 and insight into their learners' mental models.
@@ -264,7 +270,7 @@ This feedback comes through what we call *formative assessments* (in contrast
 > courses is summative, and is used to assign course grades.
 {: .callout}
 
-*Formative assessment* takes place during teaching and learning. It sounds like
+**Formative assessment** takes place during teaching and learning. It sounds like
 a fancy term, but it can be used to describe any interaction or activity
 that provides feedback to both instructors and learners about learners' level of understanding of the
 material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
@@ -380,10 +386,12 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 
 > ## Modeling Novice Mental Models
 >
-> Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
-> Type it into the Etherpad
-> and explain the diagnostic power of each its distractors,
-> i.e., what misconception is each distractor meant to identify?
+> Take 10 minutes to create a multiple choice question related to a lesson you intend to teach.
+> 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
+> In what ways might they misunderstand or inappropriately connect concepts?
+> 2. Try to target one or more misconceptions using a multiple choice question. How many diagnostic distractors can you create?
+> 3. Type your question into the Etherpad
+> and explain the diagnostic power of each its distractors.
 {: .challenge}
 
 > ## A Note on MCQ Design
