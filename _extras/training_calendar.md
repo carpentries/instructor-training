@@ -34,7 +34,7 @@ To offer more flexible options for our community, we are piloting events that ru
 
 <br>
 
-* [March 1-23, 2021](https://www.eventbrite.com/e/online-instructor-training-march-1-23-2021-australia-eastern-daylight-tickets-136843367195)
+* March 1-23, 2021 *Registration Closed*
     This event will run two hours a day, two days a week, for four weeks. **Note Daylight Savings Time will make the time shift in March in other locations.  This means the training may be at different times some weeks for you.  Please verify your local day and time for each week using the links below before registering.**
     * 9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)
         * *See the start time in [your local time zone for week 1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries++Instructor+Training&iso=20210301T0930&p1=240&ah=2)*
