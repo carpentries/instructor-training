@@ -68,12 +68,15 @@ The instructional team should:
 - know of who is taking the workshop and what their expectations are
 - have an initial impression of how learners respond to participation prompts and what will be needed to encourage them to engage
 
-### Firing Up a Learning Environment
+### Setting the Stage
 
-These objectives can be met in many ways; many of them can be addressed at the same time. As you consider the approach you will take, take a step back to consider the full range of ingredients that combine to make the introduction a complete experience.
+These objectives can be met in many ways; many of them can be addressed at the same time. As you consider the approach you will take, 
+take a step back to consider the big picture. How will learners perceive your classroom environment? A few things to pay attention to 
+as you include: 
 
 **Your attire.** This is one of those things that "should not matter" but, in reality, clothing has a powerful influence on perceptions of everything from 
-credibility to kindness. Be comfortable, be intentional, and convey what you want to communicate.
+credibility to kindness. Be comfortable, be intentional, and convey what you want to communicate. (Also, check the weather, and make
+no assumptions about thermostats in an unfamiliar classroom!)
 
 **The physical environment**. Are you in a small classroom or a large, impersonal lecture hall? How are the seats arranged? Physical features may be beyond your control, but they still contribute to your learner's impressions. How can you help?
 
