@@ -67,7 +67,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 
 #### Eastern time
 * January 21-22, 2021 *Registration Closed*
-* [March 3-4, 2021](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2021-n-america-eastern-time-tickets-130300204419) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210303T09&p1=179&ah=8)*
+* March 3-4, 2021 *Registration Closed*
 
 
 ### Europe and Africa
