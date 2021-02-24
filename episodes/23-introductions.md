@@ -48,6 +48,14 @@ you're comfortable and ready for.
 
 ### Learning Objectives For your Introduction
 
+It can feel like the Introduction is "just" something you have to get through in order to get started on the "real" workshop content.
+But, chances are that many of the goals you identified in the activity above involved *teaching* information or procedures that
+you want learners to know, or *learning* things about your audience. This means that everything you have learned about
+teaching and learning applies here, too. Short term memory? Check! Cognitive overload? Check! 
+
+Learning objectives usually omit introductory content -- after all, no one cares what has been learned here once the workshop has
+finished! But if we did include the Introduction, what would those learning objectives look like?
+
 After the introduction learners should:
 
 - be able to predict the type of instruction
