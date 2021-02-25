@@ -111,8 +111,9 @@ instructional design** principles might be applied as follows:
 ## Working With Learning Objectives
 All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice the 
 objectives in the lesson you chose to study for 
-today? In the next exercise, we are going to take a moment to understand those objectives, because in the best cases they are quite specific about exactly what 
-level a learner is expected to operate at. This can be helpful in both designing formative assessments and in evaluating potential additions or digressions for 
+today? In the next exercise, we are going to take a moment to understand those objectives, because in the best 
+cases they are quite specific about exactly what a learner is expected to be able to do by the end of the workshop.
+This can be helpful in both designing additional formative assessments and in evaluating potential additions or digressions for 
 appropriateness.
 
 When thinking about learning objectives, it is important to keep the 'level' of a learner in mind. There are many ways of conceptualizing 'level' in education. 
