@@ -30,20 +30,8 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* February 1-4, 2021 *Registration Closed*
-
-<br>
-
-* March 1-23, 2021 *Registration Closed*
-    This event will run two hours a day, two days a week, for four weeks. **Note Daylight Savings Time will make the time shift in March in other locations.  This means the training may be at different times some weeks for you.  Please verify your local day and time for each week using the links below before registering.**
-    * 9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)
-        * *See the start time in [your local time zone for week 1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries++Instructor+Training&iso=20210301T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 2](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210308T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 3](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210315T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 4](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210322T0930&p1=240&ah=2)*
-
-<br>
-
+* February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
+* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)) *Registration Closed*
 * [March 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-march-15-18-2021-n-america-central-time-tickets-130300910531)
     * 7 am to 11 am North America Pacific  
     * 9 am to 1 pm North America Central
