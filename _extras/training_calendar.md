@@ -30,25 +30,8 @@ Registration for each event closes one week before that event. You may change or
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
 
-* [February 1-4, 2021](https://www.eventbrite.com/e/online-instructor-training-february-1-4-2021-n-america-pacific-time-tickets-130300679841)
-    * 9 am to 1 pm North America Pacific
-    * 12 noon to 4 pm North America Eastern
-    * 5 pm to 9 pm Greenwich Mean Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210201T09&p1=137&ah=4)*
-
-
-<br>
-
-* [March 1-23, 2021](https://www.eventbrite.com/e/online-instructor-training-march-1-23-2021-australia-eastern-daylight-tickets-136843367195)
-    This event will run two hours a day, two days a week, for four weeks. **Note Daylight Savings Time will make the time shift in March in other locations.  This means the training may be at different times some weeks for you.  Please verify your local day and time for each week using the links below before registering.**
-    * 9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)
-        * *See the start time in [your local time zone for week 1](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries++Instructor+Training&iso=20210301T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 2](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210308T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 3](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210315T0930&p1=240&ah=2)*
-        * *See the start time in [your local time zone for week 4](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210322T0930&p1=240&ah=2)*
-
-<br>
-
+* February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
+* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)) *Registration Closed*
 * [March 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-march-15-18-2021-n-america-central-time-tickets-130300910531)
     * 7 am to 11 am North America Pacific  
     * 9 am to 1 pm North America Central
@@ -67,18 +50,18 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 
 
 #### Central time
-* [February 11-12, 2021](https://www.eventbrite.com/e/online-instructor-training-february-11-12-2021-n-america-central-time-tickets-130299696901) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210211T09&p1=64&ah=8)*
+* February 11-12, 2021 *Registration Closed*
 * [March 23-24, 2021](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2021-n-america-central-time-tickets-130299927591) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210323T09&p1=64&ah=8)*
 
 #### Eastern time
 * January 21-22, 2021 *Registration Closed*
-* [March 3-4, 2021](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2021-n-america-eastern-time-tickets-130300204419) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210303T09&p1=179&ah=8)*
+* March 3-4, 2021 *Registration Closed*
 
 
 ### Europe and Africa
 
 #### Western European time
-* [February 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-february-25-26-2021-western-european-time-tickets-130298872435) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210225T09&p1=136&ah=8)*
+* February 25-26, 2021 *Registration Closed*
 
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*

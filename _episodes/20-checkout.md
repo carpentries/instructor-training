@@ -26,7 +26,7 @@ filled out this form, you do not need to submit another application.
 
 ## Instructor Checkout
 
-As you read in your homework last night, there are three final steps to complete before qualifying as an Instructor. The [Instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
+There are three final steps to complete before qualifying as an Instructor. The [Instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
 
 1. Make a contribution to any [eligible repository]({{ page.root }}/checkout/index.html#eligible-repositories):
    1. Providing substantive feedback on an existing issue or pull request (preferred).
