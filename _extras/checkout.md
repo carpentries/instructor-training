@@ -115,7 +115,10 @@ Please note that:
     {: .source}
 
 5.  We do *not* want exercises or other material that introduce new concepts:
-    our lessons are already full to bursting.
+    our lessons are already full to bursting. However, new exercises for concepts that
+    already exist in the materials are very welcome. They allow instructors more 
+    flexibility to choose from when teaching the material to a class with diverse 
+    skills.
 
 6.  We are happy to accept contributions of new diagrams for any of our lessons.
     Please use SVG (scalable vector graphics),
