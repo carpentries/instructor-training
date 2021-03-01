@@ -38,7 +38,7 @@ To offer more flexible options for our community, we are piloting events that ru
     * 2 pm to 6 pm Greenwich Mean Time
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210315T09&p1=64&ah=4)*
 
-* [April 12-16, 2021](https://www.eventbrite.com/e/online-instructor-training-april-12-15-2021-tickets-143818666503)
+* [April 12-15, 2021](https://www.eventbrite.com/e/online-instructor-training-april-12-15-2021-tickets-143818666503)
     * 9 am to 1 pm North America Pacific
     * 12 noon to 4 pm North America Eastern
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210412T09&p1=137&ah=4)*
