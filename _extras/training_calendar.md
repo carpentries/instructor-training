@@ -43,6 +43,12 @@ To offer more flexible options for our community, we are piloting events that ru
     * 12 noon to 4 pm North America Eastern
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210412T09&p1=137&ah=4)*
 
+* [June 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-7-10-2021-tickets-143821825953)
+    * 9 am to 1 pm North America Eastern
+    * 2 pm to 6 pm British Summer Time
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210607T09&p1=179&ah=4)*
+
+
 
 ## Two day events
 
