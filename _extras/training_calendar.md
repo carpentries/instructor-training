@@ -38,6 +38,23 @@ To offer more flexible options for our community, we are piloting events that ru
     * 2 pm to 6 pm Greenwich Mean Time
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210315T09&p1=64&ah=4)*
 
+* [April 12-15, 2021](https://www.eventbrite.com/e/online-instructor-training-april-12-15-2021-tickets-143818666503)
+    * 9 am to 1 pm North America Pacific
+    * 12 noon to 4 pm North America Eastern
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210412T09&p1=137&ah=4)*
+
+* [June 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-7-10-2021-tickets-143821825953)
+    * 9 am to 1 pm North America Eastern
+    * 2 pm to 6 pm British Summer Time
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210607T09&p1=179&ah=4)*
+
+* [June 21-24](https://www.eventbrite.com/e/online-instructor-training-june-21-24-2021-tickets-143825063637)
+    * 9 am to 1 pm North America Pacific
+    * 12 noon to 4 pm North America Eastern
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210621T09&p1=137&ah=4)*
+
+
+
 ## Two day events
 
 The events below run for two days, from 9 am to 5 pm in the time zone specified. 
@@ -47,21 +64,27 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 #### Pacific time
 * January 13-14, 2021 *Registration Closed*
 * [March 25-26, 2021](https://www.eventbrite.com/e/online-instructor-training-march-25-26-2021-n-america-pacific-time-tickets-130300356875) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210325T09&p1=137&ah=8)*
+* [June 9-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2021-n-america-pacific-time-tickets-143823468867) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210609T09&p1=137&ah=9)*
 
 
 #### Central time
 * February 11-12, 2021 *Registration Closed*
 * [March 23-24, 2021](https://www.eventbrite.com/e/online-instructor-training-march-23-24-2021-n-america-central-time-tickets-130299927591) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210323T09&p1=64&ah=8)*
+* [June 15-16, 2021](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2021-n-america-central-time-tickets-143824357525) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+instructor+training&iso=20210615T09&p1=64&ah=8)*
 
 #### Eastern time
 * January 21-22, 2021 *Registration Closed*
 * March 3-4, 2021 *Registration Closed*
+* [June 23-24](https://www.eventbrite.com/e/online-instructor-training-june-23-24-2021-n-america-eastern-time-tickets-143825334447) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210623T09&p1=179&ah=8)*
 
 
 ### Europe and Africa
 
 #### Western European time
 * February 25-26, 2021 *Registration Closed*
+* [April 29-30, 2021](https://www.eventbrite.com/e/online-instructor-training-april-29-30-2021-british-summer-time-tickets-143820586245) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210429T09&p1=136&ah=8)*
 
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*
+* [June 17-18, 202](https://www.eventbrite.com/e/online-instructor-training-june-17-18-2021-central-european-summer-time-tickets-143826012475) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+training&iso=20210617T09&p1=195&ah=8)*
+
