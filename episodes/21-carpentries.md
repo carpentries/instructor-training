@@ -62,12 +62,13 @@ of promoting efficient, shareable, and reproducible research practices.
 Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
-*   a focus on technical skills.
-*   a two-day format taught by volunteer instructors.
+*   a focus on technical skills,
+*   a two-day format taught by volunteer instructors, and
 *   a focus on filling gaps in current training for learners.
 
 The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
 are their content and intended audience. Their similarities and differences are depicted in this diagram:
+
 
 ![Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have modular a curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.](../fig/carpentries-venn-diagram_20200904.svg)
 
