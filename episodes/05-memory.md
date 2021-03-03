@@ -124,8 +124,8 @@ In the same vein as "going slowly," it is important to limit the number of
 concepts introduced in a lesson; no matter how many exercises or formative
 assessments you do, you cannot overcome the limit of items that can be
 shored in short-term memory. Planning your lesson with a concept map can help you 
-not only identify key concepts and relationships, but also to notice when you are packing
-in too many things between assessments. 
+not only identify key concepts and relationships, but also to notice when you are trying to 
+teach too many things between assessments. 
 
 
 > ## Concept Maps in the Classroom
