@@ -77,24 +77,25 @@ an arrow labelled "Experience level" points from left to right. Underneath the f
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 Note that, while you may not think of yourself as a computational "expert," in the context above that term may accurately describe
-your skill level. We will come back to the expertise of the instructor in the next episode. 
+your skill level. We will come back to the expertise of the instructor and its impact -- positive and negative -- on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience.
 
-You might think of a novice as a sort of an 'empty vessel' into which knowledge can be 'poured'. Unfortunately, this analogy has
-very limited usefulness and generates dangerous misconceptions. In our next section, we will briefly explore the nature of "knowledge" through a concept
+It is common to think of a novice as a sort of an 'empty vessel' into which knowledge can be 'poured'. Unfortunately, this analogy has
+limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
 
 ## "All Models are Wrong, but Some are Useful"
 
-"Knowledge" turns out to be a rather tricky thing to describe. Even for an expert, understanding is never a mirror of reality; rather, it is 
-a complicated construction of concepts and connections, much of which is beyond our awareness, leading to things like "intuition". 
-One way of conceptualizing our understanding of a topic is as a **mental model** - whatever reality may be, we have ideas about concepts and
-relationships and our minds put them together in a way that allows us to extrapolate, or make predictions beyond what we strictly know, filling in 
+"Knowledge" is hard to describe. Understanding is never a mirror of reality, even for an expert; rather, it is 
+an internal representation based on our experience with a subject. Much of what we know is beyond our awareness, leading to things like "intuition". 
+This internal representation is often described as a **mental model**. A mental model
+allows us to extrapolate, or make predictions beyond and between the narrow limits of experience and memory, filling in 
 gaps to the point that things "make sense." 
 
-As we learn, we create a mental model of a topic. A useful model is one that makes reasonable predictions and fits well with new things
+As we learn, we our mental model evolves to become more useful. A useful model makes reasonable predictions and fits well within
+the range of things
 we are likely to encounter, or at least does not break down entirely as new concepts are added. A driver of a gasoline powered car may 
 do just fine with a mental model that includes relationships between fuel, an engine, and a car battery;
 a broken alternator may not be something they could predict, but learning that another part mediates the relationship 
@@ -102,9 +103,6 @@ between the engine and the battery adds to the model without the driver having t
 Alternatively, a child who attributes sentient will to a vehicle will have to work much harder to make sense 
 of a broken alternator.
 
-A mental model may be understood as a collection of concepts and facts, connected by relationships. 
-The mental model of an expert in any given subject will be far more complex than that of a novice, including both more concepts 
-and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
 
 ### The power (and limitations) of analogies
 Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
@@ -121,14 +119,18 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 > This activity should take about 5 minutes.
 {: .challenge}
 
+A mental model may be represented as a collection of concepts and facts, connected by relationships. While this is not the way we naturally conceive
+such models in our brains, it is a useful way of exploring, characterizing, and communicating their key features.
+The mental model of an expert in any given subject will be far larger and more complex than that of a novice, including both more concepts 
+and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
 
-Mental models can be applied to explain levels of skill development: 
-*     A *novice* is someone who has a minimal and potentially inaccurate mental model of surface features of the domain.
-They therefore reason by analogy and guesswork,
-borrowing bits and pieces of their mental models of other domains
-which seem superficially similar. New information can be difficult to connect, especially where the existing model is wrong.
-*     A *competent practitioner* is someone who has a mental model that is useful for everyday purposes. Most new information
-they are likely to encounter will fit well with their existing model, even though many related elements may still be missing or wrong.
+Returning to our example levels of skill development: 
+*     A *novice* has a minimal mental model of surface features of the domain. Inaccuracies may interfere with adding new information.
+Predictions are likely to borrow heavily from mental models of other domains
+which seem superficially similar.
+*     A *competent practitioner* has a mental model that is useful for everyday purposes. Most new information
+they are likely to encounter will fit well with their existing model. Even though many potential elements of their mental model may
+still be missing or wrong, predictions about their area of work are usually accurate.
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
