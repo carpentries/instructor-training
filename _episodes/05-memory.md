@@ -430,4 +430,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
-[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types.html
+[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types/
