@@ -16,7 +16,7 @@ keypoints:
 
 We use formative assessment of learners during workshops to help track 
 learners' progress and adjust our approach to teaching the content as needed.
-But formative assessment isn't just for learners. As we'll discuss in more detail 
+But formative assessment is not just for learners. As we will discuss in more detail 
 [later]({{ page.root }}/11-practice-teaching/), teaching is also a skill that is improved 
 through regular practice and feedback. We gather feedback from our learners
 at multiple points in the workshop and in different forms. 
@@ -50,12 +50,12 @@ all the questions, you can preview them in a text-format below:
 
 > ## Timing Matters
 > 
-> We've found that learners are much more likely to fill out the post-workshop survey
-> while they're still at the workshop than they are after they leave the venue. At the end 
+> We have found that learners are much more likely to fill out the post-workshop survey
+> while they are still at the workshop than they are after they leave the venue. At the end 
 > of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
-> post-workshop survey at the end of your workshop. You'll be helping them (they get a
-> bit of a rest), yourself (you'll get more useful feedback), and The Carpentries.
+> post-workshop survey at the end of your workshop. You will be helping them (they get a
+> bit of a rest), yourself (you will get more useful feedback), and The Carpentries.
 {: .callout}
 
 ## Minute Cards
@@ -71,7 +71,7 @@ Instructors can change the prompt to elicit different types of feedback at each 
 - What new skill are you most excited about using? 
 
 **Example "negative" prompts:**  
-- Write down one thing that is confusing and you'd like clarification on.    
+- Write down one thing that is confusing and you would like clarification on.    
 - What is one specific question you have about the material? 
 
 Over lunch and before the second day starts, the instructors read through the minute 
@@ -83,7 +83,7 @@ non-teaching instructor can also type answers to the questions in the Etherpad.
 > 
 > Learners are more likely to give useful feedback if they feel that their feedback
 > is being taken seriously. Spending a few minutes talking about the feedback you got
-> and being explicit about what changes you're making in light of that feedback
+> and being explicit about what changes you are making in light of that feedback
 > will encourage learners to continue to give informative feedback throughout the workshop.
 {: .callout}
 
@@ -100,7 +100,7 @@ participants will start saying what they really think. The instructor
 writes down the feedback in the Etherpad or a text editor,
 but does not comment on the feedback while collecting it. The instructors then
 discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
-about how you're responding to learner feedback.
+about how you are responding to learner feedback.
 
 
 > ## Give Us Feedback

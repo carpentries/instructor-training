@@ -15,7 +15,7 @@ keypoints:
 - "Feedback is most effective when those involved share ground rules and expectations."
 ---
 
-So far, we've focused on how we can be effective instructors by understanding
+So far, we have focused on how we can be effective instructors by understanding
 how people learn and how to create a positive classroom environment, covering
 two of our primary goals in helping you become a certified Carpentries Instructor.
 Now our focus will shift to developing additional teaching skills that you can
@@ -24,13 +24,13 @@ or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
-We've seen that providing opportunities for practice
+We have seen that providing opportunities for practice
 and giving useful feedback to learners are essential components in the learning
 process. Learning to teach is no different.
 
 However, many people assume that teachers are born, not made.  From politicians
 to researchers and teachers themselves, most reformers have designed systems to
-find and promote those who can teach and eliminate those who can't.
+find and promote those who can teach and eliminate those who cannot.
 As Elizabeth Green describes in *[Building a Better Teacher][worldcat-babt]*, though,
 that assumption is wrong, which is why educational reforms based on it have repeatedly failed.
 
@@ -59,26 +59,26 @@ colleagues.
 The situation is different in many English-language school systems:
 in the US, Canada, the UK, Australia, and elsewhere, where often
 what happens in the classroom stays in the classroom.
-Teachers aren't able to watch each other's lessons on a regular basis,
-so they can't borrow each other's good ideas.
+Teachers are not able to watch each other's lessons on a regular basis,
+so they cannot borrow each other's good ideas.
 The result is that *every teacher has to invent teaching on their own*.
 They may get lesson plans and assignments from colleagues,
 the school board,
 a textbook publisher,
 or the Internet,
 but each teacher has to figure out on their own how to combine that with
-the theory they've learned in their educational programs
+the theory they have learned in their educational programs
 to deliver an actual lesson in an actual classroom for actual learners.
-When teachers don't observe each other teaching, the tricks and techniques that each instructor
-has painstakingly incorporated into their practice don't have the opportunity to spread, limiting
+When teachers do not observe each other teaching, the tricks and techniques that each instructor
+has painstakingly incorporated into their practice do not have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
 
-> ## Reading It Isn't Enough
+> ## Reading It Is Not Enough
 > Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
-> that teachers don't adopt instructional practices based on reports about the effectiveness of those practices.
+> that teachers do not adopt instructional practices based on reports about the effectiveness of those practices.
 > Social norms, institutional
 > culture, and lack of time and support prevent many teachers from moving out of
-> their accustomed teaching habits. Change in teaching doesn't come about through reading about new teaching practices, but by seeing
+> their accustomed teaching habits. Change in teaching does not come about through reading about new teaching practices, but by seeing
 > these practices in action, practicing them and getting feedback from other instructors.
 {: .callout}
 
@@ -86,13 +86,13 @@ Therefore, just like other disciplines (sports and music are two good examples),
 observing the work of others.  The Carpentries pedagogical model supports lesson
 study by providing many opportunities for our instructors
 to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
-and to give each other feedback.  You'll also have the opportunity to practice in front of an experienced instructor
+and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
 > ## Giving Feedback
 >
-> We'll start by observing some examples of teaching and providing some feedback.
+> We will start by observing some examples of teaching and providing some feedback.
 >
 > Watch this [example teaching video][bad-teaching-video] as a group
 > and then give feedback on it. Put your feedback in the Etherpad.
@@ -102,13 +102,13 @@ giving you the opportunity to learn by observing and to get feedback from your f
 > This exercise should take about 10 minutes.
 {: .challenge}
 
-Now that you've had some practice observing teaching and giving feedback, let's practice with each other.
+Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
 
 > ## Feedback on Yourself
 >
-> The goal of this exercise is to practice giving and receiving feedback, so don't be
+> The goal of this exercise is to practice giving and receiving feedback, so do not be
 > overly concerned about creating a perfectly polished presentation.
-> We don't give you a lot of time to prep and the teaching time is short, so embrace
+> We do not give you a lot of time to prep and the teaching time is short, so embrace
 > the challenge (and improvisation) of the exercise and see what you can learn by
 > watching other people teach, thinking about how to give them feedback, and how it
 > feels to get feedback on your own teaching.
@@ -164,7 +164,7 @@ Here is a list of different
 ways that you can set the stage for receiving or providing feedback
 in a way that facilitates growth.
 
-*   Initiate feedback as the instructor. It's better to ask for feedback than to receive it unwillingly.
+*   Initiate feedback as the instructor. It is better to ask for feedback than to receive it unwillingly.
 
 *   Ask for and give specific feedback. See a great example of this from
   this Lunar Baboon comic: ![A four panel comic. The first panel shows a kid saying, "Dad, that kid said my artwork sucked." In the second panel, the father rolls up his sleeves and says "Oh yeah, well I'm going to teach him a lesson!" In the third panel, the child watches while the father points to a whiteboard on which is written "How to Give Good Feedback: 1) Be positive, 2) Be specific, 3) Give a next step." The fourth panel shows the child saying "Good use of color, but I think it needs more detail." The artist responds "I'll definitely consider that, thanks."](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
@@ -172,7 +172,7 @@ in a way that facilitates growth.
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
   feedback in a way that is helpful to you - the questions below
-  reveal what didn't work in your teaching, but read as professional suggestions rather than personal judgments.
+  reveal what did not work in your teaching, but read as professional suggestions rather than personal judgments.
   For example:
   
 * "What is one thing I could have done as an instructor to make this lesson more effective?"
@@ -185,10 +185,10 @@ in a way that facilitates growth.
 * When sharing negative feedback, provide a clear next step to follow that will help the recipient improve.
 
 * Communicate expectations. If your teaching feedback is taking the form of an
-  observation (and you're comfortable enough with the observer), tell
+  observation (and you are comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so don't
+* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so do not
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.
 
@@ -201,15 +201,15 @@ with the feedback you gave.
 This is part of the reason for The Carpentries rule,
 "Never teach alone."
 Having another instructor in the classroom saves your voice
-(it's hard to talk for two days straight),
+(it is hard to talk for two days straight),
 but more importantly,
-it's a chance for instructors to learn from one another and be a supportive voice
+it is a chance for instructors to learn from one another and be a supportive voice
 in the room.
 
-Finally, be kind to yourself. If you're a self-critical person,
-it's OK to remind yourself:
+Finally, be kind to yourself. If you are a self-critical person,
+it is OK to remind yourself:
 
-*   The feedback isn't personal.
+*   The feedback is not personal.
 *   There are always positives along with the negatives.
 
 > ## Feedback on Feedback (Optional)
@@ -238,7 +238,7 @@ use it to start (or continue) the process of improving your teaching. Remember, 
 If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong,
 pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills
 are going to improve. By strengthening your growth mindset with respect to teaching, you can
-transform getting feedback from an unpleasant experience to a richly rewarding one. You'll have more opportunities to
+transform getting feedback from an unpleasant experience to a richly rewarding one. You will have more opportunities to
 practice teaching and to get and give feedback tomorrow.
 
 

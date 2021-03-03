@@ -55,7 +55,8 @@ things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
 
-![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".](../fig/what-to-teach.png)
+
+![A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".](../fig/what-to-teach.png)
 
 Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
@@ -254,7 +255,6 @@ through the many challenges ahead will make your journey as a teacher a more joy
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
-
 
 
 
