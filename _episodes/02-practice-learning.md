@@ -49,8 +49,7 @@ who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
 [how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061)
 ([see also books by Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author)). This work indicates that
-through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form,
-the three stages of this model are:
+through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form, three stages of this model are:
 
 ![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath the people,
 an arrow labelled "Experience level" points from left to right. Underneath the figure labelled "Novice" a quote says "I'm not sure what questions to ask." The Competent Practitioner says "I'm pretty confident, but I still look stuff up a lot!" The Expert says "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
@@ -163,7 +162,7 @@ presenting novices with a pile of facts early on is counter-productive,
 because they do not yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
-an incorrect mental model.
+an incorrect mental model. (This is a key problem with the "empty vessel" analogy described earlier.)
 
 Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
