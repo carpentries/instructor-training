@@ -36,8 +36,8 @@ receive feedback. We will continue that skill development process today, as we
 focus on the specifics of teaching Software Carpentry, Data Carpentry, and Library Carpentry workshops.
 We will review specific
 teaching practices we follow at our workshops and practice using some of them. One of the most important practices
-in The Carpentries is participatory live coding.  We'll spend some time practicing this skill for multiple reasons:
-one, you rarely find this approach in a current university setting so it's good
+in The Carpentries is participatory live coding.  We will spend some time practicing this skill for multiple reasons:
+one, you rarely find this approach in a current university setting so it is good
 to try it out, but also, this will give us a chance to continue developing skills
 we discussed yesterday that help improve our teaching: reflective practice and
 providing (and receiving!) constructive feedback. Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
