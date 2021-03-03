@@ -30,7 +30,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 * Trainees may register or change their registration up to one week before the event. However, we recommend registering as early as possible, as these events fill up quickly. 
 
-* If one of your trainees is not able to attend after they've registered for an event, please get in touch with us at team@carpentries.org as soon as possible. In some cases, we will be able to transfer your training seat to another event, however, because the success of our program depends on accurately predicting our capacity needs, we may not be able to accommodate changes in registration unless we are notified in advance of the event. Except in case of emergency, training seats may be forfeited if advance notice is not given.
+* If one of your trainees is not able to attend after they have registered for an event, please get in touch with us at team@carpentries.org as soon as possible. In some cases, we will be able to transfer your training seat to another event, however, because the success of our program depends on accurately predicting our capacity needs, we may not be able to accommodate changes in registration unless we are notified in advance of the event. Except in case of emergency, training seats may be forfeited if advance notice is not given.
 
 * Information about software/hardware requirements for the training, preparatory homework, and video-conference connection information will be provided one week before the event. 
 

@@ -143,7 +143,7 @@ title: "Glossary"
 
 *   **Minute Cards**:
     A feedback technique in which learners spend a minute writing one
-    positive thing about a lesson (e.g., one thing they've learned) and
+    positive thing about a lesson (e.g., one thing they have learned) and
     one negative thing (e.g., a question that still hasn't been answered).
 
 *   **Novice**:
