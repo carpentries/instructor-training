@@ -117,6 +117,17 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 > This activity should take about 5 minutes.
 {: .challenge}
 
+> ## Analogies at Work: "Software Carpentry"
+> People often ask where our name came from. Greg Wilson has this to say:
+> 
+>"Brent Gorda and I came up with the name in 1998 to differentiate what we were teaching from software engineering. That's about digging the Channel Tunnel; 
+> we're about the computational equivalent of hanging drywall."
+> 
+> The word "carpentry" acts as a metaphor -- a type of analogy -- inspiring a comparison with something concrete,
+> hands on, practical, and useful. This clearly conveys the purpose of our organization: to support computational skill development
+> among working practitioners who need the right tools and practices to be effective day to day.
+{: .callout}
+
 A mental model may be represented as a collection of concepts and facts, connected by relationships. 
 The mental model of an expert in any given subject will be far larger and more complex than that of a novice, including both more concepts 
 and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
