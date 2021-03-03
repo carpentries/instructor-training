@@ -41,7 +41,7 @@ Details about the Instructor Trainer role including the application process, dut
 -  If teaching in person:
     - Confirm with your host that breakout rooms are available or make an alternate plan
     - Create a plan for printing handouts & determine who will bring sticky notes
-    - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+    - Make sure you are prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
     - Check on availability/timing of breaks, lunch, or any other details that matter to you
 
 ### During the event
@@ -94,7 +94,7 @@ TBA
 ### Using Helpers/Co-Instructors
 
 If you have a helper for the training, or want to involve your co-instructor more,
-here are some ways where it's easy to do so without much prep:
+here are some ways where it is easy to do so without much prep:
 * give an example of a mental model in "The Importance of Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
@@ -104,7 +104,7 @@ here are some ways where it's easy to do so without much prep:
 ### Episode order
 
 Experience has shown that the current order of episodes works quite well. 
-If you're a new Trainer, we recommend following the official order, however, 
+If you are a new Trainer, we recommend following the official order, however, 
 the material is flexible enough to allow small shifts in episode order. 
 If you are an experienced Trainer and you would like to re-arrange the schedule, 
 make sure to communicate with your trainees and co-Trainers! 
@@ -145,7 +145,7 @@ account for yourself for free. This personal account will be able to attend the 
 
 About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
 one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list; 
-you'll be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
+you will be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
 See [the explanation here][zoom-host-key] for step-by-step instructions on how to 
 claim host in Zoom Rooms using the host key.
 
@@ -166,7 +166,7 @@ you’re not the host, please contact Carpentry staff immediately.
 
 ### General tips for online training:  
 - **Support the lead**
-	- It's tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
+	- It is tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
 	  - Monitor the chat in zoom/notes
 	  - Help post exercises + provide instructions
 	  - Find links or references
@@ -175,7 +175,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N) [Cuckoo timers](https://cuckoo.team/carpentries-instructor-training) can also be helpful, especially during breakout room sessions: the countdown timer is shared between everyone visiting the webpage and all participants will hear an alarm sound when the timer runs out.
 - **Shared notes tips**
-  - No matter what kind of shared doc you are using, it's usually a good idea to create
+  - No matter what kind of shared doc you are using, it is usually a good idea to create
   two documents -- one for each day of the training.  
     - Suggestion from AN: create a third doc for sharing concept maps, since they are
     images and can slow down the document.  
@@ -196,7 +196,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - “Gallery view” in the upper right toggles the display to show more participants' videos.  
   - “Share screen” is at the bottom middle of the screen. To end “share screen”, click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
   - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.
-  - The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms, and people who have just joined a room can't see previously posted chat items). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
+  - The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms, and people who have just joined a room cannot see previously posted chat items). We highly recommend using the Etherpad or Google Doc chat instead. For those who want to save the chat, they do that using the "More" option in the chat window, which offers "Save chat". Choosing this will save the chat to a local text file on the person's computer.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
@@ -214,8 +214,8 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 ### Welcome
 
-* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this doesn't happen or at least only happens in part. The result is either a lot of saying, "We'll cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they'd really like an answer now) or the schedule ends up being a little fractured."
-	* Response from CK: I've never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they would really like an answer now) or the schedule ends up being a little fractured."
+	* Response from CK: I have never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
 	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
 ### Building Skill with Practice
@@ -229,7 +229,7 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 As written, this can run long.  Suggestions:
 
-* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there's time (or interest! depends on the group) I'll add or adapt.
+* CK: In general, I approach this section as "which 3 out of the N exercises do I want to make SURE I do?" and then if there is time (or interest! depends on the group) I will add or adapt.
 
 ### Mindset
 ### Teaching is a Skill
@@ -275,18 +275,18 @@ This section contains tips and tricks on demo hosting that may be contributed by
 Suggested points to make during introductions:
 * This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
 people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
-we'd like you to change on your next visit. This does not mean we don't want you as an instructor, it means we want you to be
+we would like you to change on your next visit. This does not mean we do not want you as an instructor, it means we want you to be
 ready to put your best foot forward in the classroom and we are here to help you do that. (KW)
 * I will not tell anyone that they have passed or ask anyone to repeat during this session. That information will come in the follow up email. (KW)
 * The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
 * Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the 
 mute button is. (EB)
-* I have already determined a random order for you each to do your demonstration. When it's your turn, I will tell you what
+* I have already determined a random order for you each to do your demonstration. When it is your turn, I will tell you what
 episode you will be teaching from, and
 you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the 
 option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
-from, that way you can keep your notes up on your screen without us seeing them. It's perfectly fine to teach using your
-notes - that's how I always teach. (EB)
+from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
+notes - that is how I always teach. (EB)
 * When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
 Different ways of managing feedback during the demo:
@@ -302,7 +302,7 @@ one or two things to comment on. (EB)
 
 Suggested points to make during wrap-up:
 * Thank you for your excellent feedback! Instructors like you help to make this community what it is.
-* I will follow up with each of you by email within ___ (time period). If you don't hear from me by __ feel free to check in.
+* I will follow up with each of you by email within ___ (time period). If you do not hear from me by __ feel free to check in.
 
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers

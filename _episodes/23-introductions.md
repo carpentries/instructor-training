@@ -26,14 +26,15 @@ make these moments stand out and dedicate some practice time as well.
 Take a moment to think back to a course or workshop you really liked, think about how it began. Your impression on the first day of a course probably matched that of the rest of the course. It also probably stands out in your memory far more than the rest of the course! This is due to a feature of memory known as the **primacy effect**.
 Opening experiences make a difference in the short and long term -- introductions set the tone for the workshop and the path for learning.
 
-Introducing a workshop is an exciting and empowering moment! It can also be intimidating. Having a plan helps relieve stress and get you started. Even in the face of
+Introducing a workshop is an exciting and empowering moment! It can also be intimidating. Having a plan helps relieve stress and get you started. 
+Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
-you're comfortable and ready for.
+you are comfortable and ready for.
 
-> ## What's in an Introduction?
+> ## What is in an Introduction?
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.
-> Take notes on your answers -- we'll combine them later.
+> Take notes on your answers -- we will combine them later.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
@@ -41,7 +42,7 @@ you're comfortable and ready for.
 > After 5 minutes, come together, and combine ideas as a large group.
 >
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
-> Did you come up with something that's not listed below?
+> Did you come up with something that is not listed below?
 >
 > Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
@@ -113,17 +114,17 @@ can be especially important if your curriculum does not offer early opportunitie
 > Here is one example of an icebreaker you can use:
 > Have everyone turn to a partner and introduce themselves with their
 > name, one word about their research (e.g.'microbes', 'dogs', 'vectors',
-> 'stars') and a thing they're proud of that they made.
+> 'stars') and a thing they are proud of that they made.
 {: .callout}
 
 Head here for [more examples of Icebreakers][icebreakers].
 
 
 ### Teaching Your Trajectory: Workshop 101
-
 Clearly establishing expectations at the outset orients learners to participate actively
 and helps them use their time productively. Keep in mind that critical information will need to be communicated more than once!
 This information should also be present in your workshop documentation and/or collaborative notes.
+
 
 **Describe the prerequisites** (if any).
 
