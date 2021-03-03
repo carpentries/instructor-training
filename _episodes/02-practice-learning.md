@@ -80,7 +80,7 @@ your skill level. We will come back to the expertise of the instructor and its i
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience.
 
-It is common to think of a novice as a sort of an 'empty vessel' into which knowledge can be 'poured'. Unfortunately, this analogy has
+It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy has
 limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
@@ -88,12 +88,12 @@ for how we teach.
 ## "All Models are Wrong, but Some are Useful"
 
 "Knowledge" is hard to describe. Understanding is never a mirror of reality, even for an expert; rather, it is 
-an internal representation based on our experience with a subject. Much of what we know is beyond our awareness, leading to things like "intuition". 
+an internal representation based on our experience with a subject. 
 This internal representation is often described as a **mental model**. A mental model
 allows us to extrapolate, or make predictions beyond and between the narrow limits of experience and memory, filling in 
 gaps to the point that things "make sense." 
 
-As we learn, we our mental model evolves to become more useful. A useful model makes reasonable predictions and fits well within
+As we learn, our mental model evolves to become more useful. A useful model makes reasonable predictions and fits well within
 the range of things
 we are likely to encounter, or at least does not break down entirely as new concepts are added. A driver of a gasoline powered car may 
 do just fine with a mental model that includes relationships between fuel, an engine, and a car battery;
@@ -104,22 +104,20 @@ of a broken alternator.
 
 
 ### The power (and limitations) of analogies
-Some mental models can be succinctly summarized by comparison to something else that is more universally understood. In education, gardening analogies are
-pervasive because they rapidly convey characteristics that can otherwise be difficult to explain. Good analogies can be extraordinarily useful when teaching,
+Some mental models can be succinctly summarized by comparison to something else that is more universally understood.  Good analogies can be extraordinarily useful when teaching,
 because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
 If you choose to use an analogy, be sure its usefulness outweighs its potential to generate misconceptions. 
 
 > ## Analogy Brainstorm
 >
-> 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. Or, maybe you would like to 
-> explore the comparison of a teacher to a gardener. 
+> 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If 
+> you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
 > 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
 > convey about the topic? How is it useful? In what ways is it wrong?
 > This activity should take about 5 minutes.
 {: .challenge}
 
-A mental model may be represented as a collection of concepts and facts, connected by relationships. While this is not the way we naturally conceive
-such models in our brains, it is a useful way of exploring, characterizing, and communicating their key features.
+A mental model may be represented as a collection of concepts and facts, connected by relationships. 
 The mental model of an expert in any given subject will be far larger and more complex than that of a novice, including both more concepts 
 and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
 
@@ -138,7 +136,7 @@ still be missing or wrong, predictions about their area of work are usually accu
 Visual representation of concepts and relationships can be a useful way to explore, evaluate, or communicate when teaching.
 There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
 flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
-classroom use by John Novak in the 1970s, a concept map asks you identify which concepts are most relevant to your instructional question and -- critically -- to
+classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to your instructional question and -- critically -- to
 identify how they are connected. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
 format can often reveal connections you may not have been aware of, or illuminate gaps. Especially where analogies are not available, concept mapping can help 
 you to make your mental model of a concept more clear to yourself or others.
@@ -150,7 +148,7 @@ you to make your mental model of a concept more clear to yourself or others.
 > 1. On a piece of paper, draw a concept map of the same concept you discussed in the last activity, but this time without the analogy. What are 3-4 core 
 > concepts involved? How are those concepts related?
 >  
-> 2. In the etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
+> 2. In the Etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
 > What would be necessary for a learner to complete such an exercise?
 {: .challenge}
 
@@ -162,14 +160,14 @@ presenting novices with a pile of facts early on is counter-productive,
 because they do not yet have a model or framework to fit those facts into.
 In fact,
 presenting too many facts too soon can actually reinforce
-an incorrect mental model. (This is a key problem with the "empty vessel" analogy described earlier.)
+an incorrect mental model. (This is a key problem with the "empty vessel" analogy.)
 
 Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
-Thus, our primary goal is *not*
-to teach the syntax of a particular programming language, but *to help them construct a working mental model*
-so that they have something to attach facts to. In other words, our goal is to teach people *how to think* about programming and data
-management in a way that will allow them to learn more on their own or understand what they might find online.
+Thus, our primary goal is **not**
+to teach the syntax of a particular programming language, but **to help them construct a working mental model**
+so that they have something to attach facts to. In other words, our goal is to teach people **how to think** about programming and data
+management in a way that will allow them to learn more easily on their own or understand what they might find online.
 
 ### The Importance of Going Slowly
 
@@ -271,7 +269,7 @@ This feedback comes through what we call *formative assessments* (in contrast
 > courses is summative, and is used to assign course grades.
 {: .callout}
 
-**Formative assessment** takes place during teaching and learning. It sounds like
+**Formative assessment** takes place during teaching and learning. It seems like
 a fancy term, but it can be used to describe any interaction or activity
 that provides feedback to both instructors and learners about learners' level of understanding of the
 material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
