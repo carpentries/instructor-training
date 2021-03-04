@@ -23,9 +23,9 @@ Those who complete the two full days
 and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
 
-Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
+Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [checkout@carpentries.org](mailto:checkout@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
-**During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact team@carpentries.org if you have questions.  Thank you.**
+**During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact [checkout@carpentries.org](mailto:checkout@carpentries.org) if you have questions.  Thank you.**
 
 ## New! Events over multiple days
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
