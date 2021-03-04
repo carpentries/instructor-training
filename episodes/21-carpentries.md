@@ -216,7 +216,7 @@ instructors create a website with information about their workshop.
 
 To ensure unique names for each event,
 we use the `year-month-day-venue` format for the identifier, the slug.
-For instance, for a workshop that starts on Febuary 22nd, 2022
+For instance, for a workshop that starts on February 22nd, 2022
 at the University of Data Skills,
 the slug would be `2022-02-22-data-skills`.
 If you are teaching a centrally-organized workshop,
