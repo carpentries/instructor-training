@@ -213,12 +213,21 @@ you will either arrive at an existing Etherpad by that name or a brand new
 etherpad with basic Carpentries information at the top.
 
 > ## Practice With The Carpentries Infrastructure
+> 
+> For this activity, your Trainer will put you in groups, but you may choose whether to work together or independently. 
+> If you work independently, you can still use your group as a resource to ask questions as they emerge. 
 >
-> Go to the [workshop template repository]({{ site.workshop_repo }})
-> and follow the directions to create a workshop website using your local location and today's date.
-> Put the link for your workshop website into the Etherpad.
+> Go to the [workshop template repository]({{ site.workshop_repo }}). 
+> 
+> * If you have a GitHub account (or don't mind quickly creating one) and are comfortable doing so, 
+> follow the directions to create a workshop website using your local location and today's date.
+> 
+> * Alternatively, have a look at the video tutorial linked on the instructions page. 
+> 
+> * Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
+> add the link there as well.
 >
-> This exercise should take about 25 minutes.
+> This exercise should take about 25 minutes. 
 >
 > Note: Sometimes web browsers will cache the workshop webpage, so when
 > you make changes in GitHub, they do not show up on the workshop webpage
@@ -226,4 +235,5 @@ etherpad with basic Carpentries information at the top.
 > "incognito" mode in your web browser or by following these
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
 {: .challenge}
+
 
