@@ -291,63 +291,27 @@ and about what kind of learning experience they can expect.
 We will discuss the Code of Conduct in greater detail tomorrow.
 
 
-# Graveyard (delete)
-In computing, it means making a positive effort to be more welcoming to women,
-people of color, people with various sexual orientations,
-the elderly, people with physical disabilities, the formerly incarcerated,
-the economically disadvantaged, and everyone else who doesn't fit Silicon Valley's white/Asian male demographic.
-Lee's paper
-"[What can I do today to create a more inclusive community in CS?]({{ page.root }}/files/papers/lee-create-inclusive-community-2015.pdf)"
-is a brief, practical guide with references to the research literature.
-These help learners who belong to one or more marginalized or excluded groups,
-but help motivate everyone else as well.
-
-Many of these can be applied to our workshops,
-such as:
-
-*   asking learners to email you before the workshop
-    to explain how they believe the training could help them achieve their goals;
-*   reviewing notes to make sure they are free from gendered pronouns,
-    that they include culturally diverse names,
-    etc.;
-*   emphasizing that what matters is the rate at which they are learning,
-    not the level of knowledge they had when they started;
-*   encouraging pair programming; and
-*   actively mitigating behavior that some learners may find intimidating,
-    e.g.,
-    use of jargon or "questions" that are actually asked to display knowledge.
-    
-    
-
-If you look at [our old lesson on Python][swc-python-v4],
-you'll find that the text beside the slides includes all of the narration---but
-none of the Python source code.
-Someone using a [screen reader][wikipedia-screen-reader]
-would therefore be able to hear what was being said about the program,
-but wouldn't know what the program actually was.
-
-
-### Stereotype Threat
-Reminding people of negative stereotypes,
-even in subtle ways, can create distracting anxiety about the risk of confirming those stereotypes, in turn reducing
-their performance. This is called *[stereotype threat][wikipedia-stereotype-threat]*,
-and the clearest examples in computing are gender-related. Depending on whose numbers you trust,
-only 12-18% of programmers are women, and those figures have actually been getting worse over the last 20 years.
-There are many reasons for this (see Margolis and Fisher's *[Unlocking the Clubhouse][worldcat-clubhouse]*
-and Margolis's *[Stuck in the Shallow End][worldcat-shallow-end]*). Steele's *[Whistling Vivaldi][worldcat-whistling-vivaldi]*
-summarizes what we know about stereotype threat in general and presents some strategies for mitigating it in
-the classroom.
-
-While there's lots of evidence that unwelcoming climates demotivate members of under-represented groups,
-it's not clear that stereotype threat is the underlying mechanism. Part of the problem is that
-[the term has been used in many ways][shapiro-neuberg-stereotype-threat].
-Another is that there are [questions about the replicability of key studies][jussim-stereotype-threat].
-What *is* clear is that we need to avoid thinking in terms of a deficit model
-(i.e., we need to change the members of under-represented groups because they have some deficit,
-such as lack of prior experience) and instead use a systems approach
-(i.e., we need to change the system because it produces these disparities). We
-can also not highlight people based on their identity with a minority group; for
-example, it's not a good idea to say something like "I'm so glad you're here because
-we don't get enough women in programming." That may sound positive,
-but draws attention to the stereotype that women aren't good at programming.
+[worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
+[cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
+[ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
+[worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
+[worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
+[worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
+[worldcat-whistling-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
+[conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
+[deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
+[four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
+[high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
+[jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
+[recurse-social-rules]: https://www.recurse.com/manual#sec-environment
+[shapiro-neuberg-stereotype-threat]: http://shapiro.psych.ucla.edu/Papers_files/Shapiro%20PSPR2007.pdf
+[study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
+[swc-python-v4]: http://v4.software-carpentry.org/python/flow.html
+[usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
+[w3c-accessible]: http://www.w3.org/WAI/teach-advocate/accessible-presentations/
+[webaim]: http://webaim.org/
+[wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
+[wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
+[wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
+[wikipedia-stereotype-threat]: https://en.wikipedia.org/wiki/Stereotype_threat
 
