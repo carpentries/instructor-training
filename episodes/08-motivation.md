@@ -86,7 +86,7 @@ motivating.
 > but most graphical editors save things to the user's desktop or home directory.
 > If a novice needs to run shell commands on the files they've edited,
 > they often fail to navigate to the right directory without help.
-> You will learn to anticipate these sorts of hang-ups as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
+> You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
 > If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
 {: .callout}
 
@@ -105,7 +105,7 @@ learners when we teach.
 > ## Brainstorming Motivational Impacts
 >
 > Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either **motivating** or **demotivating**. 
-> Try to think of one example in each case, and share your example under the appropriate heading in the etherpad. 
+> Try to think of one example in each case, and share your example under the appropriate heading in the Etherpad.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -200,7 +200,7 @@ a temporary state, and encourages a growth mindset towards progress.
 ### First, Do No Harm!
 
 When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes base a professional identity 
-around displaying technical expertise. Technical boasts, digs, and other showy moves can score points in conversation with fellow experts, but these present 
+around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present 
 serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
 
 *   **Talk contemptuously or with scorn about any tool or practice**, or the people who use them. Regardless of
