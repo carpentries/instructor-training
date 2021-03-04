@@ -28,7 +28,7 @@ Registration for each event closes one week before that event. You may change or
 **During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact team@carpentries.org if you have questions.  Thank you.**
 
 ## New! Events over multiple days
-To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. 
+To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
 
 * February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
 * March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23)) *Registration Closed*
@@ -69,7 +69,7 @@ To offer more flexible options for our community, we are piloting events that ru
 
 ## Two day events
 
-The events below run for two days, from 9 am to 5 pm in the time zone specified. 
+The events below run for two days, from 9 am to 5 pm in the time zone specified.  Attendance for the entire event is mandatory.
 
 ### North America
 
