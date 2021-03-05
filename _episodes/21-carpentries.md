@@ -147,7 +147,23 @@ as they feel able. Instructor badges
 may list a primary lesson program affiliation, but Instructors are **not** required to certify separately for each. For more
 information, see the description of [the Instructor checkout procedure]({{ page.root }}/checkout/).
 
+### Carpentries Jargon Review
 
+As our community has evolved and its work has emerged, a vocabulary has built up around it. Many of the words we use have common meanings that are
+interchangeable elsewhere, but have come to mean very specific things in our community. 
+
+> ## Test yourself!
+>
+> As a class or in groups, see how many of the following terms you can define. 
+> - Lesson
+> - Episode
+> - Workshop
+> - Lesson Program
+> - Instructor
+> - (Instructor) Trainer
+>
+> This should take about 5 minutes.
+{: .challenge}
 
 ## How to Run a Carpentries Workshop
 
@@ -178,7 +194,8 @@ For self-organized workshops, the host institution is responsible for all logist
 submitted, The Carpentries will send links to the pre- and post- workshop survey response data to all identified Instructors and Hosts. You can also ask us, or 
 reach out on our community channels, for advice! 
 
-To request a centrally-organised workshop, register a self-organised workshop, or ask for more information on either, your [start page is here][workshops-form]. Be sure to submit your request in time to make use of those pre-workshop survey data!
+To request a centrally-organised workshop, register a self-organised workshop, or ask for more information on either, your [start page is here][workshops-form]. 
+Be sure to submit your request in time to make use of those pre-workshop survey data!
 
 > ## Teaching Opportunities
 >
@@ -265,20 +282,16 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 
 > ## Who Does What
 > 
-> Have a look at this form to match different Carpentries roles with short descriptions. If you are not sure about some of them or if you want to know more,
-> have a look at the descriptions on [The Carpentries community website][community-page]. 
-> Working on your own, match up the roles with the descriptions. 
+> Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write
+> 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. 
 >
->> ## Solution
->> 1. Executive Council
->> 2. Mentors
->> 3. Trainers
->> 4. Instructors
->> 5. Lesson Developers
->> 6. Code of Conduct Committee
->> 7. Instructor Development Committee
->> 8. Community Facilitators
-> {: .solution}
+>1. Executive Council
+>2. Mentors
+>3. Trainers
+>4. Lesson Developers
+>5. Code of Conduct Committee
+>6. Instructor Development Committee
+>7. Community Facilitators
 > This exercise should take about 10 minutes.
 {: .challenge}
 
