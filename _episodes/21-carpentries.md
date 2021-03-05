@@ -45,7 +45,7 @@ as the third official Lesson Program of The Carpentries.
 
 The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam_page], 
 but many of our proudest accomplishments are achieved through the efforts of volunteer participants in our global and local communities.
-Global Carpentries communities consist of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, committee and council 
+Global Carpentries communities consist of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council 
 members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the local level, individual 
 Carpentries communities may include many participants who  are not necessarily connected with or even aware of our global activities, including helpers, 
 learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
