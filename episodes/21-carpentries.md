@@ -317,6 +317,7 @@ Want to **talk** (or listen in on meetings)?
 > ## Get Connected
 >
 > Take a couple of minutes to sign up for The Carpentries [channels][connect-page] you want to stay involved with.
+> When you're done share what channel you're most excited about on the etherpad.
 {: .challenge}
 
 [F1000]: https://f1000research.com/articles/3-62/v2
