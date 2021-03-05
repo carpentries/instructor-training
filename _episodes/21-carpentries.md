@@ -189,7 +189,7 @@ Centrally organized workshops *do not* include:
 - communication with learners before or after a workshop
 - local logistics (e.g. catering)
 
-These must be arranged by the Host. Local instructors will be prioritized for selection, and constraints on recruitment may also be noted in the request form. 
+These must be arranged by the Host. Local instructors will be prioritized for selection, and constraints on recruitment (e.g. maximum travel distance) may also be noted in the request form. 
 
 For self-organized workshops, the host institution is responsible for all logistics and administration. However, if a self-organized workshop request form is 
 submitted, The Carpentries will send links to the pre- and post- workshop survey response data to all identified Instructors and Hosts. You can also ask us, or 
