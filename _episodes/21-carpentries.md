@@ -43,10 +43,12 @@ On November 1, 2018, The Carpentries Executive Council
 approved [Library Carpentry]({{ site.lc_site }})
 as the third official Lesson Program of The Carpentries.
 
-The Carpentries core operations are run by a small Core Team, but the heart of the project consists of our global and local communities. Global Carpentries communities consist of Instructors, Instructor Trainers,
-Maintainers, Lesson Developers, Institutional Partners, committee and council members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the local level, individual Carpentries communities may include many participants who 
-are not necessarily connected with or even aware of our global activities, including helpers, learners, faculty sponsors, and others who contribute to keep 
-communities thriving and growing 'on the ground.'
+The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam_page], 
+but many of our proudest accomplishments are achieved through the efforts of volunteer participants in our global and local communities.
+Global Carpentries communities consist of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, committee and council 
+members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the local level, individual 
+Carpentries communities may include many participants who  are not necessarily connected with or even aware of our global activities, including helpers, 
+learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
 ![A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organized in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.](../fig/SWCDChistory.png)
 
@@ -309,6 +311,7 @@ Want to **talk** (or listen in on meetings)?
 [community-page]: http://carpentries.org/community/
 [connect-page]: https://carpentries.org/connect/
 [contact-page]: https://carpentries.org/contact/
+[coreteam-page]: https://carpentries.org/team/
 [rcs-page]: https://carpentries.org/regionalcoordinators/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
