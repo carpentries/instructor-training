@@ -283,15 +283,17 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 > ## Who Does What
 > 
 > Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write
-> 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. 
+> 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
+> would like to see that are not listed? Note that, too!
 >
 >1. Executive Council
 >2. Mentors
->3. Trainers
+>3. Instructor Trainers
 >4. Lesson Developers
 >5. Code of Conduct Committee
 >6. Instructor Development Committee
 >7. Community Facilitators
+>8. Maintainers
 > This exercise should take about 10 minutes.
 {: .challenge}
 
