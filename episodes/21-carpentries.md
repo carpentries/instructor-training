@@ -96,7 +96,7 @@ certified instructors.
 
 > ## Local Support
 >
-> There is a great list here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist].
+> There is a helpful list for planning here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist].
 {: .callout}
 
 ### Materials
