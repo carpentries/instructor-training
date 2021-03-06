@@ -222,7 +222,8 @@ etherpad with basic Carpentries information at the top.
 > * If you have a GitHub account (or don't mind quickly creating one) and are comfortable doing so, 
 > follow the directions to create a workshop website using your local location and today's date.
 > 
-> * Alternatively, have a look at the video tutorial linked on the instructions page. 
+> * Alternatively, have a look at the video tutorial linked on the instructions page. With any time
+> remaining, have a look at the websites for [upcoming Carpentries workshops][https://carpentries.org/upcoming_workshops/] on our website.
 > 
 > * Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
 > add the link there as well.
