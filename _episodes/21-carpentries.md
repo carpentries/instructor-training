@@ -27,14 +27,12 @@ ways you might wish to participate (including by teaching workshops!).
 
 ## A Brief History
 
-
 [Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing.
 [Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy.
 
 Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
-On January 1, 2018, Software Carpentry and Data Carpentry merged
-their projects to form a new project called
+On January 1, 2018, Software Carpentry and Data Carpentry merged to form a new project called
 [The Carpentries]({{ site.carpentries_site }})
 under the fiscal sponsorship of
 [Community Initiatives][CI].
@@ -44,10 +42,10 @@ approved [Library Carpentry]({{ site.lc_site }})
 as the third official Lesson Program of The Carpentries.
 
 The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam_page], 
-but many of our proudest accomplishments are achieved through the efforts of volunteer participants in our global and local communities.
-Global Carpentries communities consist of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council 
-members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the local level, individual 
-Carpentries communities may include many participants who  are not necessarily connected with or even aware of our global activities, including helpers, 
+but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
+The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council 
+members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual 
+Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers, 
 learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
 ![A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organized in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.](../fig/SWCDChistory.png)
@@ -59,8 +57,7 @@ You can learn more about the history and goals of each Lesson Program by reading
 
 ## Similarities and Differences between The Carpentries Lesson Programs
 
-All lesson programs under The Carpentries share the same value
-of promoting efficient, shareable, and reproducible research practices.
+All lesson programs under The Carpentries share the same [core values][values-page].
 Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
 Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
@@ -82,22 +79,19 @@ are their content and intended audience. Their similarities and differences are 
 The names "Data Carpentry", "Library Carpentry", and "Software Carpentry"
 and their respective logos
 are all trademarked.
-You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if:
-
-*   it covers the core curriculum for that lesson program (see below),
-*   at least one of the instructors is a certified Carpentries Instructor,
-*   you run our standardized pre- and post-workshop assessments and ensure everyone participates.
+You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if it meets the requirements outlined on
+[The Carpentries website][workshopsreq-page]. 
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
 rely on your judgement as a certified Instructor to recruit and orient volunteers who
-will support you in implementing The Carpentries ethos and practices. **We do expect you to have at least one co-Instructor and helpers**, even if they are not 
+will support you in implementing The Carpentries values and practices. **We do expect you to have at least one co-Instructor and helpers**, even if they are not 
 certified instructors.
 
 > ## Local Support
 >
 > There is a helpful list for planning here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist]. We recommend at least a 1:8 
-> helper-to-learner ratio for in-person workshops and ideally more (e.g. 1:5) if teaching online.
+> helper-to-learner ratio for in-person workshops and more (e.g. 1:5) if teaching online.
 {: .callout}
 
 ### Materials
@@ -109,38 +103,14 @@ introduced into a longer course, as a standalone 2-3 hour session, as homework e
 provided you cite the original source.
 
 It is only when you want to run a branded Carpentries workshop using the materials
-that the requirements listed above are needed. Other workshops may be described as being "Carpentries-based", using Carpentries materials, etc.
+that the workshop [requirements][workshopsreq-page] are in effect. Other workshops may be described as being "Carpentries-based", using Carpentries materials, etc.
 
-### What is the Core Curriculum?
+### Reporting a Non-Branded Workshop
+If you do decide to run a workshop that does not fit the requirements of a lesson program, we would still like to know about it! This helps us
+to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your workshop to us
+(and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
 
-For Data Carpentry:
-* a Data Carpentry [lesson][dc-lessons]
-on data organization and 
-* three
-other modules in the same domain from the Data Carpentry curriculum
-Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials. Other domains are in development, including Image 
-Processing, Economics, and Astronomy.
-
-For Library Carpentry:
-* three to four of the
-[core lessons][lc-lessons], which include an introduction to data, the UNIX shell, OpenRefine, and Git
-Library Carpentry also maintains an "extended" set of lessons
-that can be taught in addition to the core curriculum
-These lessons are taught infrequently or are under development and include:
-SQL, webscraping, Python and an introduction to data for archivists.
-
-For Software Carpentry:
-* [lessons][swc-lessons]
-on version control (e.g. Git)
-* the UNIX shell,
-and 
-* a programming language (e.g. R or Python)
-
-Within these guidelines, there is flexibility in which episodes of the lesson you cover,
-which exercises you use, and whether you include optional materials (e.g. callouts) and
-optional episodes.
-
-### Instructor Badges Apply Universally
+### Instructor Certification is Comprehensive
 
 Certified Carpentries Instructors can teach curricula for any of the lesson programs
 (Data Carpentry, Library Carpentry, and Software Carpentries)
@@ -166,85 +136,59 @@ interchangeable elsewhere, but have come to mean very specific things in our com
 > This should take about 5 minutes.
 {: .challenge}
 
-## How to Run a Carpentries Workshop
-
-[**The Carpentries Handbook**][docs] is a community-developed resource that
-provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
-The Carpentries Handbook is the definitive source for policies and information.
-Here, we will cover some information about actually running a workshop.
-
+## How to Organise a Carpentries Workshop Locally
 Briefly, there are two types of Carpentries workshops: **centrally-organized** and
-**self-organized**. Centrally-organized workshops include support from
-[Regional Coordinators][rcs-page] and our workshop administration team.
-The Carpentries team will:
-- recruit Instructors to teach
-- manage workshop registration
-- coordinate communication between Instructors and Hosts
-- provide links to pre- and post- workshop survey data to Instructors and Hosts. (Note that the links to the surveys themselves are generated by the workshop website)
+**self-organized**. You can read (and hopefully have already read) about these on our [website][workshops-page].
 
-Centrally organized workshops *do not* include:
-- travel arrangements or expense management
-- recruitment of helpers (we recommend 1 per 8-10 learners)
-- creation of a workshop website
-- communication with learners before or after a workshop
-- local logistics (e.g. catering)
+Centrally organised workshops are included in institutional [membership][membership-page] packages and can also be requested separately for a fee. Since The Carpentries
+will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
+independently, or to host workshops beyond the areas of expertise you may have locally. 
 
-These must be arranged by the Host. Local instructors will be prioritized for selection, and constraints on recruitment (e.g. maximum travel distance) may also be noted in the request form. 
-
-For self-organized workshops, the host institution is responsible for all logistics and administration. However, if a self-organized workshop request form is 
-submitted, The Carpentries will send links to the pre- and post- workshop survey response data to all identified Instructors and Hosts. You can also ask us, or 
-reach out on our community channels, for advice! 
+If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. Registering
+your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures 
+that all Instructors and Helpers in our database have the experience recorded in their profile. Registering your workshop also helps The Carpentries! Reporting
+on our global impact is important to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
 
 To request a centrally-organised workshop, register a self-organised workshop, or ask for more information on either, your [start page is here][workshops-form]. 
 Be sure to submit your request in time to make use of those pre-workshop survey data!
 
-> ## Teaching Opportunities
+Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
+The Carpentries Handbook is the definitive source for policies and information, including provides tips, checklists, and points of contact for nearly all 
+Carpentries-related activities. A few examples of useful content include:
+- template emails and checklists for Hosts, Instructors, and Helpers in [The Carpentries Handbook: Teaching and Hosting][docs-teach-host]
+- [policies][docs-policies], many of which affect Instructors and workshops, including
+- the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
+
+As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
+back for policy changes, and keep in touch on our [communications channels][connect-page] to stay abreast of the latest updates!
+
+> ## Teaching Opportunities: Local and Global
 >
 > Many Instructors aim to teach within a local community and do not want to travel. In that case,
-> you will coordinate with your community to gain access to teaching opportunities.
+> you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
 >
 > If you want to be presented with opportunities to teach outside your community -- locally or far from home, be sure to join our Instructor
-> mailing list during the community exercise below. This is how we recruit Instructors to teach in centrally-organized workshops around the world.
+> mailing list during the community exercise below. This is how we recruit Instructors to teach in centrally-organised workshops around the world.
 >
 > The Carpentries cannot not guarantee
 > that all Instructors who respond to recruitment calls will be selected, and depending on your area these opportunities may be scarce.
 > If you want to get started right away, consider organizing
 > your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training, 
-> consider sharing a 'crash course' to help them understand how best to support your efforts.
+> you will need to set aside some time to help them understand how best to support your efforts.
 {: .callout}
-
-More information is available on [our website][workshops-page]. Finer details, 
-template emails, and checklists for Hosts, Instructors, and Helpers are available in [The Carpentries Handbook: Teaching and Hosting][docs-teach-host]
-
-Our Handbook also details [policies][docs-policies], many of which affect Instructors and workshops. In particular, 
-be sure to read through the [instructor no-show policy][docs-noshow] before signing up for your first workshop.
 
 
 > ## Explain to a partner
 >
 > With a partner, take turns asking and answering the question: "I want to organize a workshop! What will I need to do?" One partner should ask about a 
-> self-organized workshop, and the other can ask about a centrally-organized workshop. If you have a third person, they can help out the answerer if there is 
-> something they can't explain. 
+> self-organized workshop, and the other can ask about a centrally-organized workshop. If you have a third person, they can help out with follow-up questions
+> or answers as needed.
 > 
 > If you encounter new questions during this process, be sure to write them in the Etherpad.
 >
 > Leave about 10 minutes for this discussion.
 {: .challenge}
 
-
-## A Culture of Contribution
-
-In the same way that we hope to promote a
-culture of openness, sharing,
-and reproducibility in science and research through training researchers with
-the tools they need, The
-Carpentries community aims to be open, collaborative, and
-based on best practices. We draw together the collective expertise of
-all who teach with us to collaborate on new lessons, share related resources,
-and maintain our lessons with "bug fixes" and improvements as we go. None of what we offer is possible
-without our contributing community! We hope you will join in, and take pride in doing so.
-Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance
-and is a good place to start when looking for ways to contribute.
 
 > ## Setting Out On Your Own... Together: Lesson Incubation
 >
@@ -261,25 +205,25 @@ and is a good place to start when looking for ways to contribute.
 > the backwards design approach we recommend for lesson development.
 {: .callout}
 
-> ## Help Wanted: Breaking Down Barriers
->
-> At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress. 
-> That is why we exist! So we appreciate the irony when participation in our community demands tools or technical 
-> procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
-> this is something our community has [discussed extensively][git-blog].
->
-> We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our 
-> community in surmounting the barriers presented by our own technologies of choice. Watch our channels for 
-> opportunities to develop your skills as a contributor! In the mean time, if you
-> have any ideas about how we can make our resources more contributor-friendly,
-> please [let us know][contact-page].
-{: .callout}
-
 
 ### Community Roles
 
-The Carpentries is a complex, global community teaching workshops and developing lessons are only two examples of many ways to participate! 
-Whatever your interests or strengths, we hope you will find a place where you can grow with us. 
+
+## A Culture of Contribution
+
+In the same way that we hope to promote research practices that are open, collaborative,
+and reproducible through our technical trainings, The
+Carpentries community aims to embody a culture of openness, sharing, and
+continual pursuit of best practices. We draw together the collective expertise of
+all who join us to collaborate on new lessons, share resources,
+and maintain our lessons with small and large fixes and improvements as we go. 
+
+When you join our community by contributing, you join an amazing group of people. Whether you are contributing
+through our repositories, communications channels, or by joining a meeting or taking on a role, you will find 
+other people like you who care about The Carpentries [core values][values-page] and want to make a difference. Your efforts,
+small and large, will combine with theirs to make the work of this organisation possible. 
+
+Whatever your interests or strengths, we hope you will find a place where you can grow with us!
 
 > ## Who Does What
 > 
@@ -298,8 +242,8 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 > This exercise should take about 10 minutes.
 {: .challenge}
 
-### Communications!
-There are a dizzying number of ways to keep in touch with The Carpentries communities. It is not necessary to follow all of them! Everyone has their own favorite
+### Keeping In Touch
+There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their own favorite
 ways to keep in touch, and we do our best to make that possible. 
 
 Want to **listen**? 
@@ -310,7 +254,7 @@ Want to **interact** (or listen with options to engage)?
 - Join our Slack organisation
 - Join our Email lists (start with "Discuss"!)
 
-Want to **talk** (or listen in on meetings)?
+Want to **join meetings** (to meet new people or listen in)?
 - Sign up for Community Discussions (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
@@ -329,8 +273,11 @@ Want to **talk** (or listen in on meetings)?
 [connect-page]: https://carpentries.org/connect/
 [contact-page]: https://carpentries.org/contact/
 [coreteam-page]: https://carpentries.org/team/
+[membership-page]: https://carpentries.org/membership/
 [rcs-page]: https://carpentries.org/regionalcoordinators/
+[values-page]: https://carpentries.org/values/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
+[workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [docs]: https://docs.carpentries.org/
 [docs-helper-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
