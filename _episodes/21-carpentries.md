@@ -146,11 +146,8 @@ independently, or to host workshops beyond the areas of expertise you may have l
 
 If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. Registering
 your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures 
-that all Instructors and Helpers in our database have the experience recorded in their profile. Registering your workshop also helps The Carpentries! Reporting
-on our global impact is important to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
-
-To request a centrally-organised workshop, register a self-organised workshop, or ask for more information on either, your [start page is here][workshops-form]. 
-Be sure to submit your request in time to make use of those pre-workshop survey data!
+that all Instructors and Helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
+on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
 
 Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
 The Carpentries Handbook is the definitive source for policies and information, including provides tips, checklists, and points of contact for nearly all 
@@ -190,23 +187,20 @@ back for policy changes, and keep in touch on our [communications channels][conn
 {: .challenge}
 
 
-> ## Setting Out On Your Own... Together: Lesson Incubation
->
-> Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you would like to model it after the Software, Data and
-> Library Carpentry lesson format, you can find a template and instructions in
-> [The Carpentries lesson example repository]({{ site.example_repo }}),
-> and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
->
-> Any lesson that uses The Carpentries [lesson template][lesson-template],
-> follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
-> can be hosted in The Carpentries Incubator.
-> Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
-> the backwards design approach we recommend for lesson development.
-{: .callout}
+## Setting Out On Your Own... Together: Lesson Incubation
 
+Maybe this instructor training has inspired you to go home and write your
+own fantastic lesson!  If you would like to model it after the Software, Data and
+Library Carpentry lesson format, you can find a template and instructions in
+[The Carpentries lesson example repository]({{ site.example_repo }}),
+and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
 
-### Community Roles
+Any lesson that uses The Carpentries [lesson template][lesson-template],
+follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
+can be hosted in The Carpentries Incubator.
+Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
+the backwards design approach we recommend for lesson development.
+
 
 
 ## A Culture of Contribution
@@ -225,7 +219,7 @@ small and large, will combine with theirs to make the work of this organisation 
 
 Whatever your interests or strengths, we hope you will find a place where you can grow with us!
 
-> ## Who Does What
+> ## Community Roles
 > 
 > Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write
 > 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
