@@ -104,6 +104,21 @@ be discussed before changes are merged.
 If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 that is customized to the Carpentries workflow.
 
+
+> ## Help Wanted: Breaking Down Barriers
+>
+> At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress. 
+> That is why we exist! So we appreciate the irony when participation in our community demands tools or technical 
+> procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
+> this is something our community has [discussed extensively][git-blog].
+>
+> We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our 
+> community in surmounting the barriers presented by our own technologies of choice. Watch our channels for 
+> opportunities to develop your skills as a contributor! In the mean time, if you
+> have any ideas about how we can make our resources more contributor-friendly,
+> please [let us know][contact-page].
+{: .callout}
+
 ### What is in a Badge?
 
 Once you have completed all checkout steps, within about 2 weeks you will receive an email with your Instructor badge! What does this mean?
