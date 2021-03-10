@@ -105,10 +105,13 @@ provided you cite the original source.
 It is only when you want to run a branded Carpentries workshop using the materials
 that the workshop [requirements][workshopsreq-page] are in effect. Other workshops may be described as being "Carpentries-based", using Carpentries materials, etc.
 
-### Reporting a Non-Branded Workshop
-If you do decide to run a workshop that does not fit the requirements of a lesson program, we would still like to know about it! This helps us
-to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your workshop to us
+### Reporting a 'Mix and Match' Workshop
+If you do decide to self-organise a workshop of any length that does not fit the requirements of a lesson program but does draw from our officially recognized Data Carpentry,
+Library Carpentry, or Software Carpentry lessons, we would still like to know about it! This helps us
+to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your "mix-and-match" workshop to us
 (and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
+
+At this time we are not seeking registration for lessons taught from The Carpentries Incubator or Carpentries Labs. 
 
 ### Instructor Certification is Comprehensive
 
