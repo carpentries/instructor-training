@@ -11,34 +11,104 @@ keypoints:
 - "To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event."
 ---
 
-During this period after lunch, we will be talking about some of the nuts and bolts
-of getting involved in The Carpentries.  First, we will discuss what actions you will
-need to take after this training to become a fully certified Instructor.  After that,
-we will address any questions about The Carpentries organization, running workshops, and
-getting involved in the community in other ways.
+In this short episode, we will take a moment to review the actions you will
+need to take after this training to become a fully certified Carpentries Instructor.  
 
-## Application form
-
-Make sure that you have filled out The Carpentries
-[Instructor application form](https://amy.carpentries.org/forms/request_training/).
-We can not track your progress and make you an official Instructor without it. If you have already
-filled out this form, you do not need to submit another application.
 
 ## Instructor Checkout
 
-There are three final steps to complete before qualifying as an Instructor. The [Instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
+After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor. 
+Briefly, the three steps are:
 
-1. Make a contribution to any [eligible repository]({{ page.root }}/checkout/index.html#eligible-repositories):
-   1. Providing substantive feedback on an existing issue or pull request (preferred).
-   2. Submiting a change (i.e. pull request) to fix an existing issue. Our [Help Wanted page][help-wanted] lists issues for which lesson maintainers need assistance and is a good place to start when looking for ways to contribute.
-   3. Proof-reading a lesson and adding a new issue describing something to be improved.
+1.  Make (and send us a link to) a small contribution to a lesson or glossary.
+2.  Take part in an online community discussion session.
+3.  Take part in an online teaching demonstration session.
+
+
+All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
+3-month extensions may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org). 
+Extensions may be granted for any reason up to 1 year from your training date.
+
+
+## 1. Lesson Contributions
+
+### Keep It Simple!
+
+**The purpose of the lesson contribution is to demonstrate that you are prepared to draw upon your experience teaching our lessons to
+contribute towards their maintenance and improvement in the future.** For this reason, we suggest starting small! Consider commenting
+on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
+to help us out with something meaningful, have a look at our [Help Wanted page][help-wanted]. 
+
+### Eligible Repositories
+Contributions to repositories not managed by The Carpentries, including forks of Carpentries repositories, are not eligible for
+checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. 
+
+We recommend that contributions be directed to:
+* any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
+* any [community developed lesson](https://carpentries.org/community-lessons/)
+* our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
+
+Except for Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
+The  greater challenge, in most cases, is where and how to cut. 
+
+### Contributing on GitHub
+Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
+is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
+
+For a detailed guide to using GitHub for Carpentries contributions, see this
+community-[contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
+
+### Alternatives to GitHub
+All Carpentries lesson materials (including this one!) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
+including the ability to interact with and contribute to other open-source projects! However, we understand that there are many
+reasons why trainees may wish to avoid engaging on GitHub. That's ok!
+
+For this checkout task, you may email your contribution to [checkout@carpentries.org](mailto: checkout@carpentries.org).
+Be sure to include a link to the lesson or site that you are addressing in your contribution. A Carpentries Core Team member will 
+add your contribution to the relevant repository on your behalf (e.g. by creating an issue), and will send you a link so that
+you may view any responses by the maintainers. 
+
+### What Comes Next?
+
+If you submit your own contribution, keep an eye on your GitHub notifications in case the Maintainers have follow-up questions or 
+requests. That being said, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
+maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response!
+**Your contribution does not need to be accepted in order for you to become an Instructor**.
+
+## 2. Community Discussion
+
+The purpose of having you attend a Community Discussion meeting is to introduce you to other members of our global community
+and the valuable resource they offer as you develop your teaching practice. 
+
+Community Discussion meetings occur several times a week and may take different forms. The most common type of Community Discussion 
+meeting is designed to support Instructors in preparing to teach an upcoming workshop and to provide a forum for sharing
+lessons learned by those who have recently taught. If there are no workshops to discuss on the agenda, then the facilitator will 
+lead a conversation about teaching and preparing to teach, engaging the interests of participants. These meetings are most often 
+led by a member of the Instructor Development committee or The Carpentries Core Team.
+
+In some cases, a Community Discussion meeting may be used for regional community-building, to invite the community to connect
+with representatives from specific Carpentries committees or subcommunities, or to address a theme of special interest to our
+community. 
+
+When signing up on the [Etherpad][discussion], be sure to examine the description of your event carefully. Also, be sure to double check
+the time zone, and be sure to mark your calendar after signing up! 
+
+### Not Just for Checkout!
+Community Discussion meetings are an excellent opportunity to
+get help as you prepare to teach and to engage in vital reflection on your practice while connecting with a community of like-
+minded Instructors. You are invited to attend these at any time! If you think you might enjoy hosting them, or developing 
+other opportunities for Instructors, consider joining the Instructor Development Committee. 
+
+## 3. Teaching Demonstration
+
+
+
+___________________________
 
 2.  Take part in a [community discussion][discussion] with experienced Instructors.
 3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 
-All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-extensions for up to a year may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
 > ## Carpentries Tools: Etherpad
 >
@@ -150,6 +220,11 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 > participating in our Carpentries [Mentoring program][mentoring]!
 {: .callout}
 
+
+
+
+[contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
