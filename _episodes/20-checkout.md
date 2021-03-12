@@ -69,11 +69,10 @@ add your contribution to the relevant repository on your behalf (e.g. by creatin
 you may view any responses by the maintainers. 
 
 ### What Comes Next?
-
-If you submit your own contribution, keep an eye on your GitHub notifications in case the Maintainers have follow-up questions or 
-requests. That being said, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
-maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response!
-**Your contribution does not need to be accepted in order for you to become an Instructor**.
+If you submit your own contribution, be sure to send an email with a link to [checkout@carpentries.org](mailto: checkout@carpentries.org). Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or 
+requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
+maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
+**Your contribution does not need to be reviewed or accepted in order for you to become an Instructor**.
 
 ## 2. Community Discussion
 
@@ -99,7 +98,13 @@ get help as you prepare to teach and to engage in vital reflection on your pract
 minded Instructors. You are invited to attend these at any time! If you think you might enjoy hosting them, or developing 
 other opportunities for Instructors, consider joining the Instructor Development Committee. 
 
+### Getting Credit
+After each Community Discussion meeting, hosts submit a form that includes the names of attendees who identified themselves as
+fulfilling their checkout requirement. This is indicated by writing "checkout" next to your name in the Etherpad. As long as you
+indicate that you are completing checkout, it is not necessary to email us after you have attended your meeting.
+
 ## 3. Teaching Demonstration
+
 
 
 
