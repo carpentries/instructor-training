@@ -45,11 +45,11 @@ checkout contributions. This is because The Carpentries Code of Conduct does not
 
 We recommend that contributions be directed to:
 * any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
-* any [community developed lesson](https://carpentries.org/community-lessons/)
+* any [community developed lesson][carpentries-incubator]
 * our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
 Except for Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
-The  greater challenge, in most cases, is where and how to cut. 
+The greater challenge, in most cases, is identifying where and how to cut. 
 
 ### Contributing on GitHub
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
@@ -90,7 +90,8 @@ with representatives from specific Carpentries committees or subcommunities, or 
 community. 
 
 When signing up on the [Etherpad][discussion], be sure to examine the description of your event carefully. Also, be sure to double check
-the time zone, and be sure to mark your calendar after signing up! 
+the time zone, and be sure to mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
+of the Etherpad.
 
 ### Not Just for Checkout!
 Community Discussion meetings are an excellent opportunity to
@@ -105,13 +106,89 @@ indicate that you are completing checkout, it is not necessary to email us after
 
 ## 3. Teaching Demonstration
 
+The teaching demonstration serves several purposes. First and foremost, it is an opportunity to **both give and receive feedback** on
+a more polished presentationm after you have had some time to reflect on your lesson and what you have learned in this workshop. In 
+addition, it is an opportunity to **spend some time preparing to teach** well in advance of your first workshop. This will ease your
+preparations when the date of that workshop approaches. Finally, it is an opportunity to receive feedback from a **Carpentries 
+Instructor Trainer** (like your Trainers at today's event), who can help you make sure you are prepared for a strong start.
 
+### Not a High Stakes Test
+It can be nerve-wracking to perform in front of others! This is true when you teach, too. As much as possible, try to relax and
+enjoy this friendly opportunity for feedback and connection with others in our community.
+
+In some cases, an Instructor Trainer may ask you to repeat your teaching demonstration another time prior to certification. If this
+happens, they will be very clear about exactly what they would like you to change on your second appearance, and why. These requests
+are made with your interests in mind -- we want you to be prepared for success when you set out to teach! 
+
+Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a 
+[rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare. 
+
+### 1 Lesson = Many Episodes
+For your teaching demonstration, you will prepare to teach a lesson from one of the
+Carpentries lesson programs. You can refer to the lists of [Software Carpentry lessons]({{ site.swc_site }}/lessons/), [Data Carpentry lessons]({{ site.dc_site }}/lessons/), and [Library Carpentry lessons]({{ site.lc_site }}/lessons/) on the websites. 
+
+A lesson corresponds to a single line in the lesson table and a single repository in GitHub.
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
+Some lessons have supplementary modules.
+You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
+
+You will be asked to teach a short segment from your chosen lesson from this
+[list of suggested episodes][start-points].
+The host of the session will pick a segment of the lesson for you to teach on the day of the
+demonstration (An example for a segment could be: [Data Structures][r-gapminder-episode], so you must be prepared to teach any part of 
+your chosen lesson. Note that, because we are particularly interested in your use of participatory live coding (or participatory 
+work with spreadsheets etc.), you will not be asked to teach segments of a lesson that are entirely expository or that have dependencies or 
+other complications to set up.
+
+### Sign Up and Set Up 
+Select a session that works for you on the [the teaching demo schedule Etherpad]({{page.demopad}}), and sign up by adding
+your name and lesson of choice to the Etherpad. Be sure to double check the time in your local time zone by clicking on the converter 
+link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or 
+language (unless you are part of that target group). 
+
+The link to connect to the video conference is at the top of the Etherpad. Your Trainer may send an email with confirmation and/or 
+additional instructions prior to your demo. If possible, plan to use a headset with built in microphone for the best audio experience. 
+
+### During the Demo
+For your demonstration(s), you will screen-share and live code (or comparable) for 5 minutes. You may use whatever notes you want, but 
+please do not display them on your screen. Teach as you would in an actual workshop.
+When your five minutes are up, the trainer leading the session will call time,
+and then you and everyone else taking part in the session will give feedback on your teaching.
+You will be asked to give feedback on yourself as well as on others;
+your Trainer will likely recommmend a feedback structure using two axes of positive vs. negative
+and content vs. presentation, just as you have done during this workshop.
+
+### Languages Other than English
+If you want to do your demonstration in a language other than English,
+please let us know in advance so that we can attempt to find someone to moderate.
+We may not be able to accommodate all languages.
+
+### Getting Credit
+After each Teaching Demonstration, Trainers submit a form that includes the names and passing status of each attendee. They will
+also email you to let you know, as this information is typically not shared during the demo session. It is not necessary to email us 
+after you have attended your teaching demonstration.
+
+## 4. Tracking Your Progress
+After you complete this workshop, your application will be matched to your training record and a profile will be created in The 
+Carpentries database, AMY. If you already have a profile, [this link should take you to your profile][trainee-profile]. Check your email for instructions on logging in. As you complete your steps toward checkout, these 
+will appear as completed in your profile.
+
+Keeping your profile up to date with a current email address and local airport helps us to keep in touch about teaching 
+opportunities. You may also adjust your preferences to select whether you want to have your GitHub profile shared on our 
+[Instructors page][instructors-page]. 
+
+## 5. Congratulations!
+Approximately 1-2 weeks after your last step is complete, you should receive an email with your Carpentries Instructor badge. Hooray!
+
+### What does a badge mean?
+* **You can teach any Carpentries workshops** While your badge will indicate a lesson program that you selected for checkout, all Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
+* **You get to vote** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
+* **You can register for Carpentries Bonus Modules** New to The Carpentries in 2020, we are now offering short continuing education [modules][bonus-modules] for certified Instructors. The first of these targets preparing to teach online. Look out for more topics coming soon!
+* **You can share the news** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
 
 ___________________________
 
-2.  Take part in a [community discussion][discussion] with experienced Instructors.
-3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
 
 
@@ -127,7 +204,7 @@ ___________________________
 
 > ## Checking Out Review with Questions and Answers
 >
-> In small groups, read and discuss one of the three checkout procedures listed above and described in detail at [this page]({{ page.root }}/checkout/).
+> In small groups, read and discuss one of the three checkout procedures described on this page. (https://carpentries.github.io/instructor-training/20-checkout/index.html if you are viewing this text elsewhere)
 > Make notes in the Etherpad and when you are done, report back to the full group about the requirements for that stage of the process.
 > What questions do you still have about the checkout process?
 >
@@ -143,42 +220,9 @@ ___________________________
 > If you would prefer to do your teaching demonstration before your discussion,
 > visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 >
-> __Note:__
-> When you're scheduling you may see extra information on some sessions. These
-> sessions may be themed (community discussions) or sub community focused(teaching demos)
-> , be careful to select a session that matches your interests and needs. A themed
-> Community Discussion may not leave you time to ask questions about your upcoming
-> workshop. A focused teaching demo may, for example, be offered in a language
-> other than English.
->
 >
 > This exercise should take 5 minutes.
 {: .challenge}
-
-### Lesson Contribution
-
-The lesson materials are hosted on GitHub:
-
-*   [Data Carpentry on GitHub]({{ site.dc_github }})
-*   [Library Carpentry on GitHub]({{ site.lc_github }})
-*   [Software Carpentry on GitHub]({{ site.swc_github }})
-*   [Community-developed lessons on GitHub][carpentries-incubator]
-
-and are developed collaboratively.  Each lesson is in a separate
-repository, and consists of narrative lesson material and an
-associated directory containing the data or scripts needed in the
-lesson.  This source material is also then served as a website, using
-GitHub's "gh-pages" feature.
-
-Lesson contribution is managed within the repository using "issues"
-and "pull requests".  New problems or suggestions can be introduced
-as issues, discussed by the community, and addressed via a pull
-request, which serves as a "request" to make changes, and can also
-be discussed before changes are merged.
-
-If contributing on GitHub is new for you, see this [guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
-that is customized to the Carpentries workflow.
-
 
 > ## Help Wanted: Breaking Down Barriers
 >
@@ -226,13 +270,19 @@ Once you have completed all checkout steps, within about 2 weeks you will receiv
 {: .callout}
 
 
-
-
+[r-gapminder]: http://swcarpentry.github.io/r-novice-gapminder/
+[r-gapminder-episode]: http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
+[trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
+[bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
 [glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
+[instructors-page]: https://carpentries.org/instructors/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.carpentries.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos
-[demo rubric]: https://carpentries.github.io/instructor-training/17-performance/index.html
+[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
+[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
+[text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
