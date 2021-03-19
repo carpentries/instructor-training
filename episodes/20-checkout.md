@@ -128,6 +128,20 @@ of the Etherpad.
 >
 {: .callout}
 
+### What Should I Say?
+Joining a meeting to "discuss" training with strangers can feel a little intimidating! If you have enjoyed meeting the people at your Instructor Training 
+workshop (we hear this a lot!) you will probably enjoy meeting people at your discussion session, too. 
+
+Being prepared to participate does not mean you need to do any homework in advance! However, it can help to put a little thought into 
+what questions you have about training. In case you need a little inspiration, here are a few themes to consider:
+* distribution of teaching among the instructional team
+* distribution of organisational responsibilities among the instructional team
+* adaptations or modifications to curricular materials
+* timing and pacing
+* sticking points or challenges
+* content questions or concerns 
+* broader questions about the value or experience of teaching Carpentries workshops
+
 
 ### Not Just for Checkout!
 Community Discussion meetings are an excellent opportunity to
