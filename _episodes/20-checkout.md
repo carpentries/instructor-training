@@ -122,7 +122,7 @@ of the Etherpad.
 >
 > The Etherpad is a widely used tool in Carpentries workshops and many other activities in the community.
 > We also use Etherpads for sign-ups and notes on recurring events, like community discussions and teaching demonstrations.
-> Most Etherpads for recurring events are linked from our ["pad of pads"](https://pad.carpentries.org/pad-of-pads).
+> Most Etherpads for recurring events are linked from our ["pad of pads"][pad-of-pads].
 > This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
 > of The Carpentries community.
 >
@@ -142,7 +142,6 @@ what questions you have about training. In case you need a little inspiration, h
 * content questions or concerns 
 * broader questions about the value or experience of teaching Carpentries workshops
 
-
 ### Not Just for Checkout!
 Community Discussion meetings are an excellent opportunity to
 get help as you prepare to teach and to engage in vital reflection on your practice while connecting with a community of like-
@@ -157,10 +156,20 @@ other opportunities for Instructors, consider joining the Instructor Development
 > participating in The Carpentries [Mentoring program][mentoring]!
 {: .callout}
 
+### In-Person and Virtual Alternatives
+Occasionally, a special in-person Community Discussion event may be approved to occur in-person. This is most common in areas with limited internet
+access or in association with larger events like conferences or extended workshops. In addition, Carpentries communities occasionally host conferences
+virtually or in-person that invite you to form a deeper connection with your local or global Carpentries community. Registered in-person Community Discussion
+meetings, CarpentryCon, and CarpentryConnect events are all eligible to satisfy the Community Discussion requirement. 
+
 ### Getting Credit
 After each Community Discussion meeting, hosts submit a form that includes the names of attendees who identified themselves as
 fulfilling their checkout requirement. This is indicated by writing "checkout" next to your name in the Etherpad. As long as you
-indicate that you are completing checkout and attend the event you are signed up for, it is not necessary to email us after attending your meeting.
+indicate that you are completing checkout and attend the event you are signed up for, it is not necessary to email us after attending a standard
+Community Discussion meeting.
+
+If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
+not sure whether your attendance has been reported, you can email us at [checkout@carpentries.org](mailto: checkout@carpentries.org) to confirm.
 
 ## 3. Teaching Demonstration
 
@@ -272,6 +281,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [discussion]: http://pad.carpentries.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos
+[pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
 [start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
 [voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
