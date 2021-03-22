@@ -190,22 +190,24 @@ are made with your interests in mind -- we want you to be prepared for success w
 Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a 
 [rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare. 
 
-### 1 Lesson = Many Episodes
-For your teaching demonstration, you will prepare to teach a lesson from one of the
-Carpentries lesson programs. You can refer to the lists of [Software Carpentry lessons]({{ site.swc_site }}/lessons/), [Data Carpentry lessons]({{ site.dc_site }}/lessons/), and [Library Carpentry lessons]({{ site.lc_site }}/lessons/) on the websites. 
+### 1 Lesson = Many Episodes: preparing to teach a lesson.
+For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
+Carpentries lesson programs. Please refer to the lists of [Software Carpentry lessons]({{ site.swc_site }}/lessons/), [Data Carpentry lessons]({{ site.dc_site }}/lessons/), and [Library Carpentry lessons]({{ site.lc_site }}/lessons/) on the websites. 
 
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub.
 (An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
 Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
-You will be asked to teach a short segment from your chosen lesson from this
-[list of suggested episodes][start-points].
-The host of the session will pick a segment of the lesson for you to teach on the day of the
-demonstration (An example for a segment could be: [Data Structures][r-gapminder-episode], so you must be prepared to teach any part of 
-your chosen lesson. Note that, because we are particularly interested in your use of participatory live coding (or participatory 
-work with spreadsheets etc.), you will not be asked to teach segments of a lesson that are entirely expository or that have dependencies or 
+**The Trainer hosting the session session may choose any episode of the lesson** from this [list of suggested episodes][start-points] for you to teach. (An 
+example for an episode could be: [Data Structures][r-gapminder-episode]). Because we are particularly interested in your use of participatory live coding (or 
+participatory work with spreadsheets etc.), you will not be asked to teach episodes that are entirely expository or that have dependencies or 
 other complications to set up.
+
+**If your chosen lesson does not have any suggested episodes for start points listed or is not on the list, please consider choosing a different lesson.** 
+Alternatively, if you
+think your lesson has good start points for participatory instruction, you may email the Trainer hosting your demo to request advice on whether your lesson will
+work for a checkout demo. Be sure to give yourself time to change course if your planned lesson will not work. 
 
 ### Sign-up and Set-up 
 To sign up, select a session that works for you on the [the teaching demo schedule Etherpad]({{page.demopad}}), and add
