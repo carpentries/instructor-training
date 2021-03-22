@@ -167,8 +167,8 @@ back for policy changes, and keep in touch on our [communications channels][conn
 > Many Instructors aim to teach within a local community and do not want to travel. In that case,
 > you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
 >
-> If you want to be presented with opportunities to teach outside your community -- locally or far from home, be sure to join our Instructor
-> mailing list during the community exercise below. This is how we recruit Instructors to teach in centrally-organised workshops around the world.
+> If you want to be presented with opportunities to teach outside your community -- locally or far from home, be sure to join our [Instructors
+> mailing list][instructors-list]. This is how we recruit Instructors to teach in centrally-organised workshops around the world.
 >
 > The Carpentries cannot not guarantee
 > that all Instructors who respond to recruitment calls will be selected, and depending on your area these opportunities may be scarce.
@@ -265,6 +265,7 @@ Want to **join meetings** (to meet new people or listen in)?
 [IJDC]: http://ijdc.net/index.php/ijdc/article/view/10.1.135
 [LIBERQ]: https://www.liberquarterly.eu/article/10.18352/lq.10176/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
+[instructors-list]: https://carpentries.topicbox.com/groups/instructors
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
 [community-page]: http://carpentries.org/community/
 [connect-page]: https://carpentries.org/connect/
