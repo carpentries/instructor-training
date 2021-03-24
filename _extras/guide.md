@@ -310,7 +310,7 @@ Suggested points to make during wrap-up:
 [post-template]: https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#email-after-training-event
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
-[minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
+[minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
