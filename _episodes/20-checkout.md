@@ -20,9 +20,9 @@ need to take after this training to become a fully certified Carpentries Instruc
 After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor. 
 Briefly, the three steps are:
 
-1.  [Make (and send us a link to) a small contribution to a lesson or glossary]({{ page.root }}/20-checkout.md/).
-2.  Take part in an online community discussion session.
-3.  Take part in an online teaching demonstration session.
+1.  [Make (and send us a link to) a small contribution to a lesson or glossary]({{ page.root }}/20-checkout.md/#1-lesson-contribution).
+2.  [Take part in an online community discussion session]({{ page.root }}/20-checkout.md/#2-community-discussion).
+3.  [Take part in an online teaching demonstration session]({{ page.root }}/20-checkout.md/#3-teaching-demonstration).
 
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
