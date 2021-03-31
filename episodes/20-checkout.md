@@ -152,7 +152,7 @@ other opportunities for Instructors, consider joining the Instructor Development
 
 > ## Ongoing support
 >
-> Instructors are highly encouraged to participate in discussions before and after each of their workshops,
+> Instructors are highly encouraged to participate in Community Discussions before and after each workshop they teach,
 > so that they can continue to learn from each other and advance their teaching skills. For even more support, or 
 > to work more intensively on specific aspects of your teaching practice, consider
 > participating in The Carpentries [Mentoring program][mentoring]!
