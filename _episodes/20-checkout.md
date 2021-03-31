@@ -115,7 +115,7 @@ In some cases, a Community Discussion meeting may be used for regional community
 with representatives from specific Carpentries committees or subcommunities, or to address a theme of special interest to our
 community.
 
-When signing up on the [Etherpad][discussion], be sure to examine the description of your event carefully. Also, **take care to double check
+When signing up on the [Community Discussion Etherpad][discussion], be sure to examine the description of your event carefully. Also, **take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
 of the Etherpad.
 
