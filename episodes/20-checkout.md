@@ -55,7 +55,7 @@ Contributions to repositories that are not managed by The Carpentries, including
 checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. 
 
 We recommend that contributions be directed to:
-* any [Software Carpentry]({{ site.swc_site }}/lessons/), [Data Carpentry]({{ site.dc_site }}/lessons/), or [Library Carpentry]({{ site.lc_site }}/lessons/) lesson
+* any [Data Carpentry]({{ site.dc_site }}/lessons/), [Library Carpentry]({{ site.lc_site }}/lessons/), or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
 * any [community developed lesson][carpentries-incubator]
 * our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
