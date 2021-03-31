@@ -153,7 +153,7 @@ of the Etherpad.
 {: .callout}
 
 ### What Should I Say?
-Joining a meeting to "discuss" training with strangers can feel a little intimidating! If you have enjoyed meeting the people at your Instructor Training 
+Joining a meeting to "discuss" teaching practices with strangers can feel a little intimidating! If you have enjoyed meeting the people at your Instructor Training 
 workshop (we hear this a lot!) you will probably enjoy meeting people at your discussion session, too. 
 
 Being prepared to participate does not mean you need to do any homework in advance! However, it can help to put a little thought into 
@@ -175,8 +175,7 @@ other opportunities for Instructors, consider joining the Instructor Development
 > ## Ongoing support
 >
 > Instructors are highly encouraged to participate in Community Discussions before and after each workshop they teach,
-> so that they can continue to learn from each other and advance their teaching skills. For even more support, or 
-> to work more intensively on specific aspects of your teaching practice, consider
+> so that they can continue to learn from each other and advance their teaching skills. To work more intensively on specific aspects of your teaching practice, consider
 > participating in The Carpentries [Mentoring program][mentoring]!
 {: .callout}
 
@@ -225,7 +224,7 @@ You do not need to be prepared to teach the supplementary modules for your teach
 
 **The Trainer hosting the teaching demonstration session may choose any episode of the lesson** from this [list of suggested episodes][start-points] for you to teach. (An 
 example for an episode could be: [Data Structures][r-gapminder-episode]). Because we are particularly interested in your use of participatory live coding (or 
-participatory work with spreadsheets etc.), you will not be asked to teach episodes that are entirely expository or that have dependencies or 
+participatory work with spreadsheets etc.), you will not be asked to teach episodes that lack participatory content or that require files or other output from previous episodes.
 other complications to set up.
 
 **If your chosen lesson does not have any suggested episodes for start points listed or is not on the list, please consider choosing a different lesson.** 
