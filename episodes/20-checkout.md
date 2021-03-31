@@ -144,7 +144,7 @@ of the Etherpad.
 
 > ## Carpentries Tools: Etherpad
 >
-> The Etherpad is a widely used tool in Carpentries workshops and many other activities in the community.
+> The Etherpad is a collaborative note taking tool that is widely used in Carpentries workshops and many other activities in the community.
 > We also use Etherpads for sign-ups and notes on recurring events, like community discussions and teaching demonstrations.
 > Most Etherpads for recurring events are linked from our ["pad of pads"][pad-of-pads].
 > This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
