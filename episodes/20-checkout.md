@@ -59,7 +59,7 @@ We recommend that contributions be directed to:
 * any [community developed lesson][carpentries-incubator]
 * our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
-Wiht the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
+With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
 The greater challenge, in most cases, is identifying where and how to cut. 
 
 ### Contributing on GitHub
