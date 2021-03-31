@@ -45,7 +45,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 ### Keep It Simple!
 
-**The purpose of the lesson contribution is to demonstrate that you are prepared to draw upon your experience teaching our lessons to
+**The purpose of the lesson contribution is to demonstrate that you are prepared to draw upon your experience teaching Carpentries lessons to
 contribute towards their maintenance and improvement in the future.** For this reason, we suggest starting small! Consider commenting
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
 to help us out with something more substantial, consider selecting an item from our [Help Wanted page][help-wanted]. 
