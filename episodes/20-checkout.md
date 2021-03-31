@@ -102,7 +102,7 @@ maintained; others may have slower response times. Do not take it personally if 
 
 ## 2. Community Discussion
 
-The purpose of having you attend a Community Discussion meeting is to introduce you to other members of our global community
+The purpose of having you attend a Community Discussion is to introduce you to other members of our global community
 and to demonstrate an ongoing resource for support and advice as you develop your teaching practice. 
 
 Community Discussion meetings occur several times a week and may take different forms. The most common type of Community Discussion 
