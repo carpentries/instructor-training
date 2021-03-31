@@ -146,7 +146,7 @@ what questions you have about training. In case you need a little inspiration, h
 
 ### Community Discussions are Not Just for Checkout!
 Community Discussion meetings are an excellent opportunity to
-get help as you prepare to teach and to engage in vital reflection on your practice while connecting with a community of like-
+get help as you prepare to teach and to engage in vital reflection on your teaching practice while connecting with a community of like-
 minded Instructors. You are invited to attend these at any time! If you think you might enjoy hosting them, or would like to help develop 
 other opportunities for Instructors, consider joining the Instructor Development Committee. 
 
