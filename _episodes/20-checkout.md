@@ -223,7 +223,7 @@ A "lesson" corresponds to a single line in the lesson table and a single reposit
 Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
-**The Trainer hosting the session session may choose any episode of the lesson** from this [list of suggested episodes][start-points] for you to teach. (An 
+**The Trainer hosting the teaching demonstration session may choose any episode of the lesson** from this [list of suggested episodes][start-points] for you to teach. (An 
 example for an episode could be: [Data Structures][r-gapminder-episode]). Because we are particularly interested in your use of participatory live coding (or 
 participatory work with spreadsheets etc.), you will not be asked to teach episodes that are entirely expository or that have dependencies or 
 other complications to set up.
