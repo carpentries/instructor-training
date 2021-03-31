@@ -141,7 +141,7 @@ what questions you have about training. In case you need a little inspiration, h
 * adaptations or modifications to curricular materials
 * timing and pacing
 * sticking points or challenges
-* content questions or concerns 
+* questions or concerns about the curricula  
 * broader questions about the value or experience of teaching Carpentries workshops
 
 ### Not Just for Checkout!
