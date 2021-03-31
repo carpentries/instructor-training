@@ -57,7 +57,7 @@ an arrow labelled "Experience level" points from left to right. Underneath the f
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
     Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic
-    as they reach for anything they know to connect.
+    as they rely on prior knowledge, without knowing what is/not related yet.
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
@@ -388,7 +388,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > Take 10 minutes to create a multiple choice question related to a lesson you intend to teach.
 > 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
 > In what ways might they misunderstand or inappropriately connect concepts?
-> 2. Try to target one or more misconceptions using a multiple choice question. How many diagnostic distractors can you create?
+> 2. Try to target one or more misconceptions using a multiple choice question. How many plausible distractors can you create?
 > 3. Type your question into the Etherpad
 > and explain the diagnostic power of each its distractors.
 {: .challenge}
