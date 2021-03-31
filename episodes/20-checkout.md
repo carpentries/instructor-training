@@ -216,7 +216,7 @@ Trainers draw from their own experience and training when they evaluate teaching
 
 ### 1 Lesson = Several Episodes: preparing to teach a lesson.
 For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
-Carpentries lesson programs. Please refer to the lists of [Software Carpentry lessons]({{ site.swc_site }}/lessons/), [Data Carpentry lessons]({{ site.dc_site }}/lessons/), and [Library Carpentry lessons]({{ site.lc_site }}/lessons/) on the websites. 
+Carpentries lesson programs. Please refer to the lists of [Data Carpentry lessons]({{ site.dc_site }}/lessons/), [Library Carpentry lessons]({{ site.lc_site }}/lessons/), and [Software Carpentry lessons]({{ site.swc_site }}/lessons/) on the websites. 
 
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub.
 (An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
