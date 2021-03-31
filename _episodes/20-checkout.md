@@ -50,24 +50,32 @@ contribute towards their maintenance and improvement in the future.** For this r
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
 to help us out with something more substantial, consider selecting an item from our [Help Wanted page][help-wanted]. 
 
-### Eligible Repositories
-Contributions to repositories that are not managed by The Carpentries, including forks of Carpentries repositories, are **not** eligible for
-checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. 
+### What is an Issue? GitHub 101
+The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the 
+curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held. 
 
-We recommend that contributions be directed to:
-* any [Data Carpentry]({{ site.dc_site }}/lessons/), [Library Carpentry]({{ site.lc_site }}/lessons/), or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
-* any [community developed lesson][carpentries-incubator]
-* our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
+The browser view of the GitHub repository for this workshop looks like this: 
 
-With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
-The greater challenge, in most cases, is identifying where and how to cut. 
+![Screen shot of Instructor Training GitHub repository in a browser with Issues and Pull Requests tabs circled](../fig/Instructor_Training_Repo_1.svg)
 
-### Contributing on GitHub
+There are two tabs on this page that offer opportunities for interaction with the community that maintains this curriculum. The first is the "Issues" tab. 
+When someone has an idea or suggestion, they can start a conversation about their idea by creating an Issue. Others can then comment on the Issue to provide 
+feedback. Issues can be searched, using the search bar at the top:
+
+![Screen shot of Instructor Training GitHub repository with Issues tab selected and search bar and New Issue button circled](../fig/Instructor_Training_Repo_2.svg)
+
+If you have an idea, it is a good idea to search first to see if anyone else has already suggested it! If so, you can add your thoughts as a comment 
+on the existing issue instead of starting a new one. Either way, you will get credit for your contribution to the conversation. Note that you must be signed 
+in to GitHub to be able to see the comment box at the bottom of each issue. 
+
+![Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled](../fig/Instructor_Training_Repo_4.svg)
+
+If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also view
+and comment on existing PRs. We will not cover the details of how to create a PR, but there is a 
+community-[contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md) that can help. 
+
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
-
-For a detailed guide to using GitHub for Carpentries contributions, see this
-community-[contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
 
 ### Alternatives to GitHub
 All Carpentries curricula (including this one) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
@@ -92,6 +100,20 @@ you may view any responses by the maintainers.
 > have any ideas about how we can make our resources more contributor-friendly,
 > please [let us know][contact-page].
 {: .callout}
+
+### Eligible Repositories
+Contributions to repositories that are not managed by The Carpentries, including forks of Carpentries repositories, are **not** eligible for
+checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. 
+
+We recommend that contributions be directed to:
+* any [Data Carpentry]({{ site.dc_site }}/lessons/), [Library Carpentry]({{ site.lc_site }}/lessons/), or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
+* any [community developed lesson][carpentries-incubator]
+* our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
+
+With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting! 
+The greater challenge, in most cases, is identifying where and how to cut. 
+
+
 
 ### What Comes Next?
 If you submit your own contribution, be sure to send an email with a link to [checkout@carpentries.org](mailto: checkout@carpentries.org). 
