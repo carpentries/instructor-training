@@ -144,7 +144,7 @@ what questions you have about training. In case you need a little inspiration, h
 * questions or concerns about the curricula  
 * broader questions about the value or experience of teaching Carpentries workshops
 
-### Not Just for Checkout!
+### Community Discussions are Not Just for Checkout!
 Community Discussion meetings are an excellent opportunity to
 get help as you prepare to teach and to engage in vital reflection on your practice while connecting with a community of like-
 minded Instructors. You are invited to attend these at any time! If you think you might enjoy hosting them, or would like to help develop 
