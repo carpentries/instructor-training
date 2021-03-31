@@ -33,8 +33,10 @@ Extensions may be granted for any reason up to 1 year from your training date.
 > ## Be The Expert: Checkout Q & A
 >
 > In small groups, read and discuss one of the three checkout procedures described on this page. (https://carpentries.github.io/instructor-training/20-checkout/index.html if you are viewing this text elsewhere)
-> Make notes in the Etherpad and when you are done, report back to the full group about the requirements for that stage of the process.
-> What points do you think it is most important or helpful for people to remember? What questions do you still have about the checkout process?
+> Make notes in the Etherpad:
+> - What points do you think it is most important or helpful for people to remember?
+> - What questions or points of confusion do you have, or think others might have? 
+> When you are done, report back to the full group about that stage of the process.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
