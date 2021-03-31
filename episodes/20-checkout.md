@@ -192,7 +192,7 @@ are made with your interests in mind -- we want you to be prepared for success w
 Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a 
 [rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare. 
 
-### 1 Lesson = Many Episodes: preparing to teach a lesson.
+### 1 Lesson = Several Episodes: preparing to teach a lesson.
 For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
 Carpentries lesson programs. Please refer to the lists of [Software Carpentry lessons]({{ site.swc_site }}/lessons/), [Data Carpentry lessons]({{ site.dc_site }}/lessons/), and [Library Carpentry lessons]({{ site.lc_site }}/lessons/) on the websites. 
 
