@@ -92,12 +92,13 @@ Examples
  
 > ## Learning about Accessibility
 >
-> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a set of posters of dos and don'ts for making
-> visual and web-based materials more accessible for different populations. Take a look at one of
-> [these posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) and
-> put one thing you've learned in the Etherpad.
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a
+> set of posters of dos and do nots for making visual and web-based materials more accessible for
+> different populations. Take a look at one of
+> [these posters](https://ukhomeoffice.github.io/accessibility-posters/) and put one thing you
+> have learned in the Etherpad.
 >
-> Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
+> Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)
 > available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
 > Chinese.
 >
@@ -106,10 +107,11 @@ Examples
 
 > ## Accessibility and PDFs
 >
-> The posters above are in PDF format - which itself can sometimes be inaccessible to people
-> who use screen readers. If you know of a similar resource describing accessibility guidelines
-> that would be more accessible than what's linked above, open an issue on our instructor
-> training curriculum respoistory here: https://github.com/carpentries/instructor-training/issues
+> The posters above are available in both HTML and PDF formats. We might have linked directly to
+> the PDF version of the posters, however PDF files can sometimes be inaccessible to people who
+> use screen readers and so we have linked to the HTML version. The UK Home Office
+> [GitHub repository](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_en-UK)
+> also provides the English versions of the posters in DOCX and SVG format.
 {: .callout}
 
 The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
