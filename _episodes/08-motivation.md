@@ -258,12 +258,6 @@ through the many challenges ahead will make your journey as a teacher a more joy
 
 
 
-#### Move these items to References
-##### * then link above and delete
-##### * test
-
-
-
 
 [ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
