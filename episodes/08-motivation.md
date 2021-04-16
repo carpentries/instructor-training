@@ -258,7 +258,8 @@ through the many challenges ahead will make your journey as a teacher a more joy
 
 
 
-#### Move these items to References, then link above and delete
+#### Move these items to References
+##### then link above and delete
 
 (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
@@ -273,70 +274,6 @@ How can we incorporate error framing into our lessons? We need to reduce the neg
 as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)".
 
 
-# Graveyard (delete)
-
-
-## Perseverance Predicts Success
-
-Finally, have you ever thought about how the quality of persistence can
-impact someone's learning?
-
-Angela Duckworth, a Psychology professor from University of Pennsylvania, suggests that something called *grit* is an essential trait in
-learning. Grit can be defined as [perseverance and passion in the face of difficulty towards a defined long term goal](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf).
-Learners with grit are willing to fail in their pursuit if they feel that it gets them closer to their goal. Learning and recovering
-from failure is an essential skill in many fields. Learners with grit have shown to have a higher degree of success later on in
-life. However, grit is not an innate trait; there is much evidence that suggests that grit is a trait that can be learned and instilled in
-learners.
-
-There are many ways we can help our learners attain grit.
-
-- *Modeling resilience by sharing experiences of struggle*. Sharing your own experiences of having difficulty learning certain computing
-concepts may help learners understand that the process of learning can be difficult. Sharing failures that were learning experiences may aid in
-modeling resilience.
-- *Promoting Perseverance*. Part of grit is being able to push through even when things are difficult. Improvement-based praise is an
-important motivating tool to promote perseverance.
-- *Sharing Passion*. Talking about why you persist in working in your field despite the difficulties and challenges is another way to instill
-grit.
-- *Emphasizing Long-Term Goals*. Showing the effects of learning the concepts in terms of learners' individual long-term goals can instill
-passion and drive for learning despite the difficulties of the topic.
-
-> ## How Are You Gritty? (Optional)
-> A [previous exercise]({{ page.root }}{% link _episodes/08-motivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarrassing.
->
-> How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?
-> How do you feel now about your capabilities in this area?
->
-> In the Etherpad, describe how you could use this story to illustrate the importance of grit for your learners.
->
-> This exercise should take about 5 minutes.
-{: .challenge}
-
-## Habits of Lifelong Learners
-
-Adopting beliefs and qualities like those listed above will help people become
-lifelong learners. By helping learners develop the habits of lifelong learning,
-we are not only preparing them to learn beyond the workshop, but hopefully,
-contributing to their overall career success. Surviving the job market nowadays requires the ability
-to be a lifelong learner, in order to learn and adapt to new skills that may
-be required by employers. Many of these positions can be described as *Knowledge Work*, work that requires
-["non-routine" problem solving](http://doi.wiley.com/10.1002/kpm.378). Knowledge workers need to be capable of what Cal
-Newport calls "[deep work](http://calnewport.com/books/deep-work/)": defined as the "ability to focus intensely on cognitively
-demanding tasks".
-
-Lifelong learning arises from those who have the growth mindset. Both grit and
-[curiosity](https://blog.udacity.com/2017/02/grit-yes-curiosity.html) have been identified as
-[success factors in lifelong learning](https://www.enterrasolutions.com/lifelong-learners-embrace-curiosity-grit/).
-Often, the process of learning is a difficult journey. By modeling "gritty" behavior and how it has helped us achieve
-long-term goals, we can foster a "learn-it-all" rather than a "know-it-all" attitude in learners.
-
-Emphasizing the role of [help-seeking behavior in the lifelong learning process](https://en.wikiversity.org/wiki/Learning_theories_in_practice/Help-seeking)
-is important, as it is a critical skill of lifelong learners. Encouraging learners to seek help can be difficult when societal norms view
-seeking help as "stigmatizing, self-threatening behavior".
-Because of this, we need to reframe help-seeking behavior as a
-positive behavior to cope with difficulties. Part of this reframing can be modeled by instructors emphasizing that they are also lifelong learners
-and by admitting the limits of their knowledge. Emphasizing that one's cohort is a powerful source of help is important to establishing a
-positive learning community.
 
 
 
