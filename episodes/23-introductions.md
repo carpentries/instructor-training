@@ -53,7 +53,7 @@ But, chances are that many of the goals you identified in the activity above inv
 you want learners to know, or *learning* things about your audience. This means that everything you have learned about
 teaching and learning applies here, too. Short term memory? Check! Cognitive overload? Check! 
 
-Learning objectives usually omit introductory content -- after all, no one cares what has been learned here once the workshop has
+Learning objectives usually omit introductory content -- after all, these do not typically relate to our long term goals. The content of the introduction may not even be relevant once the workshop has
 finished! But if we did include the Introduction, what would those learning objectives look like?
 
 After the introduction learners should:
@@ -65,7 +65,7 @@ After the introduction learners should:
 
 The instructional team should:
 
-- know of who is taking the workshop and what their expectations are
+- know of who is participating in the workshop and what their expectations are
 - have an initial impression of how learners respond to participation prompts and what will be needed to encourage them to engage
 
 ### Setting the Stage
@@ -134,7 +134,7 @@ additional requests as needed.
 **Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g. 
 "notetaker" vs "roaming helper", be sure to introduce them, too.
 
-**Teach your expectations** for learners, including:
+**Communicate your expectations** for learners, including:
 - how to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
 - ways to ask for help
 - ways to give feedback to the instructional team
@@ -144,7 +144,7 @@ additional requests as needed.
 Sharing and discussing these data with learners can help to combat imposter syndrome and let them know that they are welcome 'as they are'.
 
 **Share some advice for success** -- including your confidence that they can do it! If you have a range of skill backgrounds, this is a good opportunity to offer 
-differentiated advice on how to make the most of the experience, e.g. suggesting that intermediate learners build their skills by helping a neighbor or
+differentiated advice on how to make the most of the experience, e.g. suggesting that intermediate learners build their skills by helping a neighbour or
 considering more advanced questions to be discussed during the breaks.
 
 **Whet learners' appetites for workshop content**. In most cases, your learners chose to attend this workshop, but they may yet be unclear on whether it will 
@@ -167,7 +167,7 @@ be worthwhile. This is a great chance to get them excited about the prospect of 
 
 ## The Art of a Smooth Landing
 Your workshop almost certainly had some highs and lows. If you followed our advice about going slowly, it is also likely that you will be pressed for time
-at the end! For the health and sanity of all involved, it is important that you end your workshop on time. However, even if you have not met your content goals, 
+at the end! Out of respect for all involved, it is important that you end your workshop on time. Even if you have not met your content goals, 
 there are far more valuable ways to spend the last 15-20 minutes of a course than squeezing in one last command or bit of advice.
 
 > ## Brainstorm: Making the Last Moments Count
@@ -182,7 +182,8 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > This exercise will take about 5 minutes.
 > > ## Solution
 > > - Reflect on learning. This can help learners to solidify key concepts they have learned, making them easier to remember. It may also flush out a few last questions.
-> > - Plan next steps. Does your community have resources to support continued learning? Do you have advice for how learners might continue on their own? Even
+> > - Plan next steps. Does the local community have resources to support continued learning? 
+> > Do you have advice for how learners might continue on their own? Even
 > > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
 > > - Collect feedback. Minute cards, one-up-one-down, and making time for Carpentries post-assessment surveys will support your continuing development as an 
 > > Instructor as well as our continuing development of Carpentries programs. This can also support or complement a reflection activity.
