@@ -33,7 +33,7 @@ you are comfortable and ready for.
 
 > ## What is in an Introduction?
 >
-> Get into small groups (3-4 people) and discuss these questions for 10 minutes.
+> Get into small groups (3-4 people) and discuss the questions below.
 > Take notes on your answers in the Etherpad.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
