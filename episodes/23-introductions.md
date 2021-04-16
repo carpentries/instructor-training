@@ -6,12 +6,12 @@ exercises: 30
 questions:
 - "How do you actually start a workshop?"
 objectives:
-- "Create an outline of important topics to cover in an introduction."
-- "Describe three ways to start workshop participants talking to each other."
-- "Receive one piece of feedback on your own introduction"
+- "Connect goals of an introduction with options for content and delivery."
+- "Practice a short introduction."
+- "Identify worthwhile elements of a workshop conclusion."
 keypoints:
-- "A planned introduction is a helpful tool in setting the workshop environment."
-- "Introductions should both include practical information and start building relationships."
+- "A planned introduction is key to creating a functional workshop environment."
+- "Conclusions support reflective practice and set the stage for continued learning."
 ---
 
 When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery, 
@@ -34,7 +34,7 @@ you are comfortable and ready for.
 > ## What is in an Introduction?
 >
 > Get into small groups (3-4 people) and discuss these questions for 10 minutes.
-> Take notes on your answers -- we will combine them later.
+> Take notes on your answers in the Etherpad.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
@@ -44,7 +44,6 @@ you are comfortable and ready for.
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
 > Did you come up with something that is not listed below?
 >
-> Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
 
 ### Learning Objectives For your Introduction
@@ -92,7 +91,7 @@ no assumptions about thermostats in an unfamiliar classroom!)
 
 > ## Introductions for Everyone
 >
-> If you're teaching a typical Carpentries workshop, then you're
+> If you're teaching a typical Carpentries workshop, then you are
 > probably not teaching alone!  Make
 > sure that everyone involved in the workshop - instructors,
 > helpers, organizers - has a chance to introduce themselves at some point.
@@ -161,9 +160,9 @@ be worthwhile. This is a great chance to get them excited about the prospect of 
 > 	1.  Clarify learning objectives and expectations
 > 	1.  Set the tone for the workshop
 > 2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-> 3. After each introduction, provide 2-3 minutes of feedback.
+> 3. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
 >
-> This exercise will take 15-25 minutes depending on whether time is included for feedback or not.
+> This exercise will take about 15 minutes.
 {: .challenge}
 
 ## The Art of a Smooth Landing
@@ -177,7 +176,7 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > minutes in another way. 
 >
 > In the etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing? 
-> If you have time after writing down your idea, read through the others in the etherpad. If you have another idea that hasn't been written down yet, add it 
+> If you have time after writing down your idea, read through the others in the etherpad. If you have another idea that has not been written down yet, add it 
 > to the list.
 >
 > This exercise will take about 5 minutes.
