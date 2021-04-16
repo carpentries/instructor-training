@@ -258,7 +258,7 @@ through the many challenges ahead will make your journey as a teacher a more joy
 
 
 
-# Move these items to References, then link above and delete
+#### Move these items to References, then link above and delete
 
 (She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
 
