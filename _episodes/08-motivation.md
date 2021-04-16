@@ -259,26 +259,12 @@ through the many challenges ahead will make your journey as a teacher a more joy
 
 
 #### Move these items to References
-##### then link above and delete
-
-(She's written a very accessible popularized [summary][worldcat-dweck] of her findings. There's also a [short summary][cardiff-dweck] available.)
-
-*Positive error framing* is the process of presenting errors as an integral part of the learning process and using them as teaching opportunities. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead
-of having negative consequences. For example, the [Language Acquisition Made Practical](http://www.worldcat.org/title/language-acquisition-made-practical-field-methods-for-language-learners/oclc/935845446?referer=di&ht=edition) (LAMP)
-system for learning language encourages learners to develop phrases and try them in a variety of social situations with native speakers. By
-being willing to make mistakes, LAMP learners receive useful feedback from native speakers in real-world social situations. Error framing has
-shown to be useful in learning complex tasks such as programming. In one study, Steele-Johnson showed that error framing showed
-[positive effects on metacognition and self-efficacy](https://www.ncbi.nlm.nih.gov/pubmed/24617273).
-
-How can we incorporate error framing into our lessons? We need to reduce the negative emotions associated with errors, instead casting errors
-as a "[natural part of learning](https://www.researchgate.net/publication/292881989_Enhancing_firm_performance_and_innovativeness_through_error_management_culture)".
+##### * then link above and delete
+##### * test
 
 
 
 
-
-[worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
-[cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
 [ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
 [worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
