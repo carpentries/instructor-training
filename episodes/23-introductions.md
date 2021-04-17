@@ -78,12 +78,12 @@ as you include:
 credibility to kindness. Be comfortable, be intentional, and convey what you want to communicate. (Also, check the weather, and make
 no assumptions about thermostats in an unfamiliar classroom!)
 
-**The physical environment**. Are you in a small classroom or a large, impersonal lecture hall? How are the seats arranged? Physical features may be beyond your control, but they still contribute to your learner's impressions. How can you help?
+**The physical environment**. Are you in a small classroom or a large, impersonal lecture hall? How are the seats arranged? Physical features may be beyond your control, but they still contribute to your learner's impressions. How can you help? (Note: if you are in an online environment, structural features can also impact your workshop experience! What are those features, and how can you modify or moderate their impact?)
 
 **Your use of the few minutes before class.** Is the instructional team present and welcoming, or rushing in frantically to a waiting crowd?
 
 **Your introduction of yourself.** Planning this out can help you be intentional about what to include -- and what not to! A few things you may want to convey include
-* your qualifications
+* your experience or related areas of work
 * how formal/informal you want to be
 * how available you will be to the learners
 * your enthusiasm for the subject
@@ -127,7 +127,7 @@ This information should also be present in your workshop documentation and/or co
 
 **Describe the prerequisites** (if any).
 
-**Share the schedule and logistics.** Post lunch and break times, and stick to them! Bathroom & lactation room locations and any other 
+**Share the schedule and logistics.** Post lunch and break times, and stick to them! Share bathroom & lactation room locations and any other 
 instructions specific to your workshop. Demonstrating a commitment to accessibility at this point will help learners feel more comfortable making 
 additional requests as needed.
 
@@ -181,12 +181,14 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 >
 > This exercise will take about 5 minutes.
 > > ## Solution
+> > - Close and save files. Where can those files be found, and how can learners pick up independently where you left off?
 > > - Reflect on learning. This can help learners to solidify key concepts they have learned, making them easier to remember. It may also flush out a few last questions.
 > > - Plan next steps. Does the local community have resources to support continued learning? 
 > > Do you have advice for how learners might continue on their own? Even
 > > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
 > > - Collect feedback. Minute cards, one-up-one-down, and making time for Carpentries post-assessment surveys will support your continuing development as an 
 > > Instructor as well as our continuing development of Carpentries programs. This can also support or complement a reflection activity.
+> > - Check with the workshop host to see if they have any closing words or instructions they would like to share.
 > > - Celebrate everyone's hard work. Thank your learners for helping each other, for staying motivated and persevering with you! Thank your helpers -- keep a
 > > list of names handy if you might forget them. Enjoy the applause, and give everyone a moment to bask in praise for a job well done.
 > {: .solution}
