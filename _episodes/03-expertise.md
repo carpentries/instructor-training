@@ -253,9 +253,9 @@ They may not care how hash tables work,
 or even that hash tables exist; they just want to know how to process data faster.
 We therefore have to make sure that everything we teach is useful right away,
 and conversely that we do not teach anything just because it is "fundamental".
-- Believing that something will be hard to learn is a self-fulfilling prophecy. Researchers already believe that computing is hard, a belief that is exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they are not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that tries it, and it doesn’t work, they are more likely to become discouraged.
+- Believing that something will be hard to learn is a self-fulfilling prophecy. Some researchers already believe that computing is hard, a belief that would be exacerbated by "experts" telling them that things should be easy when, in the researcher's experience, they are not.  Paradoxically, this is why it’s important not to say that something is easy.  If someone who has been told that a particular task is easy, and then their solution doesn't work, they are more likely to become discouraged.
 
-It is also why installing and configuring software is
+It is also why any difficulties with installing and configuring software is
 a much bigger problem for us than experienced programmers like to acknowledge.
 It is not just the time we lose at the start of workshops
 as we try to get a Unix shell working on Windows,
