@@ -138,14 +138,8 @@ seem trivial to you, as they often will.
 {: .challenge}
 
 Another potential challenge for experts who teach is known in the literature as *expert blind spot*.
-Experts are frequently so familiar with their subject
-that they can no longer imagine what it is like to *not* understand the world that way - this
-inability to consider the material from a non-expert perspective can lead to what is
-known as the *expertise-reversal effect* - experts are often
-less good at teaching a subject to novices than people with less expertise
-who still remember what it is like to have to learn the things.
-This effect can be overcome with training,
-but it is part of the reason world-famous researchers are often poor lecturers.
+Experts are frequently so familiar with their subject that they can no longer imagine what it is like to *not* understand the world that way.
+Sometimes, experts may omit the instructional guidance that is necessary for novices because such additional guidance may not be suited to advanced learners. This relative effectiveness of different learning support is known as the *expertise-reversal effect*. Experts can ensure optimal learning outcomes by receiving training in the level of instructional guidance is appropriate to the target learners.
 
 > ## Expert Awareness Gap
 >  
