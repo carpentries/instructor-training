@@ -1,8 +1,8 @@
 ---
 title: "Preparing to Teach"
 block: "Building Teaching Skill"
-teaching: 20
-exercises: 30
+teaching: 25
+exercises: 25
 questions:
 - "How should I prepare to teach?"
 objectives:
@@ -69,7 +69,7 @@ One example of a learner profile for a Software Carpentry workshop might be:
 
 > ## Learner Profiles
 >
-> Sketch out a profile of someone you might expect to attend your workshop, based on the example above.
+> Sketch out a short profile of someone you might expect to attend your workshop, based on the example above.
 > Who are they,
 > what motivating problems do they face,
 > and how might this training help them?
