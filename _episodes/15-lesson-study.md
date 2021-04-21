@@ -142,7 +142,7 @@ In the course of this exercise, your class will likely have re-invented componen
 countless iterations since its proposal in 1956. Like all models, it is probably wrong in certain ways, but research supports the existence -- 
 and constraints -- of such a heirarchy. 
 
-![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.png)
+![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.svg)
 
 Many courses strive to bring learners to "higher order" thought processes, demanding that they apply, analyze, evaluate, or create using content they
 learn in a course. Everybody wants to be at the top! However, a critical role for this model is to help us **be mindful of skipping steps**. 
