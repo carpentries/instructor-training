@@ -6,23 +6,20 @@ exercises: 30
 questions:
 - "How should I prepare to teach?"
 objectives:
-- "Use a learner profile to think about someone likely to attend a workshop you will teach."
-- "Classify the level of a learning objective in terms of Bloom's taxonomy."
-- "Critically analyze a Carpentries lesson's objectives."
-- "Describe reverse instructional design and explain why this is useful when preparing to teach."
+- "Create a profile for a learner in your workshop."
+- "Critically analyze a learning objective for your workshop."
 - "Identify checkpoints in a lesson for formative assessment."
-- "Recognize instructor notes as a resource for preparation."
 keypoints:
 - "To teach effectively, you have to know *who* you are teaching."
-- "Good learning objectives communicate the intended effect of a lesson on its learners."
-- "A good exercise provides useful guidance to instructors about next steps needed in teaching."
+- "Good learning objectives identify specific events that can be evaluated through formative assessment."
+- "A good exercise informs Learners and Instructors when an objective is achieved."
 ---
-
-At this point in the workshop, we have discussed many cognitive principles and teaching practices that are at
-the heart of the curriculum we design, collaboratively, in The Carpentries
-community. We hope you are feeling excited and optimistic about putting those concepts to work in your teaching practice! However,
-it is also critically important to keep in mind another idea we have emphasized: that teaching is a *skill* - and a complex one at that. 
-Whether you are new to teaching or experienced with certain methods, adding new features takes takes effort and practice! In this episode, 
+# Building Teaching Skill
+At this point in the workshop, we have discussed many cognitive principles and teaching practices that guide collaborative 
+development and maintenance of The Carpentries curricula. We hope you are also feeling excited and optimistic about putting 
+those concepts to work in your teaching practice! 
+One thing we have emphasized is that **teaching is a skill** - and a complex one at that. 
+Whether you are new to teaching or skilled in certain methods, adding new features takes takes effort and practice! In this episode, 
 we will walk through some techniques for preparing to teach a workshop that we hope will help you to develop goals
 and implementation plans that are specific to a workshop. 
 
@@ -49,7 +46,7 @@ profile**. This is a good way to support an empathic and intentional approach to
 
 Learner profiles have three parts:
 - the person's general background,
-- the problem they face,
+- the motivating problem they face,
 - and how the course will help them.
 One example of a learner profile for a Software Carpentry workshop might be:
 
@@ -74,55 +71,54 @@ One example of a learner profile for a Software Carpentry workshop might be:
 >
 > Sketch out a profile of someone you might expect to attend your workshop, based on the example above.
 > Who are they,
-> what problems do they face,
+> what motivating problems do they face,
 > and how might this training help them?
 > Be as specific as possible.  
 > Enter your learner profile into the Etherpad.
 >
-> This exercise should take about 10 minutes.  
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
-More exmples of learner profiles for Software Carpentry are provided [here]({{ site.swc_site }}/audience/). Note that some of these example profiles contain more
-personal details, which can be uncomfortable to read. It is not necessary to include these kinds of details when creating your own learner profiles. However this kind of
-thinking can also support a careful approach to accessibility and inclusion. Whether through learner profiles or more general brainstorming, it is
+Whether through learner profiles or more general brainstorming, it is
 useful to recognize that you will never know everything about the whole people who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped 
-breakfast to save money that morning. Thinking deeply about learners as people can help you prepare to bring your best self and provide an inclusive environment for everyone.
+breakfast to save money that morning. The previous activity did not prompt you to include these examples explicitly, because subjects like these can be 
+delicate and prone to bias. However, you might take a moment to consider what hidden features might also apply to the 
+profile you created, and how this could impact their experience in your classroom. Thinking deeply about learners as people can help you prepare to bring your 
+best self and provide an inclusive environment for everyone.
 
+## Reversing your Preparation Process
 
-## Reviewing your Learning Goals
-
-Now that you have a good sense of who might be in your classroom, you are ready to think through their experience with the content you plan to teach. 
+Now that you have a sense of who might be in your classroom, you are ready to think through **their experience with the content you plan to teach**. 
 This is different from thinking through the content itself. 
 
-In curriculum design, it is common to put content design first, then design assessments, and perhaps create learning objectives if asked to do so. However,
-the actual goal of a course should be learning -- all the great content in the world will be useless if it is not learned. 
+In curriculum design, most people naturally approach development in the order in which they use it. Lessons first, then assessments. Learning objectives
+are often created last, if they are created at all. However, learning objectives play the important role of focusing attention on the **learner experience**.
 
-One way to keep the focus on the learner experience is to take a "reverse" approach to instruction, as
-advanced in Wiggins and McTighe's *[Understanding by Design](http://www.worldcat.org/title/understanding-by-
-design/oclc/56491025)*. The order of course design in this case becomes
+In course design, therefore, we strive to take a ["reverse" approach][Wiggins]. The order of course design in this case becomes
 
-1.  Determine learning objectives
-2.  Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
-3.  Design instruction: Sort assessments in order of increasing complexity, and write content that connects everything together
+1.  Determine learning objectives, deciding what constitutes evidence that each has been met
+2.  Design assessments to generate that evidence, and sort in order of increasing complexity
+3.  Design lesson content to connect assessments
 
 This process is much more likely to lead to an appropriately stepped curriculum that guides learners to specific goals and demonstrates to both instructors
 and learners that those goals have been met. 
 
-In the case of Carpentries workshops, the lesson has already been designed, and pre-written exercises are often available to use for assessment. here, **reverse 
+In the case of Carpentries workshops, the lesson has already been designed, and pre-written exercises are often available to use for assessment. Yet, the 
+the design process has many similarities to preparation, including a common tendency to start with technical content review, 
+work through the exercises, and maybe 
+(or maybe not) think through the learning objectives. Here, **reverse 
 instructional design** principles might be applied as follows: 
 
 1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
 2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 
 3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
-
 ## Working With Learning Objectives
-All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice the 
-objectives in the lesson you chose to study for 
-today? In the next exercise, we are going to take a moment to understand those objectives, because in the best 
-cases they are quite specific about exactly what a learner is expected to be able to do by the end of the workshop.
+All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice these
+in your lesson? In the best 
+cases they are quite specific about what a learner should be able to do by the end of each episode.
 This can be helpful in both designing additional formative assessments and in evaluating potential additions or digressions for 
 appropriateness.
 
@@ -142,15 +138,17 @@ only be achieved after some 'groundwork' has been laid.
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-Chances are, your class has re-invented many components of Bloom's Taxonomy. While Bloom's is not an empirically derived framework, research supports the 
-existence -- and constraints -- of such a heirarchy. 
+In the course of this exercise, your class will likely have re-invented components of Bloom's Taxonomy. This venerable framework has been through
+countless iterations since its proposal in 1956. Like all models, it is probably wrong in certain ways, but research supports the existence -- 
+and constraints -- of such a heirarchy. 
 
 ![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.png)
 
-What is useful about this model is that it helps us to be mindful of skipping steps in our ambition to achieve the highest levels of learning. Many courses
-strive -- and brag about -- bringing learners to "higher order" thought processes, asking learners to apply, analyze, evaluate, or create using content they
-learn in a course. When these efforts fail, it is often because instructors have neglected to attend to the 'low-level' (foundational!) task of helping learners to remember and
-understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower levels. Be mindful to provide support where prior learning may be required.
+Many courses strive to bring learners to "higher order" thought processes, demanding that they apply, analyze, evaluate, or create using content they
+learn in a course. Everybody wants to be at the top! However, a critical role for this model is to help us **be mindful of skipping steps**. 
+When higher order assessments fail, it is usually because instructors have neglected to attend to the "low-level" (foundational!) objectives that
+help learners to remember and understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower 
+levels. If you do encounter a higher level goal, be sure to provide support where prior learning may be required.
 
 Do your answers to the previous activity fit into Bloom's Taxonomy? Does it add to or change the way you think about your responses?
 
@@ -158,7 +156,7 @@ Do your answers to the previous activity fit into Bloom's Taxonomy? Does it add 
 
 When a learning objective has been met, everyone should know about it! You, as an Instructor, can be satisfied that your teaching has successfully translated
 into learning. For learners, recognizing that they have successfully learned something is motivating and it also supports their ability to monitor their own 
-progress -- this awareness, or *metacognition*, is especially key to supporting continued learning beyond the classroom. However, not all lessons have 
+progress -- this awareness, or **metacognition**, is especially key to supporting continued learning beyond the classroom. However, not all lessons have 
 checkpoints built in where such progress is made clear.
 
 > ## Where are your checkpoints?
@@ -171,7 +169,7 @@ checkpoints built in where such progress is made clear.
 > b) make learners aware of their accomplishment?
 > Keep in mind that formative assessment can take many forms, including multiple
 > choice questions, faded examples, spontaneous questions and calls for sticky
-> notes. Write some notes or thoughts about this process in the Etherpad for
+> notes, provided that *all learners are evaluated*. Write some notes or thoughts about this process in the Etherpad for
 > discussion.
 >
 > This exercise and discussion should take about 10 minutes.
@@ -181,7 +179,7 @@ checkpoints built in where such progress is made clear.
 > ## "Do You Understand?" is a Bad Question
 >
 > Learners are often reluctant to admit when they do not understand. Furthermore, self-assessments of skill in the absence of formative assessment are often inaccurate
-> because of the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect):
+> because of the [Dunning-Kruger effect][Dunning]:
 > the less people know about a subject,
 > the less accurate their estimate of their knowledge is. Therefore, if you ask a room full of people
 > "Do you understand?" the result will invariably be a number of 'yes' responses (many of them inaccurate) which tend to drown out a
@@ -190,7 +188,6 @@ checkpoints built in where such progress is made clear.
 > met the instructor's goal.
 {: .callout}
 
-
 > ## Instructor Notes
 > Many of The Carpentries lessons have
 > instructor's notes, with information
@@ -198,16 +195,13 @@ checkpoints built in where such progress is made clear.
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here](https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions) along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
+> technical hurdles common across multiple lessons are detailed [here][Config] along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
 {: .callout}
 
 
-> ## Feedback On Your Challenges (Optional)
->
-> With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
-> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to
-> make at least one modification to your exercise(s). Discuss in the Etherpad the change you made and how it will
-> help you get more useful information about your learners.
->
-> This exercise and discussion should take about 15 minutes.
-{: .challenge}
+
+[Wiggins]: http://www.worldcat.org/title/understanding-by-design/oclc/56491025
+[Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+[Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
+
+
