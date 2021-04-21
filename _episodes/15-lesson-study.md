@@ -18,14 +18,24 @@ keypoints:
 - "A good exercise provides useful guidance to instructors about next steps needed in teaching."
 ---
 
-Yesterday we learned many cognitive principles and teaching practices that are at the heart of the curriculum we design, collaboratively, in The Carpentries
-community. Ultimately, however, this curriculum is in *your* hands. If you have signed up to teach Carpentries workshops, we know that you care about the
-content you are teaching, and we suspect you probably have a pretty good idea of how to prepare your technical knowledge. We also expect that, compared with your 
-technical accomplishments, your skill level may be less advanced when it comes to implementing the principles and practices we discussed yesterday in a real classroom. 
-Even if you have years of experience in the classroom, new instructional practices can take you into uncharted territory! 
+At this point in the workshop, we have discussed many cognitive principles and teaching practices that are at
+the heart of the curriculum we design, collaboratively, in The Carpentries
+community. We hope you are feeling excited and optimistic about putting those concepts to work in your teaching practice! However,
+it is also critically important to keep in mind another idea we have emphasized: that teaching is a *skill* - and a complex one at that. 
+Whether you are new to teaching or experienced with certain methods, adding new features takes takes effort and practice! In this episode, 
+we will walk through some techniques for preparing to teach a workshop that we hope will help you to develop goals
+and implementation plans that are specific to a workshop. 
 
-When you prepare to teach a workshop, it is useful to take a moment *before* deeply reviewing your technical content to think through the learner experience, how
-your teaching will translate into their learning, and how both of you will know when that happens.
+As with other sections of this training, we will not be discussing technical preparation. Carefully reviewing the content of your workshop is important, and it
+can be useful to anticipate learner questions and update your knowledge accordingly. However, it is common for new Instructors to
+over-prepare on technical content -- which can be endless! -- and under-prepare the learner-centered elements of their teaching practice. If you encounter
+technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive feedback. On the other hand, neglecting
+to attend to your audience can have a significant negative impact on your workshop.
+
+When you prepare to teach a workshop, 
+we suggest setting aside time *before* deeply reviewing your technical content to think through the learner experience, how
+your teaching will translate into their learning, and how both of you will know when that happens. In this episode, we will provide
+some structure for that preparation.
 
 ### Anticipating Your Audience
 
