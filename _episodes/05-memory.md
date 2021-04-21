@@ -123,109 +123,22 @@ assessments.
 In the same vein as "going slowly," it is important to limit the number of
 concepts introduced in a lesson; no matter how many exercises or formative
 assessments you do, you cannot overcome the limit of items that can be
-shored in short-term memory.
+shored in short-term memory. Planning your lesson with a concept map can help you 
+not only identify key concepts and relationships, but also to notice when you are trying to 
+teach too many things between assessments. 
 
-## Concept Maps as Instructional Planning Tools
 
-One tool that can be used to identify the number of concepts being
-introduced in a lesson is the *concept map*.
-A concept map is a picture of someone's mental model of a domain:
-facts are bubbles,
-and connections are labelled arcs.
-It is important that they are labelled:
-saying "X and Y are related" is only helpful if we explain what the relationship *is*.
-
-To show what concept maps look like,
-consider this example of a `for` loop in Python:
-
-~~~
-for ch in "abc":
-    print(2*ch)
-~~~
-{: .source}
-
-The three key concepts used in this loop are:
-
-![Three rectangles labelled "loop variable", "collection", and "loop body".](../fig/for-loop-concepts.png)
-
-The key relationships,
-which are as important as the concepts themselves,
-are:
-
-!["Loop variable" is connected to "collection" with an arrow labelled "takes each value in order" and to "loop body" with an arrow labelled "changes each time". "Loop body" is connected to "collection" by an arrow reading "runs for each".](../fig/for-loop-arcs.png)
-
-A quick count shows that there are actually 6 things here,
-not just 3,
-so we are already brushing up against the limits of short-term memory.
-If we add two more facts to show things that are usually (but not always) true:
-
-![Two arrows are added to the previous figure, showing that the loop variable and collection are usually not changed by the loop body.](../fig/for-loop-rec.png)
-
-the count rises to 8,
-which is a good size for a single teaching episode.
-A few other concept maps drawn by previous participants in this training course
-are listed below:
-
-* [Array Math](../fig/array-math.png)
-* [Conditionals](../fig/conditionals.png)
-* [Creating and Destroying Files](../fig/create-destroy.png)
-* [Sets and Dictionaries in Python](../fig/dict-set.png)
-* [Input and Output](../fig/io.png)
-* [Lists and Loops](../fig/lists-loops.png)
-* [Git Version Control](../fig/git_concept_map.png)
-* [Library Carpentry Foundations](../fig/lc-foundations.png)
-
-Most of these are much larger than our recommended limit,
-but that is not necessarily a bad thing. An instructor can
-draw a concept map for an entire topic,
-and use that to decide where to introduce a formative assessment to avoid overloading
-short-term memory.
-
-It is very important to use a technique like concept mapping for a lesson
-before teaching it - an instructor needs to identify just how many pieces of
-separate information will need to be "stored" in memory during each part of the lesson. This
-can be particularly useful for experts who are trying to unpack their own
-knowledge.
-
-> ## Concept Mapping
->
-> Create a hand-drawn concept map for a part of a Carpentries lesson you would teach in
-> five minutes (i.e.
-> the amount of material you would teach before doing a formative assessment).
-> You can use the same subject about which you created a multiple choice question, or
-> a different subject.
-> Trade with a partner, and critique each other's maps. Are there any concepts
-> missing in your partner's map that you would include? Are there more than a handful
-> of concepts in your map? If so, how would you re-divide those concepts to avoid
-> overwhelming your learners' short-term memory?
->
-> Note for online trainings: please use a bold marker and write large so that your concept map 
-> can be shared on Zoom if you are prompted to do so.
->
-> Take 10 minutes to draw the concept maps and share with your neighbor.
-> Write "*done*" in the Etherpad chat once you have finished.
-{: .challenge}
-
-> ## Other Uses of Concept Maps
+> ## Concept Maps in the Classroom
 > In addition to helping you plan where to introduce formative assessments, concept maps can
 > be used in many other ways:
 >
-> 1.  To aid solo design of a lesson by helping authors figure
-> out what they are trying to teach.
+> 1.  To aid solo design of a lesson.
 > 2.  To aid communication with fellow lesson designers.
-> 3.  To aid communication with learners.
->     While it is possible to give learners a pre-drawn map at the start of a lesson for them
-> to annotate, it is better to draw it piece by piece while teaching
-> to reinforce the ties between what is in the map and what the instructor said.
-> 4. Concept maps can be used as a classroom discussion exercise.
-> 	Put learners in small groups (2-4 people each),
->	give each group some sticky notes on which a few key concepts are written,
->	and have them build a concept map on a whiteboard by placing those sticky notes,
->	connecting them with labelled arcs,
->	and adding any other concepts they think they need.
-> 5.  Concept maps are also a useful formative assessment technique:
->    having learners draw concept maps of what they think they just
-> heard shows the instructor what was missed and what was misunderstood.
+> 3.  To aid communication with learners. 
+> - When using a concept map as a communication aid, it is best to build the map piece by piece rather than providing it all at once.
+> 4.  As a classroom discussion exercise.
+> 5.  As a formative assessment technique.
+> - When asking learners to create a concept map, it is important to limit concepts and focus narrowly on target learning. Mind the (expert awareness) gap!
 {: .callout}
 
 ## Why Guided Practice is Important
@@ -430,4 +343,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
-[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types.html
+[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types/
