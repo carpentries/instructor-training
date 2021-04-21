@@ -1,15 +1,18 @@
 ---
-title: "Managing a Diverse Classroom"
+title: "Working With Your Team"
 block: "Building Teaching Skill"
-teaching: 10
-exercises: 20
+teaching: 30
+exercises: 40
 questions:
 - "How can I prepare for effective co-teaching?"
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What do I do if there is a Code of Conduct violation?"
+- "What is involved in setting up for a workshop?
 objectives:
-- "Evaluate different strategies for managing a class in which learners have diverse backgrounds and skill levels."
-- "Know what to do if someone at your workshop violates the Code of Conduct."
+- "Identify several potential challenges of teaching learners with very different backgrounds and skill levels."
+- "Evaluate different strategies for managing heterogeneity challenges."
+- "Locate resources to direct your response if someone at your workshop violates the Code of Conduct."
+- "Use workshop website template instructions to create a website."
 keypoints:
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
 - "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
@@ -229,9 +232,62 @@ understand how loops work, or how disappointed you are that you just
 could not get software to install on that one learner's laptop, than
 the person you just taught with.
 
+### Setting Up
+
+In order to communicate with learners,
+and to help us keep track of who has taught what and where,
+instructors create a website with information about their workshop.
+
+To ensure unique names for each event,
+we use the `year-month-day-venue` format for the identifier, the slug.
+For instance, for a workshop that starts on Febuary 22nd, 2022
+at the University of Data Skills,
+the slug would be `2022-02-22-data-skills`. If your workshop will be held online, you will add that to the slug as well, making it `2022-02-22-data-skills-online`.
+If you are teaching a centrally-organized workshop,
+please wait for the email from your regional coordinator
+that will tell you the slug to use for your workshop.
+
+Once your workshop website has been created,
+the host or lead instructor sends its URL to
+the [workshop coordinator](mailto:team@carpentries.org),
+who adds it to our records.
+The workshop will show up on our websites shortly thereafter.
+
+You may also create an Etherpad for your workshop
+(or other Carpentries-related event).
+When you point a browser to a url at
+`https://pad.carpentries.org/workshop-slug`
+(e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
+for the example above)
+you will either arrive at an existing Etherpad by that name or a brand new
+etherpad with basic Carpentries information at the top.
+
+> ## Practice With The Carpentries Infrastructure
+> 
+> For this activity, your Trainer will put you in groups, but you may choose whether to work together or independently. 
+> If you work independently, you can still use your group as a resource to ask questions as they emerge. 
+>
+> Go to the [workshop template repository]({{ site.workshop_repo }}). 
+> 
+> * If you have a GitHub account (or don't mind quickly creating one) and are comfortable doing so, 
+> follow the directions to create a workshop website using your local location and today's date.
+> 
+> * Alternatively, have a look at the video tutorial linked on the instructions page. With any time
+> remaining, have a look at the websites for [upcoming Carpentries workshops][https://carpentries.org/upcoming_workshops/] on our website.
+> 
+> * Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
+> add the link there as well.
+>
+> This exercise should take about 25 minutes. 
+>
+> Note: Sometimes web browsers will cache the workshop webpage, so when
+> you make changes in GitHub, they do not show up on the workshop webpage
+> immediately.  Two ways to avoid this are to use a "private" or
+> "incognito" mode in your web browser or by following these
+> [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+{: .challenge}
 
 
-At the end of the morning, do the following:
 
 > ## Minute Cards Revisited
 >
