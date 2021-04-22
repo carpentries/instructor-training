@@ -9,8 +9,7 @@ questions:
 - "What do I do if there is a Code of Conduct violation?"
 - "What is involved in setting up for a workshop?
 objectives:
-- "Identify several potential challenges of teaching learners with very different backgrounds and skill levels."
-- "Evaluate different strategies for managing heterogeneity challenges."
+- "Identify potential challenges of teaching learners with very different backgrounds and skill levels."
 - "Locate resources to direct your response if someone at your workshop violates the Code of Conduct."
 - "Use workshop website template instructions to create a website."
 keypoints:
@@ -18,102 +17,101 @@ keypoints:
 - "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
 ---
 
-We now have several tools that can be used for teaching Carpentries workshops
-and improving our skills: live coding; observation and feedback; and how to
-prepare to teach a lesson. This last section includes tips and recommendations for interacting with real
-people in real-life settings -- which for the Carpentries, often means an
-audience with diverse backgrounds and experiences.
+# Never Teach Alone
+One of the greatest strengths of Carpentries workshops compared with many other instructional settings is that workshops are prepared and executed
+by more than one person. We ask that at least two Instructors teach in every workshop, and some workshops may have many more! During the workshop,
+you should also have a crew of Helpers to answer questions individually, elevate common problems for general discussion, and make sure the pacing 
+works for everyone.
 
-## Managing a Diverse Classroom
+The people who are planning and executing your workshop with you can really lighten the load! They are also there to
+help if you find yourself in a sticky situation. However, from logistics planning to delicate problem solving, a little planning goes a long
+way, and all co-Instructors should be in agreement about how they will support each other in engaging challenges. 
+In this episode, we will discuss examples, strategies, and resources for handling challenges you may face in the classroom. We will
+also take some time to discuss planning logistics, and (time permitting) everyone will have an opportunity to try out
+our instructions for setting up a workshop website.
+
+## Sticky Situations 1: Teaching to Diverse Skill Levels
 
 Although our workshops are targeted at novices, every workshop
 will have participants from a variety of backgrounds and technical
 skill levels. Some may be at the novice level in one technology (e.g. git),
 but competent or even expert in another (e.g. R). As an instructor,
 you will need to be attentive to this diversity in your learners' prior skill level,
-and adjust your instruction appropriately. This is one of the most difficult things
-instructors experience when running a workshop.
+and adjust your instruction appropriately. This can seem like an impossible challenge!
+But with a solid team approach you will be surprised how many people can come
+away feeling satisfied that their time was well spent.
 
 > ## What Are the Challenges?
-> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Discuss with
-> a partner and put your thoughts in the Etherpad.
+> What are some of the challenges you might expect when teaching learners with a broad range of expertise? Add your thoughts in the Etherpad.
 >
-> This discussion should take about 10 minutes.
+> This discussion should take about 5 minutes.
 {: .challenge}
 
 Here are some strategies Carpentries
 instructors have generated to deal with this issue:
 
-*   Before running a workshop,
-    communicate its level clearly to everyone who is thinking of signing up
-    by describing not only the topics that will be covered (e.g. plotting in R), but
-    also the concrete skills that learners will have after the workshop (i.e. the learning objectives).
-    If you are upfront with participants that you will be spending time learning how `for` loops work, more
-    advanced learners are less likely to sign up.
-*   When asking learners to complete exercises, give "beginner" and "advanced" options.
-    Learners who finish the "beginner" exercise can then challenge themselves and do not get bored.
-*   Ask more advanced learners to help people next to them.
-    They will learn from answering their peers' questions
-    (since it will force them to think about things in new ways).
-*   Take care not to let enthusiastic advanced learners carry the conversation, as this tends to alienate novices
-    and consumes valuable class time. Advanced questions and discussion can be politely reserved for breaks or dealt
-    with by helpers or the co-instructor in the Etherpad.
-*   The helpers and the instructor who is not teaching the particular episode
-    should keep an eye out for learners who are falling behind
+*   When planning a workshop, be sure that all advertisements
+    communicate its level clearly
+    by describing not only the topics (e.g. plotting in R), but
+    also the specific skills and tasks (i.e. the learning objectives).
+    If advanced learners do sign up anyway (and they may!), this will be an informed choice.
+*   When preparing your exercises, consider creating "beginner" and "advanced" options.
+    Learners who finish the "beginner" exercise can then challenge themselves with a next step.
+*   During class, encourage learners to help people next to them when they feel comfortable doing so.
+    Teaching is a great way to level up learning (one of many reasons why Carpentries Instructors choose to teach!).
+    Note that you may need an icebreaker before your learners will take this advice.
+*   Do not let advanced learners carry the conversation in class, no matter how interesting it may be. This can alienate novices
+    and consumes valuable class time. Advanced questions and comments can be politely reserved for breaks, addressed
+    individually by helpers or the co-Instructor, or typed in the Etherpad for present or future follow-up.
+*   The helpers and the Instructor who is not teaching the particular episode
+    should be vigilant for learners who are falling behind
     and intervene early
-    so that they do not become frustrated and give up.
+    so that they do not become frustrated and give up. Frequent reminders
+    to put up sticky notes for "ok" or "I'm stuck" will support your 
+    team in targeting problems in time.
 
-The most important thing is to accept that
-no class can possibly meet everyone's individual needs.
-If the instructor slows down to accommodate two people who are struggling,
-the other 38 are not being well served.
-Equally,
-if she spends a few minutes talking about an advanced topic because two learners are bored,
-the 38 who do not understand it will feel left out.
-All we can do is tell our learners what we are doing and why,
-and hope that they will understand.
+No class can possibly meet all individual training needs.
+However, it is entirely possible for total beginners and advanced learners
+to come away happy from the same workshop. Beginners may not yet feel competent,
+but they may build a mental model of the domain and develop confidence that they *can*
+learn these skills because they have successfully been walked through them. Advanced
+learners may enjoy picking up "tips and tricks" or having their own self-taught approach
+validated. They may also enjoy connecting with your workshop community, and might 
+consider becoming Carpentries Instructors themselves! 
+
+Dealing effectively with different skill levels does take some planning. However, with
+appropriate advertising and team cohesion on priorities and strategies, your workshop
+can be a worthwhile experience for everyone.
 
 
-> ## Learners Use Their Own Machines
-> Learners tell us that it is important to them to leave the workshop
-> with their own machine set up to do real work.  We therefore continue
-> to teach on all three major platforms (Linux, Mac OS X, and Windows),
-> even though it would be simpler to require learners to use just one.
->
-> We have experimented with virtual machines (VMs) on learners'
-> computers to reduce installation problems, but those introduce
-> problems of their own: older or smaller machines simply are not fast
-> enough, and learners often struggle to switch back and forth between
-> two different sets of keyboard shortcuts for things like copying and
-> pasting.
->
-> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh]
-> (SSH) or web browser pages instead. This solves the installation
-> issues, but makes us dependent on host institutions' WiFi (which can be
-> of highly variable quality), and has the issues mentioned above with things
-> like keyboard shortcuts.
-{: .callout}
-
-## Code of Conduct Violations
+## Sticky Situations 2: Code of Conduct Violations
 
 As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/08-motivation.md %}),
 the Carpentries uses a Code of Conduct as a tool to create a respectful and
-inclusive learning environment. Occasionally, part of managing the classroom
-may include dealing with a Code of Conduct violation.
+inclusive learning environment. This works well! But Codes of Conduct do not hold up if they
+are not enforced. Rarely, your instructional team
+may encounter a Code of Conduct violation. In this section, we will discuss resources available to
+help you prepare and respond appropriately in the event that a violation occurs.
 
-If you are an instructor, and believe that someone in a workshop has violated the Code of Conduct, you may warn them and/or ask them to leave the workshop, depending on the severity of the incident and your comfort level.
+All Carpentries community members should feel empowered to enforce the Code of Conduct (CoC). However, you may not
+feel comfortable taking action alone, and you may wish to be informed when a team-member takes action in your workshop. 
+For these reasons and more we encourage you to **discuss Code of Conduct enforcement with your instructional team in advance**. 
 
-If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
+> ## Know Your Resources
+> 1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: https://docs.carpentries.org/topic_folders/policies/incident-response.html
+> 2) Discuss what you have read in small groups. What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
+> What questions do you have about CoC enforcement? Write some notes in the etherpad. 
+>
+> This discussion should take about 15 minutes.
+{: .challenge}
 
-If you believe someone violated the Code of Conduct during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform)
-or e-mailing C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org) as soon as you can to let us know what happened so that we can follow-up with the workshop host and/or participants as needed. The form may be completed anonymously, or you may include your contact information.
+Fortunately, Code of Conduct violations have been extremely rare in our community. Emphasizing our values up front really
+does make a difference. However, we recognize that the time set aside to discuss this topic is not adequate to thoroughly prepare
+everyone to face such a situation. Because this challenge is not unique to Instructors, The Carpentries is currently working
+to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
+our communications channels to learn about additional opportunities for training in this area.
 
-The local workshop host is expected to help enforce the Code of Conduct and you can ask them to mediate an incident if you are uncomfortable or unable to do so yourself. If you choose to settle the issue yourself, you should notify the workshop host
-of the issue in case s/he feels additional steps should be taken.
-
-You also have the right as an instructor to walk out of a workshop if you feel that the participants or hosts are not supporting your attempts to enforce the Code of Conduct. Again, please contact us as soon as possible if this happens.
-
-## Never Teach Alone: How to Be a Co-instructor
+## In The Classroom: Nuts and Bolts of a Carpentries Workshop
 
 The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you.
 *Co-teaching* describes any situation in which two teachers work
@@ -232,7 +230,9 @@ understand how loops work, or how disappointed you are that you just
 could not get software to install on that one learner's laptop, than
 the person you just taught with.
 
-### Setting Up
+## In Advance: Preparing Together
+
+### Setting up a Workshop Website
 
 In order to communicate with learners,
 and to help us keep track of who has taught what and where,
