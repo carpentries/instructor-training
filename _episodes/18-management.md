@@ -112,11 +112,10 @@ to address this unmet training need more broadly across our community through de
 our communications channels to learn about additional opportunities for training in this area.
 
 ## In The Classroom: Nuts and Bolts of a Carpentries Workshop
+### Co-Teaching Models
 
-The best thing about managing a classroom for a Carpentries workshop is that you never face problems alone! Your co-instructor, helpers, and host are all there for you.
 *Co-teaching* describes any situation in which two teachers work
-together in the same classroom.  Friend and Cook's
-*[Interactions][worldcat-interactions]* describes several ways to do
+together in the same classroom. There are [many ways][worldcat-interactions] to do
 this; we use the following methods most frequently:
 
 - **Team teaching:** Both teachers deliver a single stream of content
@@ -125,42 +124,31 @@ this; we use the following methods most frequently:
 - **Teach and assist:** Teacher A teaches while Teacher B moves around
   the classroom to help learners.
 
-Both of these models are better than teaching alone because they create
-opportunities for lateral knowledge transfer.
-Team teaching is particularly beneficial in day-long
-workshops: not only does it give each teacher's voice a chance to
-rest, it reduces the risk that they will be so tired by the end of the
-day that they will start snapping at their learners or fumbling at
-their keyboard.  Having a co-instructor also means that you can teach
-a workshop without knowing all the topics that are being taught, and
-if multiple instructors are both knowledgeable on the same topics,
-they can help each other answer questions.
+"Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
+"Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
+Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
+considering for self-organised workshops in a co-Instructor has not yet been certified.
 
-Putting some thought into how you and your co-instructor will work together can make the most out of this supporting relationship and can make the difference between a good workshop and a great one -- for you and for your learners.
+### Helpers
 
-> ## How to Help
->
-> Many people are willing and
-> able to provide in-class support.  We call these people "helpers."
->
-> Helpers can assist in a variety
-> of ways: help learners
-> with setup and installation, answer questions during
-> exercises, monitor the room to spot people who may need help, or
-> keep an eye on the shared notes and either answer questions there or
-> remind the instructor to do so during breaks.
-> The [helper checklist][helpers] describes what helpers can do to
-> help instructors in more detail.
->
-> Helpers are sometimes people training to become teachers (i.e.,
-> they are Teacher B in the teach and assist model), but they can also
-> be advanced learners who already know the material well, previous
-> workshop participants, or members of the host institution's technical
-> support staff.
-> Using advanced learners as helpers is doubly effective: not only are they
-> more likely to understand the problems their peers are having, it
-> also stops them from getting bored.
-{: .callout}
+[Helpers][helpers] are usually recruited from a local community by the [Host][host-checklist] of a workshop. Helpers may be
+involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to 
+attend for the full workshop, but in some communities they may come and go during different segments.
+
+Helpers can assist in a variety of ways. They may:
+- help learners with setup and installation
+- answer questions during exercises
+- monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
+- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
+
+In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
+practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
+However, you will also want to make sure they are informed about key logistics and classroom practices, e.g. sticky notes,
+snack maintenance, and other critically important procedures.
+
+
+### Classroom Practices
+
 
 > ## Teaching Together - Nuts and Bolts
 >
@@ -296,6 +284,7 @@ etherpad with basic Carpentries information at the top.
 {: .challenge}
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
+[host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
 [vps]: https://en.wikipedia.org/wiki/Virtual_private_server
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
