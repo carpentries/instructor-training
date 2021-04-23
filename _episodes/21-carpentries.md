@@ -2,7 +2,7 @@
 title: "The Carpentries: How We Operate"
 block: "The Carpentries"
 teaching: 30
-exercises: 45
+exercises: 25
 questions:
 - "How is The Carpentries organized and run?"
 - "What is the difference between SWC, DC, and LC workshops?"
@@ -235,8 +235,9 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 >5. Code of Conduct Committee
 >6. Instructor Development Committee
 >7. Community Facilitators
->8. Maintainers
-> This exercise should take about 10 minutes.
+>8. Maintainers  
+>
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 ### Keeping In Touch
@@ -259,6 +260,8 @@ Want to **join meetings** (to meet new people or listen in)?
 >
 > Take a couple of minutes to sign up for The Carpentries [channels][connect-page] you want to stay involved with.
 > When you're done share what channel you're most excited about on the etherpad.
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 [F1000]: https://f1000research.com/articles/3-62/v2
