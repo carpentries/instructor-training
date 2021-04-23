@@ -1,7 +1,7 @@
 ---
 title: "Checkout Process"
-teaching: 5
-exercises: 10
+teaching: 15
+exercises: 15
 questions:
 - "What do I need to do to finish certifying as a Carpentries Instructor?"
 objectives:
@@ -38,7 +38,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 > - What questions or points of confusion do you have, or think others might have? 
 > When you are done, report back to the full group about that stage of the process.
 >
-> This exercise should take about 5 minutes.
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 ## 1. Lesson Contributions
