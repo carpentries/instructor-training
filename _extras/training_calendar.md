@@ -101,7 +101,8 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 
 #### Western European time
 * February 25-26, 2021 *Registration Closed*
-* [April 29-30, 2021](https://www.eventbrite.com/e/online-instructor-training-april-29-30-2021-british-summer-time-tickets-143820586245) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210429T09&p1=136&ah=8)*
+* April 29-30, 2021 *Registration Closed* 
+* *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210429T09&p1=136&ah=8)*
 
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*
