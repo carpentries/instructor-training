@@ -48,9 +48,12 @@ Learner profiles have three parts:
 - the person's general background,
 - the motivating problem they face,
 - and how the course will help them.
-One example of a learner profile for a Software Carpentry workshop might be:
 
-> João is an agricultural engineer doing his masters in soil physics.
+
+
+> ## Learner Profiles
+> Examine this example profile of a Software Carpentry learner:
+> *João is an agricultural engineer doing his masters in soil physics.
 > His programming experience is a first year programming course using C.
 > He was never able to use this low-level programming in his activities,
 > and never programmed after the first year.
@@ -64,12 +67,9 @@ One example of a learner profile for a Software Carpentry workshop might be:
 > Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file,
 > and how to use R to read these files and calculate the required statistics.
 > It will also show him how to put his programs and files under version control
-> so that he can re-run analyses and figure out which results may have been affected by changes.
-{: .quotation}
+> so that he can re-run analyses and figure out which results may have been affected by changes.*
 
-> ## Learner Profiles
->
-> Sketch out a short profile of someone you might expect to attend your workshop, based on the example above.
+> Sketch out a short profile of someone you might expect to attend your workshop.
 > Who are they,
 > what motivating problems do they face,
 > and how might this training help them?
