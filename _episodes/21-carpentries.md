@@ -1,7 +1,7 @@
 ---
 title: "The Carpentries: How We Operate"
 block: "The Carpentries"
-teaching: 30
+teaching: 20
 exercises: 25
 questions:
 - "How is The Carpentries organized and run?"
