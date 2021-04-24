@@ -32,6 +32,81 @@ In this episode, we will discuss examples, strategies, and resources for handlin
 also take some time to discuss planning logistics, and (time permitting) everyone will have an opportunity to try out
 our instructions for setting up a workshop website.
 
+## The Instructional Team
+A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
+- A **Host** who organizes the workshop logistics
+- Two or more **Instructors** who plan and execute workshop instruction
+- **Helpers** who provide learner support during the workshop  
+
+## Hosting
+We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is 
+a significant role in any workshop. A suggested checklist for this role is in [The Carpentries Handbook][host-checklist].
+
+When Instructors self-organise a workshop, they sometimes find themselves playing the role of Host as well as Instructor.
+We recommend avoiding this if possible, because hosting responsibilities will subtract from the time you have
+to prepare and teach. 
+
+If you cannot find someone else to bear full responsibility for the Host role, consider recruiting help for specific tasks. This may include 
+involving helpers in advance of the workshop, or exploring institutional support for event logistics like registration, snack delivery, 
+helper coordination, and emergency contact.
+
+### Helpers
+
+[Helpers][helpers] are usually recruited from a local community by the Host of a workshop. Helpers may be
+involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to 
+attend for the full workshop, but in some communities they may come and go during different segments.
+
+Helpers can assist in a variety of ways. They may:
+- help learners with setup and installation
+- answer questions during exercises
+- monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
+- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
+
+In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
+practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
+However, you will also want to make sure they are informed about key logistics and classroom practices.
+
+
+### Classroom Practices
+Carpentries Instructors have many choices about how to teach. However, there are a few teaching practices that 
+are expected in all Carpentries workshops. These include:
+
+#### Participatory Instruction
+  Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively 
+  working along with you wherever possible. 
+  
+#### Sticky Notes
+ At in-person workshops, two different colors of paper sticky notes are given to learners. These act as 'flags' that may be placed 
+ on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.  
+ **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "Please put up a blue sticky note if
+ you completed the last step, and a yellow sticky note if you need help.").  
+ In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
+ 
+#### Breaks (ideally with snacks)
+ Two-day workshops often fit best in busy schedules, allowing an intensive burst of dedicated time and energy. However, "intensive" is 
+ a key word -- two day workshops are intense! In addition to minding your pacing, it is important to schedule breaks, and to take them 
+ on time. In addition to allowing vital rest and social time, this will also allow learners to attend to work and personal matters at predictable times.  
+ At in-person workshops, coffee and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
+ small fee for your workshop to cover the cost.
+
+### Co-Teaching Models
+
+*Co-teaching* describes any situation in which two teachers work
+together in the same classroom. There are [many ways][worldcat-interactions] to do
+this; we use the following methods most frequently:
+
+- **Team teaching:** Both teachers deliver a single stream of content
+  in tandem, taking turns the way that musicians taking solos would.
+
+- **Teach and assist:** Teacher A teaches while Teacher B moves around
+  the classroom to help learners.
+
+"Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
+"Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
+Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
+considering for self-organised workshops in a co-Instructor has not yet been certified.
+
+
 ## Sticky Situations 1: Teaching to Diverse Skill Levels
 
 Carpentries workshops target novices, but you should still expect
@@ -112,85 +187,6 @@ everyone to face such a situation. Because this challenge is not unique to Instr
 to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
-## The Instructional Team
-A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
-- A **Host** who organizes the workshop logistics
-- Two or more **Instructors** who plan and execute workshop instruction
-- **Helpers** who provide learner support during the workshop  
-
-## Hosting
-We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is 
-a significant role in any workshop. A suggested checklist for this role is in [The Carpentries Handbook][host-checklist].
-
-When Instructors self-organise a workshop, they sometimes find themselves playing the role of Host as well as Instructor.
-We recommend avoiding this if possible, because hosting responsibilities will subtract from the time you have
-to prepare and teach. 
-
-If you cannot find someone else to bear full responsibility for the Host role, consider recruiting help for specific tasks. This may include 
-involving helpers in advance of the workshop, or exploring institutional support for event logistics like registration, snack delivery, 
-helper coordination, and emergency contact.
-
-### Helpers
-
-[Helpers][helpers] are usually recruited from a local community by the Host of a workshop. Helpers may be
-involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to 
-attend for the full workshop, but in some communities they may come and go during different segments.
-
-Helpers can assist in a variety of ways. They may:
-- help learners with setup and installation
-- answer questions during exercises
-- monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
-- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
-
-In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
-practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
-However, you will also want to make sure they are informed about key logistics and classroom practices.
-
-
-### Classroom Practices
-Carpentries Instructors have many choices about how to teach. However, there are a few teaching practices that 
-are expected in all Carpentries workshops. These include:
-
-#### Participatory Instruction
-  Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively 
-  working along with you wherever possible. 
-  
-#### Sticky Notes
- At in-person workshops, two different colors of paper sticky notes are given to learners. These act as 'flags' that may be placed 
- on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.  
- **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "Please put up a blue sticky note if
- you completed the last step, and a yellow sticky note if you need help.").  
- In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
- 
-#### Breaks (ideally with snacks)
- Two-day workshops often fit best in busy schedules, allowing an intensive burst of dedicated time and energy. However, "intensive" is 
- a key word -- two day workshops are intense! In addition to minding your pacing, it is important to schedule breaks, and to take them 
- on time. In addition to allowing vital rest and social time, this will also allow learners to attend to work and personal matters at predictable times.  
- At in-person workshops, coffee and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
- small fee for your workshop to cover the cost.
-
-### Co-Teaching Models
-
-*Co-teaching* describes any situation in which two teachers work
-together in the same classroom. There are [many ways][worldcat-interactions] to do
-this; we use the following methods most frequently:
-
-- **Team teaching:** Both teachers deliver a single stream of content
-  in tandem, taking turns the way that musicians taking solos would.
-
-- **Teach and assist:** Teacher A teaches while Teacher B moves around
-  the classroom to help learners.
-
-"Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
-"Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
-Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
-considering for self-organised workshops in a co-Instructor has not yet been certified.
-
-
-
-
-### Classroom Practices
-
 
 > ## Teaching Together - Nuts and Bolts
 >
@@ -261,6 +257,8 @@ could not get software to install on that one learner's laptop, than
 the person you just taught with.
 
 ## In Advance: Preparing Together
+
+### Planning: Coordination and Delegation
 
 ### Setting up a Workshop Website
 
