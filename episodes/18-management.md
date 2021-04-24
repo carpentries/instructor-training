@@ -4,17 +4,19 @@ block: "Building Teaching Skill"
 teaching: 30
 exercises: 40
 questions:
-- "How can I prepare for effective co-teaching?"
 - "What are the challenges of managing a heterogeneous classroom?"
-- "What do I do if there is a Code of Conduct violation?"
-- "What is involved in setting up for a workshop?
+- "What should we do if there is a Code of Conduct violation?"
+- "What does it mean to be a co-Instructor?"
+- "How does an instructional team go about setting up for a workshop?
 objectives:
 - "Identify potential challenges of teaching learners with very different backgrounds and skill levels."
 - "Locate resources to direct your response if someone at your workshop violates the Code of Conduct."
-- "Use workshop website template instructions to create a website."
+- "Identify workshop roles and responsibilities for your team."
+- "Use The Carpentries workshop website template instructions to start creating a website."
 keypoints:
+- "Team work takes work, but allows you to share the load and build connections."
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
-- "Response to a Code-of-Conduct violation at a workshop is subject to instructor discretion, but all violations should be reported to the Carpentries for follow-up."
+- "The instructional team decides how to respond to Code-of-Conduct incidents during a workshop; all violations should be reported to The Carpentries for follow-up."
 ---
 
 # Never Teach Alone
@@ -32,13 +34,13 @@ our instructions for setting up a workshop website.
 
 ## Sticky Situations 1: Teaching to Diverse Skill Levels
 
-Although our workshops are targeted at novices, every workshop
-will have participants from a variety of backgrounds and technical
-skill levels. Some may be at the novice level in one technology (e.g. git),
+Carpentries workshops target novices, but you should still expect
+participants from a variety of backgrounds and technical
+skill levels. Some may be novices in one technology (e.g. git),
 but competent or even expert in another (e.g. R). As an instructor,
-you will need to be attentive to this diversity in your learners' prior skill level,
-and adjust your instruction appropriately. This can seem like an impossible challenge!
-But with a solid team approach you will be surprised how many people can come
+you will need to be attentive to this range in your learners' prior skill level. 
+Adjusting instruction to fit a range of backgrounds can seem like an impossible challenge!
+But with a solid team approach you will be surprised at how many people can come
 away feeling satisfied that their time was well spent.
 
 > ## What Are the Challenges?
@@ -48,23 +50,22 @@ away feeling satisfied that their time was well spent.
 {: .challenge}
 
 Here are some strategies Carpentries
-instructors have generated to deal with this issue:
+Instructors have generated to deal with this issue:
 
-*   When planning a workshop, be sure that all advertisements
-    communicate its level clearly
+*   When planning a workshop, be sure that **advertisements communicate its level clearly**
     by describing not only the topics (e.g. plotting in R), but
     also the specific skills and tasks (i.e. the learning objectives).
     If advanced learners do sign up anyway (and they may!), this will be an informed choice.
-*   When preparing your exercises, consider creating "beginner" and "advanced" options.
+*   When preparing your exercises, consider creating **"beginner" and "advanced" options**.
     Learners who finish the "beginner" exercise can then challenge themselves with a next step.
-*   During class, encourage learners to help people next to them when they feel comfortable doing so.
+*   During class, **encourage learners to help people** next to them when they feel comfortable doing so.
     Teaching is a great way to level up learning (one of many reasons why Carpentries Instructors choose to teach!).
     Note that you may need an icebreaker before your learners will take this advice.
-*   Do not let advanced learners carry the conversation in class, no matter how interesting it may be. This can alienate novices
+*   **Do not let advanced learners carry the conversation** in class, no matter how interesting it may be. This can alienate novices
     and consumes valuable class time. Advanced questions and comments can be politely reserved for breaks, addressed
     individually by helpers or the co-Instructor, or typed in the Etherpad for present or future follow-up.
 *   The helpers and the Instructor who is not teaching the particular episode
-    should be vigilant for learners who are falling behind
+    should **be vigilant for learners who are falling behind**
     and intervene early
     so that they do not become frustrated and give up. Frequent reminders
     to put up sticky notes for "ok" or "I'm stuck" will support your 
@@ -74,8 +75,8 @@ No class can possibly meet all individual training needs.
 However, it is entirely possible for total beginners and advanced learners
 to come away happy from the same workshop. Beginners may not yet feel competent,
 but they may build a mental model of the domain and develop confidence that they *can*
-learn these skills because they have successfully been walked through them. Advanced
-learners may enjoy picking up "tips and tricks" or having their own self-taught approach
+learn these skills because they have successfully walked through them. Advanced
+learners may enjoy picking up "tips and tricks" or having their own self-taught approaches
 validated. They may also enjoy connecting with your workshop community, and might 
 consider becoming Carpentries Instructors themselves! 
 
@@ -111,7 +112,63 @@ everyone to face such a situation. Because this challenge is not unique to Instr
 to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
-## In The Classroom: Nuts and Bolts of a Carpentries Workshop
+## The Instructional Team
+A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
+- A **Host** who organizes the workshop logistics
+- Two or more **Instructors** who plan and execute workshop instruction
+- **Helpers** who provide learner support during the workshop  
+
+## Hosting
+We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is 
+a significant role in any workshop. A suggested checklist for this role is in [The Carpentries Handbook][host-checklist].
+
+When Instructors self-organise a workshop, they sometimes find themselves playing the role of Host as well as Instructor.
+We recommend avoiding this if possible, because hosting responsibilities will subtract from the time you have
+to prepare and teach. 
+
+If you cannot find someone else to bear full responsibility for the Host role, consider recruiting help for specific tasks. This may include 
+involving helpers in advance of the workshop, or exploring institutional support for event logistics like registration, snack delivery, 
+helper coordination, and emergency contact.
+
+### Helpers
+
+[Helpers][helpers] are usually recruited from a local community by the Host of a workshop. Helpers may be
+involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to 
+attend for the full workshop, but in some communities they may come and go during different segments.
+
+Helpers can assist in a variety of ways. They may:
+- help learners with setup and installation
+- answer questions during exercises
+- monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
+- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
+
+In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
+practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
+However, you will also want to make sure they are informed about key logistics and classroom practices.
+
+
+### Classroom Practices
+Carpentries Instructors have many choices about how to teach. However, there are a few teaching practices that 
+are expected in all Carpentries workshops. These include:
+
+#### Participatory Instruction
+  Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively 
+  working along with you wherever possible. 
+  
+#### Sticky Notes
+ At in-person workshops, two different colors of paper sticky notes are given to learners. These act as 'flags' that may be placed 
+ on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.  
+ **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "Please put up a blue sticky note if
+ you completed the last step, and a yellow sticky note if you need help.").  
+ In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
+ 
+#### Breaks (ideally with snacks)
+ Two-day workshops often fit best in busy schedules, allowing an intensive burst of dedicated time and energy. However, "intensive" is 
+ a key word -- two day workshops are intense! In addition to minding your pacing, it is important to schedule breaks, and to take them 
+ on time. In addition to allowing vital rest and social time, this will also allow learners to attend to work and personal matters at predictable times.  
+ At in-person workshops, coffee and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
+ small fee for your workshop to cover the cost.
+
 ### Co-Teaching Models
 
 *Co-teaching* describes any situation in which two teachers work
@@ -129,22 +186,7 @@ this; we use the following methods most frequently:
 Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
 considering for self-organised workshops in a co-Instructor has not yet been certified.
 
-### Helpers
 
-[Helpers][helpers] are usually recruited from a local community by the [Host][host-checklist] of a workshop. Helpers may be
-involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to 
-attend for the full workshop, but in some communities they may come and go during different segments.
-
-Helpers can assist in a variety of ways. They may:
-- help learners with setup and installation
-- answer questions during exercises
-- monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
-- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
-
-In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
-practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
-However, you will also want to make sure they are informed about key logistics and classroom practices, e.g. sticky notes,
-snack maintenance, and other critically important procedures.
 
 
 ### Classroom Practices
