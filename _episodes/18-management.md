@@ -2,7 +2,7 @@
 title: "Working With Your Team"
 block: "Building Teaching Skill"
 teaching: 30
-exercises: 40
+exercises: 45
 questions:
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What should we do if there is a Code of Conduct violation?"
@@ -216,18 +216,22 @@ Because this challenge is not unique to Instructors, The Carpentries is currentl
 to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
+## Planning Together
+Planning a workshop can be at least as much fun as teaching one. Why? Because this is the stage at which you get to connect 
+with the amazing people on your instructional team! One reason why people love the workshop you are taking right now is because 
+they get to meet other Carpentries trainees -- people with shared interests and enthusiasm for sharing technical skills. Yes,
+there is work to do when planning a workshop! But there is much to be gained in sharing the process.
 
 > ## Teaching Together - Nuts and Bolts
 >
-> With a partner, imagine that you are planning a workshop together. At least initially, assume
-> that you have a separate, designated Host for your workshop.
+> With a partner, imagine that you are planning a workshop together. For this exercise, you may assume
+> that your workshop has a separate, designated Host.
 >
 > - How would you prepare to teach a workshop together?
 > - How would you coordinate with other members of your instructional team (e.g. Host, Helpers)?
-> - What kinds of things should you do to support each other during the workshop? What shouldn't you do?
+> - What kinds of things will you do to support each other during the workshop? What won't you do?
 > 
-> As an entire group, discuss what you came up with and then compare
-> to the recommendations below.
+> Record some notes, and share your thoughts with the group. This exercise should take about 10 minutes.
 >
 >> ## Co-Instruction Suggestions
 >>
@@ -307,7 +311,7 @@ instructions for setting them up.
 > Go to the [workshop template repository]({{ site.workshop_repo }}). 
 > 
 > * If you have a GitHub account (or don't mind quickly creating one) and are comfortable doing so, 
-> follow the directions to create a workshop website using your local location and today's date.
+> follow the directions to begin creating a workshop website using your local location and today's date. 
 > 
 > * Alternatively, have a look at the video tutorial linked on the instructions page. With any time
 > remaining, have a look at the websites for [upcoming Carpentries workshops][https://carpentries.org/upcoming_workshops/] on our website.
@@ -315,7 +319,7 @@ instructions for setting them up.
 > * Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
 > add the link there as well.
 >
-> This exercise should take about 25 minutes. 
+> This exercise should take about 15 minutes. 
 >
 > Note: Sometimes web browsers will cache the workshop webpage, so when
 > you make changes in GitHub, they do not show up on the workshop webpage
