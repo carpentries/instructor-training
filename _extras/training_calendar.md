@@ -40,7 +40,7 @@ To offer more flexible options for our community, we are piloting events that ru
     * Wednesday April 14, 9 am to 12 pm North America Central *See this day in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210414T09&p1=64&ah=3)*
 * April 12-15, 2021 *Registration Closed*
 
-* [May 3-6, 2021](https://www.eventbrite.com/e/online-instructor-training-may-3-6-2021-british-summer-time-tickets-144492441783) 
+* May 3-6, 2021 *Registration Closed*
     * 8 am to 12 pm North America Eastern 
     * 1 pm to 5 pm British Summer Time
     * 2 pm to 6 pm Central European Summer Time
