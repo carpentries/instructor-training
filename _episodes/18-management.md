@@ -67,14 +67,34 @@ practices. [The helper checklist][helpers] includes a short list of "Teaching Ru
 However, you will also want to make sure they are informed about key logistics and classroom practices.
 
 
-### Classroom Practices
+### Carpentries Classroom Practices
 Carpentries Instructors have many choices about how to teach. However, there are a few teaching practices that 
 are expected in all Carpentries workshops. These include:
 
-#### Participatory Instruction
+#### Participatory Instruction & Hands-off Help
   Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively 
-  working along with you wherever possible. 
-  
+  working along with you wherever possible. Similarly, when receiving assistance, learners should be doing the typing whenever possible.
+
+> ## Learners Use Their Own Machines
+> Learners tell us that it is important to them to leave the workshop
+> with their own machine set up to do real work.  We therefore continue
+> to teach on all three major platforms (Linux, Mac OS X, and Windows),
+> even though it would be simpler to require learners to use just one.
+>
+> We have experimented with virtual machines (VMs) on learners'
+> computers to reduce installation problems, but those introduce
+> problems of their own: older or smaller machines simply are not fast
+> enough, and learners often struggle to switch back and forth between
+> two different sets of keyboard shortcuts for things like copying and
+> pasting.
+>
+> Some instructors use [Virtual Private Servers][vps] (VPS) over [Secure Shell][ssh]
+> (SSH) or web browser pages instead. This solves the installation
+> issues, but makes us dependent on host institutions' WiFi (which can be
+> unreliable), and has the issues mentioned above with things
+> like keyboard shortcuts.
+{: .callout}
+
 #### Sticky Notes
  At in-person workshops, two different colors of paper sticky notes are given to learners. These act as 'flags' that may be placed 
  on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.  
@@ -82,12 +102,21 @@ are expected in all Carpentries workshops. These include:
  you completed the last step, and a yellow sticky note if you need help.").  
  In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
  
+ #### Formative Assessment
+ Calling for sticky notes is one kind of formative assessment! But it does not give you detailed information about how learners
+ are progressing. 
+ 
 #### Breaks (ideally with snacks)
  Two-day workshops often fit best in busy schedules, allowing an intensive burst of dedicated time and energy. However, "intensive" is 
  a key word -- two day workshops are intense! In addition to minding your pacing, it is important to schedule breaks, and to take them 
  on time. In addition to allowing vital rest and social time, this will also allow learners to attend to work and personal matters at predictable times.  
  At in-person workshops, coffee and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
  small fee for your workshop to cover the cost.
+ 
+ #### Feedback
+ Using sticky cards as "minute cards" and creating time for Carpentries surveys are two essential components of a Carpentries workshop.
+ Save your best feedback to look at on a tough day! 
+
 
 ### Co-Teaching Models
 
@@ -105,7 +134,6 @@ this; we use the following methods most frequently:
 "Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
 Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
 considering for self-organised workshops in a co-Instructor has not yet been certified.
-
 
 ## Sticky Situations 1: Teaching to Diverse Skill Levels
 
@@ -127,19 +155,19 @@ away feeling satisfied that their time was well spent.
 Here are some strategies Carpentries
 Instructors have generated to deal with this issue:
 
-*   When planning a workshop, be sure that **advertisements communicate its level clearly**
+*   Be sure that workshop **advertisements communicate its level clearly**
     by describing not only the topics (e.g. plotting in R), but
     also the specific skills and tasks (i.e. the learning objectives).
     If advanced learners do sign up anyway (and they may!), this will be an informed choice.
-*   When preparing your exercises, consider creating **"beginner" and "advanced" options**.
+*   Consider creating **"beginner" and "advanced" options** for exercises.
     Learners who finish the "beginner" exercise can then challenge themselves with a next step.
-*   During class, **encourage learners to help people** next to them when they feel comfortable doing so.
+*   During class, **encourage learners to help others** nearby when they feel comfortable doing so.
     Teaching is a great way to level up learning (one of many reasons why Carpentries Instructors choose to teach!).
-    Note that you may need an icebreaker before your learners will take this advice.
-*   **Do not let advanced learners carry the conversation** in class, no matter how interesting it may be. This can alienate novices
-    and consumes valuable class time. Advanced questions and comments can be politely reserved for breaks, addressed
+    Note that you will need an icebreaker before most learners will take this advice.
+*   **Do not let advanced learners carry the conversation** during class, no matter how interesting it may be. This can alienate novices
+    and consumes precious time. Advanced questions and comments can be politely reserved for breaks, addressed
     individually by helpers or the co-Instructor, or typed in the Etherpad for present or future follow-up.
-*   The helpers and the Instructor who is not teaching the particular episode
+*   The helpers and non-teaching co-Instructor(s)
     should **be vigilant for learners who are falling behind**
     and intervene early
     so that they do not become frustrated and give up. Frequent reminders
@@ -182,30 +210,34 @@ For these reasons and more we encourage you to **discuss Code of Conduct enforce
 {: .challenge}
 
 Fortunately, Code of Conduct violations have been extremely rare in our community. Emphasizing our values up front really
-does make a difference. However, we recognize that the time set aside to discuss this topic is not adequate to thoroughly prepare
-everyone to face such a situation. Because this challenge is not unique to Instructors, The Carpentries is currently working
+does make a difference. We hope that this preliminary introduction will help you know what to do, at a fundamental level, in 
+case you encounter a violation. However, thorough preparation to manage a difficult situation demands more than we can offer you today. 
+Because this challenge is not unique to Instructors, The Carpentries is currently working
 to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
 
 > ## Teaching Together - Nuts and Bolts
 >
-> With a partner, imagine that you are planning a workshop together
-> and answer the following questions:
+> With a partner, imagine that you are planning a workshop together. At least initially, assume
+> that you have a separate, designated Host for your workshop.
 >
 > - How would you prepare to teach a workshop together?
-> - During the workshop, what are some things the assisting instructor
-> can do (or should not do!) to support the main instructor?
->
+> - How would you coordinate with other members of your instructional team (e.g. Host, Helpers)?
+> - What kinds of things should you do to support each other during the workshop? What shouldn't you do?
+> 
 > As an entire group, discuss what you came up with and then compare
 > to the recommendations below.
 >
->> ## Recommendations
+>> ## Co-Instruction Suggestions
 >>
->> If you and a partner are co-teaching, try to follow these recommendations:
 >>
 >>- Coordinate who is teaching what, sufficiently in advance that
 >>  both instructors are confident in their preparation.
+>>- Coordinate with your instructional team. Hosts will need information
+>>  from you to advertise the workshop. Helpers will need to know what you
+>>  expect from them. More communication is better, but it is also
+>>  important to respect people's time.
 >>
 >>- If you have time to do some
 >>  advance preparation together, try drawing a concept map together or
@@ -256,39 +288,16 @@ understand how loops work, or how disappointed you are that you just
 could not get software to install on that one learner's laptop, than
 the person you just taught with.
 
-## In Advance: Preparing Together
-
-### Planning: Coordination and Delegation
 
 ### Setting up a Workshop Website
 
-In order to communicate with learners,
-and to help us keep track of who has taught what and where,
-instructors create a website with information about their workshop.
+In addition to planning how the workshop will go, someone on your instructional team 
+will be charged with creating a workshop website. This website helps your learners to
+know what to expect. It also helps The Carpentries to keep track of your workshop and 
+to credit everyone on your team.
 
-To ensure unique names for each event,
-we use the `year-month-day-venue` format for the identifier, the slug.
-For instance, for a workshop that starts on Febuary 22nd, 2022
-at the University of Data Skills,
-the slug would be `2022-02-22-data-skills`. If your workshop will be held online, you will add that to the slug as well, making it `2022-02-22-data-skills-online`.
-If you are teaching a centrally-organized workshop,
-please wait for the email from your regional coordinator
-that will tell you the slug to use for your workshop.
-
-Once your workshop website has been created,
-the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:team@carpentries.org),
-who adds it to our records.
-The workshop will show up on our websites shortly thereafter.
-
-You may also create an Etherpad for your workshop
-(or other Carpentries-related event).
-When you point a browser to a url at
-`https://pad.carpentries.org/workshop-slug`
-(e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
-for the example above)
-you will either arrive at an existing Etherpad by that name or a brand new
-etherpad with basic Carpentries information at the top.
+The Carpentries maintains a template repository for these websites with step-by-step 
+instructions for setting them up.
 
 > ## Practice With The Carpentries Infrastructure
 > 
@@ -315,7 +324,14 @@ etherpad with basic Carpentries information at the top.
 > [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
 {: .challenge}
 
-
+You may also wish to create an Etherpad for your workshop
+(or other Carpentries-related event).
+When you point a browser to a url at
+`https://pad.carpentries.org/workshop-slug`
+(e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
+for the example above)
+you will either arrive at an existing Etherpad by that name or a brand new
+etherpad with basic Carpentries information at the top.
 
 > ## Minute Cards Revisited
 >
