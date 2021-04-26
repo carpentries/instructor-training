@@ -96,12 +96,26 @@ are expected in all Carpentries workshops. These include:
 {: .callout}
 
 #### Sticky Notes
- At in-person workshops, two different colors of paper sticky notes are given to learners. These act as 'flags' that may be placed 
- on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.  
- **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "Please put up a blue sticky note if
+ At in-person workshops, two different colors of paper sticky notes are given to each learner. These act as 'flags' that may be placed 
+ on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on. 
+ This is better than having people raise their hands because:  
+*  it is more discreet (which means they are more likely to actually do it),
+*  they can keep working while their flag is raised, and
+*  the instructor can quickly see from the front of the room what state the class is in.  
+ **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "lease put up a blue sticky note if
  you completed the last step, and a yellow sticky note if you need help.").  
  In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
- 
+
+> ## Accessibility of Sticky Notes
+> Once upon a time, Carpentries workshops commonly used red and green sticky notes
+> because of their common symbolism for "stop" and "go." However, we have learned 
+> and grown! We strongly encourage you to get sticky notes in colors other than red and green (e.g. blue and yellow), 
+> because learners, helpers, and Instructors with colorblindness may have difficulty
+> distinguishing red from green. 
+> Some Instructors have also had great fun with differently-shaped sticky notes (stars and squares, 
+> thumbs up that can be turned into thumbs down stickies etc.).
+{: .callout}
+
  #### Formative Assessment
  Calling for sticky notes is one kind of formative assessment! But it does not give you detailed information about how learners
  are progressing. 
