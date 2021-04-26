@@ -230,6 +230,14 @@ Because this challenge is not unique to Instructors, The Carpentries is currentl
 to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
+> ## Know your Local Laws and Policies
+> While all Carpentries-branded workshops fall under The Carpentries Code of Conduct, they 
+> are also subject to laws, policies, and guidelines specific to the institutions, states, and
+> countries where they are hosted. In some cases, this may prevent people from being able to 
+> promise confidentiality because they are legally required to report certain types of incidents
+> (e.g. "mandatory reporters" in the USA).
+{: .callout}
+
 ## Planning Together
 Planning a workshop can be at least as much fun as teaching one. Why? Because this is the stage at which you get to connect 
 with the amazing people on your instructional team! One reason why people love the workshop you are taking right now is because 
