@@ -71,6 +71,9 @@ However, you will also want to make sure they are informed about key logistics a
 Carpentries Instructors have many choices about how to teach. However, there are a few teaching practices that 
 are expected in all Carpentries workshops. These include:
 
+#### Starting with the Code of Conduct
+  Looking for language to introduce the Code of Conduct during your workshop? The [summary view in The Carpentries Handbook][CoC-summary] is a great template.
+
 #### Participatory Instruction & Hands-off Help
   Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively 
   working along with you wherever possible. Similarly, when receiving assistance, learners should be doing the typing whenever possible.
@@ -368,5 +371,6 @@ etherpad with basic Carpentries information at the top.
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
+[CoC-summary]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [vps]: https://en.wikipedia.org/wiki/Virtual_private_server
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
