@@ -125,33 +125,6 @@ Some instructors use printouts of the lesson material during teaching. Others us
 
 Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper]
 
-## Sticky Notes
-Give each learner two sticky notes of different colours, e.g., yellow and blue.
-If someone has completed an exercise, they put the blue sticky note on their laptop;
-if they run into a problem and need help, the put up the yellow one.  This is better
-than having people raise their hands because:
-
-*  it is more discreet (which means they are more likely to actually do it),
-*  they can keep working while their flag is raised, and
-*  the instructor can quickly see from the front of the room what state the class is in.
-
-Sometimes a yellow sticky involves a technical problem that takes a bit
-more time to solve.  To prevent this issue slowing down the whole
-class too much, you could use the occasion to take the small break you
-had planned to take a bit later, giving the helper(s) time to fix the
-problem.
-
-Remind learners frequently about using their sticky notes, or they (and you) will forget.
-
-> ## Accessibility of Sticky Notes
-> We strongly encourage you to get sticky notes in colors other than red and green, 
-> as we have found that some learners (not to mention helpers and instructors!) 
-> may have colorblindness and thus cannot properly ask for/give help this way. 
-> Alternate ideas are to use differently-shaped sticky notes (stars and squares, 
-> thumbs up that can be turned into thumbs down stickies), or to use one sticky note 
-> as a flag for help.
-{: .callout}
-
 > ## Practice Teaching
 >
 > Teach 3 minutes of your chosen lesson episode using live coding to one or two
