@@ -362,6 +362,10 @@ for the example above)
 you will either arrive at an existing Etherpad by that name or a brand new
 etherpad with basic Carpentries information at the top.
 
+Note that there are pros and cons to using Etherpad. Pads do occasionally
+freeze or crash, so we recommend creating a backup copy. Otherwise, Etherpads persist 
+indefinitely, so they may be used for further reference after a workshop. 
+
 > ## Minute Cards Revisited
 >
 > Use your sticky notes to write minute cards
