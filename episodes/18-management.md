@@ -152,14 +152,13 @@ this; we use the following methods most frequently:
 Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
 considering for self-organised workshops in a co-Instructor has not yet been certified.
 
-## Sticky Situations 1: Teaching to Diverse Skill Levels
+## Sticky Situations 1: Learners at Many Levels
 
-Carpentries workshops target novices, but you should still expect
-participants from a variety of backgrounds and technical
-skill levels. Some may be novices in one technology (e.g. git),
-but competent or even expert in another (e.g. R). As an instructor,
+Carpentries workshops target novices, but participants from a variety of backgrounds and technical
+skill levels will often sign up for workshops. Some may be novices in one technology (e.g. git),
+but competent or even expert in another (e.g. R). As an Instructor,
 you will need to be attentive to this range in your learners' prior skill level. 
-Adjusting instruction to fit a range of backgrounds can seem like an impossible challenge!
+"Meeting learners where they are" can seem like an impossible challenge under these circumstances!
 But with a solid team approach you will be surprised at how many people can come
 away feeling satisfied that their time was well spent.
 
