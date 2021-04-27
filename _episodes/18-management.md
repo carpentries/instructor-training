@@ -220,8 +220,10 @@ For these reasons and more we encourage you to **discuss Code of Conduct enforce
 
 > ## Know Your Resources
 > 1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: https://docs.carpentries.org/topic_folders/policies/incident-response.html
-> 2) Discuss what you have read in small groups. What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
-> What questions do you have about CoC enforcement? Write some notes in the etherpad. 
+> 2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook: https://docs.carpentries.org/topic_folders/policies/index_coc.html  
+> * What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
+> * What questions do you have about CoC enforcement? 
+> 3) Write some notes in the etherpad. 
 >
 > This discussion should take about 15 minutes.
 {: .challenge}
