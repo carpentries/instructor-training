@@ -195,7 +195,10 @@ checkpoints built in where such progress is made clear.
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here][Config] along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
+> technical hurdles common across multiple lessons are detailed [in this community-developed page][Config] 
+> along with suggested solutions. This link is built into each workshop website as well for easy access by learners and 
+> during workshops. If you find new problems or solutions, please contribute! We will learn more about workshop 
+> websites shortly.  
 {: .callout}
 
 
