@@ -188,7 +188,6 @@ checkpoints built in where such progress is made clear.
 
 
 [Wiggins]: http://www.worldcat.org/title/understanding-by-design/oclc/56491025
-[Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
 
 
