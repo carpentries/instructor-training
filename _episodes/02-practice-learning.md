@@ -445,13 +445,16 @@ in which you were going to explain something that your learners already know.
 > {: .solution}
 {: .challenge}
 
-> ## A Corollary Regarding Novices
+> ## "Do You Understand?" is a Bad Question
 >
-> Learners are commonly _far_ too satisfied to not understand key points
-> and remain confused.  If learners remain confused, they are far less likely
-> to adopt our "good enough" practices at the conclusion of the workshop.
-> Encourage helpers to support confused learners as far as possible within
-> the flow of the workshop.
+> Learners are often reluctant to admit when they do not understand. Furthermore, self-assessments of skill in the absence of formative assessment are often inaccurate
+> because of the [Dunning-Kruger effect][Dunning]:
+> the less people know about a subject,
+> the less accurate their estimate of their knowledge is. Therefore, if you ask a room full of people
+> "Do you understand?" the result will invariably be a number of 'yes' responses (many of them inaccurate) which tend to drown out a
+> variable amount of silence. Instead, a targeted formative assessment takes the inaccuracy and stress of self-judgement away and 
+> demonstrates to all whether the learners' level of understanding has
+> met the instructor's goal.
 {: .callout}
 
 ## Optional exercises
