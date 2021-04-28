@@ -34,8 +34,6 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 * Information about software/hardware requirements for the training, preparatory homework, and video-conference connection information will be provided one week before the event. 
 
-* The [schedule](http://carpentries.github.io/instructor-training/#schedule) includes a lunch break as well as two shorter breaks in the morning and afternoon.
-
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, you will be notified two weeks before the event and will have the opportunity to sign up for a future event.*
 
 
