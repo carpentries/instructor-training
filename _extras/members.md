@@ -20,7 +20,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## How to schedule your team for training: 
 
-* You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/). All events run from 9am to 5pm in the time zone listed. 
+* You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/). 
 
 * Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organize a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training. 
 
