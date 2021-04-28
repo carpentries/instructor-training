@@ -46,7 +46,7 @@ To offer more flexible options for our community, we are piloting events that ru
     * 2 pm to 6 pm Central European Summer Time
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210503T13&p1=136&ah=4)*   
 
-* [May 4-26, 2021](https://www.eventbrite.com/e/online-instructor-training-may-4-26-2021-new-zealand-standard-time-tickets-145132291591) 
+* May 4-26, 2021 *Registration Closed*
     * **This training will take place for two hours a day, two days a week, for four weeks**
     * 11 am to 1 pm, Tuesdays and Wednesdays, Australia Eastern Standard Time
     * 1 pm to 3 pm, Tuesdays and Wednesdays, New Zealand Standard Time
