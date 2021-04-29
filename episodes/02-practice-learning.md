@@ -1,26 +1,27 @@
 ---
 title: "Building Skill With Practice"
 block: "How Learning Works"
-teaching: 20
-exercises: 40
+teaching: 30
+exercises: 30
 questions:
 - "How do people learn?"
 - "Who is a typical Carpentries learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Compare and contrast the three stages of skill acquisition."
-- "Identify a mental model and explain what it represents." 
-- "Explain why practice and feedback are important for learning."
-- "Explain the purpose of formative assessments."
-- "Identify formative assessments in your teaching and learning experiences." 
+- "Identify a mental model and an analogy that can help to explain it." 
+- "Apply a concept map to explore a simple mental model."
+- "Understand the limitations of knowledge in the absence of a functional mental model."
+- "Create a formative assessment to diagnose a broken mental model."
 keypoints:
 - "Our goal when teaching novices is to help them construct useful mental models."
-- "This requires practice and feedback."
+- "Exploring our own mental models can help us prepare to convey them."
+- "Constructing a useful mental model requires practice and corrective feedback."
 - "Formative assessments provide practice for learners and feedback to learners and instructors."
 ---
 
-We will now get started with a discussion of how learning works. We will learn
-some key findings from educational research and identify how these principles
+We will now get started with a discussion of how learning works. We will begin with
+some key concepts from educational research and identify how these principles
 are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
@@ -33,26 +34,25 @@ A critical component of this process is that learners are able to practice what 
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-A Carpentries workshop is an interactive event -- for learners and instructors. We give and
+**A Carpentries workshop is an interactive event** -- for learners and instructors. We give and
 receive feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and
-ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way, instructors can adjust the
-pace and content of a workshop to meet the needs of the learners in that group, as well as collect feedback
-that will help us improve lesson materials or methodology for future workshops. Instructors and helpers also provide
-feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about
-the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
-people are having trouble with or where we might be able to move along more quickly.
+ask for feedback on sticky notes during lunch breaks and at the end of each day. 
+
+One reason why practice and feedback are so important is because a Carpentries workshop is not simply a source of information; 
+it is the starting point for development of a new skill. To understand what this means, we will start by exploring what 
+research tells us about skill acquisition and development of a "mental model."
 
 ## The Acquisition of Skill
 
 Our approach is based on the work of researchers like Patricia Benner,
 who applied the [Dreyfus model of skill acquisition][wikipedia-dreyfus-skill]
 in her studies of
-[how nurses progress from novice to expert](http://journals.sagepub.com/doi/10.1177/0270467604265061)
-([see also books by Benner](https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author)). This work indicates that
+[how nurses progress from novice to expert][nurses-dreyfus]
+([see also books by Benner][Benner-Dreyfus]). This work indicates that
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form, three stages of this model are:
 
-![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath the people,
-an arrow labelled "Experience level" points from left to right. Underneath the figure labelled "Novice" a quote says "I'm not sure what questions to ask." The Competent Practitioner says "I'm pretty confident, but I still look stuff up a lot!" The Expert says "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
+![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath,
+an arrow labelled "Experience level" points from left to right. The "Novice" is quoted, "I'm not sure what questions to ask." The Competent Practitioner is quoted, "I'm pretty confident, but I still look stuff up a lot!" The Expert is quoted "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
 
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
@@ -75,13 +75,15 @@ an arrow labelled "Experience level" points from left to right. Underneath the f
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-Note that, while you may not think of yourself as a computational "expert," in the context above that term may accurately describe
-your skill level. We will come back to the expertise of the instructor and its impact -- positive and negative -- on teaching, in the next episode. 
+Note that, **while you may not think of yourself as a computational "expert," in the context above that term may accurately describe
+your skill level** in some situations. We will come back to the expertise of the instructor and its impact -- positive and negative -- 
+on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience.
 
 It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy has
-limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore the nature of "knowledge" through a concept
+limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore 
+the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
 
@@ -114,7 +116,9 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 > you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
 > 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
 > convey about the topic? How is it useful? In what ways is it wrong?
-> This activity should take about 5 minutes.
+> 
+>
+> This activity should take about 10 minutes.
 {: .challenge}
 
 A mental model may be represented as a collection of concepts and facts, connected by relationships. 
@@ -149,7 +153,10 @@ you to make your mental model of a concept more clear to yourself or others.
 > concepts involved? How are those concepts related?
 >  
 > 2. In the Etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
-> What would be necessary for a learner to complete such an exercise?
+> What challenges might a novice face in creating a concept map of this kind?
+> 
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 
@@ -241,13 +248,14 @@ Broadly speaking, misconceptions fall into three categories:
     such as "the world is only a few thousand years old"
     or "human beings cannot affect the planet's climate".
     These beliefs are deeply connected to the learner's social identity
-    and are the hardest to change.
+    and are the hardest to change. (Fortunately, we do not encounter these often in Carpentries workshops.
+    The closest we usually come has to do with beliefs about identity, which we will discuss in our Mindset section tomorrow.)
 
 Since The Carpentries workshops are focused on novices, and the building of
 strong mental models, we are most interested in the middle category of misconceptions.
 While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place.
 
-## Identifying and Correcting Misconceptions
+## Identifying and Correcting Misconceptions with Formative Assessment
 
 How do we expose misconceptions, especially as they pertain to broken models? How
 can we, in-class, know whether the learners already understand this topic
@@ -280,7 +288,7 @@ For example, a music teacher might ask a learner to play a scale very slowly
 in order to see whether they are breathing correctly,
 and if not, what they should change.
 
-Formative assessment is most useful when it happens frequently (we will talk about how frequently later) and when the
+Formative assessment is most useful when it happens frequently and when the
 results are easily interpretable by the learner and instructor.
 
 > ## Repetition vs. Reflective Practice
@@ -307,6 +315,8 @@ There are many types of formative assessment, and each have their advantages and
 > what types of formative assessments do you know about?
 >
 > Write your answers in the Etherpad; or go around and have each person in the group name one.
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 One example of formative assessment that we would like to highlight is
@@ -331,8 +341,8 @@ but each of the other answers provides valuable insight.
 
 > ## Identify the Misconceptions
 >
-> Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
-> This discussion should take about 10 minutes.
+> Choose one wrong answer and write in the Etherpad what misconception is associated with that wrong answer.
+> This discussion should take about 5 minutes.
 >
 >> ## Solution
 >>
@@ -347,17 +357,17 @@ but each of the other answers provides valuable insight.
 > {: .solution}
 {: .challenge}
 
-Each of these incorrect answers is a *plausible distractor* with *diagnostic power*.
-"Plausible" means that it looks like it could be right:
-instructors will often put supposedly-silly answers like "a fish!" on MCQs,
-but (a) they do not provide any insight
-and (b) learners actually do not find them funny.
-"Diagnostic power" means that each of the distractors helps the instructor figure out
-what concepts learners are having difficulty with.  
+Each of these incorrect answers has *diagnostic power*.
+Each answer looks like it could be right:
+silly answers like "a fish!" may offer comic relief, but do not provide any insight; nor do answers that
+are wrong in random ways. 
+"Diagnostic power" means that each of the wrong choices helps the instructor figure out
+precisely what misconceptions learners have adopted when they select that choice.  
 
-Formative assessments are most powerful when an instructor modifies their instruction depending on the
-results of the assessment. An instructor may learn they need to change their pace or review a particular concept.
-Knowing how to respond to the results of a formative assessment is a skill that you will develop over time.
+Formative assessments are most powerful when an **instructor responds
+results of the assessment**. An instructor may learn they need to change their pace or review a particular concept.
+Using formative assessment effectively to discover and address misconceptions 
+is a teaching skill that you can develop with reflective practice.
 
 > ## Handling Outcomes
 >
@@ -373,24 +383,27 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > This discussion should take about 5 minutes.
 >
 >> ## Solution
->> 1. If the majority of the class votes for a single wrong answer, you should go back
->> and work on correcting that particular misconception.  
+>> 1. If the majority of the class votes for a single wrong answer, you can stop 
+>> to work on correcting that one particular misconception.  
 >> 2. If most of the class votes
->> for the right answer, it is probably safe to move on.  
+>> for the right answer, it is probably safe to explain the answer move on. Helpers can make 
+>> themselves available to help anyone at risk of being left behind. 
 >> 3. If answers are pretty evenly
->> split between options, learners are probably guessing randomly and it is a good
+>> split between options, learners may be guessing randomly, reflecting an 
+>> absent mental model rather than a broken one. In this case it is a good
 >> idea to go back to a point where everyone was on the same page.
 > {: .solution}
 {: .challenge}
 
 > ## Modeling Novice Mental Models
 >
-> Take 10 minutes to create a multiple choice question related to a lesson you intend to teach.
+> Create a multiple choice question related to a lesson you intend to teach.
 > 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
-> In what ways might they misunderstand or inappropriately connect concepts?
-> 2. Try to target one or more misconceptions using a multiple choice question. How many plausible distractors can you create?
+> 2. Create your question. How many choices can you think of that will diagnose a specific misconception?
 > 3. Type your question into the Etherpad
-> and explain the diagnostic power of each its distractors.
+> and **explain the diagnostic power of each choice.**
+> 
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 > ## A Note on MCQ Design
@@ -416,7 +429,7 @@ and see the topic from their point of view.
 
 There are many types of formative assessments other than MCQs. One (non-exhaustive) list
 to supplement the earlier exercise
-can be found in the [Edutopia assessment group](https://www.edutopia.org/groups/assessment/250941).
+can be found in the [Edutopia assessment group][Edutopia].
 
 ## Formative Assessments Should Be Frequent
 
@@ -445,7 +458,7 @@ in which you were going to explain something that your learners already know.
 > {: .solution}
 {: .challenge}
 
-> ## "Do You Understand?" is a Bad Question
+> ## "Do You Understand?" is Ineffective as a Formative Assessment
 >
 > Learners are often reluctant to admit when they do not understand. Furthermore, self-assessments of skill in the absence of formative assessment are often inaccurate
 > because of the [Dunning-Kruger effect][Dunning]:
@@ -457,13 +470,10 @@ in which you were going to explain something that your learners already know.
 > met the instructor's goal.
 {: .callout}
 
-## Optional exercises
-
-> ## Confronting the Contradiction
->
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
-{: .challenge}
 
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+[nurses-dreyfus]: http://journals.sagepub.com/doi/10.1177/0270467604265061
+[Benner-dreyfus]: https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author
+[Edutopia]: https://www.edutopia.org/groups/assessment/250941
+[Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
