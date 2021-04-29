@@ -175,7 +175,14 @@ along with [its own onboarding curriculum][lesson-dev]. For more on lesson devel
 If there is a particular topic that you would like us to address, let the trainers
 know.
 
-## Let us Get Started
+## What Questions Do You Have?
+
+We hope and expect that you will have many questions during this training! Please do not
+keep them to yourself. If you find something unclear, chances are good that others will have the same question, too. 
+It is ok to ask even if you think you might have missed an answer that others heard 
+(e.g. during a distracted moment or a dropped connection)!
+Depending on the time remaining for this episode, your Trainers may ask you to share your questions 
+verbally, in the Etherpad, or otherwise. 
 
 Now that we have a road map of what we are covering
 we are ready to begin our training. Our goal is that by the end, you will
