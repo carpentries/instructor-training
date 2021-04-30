@@ -4,26 +4,25 @@ block: "How Learning Works"
 teaching: 15
 exercises: 30
 questions:
-- "What type of Instructor is best for novices?"
+- "Does subject expertise make someone a great teacher?"
 - "How are we (as Instructors) different from our learners and how does this impact our teaching?"  
 objectives:
 - "Explain what differentiates an expert from a competent practitioner." 
 - "Describe at least two examples of how expertise can help and hinder effective teaching."
-- "Identify situations where you have an expert awareness gap."
-- "Demonstrate strategies for compensating for your expert awareness gap."
-- "Demonstrate strategies for avoiding demotivating language."
+- "Identify strategies for becoming aware of your expert awareness gap."
+- "Demonstrate strategies for avoiding dismissive language."
 keypoints:
-- "Experts face challenges when teaching novices due to expert awareness gap."
-- "Expert awareness gap: knowing something so well that it seems easy when it is not."
-- "With practice, we can learn to overcome our expert awareness gap."
+- "Experts face challenges when teaching novices due to expert awareness gaps."
+- "Things that seem easy to us are often not experienced that way by our learners."
+- "With practice, we can develop skills to overcome our expert awareness gaps."
 ---
 
 # Examining Your Expertise
-Having previously discussed the transition from novice to competent practitioner,
-via the formation of a mental model, we now shift our attention to experts. It is
-unlikely that you will be teaching experts; the expert we want to talk about is you!
-You might not yet think of yourself as an expert, but chances are you have already
-advanced to the point where some of these key characteristics -- and potential pitfalls -- apply to you.
+In the last episode, we discussed the transition from novice to competent practitioner through 
+formation of a functional mental model. We now shift our attention to experts. The expert we want to talk about is you!
+  
+Even if you do not yet think of yourself as an expert, you may nonetheless have
+advanced to the point where some of these key characteristics -- and potential pitfalls -- apply to you. 
 We will discuss what distinguishes expertise
 from novices/competent practitioners, how being an expert can make it
 more difficult to teach novices, and some tools to help instructors
@@ -45,22 +44,19 @@ How are experts different from both of these groups?
 > This discussion should take about 5 minutes.
 {: .challenge}
 
-Off-hand, some might simplify the notion of an "expert" as someone who simply knows more facts,
+It can be tempting to simplify the notion of an "expert" as someone who simply knows more facts,
 but in reviewing the answers to the question above you will find that the expert 
-experience amounts to much more than that. Indeed, experts are often unaware of many of 
-the "facts" that they actually know. But you cannot construct expertise on facts alone.
+experience amounts to much more than that. While experts certainly know more, you cannot construct expertise on facts alone.
 Competent practitioners can memorize a lot of information
-without any noticeable improvement to their performance. So, what makes an expert? The answer is
-rather that experts have **more connections among pieces of knowledge**;
+without any noticeable improvement to their performance. So, what makes an expert? The answer is that 
+experts have **more connections among pieces of knowledge** that help them think and problem-solve quickly;
 more "short-cuts", if you will.  
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
 This brings us back to our mental model diagrams,
 where facts are nodes and relationships are arcs.
-The key difference between experts and competent practitioners
-is that experts have many more connections among concepts.
-This allows experts to:
+The greater connectivity of a mental model allows experts to:
 
 * see connections between two topics or ideas that no one else can see
 * see a single problem in several different ways
@@ -107,8 +103,8 @@ This phenomenon is known in the literature as an *expert blind spot*.
 >
 {: .callout}
 
-This can lead to some interesting reversals in the classroom. While deep expertise in a subject 
-area *can* be valuable when teaching, it can also create obstacles that must be overcome with practice. 
+Awareness gaps can lead to some interesting reversals in the classroom. While deep expertise in a subject 
+area can be valuable when teaching, it can also create obstacles that must be overcome with practice. 
 People with less expertise, who still remember what it is like to have to learn the things, can 
 be better equipped to anticipate novice misconceptions compared with an expert who has not learned 
 to identify their awarenesss gaps. 
@@ -136,9 +132,10 @@ you might invite a friend to meet you at "the deli" or simply at
 "the restaurant" and expect them to know what you mean. 
 Yet, a novice in English might hesitate, wondering if 
 these words mean the same thing, or close enough, under the circumstances. Similarly, 
-in a Carpentries workshop, an Instructor may alternate using "Unix", "bash", and "shell" 
+in a Carpentries workshop, an Instructor may start a workshop talking about "Unix," but 
+then automatically start using words like "bash" and "shell" 
 without noticing that learners are struggling to figure out how these 
-three new words are related.
+two new words are related.
 
 Novice learners can be confused by interchangeable use of more than just vocabulary. 
 In programming, multiple forms of notation may be 
@@ -146,7 +143,7 @@ used to reference a column in a data frame, for example, with the same effect.
 Instructors may use absolute file paths in one place, then default to relative file paths 
 elsewhere without noticing that explanation is required. 
 
-> ## Mind The Gaps: What do you use interchangeably?
+> ## What do you use interchangeably?
 >
 > In the Etherpad, share an example of words or notation that you sometimes use to accomplish or refer to the same thing.
 > If possible, try to think of an example that might occur in a Carpentries workshop.
@@ -160,9 +157,9 @@ elsewhere without noticing that explanation is required.
 ### What Problem?
 
 Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an
-error message while teaching, an expert will often figure out the cause of the error and develop a solution
+error message while teaching, an expert will often automatically diagnose and solve a problem
 before a novice has even finished reading the error message. Because of this, it is very important
-while teaching to be explicit about the process you are using to diagnose and correct errors, even if they
+while teaching to be explicit about the process you are using to engage with errors, even if they
 seem trivial to you, as they often will.
 
 > ## Diagnosis  (Optional)
@@ -175,8 +172,8 @@ seem trivial to you, as they often will.
 {: .challenge}
 
 
-## Dismissive Language  
-Instructors want to motivate learners. We will talk about great ways to do to this! But here, 
+## "The J Word" and Other Dismissive Language
+Instructors want to motivate learners! We will talk more about motivation in a later episode. But here, 
 we will take a moment to recognize one *ineffective* strategy often deployed by experts who 
 want learners to *believe that a task is as easy as they think it is.* This often manifests 
 in using the word "just" in explanations,
@@ -185,9 +182,9 @@ and then you just install these four patches to Ubuntu
 and then you just re-write your entire program in a pure functional style---no problem."
 This gives learners the very clear signal
 that the instructor thinks their problem is trivial
-and that they therefore must be incapable if they do not experience it that way. 
+and that there must be something wrong with them if they do not experience it that way. 
 
-With practice, we can change the way we speak to avoid this type of demotivating language and replace
+With practice, we can change the way we speak to avoid dismissive language and replace
 it with more positive and motivating word choices.
 
 > ## Changing Your Language  
@@ -210,16 +207,18 @@ it with more positive and motivating word choices.
 
 ### Any Questions?
 
-Another way in which well-intended experts can accidentally dismiss learner concerns is by asking for questions in 
-a way that subtly indicates that they do not expect (or wish) that anyone will actually have them. Asking, "Does anyone have 
-any questions?" implies that most people will not; this implication can be magnified by a short wait time after 
-asking. Instead, consider asking "What questions do you have?" and leaving a healthy pause for consideration. 
+Another well-intended move that can go wrong in the presence of awareness gaps is the call for questions. 
+An Instructor may accidentally dismiss learner confusion by asking for questions in 
+a way that reveals that *they do not actually expect that anyone will have them*. Asking, "Does anyone have 
+any questions?" implies that most people will not; the shorter the wait time before 
+moving on, the more this implication is magnified. 
+Instead, consider asking "What questions do you have?" and leaving a healthy pause for consideration. 
 This firmly establishes an expectation that
 people will, indeed, have questions, and should challenge themselves to formulate them.
 
 ## You Are Not Your Learners  
 
-As you seek to re-acquaint yourself with the novice experience, it can be tempting to try to think back to your own 
+As you seek to re-acquaint yourself with the novice experience, it can be tempting to think back to your own 
 experiences getting started in programming. Trips down memory lane can be productive! However, it is important that 
 you take care not to generalize from your experience to that of your novice learners. 
 
@@ -246,10 +245,9 @@ persevere more fragile than yours might have been when you got started.
 > they are less compelling than things like automating repetitive tasks.
 {: .callout}
 
-
 ## Expert Advantages
 
-In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching
+As we have seen, the high connectivity of an expert's mental model poses challenges while teaching
 novices. However, that is not to say that experts cannot be great teachers!  Because of their well-connected 
 knowledge, self-aware experts are well-poised
 to help students make meaningful connections, to confidently
@@ -261,14 +259,12 @@ path toward developing that skill.
 
 ## The Importance of Practice (Again)
 
-Have we mentioned that formative assessments are a good idea, and that you should use them frequently? Asking targeted 
-questions to check for understanding will give you valuable information about your learners' goals, 
-motivations, and progress. If you stumble into an expert awareness gap, create confusion by using interchangeable terms, or 
-accidentally quell rather than inviting questions, frequent formative assessment has the power to bring these problems to the surface. 
-As you develop teaching skill, you may be able to avoid these pitfalls. Until then, becoming aware of when they occur should be 
-a primary goal. 
+How can you make sure that expert awareness gaps are not negatively affecting your workshop? 
+Keep in touch with your learners through frequent formative assessment! If you stumble 
+into an expert awareness gap, create confusion by using interchangeable terms, or 
+accidentally quell rather than inviting questions, formative assessment has the power 
+to bring these problems to the surface. As you develop teaching skill, you may be able 
+to avoid these pitfalls. Until then, becoming aware of when they occur will help you to 
+keep their impact under control. 
 
 
-
-[motivation-words]: https://perma.cc/LE2H-VWXG?type=image
-[four-letter-words]: https://signalvnoise.com/posts/439-four-letter-words
