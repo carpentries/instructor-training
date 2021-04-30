@@ -8,9 +8,7 @@ questions:
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Remember the quantitative limit of human memory." 
-- "Apply concept mapping as a strategy to identify concepts and relationships required in a lesson."
-- "Use a concept map to plan a formative assessment strategy."
-- "Name the three components of cognitive load theory and which should be emphasized or diminished." 
+- "Distinguish desirable from undesirable cognitive load." 
 - "Identify when cognitive load is likely to limit learning."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
@@ -28,7 +26,7 @@ specifically, how to remove unnecessary "load" in order to facilitate learning.
 Learning involves memory. For our purposes, human memory can be divided into two different
 layers.
 The first is called *long-term*.
-It is where we store  persistent information like our passwords and our home address.
+It is where we store persistent information like our friends' names and our home address.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
 but it is slow to access.
@@ -68,26 +66,30 @@ frequent formative assessment is important.
 >
 > Without looking at the list again, write down as many words from the list as
 > you can. How many did you remember? Write your answer in the Etherpad.
+> 
+> ## Accessibility Adaptation
+> The list above may also be read aloud, slowly and clearly, by the Trainer hosting the session. 
+> On your mark, ask learners to write down their answers where others cannot see them, then read the list 
+> again so they can check their work.
 {: .challenge}
 
-Most people will have found they only remember 5-7 words. Do not worry if you
-remembered fewer - many factors can affect short-term memory in different situations.
-Fortunately, there are techniques that we can use to improve our effective short-term memory.
-We will illustrate one of these techniques and then describe how this is applicable to our
-workshops.  
+Most people will have found they only remember 5-7 words. Others may remember more! Those who do 
+are almost invariably deploying a *memory management strategy*.
 
 ## Strategies For Memory Management
 
-Our role as instructors, therefore, is to help our learners by not flooding their
-short term memory with too much information, partially by providing strategies
-and exercises to help them form the connections that will move concepts into
-long-term memory. What are some tools for doing this?
+Because short-term memory is limited, we can support learners by not flooding their
+short term memory with too many separate pieces of information. Does this mean we should 
+teach fewer concepts? Well, yes, but this is not the only tool in our toolbox. 
+We can also assist by providing strategies
+and exercises to help them form the connections that will a) support them in holding more 
+things in short-term memory at once and b) begin to move some concepts into
+long-term memory.
 
 ### Chunking
 
-One is by explicitly forming connections or groupings.  
 Our minds can store larger numbers of facts in short-term memory by creating *chunks*, or
-relationships among separate items, causing them to be remembered as a single item.
+relationships among separate items, allowing them to be remembered as a single item.
 For example, most of us will remember a word we read as a single item ("cat"), rather
 than as a sequence of letters ("c-a-t").
 Similarly, the pattern made by five spots on cards or die is remembered as a whole
@@ -104,94 +106,82 @@ rather than as five separate pieces of information.
 
 Storing words in groups reduces the number of effective
 items in your short-term memory, allowing you to keep
-more information in your head at once. This is one reason
-why helping our learners to see the connections among
-the concepts we are teaching is so important.  
+more information in your head at once. 
 
 ### Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding
-and transfer ideas from short-term memory into long-term memory. It is important
-to use formative assessments frequently to help learners transition new concepts
-into their long-term memory, before their short-term memory fills up. It can
-be helpful to use pedagogical planning tools to identify the number of concepts
-that are being introduced in a lesson and plan where to include formative
-assessments.
+and begin transferring ideas into long-term memory. The limitations of short-term 
+memory are one reason why assessments should be frequent: to help learners engage 
+with new concepts *before their short-term memory fills up* and starts ejecting things. 
+
+Formative assessment will help learners to retain new information. However, it also sometimes 
+asks them to integrate things they may have learned more than 7±2 ideas ago. The fact that a concept 
+was previously taught at a workshop does not mean that it will automatically be available for 
+use once its short-term memory window has expired. Be sure to remind learners of prior concepts 
+essential to a task before 
+asking them to rely upon it. 
 
 ### Limit concepts
 
 In the same vein as "going slowly," it is important to limit the number of
-concepts introduced in a lesson; no matter how many exercises or formative
-assessments you do, you cannot overcome the limit of items that can be
-shored in short-term memory. Planning your lesson with a concept map can help you 
+concepts introduced in a lesson. This can be hard! As you are reviewing a lesson 
+to teach, you will doubtless come across related concepts that are very useful, and 
+you may feel strongly motivated to sneak them in. Keep in mind, however, that 
+no matter how many exercises you do, *you 
+cannot overcome the limits of short-term memory in a short-format workshop*. 
+Planning your lesson with a concept map can help you 
 not only identify key concepts and relationships, but also to notice when you are trying to 
-teach too many things between assessments. 
-
-
-> ## Concept Maps in the Classroom
-> In addition to helping you plan where to introduce formative assessments, concept maps can
-> be used in many other ways:
->
-> 1.  To aid solo design of a lesson.
-> 2.  To aid communication with fellow lesson designers.
-> 3.  To aid communication with learners. 
-> - When using a concept map as a communication aid, it is best to build the map piece by piece rather than providing it all at once.
-> 4.  As a classroom discussion exercise.
-> 5.  As a formative assessment technique.
-> - When asking learners to create a concept map, it is important to limit concepts and focus narrowly on target learning. Mind the (expert awareness) gap!
-{: .callout}
+teach too many things at once. 
 
 ## Why Guided Practice is Important
 
-Another way to think about the challenge of managing memory is through
+Memory is not the only cognitive resource that is limited. Attention is constrained as well. 
+While many people believe that they can "multi-task," the reality is that attention can 
+only focus on one thing at a time. Adding items that demand attention adds more things 
+to alternate between attending to, which can reduce efficiency and performance on all of them.
 the theory of *[cognitive load][wikipedia-cognitive-load]*.
-It posits that people have to deal with three things when they are learning:
+There are different theories of cognitive load, but one by Sweller posits that people have to 
+attend to three types of things when they are learning:
 
-*   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
-*   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
-    (which is one of the things that distinguishes learning from memorization).
-*   *Extraneous* load is everything else that distracts or gets in the way.
+*   Things they have to think about in order to *perform a task* ("intrinsic load").
+*   Mental effort required to *connect the task* to new and old information ("germane load").
+*   *Distractions* and other mental effort not directly related to performing or learning from the task ("extraneous load").
 
-Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning. One
-way to do this is by using *guided practice*: we set up a structure in which learners can
-apply their skills with direction and get feedback on their progress.
+Cognitive load is not always a bad thing! There is plenty of evidence that *some* difficulty is desirable 
+and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular 
+attention to extraneous load, can help prevent *cognitive overload* from impeding learning altogether. 
 
-> ## Why We Do not Use Minimal Guidance
+One way to manage cognitive load as tasks become more complex is by using *guided practice*: 
+creating a structure in which learners can
+apply their skills in stepped, precisely targeted ways and get feedback on their progress before 
+transferring their attention to a different element to be learned.
+
+> ## Is This "Hand Holding?"
 >
 > An alternative to guided practice is a *minimal guidance* approach, where
 > learners are given raw materials (for example a text or reference) and
 > asked to explore and learn to solve problems on their own.
-> Minimal guidance practice comes from another teaching strategy
+> Minimal guidance is commonly found in many instructional strategies you may have encountered, 
 > variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
 > or *inquiry-based* learning.
 >
-> You may have heard of some of these strategies, and they are not without
-> merit! But they frequently fall flat. Cognitive load theory, introduced by [Kirshner et al.][kirschner-paper] 
-> in response to the popularity and uneven success of these approaches, applies what we know about
-> human cognitive architecture to understand why minimal guidance often fails.
+> These strategies are not without merit! But they frequently fall flat. 
+> A landmark paper by [Kirshner et al.][kirschner-paper] 
+> responds to the popularity and uneven success of minimal guidance, applying 
+> cognitive load theory to understand why these strategies often fail.
 >
+> Some people feel concerned that guided practice amounts to "hand-holding," 
+> implying that learners who receive support may never learn 
+> to function independently. This view fails to account for the *additional cognitive 
+> load* experienced by novices creating new connections while learning a task. 
 > Minimally-guided instruction requires learners to simultaneously
 > master a domain's factual content
-> and its search and problem-solving strategies.
-> Fostering creativity and independence is intuitively appealing,
+> and its search and problem-solving strategies. Fostering creativity and independence takes time.
+> Minimal guidance is intuitively appealing,
 > but that does not mean it works.
 {: .callout}
 
-In the framework of cognitive load, some additional predictions can be made.
-
-One example is work by Mayer and colleagues on
-the *[split-attention effect][wikipedia-split-attention]*.
-Linguistic and visual input are processed by different parts of the human brain,
-and linguistic and visual memories are stored separately as well.
-This means that correlating different linguistic, auditory, and visual
-streams of information takes cognitive effort:
-when someone reads one thing while hearing something else spoken aloud,
-their brain cannot help but check that it is getting the same information on both channels.
-Discrepancies between these channels increase cognitive load and decrease learning.
-Learning is therefore more effective when information that is being presented simultaneously
-in two different channels is redundant, rather than different.
-
-For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
 
 ## Guided Practice at Work
 
@@ -320,6 +310,22 @@ concept in your concept map.
 >>
 >{: .solution}
 {: .challenge}
+
+In the framework of cognitive load, some additional predictions can be made.
+
+One example is work by Mayer and colleagues on
+the *[split-attention effect][wikipedia-split-attention]*.
+Linguistic and visual input are processed by different parts of the human brain,
+and linguistic and visual memories are stored separately as well.
+This means that correlating different linguistic, auditory, and visual
+streams of information takes cognitive effort:
+when someone reads one thing while hearing something else spoken aloud,
+their brain cannot help but check that it is getting the same information on both channels.
+Discrepancies between these channels increase cognitive load and decrease learning.
+Learning is therefore more effective when information that is being presented simultaneously
+in two different channels is redundant, rather than different.
+
+For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
 
 ## Summary
 The process of learning is constrained by the limits of short-term memory. In order to move
