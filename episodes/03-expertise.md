@@ -4,8 +4,8 @@ block: "How Learning Works"
 teaching: 15
 exercises: 30
 questions:
-- "What type of instructor is best for novices?"
-- "How are we (as instructors) different from our learners and how does this impact our teaching?"  
+- "What type of Instructor is best for novices?"
+- "How are we (as Instructors) different from our learners and how does this impact our teaching?"  
 objectives:
 - "Explain what differentiates an expert from a competent practitioner." 
 - "Describe at least two examples of how expertise can help and hinder effective teaching."
@@ -38,32 +38,28 @@ have mental models that work well enough for most situations.
 How are experts different from both of these groups?
 
 > ## What Is An Expert?  
->
-> 1. Name someone that you think is an expert (does not matter what they are
-> an expert in).  As an expert, what makes them special or different from
-> other people?  
-> OR
-> 2. What is something that you are an expert in?  How does your experience
+> What is something that you are an expert in?  How does your experience
 > when you are acting as an expert differ from when you are not an expert?  
 >
 > This discussion should take about 5 minutes.
 {: .challenge}
 
-The answer is not that experts know more facts (although they almost always do have a lot of knowledge):
-competent practitioners can memorize a lot of information
-without any noticeable improvement to their performance.  The answer is
-rather that experts have more connections among pieces of knowledge;
+Off-hand, some might simplify the notion of an "expert" as someone who simply knows more facts,
+but in reviewing the answers to the question above you will find that the expert 
+experience amounts to much more than that. Indeed, experts are often unaware of many of 
+the "facts" that they actually know. But you cannot construct expertise on facts alone.
+Competent practitioners can memorize a lot of information
+without any noticeable improvement to their performance. So, what makes an expert? The answer is
+rather that experts have **more connections among pieces of knowledge**;
 more "short-cuts", if you will.  
 
-One way to illustrate this is to model
-storing knowledge as a graph
-in which facts are nodes and relationships are arcs.
-(This is emphatically *not* how our brains work,
-but it is a useful metaphor.)
+![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
+
+This brings us back to our mental model diagrams,
+where facts are nodes and relationships are arcs.
 The key difference between experts and competent practitioners
 is that experts have many more connections among concepts.
-Their mental models are much more densely connected. Therefore
-experts can
+This allows experts to:
 
 * see connections between two topics or ideas that no one else can see
 * see a single problem in several different ways
@@ -76,50 +72,38 @@ the expert can go from A to E in a single step ("A therefore E").
 
 We will expand on some of these below and how they can manifest in the way you teach.
 
-> ## Connections and Mental Models
->
-> The graph model of knowledge explains why
-> helping learners make connections is as important as introducing them to facts.
-> The more connections a fact has to other facts,
-> the more likely the fact is to be remembered.  This builds on our earlier idea
-> of mental models - a mental model is (in part) a set of connections or relationships
-> among facts or concepts.
-{: .callout}
-
 ## Expertise and Teaching
 
 Because your learners' mental models will likely be less densely connected than your own,
 a conclusion that seems obvious to you will not seem that way to your learners.  It is important
 to explain what you are doing step-by-step, and how each step leads to the next one.
 
-Another feature of expertise that has important consequences for teaching is the
-ability of experts to make use of *fluid representations*. Two ways of thinking about a problem
-will seem interchangable to an expert, but will not seem that way to a novice. For example,
-someone with experience using the bash shell will be able to change back and forth between absolute and
-relative paths with no difficulty and in fact may not even notice they are doing so. A novice learner,
-however, would be confused by this unexplained use of two different ways of representing a concept.
+Just as experts may have many ways of solving a single problem at their disposal, they may 
+also have many ways of *representing* concepts that they use interchangeably. One example of this 
+is the use of synonyms, or words that are often used interchangeably. If you worked in the same building
+as something called a "delicatessen", you might invite a friend to meet you at "the deli" or simply at
+"the restaurant" and expect them to know what you mean. Yet, a novice in English might hesitate, 
+wondering if they have found the right place. 
 
-> ## More Examples of Fluid Representations
->
-> - Programming: Referring to an R object like `abcde` as both "character vectors" and "strings".
-> - Programming: Switching among `df[,1]`, `df[,'foo']`, and `df$foo` notation when talking about columns in a data.frame.
-> - Biology: Switching between common species names and Latin names (e.g. "mouse" vs "*Mus musculus*").
-> - Biology: Using both three letter and one letter amino acid codes interchangeably (e.g. Lys = K = Lysine).
-> - Chemistry: Switching between "Reference material" and "Standard"
-> - Mathematics: Thinking of things algebraically vs geometrically.
-> - Navigation: Switching among different routes between two locations.
-{: .callout}
+Interchangeability can extend beyond vocabulary as well. In programming, multiple forms of notation may be 
+effective in referencing a column in a data frame, for example. Another example is absolute and relative 
+file paths. In mathematics, a single problem may be 
+conceptualized algebraically or geometrically. In biology, animals may be grouped by genetic or 
+morphological similarities. 
 
-> ## Fluid Representations  
+What these cases have in common is that experts may transition between them without thinking, while 
+novices may struggle to understand the application of what is, to them, a new term or concept. 
+
+
+> ## Mind The Gaps: What representations might you use interchangeably?
 >
-> In the Etherpad, give at least one example of a fluid representation that you use in your
-> own work. If you can, also give an example of a fluid representation that might occur in a
-> Carpentry lesson.
+> In the Etherpad, give at least one example of 2+ words or other representations that you sometimes use interchangeably.
+> If possible, try to think of an(other) example that might apply in a Carpentries workshop.
 >
 > Building awareness of how you can represent the same concept in multiple different ways
 > will help you avoid doing so without explanation while teaching.
 >
-> This discussion should take about 5 minutes.  
+> This exercise should take about 5 minutes.  
 {: .challenge}
 
 Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an
