@@ -216,8 +216,8 @@ serious hazards in the classroom! Here are a few **things you should not do in y
 *   **Use the J word ("just") or other demotivating words** we talked about in a
     [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
     the instructor thinks their problem is trivial
-    and by extension that they therefore must be stupid
-    for not being able to figure it out.
+    and by extension that they therefore must be deficient
+    if they are not able to figure it out.
 *   **Take over the learner's keyboard**. It is rarely a good idea to type anything for your learners.
     Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
     that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
