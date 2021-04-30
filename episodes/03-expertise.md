@@ -1,8 +1,8 @@
 ---
 title: "Expertise and Instruction"
 block: "How Learning Works"
-teaching: 15
-exercises: 30
+teaching: 20
+exercises: 25
 questions:
 - "Does subject expertise make someone a great teacher?"
 - "How are we (as Instructors) different from our learners and how does this impact our teaching?"  
@@ -44,11 +44,11 @@ How are experts different from both of these groups?
 > This discussion should take about 5 minutes.
 {: .challenge}
 
-It can be tempting to simplify the notion of an "expert" as someone who simply knows more facts,
-but in reviewing the answers to the question above you will find that the expert 
-experience amounts to much more than that. While experts certainly know more, you cannot construct expertise on facts alone.
+In reviewing the answers to the question above you will find that the expert 
+experience amounts to much more than just knowing more facts. 
 Competent practitioners can memorize a lot of information
-without any noticeable improvement to their performance. So, what makes an expert? The answer is that 
+without any noticeable improvement to their performance. 
+So, what makes an expert? The answer is that 
 experts have **more connections among pieces of knowledge** that help them think and problem-solve quickly;
 more "short-cuts", if you will.  
 
@@ -122,6 +122,8 @@ be more likely to meet novice learners where they are.
 > thinking about it?  
 > 2. Think about the area of expertise you identified for yourself earlier.  What could a
 > potential awareness gap be?   
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 ### Bait and Switch
@@ -151,7 +153,7 @@ elsewhere without noticing that explanation is required.
 > Building awareness of how you can represent the same concept in multiple different ways
 > will help you avoid doing so without explanation while teaching.
 >
-> This exercise should take about 5 minutes.  
+> This exercise should take about 5 minutes. 
 {: .challenge}
 
 ### What Problem?
@@ -162,13 +164,13 @@ before a novice has even finished reading the error message. Because of this, it
 while teaching to be explicit about the process you are using to engage with errors, even if they
 seem trivial to you, as they often will.
 
-> ## Diagnosis  (Optional)
+> ## Diagnosis 
 >
 > What is an error message that you encounter frequently in your work? (These are often syntax errors.)
 > Take a few minutes to plan out how you would explain that error message to your learners. Write the
 > error and your explanation in the Etherpad.
 >
-> This discussion should take about 5 minutes.  
+> This discussion should take about 5 minutes. (Optionally, this may be discussed in group breakouts, adding 5 minutes.)
 {: .challenge}
 
 
