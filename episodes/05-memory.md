@@ -9,12 +9,12 @@ questions:
 objectives:
 - "Remember the quantitative limit of human memory." 
 - "Distinguish desirable from undesirable cognitive load." 
-- "Identify when cognitive load is likely to limit learning."
+- "Evaluate cognitive load associated with a learning task."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
-- "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
-- "Use formative assessments to avoid overloading short-term memory."
+- "Cognitive load should be managed through guided practice to facilitate learning and prevent overload."
+- "Formative assessments can help to consolidate learning in long-term memory."
 ---
 
 In our final topic in how people learn (and therefore, how we can be more
@@ -49,12 +49,14 @@ the material as well as if we present small amounts of information interspersed 
 practice opportunities. This is yet another reason why going slowly and using
 frequent formative assessment is important.
 
-> ## Test Your Working Memory (5 min)
+> ## Test Your Working Memory
 >
 > [This website][memory-test] implements a short test of working memory.  
 >
-> Take 5 minutes to complete the exercise. What was your score? Write your answer
+> What was your score? Write your answer
 > in the Etherpad.
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Test Your Working Memory - Analog version (5 min)
@@ -80,10 +82,10 @@ are almost invariably deploying a *memory management strategy*.
 
 Because short-term memory is limited, we can support learners by not flooding their
 short term memory with too many separate pieces of information. Does this mean we should 
-teach fewer concepts? Well, yes, but this is not the only tool in our toolbox. 
+teach fewer concepts? Yes! However, this is not the only tool in our toolbox. 
 We can also assist by providing strategies
 and exercises to help them form the connections that will a) support them in holding more 
-things in short-term memory at once and b) begin to move some concepts into
+things in short-term memory at once and b) begin to *consolidate* some concepts, moving them into
 long-term memory.
 
 ### Chunking
@@ -102,34 +104,40 @@ rather than as five separate pieces of information.
 >
 > Write the number of words you remembered in the Etherpad.
 > How does this compare with your first attempt?
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
-Storing words in groups reduces the number of effective
+Associating concepts 
+reduces the number of effective
 items in your short-term memory, allowing you to keep
 more information in your head at once. 
+
+You may have come across other mnemonic strategies, including some that rely on imagining a 
+"place" association for each item, e.g. a "memory palace." While slightly different from 
+chunking, this is another example of how 
+*connecting* information can make it easier to remember.
 
 ### Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding
 and begin transferring ideas into long-term memory. The limitations of short-term 
-memory are one reason why assessments should be frequent: to help learners engage 
-with new concepts *before their short-term memory fills up* and starts ejecting things. 
+memory are one reason why assessments should be frequent: short-term memory is limited not only in 
+space, but also in time. As items begin to be consolidated into long-term memory, they also 
+become more consistently accessible for application during the workshop.
 
 Formative assessment will help learners to retain new information. However, it also sometimes 
-asks them to integrate things they may have learned more than 7±2 ideas ago. The fact that a concept 
+asks them to integrate things they may have already forgotten. The fact that a concept 
 was previously taught at a workshop does not mean that it will automatically be available for 
-use once its short-term memory window has expired. Be sure to remind learners of prior concepts 
-essential to a task before 
-asking them to rely upon it. 
+use once its (very brief!) short-term memory window has expired. Be sure to remind learners of prior concepts 
+essential to a task. 
 
 ### Limit concepts
 
 In the same vein as "going slowly," it is important to limit the number of
 concepts introduced in a lesson. This can be hard! As you are reviewing a lesson 
 to teach, you will doubtless come across related concepts that are very useful, and 
-you may feel strongly motivated to sneak them in. Keep in mind, however, that 
-no matter how many exercises you do, *you 
-cannot overcome the limits of short-term memory in a short-format workshop*. 
+you may feel strongly motivated to sneak them in. 
 Planning your lesson with a concept map can help you 
 not only identify key concepts and relationships, but also to notice when you are trying to 
 teach too many things at once. 
@@ -144,9 +152,9 @@ the theory of *[cognitive load][wikipedia-cognitive-load]*.
 There are different theories of cognitive load, but one by Sweller posits that people have to 
 attend to three types of things when they are learning:
 
-*   Things they have to think about in order to *perform a task* ("intrinsic load").
-*   Mental effort required to *connect the task* to new and old information ("germane load").
-*   *Distractions* and other mental effort not directly related to performing or learning from the task ("extraneous load").
+*   Things they have to think about in order to *perform a task* ("intrinsic").
+*   Mental effort required to *connect the task* to new and old information ("germane").
+*   *Distractions* and other mental effort not directly related to performing or learning from the task ("extraneous").
 
 Cognitive load is not always a bad thing! There is plenty of evidence that *some* difficulty is desirable 
 and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular 
@@ -192,7 +200,7 @@ transferring their attention to a different element to be learned.
 > 
 > With a partner or in small groups, discuss what you have found. 
 > 
-> This exercise should take about 10 minutes.
+> This exercise should take about 15 minutes.
 {: .challenge}
 
 
@@ -214,9 +222,9 @@ attention, and learning.
 
 ### Creating Exercises
 
-
 There are
-many different types of exercises that implement guided practice; 
+many different types of exercises that are compatible with guided practice. Carefully targeted multiple 
+choice questions can play this role. A few more that you may wish to consider are:
 * Faded examples: fill-in-the-blank programming blocks
 * Parson's Problems: out-of-order code sorting challenges
 * Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
@@ -226,12 +234,13 @@ For more on computational exercises, see this [blog post by Greg Wilson][GW-exer
 ### Group Work
 
 During the process of participatory live coding, you can pause briefly for learners to accomplish small tasks, 
-or you may occasionally reserve a few of them to be worked in small groups. The former is better 
+or you may occasionally reserve a few of them, or create an additional longer exercise, to be worked in small groups. The former is better 
 for minimizing cognitive load; the latter adds the benefit of *elaboration* to the process. 
 
 Elaboration, or explaining your work, has demonstrated benefits for learning and supports transfer 
-to long-term memory. Group work can feel uncomfortable at first and consumes time in a 
-workshop, but learners generally rate group work as a high point for enjoyment and learning in a workshop. 
+to long-term memory. This is one reason why *teaching* is one of the most effective ways to learn! 
+Group work can feel uncomfortable at first and consumes time in a 
+workshop, but learners often rate group work as a high point for enjoyment and learning in a workshop. 
 This is also a great opportunity for helpers 
 to circulate and address lingering questions or engage with more advanced discussions.
 
@@ -242,22 +251,26 @@ method smoothly can take practice.
 
 ### What to Display
 
-In the framework of cognitive load, some additional predictions can be made.
+The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps 
+any of the Instructor Training curriculum during your time as a learner in this workshop. In most situations **we do not recommend 
+displaying Carpentries curriculum materials** to your learners while you teach. 
 
-One example is work by Mayer and colleagues on
-the *[split-attention effect][wikipedia-split-attention]*.
-Linguistic and visual input are processed by different parts of the human brain,
-and linguistic and visual memories are stored separately as well.
-This means that correlating different linguistic, auditory, and visual
-streams of information takes cognitive effort:
-when someone reads one thing while hearing something else spoken aloud,
-their brain cannot help but check that it is getting the same information on both channels.
-Discrepancies between these channels increase cognitive load and decrease learning.
-Learning is therefore more effective when information that is being presented simultaneously
-in two different channels is redundant, rather than different.
+The visual environment in a workshop should be focused on exactly what you are teaching and should mirror, 
+as closely as possible, exactly what you say. 
+This is because keeping track of distracting and contradictory sensory information adds to cognitive load. 
+The *[split-attention effect][wikipedia-split-attention]* describes the cognitive effort involved with 
+trying to assemble information from different modalities. Learning is most effective when visual 
+displays, text, and auditory information presented together
+are the same, with minimal distractions. 
 
-For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
+For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen** 
+while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
 
+One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands** 
+and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access 
+items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary 
+is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document 
+for reference as needed.
 
 
 ## Summary
