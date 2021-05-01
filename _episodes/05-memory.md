@@ -35,7 +35,7 @@ Our second layer of memory is called *short-term*. This is the
 type of memory you use to actively think about things and is often called working memory. It is much faster, but also much
 smaller: in 1956, George Miller estimated that the average adult's short-term memory could hold
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
-This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
+This is why phone numbers are typically 7 or 8 digits long:
 back when phones had dials instead of keypads,
 that was the longest sequence of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
@@ -182,134 +182,65 @@ transferring their attention to a different element to be learned.
 > but that does not mean it works.
 {: .callout}
 
+> ## Mapping Cognitive Load
+>
+> Look in the curriculum that you chose to prepare for this workshop and focus on one step or task 
+> that learners will be asked to complete. 
+> 1) What concepts will learners need to understand and hold in short-term memory in order to complete this task?
+> 2) Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?
+> 3) How many of these concepts and relationships have been introduced since the previous step or exercise? 
+> 
+> With a partner or in small groups, discuss what you have found. 
+> 
+> This exercise should take about 10 minutes.
+{: .challenge}
+
 
 ## Guided Practice at Work
+Broadly, guided practice means providing structure for learners that asks them to 
+actively engage with practice in manageable increments. This stands in contrast, for 
+example, with a "lecture/lab" type arrangement, in which learners may be expected to apply 
+everything they have learned in a long lecture to implement a complex lab exercise. 
 
-How do we implement guided practice, lessening the burden of extraneous
-cognitive load and allow people to focus on what is important?  There are
-many different types of exercises that implement this guided practice; some
-are listed in this [blog post by Greg Wilson][GW-exercise-post], including
-Parson's Problems and labelling diagrams.
+The Carpentries approach to instruction uses participatory live coding, a technique we will discuss 
+in more detail tomorrow. Carpentries lessons generally contain small tasks arranged incrementally 
+which may be completed together, with interspersed challenges asking learners to accomplish a small number of things 
+based on limited prior knowledge. 
 
-To learn more about a specific guided practice exercise
-called *faded examples*, read on.
+You have many choices in how you use these curriculum materials, including exercises that may be added 
+for practice or formative assessment, decisions to work in groups or pairs, and choices about what to 
+display for learners while they work. We will briefly consider the implications in each case for memory, 
+attention, and learning.
 
-According to cognitive load theory,
-searching for a solution strategy is an extra burden
-on top of applying that strategy.
-We can therefore accelerate learning
-by giving learners worked examples that show them a problem and a detailed step-by-step solution,
-followed by a series of faded examples.
-The first of these presents a nearly-complete use of the same problem-solving strategy
-with a small number of blanks for the learner to fill in.
-The next problem is also of the same type,
-but has more blanks,
-and so on until the learner is asked to solve the entire problem.
+### Creating Exercises
 
-Faded examples work because they introduce the problem-solving strategy piece by piece.
-At each step,
-learners have one new problem to tackle.
-This is less intimidating than a blank screen or a blank sheet of paper.
-It also encourages learners to think about the similarities and differences between various approaches,
-which helps create the linkages in the mental model that instructors want them to form.
 
-For example,
-someone teaching Python might start by explaining this:
+There are
+many different types of exercises that implement guided practice; 
+* Faded examples: fill-in-the-blank programming blocks
+* Parson's Problems: out-of-order code sorting challenges
+* Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
 
-~~~
-def total_length(words):
-    """Returns the total length of all words in a list combined.
+For more on computational exercises, see this [blog post by Greg Wilson][GW-exercise-post].
 
-    Example:
-       total_length(["red", "green", "blue"]) => 12
-    """
-    total = 0
-    for word in words:
-        total += len(word)
-    return total
-~~~
-{: .python}
+### Group Work
 
-then ask learners to fill in the blanks in:
+During the process of participatory live coding, you can pause briefly for learners to accomplish small tasks, 
+or you may occasionally reserve a few of them to be worked in small groups. The former is better 
+for minimizing cognitive load; the latter adds the benefit of *elaboration* to the process. 
 
-~~~
-def word_lengths(words):
-    """Returns a list of lengths of each word in a list.
+Elaboration, or explaining your work, has demonstrated benefits for learning and supports transfer 
+to long-term memory. Group work can feel uncomfortable at first and consumes time in a 
+workshop, but learners generally rate group work as a high point for enjoyment and learning in a workshop. 
+This is also a great opportunity for helpers 
+to circulate and address lingering questions or engage with more advanced discussions.
 
-    Example:
-        word_lengths(["red", "green", "blue"]) => [3, 5, 4]
-    """
-    lengths = ____
-    for word in words:
-        lengths ____
-    return lengths
-~~~
-{: .python}
+At an in-person workshop, a third option is to match participants up for "pair programming," in which one 
+learner (usually the less advanced of the pair) does the typing and the other discusses choices and checks their work. 
+This can add the benefit of elaboration without the time consumption of breakout groups. However, implementing this 
+method smoothly can take practice. 
 
-The next problem might be:
-
-~~~
-def concatenate_all(words):
-    """Combines all words in a list into one.
-
-    Example:
-        concatenate_all(["red", "green", "blue"]) => "redgreenblue"
-    """
-    result = ____
-    for ____ in ____:
-        ____
-    return result
-~~~~
-{: .python}
-
-and learners would finally be asked to tackle:
-
-~~~
-def acronymize(words):
-    """Returns the first letter of each word in a list capitalised in a single string.
-
-    Example:
-        acronymize(["red", "green", "blue"]) => "RGB"
-    """
-    ____
-~~~
-{: .python}
-
-Another situation in which a concept map can be helpful is in deciding where to place the
-blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
-concept in your concept map.
-
-> ## Create a Faded Example from a Lesson (Optional)
->
-> The following exercise should be done in groups of 2-3.
->
-> 1.  Pick a block of code from an existing Carpentries lesson,
->     or from another lesson you have taught recently.
-> 2.  Replace 2-3 pieces of the code with a blank.
-> 3.  Write a question to test the learner's ability to correctly fill in that blank.
-> 5.  Paste your faded example in the Etherpad.
->
-> This exercise should take about 10 minutes.
->
->> ## Solution
->>
->> Your solution to this exercise could look similar to the example
->> given above, or something like this:
->>
->> **Question**  
->> In this example, we will graph the change in life expectancy over time
->> as a line graph, giving each country a unique color and each continent
->> its own unique panel or facet.  
->> What would you add to the blank spaces to create this graph?
->>```
->> ggplot(data = az.countries, aes(x = year, y = lifeExp, color = ________)) +
->>   geom_line() +  facet_wrap( ~ _______)
->>```
->>
->>**Answer** `country` and  `continent`
->>
->{: .solution}
-{: .challenge}
+### What to Display
 
 In the framework of cognitive load, some additional predictions can be made.
 
@@ -326,6 +257,8 @@ Learning is therefore more effective when information that is being presented si
 in two different channels is redundant, rather than different.
 
 For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
+
+
 
 ## Summary
 The process of learning is constrained by the limits of short-term memory. In order to move
@@ -348,5 +281,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
-[phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
 [GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types/
