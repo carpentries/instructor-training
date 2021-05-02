@@ -71,24 +71,28 @@ UDL is not about finding the one, best way to teach everyone. The key to UDL is 
 2. engage, and
 3. share information.  
 
-Activity: Applying Universal Design in Your Teaching
-
-Choose a lesson you are familiar with and think abou how you have taught it or plan to teach it, perhaps drawing upon some of the ideas we have discussed so far in this workshop. What teaching tools and strategies would you use? Would any of these meet UDL goals of providing multiple options for learners? 
-
-Try to come up with one way in which your approach would create multiple ways for learners to:
-- receive information
-- engage with you, the material, and other learners
-- share what they have learned.
-
-Examples
-- receive information
-    - Provide course material in multiple formats (e.g., verbally, visually through live coding, and in a text format such as a Command History or notes document)
-- engage with you, the material, and other learners
-    - Learn about your learners (through pre-workshop surveys, introductions, or feedback) and try to tailor the material you focus on or the examples you use to their needs and interests
-    - Offer multiple ways to interact (e.g., collaborative notetaking document, breakout groups)
-- share what they have learned.
-    - Create many opportunities for learners to provide feedback (e.g., challenge exercises, sticky notes)
-{.challenge}
+> ## Activity: Applying Universal Design in Your Teaching
+> 
+> Consider some of the teaching tools strategies we have discussed so far in this workshop, or others you have observed in your experience. 
+> Would any of these meet UDL goals of providing multiple options for learners? 
+> 
+> Consider multiple ways for learners to:
+> - receive information
+> - engage with you, the material, and other learners
+> - share what they have learned
+> 
+> This exercise should take about 5 minutes.
+> 
+> >> ## Examples
+>>- receive information
+>>  - Provide course material in multiple formats (e.g., verbally, visually through live coding, and in a text format such as a Command History or notes document)
+>> - engage with you, the material, and other learners
+>>   - Learn about your learners (through pre-workshop surveys, introductions, or feedback) and try to tailor the material you focus on or the examples you use to their needs and interests
+>>   - Offer multiple ways to interact (e.g., collaborative notetaking document, breakout groups)
+>> - share what they have learned.
+>>   - Create many opportunities for learners to provide feedback (e.g., challenge exercises, sticky notes)
+> {: .solution}
+{: .challenge}
  
 > ## Learning about Accessibility
 >
