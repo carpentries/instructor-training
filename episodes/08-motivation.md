@@ -2,7 +2,7 @@
 title: "Motivation and Demotivation"
 block: "Creating a Positive Learning Environment"
 teaching: 30
-exercises: 45
+exercises: 30
 questions:
 - "Why is motivation important?"
 - "How can we create a motivating environment for learners?"
@@ -73,7 +73,7 @@ motivating.
 > In the class Etherpad, **share** the task and where it fits on the graph.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
-> This exercise and discussion should take about 10 minutes.
+> This exercise should take about 10 minutes.
 {: .challenge}
 
 > ## Actual Time
@@ -153,7 +153,7 @@ often the 'first responders' to learner mistakes.
 >
 > In the Etherpad, describe the error your learner has made and how you would respond.
 >
-> This exercise and discussion should take about 5 minutes.
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 
@@ -183,6 +183,8 @@ are not convinced of this, consider the impact on the person sitting next to you
 > - Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
 > - That was a hard problem. You didn't get the right answer, but look at what you learned trying to solve it!
 > - Look at that - you're a natural!
+> 
+> This exercise should take about 5 minutes.
 >
 >> ## Solution
 >> - Effort-based.
