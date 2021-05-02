@@ -142,7 +142,28 @@ Planning your lesson with a concept map can help you
 not only identify key concepts and relationships, but also to notice when you are trying to 
 teach too many things at once. 
 
-## Why Guided Practice is Important
+### Group Work
+
+_Elaboration_, or explaining your work, supports transfer 
+to long-term memory. This is one reason why *teaching* is one of the most effective ways to learn! 
+Group work can feel uncomfortable at first and consumes time in a workshop, but 
+learners often rate group work as a high point for both enjoyment and learning in a workshop. 
+This is also a great opportunity for helpers 
+to circulate and address lingering questions or engage with more advanced discussions.
+
+### Opportunities for Reflection
+
+Reflection is another tool that can help learners review things they have 
+learned, strengthen connections between them, and consolidate long-term memories. Like 
+formative assessment, asking 
+learners for feedback can double as both a source of information and an effective consolidating 
+prompt, as providing feedback demands some reflection on what has been learned. We will talk 
+more about methods for this in the next section. You may also wish to pause 
+and allow learners to write summary notes for themselves or otherwise ask them to review 
+what they have learned at various points in the workshop.
+
+
+## Attention is a Limited Resource
 
 Memory is not the only cognitive resource that is limited. Attention is constrained as well. 
 While many people believe that they can "multi-task," the reality is that attention can 
@@ -165,7 +186,7 @@ creating a structure in which learners can
 apply their skills in stepped, precisely targeted ways and get feedback on their progress before 
 transferring their attention to a different element to be learned.
 
-> ## Is This "Hand Holding?"
+> ## Is Guided Practice "Hand Holding?"
 >
 > An alternative to guided practice is a *minimal guidance* approach, where
 > learners are given raw materials (for example a text or reference) and
@@ -204,7 +225,7 @@ transferring their attention to a different element to be learned.
 {: .challenge}
 
 
-## Guided Practice at Work
+## Attention Management in Your Workshop
 Broadly, guided practice means providing structure for learners that asks them to 
 actively engage with practice in manageable increments. This stands in contrast, for 
 example, with a "lecture/lab" type arrangement, in which learners may be expected to apply 
@@ -230,24 +251,6 @@ choice questions can play this role. A few more that you may wish to consider ar
 * Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
 
 For more on computational exercises, see this [blog post by Greg Wilson][GW-exercise-post].
-
-### Group Work
-
-During the process of participatory live coding, you can pause briefly for learners to accomplish small tasks, 
-or you may occasionally reserve a few of them, or create an additional longer exercise, to be worked in small groups. The former is better 
-for minimizing cognitive load; the latter adds the benefit of *elaboration* to the process. 
-
-Elaboration, or explaining your work, has demonstrated benefits for learning and supports transfer 
-to long-term memory. This is one reason why *teaching* is one of the most effective ways to learn! 
-Group work can feel uncomfortable at first and consumes time in a 
-workshop, but learners often rate group work as a high point for enjoyment and learning in a workshop. 
-This is also a great opportunity for helpers 
-to circulate and address lingering questions or engage with more advanced discussions.
-
-At an in-person workshop, a third option is to match participants up for "pair programming," in which one 
-learner (usually the less advanced of the pair) does the typing and the other discusses choices and checks their work. 
-This can add the benefit of elaboration without the time consumption of breakout groups. However, implementing this 
-method smoothly can take practice. 
 
 ### What to Display
 
