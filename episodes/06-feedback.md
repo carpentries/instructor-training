@@ -42,7 +42,7 @@ all the questions, you can preview them in a text-format below:
 
 > ## Survey links
 >
-> The survey links above are just for you to preview the survey as part of
+> The survey links above are only for you to preview the survey as part of
 > Instructor Training. When you are teaching a workshop, make sure to share the
 > links that gets generated on your workshop website. Doing so will ensure that
 > you will receive all the survey results from your workshop participants.
@@ -54,8 +54,9 @@ all the questions, you can preview them in a text-format below:
 > while they are still at the workshop than they are after they leave the venue. At the end 
 > of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
-> post-workshop survey at the end of your workshop. You will be helping them (they get a
-> bit of a rest), yourself (you will get more useful feedback), and The Carpentries.
+> post-workshop survey at the end of your workshop. You will be helping them (with an
+> opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries 
+> (we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
 {: .callout}
 
 ## Minute Cards
