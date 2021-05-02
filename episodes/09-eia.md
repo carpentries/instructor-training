@@ -81,7 +81,7 @@ UDL is not about finding the one, best way to teach everyone. The key to UDL is 
 > - engage with you, the material, and other learners
 > - share what they have learned
 > 
-> This exercise should take about 5 minutes.
+> This exercise should take about 10 minutes.
 > 
 > >> ## Examples
 >>- receive information
@@ -205,10 +205,10 @@ Stereotypes can demotivate learners in at least two ways:
 ## What can we do about these stereotypes?
 - Get to know people from many different groups!
 - Build awareness of situations in which your perceptions and behaviors are influenced by your own stereotypes
-- Do not call attention to common stereotypes (that might activate stereotype threat (maybe we can link to our current stereotype threat content, but just as fyi) 
+- Do not call attention to common stereotypes 
 
 
-> ## Never Learn Alone
+> ## Better Together
 >
 > One way to support at-risk learners of all kinds is to ask people to sign up for workshops in small teams
 > rather than as individuals when possible.
