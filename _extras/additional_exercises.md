@@ -11,6 +11,25 @@ title: "Additional Exercises"
 > and how to get learners to confront it.
 {: .challenge}
 
+## Episode 9: Equity, Inclusion, and Accessibility
+
+ 
+> ## Learning about Accessibility
+>
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a
+> set of posters of "dos and don'ts" for making visual and web-based materials more accessible for
+> different populations. Take a look at one of
+> [these posters](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf) and put one thing you
+> have learned in the Etherpad.
+>
+> Note: There is an [HTML version](https://ukhomeoffice.github.io/accessibility-posters/) in English which may perform better 
+> with screen readers. There are also [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)
+> available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
+> Chinese. 
+>
+> This exercise should take about 5 minutes.
+{: .challenge}
+
 ## Episode 11: Teaching is a Skill
 
 > ## Feedback on Feedback (Optional)
