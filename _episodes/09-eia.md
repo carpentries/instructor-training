@@ -16,15 +16,14 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-### Inclusivity
+### Inclusivity is a Core Value
 
 **Inclusivity** is a policy of including people who might otherwise be excluded or marginalized.
 A learning environment may be positive for some yet still be experienced as exclusive or marginalizing for others. Inclusivity is at the heart 
 of [The Carpentries Core Values](https://carpentries.org/values/) -- we hope that this is a passion you share! In this section we will 
 discuss the challenges, opportunities, and continuing effort involved in making your workshop a positive experience for all.
 
-
-### Accessibility Issues
+### Accessibility
 
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely. When it comes to accessibility, inclusivity 
 means taking the time to give some thought to accessibility. What barriers might be present in your workshop, and what can you do to remove them?
@@ -44,29 +43,41 @@ spectrum of vision and hearing challenges that your learners may not be prepared
 {: .challenge}
 
 
-While it may not be possible to accommodate everyone's needs,
+While it may not be possible to anticipate all needs,
 it *is* possible to get a good working structure in place
 without any knowledge of what specific disabilities people might have.
-Having at least some accommodations prepared also makes it clear that
-hosts and instructors care enough to have thought about problems in advance,
-and that any additional concerns are likely to be addressed.
+Having some accommodations prepared also demonstrates care, helping 
+learners to trust that additional requests are likely to be well received.
 
-If you are in charge of advance communication with learners for your workshop, note that our [host template](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) includes an inquiry regarding accessibility needs. However, be aware that many people will not feel comfortable requesting accommodations in advance, or at all if it can be avoided.
-For example, a participant with minor hearing loss may simply hope that the workshop will be adequately amplified or captioned for them to get by. Taking steps to make your workshop maximally accessible can relieve your participants of the need to disclose personal information.
+If you are playing the host role (or part of it), note that our [host template](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop)
+includes an inquiry regarding accessibility needs. However, be aware that **many 
+people will not feel comfortable requesting accommodations in advance**, or at all if it can be avoided.
+For example, a participant with minor hearing loss may simply hope that
+the workshop will be loud enough for them to get by. Taking steps to make 
+your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
 # From Accomodation to Universal Design 
+Accomodation means changing things to serve an individual with a demonstrated need. 
+However, **accomodation puts the onus on the indvidual with the need** to 
+have to disclose their disability and ask for accomodations. Reluctance to 
+do so is understandable: requests for accomodation are often met with negative 
+emotions such as uncertainity, confusion, annoyance or anger by those receiving the requests.  
 
-Accomodation means making a change to an existing system in order to serve an individual with a demonstrated need. Think of a student asking a professor for more time to take an exam because of a learning disability. However, accomodation puts the onus on the indvidual with the need to have to disclose their disability and ask for accomodations. Research suggests that requests for accomodation are often met with negative emotions such as uncertainity, confusion, annoyance or anger by those making the accomodations.  
-
-By contrast, universal design is "the design of products, environments, and communication to be usable by all people, to the greatest extent possible, without adaptation or specialized design" (Institute for Human Centered Design, 2016). A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/Curb_cut) and sidewalk ramps. While they were originally created to make it easier for wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
+By contrast, "universal design" means creating something to be maximally usable by all people 
+without additional changes. 
+A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/Curb_cut) 
+and sidewalk ramps. While they were originally created to make it easier for 
+wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
 
 ## Universal Design in Learning (UDL)
 
-In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design into Education with the Universal Design in Learning (UDL) Framework. 
+In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design 
+into Education with the Universal Design in Learning (UDL) Framework. 
+UDL places responsibility for accessibility on the course rather than on the learner. 
+It states that the most inclusive approach to education is to design instruction with diverse learners in mind from the beginning.
 
-UDL argues for putting the accessibility responsibility on the curriculum rather than on the learner. It states that the most inclusive approach to education is to design curriculum with diverse learners in mind from the beginning.
-
-UDL is not about finding the one, best way to teach everyone. The key to UDL is creating redundancies such that learners have multiple options in how they: 
+UDL is not about finding the one, best way to teach everyone. 
+The key to UDL is creating redundancies such that learners have multiple options in how they: 
 1. receive
 2. engage, and
 3. share information.  
@@ -83,79 +94,36 @@ UDL is not about finding the one, best way to teach everyone. The key to UDL is 
 > 
 > This exercise should take about 10 minutes.
 > 
-> >> ## Examples
->>- receive information
->>  - Provide course material in multiple formats (e.g., verbally, visually through live coding, and in a text format such as a Command History or notes document)
->> - engage with you, the material, and other learners
->>   - Learn about your learners (through pre-workshop surveys, introductions, or feedback) and try to tailor the material you focus on or the examples you use to their needs and interests
->>   - Offer multiple ways to interact (e.g., collaborative notetaking document, breakout groups)
->> - share what they have learned.
->>   - Create many opportunities for learners to provide feedback (e.g., challenge exercises, sticky notes)
 > {: .solution}
 {: .challenge}
- 
-> ## Learning about Accessibility
->
-> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a
-> set of posters of dos and do nots for making visual and web-based materials more accessible for
-> different populations. Take a look at one of
-> [these posters](https://ukhomeoffice.github.io/accessibility-posters/) and put one thing you
-> have learned in the Etherpad.
->
-> Note: There are [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)
-> available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
-> Chinese.
->
-> This exercise should take about 5 minutes.
-{: .challenge}
 
-> ## Accessibility and PDFs
->
-> The posters above are available in both HTML and PDF formats. We might have linked directly to
-> the PDF version of the posters, however PDF files can sometimes be inaccessible to people who
-> use screen readers and so we have linked to the HTML version. The UK Home Office
-> [GitHub repository](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_en-UK)
-> also provides the English versions of the posters in DOCX and SVG format.
-{: .callout}
 
-The [W3C Accessibility Initiative's checklist for presentations][w3c-accessible]
-is a good starting point focused primarily on assisting the visually impaired,
-while Liz Henry's blog post about
-[accessibility at conferences][conference-accessibility]
-has a good checklist for people with mobility issues,
-and this [interview with Chad Taylor][deaf-accessibility]
-is a good introduction to issues faced by those with no or limited hearing.
-
-The second is to know how well you're doing.
-For example,
-sites like [WebAIM][webaim] allow you to check
-how accessible your online materials are to users with no or limited vision.
-
-The third,
-and most important,
-is to *involve people with disabilities in decision-making*.
-Our mailing lists are a good place to ask for advice,
-and updates to [our accessibility checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility)
-are always welcome.
+Wherever possible, when considering whether or how to change your approach to universal design, 
+make an effort to *involve people with disabilities in decision-making*.
+Carpentries communications channels can be a good place to ask for advice more broadly.
 
 
 > ## Every Little Bit Counts
 >
 > Looking at people who work with disability and accessibility, it's
 > easy to be overwhelmed by all the different ways we could make
-> instruction more accessible.  *Don't panic.*  Instead:
+> instruction more accessible. 
 >
-> *   *Don't do everything at once.*
->     We don't ask learners in our workshops to adopt all our best practices or tools in one go,
->     but instead to work things in gradually at whatever rate they can manage.
+> *   *It is ok not to do everything at once.*
+>     We do not ask learners in our workshops to adopt all our best practices or tools in one go,
+>     but instead to add things gradually at a rate they can manage.
 >     Similarly, try to build in accessibility habits when preparing for workshops
->     by adding something new each time.
+>     through reflective practice, adding something new each time.
 > *   *Do the easy things first.*
 >     There are plenty of ways to make workshops more accessible
->     that are both easy and don't create extra cognitive load for anyone:
->     font choices, general text size,
+>     that are both quick to accomplish and minimal in demands on attention:
+>     font choices, text size,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
+
+For a short checklist of things to keep in mind for in-person workshop locations, see [the accessibility checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility) 
+in The Carpentries Handbook. If anything seems to be missing, contributions are welcome!
+
 
 > ## Accessibility Testing
 >
