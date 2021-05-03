@@ -140,41 +140,46 @@ in The Carpentries Handbook. If anything seems to be missing, contributions are 
 
 ## Systemic Exclusion
 
-As instructors, we can learn to avoid talking disparagingly about our learners' choice
-of text editors and levels of technical knowledge. There are other factors, however, introduced by systemic forces 
-beyond our control, that can contribute to demotivation and add to cogitive load. What we can control, in this case
-is our own awareness of the challenges these forces present to learners. As with other demotivation pitfalls, we can also
-think carefully about the language that we use and how we interact with our learners to avoid triggering or reinforcing systemic bias.
+As Instructors, there are many aspects of our classroom environment that are within our control. 
+However, the world is a complicated place, and there will always be extraneous factors that 
+contribute to demotivation and add to cogitive load. These vary from person to person, but 
+members of some demographic groups often carry a heavier load due to systemic forces that disproportionately 
+impact certain groups. What we can control, in this case is our own awareness of the challenges these forces 
+present to teaching and learning. As with other demotivation pitfalls, we can also
+think carefully about the language that we use and how we interact with our learners to avoid reinforcing systemic bias.
 
 # Stereotypes
 
-We all use stereotypes, and for good reason. They serve a cognitive purpose. One study suggests we encounter more than 34 gigabytes of information everyday. That is more information than we could ever process, so our brains' use shortcuts. Stereotypes are one of those shortcuts.  
+We all use stereotypes, and for good reason. They serve a cognitive purpose. 
+One study suggests we encounter more than 34 gigabytes of information everyday. 
+That is more information than we could ever process, so our brains' use shortcuts. 
+What an expert thing to do! Stereotypes are one of those shortcuts. As with other models 
+they are all wrong... but some are dangerous.
 
 ## What are stereotypes?
-They:
-- are an established feature of human social cognition 
-- are a set of characteristics that a perceiver associates with members of a group
+Stereotypes are an established feature of human social cognition, in which a set of characteristics 
+is associted with members of a group. Sterotypes:
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
 - guide what we notice about people 
 - guide how we interpret people's behaviors
 - can facilitate quick judgements in appropriate situations (e.g. stopping a child from driving a car)
 - can lead to systematically negative attitudes and behaviors towards members of certain groups 
 
+Stereotypes are dangerous when they are explicit, but they are especially hazardous when they are implicit. This 
+means that the people holding them may not be aware of them, even though their perceptions are guided by them. 
 
-Stereotypes can demotivate learners in at least two ways: 
-- Instructors may have stereotypes about learners 
-    - They may treat certain learners differently, often without meaning to 
-        - not giving the same attention to one Learner compared to another (may be less or more attention to a stereotyped group)
-        - responding to questions with a dismissive or patronizing tone
-- Learners may experience stereotypes about them  
-    - They may believe that they are not as capable of learning compared with others, i.e. have a fixed mindset.
-    - They may be distracted by reminders of stereotypes that affect them, increasing cognitive load and interfering with the learning process. This is known as **stereotype threat**.
+**When Instructors have stereotypes about learners**, this may lead them to:
+    - call attention to differences, real or imagined, for certain learners
+    - give more or less attention to certain learners
+    - respond to questions with a different tone for certain learners
+**When learners experience stereotypes about them**, they may:
+    - have developed a fixed mindset about aspects of their own capability based on stereotypes about a group they belong to
+    - experience increased cognitive load when reminded about a negative stereotype, interfering with the learning process. This is known as **stereotype threat**.
 
 ## What can we do about these stereotypes?
-- Get to know people from many different groups!
-- Build awareness of situations in which your perceptions and behaviors are influenced by your own stereotypes
-- Do not call attention to common stereotypes 
-
+- Get to know people from many different groups! 
+- Observe your own behavior, and build awareness of situations in which your perceptions and behaviors are influenced by stereotypes.
+- Avoid calling attention to common stereotypes, even in a positive way.
 
 > ## Better Together
 >
@@ -189,62 +194,6 @@ Stereotypes can demotivate learners in at least two ways:
 > if people attend a workshop with their labmates, it's more likely they will
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
-
-
-### Impostor Syndrome
-
- *[Impostor syndrome][wikipedia-impostor-syndrome]* is the belief that one is not good enough for a job or position,
-and that one's achievements are due to luck rather than talent or skill.
-This is also accompanied by the fear of being "found out". 
-
-![One stick figure introducing another to a third says, "This is Dr. Adams. She's a social psychologist and the world's top expert on imposter syndrome." Dr. Adams responds "Haha, don't be silly! There are lots of scholars who have made more significant - oh my god."](https://imgs.xkcd.com/comics/impostor_syndrome.png)
-
-Academic work is frequently undertaken alone or in small groups but the results are shared and
-criticized publicly. In addition,
-we rarely see the struggles of others, only their finished work, which can feed the belief that everyone
-else finds it easy. Women and minority groups, who already feel additional pressure to prove themselves in
-some settings, [may be particularly affected][high-achieving-women].
-
-
-Two ways of dealing with your own impostor syndrome are:
-
-1.  Ask for feedback from someone you respect and trust.
-    Ask them for their honest thoughts on your strengths and achievements,
-    and commit to believing them.
-2.  Look for role models.
-    Who do you know who presents as confident and capable?
-    Think about how they conduct themselves.
-    What lessons can you learn from them?
-    What habits can you borrow?
-    (Remember, they quite possibly also feel as if they are making it up as they go.)
-
-As an instructor,
-you can help people with their impostor syndrome by
-sharing stories of mistakes that you have made or things you struggled to learn.
-This reassures the class that it's OK to find topics difficult.
-Being open with the group makes it easier to build trust and make learners confident to ask questions.
-(Live coding is great for this:
-typos let the class see you're not superhuman.)
-
-You can also emphasize that you want questions:
-you are not succeeding as a teacher if no one can follow your class,
-so you're asking learners to help you learn and improve.
-Remember,
-it's much more important to *be* smart than to *look* smart.
-
-The Ada Initiative has
-[some excellent resources][ada-initiative-resources]
-for teaching about and dealing with imposter syndrome.
-
-> ## Overcoming Imposter Syndrome (Optional)
->
-> Think of a time when learning something was difficult for you, or
-> you made a mistake that seemed silly or embarrassing. Is that task still hard for you?
-> In the Etherpad, describe how you might use this as a motivational story to help your learners
-> overcome their own imposter syndrome.
->
-> This exercise should take about 5 minutes.
-{: .challenge}
 
 
 
