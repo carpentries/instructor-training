@@ -140,11 +140,11 @@ in The Carpentries Handbook. If anything seems to be missing, contributions are 
 
 ## Systemic Exclusion
 
-As Instructors, there are many aspects of our classroom environment that are within our control. 
+As Instructors, many aspects of our classroom environment are within our control or influence. 
 However, the world is a complicated place, and there will always be extraneous factors that 
 contribute to demotivation and add to cogitive load. These vary from person to person, but 
-members of some demographic groups often carry a heavier load due to systemic forces that disproportionately 
-impact certain groups. What we can control, in this case is our own awareness of the challenges these forces 
+members of certain groups often carry a heavier load due to systemic forces that disproportionately 
+impact them. What we can control, in this case, is our own awareness of the challenges these forces 
 present to teaching and learning. As with other demotivation pitfalls, we can also
 think carefully about the language that we use and how we interact with our learners to avoid reinforcing systemic bias.
 
@@ -152,8 +152,8 @@ think carefully about the language that we use and how we interact with our lear
 
 We all use stereotypes, and for good reason. They serve a cognitive purpose. 
 One study suggests we encounter more than 34 gigabytes of information everyday. 
-That is more information than we could ever process, so our brains' use shortcuts. 
-What an expert thing to do! Stereotypes are one of those shortcuts. As with other models 
+That is more information than we could ever process, so our brains use shortcuts. 
+What an expert thing to do! Stereotypes are one of those shortcuts. As with other models, 
 they are all wrong... but some are dangerous.
 
 ## What are stereotypes?
@@ -169,17 +169,17 @@ Stereotypes are dangerous when they are explicit, but they are especially hazard
 means that the people holding them may not be aware of them, even though their perceptions are guided by them. 
 
 **When Instructors have stereotypes about learners**, this may lead them to:
-    - call attention to differences, real or imagined, for certain learners
+    - call attention to differences unnecessarily
     - give more or less attention to certain learners
     - respond to questions with a different tone for certain learners
 **When learners experience stereotypes about them**, they may:
-    - have developed a fixed mindset about aspects of their own capability based on stereotypes about a group they belong to
-    - experience increased cognitive load when reminded about a negative stereotype, interfering with the learning process. This is known as **stereotype threat**.
+    - develop a fixed mindset about aspects of their own capability
+    - experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
 
-## What can we do about these stereotypes?
+## What can we do about our own stereotypes?
 - Get to know people from many different groups! 
 - Observe your own behavior, and build awareness of situations in which your perceptions and behaviors are influenced by stereotypes.
-- Avoid calling attention to common stereotypes, even in a positive way.
+- Avoid calling attention to common stereotypes, even in a way that seems positive.
 
 > ## Better Together
 >
@@ -194,8 +194,6 @@ means that the people holding them may not be aware of them, even though their p
 > if people attend a workshop with their labmates, it's more likely they will
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
-
-
 
 ## Setting Expectations with the Code of Conduct
 
