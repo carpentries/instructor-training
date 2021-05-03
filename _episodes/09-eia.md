@@ -213,6 +213,11 @@ and about what kind of learning experience they can expect.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
+## Looking for More? Want to Contribute?
+The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
+being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
+at the top), join our #accessibility channel on The Carpentries Slack, or get in touch with us by emailing team@carpentries.org.
+
 
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
