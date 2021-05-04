@@ -7,13 +7,12 @@ questions:
 - "Why are equity, inclusion, and accessibility important?"
 - "What can I do enhance equity, inclusion, and accessibility in my workshop?"
 objectives:
-- "Identify accessibility accommodations that are new to you."
+- "Identify instructional strategies that are consistent with universal design."
 - "Recognize systemic factors that can distract and demotivate learners."
 - "Understand the role of The Carpentries Code of Conduct in maintaining an explicitly inclusive environment."
 keypoints:
 - "Inclusivity is a key attribute of a positive learning environment."
-- "Imposter syndrome is a powerful force, but can be overcome."
-- "Accessibility benefits everyone."
+- "Universal design benefits everyone."
 ---
 
 ### Inclusivity is a Core Value
@@ -194,6 +193,20 @@ means that the people holding them may not be aware of them, even though their p
 > if people attend a workshop with their labmates, it's more likely they will
 > work together to implement what they've learned after the workshop has ended.
 {: .callout}
+
+## Equity versus Equality
+We can monitor our own use of stereotypes, but the experiences that people have before and 
+after our workshop are beyond our control. Because these experiences are unequal, including 
+historical and present-day differences in 
+access to resources, mentorship, and other avenues towards career success, we aim to make Carpentries 
+programs *equitable*. This means that, rather than offering the same access and experience to all, we 
+aim to use our programs to actively counter-balance unequal opportunities that have led to 
+disproportionate representation of certain groups in data-centric careers. 
+
+If you host a workshop, we encourage you to consider means of reaching out to historically under-represented 
+groups in your community who may be interested in attending. 
+
+
 
 ## Setting Expectations with the Code of Conduct
 
