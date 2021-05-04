@@ -53,7 +53,7 @@ frequent formative assessment is important.
 >
 > [This website][memory-test] implements a short test of working memory.  
 >
-> What was your score? Write your answer
+> What was your score? If you are comfortable, share your answer
 > in the Etherpad.
 > 
 > This exercise should take about 5 minutes.

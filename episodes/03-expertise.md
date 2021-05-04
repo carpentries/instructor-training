@@ -174,7 +174,7 @@ seem trivial to you, as they often will.
 {: .challenge}
 
 
-## "The J Word" and Other Dismissive Language
+## "Just" and Other Dismissive Language
 Instructors want to motivate learners! We will talk more about motivation in a later episode. But here, 
 we will take a moment to recognize one *ineffective* strategy often deployed by experts who 
 want learners to *believe that a task is as easy as they think it is.* This often manifests 
@@ -268,5 +268,4 @@ accidentally quell rather than inviting questions, formative assessment has the 
 to bring these problems to the surface. As you develop teaching skill, you may be able 
 to avoid these pitfalls. Until then, becoming aware of when they occur will help you to 
 keep their impact under control. 
-
 
