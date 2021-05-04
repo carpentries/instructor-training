@@ -146,7 +146,7 @@ We will have many opportunities to practice and give each other feedback through
 
 ### Creating a Positive Learning Environment
 
-One part of making this a productive two days for all of us is a
+One part of making this a productive experience for all of us is a
 community effort to treat one another with kindness and respect.  The [Code of Conduct]({{ site.coc }}) 
 is one piece of this. We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms, and will spend some time talking about why this is so important.
@@ -167,7 +167,7 @@ Instructor Trainers  at today's event is your first step into The Carpentries co
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
 familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries Instructor.
-The additional steps for certification will require that you dig into the workshop content yourself. We will talk about that more tomorrow afternoon.
+The additional steps for certification, called _Checkout_, will require that you dig into the workshop content yourself. We will talk about that more tomorrow afternoon.
 
 We also do not discuss how to develop lessons. The Carpentries now has a growing subcommunity dedicated to lesson development, 
 along with [its own onboarding curriculum][lesson-dev]. For more on lesson development, see [The Carpentries website][leson-dev-web].
