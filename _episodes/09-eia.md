@@ -1,7 +1,7 @@
 ---
 title: "Equity, Inclusion, and Accessibility"
 block: "Creating a Positive Learning Environment"
-teaching: 15
+teaching: 20
 exercises: 15
 questions:
 - "Why are equity, inclusion, and accessibility important?"
@@ -207,20 +207,21 @@ If you host a workshop, we encourage you to consider means of reaching out to hi
 groups in your community who may be interested in attending. 
 
 
-
 ## Setting Expectations with the Code of Conduct
 
 Finally, a important way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
 
 To make clear what is expected,
-all participants in our workshops are required to conform to the
+all participants in our workshops are required to abide by the
 [Code of Conduct]({{ site.coc }}).
  Its details are important,
 but the most important thing about it is that it exists:
 knowing that we have rules
 tells people a great deal about our values
-and about what kind of learning experience they can expect.
+and about what kind of learning experience they can expect. This creates 
+an environment that is *explicitly inclusive* and supports safe focus 
+on learning.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
