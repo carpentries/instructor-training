@@ -64,8 +64,8 @@ learners to trust that additional requests are likely to be well received.
 If you are playing the host role (or part of it), note that our [host template](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop)
 includes an inquiry regarding accessibility needs. However, be aware that **many 
 people will not feel comfortable requesting accommodations in advance**, or at all if it can be avoided.
-For example, a participant with minor hearing loss may simply hope that
-the workshop will be loud enough for them to get by. Taking steps to make 
+For example, a participant who is hard of hearing may simply hope that
+instructors will speak loudly enough for them to hear. Taking steps to make 
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
 # From Accomodation to Universal Design 
@@ -85,7 +85,7 @@ wheelchair users to move around, they proved to be equally helpful to people wit
 
 In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design 
 into Education with the Universal Design in Learning (UDL) Framework. 
-UDL places responsibility for accessibility on the course rather than on the learner. 
+UDL places responsibility for accessibility on the course designer rather than on the learner. 
 It states that the most inclusive approach to education is to design instruction with diverse learners in mind from the beginning.
 
 UDL is not about finding the one, best way to teach everyone. 
@@ -97,7 +97,7 @@ The key to UDL is creating redundancies such that learners have multiple options
 > ## Activity: Applying Universal Design in Your Teaching
 > 
 > Consider some of the teaching tools and strategies we have discussed so far in this workshop, or others you have observed in your experience. 
-> Would any of these meet UDL goals of providing multiple options for learners? 
+> How do these meet UDL goals of providing multiple options for learners? 
 > 
 > Consider multiple ways for learners to:
 > - receive information
@@ -163,7 +163,7 @@ think carefully about the language that we use and how we interact with our lear
 # Stereotypes
 
 We all use stereotypes, and for good reason. They serve a cognitive purpose. 
-One study suggests we encounter more than 34 gigabytes of information everyday. 
+One study suggests we encounter more than 34 gigabytes of information every day. 
 That is more information than we could ever process, so our brains use shortcuts. 
 What an expert thing to do! Stereotypes are one of those shortcuts. As with other models, 
 they are all wrong... but some are dangerous.
@@ -183,8 +183,8 @@ means that the people holding them may not be aware of them, even though their p
 **When Instructors have stereotypes about learners**, this may lead them to:
     - call attention to differences unnecessarily
     - give more or less attention to certain learners
-    - respond to questions with a different tone for certain learners
-**When learners experience stereotypes about them**, they may:
+    - respond to questions differently for certain learners
+**When learners experience stereotypes about themselves**, they may:
     - develop a fixed mindset about aspects of their own capability
     - experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
 
@@ -241,7 +241,7 @@ We will discuss the Code of Conduct in greater detail tomorrow.
 ## Looking for More? Want to Contribute?
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
-at the top), join our #accessibility channel on The Carpentries Slack, or get in touch with us by emailing team@carpentries.org.
+at the top), though our #accessibility channel on The Carpentries Slack, or by emailing team@carpentries.org.
 
 [core-values]: https://carpentries.org/values/
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
