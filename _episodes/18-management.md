@@ -7,7 +7,7 @@ questions:
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What should we do if there is a Code of Conduct violation?"
 - "What does it mean to be a co-Instructor?"
-- "How does an instructional team go about setting up for a workshop?
+- "How does an instructional team prepare for a workshop?
 objectives:
 - "Identify potential challenges of teaching learners with very different backgrounds and skill levels."
 - "Locate resources to direct your response if someone at your workshop violates the Code of Conduct."
@@ -16,7 +16,7 @@ objectives:
 keypoints:
 - "Team work takes work, but allows you to share the load and build connections."
 - "Working with a broad range of learners can be challenging, but there are many ways to keep a classroom happy and motivated."
-- "The instructional team decides how to respond to Code-of-Conduct incidents during a workshop; all violations should be reported to The Carpentries for follow-up."
+- "The instructional team decides how to respond to Code-of-Conduct incidents during a workshop; all violations should be reported to The Carpentries Code of Conduct committee for follow-up."
 ---
 
 # Never Teach Alone
@@ -36,7 +36,7 @@ our instructions for setting up a workshop website.
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
 - A **Host** who organizes the workshop logistics
 - Two or more **Instructors** who plan and execute workshop instruction
-- **Helpers** who provide learner support during the workshop  
+- **Helpers** who support learners during the workshop  
 
 ## Hosting
 We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is 
@@ -60,7 +60,7 @@ Helpers can assist in a variety of ways. They may:
 - help learners with setup and installation
 - answer questions during exercises
 - monitor the room to spot people who may need help (indicated by a sticky note or otherwise)
-- keep an eye on the shared notes and either answer questions there or remind the instructor to do so during breaks
+- monitor the shared notes and either answer questions there or remind the Instructor to do so during breaks
 
 In order to help effectively, helpers need to be onboarded to the basic elements of Carpentries teaching
 practices. [The helper checklist][helpers] includes a short list of "Teaching Rules" that may be shared with helpers. 
@@ -105,9 +105,9 @@ are expected in all Carpentries workshops. These include:
 *  it is more discreet (which means they are more likely to actually do it),
 *  they can keep working while their flag is raised, and
 *  the instructor can quickly see from the front of the room what state the class is in.  
- **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "lease put up a blue sticky note if
+ **Active and frequent requests** are most effective in getting learners to actually use these well (e.g. "please put up a blue sticky note if
  you completed the last step, and a yellow sticky note if you need help.").  
- In online workshops, Zoom has a green "✓" and red "x" that may be used in place of sticky notes.
+ In online workshops, Zoom has a green "✓" and red "x" under "reactions" that may be used in place of sticky notes.
 
 > ## Accessibility of Sticky Notes
 > Once upon a time, Carpentries workshops commonly used red and green sticky notes
@@ -127,7 +127,7 @@ are expected in all Carpentries workshops. These include:
  Two-day workshops often fit best in busy schedules, allowing an intensive burst of dedicated time and energy. However, "intensive" is 
  a key word -- two day workshops are intense! In addition to minding your pacing, it is important to schedule breaks, and to take them 
  on time. In addition to allowing vital rest and social time, this will also allow learners to attend to work and personal matters at predictable times.  
- At in-person workshops, coffee and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
+ At in-person workshops, beverages and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
  small fee for your workshop to cover the cost.
  
  #### Feedback
@@ -150,7 +150,7 @@ this; we use the following methods most frequently:
 "Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
 "Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
 Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
-considering for self-organised workshops in a co-Instructor has not yet been certified.
+considering for self-organised workshops if a co-Instructor has not yet been certified.
 
 ## Sticky Situations 1: Learners at Many Levels
 
@@ -180,7 +180,7 @@ Instructors have generated to deal with this issue:
 *   During class, **encourage learners to help others** nearby when they feel comfortable doing so.
     Teaching is a great way to level up learning (one of many reasons why Carpentries Instructors choose to teach!).
     Note that you will need an icebreaker before most learners will take this advice.
-*   **Do not let advanced learners carry the conversation** during class, no matter how interesting it may be. This can alienate novices
+*   **Do not let advanced learners take over the conversation** during class, no matter how interesting it may be. This can alienate novices
     and consumes precious time. Advanced questions and comments can be politely reserved for breaks, addressed
     individually by helpers or the co-Instructor, or typed in the Etherpad for present or future follow-up.
 *   The helpers and non-teaching co-Instructor(s)
@@ -222,7 +222,7 @@ For these reasons and more we encourage you to **discuss Code of Conduct enforce
 > 2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook: https://docs.carpentries.org/topic_folders/policies/index_coc.html  
 > * What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
 > * What questions do you have about CoC enforcement? 
-> 3) Write some notes in the etherpad. 
+> 3) Write some notes in the Etherpad. 
 >
 > This discussion should take about 15 minutes.
 {: .challenge}
@@ -336,7 +336,7 @@ instructions for setting them up.
 >
 > Go to the [workshop template repository]({{ site.workshop_repo }}). 
 > 
-> * If you have a GitHub account (or don't mind quickly creating one) and are comfortable doing so, 
+> * If you have a GitHub account (or don't mind creating one) and are comfortable doing so, 
 > follow the directions to begin creating a workshop website using your local location and today's date. 
 > 
 > * Alternatively, have a look at the video tutorial linked on the instructions page. With any time
@@ -361,7 +361,7 @@ When you point a browser to a url at
 (e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
 for the example above)
 you will either arrive at an existing Etherpad by that name or a brand new
-etherpad with basic Carpentries information at the top.
+Etherpad with basic Carpentries information at the top.
 
 Note that there are pros and cons to using Etherpad. Pads do occasionally
 freeze or crash, so we recommend creating a backup copy. Otherwise, Etherpads persist 
