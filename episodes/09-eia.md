@@ -2,7 +2,7 @@
 title: "Equity, Inclusion, and Accessibility"
 block: "Creating a Positive Learning Environment"
 teaching: 20
-exercises: 15
+exercises: 20
 questions:
 - "Why are equity, inclusion, and accessibility important?"
 - "What can I do enhance equity, inclusion, and accessibility in my workshop?"
@@ -14,6 +14,19 @@ keypoints:
 - "Inclusivity is a key attribute of a positive learning environment."
 - "Universal design benefits everyone."
 ---
+
+### The Carpentries Core Values
+In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values](core-values), things that we do, things that we are, and things that we champion. Many of these highlight our community-wide commitment to equity, inclusion, and accessibility. 
+
+> ## Discuss The Carpentries Core Values
+>
+> 1. Take a moment to read through the Core Values on this page: https://carpentries.org/values/
+> 2. Choose one core value that resonates with you. How might this value be used to guide choices or decisions in 
+> a workshop or in your local community more broadly?
+>
+> This exercise should take about 5 minutes.
+{: .challenge}
+
 
 ### Inclusivity is a Core Value
 
@@ -230,7 +243,7 @@ The Carpentries is actively working on improving our content and practices with 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
 at the top), join our #accessibility channel on The Carpentries Slack, or get in touch with us by emailing team@carpentries.org.
 
-
+[core-values]: https://carpentries.org/values/
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
 [ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
