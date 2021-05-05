@@ -48,6 +48,8 @@ all the questions, you can preview them in a text-format below:
 > you will receive all the survey results from your workshop participants.
 {: .checklist}
 
+![Screenshot of a workshop website showing location of customized survey links](../fig/surveyscreenshot3.svg)
+
 > ## Timing Matters
 > 
 > We have found that learners are much more likely to fill out the post-workshop survey
