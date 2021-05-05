@@ -454,13 +454,6 @@ in which you were going to explain something that your learners already know.
 > the flow of the workshop.
 {: .callout}
 
-## Optional exercises
-
-> ## Confronting the Contradiction
->
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
-{: .challenge}
 
 [swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition

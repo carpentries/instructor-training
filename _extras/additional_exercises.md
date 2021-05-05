@@ -1,0 +1,80 @@
+---
+layout: page
+title: "Additional Exercises"
+---
+
+## Episode 2: Building Skill with Practice
+
+> ## Confronting the Contradiction
+>
+> Describe a misconception you have encountered in your own learning or teaching
+> and how to get learners to confront it.
+{: .challenge}
+
+## Episode 9: Equity, Inclusion, and Accessibility
+
+ 
+> ## Learning about Accessibility
+>
+> The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a
+> set of posters of "dos and don'ts" for making visual and web-based materials more accessible for
+> different populations. Take a look at one of
+> [these posters](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf) and put one thing you
+> have learned in the Etherpad.
+>
+> Note: There is an [HTML version](https://ukhomeoffice.github.io/accessibility-posters/) in English which may perform better 
+> with screen readers. There are also [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)
+> available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
+> Chinese. 
+>
+> This exercise should take about 5 minutes.
+{: .challenge}
+
+## Episode 11: Teaching is a Skill
+
+> ## Feedback on Feedback (Optional)
+>
+> Watch either this [scipy tutorial][scipy-video-1] (8:40)
+> or this [other tutorial][scipy-video-2] (11:42).
+> For each, give feedback following the 2x2
+> model. Put your feedback in the Etherpad.
+>
+> This exercise and discussion should take about 15 minutes.
+{: .challenge}
+
+> ## Skill Acquisition: What level are your teaching skills?
+>
+> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice.
+> Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
+> Discuss with a partner and then write some thoughts in the Etherpad.
+{: .challenge}
+
+## Episode 15: Preparing to Teach
+
+> ## Feedback On Your Challenges (Optional)
+>
+> With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
+> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to
+> make at least one modification to your exercise(s). Discuss in the Etherpad the change you made and how it will
+> help you get more useful information about your learners.
+>
+> This exercise and discussion should take about 15 minutes.
+{: .challenge}
+
+## Episode 20: Checkout
+
+
+
+> ## Check Out the Discussion (Optional)
+>
+> As an instructor, your voice is important! We want you to be actively involved
+> in discussions about the lesson materials (and other aspects of The Carpentries community).
+> Go to the GitHub page for the lesson you worked with over the past two days and click on the
+> "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
+> to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for
+> the repository you are working in. If you do make a significant contribution to the discussion, send a link to
+> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You have
+> just completed one of the three remaining steps in becoming a Carpentries Instructor.
+>
+> Leave about 5-10 minutes for this exercise.
+{: .challenge}

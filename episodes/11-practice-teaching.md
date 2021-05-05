@@ -212,15 +212,6 @@ it is OK to remind yourself:
 *   The feedback is not personal.
 *   There are always positives along with the negatives.
 
-> ## Feedback on Feedback (Optional)
->
-> Watch either this [scipy tutorial][scipy-video-1] (8:40)
-> or this [other tutorial][scipy-video-2] (11:42).
-> For each, give feedback following the 2x2
-> model. Put your feedback in the Etherpad.
->
-> This exercise and discussion should take about 15 minutes.
-{: .challenge}
 
 > ## Using Feedback
 >
@@ -242,14 +233,7 @@ transform getting feedback from an unpleasant experience to a richly rewarding o
 practice teaching and to get and give feedback tomorrow.
 
 
-## Optional Exercises
 
-> ## Skill Acquisition: What level are your teaching skills?
->
-> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice.
-> Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
-> Discuss with a partner and then write some thoughts in the Etherpad.
-{: .challenge}
 
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
