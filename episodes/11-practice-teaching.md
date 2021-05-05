@@ -22,6 +22,7 @@ Now our focus will shift to developing additional teaching skills that you can
 use in a Carpentries workshop setting, starting with the process of "lesson study",
 or teaching observation and feedback.
 
+
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
 We have seen that providing opportunities for practice
@@ -73,14 +74,7 @@ When teachers do not observe each other teaching, the tricks and techniques that
 has painstakingly incorporated into their practice do not have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
 
-> ## Reading It Is Not Enough
-> Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
-> that teachers do not adopt instructional practices based on reports about the effectiveness of those practices.
-> Social norms, institutional
-> culture, and lack of time and support prevent many teachers from moving out of
-> their accustomed teaching habits. Change in teaching does not come about through reading about new teaching practices, but by seeing
-> these practices in action, practicing them and getting feedback from other instructors.
-{: .callout}
+
 
 Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
 observing the work of others.  The Carpentries pedagogical model supports lesson
@@ -90,65 +84,15 @@ and to give each other feedback.  You will also have the opportunity to practice
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
-> ## Giving Feedback
->
-> We will start by observing some examples of teaching and providing some feedback.
->
-> Watch this example teaching video as a group
-> and then give feedback on it. 
-> https://www.youtube.com/watch?v=-ApVt04rB4U
-> Put your feedback in the Etherpad.
-> Organize your feedback along two axes:
-> positive vs. negative
-> and content (what was said) vs. presentation (how it was said).
-> 
-> Note: there is a version of this video with subtitles in both Spanish and English here: https://www.youtube.com/watch?v=jxgMVwQamO0
-> 
-> This exercise should take about 10 minutes.
-{: .challenge}
 
-Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
-
-> ## Sharing Feedback
->
-> The prep time for this exercise is intentionally short -- the point is to 
-> practice giving and receiving feedback, not to create a perfect presentation.
-> Imperfect presentations will 
-> give you more to work with!
->
-> **Trainings where trainees are co-located:**
-> 1.  Split into groups of three.
-> 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
->     the lesson episode you chose before the start of the training course. You will not
->     be live coding; you can use a whiteboard or other visual aids if available (but
->     this is not required!). 
-> 3.  Get together with your group and have each person teach their segment to the group,
->     while one person records this (video and audio)
->     using a cell phone or some other handheld device.
->     Keep a strict time limit of 90 seconds per person (one person
->     should be responsible for the timekeeping).
-> 3.  After the first person finishes,
->     rotate roles
->     (they become the videographer,
->     the audience becomes the instructor,
->     the person who was recording becomes the audience)
->     and then rotate roles again.
-> 4.  After everyone in the group of three has finished teaching,
->     watch the videos as a group.
->     Everyone gives feedback on all three videos,
->     i.e., people give feedback on themselves as well as on others. 
->     Keep an eye on the time during feedback, especially if your group has more than 3 people, 
->     to be sure to leave time for everyone.
-> 5.  After everyone has given feedback on all of the videos,
->     return to the main group and put everyone's feedback about you into the Etherpad.
->
-> **Distributed trainings:**
-> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
-> but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching. 
->
-> This exercise should take about 25 minutes.
-{: .challenge}
+> ## Reading It Is Not Enough
+> Several research studies (in [2007][fincher-warren], [2012][fincher-stories], and [2015][barker-practice]) have shown
+> that teachers do not adopt instructional practices based on reports about the effectiveness of those practices.
+> Social norms, institutional
+> culture, and lack of time and support prevent many teachers from moving out of
+> their accustomed teaching habits. Change in teaching does not come about through reading about new teaching practices, but by seeing
+> these practices in action, practicing them and getting feedback from other instructors.
+{: .callout}
 
 ## Feedback Is Hard
 
@@ -215,6 +159,68 @@ it is OK to remind yourself:
 
 *   The feedback is not personal. In many cases, feedback says more about the person giving it than the person receiving it.
 *   There are always positives along with the negatives. Save your favorites to review regularly!
+
+
+
+> ## Giving Feedback
+>
+> We will start by observing some examples of teaching and providing some feedback.
+>
+> Watch this example teaching video as a group
+> and then give feedback on it. 
+> https://www.youtube.com/watch?v=-ApVt04rB4U
+> Put your feedback in the Etherpad.
+> Organize your feedback along two axes:
+> positive vs. negative
+> and content (what was said) vs. presentation (how it was said).
+> 
+> Note: there is a version of this video with subtitles in both Spanish and English here: https://www.youtube.com/watch?v=jxgMVwQamO0
+> 
+> This exercise should take about 10 minutes.
+{: .challenge}
+
+Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
+
+> ## Sharing Feedback
+>
+> The prep time for this exercise is intentionally short -- the point is to 
+> practice giving and receiving feedback, not to create a perfect presentation.
+> Imperfect presentations will 
+> give you more to work with!
+>
+> **Trainings where trainees are co-located:**
+> 1.  Split into groups of three.
+> 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
+>     the lesson episode you chose before the start of the training course. You will not
+>     be live coding; you can use a whiteboard or other visual aids if available (but
+>     this is not required!). 
+> 3.  Get together with your group and have each person teach their segment to the group,
+>     while one person records this (video and audio)
+>     using a cell phone or some other handheld device.
+>     Keep a strict time limit of 90 seconds per person (one person
+>     should be responsible for the timekeeping).
+> 3.  After the first person finishes,
+>     rotate roles
+>     (they become the videographer,
+>     the audience becomes the instructor,
+>     the person who was recording becomes the audience)
+>     and then rotate roles again.
+> 4.  After everyone in the group of three has finished teaching,
+>     watch the videos as a group.
+>     Everyone gives feedback on all three videos,
+>     i.e., people give feedback on themselves as well as on others. 
+>     Keep an eye on the time during feedback, especially if your group has more than 3 people, 
+>     to be sure to leave time for everyone.
+> 5.  After everyone has given feedback on all of the videos,
+>     return to the main group and put everyone's feedback about you into the Etherpad.
+>
+> **Distributed trainings:**
+> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
+> but do not record each other. Instead, give each person feedback immediately after they finish their
+> turn teaching. 
+>
+> This exercise should take about 25 minutes.
+{: .challenge}
 
 
 > ## Using Feedback
