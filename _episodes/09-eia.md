@@ -15,37 +15,62 @@ keypoints:
 - "Universal design benefits everyone."
 ---
 
+## A Positive Environment for All
+
+As we have seen, there are many teaching practices that can make your workshop more positive and welcoming. 
+However, no workshop occurs in a vacuum: everyone's experiences begin and end and are influenced by the world beyond. 
+In this section we will discuss some of the systemic barriers that can result in members 
+of some groups being excluded even in an otherwise welcoming environment. The fact that some groups face barriers 
+that others do not means we cannot take a one size fits all approach to creating a positive learning environment. 
+
+### Definitions
+
+This section addresses topics related to equity, inclusion, and accessibility. These terms are increasingly common 
+and may be familiar to you, but not everyone understands or interprets them in the same way. So, we will start 
+with a few working definitions, adapted from the [University of Pittsburgh DEI Glossary][glossary]:
+
+**Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, 
+equity refers to outcomes while equality connotes equal treatment. More directly, equity is when an individual’s 
+race, gender, socio-economic status, sexual orientation, etc. do not determine their educational, economic, 
+social, or political opportunities.
+
+**Inclusion:**  Authentically bringing traditionally excluded individuals and/or groups into processes, activities 
+and decision/policy making in a way that shares power. Inclusion promotes broad engagement, shared participation, 
+and advances authentic sense of belonging through safe, positive, and nurturing environments. 
+Inclusion is key to eliminating systemic inequality.
+
+**Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few) 
+that increase one's ability to use, access, and obtain the respective item. Each person, regardless of ability status, 
+is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services 
+in an equally effective and equally integrated manner, with substantially equivalent ease of use. 
+
+
 ### The Carpentries Core Values
-In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values](core-values), things that we do, things that we are, and things that we champion. Many of these highlight our community-wide commitment to equity, inclusion, and accessibility. 
+
+In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values](core-values) -- 
+things that we do, things that we are, and things that we champion. Many of these relate to equity, inclusion, and accessibility. 
 
 > ## Discuss The Carpentries Core Values
 >
 > 1. Take a moment to read through the Core Values on this page: https://carpentries.org/values/
-> 2. Choose one core value that resonates with you. How might this value be used to guide choices or decisions in 
-> a workshop or in your local community more broadly?
+> 2. Choose one core value that resonates with you. What is a decision you might make in a workshop 
+> that could look different if you were actively considering the core value you chose?
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
 
 
-### Inclusivity is a Core Value
-
-**Inclusivity** is a policy of including people who might otherwise be excluded or marginalized.
-A learning environment may be positive for some yet still be experienced as exclusive or marginalizing for others. Inclusivity is at the heart 
-of [The Carpentries Core Values](https://carpentries.org/values/) -- we hope that this is a passion you share! In this section we will 
-discuss the challenges, opportunities, and continuing effort involved in making your workshop a positive experience for all.
 
 ### Accessibility
 
-Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely. When it comes to accessibility, inclusivity 
-means taking the time to give some thought to accessibility. What barriers might be present in your workshop, and what can you do to remove them?
-For an in-person workshop, can you confirm that the building entrance and restrooms are fully accessible? For any workshop, what can you do to anticipate a 
-spectrum of vision and hearing challenges that your learners may not be prepared to report? What other challenges can you think of?
+Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely. 
+What barriers might be present in your workshop, and what can you do to remove them?
+
 
 > ## What Happens When Accessibility is an Issue?
 >
-> Think of a time when you've been affected by, or noticed someone else
-> being affected by issues with accessibility. This may have been at a
+> Think of a time when you have been affected by, or noticed someone else
+> being affected by barriers to accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
 > a class you were taking relied on audio delivery of content. Describe what happened,
 > how it impacted your (or someone else's) ability to be involved and what could
@@ -243,6 +268,7 @@ The Carpentries is actively working on improving our content and practices with 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
 at the top), join our #accessibility channel on The Carpentries Slack, or get in touch with us by emailing team@carpentries.org.
 
+[glossary]: https://www.diversity.pitt.edu/DEIGlossary
 [core-values]: https://carpentries.org/values/
 [worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
 [cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
