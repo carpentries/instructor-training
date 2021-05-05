@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1295px" height="539px" style="background-color:#ffffff;">
+
+<!-- Connection Lines -->
+    <g>
+        <path d="M620 108L596.9738216156317 81.10471160735572" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <path d="M590 73L601.1033784403924 77.55137201395704L596.9738216156317 81.10471160735572L592.8442647908711 84.65805120075441Z" stroke="none" fill="#000000" stroke-width="1.5" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M663 158L633 123" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M596 173L638.3088847865106 172.14350490219448" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <path d="M649 172L638.382004186306 177.5909001869444L638.3088847865106 172.14350490219448L638.2357653867153 166.6961096174446Z" stroke="none" fill="#000000" stroke-width="1.5" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M498 174L553 173" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M356 203L325.3855292461874 210.45808724743665" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <path d="M315 213L324.0903600083619 205.16639579003547L325.3855292461874 210.45808724743665L326.68069848401285 215.7497787048378Z" stroke="none" fill="#000000" stroke-width="1.5" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M449 180L417 188" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M497 116L482.9543039210508 150.06601697882363" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <path d="M479 160L477.89268675691585 148.05119849601263L482.9543039210508 150.06601697882363L488.0159210851857 152.08083546163462Z" stroke="none" fill="#000000" stroke-width="1.5" stroke-dasharray="none" />
+    </g>
+    <g>
+        <path d="M563 70L512 101" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+    </g>
+
+<!-- Linking Phrases -->
+    <g>
+        <g>
+            <text x="579px" y="120px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>is</tspan><tspan fill="none">t</tspan><tspan>needed</tspan><tspan fill="none">t</tspan><tspan>to</tspan><tspan fill="none">t</tspan><tspan>start</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <g>
+            <text x="554px" y="177px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>charges</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <g>
+            <text x="329px" y="200px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>requires</tspan><tspan fill="none">t</tspan><tspan>energy</tspan><tspan fill="none">t</tspan><tspan>from</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <g>
+            <text x="462px" y="113px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>is</tspan><tspan fill="none">t</tspan><tspan>powered</tspan><tspan fill="none">t</tspan><tspan>by</tspan>
+            </text>
+        </g>
+    </g>
+
+<!-- Concepts -->
+    <g>
+        <rect x="649px" y="158px" rx="8" ry="8" width="52px" height="27px" stroke="none" fill="#edf4f6" stroke-width="0" />
+        <rect x="649px" y="158px" rx="8" ry="8" width="52px" height="27px" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <g>
+            <text x="656px" y="176px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>battery</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <rect x="282px" y="203px" rx="8" ry="8" width="33px" height="27px" stroke="none" fill="#edf4f6" stroke-width="0" />
+        <rect x="282px" y="203px" rx="8" ry="8" width="33px" height="27px" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <g>
+            <text x="289px" y="221px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>fuel</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <rect x="449px" y="160px" rx="8" ry="8" width="49px" height="27px" stroke="none" fill="#edf4f6" stroke-width="0" />
+        <rect x="449px" y="160px" rx="8" ry="8" width="49px" height="27px" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <g>
+            <text x="456px" y="178px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>engine</tspan>
+            </text>
+        </g>
+    </g>
+    <g>
+        <rect x="563px" y="46px" rx="8" ry="8" width="32px" height="27px" stroke="none" fill="#edf4f6" stroke-width="0" />
+        <rect x="563px" y="46px" rx="8" ry="8" width="32px" height="27px" stroke="#000000" fill="none" stroke-width="1" stroke-dasharray="none" />
+        <g>
+            <text x="570px" y="64px" stroke="none" fill="#000000" stroke-width="1" stroke-dasharray="none" alignment-baseline="auto" text-anchor="start" text-decoration="normal" font-weight="normal" font-style="normal" font-size="8pt" font-family="Verdana">
+                <tspan>Car</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
