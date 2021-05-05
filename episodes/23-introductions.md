@@ -1,60 +1,40 @@
 ---
-title: "Workshop Introductions"
+title: "Launches and Landings"
 block: "The Carpentries"
 teaching: 10
 exercises: 30
 questions:
 - "How do you actually start a workshop?"
 objectives:
-- "Create an outline of important topics to cover in an introduction."
-- "Describe three ways to start workshop participants talking to each other."
-- "Receive one piece of feedback on your own introduction"
+- "Connect goals of an introduction with options for content and delivery."
+- "Practice a short introduction."
+- "Identify worthwhile elements of a workshop conclusion."
 keypoints:
-- "A planned introduction is a helpful tool in setting the workshop environment."
-- "Introductions should both include practical information and start building relationships."
+- "A planned introduction is key to creating a functional workshop environment."
+- "Conclusions support reflective practice and set the stage for continued learning."
 ---
 
-One of the most important things that you can do as an instructor is to
-set the workshop environment from the beginning.  One way to do this
-is by having a well-planned introduction.  This episode discusses the
-value of setting the environment from the beginning and some of the
-components that go into an effective introduction, and includes time to
-practice giving part of a workshop introduction.
+When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery, 
+creating plans to listen and respond to learners during a workshop. But within that, there are two time points that make a big difference to a
+workshop experience: the introduction and the conclusion. Because these take time away from content instruction, it can be tempting to avoid investing precious 
+preparation and class time to these sections. However, a strong introduction sets the tone for your workshop, teaches learners how to engage, and inspires 
+confidence that learners will get what they need. A solid conclusion helps learners to solidify what they have learned and plan their next steps, and sends the
+everyone -- including Instructors and Helpers -- home with a sense of accomplishment. In this section, we will work together to identify ingredients that can 
+make these moments stand out and dedicate some practice time as well. 
 
-## Setting the Workshop Environment
+## Launching your Workshop: The Introduction
+Take a moment to think back to a course or workshop you really liked, think about how it began. Your impression on the first day of a course probably matched that of the rest of the course. It also probably stands out in your memory far more than the rest of the course! This is due to a feature of memory known as the **primacy effect**.
+Opening experiences make a difference in the short and long term -- introductions set the tone for the workshop and the path for learning.
 
-> ## Your Academic Past
->
-> Think back to courses or workshops you really liked or did not like.
-> - How did those courses start?
-> - Were you confident in the instructors abilities?
-> - Did you feel like they were enthusiastic about the course and invested in you?
-> - Was it clear what you were going to be learning?
-> - Were you excited about the material?
-> - Did you leave that first day thinking the instructor was uninterested,
->   that you were not the learners they wanted to be teaching
->   or you had no idea what the course was supposed to be about?
-{: .discussion}
-
-Your impression on the first day of a course probably matched that of the rest of
-the course. Introductions set the tone for the workshop and the path for learning.
-
-Introductions are particularly important when we have just two days. Also,
-in Carpentry workshops we are teaching not only a set of skills, but also
-trying to give learners the confidence to become self-directed learners. Learners
-should leave feeling excited and empowered. It is up to you as an instructor to empower
-your learners, so it is important
-to set a positive and welcoming environment for the workshop.
-
-Having a planned introduction, also helps you be less nervous. Having a planned introduction
-helps get you started. Even in the face of
+Introducing a workshop is an exciting and empowering moment! It can also be intimidating. Having a plan helps relieve stress and get you started. 
+Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
 you are comfortable and ready for.
 
 > ## What is in an Introduction?
 >
-> Get into small groups (3-4 people) and discuss these questions for 10 minutes.
-> Take notes on your answers -- we will combine them later.
+> Get into small groups (3-4 people) and discuss the questions below.
+> Take notes on your answers in the Etherpad.
 >
 > 1. What do you hope to accomplish in a workshop introduction?
 > 2. What information do you need to include in an introduction to accomplish these goals?
@@ -64,143 +44,70 @@ you are comfortable and ready for.
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
 > Did you come up with something that is not listed below?
 >
-> Optional question: what did you (the leader) do or not do in your introduction to the session?
 {: .discussion}
 
-## Goals For the Introduction
+### Learning Objectives For your Introduction
+
+It can feel like the Introduction is "just" something you have to get through in order to get started on the "real" workshop content.
+But, chances are that many of the goals you identified in the activity above involved *teaching* information or procedures that
+you want learners to know, or *learning* things about your audience. This means that everything you have learned about
+teaching and learning applies here, too. Short term memory? Check! Cognitive overload? Check! 
+
+Learning objectives usually omit introductory content -- after all, these do not typically relate to our long term goals. The content of the introduction may not even be relevant once the workshop has
+finished! But if we did include the Introduction, what would those learning objectives look like?
 
 After the introduction learners should:
 
-- believe in your competence to teach the workshop
 - be able to predict the type of instruction
 - know what will be taught
-- know what will be required of them
+- understand what will be required of them
+- believe that they can learn from the workshop
 
-The instructor should:
+The instructional team should:
 
-- have an understanding of who is taking the workshop and what their expectations are
+- know of who is participating in the workshop and what their expectations are
+- have an initial impression of how learners respond to participation prompts and what will be needed to encourage them to engage
 
-## Components of the Introduction
+### Setting the Stage
 
-To meet these objectives an introduction should:
+These objectives can be met in many ways; many of them can be addressed at the same time. As you consider the approach you will take, 
+take a step back to consider the big picture. How will learners perceive your classroom environment? A few things to pay attention to 
+as you include: 
 
-1.  Set positive first impressions
-1.  Introduce yourself effectively (and have other workshop leaders do the same)
-1.  Clarify learning objectives and expectations
-1.  Help learners learn about each other
-1.  Set the tone for the workshop
-1.  Collect baseline data on learners' knowledge and motivation
-1.  Whet learners' appetite for workshop content
-1.  Inform Learners of Logistics
+**Your attire.** This is one of those things that "should not matter" but, in reality, clothing has a powerful influence on perceptions of everything from 
+credibility to kindness. Be comfortable, be intentional, and convey what you want to communicate. (Also, check the weather, and make
+no assumptions about thermostats in an unfamiliar classroom!)
 
-### 1. Set Positive First Impressions
+**The physical environment**. Are you in a small classroom or a large, impersonal lecture hall? How are the seats arranged? Physical features may be beyond your control, but they still contribute to your learner's impressions. How can you help? (Note: if you are in an online environment, structural features can also impact your workshop experience! What are those features, and how can you modify or moderate their impact?)
 
-First impressions can be long-lasting. Before you even start teaching, your learners
-will have already made some decisions about you, so it is important to
-understand what those impressions are based on and how to manage them.
+**Your use of the few minutes before class.** Is the instructional team present and welcoming, or rushing in frantically to a waiting crowd?
 
-**Your attire.** Research shows that clothing affects the
-judgments people make, including credibility,
-likability, dominance, kindness, and empathy (Raiscot, 1986; Morris et
-al., 1996). More formal attire communicates expertise and confidence.
-Less formal attire communicates approachability. Usually, it is easier
-to relax from a more formal impression into a more relaxed one than the
-other way around. These considerations are likely to be particularly
-relevant for young instructors who are concerned about establishing
-themselves as authoritative.
-
-**The physical environment**. Learners can make decisions about what
-kind of course yours will be by the way the chairs are arranged. Rows
-signify a more formal environment, while circles or U-shapes imply a
-more informal atmosphere, with higher expectations of learner
-participation.
-
-**Your use of the few minutes before class.** Greeting the learners as
-they enter the classroom communicates approachability. Frantically
-arriving right on time or late communicates disorganization.
-
-### 2. Introduce Yourself Effectively
-
-Your introduction should be succinct, but make sure to cover certain
-key areas. These questions should help you decide what to say:
-
-**What characteristics do you want to convey about yourself?** You probably want the learners to get a sense of your
-qualifications, how formal/informal you want
-to be, and how available you will be to the learners. You want to
-demonstrate that you are qualified, but that you share the same
-challenges as the learners, so you remain accessible.
-
-**What will you need to say to convey those characteristics?**
-Consider talking about your research and computational interests as
-they relate to the workshop, in order to establish yourself as an
-authority, and to make the workshop more relevant.
-
-**Why are you teaching a Carpentries workshop?**
-Why are you an instructor? What is motivating you to be there today? One
-reason might be that you took a workshop and saw how valuable these
-skills were in your own work and wanted to share this information with
-others. Convey your enthusiasm for being there.
-
-**What should you be careful not to say?** Learners do not need to
-know everything about you. In particular, it is not helpful to say
-you have never taught the course before, or that it is your least
-favorite course to teach, or to disclose any irrelevant personal
-information that can undermine you in the eyes of your learners.
+**Your introduction of yourself.** Planning this out can help you be intentional about what to include -- and what not to! A few things you may want to convey include
+* your experience or related areas of work
+* how formal/informal you want to be
+* how available you will be to the learners
+* your enthusiasm for the subject
+* your motivations for teaching 
 
 > ## Introductions for Everyone
 >
-> If you are teaching a typical Carpentries workshop, then you are
-> probably not teaching alone!  After introducing yourself, make
-> sure that you give everyone involved in the workshop - instructors,
-> helpers, organizers - a chance to introduce themselves as well.
+> If you're teaching a typical Carpentries workshop, then you are
+> probably not teaching alone!  Make
+> sure that everyone involved in the workshop - instructors,
+> helpers, organizers - has a chance to introduce themselves at some point.
+> If you spread out introductions across sections or have people coming and going,
+> it helps to build in a reminder to create time later on.
 >
-> If you are the workshop organizer, this can also be a good time
-> to thank volunteers who are instructing or helping.
 {: .callout}
 
-### 3. Clarify Learning Objectives and Your Expectations
+**Your doubts.** Sometimes if you have doubts about how the workshop will go, either because you are new to teaching or because you are aware of potential 
+problems, this may come across (intentionally or unintentionally) during your introduction. Sharing such vulnerabilities judiciously can help keep learners on 
+your side when problems do arise. However, there is also a risk of undermining learner confidence. Thinking this through in advance can keep you from oversharing
+in a moment of anxiety!
 
-This is probably the most important step. Clearly laying out
-expectations orients learners towards what you expect from them,
-and helps them use their time productively.
-
-**Describe the prerequisites** so learners will know what information
-you are assuming they already know. For Data Carpentry no prior
-computational experience is required. Expectations vary for Software
-Carpentry and Library Carpentry workshops. Convey what your expectations are.
-
-**Highlight main aspects of the schedule.**
-
-**Communicate the workshop structure** so the learners will
-understand the decisions that have been made in designing the workshop.
-Make sure to highlight
-the learning objectives and the hands-on instructional strategies we use and
-the workshop policies.
-
-**Clarify workshop roles.** Explain who is doing what at the workshop and
-what learners can expect from the workshop leaders.  If you have not already
-introduced helpers or other workshop leaders, make sure to do so.
-
-**Explain your expectations** for learner behavior including expectations
-around:
-
-- [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
-- ways to ask for help
-- ways to give instructors feedback
-
-**Communicate your commitment** to the learners' learning experience.
-
-**Share some advice for success** in your course. Let learners
-know you are confident in their success as long as they put in
-the required effort.
-
-### 4. Help Learners Learn About Each Other
-
-The classroom is a social environment, so it is helpful to start the
-social dynamics in a productive way.
-
-Icebreakers raise the energy levels and get learners comfortable so
-that they will be ready to work in groups or dialogue with each other.
+**The classroom community.** Becoming familiar with other participants helps learners relax and engage, breaking down fear and supporting a sense of belonging. 
+Icebreakers can seem silly and they do take time, but even a lightweight activity makes a big difference. This also sets the tone for an active workshop, which
+can be especially important if your curriculum does not offer early opportunities for interaction.
 
 > ## Example Icebreaker
 > Here is one example of an icebreaker you can use:
@@ -211,63 +118,85 @@ that they will be ready to work in groups or dialogue with each other.
 
 Head here for [more examples of Icebreakers][icebreakers].
 
-### 5. Set the Tone for the Workshop
 
-The way you engage learners at the beginning sends powerful messages
-about the level of involvement and interaction you expect from them.
+### Teaching Your Trajectory: Workshop 101
+Clearly establishing expectations at the outset orients learners to participate actively
+and helps them use their time productively. Keep in mind that critical information will need to be communicated more than once!
+This information should also be present in your workshop documentation and/or collaborative notes.
 
-Since these workshops are hands-on do not spend a lot of the time at
-the beginning lecturing. Get to introductions and interactions
-right away. You do not want learners to think they just have to listen
-in the course.
 
-Also establish a culture of feedback. Let learners know you are
-interested in how they experience the course and in any suggestions
-they have. Let them know they should feel free to give you constructive
-feedback, even
-anonymously. They can do this in particular with minute cards. You
-might not adopt every suggestion they have but you will listen and
-consider them. This starts to create a partnership in learning.
+**Describe the prerequisites** (if any).
 
-### 6. Collect Baseline Data on Learners' Knowledge and Motivation
+**Share the schedule and logistics.** Post lunch and break times, and stick to them! Share bathroom & lactation room locations and any other 
+instructions specific to your workshop. Demonstrating a commitment to accessibility at this point will help learners feel more comfortable making 
+additional requests as needed.
 
-You will already have information on their skill level from the
-pre-assessment survey.
-Before starting your workshop, decide what to do about different/inadequate prior knowledge.  If this
-is a workshop where a certain knowledge is required (such as an
-advertised advanced workshop), decide in advance how you will handle a
-range of skill sets.  You might tell them they cannot take the
-workshop, or that they must work through certain sections on their
-own.
+**Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g. 
+"notetaker" vs "roaming helper", be sure to introduce them, too.
 
-### 7. Whet Learners' Appetites for Workshop Content
+**Communicate your expectations** for learners, including:
+- how to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
+- ways to ask for help
+- ways to give feedback to the instructional team
 
-They are already at the workshop, so it might seem unnecessary to
-motivate them to be there, but it is a great chance to stimulate
-interest about the workshop and to activate relevant prior knowledge
-learners have about the material.
+**Collect and share baseline data on learners**. If you are teaching an official Carpentries workshop, you should have received the results of your pre-assessment surveys 
+-- these can be helpful in planning your workshop! Even so, you may have additional questions, and there will always be learners who did not fill out the survey. 
+Sharing and discussing these data with learners can help to combat imposter syndrome and let them know that they are welcome 'as they are'.
 
-### 8. Inform Learners of Logistics
+**Share some advice for success** -- including your confidence that they can do it! If you have a range of skill backgrounds, this is a good opportunity to offer 
+differentiated advice on how to make the most of the experience, e.g. suggesting that intermediate learners build their skills by helping a neighbour or
+considering more advanced questions to be discussed during the breaks.
 
-Let them know about any logistics for the days - lunch times, breaks,
-accessibility, etc.
+**Whet learners' appetites for workshop content**. In most cases, your learners chose to attend this workshop, but they may yet be unclear on whether it will 
+be worthwhile. This is a great chance to get them excited about the prospect of learning what you have to teach!
+
 
 > ## Practice Your Introduction
 >
 > Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today.
 >
-> 1. Write out some notes, covering some of the topics described above:
+> 1. Write out some notes, covering a few of the topics described above:
 > 	1.  Introduce yourself effectively
 > 	1.  Clarify learning objectives and expectations
 > 	1.  Set the tone for the workshop
 > 2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-> 3. After each introduction, provide 2-3 minutes of feedback.
+> 3. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
 >
-> This exercise will take 15-25 minutes depending on whether time is included for feedback or not.
+> This exercise will take about 15 minutes.
+{: .challenge}
+
+## The Art of a Smooth Landing
+Your workshop almost certainly had some highs and lows. If you followed our advice about going slowly, it is also likely that you will be pressed for time
+at the end! Out of respect for all involved, it is important that you end your workshop on time. Even if you have not met your content goals, 
+there are far more valuable ways to spend the last 15-20 minutes of a course than squeezing in one last command or bit of advice.
+
+> ## Brainstorm: Making the Last Moments Count
+>
+> You have made it to the end of your workshop! Everyone is exhausted and their brains are full. You could cover more content... or you could use the last few
+> minutes in another way. 
+>
+> In the etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing? 
+> If you have time after writing down your idea, read through the others in the etherpad. If you have another idea that has not been written down yet, add it 
+> to the list.
+>
+> This exercise will take about 5 minutes.
+> > ## Solution
+> > - Close and save files. Where can those files be found, and how can learners pick up independently where you left off?
+> > - Reflect on learning. This can help learners to solidify key concepts they have learned, making them easier to remember. It may also flush out a few last questions.
+> > - Plan next steps. Does the local community have resources to support continued learning? 
+> > Do you have advice for how learners might continue on their own? Even
+> > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
+> > - Collect feedback. Minute cards, one-up-one-down, and making time for Carpentries post-assessment surveys will support your continuing development as an 
+> > Instructor as well as our continuing development of Carpentries programs. This can also support or complement a reflection activity.
+> > - Check with the workshop host to see if they have any closing words or instructions they would like to share.
+> > - Celebrate everyone's hard work. Thank your learners for helping each other, for staying motivated and persevering with you! Thank your helpers -- keep a
+> > list of names handy if you might forget them. Enjoy the applause, and give everyone a moment to bask in praise for a job well done.
+> {: .solution}
 {: .challenge}
 
 
-These materials are adapted from [Carnegie Mellon Eberly
+
+Introduction materials are adapted from [Carnegie Mellon Eberly
 Center Teaching Excellence & Educational Innovation][credits]
 
 [icebreakers]: {{ page.root }}/icebreakers/
