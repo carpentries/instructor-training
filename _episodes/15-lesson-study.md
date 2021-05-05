@@ -34,6 +34,8 @@ we suggest setting aside time *before* deeply reviewing your technical content t
 your teaching will translate into their learning, and how both of you will know when that happens. In this episode, we will provide
 some structure for that preparation.
 
+![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
+
 ### Anticipating Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
