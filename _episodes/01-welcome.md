@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 start: true
-teaching: 10
+teaching: 15
 exercises: 15
 questions:
 - "What is The Carpentries and how do we approach teaching?"
