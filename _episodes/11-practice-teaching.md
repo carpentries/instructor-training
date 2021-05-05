@@ -1,8 +1,8 @@
 ---
 title: "Teaching is a Skill"
 block: "Building Teaching Skill"
-teaching: 15
-exercises: 55
+teaching: 20
+exercises: 40
 questions:
 - "How can I improve my teaching?"
 objectives:
@@ -104,22 +104,19 @@ giving you the opportunity to learn by observing and to get feedback from your f
 
 Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
 
-> ## Feedback on Yourself
+> ## Sharing Feedback
 >
-> The goal of this exercise is to practice giving and receiving feedback, so do not be
-> overly concerned about creating a perfectly polished presentation.
-> We do not give you a lot of time to prep and the teaching time is short, so embrace
-> the challenge (and improvisation) of the exercise and see what you can learn by
-> watching other people teach, thinking about how to give them feedback, and how it
-> feels to get feedback on your own teaching.
+> The prep time for this exercise is intentionally short -- the point is to 
+> practice giving and receiving feedback, not to create a perfect presentation.
+> Imperfect presentations will 
+> give you more to work with!
 >
 > **Trainings where trainees are co-located:**
 > 1.  Split into groups of three.
-> 2.  Individually, spend 5 minutes preparing to teach a 90-second segment of
+> 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
 >     the lesson episode you chose before the start of the training course. You will not
 >     be live coding; you can use a whiteboard or other visual aids if available (but
->     this is not required!). We recommend using this 90 second teaching moment
->     to introduce the topic of your lesson.
+>     this is not required!). 
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
@@ -134,14 +131,16 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > 4.  After everyone in the group of three has finished teaching,
 >     watch the videos as a group.
 >     Everyone gives feedback on all three videos,
->     i.e., people give feedback on themselves as well as on others.
+>     i.e., people give feedback on themselves as well as on others. 
+>     Keep an eye on the time during feedback, especially if your group has more than 3 people, 
+>     to be sure to leave time for everyone.
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
 >
 > **Distributed trainings:**
 > Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
 > but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching. Also with in this setup one person should be responsible for the timekeeping.
+> turn teaching. 
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
@@ -164,10 +163,11 @@ Here is a list of different
 ways that you can set the stage for receiving or providing feedback
 in a way that facilitates growth.
 
-*   Initiate feedback as the instructor. It is better to ask for feedback than to receive it unwillingly.
+*   **Initiate feedback.** Most people will not offer it freely, and those who do are not the only voices you should listen to. Also, it is easier to 
+hear feedback that you have asked for. 
 
-*   Ask for and give specific feedback. See a great example of this from
-  this Lunar Baboon comic: ![A four panel comic. The first panel shows a kid saying, "Dad, that kid said my artwork sucked." In the second panel, the father rolls up his sleeves and says "Oh yeah, well I'm going to teach him a lesson!" In the third panel, the child watches while the father points to a whiteboard on which is written "How to Give Good Feedback: 1) Be positive, 2) Be specific, 3) Give a next step." The fourth panel shows the child saying "Good use of color, but I think it needs more detail." The artist responds "I'll definitely consider that, thanks."](../fig/feedback-artwork.jpg "Comic from http://www.lunarbaboon.com/comics/feedback.html")
+*   **Be specific.** See a great example of this from
+  this [Lunar Baboon comic](lunar-babboon)
 
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
@@ -178,21 +178,21 @@ in a way that facilitates growth.
 * "What is one thing I could have done as an instructor to make this lesson more effective?"
 * "If you could pick one thing from the lesson to go over again, what would it be?"
 
-* Balance positive and negative feedback.
+* **Balance** positive and negative feedback.
     * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * Ask for both types of feedback, and give both types.
 
-* When sharing negative feedback, provide a clear next step to follow that will help the recipient improve.
+* **Provide a clear next step** with negative feedback to follow that will help the recipient improve. 
 
-* Communicate expectations. If your teaching feedback is taking the form of an
+* **Communicate expectations.** If your teaching feedback is taking the form of an
   observation (and you are comfortable enough with the observer), tell
   that person how they can best communicate their feedback to you.
 
-* When giving feedback, remember that giving and receiving feedback is a skill that requires practice, so do not
+* When giving feedback, **remember that giving and receiving feedback is a skill** that requires practice, so do not
 be frustrated if your feedback is rejected but try to think about why the recipient might not have been comfortable
 with the feedback you gave.
 
-* Use a feedback translator.  Have a fellow
+* Use a **feedback translator.**  Have a fellow
   instructor (or other trusted person in the room) read over all the feedback and give
   an executive summary.   It can be easier to hear "It sounds like most people
   are following, so you could speed up" than to read several notes all saying, "this is
@@ -200,31 +200,21 @@ with the feedback you gave.
 
 This is part of the reason for The Carpentries rule,
 "Never teach alone."
-Having another instructor in the classroom saves your voice
-(it is hard to talk for two days straight),
+Having another Instructor in the classroom divides the effort,
 but more importantly,
-it is a chance for instructors to learn from one another and be a supportive voice
+it is a chance for Instructors to learn from one another and be a supportive voice
 in the room.
 
 Finally, be kind to yourself. If you are a self-critical person,
 it is OK to remind yourself:
 
-*   The feedback is not personal.
-*   There are always positives along with the negatives.
+*   The feedback is not personal. In many cases, feedback says more about the person giving it than the person receiving it.
+*   There are always positives along with the negatives. Save your favorites to review regularly!
 
-> ## Feedback on Feedback (Optional)
->
-> Watch either this [scipy tutorial][scipy-video-1] (8:40)
-> or this [other tutorial][scipy-video-2] (11:42).
-> For each, give feedback following the 2x2
-> model. Put your feedback in the Etherpad.
->
-> This exercise and discussion should take about 15 minutes.
-{: .challenge}
 
 > ## Using Feedback
 >
-> Look back at the feedback you received on your teaching in an earlier exercise.
+> Look back at the feedback you received on your teaching.
 > How do you feel about this feedback? Is it fair and reasonable? Do you agree with it?
 >
 > Identify at least one specific change you will make to your teaching based on this feedback.
@@ -242,15 +232,7 @@ transform getting feedback from an unpleasant experience to a richly rewarding o
 practice teaching and to get and give feedback tomorrow.
 
 
-## Optional Exercises
-
-> ## Skill Acquisition: What level are your teaching skills?
->
-> As with computational skills, people have a tendency to think of teaching as something you are "just good at" or not. However, teaching is a skill, and expertise develops with attentive practice.
-> Examine the descriptions of "novice," "competent practitioner," and "expert." Where do you think you fall with regard to teaching? What have you learned about teaching? What are you aware of that you still need to learn?
-> Discuss with a partner and then write some thoughts in the Etherpad.
-{: .challenge}
-
+[lunar-babboon]: http://www.lunarbaboon.com/comics/feedback.html
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
