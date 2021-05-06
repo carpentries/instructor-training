@@ -3,7 +3,7 @@ start: false
 title: "Live Coding is a Skill"
 block: "Building Teaching Skill"
 teaching: 20
-exercises: 50
+exercises: 45
 questions:
 - "Why do we teach programming using participatory live coding?"
 objectives:
@@ -43,7 +43,7 @@ We refer to the practice of having the instructor live code and the learners cod
 > from both a learner's and an instructor's point of view
 > in the Etherpad.  
 >
-> This discussion should take about 10 minutes.
+> This discussion should take about 5 minutes.
 >
 >> ## Solution  
 >> Some advantages are:
