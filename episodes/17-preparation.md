@@ -70,7 +70,7 @@ Learner profiles have three parts:
 > and how to use R to read these files and calculate the required statistics.
 > It will also show him how to put his programs and files under version control
 > so that he can re-run analyses and figure out which results may have been affected by changes.*
-
+>
 > Sketch out a short profile of someone you might expect to attend your workshop.
 > Who are they,
 > what motivating problems do they face,
