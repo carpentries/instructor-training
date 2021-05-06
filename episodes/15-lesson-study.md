@@ -34,6 +34,8 @@ we suggest setting aside time *before* deeply reviewing your technical content t
 your teaching will translate into their learning, and how both of you will know when that happens. In this episode, we will provide
 some structure for that preparation.
 
+![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
+
 ### Anticipating Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
@@ -183,11 +185,13 @@ checkpoints built in where such progress is made clear.
 > resource when preparing lessons, especially when teaching a lesson for the first time.  
 > The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 > In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [here][Config] along with suggested solutions. This link is on the workshop page as well for easy access by learners and during workshops. We will see more about workshop pages this afternoon.  
+> technical hurdles common across multiple lessons are detailed [in this community-developed page][Config] 
+> along with suggested solutions. This link is built into each workshop website as well for easy access by learners and 
+> during workshops. If you find new problems or solutions, please contribute! We will learn more about workshop 
+> websites shortly.  
 {: .callout}
 
 
 [Wiggins]: http://www.worldcat.org/title/understanding-by-design/oclc/56491025
 [Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
-
 

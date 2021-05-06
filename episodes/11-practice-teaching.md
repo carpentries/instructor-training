@@ -161,7 +161,6 @@ it is OK to remind yourself:
 *   There are always positives along with the negatives. Save your favorites to review regularly!
 
 
-
 > ## Giving Feedback
 >
 > We will start by observing some examples of teaching and providing some feedback.
@@ -221,6 +220,7 @@ Now that you have had some practice observing teaching and giving feedback, let 
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
+
 
 
 > ## Using Feedback
