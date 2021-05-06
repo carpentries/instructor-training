@@ -8,15 +8,13 @@ questions:
 - "How can we design instruction to work with, rather than against, memory constraints?"
 objectives:
 - "Remember the quantitative limit of human memory." 
-- "Apply concept mapping as a strategy to identify concepts and relationships required in a lesson."
-- "Use a concept map to plan a formative assessment strategy."
-- "Name the three components of cognitive load theory and which should be emphasized or diminished." 
-- "Identify when cognitive load is likely to limit learning."
+- "Distinguish desirable from undesirable cognitive load." 
+- "Evaluate cognitive load associated with a learning task."
 keypoints:
 - "Most adults can store only a few items in short-term memory for a few seconds before they lose them again."  
 - "Things seen together are remembered (or mis-remembered) in chunks."  
-- "Teaching consists of loading short-term memory and reinforcing it long enough for items to be transferred to long-term memory."
-- "Use formative assessments to avoid overloading short-term memory."
+- "Cognitive load should be managed through guided practice to facilitate learning and prevent overload."
+- "Formative assessments can help to consolidate learning in long-term memory."
 ---
 
 In our final topic in how people learn (and therefore, how we can be more
@@ -28,7 +26,7 @@ specifically, how to remove unnecessary "load" in order to facilitate learning.
 Learning involves memory. For our purposes, human memory can be divided into two different
 layers.
 The first is called *long-term*.
-It is where we store  persistent information like our passwords and our home address.
+It is where we store persistent information like our friends' names and our home address.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
 but it is slow to access.
@@ -37,7 +35,7 @@ Our second layer of memory is called *short-term*. This is the
 type of memory you use to actively think about things and is often called working memory. It is much faster, but also much
 smaller: in 1956, George Miller estimated that the average adult's short-term memory could hold
 [7±2 items][wikipedia-7] for a few seconds before things started to drop out.
-This is [why phone numbers are typically 7 or 8 digits long][phone-nums]:
+This is why phone numbers are typically 7 or 8 digits long:
 back when phones had dials instead of keypads,
 that was the longest sequence of numbers most adults could remember accurately
 for as long as it took the dial to go around and around.
@@ -51,12 +49,14 @@ the material as well as if we present small amounts of information interspersed 
 practice opportunities. This is yet another reason why going slowly and using
 frequent formative assessment is important.
 
-> ## Test Your Working Memory (5 min)
+> ## Test Your Working Memory
 >
 > [This website][memory-test] implements a short test of working memory.  
 >
-> Take 5 minutes to complete the exercise. What was your score? Write your answer
+> What was your score? If you are comfortable, share your answer
 > in the Etherpad.
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
 > ## Test Your Working Memory - Analog version (5 min)
@@ -68,26 +68,32 @@ frequent formative assessment is important.
 >
 > Without looking at the list again, write down as many words from the list as
 > you can. How many did you remember? Write your answer in the Etherpad.
+> 
+> ## Accessibility Adaptation
+> The list above may also be read aloud, slowly and clearly, by the Trainer hosting the session. 
+> On your mark, ask learners to write down their answers where others cannot see them, then read the list 
+> again so they can check their work.
 {: .challenge}
 
-Most people will have found they only remember 5-7 words. Do not worry if you
-remembered fewer - many factors can affect short-term memory in different situations.
-Fortunately, there are techniques that we can use to improve our effective short-term memory.
-We will illustrate one of these techniques and then describe how this is applicable to our
-workshops.  
+Most people will have found they only remember 5-7 words. Those who 
+remember less may be experiencing distraction, fatigue, or (as we will learn shortly) "cognitive overload."  
+Those who remember more 
+are almost invariably deploying a *memory management strategy*.
 
 ## Strategies For Memory Management
 
-Our role as instructors, therefore, is to help our learners by not flooding their
-short term memory with too much information, partially by providing strategies
-and exercises to help them form the connections that will move concepts into
-long-term memory. What are some tools for doing this?
+Because short-term memory is limited, we can support learners by not flooding their
+short term memory with too many separate pieces of information. Does this mean we should 
+teach fewer concepts? Yes! However, this is not the only tool in our toolbox. 
+We can also assist by providing strategies
+and exercises to help them form the connections that will a) support them in holding more 
+things in short-term memory at once and b) begin to *consolidate* some concepts, moving them into
+long-term memory.
 
 ### Chunking
 
-One is by explicitly forming connections or groupings.  
 Our minds can store larger numbers of facts in short-term memory by creating *chunks*, or
-relationships among separate items, causing them to be remembered as a single item.
+relationships among separate items, allowing them to be remembered as a single item.
 For example, most of us will remember a word we read as a single item ("cat"), rather
 than as a sequence of letters ("c-a-t").
 Similarly, the pattern made by five spots on cards or die is remembered as a whole
@@ -100,226 +106,177 @@ rather than as five separate pieces of information.
 >
 > Write the number of words you remembered in the Etherpad.
 > How does this compare with your first attempt?
+> 
+> This exercise should take about 5 minutes.
 {: .challenge}
 
-Storing words in groups reduces the number of effective
+Associating concepts 
+reduces the number of effective
 items in your short-term memory, allowing you to keep
-more information in your head at once. This is one reason
-why helping our learners to see the connections among
-the concepts we are teaching is so important.  
+more information in your head at once. 
+
+You may have come across other mnemonic strategies, including some that rely on imagining a 
+"place" association for each item, e.g. a "memory palace." While slightly different from 
+chunking, this is another example of how 
+*connecting* information can make it easier to remember.
 
 ### Active Learning Through Formative Assessment
 
 Formative assessment is a key component in helping learners solidify their understanding
-and transfer ideas from short-term memory into long-term memory. It is important
-to use formative assessments frequently to help learners transition new concepts
-into their long-term memory, before their short-term memory fills up. It can
-be helpful to use pedagogical planning tools to identify the number of concepts
-that are being introduced in a lesson and plan where to include formative
-assessments.
+and begin transferring ideas into long-term memory. The limitations of short-term 
+memory are one reason why assessments should be frequent: short-term memory is limited not only in 
+space, but also in time. As items begin to be consolidated into long-term memory, they also 
+become more consistently accessible for application during the workshop.
+
+Formative assessment will help learners to retain new information. However, it also sometimes 
+asks them to integrate things they may have already forgotten. The fact that a concept 
+was previously taught at a workshop does not mean that it will automatically be available for 
+use once its (very brief!) short-term memory window has expired. Be sure to remind learners of prior concepts 
+essential to a task. 
 
 ### Limit concepts
 
 In the same vein as "going slowly," it is important to limit the number of
-concepts introduced in a lesson; no matter how many exercises or formative
-assessments you do, you cannot overcome the limit of items that can be
-shored in short-term memory. Planning your lesson with a concept map can help you 
+concepts introduced in a lesson. This can be hard! As you are reviewing a lesson 
+to teach, you will doubtless come across related concepts that are very useful, and 
+you may feel strongly motivated to sneak them in. 
+Planning your lesson with a concept map can help you 
 not only identify key concepts and relationships, but also to notice when you are trying to 
-teach too many things between assessments. 
+teach too many things at once. 
+
+### Group Work
+
+_Elaboration_, or explaining your work, supports transfer 
+to long-term memory. This is one reason why *teaching* is one of the most effective ways to learn! 
+Group work can feel uncomfortable at first and consumes time in a workshop, but 
+learners often rate group work as a high point for both enjoyment and learning in a workshop. 
+This is also a great opportunity for helpers 
+to circulate and address lingering questions or engage with more advanced discussions.
+
+### Opportunities for Reflection
+
+Reflection is another tool that can help learners review things they have 
+learned, strengthen connections between them, and consolidate long-term memories. Like 
+formative assessment, asking 
+learners for feedback can double as both a source of information and an effective consolidating 
+prompt, as providing feedback demands some reflection on what has been learned. We will talk 
+more about methods for this in the next section. You may also wish to pause 
+and allow learners to write summary notes for themselves or otherwise ask them to review 
+what they have learned at various points in the workshop.
 
 
-> ## Concept Maps in the Classroom
-> In addition to helping you plan where to introduce formative assessments, concept maps can
-> be used in many other ways:
->
-> 1.  To aid solo design of a lesson.
-> 2.  To aid communication with fellow lesson designers.
-> 3.  To aid communication with learners. 
-> - When using a concept map as a communication aid, it is best to build the map piece by piece rather than providing it all at once.
-> 4.  As a classroom discussion exercise.
-> 5.  As a formative assessment technique.
-> - When asking learners to create a concept map, it is important to limit concepts and focus narrowly on target learning. Mind the (expert awareness) gap!
-{: .callout}
+## Attention is a Limited Resource
 
-## Why Guided Practice is Important
-
-Another way to think about the challenge of managing memory is through
+Memory is not the only cognitive resource that is limited. Attention is constrained as well. 
+While many people believe that they can "multi-task," the reality is that attention can 
+only focus on one thing at a time. Adding items that demand attention adds more things 
+to alternate between attending to, which can reduce efficiency and performance on all of them.
 the theory of *[cognitive load][wikipedia-cognitive-load]*.
-It posits that people have to deal with three things when they are learning:
+There are different theories of cognitive load, but one by Sweller posits that people have to 
+attend to three types of things when they are learning:
 
-*   *Intrinsic* load is what they have to keep in mind in order to carry out a learning task.
-*   *Germane* load is the (desirable) mental effort required to create linkages between new information and old
-    (which is one of the things that distinguishes learning from memorization).
-*   *Extraneous* load is everything else that distracts or gets in the way.
+*   Things they have to think about in order to *perform a task* ("intrinsic").
+*   Mental effort required to *connect the task* to new and old information ("germane").
+*   *Distractions* and other mental effort not directly related to performing or learning from the task ("extraneous").
 
-Cognitive load theory's proponents claim that eliminating extraneous cognitive load accelerates learning. One
-way to do this is by using *guided practice*: we set up a structure in which learners can
-apply their skills with direction and get feedback on their progress.
+Cognitive load is not always a bad thing! There is plenty of evidence that *some* difficulty is desirable 
+and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular 
+attention to extraneous load, can help prevent *cognitive overload* from impeding learning altogether. 
 
-> ## Why We Do not Use Minimal Guidance
+One way to manage cognitive load as tasks become more complex is by using *guided practice*: 
+creating a structure in which learners can
+apply their skills in stepped, precisely targeted ways and get feedback on their progress before 
+transferring their attention to a different element to be learned.
+
+> ## Is Guided Practice "Hand Holding?"
 >
 > An alternative to guided practice is a *minimal guidance* approach, where
 > learners are given raw materials (for example a text or reference) and
 > asked to explore and learn to solve problems on their own.
-> Minimal guidance practice comes from another teaching strategy
+> Minimal guidance is commonly found in many instructional strategies you may have encountered, 
 > variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
 > or *inquiry-based* learning.
 >
-> You may have heard of some of these strategies, and they are not without
-> merit! But they frequently fall flat. Cognitive load theory, introduced by [Kirshner et al.][kirschner-paper] 
-> in response to the popularity and uneven success of these approaches, applies what we know about
-> human cognitive architecture to understand why minimal guidance often fails.
+> These strategies are not without merit! But they frequently fall flat. 
+> A landmark paper by [Kirshner et al.][kirschner-paper] 
+> responds to the popularity and uneven success of minimal guidance, applying 
+> cognitive load theory to understand why these strategies often fail.
 >
+> Some people feel concerned that guided practice amounts to "hand-holding," 
+> implying that learners who receive support may never learn 
+> to function independently. This view fails to account for the *additional cognitive 
+> load* experienced by novices creating new connections while learning a task. 
 > Minimally-guided instruction requires learners to simultaneously
 > master a domain's factual content
-> and its search and problem-solving strategies.
-> Fostering creativity and independence is intuitively appealing,
+> and its search and problem-solving strategies. Fostering creativity and independence takes time.
+> Minimal guidance is intuitively appealing,
 > but that does not mean it works.
 {: .callout}
 
-In the framework of cognitive load, some additional predictions can be made.
-
-One example is work by Mayer and colleagues on
-the *[split-attention effect][wikipedia-split-attention]*.
-Linguistic and visual input are processed by different parts of the human brain,
-and linguistic and visual memories are stored separately as well.
-This means that correlating different linguistic, auditory, and visual
-streams of information takes cognitive effort:
-when someone reads one thing while hearing something else spoken aloud,
-their brain cannot help but check that it is getting the same information on both channels.
-Discrepancies between these channels increase cognitive load and decrease learning.
-Learning is therefore more effective when information that is being presented simultaneously
-in two different channels is redundant, rather than different.
-
-For our workshops, this means the instructor should say out loud commands as they type them on the screen while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
-
-## Guided Practice at Work
-
-How do we implement guided practice, lessening the burden of extraneous
-cognitive load and allow people to focus on what is important?  There are
-many different types of exercises that implement this guided practice; some
-are listed in this [blog post by Greg Wilson][GW-exercise-post], including
-Parson's Problems and labelling diagrams.
-
-To learn more about a specific guided practice exercise
-called *faded examples*, read on.
-
-According to cognitive load theory,
-searching for a solution strategy is an extra burden
-on top of applying that strategy.
-We can therefore accelerate learning
-by giving learners worked examples that show them a problem and a detailed step-by-step solution,
-followed by a series of faded examples.
-The first of these presents a nearly-complete use of the same problem-solving strategy
-with a small number of blanks for the learner to fill in.
-The next problem is also of the same type,
-but has more blanks,
-and so on until the learner is asked to solve the entire problem.
-
-Faded examples work because they introduce the problem-solving strategy piece by piece.
-At each step,
-learners have one new problem to tackle.
-This is less intimidating than a blank screen or a blank sheet of paper.
-It also encourages learners to think about the similarities and differences between various approaches,
-which helps create the linkages in the mental model that instructors want them to form.
-
-For example,
-someone teaching Python might start by explaining this:
-
-~~~
-def total_length(words):
-    """Returns the total length of all words in a list combined.
-
-    Example:
-       total_length(["red", "green", "blue"]) => 12
-    """
-    total = 0
-    for word in words:
-        total += len(word)
-    return total
-~~~
-{: .python}
-
-then ask learners to fill in the blanks in:
-
-~~~
-def word_lengths(words):
-    """Returns a list of lengths of each word in a list.
-
-    Example:
-        word_lengths(["red", "green", "blue"]) => [3, 5, 4]
-    """
-    lengths = ____
-    for word in words:
-        lengths ____
-    return lengths
-~~~
-{: .python}
-
-The next problem might be:
-
-~~~
-def concatenate_all(words):
-    """Combines all words in a list into one.
-
-    Example:
-        concatenate_all(["red", "green", "blue"]) => "redgreenblue"
-    """
-    result = ____
-    for ____ in ____:
-        ____
-    return result
-~~~~
-{: .python}
-
-and learners would finally be asked to tackle:
-
-~~~
-def acronymize(words):
-    """Returns the first letter of each word in a list capitalised in a single string.
-
-    Example:
-        acronymize(["red", "green", "blue"]) => "RGB"
-    """
-    ____
-~~~
-{: .python}
-
-Another situation in which a concept map can be helpful is in deciding where to place the
-blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
-concept in your concept map.
-
-> ## Create a Faded Example from a Lesson (Optional)
+> ## Mapping Cognitive Load
 >
-> The following exercise should be done in groups of 2-3.
->
-> 1.  Pick a block of code from an existing Carpentries lesson,
->     or from another lesson you have taught recently.
-> 2.  Replace 2-3 pieces of the code with a blank.
-> 3.  Write a question to test the learner's ability to correctly fill in that blank.
-> 5.  Paste your faded example in the Etherpad.
->
-> This exercise should take about 10 minutes.
->
->> ## Solution
->>
->> Your solution to this exercise could look similar to the example
->> given above, or something like this:
->>
->> **Question**  
->> In this example, we will graph the change in life expectancy over time
->> as a line graph, giving each country a unique color and each continent
->> its own unique panel or facet.  
->> What would you add to the blank spaces to create this graph?
->>```
->> ggplot(data = az.countries, aes(x = year, y = lifeExp, color = ________)) +
->>   geom_line() +  facet_wrap( ~ _______)
->>```
->>
->>**Answer** `country` and  `continent`
->>
->{: .solution}
+> Look in the curriculum that you chose to prepare for this workshop and focus on one step or task 
+> that learners will be asked to complete. 
+> 1) What concepts will learners need to understand and hold in short-term memory in order to complete this task?
+> 2) Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?
+> 3) How many of these concepts and relationships have been introduced since the previous step or exercise? 
+> 
+> With a partner or in small groups, discuss what you have found. 
+> 
+> This exercise should take about 15 minutes.
 {: .challenge}
+
+
+## Attention Management in Your Workshop
+Broadly, guided practice means providing structure for learners that asks them to 
+actively engage with practice in manageable increments. This stands in contrast, for 
+example, with a "lecture/lab" type arrangement, in which learners may be expected to apply 
+everything they have learned in a long lecture to implement a complex lab exercise. 
+
+The Carpentries approach to instruction uses participatory live coding, a technique we will discuss 
+in more detail tomorrow. Carpentries lessons generally contain small tasks arranged incrementally 
+which may be completed together, with interspersed challenges asking learners to accomplish a small number of things 
+based on limited prior knowledge. 
+
+You have many choices in how you use these curriculum materials, including exercises that may be added 
+for practice or formative assessment, decisions to work in groups or pairs, and choices about what to 
+display for learners while they work. We will briefly consider the implications in each case for memory, 
+attention, and learning.
+
+### Creating Exercises
+
+There are
+many different types of exercises that are compatible with guided practice. Carefully targeted multiple 
+choice questions can play this role. A few more that you may wish to consider are:
+* Faded examples: fill-in-the-blank programming blocks
+* Parson's Problems: out-of-order code sorting challenges
+* Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
+
+For more on computational exercises, see this [blog post by Greg Wilson][GW-exercise-post].
+
+### What to Display
+
+The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps 
+any of the Instructor Training curriculum during your time as a learner in this workshop. In most situations **we do not recommend 
+displaying Carpentries curriculum materials** to your learners while you teach. 
+
+The visual environment in a workshop should be focused on exactly what you are teaching and should mirror, 
+as closely as possible, exactly what you say. 
+This is because keeping track of distracting and contradictory sensory information adds to cognitive load. 
+The *[split-attention effect][wikipedia-split-attention]* describes the cognitive effort involved with 
+trying to assemble information from different modalities. Learning is most effective when visual 
+displays, text, and auditory information presented together
+are the same, with minimal distractions. 
+
+For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen** 
+while engaging learners in [participatory live coding]({{ page.root }}/14-live/).
+
+One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands** 
+and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access 
+items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary 
+is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document 
+for reference as needed.
+
 
 ## Summary
 The process of learning is constrained by the limits of short-term memory. In order to move
@@ -342,5 +299,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
-[phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
 [GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types/
