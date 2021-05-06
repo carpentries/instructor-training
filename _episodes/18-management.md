@@ -38,7 +38,7 @@ A typical Carpentries workshop includes 3 roles; sometimes individuals may choos
 - Two or more **Instructors** who plan and execute workshop instruction
 - **Helpers** who support learners during the workshop  
 
-## Hosting
+### Hosting
 We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is 
 a significant role in any workshop. A suggested checklist for this role is in [The Carpentries Handbook][host-checklist].
 
@@ -119,7 +119,7 @@ are expected in all Carpentries workshops. These include:
 > thumbs up that can be turned into thumbs down stickies etc.).
 {: .callout}
 
- #### Formative Assessment
+#### Formative Assessment  
  Calling for sticky notes is one kind of formative assessment! But it does not give you detailed information about how learners
  are progressing. 
  
@@ -130,10 +130,9 @@ are expected in all Carpentries workshops. These include:
  At in-person workshops, beverages and snacks to suit a range of dietary needs are highly recommended. This may mean charging a 
  small fee for your workshop to cover the cost.
  
- #### Feedback
+#### Feedback
  Using sticky cards as "minute cards" and creating time for Carpentries surveys are two essential components of a Carpentries workshop.
  Save your best feedback to look at on a tough day! 
-
 
 ### Co-Teaching Models
 
