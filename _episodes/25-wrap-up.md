@@ -1,7 +1,7 @@
 ---
 title: "Wrapping Up"
 teaching: 0
-exercises: 15
+exercises: 10
 questions:
 - "What can we improve in this training?"
 objectives:
