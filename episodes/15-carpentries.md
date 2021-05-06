@@ -184,7 +184,7 @@ back for policy changes, and keep in touch on our [communications channels][conn
 > self-organized workshop, and the other can ask about a centrally-organized workshop. If you have a third person, they can help out with follow-up questions
 > or answers as needed.
 > 
-> If you encounter new questions during this process, be sure to write them in the Etherpad.
+> When you encounter new questions during this process, be sure to write them in the Etherpad.
 >
 > Leave about 10 minutes for this discussion.
 {: .challenge}
