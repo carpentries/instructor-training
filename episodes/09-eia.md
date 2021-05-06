@@ -30,9 +30,7 @@ and may be familiar to you, but not everyone understands or interprets them in t
 with a few working definitions, adapted from the [University of Pittsburgh DEI Glossary][glossary]:
 
 **Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, 
-equity refers to outcomes while equality connotes equal treatment. More directly, equity is when an individual’s 
-race, gender, socio-economic status, sexual orientation, etc. do not determine their educational, economic, 
-social, or political opportunities.
+equity refers to outcomes while equality connotes equal treatment. 
 
 **Inclusion:**  Authentically bringing traditionally excluded individuals and/or groups into processes, activities 
 and decision/policy making in a way that shares power. Inclusion promotes broad engagement, shared participation, 
