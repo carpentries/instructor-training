@@ -127,7 +127,6 @@ The key to UDL is creating redundancies such that learners have multiple options
 > 
 > This exercise should take about 10 minutes.
 > 
-> {: .solution}
 {: .challenge}
 
 
