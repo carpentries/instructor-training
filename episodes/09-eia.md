@@ -32,16 +32,14 @@ with a few working definitions, adapted from the [University of Pittsburgh DEI G
 **Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, 
 equity refers to outcomes while equality connotes equal treatment. 
 
-**Inclusion:**  Authentically bringing traditionally excluded individuals and/or groups into processes, activities 
-and decision/policy making in a way that shares power. Inclusion promotes broad engagement, shared participation, 
+**Inclusion:**  Actively engaging traditionally excluded individuals and/or groups in processes, activities 
+and decisions in a way that shares power. Inclusion promotes broad engagement, shared participation, 
 and advances authentic sense of belonging through safe, positive, and nurturing environments. 
-Inclusion is key to eliminating systemic inequality.
 
 **Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few) 
-that increase one's ability to use, access, and obtain the respective item. Each person, regardless of ability status, 
+that increase one's ability to use, access, and obtain the respective item. Each person  
 is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services 
 in an equally effective and equally integrated manner, with substantially equivalent ease of use. 
-
 
 ### The Carpentries Core Values
 
