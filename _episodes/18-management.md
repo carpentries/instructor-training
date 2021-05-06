@@ -221,6 +221,7 @@ For these reasons and more we encourage you to **discuss Code of Conduct enforce
 > 2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook: https://docs.carpentries.org/topic_folders/policies/index_coc.html  
 > * What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
 > * What questions do you have about CoC enforcement?  
+> 
 > 3) Write some notes in the Etherpad. 
 >
 > This discussion should take about 10 minutes.
