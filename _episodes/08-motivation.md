@@ -86,7 +86,7 @@ motivating.
 > but most graphical editors save things to the user's desktop or home directory.
 > If a novice needs to run shell commands on the files they've edited,
 > they often fail to navigate to the right directory without help.
-> You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
+> You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/04-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
 > If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
 {: .callout}
 
@@ -158,7 +158,7 @@ often the 'first responders' to learner mistakes.
 
 
 + **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using 
-[participatory live coding]({{ page.root }}/14-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
+[participatory live coding]({{ page.root }}/20-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
 coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both 
 problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can 
 help here, too.
@@ -216,7 +216,7 @@ serious hazards in the classroom! Here are a few **things you should not do in y
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
 *   **Use the J word ("just") or other demotivating words** we talked about in a
-    [previous lesson]({{ page.root }}/03-expertise/). These signal to the learner that
+    [previous lesson]({{ page.root }}/04-expertise/). These signal to the learner that
     the instructor thinks their problem is trivial
     and by extension that they therefore must be deficient
     if they are not able to figure it out.
