@@ -116,7 +116,7 @@ in a way that facilitates growth.
 hear feedback that you have asked for. 
 
 *   **Be specific.** See a great example of this from
-  this [Lunar Baboon comic](lunar-babboon)
+  this [Lunar Baboon comic][lunar-babboon]
 
   As an instructor one way to get specific feedback is to provide questions that
   focus the responses.  Writing your own feedback questions allows you to frame
@@ -243,12 +243,12 @@ transform getting feedback from an unpleasant experience to a richly rewarding o
 practice teaching and to get and give feedback tomorrow.
 
 
-[lunar-babboon]: http://www.lunarbaboon.com/comics/feedback.html
+[lunar-babboon]: https://www.lunarbaboon.com/comics/feedback.html
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
 [scipy-video-2]: https://vimeo.com/139181120
-[oecd-pisa]: http://www.oecd.org/pisa/
+[oecd-pisa]: https://www.oecd.org/pisa/
 [fincher-warren]: {{ page.root }}/files/papers/fincher-warrens-questions-2007.pdf
 [fincher-stories]: {{ page.root }}/files/papers/fincher-stories-change-2012.pdf
 [barker-practice]: {{ page.root }}/files/papers/barker-practice-adoption-2015.pdf

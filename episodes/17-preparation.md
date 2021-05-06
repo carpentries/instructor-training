@@ -192,6 +192,6 @@ checkpoints built in where such progress is made clear.
 {: .callout}
 
 
-[Wiggins]: http://www.worldcat.org/title/understanding-by-design/oclc/56491025
+[Wiggins]: https://www.worldcat.org/title/understanding-by-design/oclc/56491025
 [Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
 
