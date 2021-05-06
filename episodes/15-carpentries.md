@@ -119,7 +119,7 @@ Certified Carpentries Instructors can teach curricula for any of the lesson prog
 (Data Carpentry, Library Carpentry, and Software Carpentries)
 as they feel able. Instructor badges
 may list a primary lesson program affiliation, but Instructors are **not** required to certify separately for each. For more
-information, see the description of [the Instructor checkout procedure]({{ page.root }}/checkout/).
+information, see the description of [the Instructor checkout procedure]({{ page.root }}{% link _episodes/14-checkout.md %}).
 
 ### Carpentries Jargon Review
 
