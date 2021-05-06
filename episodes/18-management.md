@@ -7,7 +7,7 @@ questions:
 - "What are the challenges of managing a heterogeneous classroom?"
 - "What should we do if there is a Code of Conduct violation?"
 - "What does it mean to be a co-Instructor?"
-- "How does an instructional team prepare for a workshop?
+- "How does an instructional team prepare for a workshop?"
 objectives:
 - "Identify potential challenges of teaching learners with very different backgrounds and skill levels."
 - "Locate resources to direct your response if someone at your workshop violates the Code of Conduct."
