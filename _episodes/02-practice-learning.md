@@ -480,9 +480,9 @@ in which you were going to explain something that your learners already know.
 {: .callout}
 
 
-[swc-shell-novice]: http://swcarpentry.github.io/shell-novice/
+[swc-shell-novice]: https://swcarpentry.github.io/shell-novice/
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
-[nurses-dreyfus]: http://journals.sagepub.com/doi/10.1177/0270467604265061
+[nurses-dreyfus]: https://journals.sagepub.com/doi/10.1177/0270467604265061
 [Benner-dreyfus]: https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.&qt=hot_author
 [Edutopia]: https://www.edutopia.org/groups/assessment/250941
 [Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect

@@ -265,12 +265,12 @@ Want to **join meetings** (to meet new people or listen in)?
 {: .challenge}
 
 [F1000]: https://f1000research.com/articles/3-62/v2
-[IJDC]: http://ijdc.net/index.php/ijdc/article/view/10.1.135
+[IJDC]: https://ijdc.net/index.php/ijdc/article/view/10.1.135
 [LIBERQ]: https://www.liberquarterly.eu/article/10.18352/lq.10176/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [instructors-list]: https://carpentries.topicbox.com/groups/instructors
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
-[community-page]: http://carpentries.org/community/
+[community-page]: https://carpentries.org/community/
 [connect-page]: https://carpentries.org/connect/
 [contact-page]: https://carpentries.org/contact/
 [coreteam-page]: https://carpentries.org/team/
@@ -289,7 +289,7 @@ Want to **join meetings** (to meet new people or listen in)?
 [dc-lessons]: https://datacarpentry.org/lessons/
 [lc-lessons]: https://librarycarpentry.org/lessons/#core-curriculum
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
-[lesson-template]: https://carpentries.github.io/lesson-example/ 
+[lesson-template]: https://carpentries.github.io/lesson-example/
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/

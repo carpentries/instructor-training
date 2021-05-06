@@ -299,4 +299,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
-[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types/
+[GW-exercise-post]: https://third-bit.com/2017/10/16/exercise-types/
