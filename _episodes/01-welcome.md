@@ -52,7 +52,7 @@ learning environment we encourage you to:
 * Show courtesy and respect towards other community members
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries 
-Code of Conduct Committee by completing [this form][https://goo.gl/forms/KoUfO53Za3apOuOK2].
+Code of Conduct Committee by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 ## Introductions
 Hello everyone, and welcome to The Carpentries
