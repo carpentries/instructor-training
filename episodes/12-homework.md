@@ -26,12 +26,12 @@ To prepare for tomorrow, please:
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/14-live/).
-    If you have not already, pick an episode from an existing Software Carpentry, Data Carpentry, or Library Carpentry lesson and 
+    If you have not already done so per the pre-workshop instructions, pick an episode from an existing Software Carpentry, 
+    Data Carpentry, or Library Carpentry lesson and 
     read through it carefully.
-    Tomorrow, you will use this to practice live coding for 3 minutes in groups of three.
-    Your group members will comment on the delivery and content.
-    The episodes we recommend were listed in the welcome message
-    sent to you before the start of this course, and are:
+    Tomorrow, you will use this to practice live coding/participatory instruction for 3 minutes. 
+    Remember, imperfect presentations can generate useful feedback!
+    If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
     *   Data Carpentry
         *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
         *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)

@@ -7,12 +7,11 @@ training_site: https://carpentries.github.io/instructor-training
 
 1.  Please read ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
 
-2.  Please go to the [Software Carpentry lessons page]({{ site.swc_site }}/lessons/)
-    and the [Data Carpentry lessons page]({{ site.dc_site}}/lessons/),
-    have a look at what we currently teach,
-    and then choose *one* episode from the list at the bottom of this page and read through it carefully.
-    You will be using your selected episode for several in-class exercises,
-    so be sure you are comfortable with the content.
+2.  Please go to the [Software Carpentry lessons page]({{ site.swc_site }}/lessons/),
+    the [Data Carpentry lessons page]({{ site.dc_site}}/lessons/), or the [Library Carpentry lessons page]({{ site.lc_site}}/lessons/) 
+    have a look at what we currently teach Carefully read through one episode of your choice. You will be using your selected episode for several in-class 
+    exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson. For a list of 
+    recommended episodes, see below.
 
 For In-Person Events: 
 
@@ -25,20 +24,20 @@ For In-Person Events:
 
 For Online Events:
 
-3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full 2-days. You will need to have
+3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full workshop. You will need to have
     the bandwidth to transmit video during your practice exerises.
 
 After this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
-the details are available on [the checkout checklist]({{ page.training_site }}/checkout/).
+the details are available in [this episode]({{ page.root }}/14-checkout/).
 If you have any questions about the workshop, the reading material, or anything else, please [get in touch](mailto:checkout@carpentries.org).
 
 If you are interested in doing more reading, we have [some recommendations]( {{ page.training_site }}/reference).
 
-Episodes
+Recommended Episodes
 --------
 
-Please read through *one* of the episodes below carefully, so that you can do some exercises based on it on the first day of the class.
+If you are having trouble choosing an episode, we recommend choosing one of the following: 
 
 **Data Carpentry**
 
