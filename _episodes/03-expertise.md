@@ -179,11 +179,9 @@ Instructors want to motivate learners! We will talk more about motivation in a l
 we will take a moment to recognize one *ineffective* strategy often deployed by experts who 
 want learners to *believe that a task is as easy as they think it is.* This often manifests 
 in using the word "just" in explanations,
-as in, "Look, it is easy, you just fire up a new virtual machine
-and then you just install these four patches to Ubuntu
-and then you just re-write your entire program in a pure functional style---no problem."
-This gives learners the very clear signal
-that the instructor thinks their problem is trivial
+as in, "Look, it is easy, you just... (*wave magic wand with undecipherable incantations*)"
+This language gives learners the very clear signal
+that the person helping them thinks their problem is trivial
 and that there must be something wrong with them if they do not experience it that way. 
 
 With practice, we can change the way we speak to avoid dismissive language and replace
@@ -227,9 +225,11 @@ you take care not to generalize from your experience to that of your novice lear
 We will talk more about knowing your audience in a later episode. For now, here are 
 two points to keep in mind when contemplating the learner experience 
 - In most cases a researcher's **primary goal is not to learn programming**, but to do better and more efficient research.
-They may not wish to take the time to learn how hash tables work,
-or even want to know that hash tables exist; they just want to know how to get their work done. This means their interests may 
-be very different from what yours were, even if they are learning some of the same things you did when you began.
+They may not wish to take the time to learn how fundamental syntax or data structures work, or 
+to learn any 'fun facts' that are not strictly necessary; they just want to know how to get their work done. 
+This does not mean they never will be interested -- maybe this is how you got your start, too! But if you 
+began with an interest in programming, keep in mind that this can make their learning experience very different 
+from yours. 
 - Some researchers have avoided learning programming previously because they believe that the time investment 
 will be excessive and will interfere with their other work. These kinds of beliefs can make their motivation to 
 persevere more fragile than yours might have been when you got started. 
