@@ -38,7 +38,7 @@ have mental models that work well enough for most situations.
 How are experts different from both of these groups?
 
 > ## What Is An Expert?  
-> What is something that you are an expert in?  How does your experience
+> What is something that you are an expert in? How does your experience
 > when you are acting as an expert differ from when you are not an expert?  
 >
 > This discussion should take about 5 minutes.
@@ -78,7 +78,7 @@ to explain what you are doing step-by-step, and how each step leads to the next 
 ### Mind The Gap
 
 The problem with this is that when you are used to going from A to E in a single leap, it can 
-be very hard to remember that novices need to walk through B, C, and D to understand the 
+be very hard to remember that novices need to go through B, C, and D to understand the 
 connection. Experts are frequently so familiar with their subject 
 that they can no longer imagine what it is like to *not* understand the world that way. 
 This phenomenon is known in the literature as an *expert blind spot*.
@@ -127,7 +127,7 @@ be more likely to meet novice learners where they are.
 {: .challenge}
 
 ### Bait and Switch
-Just as experts may have many to connect concepts at their disposal, they may 
+Just as experts may have many ways to connect concepts at their disposal, they may 
 also have many ways of *describing or demonstrating concepts*. 
 If you worked in the same building as something called a "delicatessen", 
 you might invite a friend to meet you at "the deli" or simply at
@@ -264,8 +264,7 @@ path toward developing that skill.
 How can you make sure that expert awareness gaps are not negatively affecting your workshop? 
 Keep in touch with your learners through frequent formative assessment! If you stumble 
 into an expert awareness gap, create confusion by using interchangeable terms, or 
-accidentally quell rather than inviting questions, formative assessment has the power 
+accidentally discourage rather than inviting questions, formative assessment has the power 
 to bring these problems to the surface. As you develop teaching skill, you may be able 
 to avoid these pitfalls. Until then, becoming aware of when they occur will help you to 
 keep their impact under control. 
-

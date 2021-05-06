@@ -75,7 +75,9 @@ frequent formative assessment is important.
 > again so they can check their work.
 {: .challenge}
 
-Most people will have found they only remember 5-7 words. Others may remember more! Those who do 
+Most people will have found they only remember 5-7 words. Those who 
+remember less may be experiencing distraction, fatigue, or (as we will learn shortly) "cognitive overload."  
+Those who remember more 
 are almost invariably deploying a *memory management strategy*.
 
 ## Strategies For Memory Management
