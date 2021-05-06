@@ -8,6 +8,7 @@ questions:
 - "What should you expect from this workshop?"
 objectives:
 - "Identify common ground with some of your fellow workshop participants."
+- "Understand a general structure and core goals of The Carpentries."
 - "Predict what will and will not be covered in this workshop."
 - "Know where to find The Carpentries Code of Conduct and how to report an incident."
 keypoints:
@@ -24,7 +25,7 @@ keypoints:
 > 
 > In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed. 
 > 
-> At an in-person event, we recommend supplying name tags and low-voc markers, or using plain paper to create table-displayed name placards.
+> At an in-person event, we recommend supplying name tags and markers, or using plain paper to create table-displayed name placards.
 > 
 > Note that pronouns are personal and some participants might prefer not to share them.
 > Do not force people to share their pronouns.
@@ -117,7 +118,7 @@ researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
 
-The goal of this two-day training is to provide you with the skills and information you need
+The goal of this training is to provide you with the skills and information you need
 to become a certified Carpentries Instructor. Our expectations of certified
 Instructors is that they:
 
@@ -160,7 +161,7 @@ prepare to join our Instructor community.
 The greatest asset of The Carpentries is people like
 you - people who want to help researchers learn new skills 
 and share their own experience and enthusiasm.  Meeting your fellow trainees and
-Instructor Trainers  at today's event is your first step into The Carpentries community.
+Instructor Trainers at today's event is your first step into The Carpentries community.
 
 ## What We Leave Out
 
@@ -172,14 +173,14 @@ The additional steps for certification, called _Checkout_, will require that you
 We also do not discuss how to develop lessons. The Carpentries now has a growing subcommunity dedicated to lesson development, 
 along with [its own onboarding curriculum][lesson-dev]. For more on lesson development, see [The Carpentries website][leson-dev-web].
 
-If there is a particular topic that you would like us to address, let the trainers
+If there is a particular topic that you would like us to address, let the Trainers
 know.
 
 ## What Questions Do You Have?
 
 We hope and expect that you will have many questions during this training! Please do not
 keep them to yourself. If you find something unclear, chances are good that others will have the same question, too. 
-It is ok to ask even if you think you might have missed an answer that others heard 
+It is ok to ask even if you think you might have missed an answer already given
 (e.g. during a distracted moment or a dropped connection)!
 Depending on the time available, your Trainers may ask you to share your questions 
 verbally, in the Etherpad, or otherwise. 

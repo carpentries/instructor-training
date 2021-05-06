@@ -52,7 +52,7 @@ in her studies of
 through practice and formal instruction, learners acquire skills and advance through distinct stages. In simplified form, three stages of this model are:
 
 ![Three people, labeled from left to right as "Novice", "Competent Practitioner", and "Expert". Underneath,
-an arrow labelled "Experience level" points from left to right. The "Novice" is quoted, "I'm not sure what questions to ask." The Competent Practitioner is quoted, "I'm pretty confident, but I still look stuff up a lot!" The Expert is quoted "I've been doing this on a daily basis for years!"](../fig/skill-level.svg)
+an arrow labelled "Experience level" points from left to right. The "Novice" is quoted, "I am not sure what questions to ask." The Competent Practitioner is quoted, "I am pretty confident, but I still look stuff up a lot!" The Expert is quoted "I have been doing this on a daily basis for years!"](../fig/skill-level.svg)
 
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
@@ -75,7 +75,7 @@ an arrow labelled "Experience level" points from left to right. The "Novice" is 
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-Note that, **while you may not think of yourself as a computational "expert," in the context above that term may accurately describe
+Note that, **while you may not think of yourself as a computational "expert", in the context above that term may accurately describe
 your skill level** in some situations. We will come back to the expertise of the instructor and its impact -- positive and negative -- 
 on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
@@ -154,7 +154,6 @@ you to make your mental model of a concept more clear to yourself or others.
 >  
 > 2. In the Etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
 > What challenges might a novice face in creating a concept map of this kind?
-> 
 > 
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -386,7 +385,7 @@ is a teaching skill that you can develop with reflective practice.
 >> 1. If the majority of the class votes for a single wrong answer, you can stop 
 >> to work on correcting that one particular misconception.  
 >> 2. If most of the class votes
->> for the right answer, it is probably safe to explain the answer move on. Helpers can make 
+>> for the right answer, it is probably safe to explain the answer and move on. Helpers can make 
 >> themselves available to help anyone at risk of being left behind. 
 >> 3. If answers are pretty evenly
 >> split between options, learners may be guessing randomly, reflecting an 
