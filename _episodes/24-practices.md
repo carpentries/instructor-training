@@ -67,14 +67,8 @@ Here is a non-exhaustive list of topics:
 
 > ## Organize Your Knowledge
 >
-> Let us put the pieces together by creating a visual organization of information.  
-> We suggest doing this in two ways:
->
-> 1. If you are comfortable with / like concept maps, trying integrating all the
-> topics above into a single concept map.  
-> 2. Use the provided handout to organize topics.  Here are two examples:
->   - [Handout One](../files/handouts/Wrap-Up-doc.pdf) (with example content: [example](../files/handouts/Wrap-Up-doc-example.pdf))
->   - [Handout Two](../files/handouts/Carpentries_teaching_practices.pdf)
+> Use a concept map or other visual organiser of your choice to connect some of 
+> the concepts above. How are they related to each other? 
 >
 > Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
