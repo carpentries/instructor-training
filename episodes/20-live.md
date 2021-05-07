@@ -53,7 +53,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> *   It enables instructors to be more responsive to "what if?" questions.
 >> Where a slide deck is like a railway track,
 >> participatory live coding allows instructors to go off-road and follow their learners' interests.
->> *   Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
+>> *   Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](https://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
 >> teaching by watching *how* instructors do things.
 >> *   It slows the instructor down:
 >> if she has to type in the program as she goes along,
