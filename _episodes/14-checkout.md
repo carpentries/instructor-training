@@ -294,8 +294,8 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 
 
 
-[r-gapminder]: http://swcarpentry.github.io/r-novice-gapminder/
-[r-gapminder-episode]: http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
+[r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
+[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
@@ -304,7 +304,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [instructors-page]: https://carpentries.org/instructors/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[discussion]: http://pad.carpentries.org/community-discussions
+[discussion]: https://pad.carpentries.org/community-discussions
 [demo]: https://pad.carpentries.org/teaching-demos
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/

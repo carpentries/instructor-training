@@ -373,7 +373,7 @@ indefinitely, so they may be used for further reference after a workshop.
 > as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
 {: .challenge}
 
-[worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
+[worldcat-interactions]: https://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
 [CoC-summary]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
