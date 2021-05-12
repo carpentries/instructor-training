@@ -43,7 +43,8 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 * After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
-* Your Instructors will receive ongoing support and mentorship from Carpentries staff and experienced Instructors to help them prepare to start teaching at your institution and beyond. 
+* Ongoing support and mentorship for trained Instructors is available through The Carpentries community discussions and mentorship programs 
+as well as through partcipation in other roles in The Carpentries community.  
 
 We’re excited to have you and your staff taking this important step to build a strong community of Instructors at your organization. We look forward to welcoming your Instructors into our community!
 
