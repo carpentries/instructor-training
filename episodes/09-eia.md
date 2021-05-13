@@ -57,7 +57,7 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 
 
-### Accessibility
+## Accessibility
 
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely. 
 What barriers might be present in your workshop, and what can you do to remove them?
@@ -89,7 +89,7 @@ For example, a participant who is hard of hearing may simply hope that
 instructors will speak loudly enough for them to hear. Taking steps to make 
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
-# From Accomodation to Universal Design 
+### From Accomodation to Universal Design 
 Accomodation means changing things to serve an individual with a demonstrated need. 
 However, **accomodation puts the onus on the indvidual with the need** to 
 have to disclose their disability and ask for accomodations. Reluctance to 
@@ -102,7 +102,7 @@ A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/
 and sidewalk ramps. While they were originally created to make it easier for 
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
 
-## Universal Design in Learning (UDL)
+### Universal Design in Learning (UDL)
 
 In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design 
 into Education with the Universal Design in Learning (UDL) Framework. 
@@ -169,7 +169,6 @@ in The Carpentries Handbook. If anything seems to be missing, contributions are 
 {: .callout}
 
 
-
 ## Systemic Exclusion
 
 As Instructors, many aspects of our classroom environment are within our control or influence. 
@@ -180,7 +179,7 @@ impact them. What we can control, in this case, is our own awareness of the chal
 present to teaching and learning. As with other demotivation pitfalls, we can also
 think carefully about the language that we use and how we interact with our learners to avoid reinforcing systemic bias.
 
-# Stereotypes
+### Stereotypes
 
 We all use stereotypes, and for good reason. They serve a cognitive purpose. 
 One study suggests we encounter more than 34 gigabytes of information every day. 
@@ -188,7 +187,7 @@ That is more information than we could ever process, so our brains use shortcuts
 What an expert thing to do! Stereotypes are one of those shortcuts. As with other models, 
 they are all wrong... but some are dangerous.
 
-## What are stereotypes?
+### What are stereotypes?
 Stereotypes are an established feature of human social cognition, in which a set of characteristics 
 is associted with members of a group. Sterotypes:
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
