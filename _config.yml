@@ -20,6 +20,11 @@ title: "Instructor Training"
 # What kind of thing is this ("workshop" or "lesson")?
 kind: "lesson"
 
+# Generic description text for Twitter Card links
+# used where excerpt/summary/keypoints are not defined
+lesson_description: "Learning guide for instructors and learners, with the opportunity for live coding examples."
+workshop_description: "The Carpentries' workshop website for instructors and learners."
+
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please do not change it: <USERNAME>/<PROJECT> is correct.

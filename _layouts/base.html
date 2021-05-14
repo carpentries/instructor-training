@@ -31,11 +31,31 @@
   {% if page.title %}{{ page.title }}{% endif %}{% if page.title and site.title %} &ndash; {% endif %}{% if site.title %}{{ site.title }}{% endif %}
   </title>
 
-    <meta property="og:url" content="{{ page.root }}/{{ page.url }}" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:description" content="Lesson episode summary - keypoints?" />
-<meta property="og:image" content="http://christinalk.github.io/instructor-training/assets/img/swc-icon-blue.svg" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title | default: site.title }}" />
+  {% if page.summary %}
+    {% assign description = page.summary %}
+  {% elsif page.questions %}
+    {% assign description = page.questions | join: " " %}
+  {% elsif page.keypoints %}
+    {% assign description = page.keypoints | join: " " %}
+  {% elsif site.lesson_description %}
+    {% assign description = site.lesson_description %}
+  {% else %}
+    {% assign description = "Learning guide for instructors and learners, with the opportunity for live coding examples." %}
+  {% endif %}
+
+  {% assign description = description | strip_html %}
+  {% if description.size > 200 %}
+    {% assign description = description | truncate: 200 %}
+    {% assign description = description | append: "..." %}
+  {% endif %}
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/img/cp-logo-blue.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:alt" content="Carpentries' logo" />
+  <meta name="twitter:card" content="summary" />
 
   </head>
   <body>

@@ -43,6 +43,29 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
     <title>{{ page.venue }}: {{ page.humandate }}</title>
+
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    {% if page.summary %}
+      {% assign description = page.summary %}
+    {% elsif site.workshop_description %}
+      {% assign description = site.workshop_description %}
+    {% else %}
+      {% assign description = "The Carpentries' workshop website for instructors and learners." %}
+    {% endif %}
+
+    {% assign description = description | strip_html %}
+    {% if description.size > 200 %}
+      {% assign description = description | truncate: 200 %}
+      {% assign description = description | append: "..." %}
+    {% endif %}
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ site.url }}/assets/img/cp-logo-blue.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:alt" content="Carpentries' logo" />
+    <meta name="twitter:card" content="summary" />
+
   </head>
   <body>
     <div class="container">
