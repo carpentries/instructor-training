@@ -37,11 +37,7 @@ To offer more flexible options for our community, we are piloting events that ru
 * April 12-15, 2021 *Registration Closed*
 * May 3-6, 2021 *Registration Closed*
 * May 4-26, 2021 *Registration Closed*
-
-* [June 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-7-10-2021-tickets-143821825953)
-    * 9 am to 1 pm North America Eastern
-    * 2 pm to 6 pm British Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210607T09&p1=179&ah=4)*
+* June 7-10, 2021 *Registration full* 
 
 
 * [June 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-june-15-18-2021-australia-eastern-std-time-tickets-145397061525)
@@ -90,5 +86,5 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*
-* [June 17-18, 2021](https://www.eventbrite.com/e/online-instructor-training-june-17-18-2021-central-european-summer-time-tickets-143826012475) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+training&iso=20210617T09&p1=195&ah=8)*
+* June 17-18, 2021 *Registration full*
 
