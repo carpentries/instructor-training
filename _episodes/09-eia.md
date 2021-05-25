@@ -37,9 +37,9 @@ and decisions in a way that shares power. Inclusion promotes broad engagement, s
 and advances authentic sense of belonging through safe, positive, and nurturing environments. 
 
 **Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few) 
-that increase one's ability to use, access, and obtain the respective item. Each person  
-is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services 
-in an equally effective and equally integrated manner, with substantially equivalent ease of use. 
+that increase one's ability to use, access, and obtain the respective item. Each person is afforded the opportunity to acquire
+the same information, engage in the same interactions, and enjoy the same services in an equally effective and equally
+integrated manner, with substantially equivalent ease of use. 
 
 ### The Carpentries Core Values
 
