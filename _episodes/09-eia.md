@@ -262,7 +262,7 @@ We will discuss the Code of Conduct in greater detail tomorrow.
 ## Looking for More? Want to Contribute?
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
-at the top), though our #accessibility channel on The Carpentries Slack, or by emailing [team@carpentries.org](mailto:team@carpentries.org).
+at the top), though our [#accessibility channel](https://swcarpentry.slack.com/archives/CBDTKM30Q) on [The Carpentries Slack](https://swc-slack-invite.herokuapp.com/), or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 [glossary]: https://www.diversity.pitt.edu/DEIGlossary
 [core-values]: https://carpentries.org/values/
