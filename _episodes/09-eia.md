@@ -188,6 +188,7 @@ What an expert thing to do! Stereotypes are one of those shortcuts. As with othe
 they are all wrong... but some are dangerous.
 
 ### What are stereotypes?
+
 Stereotypes are an established feature of human social cognition, in which a set of characteristics 
 is associted with members of a group. Sterotypes:
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
@@ -200,12 +201,13 @@ Stereotypes are dangerous when they are explicit, but they are especially hazard
 means that the people holding them may not be aware of them, even though their perceptions are guided by them. 
 
 **When Instructors have stereotypes about learners**, this may lead them to:
-    - call attention to differences unnecessarily
-    - give more or less attention to certain learners
-    - respond to questions differently for certain learners
+- call attention to differences unnecessarily
+- give more or less attention to certain learners
+- respond to questions differently for certain learners
+
 **When learners experience stereotypes about themselves**, they may:
-    - develop a fixed mindset about aspects of their own capability
-    - experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
+- develop a fixed mindset about aspects of their own capability
+- experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
 
 ## What can we do about our own stereotypes?
 - Get to know people from many different groups! 
