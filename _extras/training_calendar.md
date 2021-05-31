@@ -37,7 +37,7 @@ To offer more flexible options for our community, we are piloting events that ru
 * April 12-15, 2021 *Registration Closed*
 * May 3-6, 2021 *Registration Closed*
 * May 4-26, 2021 *Registration Closed*
-* June 7-10, 2021 *Registration full* 
+* June 7-10, 2021 *Registration Closed* 
 
 
 * [June 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-june-15-18-2021-australia-eastern-std-time-tickets-145397061525)
