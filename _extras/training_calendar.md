@@ -52,13 +52,13 @@ To offer more flexible options for our community, we are piloting events that ru
     * 7 am to 11 am North America Pacific Time
     * 9 am to 1 pm North America Central Time
     * 3 pm to 8 pm British Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210719T09&p1=64&ah=4)
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210719T09&p1=64&ah=4)*
 
 * [July 26-29, 2021](https://www.eventbrite.com/e/online-instructor-training-july-26-29-tickets-157666612081)
     * 8 am to 12 noon British Summer Time
     * 9 am to 1 pm Central European Summer Time
     * 5 pm to 9 pm Australia Eastern Standard Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210726T09&p1=195&ah=4)
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210726T09&p1=195&ah=4)*
 
 ## Two day events
 
@@ -70,7 +70,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * January 13-14, 2021 *Registration Closed*
 * March 25-26, 2021 *Registration Closed*
 * [June 9-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2021-n-america-pacific-time-tickets-143823468867) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210609T09&p1=137&ah=9)*
-* [August 2-3, 2021](https://www.eventbrite.com/e/online-instructor-training-august-2-3-2021-n-america-pacific-time-tickets-157668439547) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210802T09&p1=137&ah=8)
+* [August 2-3, 2021](https://www.eventbrite.com/e/online-instructor-training-august-2-3-2021-n-america-pacific-time-tickets-157668439547) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210802T09&p1=137&ah=8)*
 
 
 #### Central time
