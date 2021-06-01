@@ -60,6 +60,13 @@ To offer more flexible options for our community, we are piloting events that ru
     * 5 pm to 9 pm Australia Eastern Standard Time
     * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210726T09&p1=195&ah=4)*
 
+* [September 13-16, 2021](https://www.eventbrite.com/e/online-instructor-training-september-13-16-2021-tickets-157674549823)
+    * 9 am to 1 pm North America Pacific Time
+    * 12 noon to 4 pm North America Eastern Time
+    * 5 pm to 9 pm British Summer Time
+    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T09&p1=137&ah=4)*
+
+
 ## Two day events
 
 The events below run for two days, from 9 am to 5 pm in the time zone specified.  Attendance for the entire event is mandatory.
