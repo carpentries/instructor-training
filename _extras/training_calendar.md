@@ -96,4 +96,5 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*
 * June 17-18, 2021 *Registration full*
+* [September 8-9, 2021](https://www.eventbrite.com/e/online-instructor-training-september-8-9-2021-central-european-time-tickets-157675255935) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210908T09&p1=195&ah=8)*
 
