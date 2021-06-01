@@ -31,7 +31,7 @@ Registration for each event closes one week before that event. You may change or
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
 
 * February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
-* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23) *Registration Closed*
+* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time *Registration Closed*
 * March 15-18, 2021 (9 am to 1 pm North America Central) *Registration Closed*
 * April 12-14, 2021 *Registration Closed*
 * April 12-15, 2021 *Registration Closed*
