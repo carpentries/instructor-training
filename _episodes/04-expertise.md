@@ -210,7 +210,7 @@ it with more positive and motivating word choices.
 > {: .solution}
 {: .challenge}
 
-### Any Questions?
+### "Any Questions?"
 
 Another well-intended move that can go wrong in the presence of awareness gaps is the call for questions. 
 An Instructor may accidentally dismiss learner confusion by asking for questions in 
