@@ -17,7 +17,7 @@ keypoints:
 - "With practice, we can develop skills to overcome our expert awareness gaps."
 ---
 
-# Examining Your Expertise
+## Examining Your Expertise
 In the last episode, we discussed the transition from novice to competent practitioner through 
 formation of a functional mental model. We now shift our attention to experts. The expert we want to talk about is you!
   
@@ -115,7 +115,7 @@ If, on the other hand, you still feel new to your subject area -- perhaps you ev
 tentative about whether you are "expert enough" to teach -- take heart! Your explanations may 
 be more likely to meet novice learners where they are.
 
-> ## Awareness Gaps  (Optional)
+> ## Awareness Gaps
 >
 > 1. Is there anything you are learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
@@ -127,12 +127,16 @@ be more likely to meet novice learners where they are.
 {: .challenge}
 
 ### Bait and Switch
-Just as experts may have many ways to connect concepts at their disposal, they may 
-also have many ways of *describing or demonstrating concepts*. 
-If you worked in the same building as something called a "delicatessen", 
+When an expert con-artist aims to deceive, one way to do this is by "baiting" a 
+victim with one promise, then "switching" to deliver something different, 
+relying on confusion and trust to keep the victim from complaining. 
+Teachers are not aiming for deception, yet a similar thing can occur 
+entirely by accident when they *teach* one way of describing a concept, then *use* another.  
+
+If you worked in the USA in the same building as something called a "delicatessen", 
 you might invite a friend to meet you at "the deli" or simply at
-"the restaurant" and expect them to know what you mean. 
-Yet, a novice in English might hesitate, wondering if 
+"the restaurant" and expect them to know what you mean, because you naturally use these terms interchangeably. 
+Yet, someone less familiar with US English might hesitate, wondering if 
 these words mean the same thing, or close enough, under the circumstances. Similarly, 
 in a Carpentries workshop, an Instructor may start a workshop talking about "Unix," but 
 then automatically start using words like "bash" and "shell" 
@@ -143,7 +147,8 @@ Novice learners can be confused by interchangeable use of more than just vocabul
 In programming, multiple forms of notation may be 
 used to reference a column in a data frame, for example, with the same effect. 
 Instructors may use absolute file paths in one place, then default to relative file paths 
-elsewhere without noticing that explanation is required. 
+elsewhere without noticing that explanation is required. Or, they may assume that a learner 
+who has an absolute file path will be able to navigate to the file in a GUI.
 
 > ## What do you use interchangeably?
 >
