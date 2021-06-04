@@ -19,7 +19,7 @@ keypoints:
 - "The instructional team decides how to respond to Code-of-Conduct incidents during a workshop; all violations should be reported to The Carpentries Code of Conduct committee for follow-up."
 ---
 
-# Never Teach Alone
+## Never Teach Alone
 One of the greatest strengths of Carpentries workshops compared with many other instructional settings is that workshops are prepared and executed
 by more than one person. We ask that at least two Instructors teach in every workshop, and some workshops may have many more! During the workshop,
 you should also have a crew of Helpers to answer questions individually, elevate common problems for general discussion, and make sure the pacing 
