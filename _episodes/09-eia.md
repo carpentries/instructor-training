@@ -37,9 +37,9 @@ and decisions in a way that shares power. Inclusion promotes broad engagement, s
 and advances authentic sense of belonging through safe, positive, and nurturing environments. 
 
 **Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few) 
-that increase one's ability to use, access, and obtain the respective item. Each person  
-is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services 
-in an equally effective and equally integrated manner, with substantially equivalent ease of use. 
+that increase one's ability to use, access, and obtain the respective item. Each person is afforded the opportunity to acquire
+the same information, engage in the same interactions, and enjoy the same services in an equally effective and equally
+integrated manner, with substantially equivalent ease of use. 
 
 ### The Carpentries Core Values
 
@@ -188,6 +188,7 @@ What an expert thing to do! Stereotypes are one of those shortcuts. As with othe
 they are all wrong... but some are dangerous.
 
 ### What are stereotypes?
+
 Stereotypes are an established feature of human social cognition, in which a set of characteristics 
 is associted with members of a group. Sterotypes:
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
@@ -200,12 +201,13 @@ Stereotypes are dangerous when they are explicit, but they are especially hazard
 means that the people holding them may not be aware of them, even though their perceptions are guided by them. 
 
 **When Instructors have stereotypes about learners**, this may lead them to:
-    - call attention to differences unnecessarily
-    - give more or less attention to certain learners
-    - respond to questions differently for certain learners
+- call attention to differences unnecessarily
+- give more or less attention to certain learners
+- respond to questions differently for certain learners
+
 **When learners experience stereotypes about themselves**, they may:
-    - develop a fixed mindset about aspects of their own capability
-    - experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
+- develop a fixed mindset about aspects of their own capability
+- experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
 
 ## What can we do about our own stereotypes?
 - Get to know people from many different groups! 
@@ -260,7 +262,7 @@ We will discuss the Code of Conduct in greater detail tomorrow.
 ## Looking for More? Want to Contribute?
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
-at the top), though our #accessibility channel on The Carpentries Slack, or by emailing team@carpentries.org.
+at the top), though our [#accessibility channel](https://swcarpentry.slack.com/archives/CBDTKM30Q) on [The Carpentries Slack](https://swc-slack-invite.herokuapp.com/), or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 [glossary]: https://www.diversity.pitt.edu/DEIGlossary
 [core-values]: https://carpentries.org/values/
