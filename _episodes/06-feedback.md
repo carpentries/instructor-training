@@ -82,7 +82,7 @@ cards and look for patterns. At the start of day two and each afternoon, the ins
 take a few minutes to address commonly raised issues with the whole class. The 
 non-teaching instructor can also type answers to the questions in the Etherpad.
 
-> ## Be Explicit
+> ## Be Explicit About Using Feedback
 > 
 > Learners are more likely to give useful feedback if they feel that their feedback
 > is being taken seriously. Spending a few minutes talking about the feedback you got

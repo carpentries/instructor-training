@@ -87,7 +87,10 @@ the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
 
-## "All Models are Wrong, but Some are Useful"
+## Mental Models
+> All models are wrong, but some are useful. 
+> - George Box, statistician
+{: .testimonial}
 
 "Knowledge" is hard to describe. Understanding is never a mirror of reality, even for an expert; rather, it is 
 an internal representation based on our experience with a subject. 

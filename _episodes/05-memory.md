@@ -51,10 +51,13 @@ frequent formative assessment is important.
 
 > ## Test Your Working Memory
 >
-> [This website][memory-test] implements a short test of working memory.  
+> This website implements a short test of working memory:
+> [https://miku.github.io/activememory/][memory-test]  
 >
 > What was your score? If you are comfortable, share your answer
 > in the Etherpad.
+>
+> If you are unable to use this activity, ask your Trainer to implement the analog version of this test.
 > 
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -76,7 +79,7 @@ frequent formative assessment is important.
 {: .challenge}
 
 Most people will have found they only remember 5-7 words. Those who 
-remember less may be experiencing distraction, fatigue, or (as we will learn shortly) "cognitive overload."  
+remember less may be experiencing distraction, fatigue, or (as we will learn shortly) "cognitive overload." 
 Those who remember more 
 are almost invariably deploying a *memory management strategy*.
 
@@ -165,7 +168,7 @@ and allow learners to write summary notes for themselves or otherwise ask them t
 what they have learned at various points in the workshop.
 
 
-## Attention is a Limited Resource
+## Attention is a Limited Resource: Cognitive Load
 
 Memory is not the only cognitive resource that is limited. Attention is constrained as well. 
 While many people believe that they can "multi-task," the reality is that attention can 
@@ -216,10 +219,10 @@ transferring their attention to a different element to be learned.
 > ## Mapping Cognitive Load
 >
 > Look in the curriculum that you chose to prepare for this workshop and focus on one step or task 
-> that learners will be asked to complete. 
-> 1) What concepts will learners need to understand and hold in short-term memory in order to complete this task?
-> 2) Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?
-> 3) How many of these concepts and relationships have been introduced since the previous step or exercise? 
+> that learners will be asked to complete.  
+> 1. What concepts will learners need to understand and hold in short-term memory in order to complete this task?  
+> 2. Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?  
+> 3. How many of these concepts and relationships have been introduced since the previous step or exercise?  
 > 
 > With a partner or in small groups, discuss what you have found. 
 > 
