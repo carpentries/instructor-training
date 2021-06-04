@@ -29,7 +29,7 @@ keypoints:
 > 
 > Note that pronouns are personal and some participants might prefer not to share them.
 > Do not force people to share their pronouns.
-{: .challenge}
+{: .discussion}
 
 ## Before The Course Begins
 
