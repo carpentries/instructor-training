@@ -146,7 +146,7 @@ otherwise -- reinforces a growth mindset and helps them to stay motivated. Be su
 often the 'first responders' to learner mistakes. 
 
 
-> ## Helping Learners Learn From Mistakes (optional)
+> ## Helping Learners Learn From Mistakes 
 > A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
 > that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
 > `ls` and the name of the directory they are looking at). What would you say to the learner?
@@ -246,7 +246,7 @@ context of your own busy work life is a challenge. What will keep you energized 
 chosen, teaching is something you came here motivated to do. Teaching can be an incredibly gratifying activity! Finding and preserving your own motivation
 through the many challenges ahead will make your journey as a teacher a more joyful one. 
 
-> ## Why Do You Teach? (Optional)
+> ## Why Do You Teach? 
 >
 > We all have a different motivation for teaching, and that is a really good thing!
 > The Carpentries wants instructors with diverse backgrounds because you each bring something
