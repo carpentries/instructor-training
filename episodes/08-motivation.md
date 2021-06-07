@@ -15,7 +15,7 @@ keypoints:
 - "People learn best when they see the utility in what they're learning and believe it can be accomplished with reasonable effort."
 - "Encouraging participation and embracing errors helps learners to stay motivated."
 ---
-
+## Motivation Matters
 Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
 necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated 
 learners is not fun or rewarding. It can be tempting, especially for teachers facing burnout after strenuous and ineffectual effort, to blame learners for 
@@ -178,20 +178,20 @@ are not convinced of this, consider the impact on the person sitting next to you
 > Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
 > are examples of performance-based, effort-based, or improvement-based praise?
 >
-> - That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
-> - You're getting to be really good at that. See how it pays to keep at it?
-> - Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
-> - That was a hard problem. You didn't get the right answer, but look at what you learned trying to solve it!
-> - Look at that - you're a natural!
+> 1. That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
+> 2. You're getting to be really good at that. See how it pays to keep at it?
+> 3. Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
+> 4. That was a hard problem. You didn't get the right answer, but look at what you learned trying to solve it!
+> 5. Look at that - you're a natural!
 > 
 > This exercise should take about 5 minutes.
 >
 >> ## Solution
->> - Effort-based.
->> - Improvement-based.
->> - Performance-based.
->> - Improvement-based.
->> - Performance-based. 
+>> 1. Effort-based.
+>> 2. Improvement-based.
+>> 3. Performance-based.
+>> 4. Improvement-based.
+>> 5. Performance-based. 
 > {: .solution}
 {: .challenge}
 
