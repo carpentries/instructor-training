@@ -142,7 +142,7 @@ only be achieved after some 'groundwork' has been laid.
 
 In the course of this exercise, your class will likely have re-invented components of Bloom's Taxonomy. This venerable framework has been through
 countless iterations since its proposal in 1956. Like all models, it is probably wrong in certain ways, but research supports the existence -- 
-and constraints -- of such a heirarchy. 
+and constraints -- of such a hierarchy. 
 
 ![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.svg)
 
