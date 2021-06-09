@@ -44,7 +44,7 @@ you are comfortable and ready for.
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
 > Did you come up with something that is not listed below?
 >
-{: .discussion}
+{: .challenge}
 
 ### Learning Objectives For your Introduction
 
