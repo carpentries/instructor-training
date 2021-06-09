@@ -16,8 +16,9 @@ this section provides another chance to practice live coding, to go through the
 process of observing and giving feedback, and to make changes to how we teach based on the feedback of others. 
 
 > ## Round Two
-> 1. Before splitting into groups, read the [rubric]({{ page.root }}/demos_rubric/) that is given to Instructor Trainers
->  as a suggested framework for evaluating the online teaching demonstration sessions that are part of Instructor checkout.
+> 1. Before splitting into groups, read the rubric that is given to Instructor Trainers
+>  as a suggested framework for evaluating the online teaching demonstration sessions that are part of Instructor checkout.  
+>  [https://data-lessons.github.io/instructor-training/demos_rubric/]({{ page.root }}/demos_rubric/)  
 >  What questions do you have? 
 > 2. Return to your groups of 3 and repeat the previous exercise. This time, the presenter should incorporate changes
 > based on feedback received, and everyone should try to 'level up' their feedback using the rubric for teaching demos.
