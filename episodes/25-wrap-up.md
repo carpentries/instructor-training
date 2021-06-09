@@ -13,7 +13,7 @@ keypoints:
 
 > ## One Up, One Down
 >
-> Provide one up, one down feedback on the entire two-day course.
+> Provide one up, one down feedback on the entire Instructor Training course.
 >
 > Just as in our regular workshops,
 > we collect post-instructor-training-workshop feedback.
