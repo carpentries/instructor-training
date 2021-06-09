@@ -24,7 +24,7 @@ these practices in terms of what parts of a workshop we need to be conscious of 
 of these strategies. In other words, let us put down on paper some of our mental model
 about teaching and learning, specifically in the Carpentries context.  
 
-> ## Picking up the Pieces (optional)
+> ## Picking up the Pieces
 >
 > In small groups or on your own, make a list of all the concepts and skills you have
 > encountered in this training.  Your list can include everything from
