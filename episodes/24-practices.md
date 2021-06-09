@@ -29,7 +29,9 @@ about teaching and learning, specifically in the Carpentries context.
 > In small groups or on your own, make a list of all the concepts and skills you have
 > encountered in this training.  Your list can include everything from
 > educational/teaching theories to specific in-classroom practices.  
->
+> 
+> This exercise should take about 5 minutes.
+> 
 > > ## Solution
 > >
 > > Compare your list of topics with the list below.  What is missing, either in your
@@ -73,14 +75,17 @@ Here is a non-exhaustive list of topics:
 > Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
 >
-> Once you have organized your thoughts, move to the next exercise.  
+> If you feel you have finished organizing your thoughts, try the next exercise.
+> 
+> This exercise should take about 10 minutes. 
+> 
 {: .challenge}
 
-> ## Parting Thoughts
+> ## Parting Thoughts (optional)
 >
 > If you did not think about these issues when organizing your topics in the previous
 > exercise, now consider:
-> 1. What is your mental model of teaching?
+> 1. How would you describe your mental model of teaching? 
 > 2. Can you identify why each topic above applies to teaching for the Carpentries?  
 {: .challenge}
 
