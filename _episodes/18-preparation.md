@@ -166,11 +166,11 @@ checkpoints built in where such progress is made clear.
 > Have a look at your learning objective again and identify
 > *where* in the lesson that objective should reasonably be achieved. 
 >
-> How might you apply formative assessment to 
-> a) verify that that achievement has been met by all and 
-> b) make learners aware of their accomplishment?
+> How might you apply formative assessment to:  
+> a) verify that that achievement has been met by all and  
+> b) make learners aware of their accomplishment?  
 > Keep in mind that formative assessment can take many forms, including multiple
-> choice questions, faded examples, spontaneous questions and calls for sticky
+> choice questions, other exercises, spontaneous questions and calls for sticky
 > notes, provided that *all learners are evaluated*. Write some notes or thoughts about this process in the Etherpad for
 > discussion.
 >
