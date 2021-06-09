@@ -112,8 +112,8 @@ Here is a list of different
 ways that you can set the stage for receiving or providing feedback
 in a way that facilitates growth.
 
-*   **Initiate feedback.** Most people will not offer it freely, and those who do are not the only voices you should listen to. Also, it is easier to 
-hear feedback that you have asked for. 
+*   **Initiate feedback.** Most people will not offer it freely, and those who do are not the only voices you should listen to. Also, it is easier to
+hear feedback that you have asked for.
 
 *   **Be specific.** See a great example of this from
   this [Lunar Baboon comic][lunar-babboon]
@@ -123,7 +123,7 @@ hear feedback that you have asked for.
   feedback in a way that is helpful to you - the questions below
   reveal what did not work in your teaching, but read as professional suggestions rather than personal judgments.
   For example:
-  
+
 * "What is one thing I could have done as an instructor to make this lesson more effective?"
 * "If you could pick one thing from the lesson to go over again, what would it be?"
 
@@ -131,7 +131,7 @@ hear feedback that you have asked for.
     * Ask for or give "compliment sandwiches" (one positive, one negative, one positive)
     * Ask for both types of feedback, and give both types.
 
-* **Provide a clear next step** with negative feedback to follow that will help the recipient improve. 
+* **Provide a clear next step** with negative feedback to follow that will help the recipient improve.
 
 * **Communicate expectations.** If your teaching feedback is taking the form of an
   observation (and you are comfortable enough with the observer), tell
@@ -166,15 +166,15 @@ it is OK to remind yourself:
 > We will start by observing some examples of teaching and providing some feedback.
 >
 > Watch this example teaching video as a group
-> and then give feedback on it. 
-> https://www.youtube.com/watch?v=-ApVt04rB4U
+> and then give feedback on it.
+> <https://www.youtube.com/watch?v=-ApVt04rB4U>
 > Put your feedback in the Etherpad.
 > Organize your feedback along two axes:
 > positive vs. opportunities for growth (sometimes called "negative")
 > and content (what was said) vs. presentation (how it was said).
-> 
-> Note: there is a version of this video with subtitles in both Spanish and English here: https://www.youtube.com/watch?v=jxgMVwQamO0
-> 
+>
+> Note: there is a version of this video with subtitles in both Spanish and English here: <https://www.youtube.com/watch?v=jxgMVwQamO0>
+>
 > This exercise should take about 10 minutes.
 {: .challenge}
 
@@ -182,9 +182,9 @@ Now that you have had some practice observing teaching and giving feedback, let 
 
 > ## Sharing Feedback
 >
-> The prep time for this exercise is intentionally short -- the point is to 
+> The prep time for this exercise is intentionally short -- the point is to
 > practice giving and receiving feedback, not to create a perfect presentation.
-> Imperfect presentations will 
+> Imperfect presentations will
 > give you more to work with!
 >
 > **Trainings where trainees are co-located:**
@@ -192,7 +192,7 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
 >     the lesson episode you chose before the start of the training course. You will not
 >     be live coding; you can use a whiteboard or other visual aids if available (but
->     this is not required!). 
+>     this is not required!).
 > 3.  Get together with your group and have each person teach their segment to the group,
 >     while one person records this (video and audio)
 >     using a cell phone or some other handheld device.
@@ -207,8 +207,8 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > 4.  After everyone in the group of three has finished teaching,
 >     watch the videos as a group.
 >     Everyone gives feedback on all three videos,
->     i.e., people give feedback on themselves as well as on others. 
->     Keep an eye on the time during feedback, especially if your group has more than 3 people, 
+>     i.e., people give feedback on themselves as well as on others.
+>     Keep an eye on the time during feedback, especially if your group has more than 3 people,
 >     to be sure to leave time for everyone.
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
@@ -216,7 +216,7 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > **Distributed trainings:**
 > Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
 > but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching. 
+> turn teaching.
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
