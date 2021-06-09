@@ -39,7 +39,7 @@ provide vital information to The Carpentries Core Team and help us to report to 
 > 
 {: .challenge}
 
-## Thank You
+## Thank You!
 
 Thank you for sharing your time with us! The Carpentries Instructor Training is, like so many things we do, a community-created experience. 
 Your contributions and efforts in participating in this course have made a difference already!
