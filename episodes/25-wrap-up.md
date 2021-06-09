@@ -34,7 +34,7 @@ provide vital information to The Carpentries Core Team and help us to report to 
 > ## Post Workshop Surveys
 >
 > Assessment is very important to us! Please take the remaining time to complete
-> this [short post-workshop survey]({{site.instructor_post_survey}}). 
+> this [~5 minute post-workshop survey]({{site.instructor_post_survey}}). 
 >
 > 
 {: .challenge}
