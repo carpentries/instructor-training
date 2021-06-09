@@ -5,7 +5,7 @@ exercises: 10
 questions:
 - "What can we improve in this training?"
 objectives:
-- "Reflect on the two-day course."
+- "Reflect on the course."
 - "Articulate constructive feedback."
 keypoints:
 - "Feedback applies to all kinds of learning, including learning how to teach."
