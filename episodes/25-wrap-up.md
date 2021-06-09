@@ -10,7 +10,7 @@ objectives:
 keypoints:
 - "Feedback applies to all kinds of learning, including learning how to teach."
 ---
-Just as in our regular workshops,we collect feedback at the end. 
+Just as in our technical workshops, we collect feedback at the end of Instructor Training. 
 This will help your Trainers continue to develop *their* skills and to participate in continually improving our curriculum. The Carpentries Surveys also 
 provide vital information to The Carpentries Core Team and help us to report to our funders.
 
