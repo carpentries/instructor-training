@@ -14,7 +14,7 @@ keypoints:
 - "Good learning objectives identify specific events that can be evaluated through formative assessment."
 - "A good exercise informs Learners and Instructors when an objective is achieved."
 ---
-# Building Teaching Skill
+## Building Teaching Skill
 At this point in the workshop, we have discussed many cognitive principles and teaching practices that guide collaborative 
 development and maintenance of The Carpentries curricula. We hope you are also feeling excited and optimistic about putting 
 those concepts to work in your teaching practice! 
