@@ -167,7 +167,7 @@ you to make your mental model of a concept more clear to yourself or others.
 > concepts involved? How are those concepts related?
 >  
 > 2. In the Etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
-> What challenges might a novice face in creating a concept map of this kind?
+> What challenges might a novice face in creating a concept map of this kind?  
 > This exercise should take about 5 minutes.
 {: .challenge}
 
