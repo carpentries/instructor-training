@@ -243,7 +243,7 @@ transform getting feedback from an unpleasant experience to a richly rewarding o
 practice teaching and to get and give feedback tomorrow.
 
 
-[lunar-babboon]: https://www.lunarbaboon.com/comics/feedback.html
+[lunar-babboon]: https://web.archive.org/web/20210513225525/http://www.lunarbaboon.com/comics/feedback.html
 [worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
 [bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [scipy-video-1]: https://vimeo.com/139316669
