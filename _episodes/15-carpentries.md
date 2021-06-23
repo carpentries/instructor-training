@@ -4,7 +4,7 @@ block: "The Carpentries"
 teaching: 20
 exercises: 25
 questions:
-- "How is The Carpentries organized and run?"
+- "How is The Carpentries organised and run?"
 - "What is the difference between SWC, DC, and LC workshops?"
 - "How do you run a Carpentries workshop?"
 objectives:
@@ -48,7 +48,7 @@ members, and other supporters who participate, synchronously or asynchronously, 
 Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers, 
 learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
-![A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organized in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.](../fig/SWCDChistory.png)
+![A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.](../fig/SWCDChistory.png)
 
 You can learn more about the history and goals of each Lesson Program by reading
 "[Software Carpentry: Lessons Learned][F1000]",
@@ -140,8 +140,8 @@ interchangeable elsewhere, but have come to mean very specific things in our com
 {: .challenge}
 
 ## How to Organise a Carpentries Workshop Locally
-Briefly, there are two types of Carpentries workshops: **centrally-organized** and
-**self-organized**. You can read (and hopefully have already read) about these on our [website][workshops-page].
+Briefly, there are two types of Carpentries workshops: **centrally-organised** and
+**self-organised**. You can read (and hopefully have already read) about these on our [website][workshops-page].
 
 Centrally organised workshops are included in institutional [membership][membership-page] packages and can also be requested separately for a fee. Since The Carpentries
 will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
@@ -181,7 +181,7 @@ back for policy changes, and keep in touch on our [communications channels][conn
 > ## Explain to a partner
 >
 > With a partner, take turns asking and answering the question: "I want to organize a workshop! What will I need to do?" One partner should ask about a 
-> self-organized workshop, and the other can ask about a centrally-organized workshop. If you have a third person, they can help out with follow-up questions
+> self-organised workshop, and the other can ask about a centrally-organised workshop. If you have a third person, they can help out with follow-up questions
 > or answers as needed.
 > 
 > When you encounter new questions during this process, be sure to write them in the Etherpad.
