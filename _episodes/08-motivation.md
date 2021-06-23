@@ -31,7 +31,7 @@ to get off on the right foot. In this context, **cultivating motivation to conti
 most important outcome we can achieve**.
 
 This section discusses several ways that
-learners can be motivated (or demotivated!) by instrutional content and approach, and provides practice opportunities
+learners can be motivated (or demotivated!) by instructional content and approaches, and provides practice opportunities
 for you to become confident in motivating your learners.
 
 ## How Can Content Influence Motivation?
