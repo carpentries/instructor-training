@@ -7,9 +7,9 @@ questions:
 - "Why is motivation important?"
 - "How can we create a motivating environment for learners?"
 objectives:
-- "Identify authentic tasks and explain why teaching using them is important."
+- "Identify authentic tasks and explain why teaching them is important."
 - "Develop strategies to avoid demotivating learners."
-- "Distinguish praise based on the type of mindset it promotes."
+- "Distinguish praise based feedback on the type of mindset it promotes."
 keypoints:
 - "A positive learning environment helps people concentrate on learning."
 - "People learn best when they see the utility in what they're learning and believe it can be accomplished with reasonable effort."
@@ -31,7 +31,7 @@ to get off on the right foot. In this context, **cultivating motivation to conti
 most important outcome we can achieve**.
 
 This section discusses several ways that
-learners can be motivated (or demotivated!) by instrutional content and approach, and provides practice opportunities
+learners can be motivated (or demotivated!) by instructional content and approaches, and provides practice opportunities
 for you to become confident in motivating your learners.
 
 ## How Can Content Influence Motivation?
