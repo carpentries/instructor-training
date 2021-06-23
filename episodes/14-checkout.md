@@ -32,7 +32,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 > ## Be The Expert: Checkout Q & A
 >
-> In small groups, read and discuss one of the three checkout procedures described on this page. (https://carpentries.github.io/instructor-training/20-checkout/index.html if you are viewing this text elsewhere)
+> In small groups, read and discuss one of the three checkout procedures described in this episode. (https://carpentries.github.io/instructor-training/20-checkout/index.html if you are viewing this exercise in the Etherpad)
 > Make notes in the Etherpad:
 > - What points do you think it is most important or helpful for people to remember?
 > - What questions or points of confusion do you have, or think others might have? 
@@ -281,12 +281,13 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 
 > ## Schedule a Discussion or Demo
 >
-> Visit the [discussion Etherpad][discussion] to sign up for a session.
+> Visit the discussion Etherpad to sign up for a session: <https://pad.carpentries.org/community-discussions>
 > If the session you would like to attend is full, contact the discussion
 > host and co-host to ask if you can attend.
 >
 > If you would prefer to do your teaching demonstration before your discussion,
-> visit the [demo Etherpad][demo] and sign up there. This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
+> visit the demo Etherpad and sign up there: <https://pad.carpentries.org/teaching-demos>
+> This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 >
 >
 > This exercise should take 5 minutes.
