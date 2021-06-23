@@ -7,9 +7,9 @@ questions:
 - "Why is motivation important?"
 - "How can we create a motivating environment for learners?"
 objectives:
-- "Identify authentic tasks and explain why teaching using them is important."
+- "Identify authentic tasks and explain why teaching them is important."
 - "Develop strategies to avoid demotivating learners."
-- "Distinguish praise based on the type of mindset it promotes."
+- "Distinguish praise based feedback on the type of mindset it promotes."
 keypoints:
 - "A positive learning environment helps people concentrate on learning."
 - "People learn best when they see the utility in what they're learning and believe it can be accomplished with reasonable effort."
