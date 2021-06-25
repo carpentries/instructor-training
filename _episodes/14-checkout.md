@@ -294,12 +294,13 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 {: .challenge}
 
 
-
+[contact-page]: https://carpentries.org/contact/
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [instructors-page]: https://carpentries.org/instructors/
