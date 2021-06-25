@@ -147,7 +147,8 @@ Centrally organised workshops are included in institutional [membership][members
 will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
 independently, or to host workshops beyond the areas of expertise you may have locally. 
 
-If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. Registering
+If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. 
+If you would like to recruit additional Instructors or Helpers, [this blog post][SO-recruiting-blog] has guidelines for using Carpentries communications channels. Registering
 your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures 
 that all Instructors and Helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
 on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
@@ -281,6 +282,7 @@ Want to **join meetings** (to meet new people or listen in)?
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
+[SO-recruiting-blog]: https://carpentries.org/blog/2021/06/Recruiting-Instructors-for-Self-Organised-Workshops/
 [docs]: https://docs.carpentries.org/
 [docs-helper-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
 [docs-noshow]: https://docs.carpentries.org/topic_folders/policies/instructor-no-show-policy.html#instructor-no-show-policy
