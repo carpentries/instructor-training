@@ -41,7 +41,7 @@ On November 1, 2018, The Carpentries Executive Council
 approved [Library Carpentry]({{ site.lc_site }})
 as the third official Lesson Program of The Carpentries.
 
-The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam_page], 
+The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam-page], 
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
 The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council 
 members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual 
