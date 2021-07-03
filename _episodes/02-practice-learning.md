@@ -194,7 +194,7 @@ As an example, let us consider a misconception that can interfere with understan
 ![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree1.svg)
 
 * Many people do not connect trees with carbon dioxide in the air. If they do, they may know that trees "remove" CO2. BUT...
-* Awareness that the sugars, starches, and fibers of a tree are composed mainly of carbon derived from air is comparatively rare. 
+* Awareness that a tree is composed **mainly** of carbon derived from air is comparatively rare. 
 
 This new information is interesting to learn! Yet, it is surprisingly difficult to teach. Why? Because inaccurate prior knowledge creates conflict, breaking the 
 mental model and preventing this new information from fitting in. Plants eat dirt! This is a perfectly functional mental model, even for expert gardeners. It 
