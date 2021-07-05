@@ -98,9 +98,12 @@ emotions such as uncertainity, confusion, annoyance or anger by those receiving 
 
 By contrast, "universal design" means creating something to be maximally usable by all people 
 without additional changes. 
-A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/Curb_cut) 
+A good example of universal design is curb cuts
 and sidewalk ramps. While they were originally created to make it easier for 
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
+
+![Cartoon showing strollers, suitcases, bicycles, carts, and wheelchairs using curb cuts](../fig/sketchsplanations-the-curb-cut-effect.svg)
+Image: [Sketchsplanations](https://sketchplanations.com/the-curb-cut-effect)
 
 ### Universal Design in Learning (UDL)
 
