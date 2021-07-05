@@ -57,25 +57,12 @@ Extensions may be granted for any reason up to 1 year from your training date.
 {: .challenge}
 
 ### What does a badge mean?
-* **You can teach any Carpentries workshops** While your badge will indicate a lesson program that you selected for checkout, all Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
-* **You get to vote** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
-* **You can register for Carpentries Bonus Modules** New to The Carpentries in 2020, we are now offering short continuing education [modules][bonus-modules] for certified Instructors. The first of these targets preparing to teach online. Look out for more topics coming soon!
-* **You can share the news** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
+* **You can teach any Carpentries workshops!** While your badge will indicate a lesson program that you selected for checkout, all Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
+* **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
+* **You can register for Carpentries Bonus Modules!** New to The Carpentries in 2020, we are now offering short continuing education [modules][bonus-modules] for certified Instructors. The first of these targets preparing to teach online. Look out for more topics coming soon!
+* **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
-[r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
-[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
-[trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
-[bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
-[contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
-[glosario-github]: https://github.com/carpentries/glosario/
-[help-wanted]: https://carpentries.org/help-wanted-issues/
-[instructors-page]: https://carpentries.org/instructors/
-[carpentries-incubator]: https://github.com/carpentries-incubator/
-[mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[discussion]: https://pad.carpentries.org/community-discussions
-[demo]: https://pad.carpentries.org/teaching-demos
-[pad-of-pads]: https://pad.carpentries.org/pad-of-pads
+
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
-[start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
 [voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
 [text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
