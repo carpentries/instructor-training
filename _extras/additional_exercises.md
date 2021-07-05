@@ -51,6 +51,37 @@ title: "Additional Exercises"
 
 ## Episode 15: Preparing to Teach
 
+
+> ## Learner Profiles
+> Examine this example profile of a Software Carpentry learner:  
+> ~~~
+> João is an agricultural engineer doing his masters in soil physics.
+> His programming experience is a first year programming course using C.
+> He was never able to use this low-level programming in his activities,
+> and never programmed after the first year.
+> His work consists of evaluating physical properties of soil samples from different conditions.
+> Some of the soil properties are measured by an automated device that sends logs in a text format to his machine.
+> João has to open each file in Excel,
+> crop the first and last quarters of data values,
+> and calculate an average.
+> Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file,
+> and how to use R to read these files and calculate the required statistics.
+> It will also show him how to put his programs and files under version control
+> so that he can re-run analyses and figure out which results may have been affected by changes.
+> ~~~
+>> {: .quotation}
+> Sketch out a short profile of someone you might expect to attend your workshop.
+> Who are they,
+> what motivating problems do they face,
+> and how might this training help them?
+> Be as specific as possible.  
+> Enter your learner profile into the Etherpad.
+>
+> This exercise should take about 5 minutes.  
+{: .challenge}
+
+
+
 > ## Feedback On Your Challenges (Optional)
 >
 > With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
