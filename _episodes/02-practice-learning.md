@@ -87,31 +87,26 @@ the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
 
-## Mental Models
+## Building a Mental Model
 > All models are wrong, but some are useful. 
 > - George Box, statistician
 {: .testimonial}
 
-"Knowledge" is hard to describe. Understanding is never a mirror of reality, even for an expert; rather, it is 
+Understanding is never a mirror of reality, even for an expert; rather, it is 
 an internal representation based on our experience with a subject. 
 This internal representation is often described as a **mental model**. A mental model
 allows us to extrapolate, or make predictions beyond and between the narrow limits of experience and memory, filling in 
 gaps to the point that things "make sense." 
 
-As we learn, our mental model evolves to become more useful. A useful model makes reasonable predictions and fits well within
+As we learn, our mental model evolves to become more complex and, most importantly, more useful. A useful model makes reasonable predictions and fits well within
 the range of things
-we are likely to encounter, or at least does not break down entirely as new concepts are added. A driver of a gasoline powered car may 
-do just fine with a mental model that includes relationships between fuel, an engine, and a car battery;
-a broken alternator may not be something they could predict, but learning that another part mediates the relationship 
-between the engine and the battery adds to the model without the driver having to add any other concepts or un-learn mis-conceived relationships. 
-Alternatively, a child who attributes sentient will to a vehicle will have to work much harder to make sense 
-of a broken alternator.
-
+we are likely to encounter. While there will always be inaccuracies -- or "misconceptions" -- these do not interfere with day-to-day functioning. 
+A useful model does not seize up or break down entirely as new concepts are added. 
 
 ### The power (and limitations) of analogies
 Some mental models can be succinctly summarized by comparison to something else that is more universally understood.  Good analogies can be extraordinarily useful when teaching,
 because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection. However, all analogies have limitations!
-If you choose to use an analogy, be sure its usefulness outweighs its potential to generate misconceptions. 
+If you choose to use an analogy, be sure its usefulness outweighs its potential to generate misconceptions that may interfere with learning. 
 
 > ## Analogy Brainstorm
 >
@@ -140,7 +135,7 @@ The mental model of an expert in any given subject will be far larger and more c
 and more detailed and numerous relationships. However, **both may be perfectly useful** in certain contexts. 
 
 Returning to our example levels of skill development: 
-*     A *novice* has a minimal mental model of surface features of the domain. Inaccuracies may interfere with adding new information.
+*     A *novice* has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information.
 Predictions are likely to borrow heavily from mental models of other domains
 which seem superficially similar.
 *     A *competent practitioner* has a mental model that is useful for everyday purposes. Most new information
@@ -149,17 +144,68 @@ still be missing or wrong, predictions about their area of work are usually accu
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
+## How "Knowledge" Gets in the Way
 
-### Concept maps
-Visual representation of concepts and relationships can be a useful way to explore, evaluate, or communicate when teaching.
-There are certain ways in which you may routinely use visual representations of abstract concepts, including tools like 
-flow charts and biochemical pathway diagrams. One tool that may be used to organize concepts and relationships more generally is a **concept map**. Pioneered for
-classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to your instructional question and -- critically -- to
-identify how they are connected. It can be quite difficult to organize knowledge in this way! However, the process of forcing abstract knowledge into a visual 
-format can often reveal connections you may not have been aware of, or illuminate gaps. Especially where analogies are not available, concept mapping can help 
+Besides going slowly, what else can we do to facilitate the formation of
+sufficiently accurate mental models? One important action is to address the
+misconceptions of broken mental models.
+
+Mental models are hardly ever built from scratch. Every learner comes to a topic
+with some amount of information, ideas and opinions about the topic. This is true even
+in the case where a learner cannot articulate their prior knowledge and beliefs.  
+
+In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
+can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
+models.
+Correcting learners' misconceptions is at least as important as presenting them with correct information.
+There are many ways of classifying different types of misconceptions. For our purposes, it is useful to consider 
+3 broad categories:
+
+*   Simple *factual errors*. These exist in isolation from any deeper understanding. 
+    These are the easiest to correct. Example: believing that Vancouver is the capital of British Columbia.
+*   *Broken models*. These occur when inaccuracies explain relationships and generate predictions (often successfully!) in an existing mental model.
+    These take time to address, demanding that learners reason carefully through examples to see contradictions. 
+    Example: believing that motion and acceleration must always be in the same direction, or that seasons are related to the shape of the earth's orbit.
+*   *Fundamental beliefs*, which are deeply connected to a learner's social identity
+    and are the hardest to change. Examples: "the world is only a few thousand years old"
+    or "human beings cannot affect the planet's climate". 
+
+Since The Carpentries workshops are focused on building 
+strong mental models, we are most interested in the middle category of misconceptions.
+While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place. 
+
+
+### Mapping a Mental Model
+Most people do not naturally visualize a mental model as a diagram of concepts and relationships. Mental models are complicated!
+Yet, visual representation of concepts and relationships can be a useful way to explore and understand hidden features of a mental model.
+
+There are certain ways in which you may routinely use visual organizers, such as
+flow charts or biochemical pathway diagrams. A more general tool that is useful for exploring any network of concepts and relationships is a **concept map**. Pioneered for
+classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to a topic at hand and -- critically -- to
+identify how they are connected. It can be quite difficult to identify and organize these connections! However, the process of forcing abstract knowledge into a visual 
+format can often reveal connections or illuminate gaps that you may not have been aware of. Especially where analogies are not available, concept mapping can help 
 you to make your mental model of a concept more clear to yourself or others.
 
-![Four words inside circles, with labeled arrows connecting them. "Car" is at the top, with an arrow pointing to "engine" labeled as "is powered by." An arrow connects "engine" to "fuel," at left, labeled "requires energy from." Another arrow connects "engine" to "battery," at right, labeled "charges." An arrow connects "battery" back to "car," labeled "is needed to start."](../fig/Cmap-Car.svg)
+As an example, let us consider a misconception that can interfere with understanding plants.
+
+* Many people have a mental model of a tree that connects it to the earth below, knowing that nutrients in soil are important in "feeding" the tree. 
+* It is also not uncommon to know that trees are good for the air, and that planting more trees is good for our atmosphere. 
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree1.svg)
+
+* Many people do not connect trees with carbon dioxide in the air. If they do, they may know that trees "remove" CO2. BUT...
+* Awareness that the sugars, starches, and fibers of a tree are composed mainly of carbon derived from air is comparatively rare. 
+
+This new information is interesting to learn! Yet, it is surprisingly difficult to teach. Why? Because inaccurate prior knowledge creates conflict, breaking the 
+mental model and preventing this new information from fitting in. Plants eat dirt! This is a perfectly functional mental model, even for expert gardeners. It 
+takes time and effort for a student to re-adjust their understanding and fully accommodate this new mental model.
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree2.svg)
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree3.svg)
+
+Most mental models worth mapping are not so simple. Yet, forcing complex ideas in to this simplified format can be useful when preparing to teach, because 
+it forces you to be explicit about exactly what concepts are at the heart of your topic, and to name relationships between them. 
 
 > ## Mapping a Mental Model
 >
@@ -178,8 +224,8 @@ In particular,
 presenting novices with a pile of facts early on is counter-productive,
 because they do not yet have a model or framework to fit those facts into.
 In fact,
-presenting too many facts too soon can actually reinforce
-an incorrect mental model. (This is a key problem with the "empty vessel" analogy.)
+**presenting too many facts too soon can actually reinforce
+an incorrect mental model**. (This is a key problem with the "empty vessel" analogy.)
 
 Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
@@ -187,6 +233,8 @@ Thus, our primary goal is **not**
 to teach the syntax of a particular programming language, but **to help them construct a working mental model**
 so that they have something to attach facts to. In other words, our goal is to teach people **how to think** about programming and data
 management in a way that will allow them to learn more easily on their own or understand what they might find online.
+
+
 
 ### The Importance of Going Slowly
 
@@ -236,36 +284,6 @@ helps solidify both ideas.
 > from learners. We will be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
 
-## How "Knowledge" Gets in the Way
-
-Besides going slowly, what else can we do to facilitate the formation of
-sufficiently accurate mental models? One important action is to address the
-misconceptions of broken mental models.
-
-Mental models are hardly ever built from scratch. Every learner comes to a topic
-with some amount of information, ideas and opinions about the topic. This is true even
-in the case where a learner cannot articulate their prior knowledge and beliefs.  
-
-In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
-can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
-models.
-Correcting learners' misconceptions is at least as important as presenting them with correct information.
-Broadly speaking, misconceptions fall into three categories:
-
-*   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
-    These are the easiest to correct.
-*   *Broken models*, such as believing that motion and acceleration must be in the same direction.
-    We can address these by having learners reason through examples to see contradictions.
-*   *Fundamental beliefs*,
-    such as "the world is only a few thousand years old"
-    or "human beings cannot affect the planet's climate".
-    These beliefs are deeply connected to the learner's social identity
-    and are the hardest to change. (Fortunately, we do not encounter these often in Carpentries workshops.
-    The closest we usually come has to do with beliefs about identity, which we will discuss in our Mindset section tomorrow.)
-
-Since The Carpentries workshops are focused on novices, and the building of
-strong mental models, we are most interested in the middle category of misconceptions.
-While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place.
 
 ## Identifying and Correcting Misconceptions with Formative Assessment
 
