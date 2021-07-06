@@ -41,53 +41,13 @@ some structure for that preparation.
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
 (we hope!) have a plan to learn a few things about your participants after a class has begun. However, in thinking about your learners, it is 
 also important to consider the broader contexts they bring in ways that you will never get to fully explore in your classroom. It can be helpful
-to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others. 
-
-For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner 
-profile**. This is a good way to support an empathic and intentional approach to your plan for instruction.
-
-Learner profiles have three parts:
-- the person's general background,
-- the motivating problem they face,
-- and how the course will help them.
-
-
-
-> ## Learner Profiles
-> Examine this example profile of a Software Carpentry learner:  
-> ~~~
-> João is an agricultural engineer doing his masters in soil physics.
-> His programming experience is a first year programming course using C.
-> He was never able to use this low-level programming in his activities,
-> and never programmed after the first year.
-> His work consists of evaluating physical properties of soil samples from different conditions.
-> Some of the soil properties are measured by an automated device that sends logs in a text format to his machine.
-> João has to open each file in Excel,
-> crop the first and last quarters of data values,
-> and calculate an average.
-> Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file,
-> and how to use R to read these files and calculate the required statistics.
-> It will also show him how to put his programs and files under version control
-> so that he can re-run analyses and figure out which results may have been affected by changes.
-> ~~~
->> {: .quotation}
-> Sketch out a short profile of someone you might expect to attend your workshop.
-> Who are they,
-> what motivating problems do they face,
-> and how might this training help them?
-> Be as specific as possible.  
-> Enter your learner profile into the Etherpad.
->
-> This exercise should take about 5 minutes.  
-{: .challenge}
+to reserve time to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others. 
 
 Whether through learner profiles or more general brainstorming, it is
 useful to recognize that you will never know everything about the whole people who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped 
-breakfast to save money that morning. The previous activity did not prompt you to include these examples explicitly, because subjects like these can be 
-delicate and prone to bias. However, you might take a moment to consider what hidden features might also apply to the 
-profile you created, and how this could impact their experience in your classroom. Thinking deeply about learners as people can help you prepare to bring your 
+breakfast to save money that morning. Thinking deeply about learners as people can help you prepare to bring your 
 best self and provide an inclusive environment for everyone.
 
 ## Reversing your Preparation Process
@@ -133,28 +93,24 @@ only be achieved after some 'groundwork' has been laid.
 > Select one learning objective from the episode you've used for teaching practice. Copy it into the etherpad
 > then add numbers below your objective to address the following:
 >
-> 1. Identify the *action* specified in the learning objective. 
-> 2. Suppose a learner had met this objective, and wanted to do more or challenge themselves on the same topic. What do you think a *next level* objective might look like? How is the action different?
-> 3. Suppose a learner struggles to meet the specified objective. Is it possible to write an objective at a *lower level* than the one in your lesson? What would that look like?
+> 1. Write your learning objective in the Etherpad. 
+> 2. Suppose a learner had mastered this objective, and wanted to do more or challenge themselves on the same topic. Identify an objective they could work towards next.
+> 3. Suppose a learner struggles to meet the specified objective. Identify one more fundamental thing a learner needs to be able to do in order to be successful in meeting this objective.
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
-In the course of this exercise, your class will likely have re-invented components of Bloom's Taxonomy. This venerable framework has been through
-countless iterations since its proposal in 1956. Like all models, it is probably wrong in certain ways, but research supports the existence -- 
-and constraints -- of such a hierarchy. 
-
-![A six level pyramid labelled from bottom to top: remember, understand, apply, analyze, evaluate, create.](../fig/Bloom_taxonomy.svg)
-
-Many courses strive to bring learners to "higher order" thought processes, demanding that they apply, analyze, evaluate, or create using content they
-learn in a course. Everybody wants to be at the top! However, a critical role for this model is to help us **be mindful of skipping steps**. 
-When higher order assessments fail, it is usually because instructors have neglected to attend to the "low-level" (foundational!) objectives that
-help learners to remember and understand the underlying concepts. Most Carpentries workshop objectives, since they address novices, will focus at these lower 
-levels. If you do encounter a higher level goal, be sure to provide support where prior learning may be required.
-
-Do your answers to the previous activity fit into Bloom's Taxonomy? Does it add to or change the way you think about your responses?
 
 ## Using Formative Assessments
+
+In your answers above, you may have found yourself using words like "know" and "understand." These are words we are accustomed to using when we talk about 
+teaching and learning! However, these terms are so broad that they are actually quite difficult to use when it comes time to *assess* whether a learner has met 
+that objective. When do you *know* something? What does it mean to *understand*? 
+
+When we want to check on the completion of a learning objective, we create tasks, and these tasks usually test knowledge and understanding in very specific ways.
+For example, we might ask a learner to *recognize* a correct answer, or to *distinguish* between correct and incorrect answers. After working through an example, 
+we might ask them to *apply* their knowledge to a new task. When words like these are used in learning objectives, it makes it easier to decide how to assess 
+whether an objective has truly been met. 
 
 When a learning objective has been met, everyone should know about it! You, as an Instructor, can be satisfied that your teaching has successfully translated
 into learning. For learners, recognizing that they have successfully learned something is motivating and it also supports their ability to monitor their own 
@@ -166,6 +122,14 @@ checkpoints built in where such progress is made clear.
 > Have a look at your learning objective again and identify
 > *where* in the lesson that objective should reasonably be achieved. 
 >
+
+
+When subject area experts design instruction, they are often over-eager to get their learners to work with content they have learned in advanced ways. These 
+might include tasks that ask learners to synthesize information from different sources, or create something new based on what they have learned. It is essential 
+to recognize that these 'higher order' tasks rely on many layers of fundamental understanding, and are therefore prone to failure when applied to novices. 
+Awareness of exactly what underlying knowledge is required at each step will help you to avoid asking too much. For more guidance on identifying the "level" of 
+a particular task, we recommend having a look at one of many excellent references on Bloom's Taxonomy.
+
 > How might you apply formative assessment to:  
 > a) verify that that achievement has been met by all and  
 > b) make learners aware of their accomplishment?  
