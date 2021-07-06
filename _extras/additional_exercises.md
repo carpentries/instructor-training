@@ -51,6 +51,13 @@ title: "Additional Exercises"
 
 ## Episode 15: Preparing to Teach
 
+For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner 
+profile**. This is a good way to support an empathic and intentional approach to your plan for instruction.
+
+Learner profiles have three parts:
+- the person's general background,
+- the motivating problem they face,
+- and how the course will help them.
 
 > ## Learner Profiles
 > Examine this example profile of a Software Carpentry learner:  
