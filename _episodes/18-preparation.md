@@ -164,69 +164,6 @@ a particular task, we recommend having a look at one of many excellent reference
 {: .callout}
 
 
-## Identifying and Correcting Misconceptions with Formative Assessment
-
-How do we expose misconceptions, especially as they pertain to broken models? How
-can we, in-class, know whether the learners already understand this topic
-(so that the class can move on),
-and if not,
-what misconceptions and gaps in their knowledge we should address?
-
-To be effective, instructors need feedback on their learners' progress,
-and insight into their learners' mental models.
-This feedback comes through what we call *formative assessments* (in contrast
-  to *summative assessment*).
-
-> ## Summative Assessment
-> *Summative assessment* is used
-> to judge whether a learner has reached an acceptable level of competence.
-> Learners either "pass" or "fail" a summative assessment.
-> One example is a driving exam,
-> which tells the rest of society whether someone can safely be allowed on the road. Most assessment done in university
-> courses is summative, and is used to assign course grades.
-{: .callout}
-
-**Formative assessment** takes place during teaching and learning. It seems like
-a fancy term, but it can be used to describe any interaction or activity
-that provides feedback to both instructors and learners about learners' level of understanding of the
-material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
-their instruction to respond to challenges that learners are facing.  
-
-Learners do not "pass" or "fail" formative assessments; they are simply a feedback mechanism.
-For example, a music teacher might ask a learner to play a scale very slowly
-in order to see whether they are breathing correctly,
-and if not, what they should change.
-
-Formative assessment is most useful when it happens frequently and when the
-results are easily interpretable by the learner and instructor.
-
-> ## Repetition vs. Reflective Practice
->
-> The idea that ten thousand hours of practice will make someone an expert in some field
-> is widely known,
-> but reality is much more complex.
-> Practice is not doing the same thing over and over again:
-> practice is doing similar but subtly different things,
-> getting feedback,
-> and then changing behavior in response to that feedback to get cumulatively better.
-> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
-> Instructor Training program.
-{: .callout}
-
-## Formative Assessments Come in Many Forms
-
-There are many types of formative assessment, and each have their advantages and disadvantages.
-
-> ## Formative Assessments
->
-> Based on your previous educational experience (or even this training so far!)
-> what types of formative assessments do you know about?
->
-> Write your answers in the Etherpad; or go around and have each person in the group name one.
-> 
-> This exercise should take about 5 minutes.
-{: .challenge}
 
 One example of formative assessment that we would like to highlight is
 the multiple choice question (MCQ).
