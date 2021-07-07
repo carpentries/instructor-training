@@ -75,8 +75,8 @@ an arrow labelled "Experience level" points from left to right. The "Novice" is 
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-Note that, **while you may not think of yourself as a computational "expert", in the context above that term may accurately describe
-your skill level** in some situations. We will come back to the expertise of the instructor and its impact -- positive and negative -- 
+You may or may not consider yourself an expert in a given subject, but the definition above may nonetheless apply to you. 
+We will come back to the expertise of the Instructor and its impact -- positive and negative -- 
 on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
 as this tends to characterize The Carpentries audience.
@@ -202,13 +202,6 @@ it forces you to be explicit about exactly what concepts are at the heart of you
 
 ### Types of Misconceptions
 
-Mental models are hardly ever built from scratch. Every learner comes to a topic
-with some amount of information, ideas and opinions about the topic. This is true even
-in the case where a learner cannot articulate their prior knowledge and beliefs.  
-
-In many cases, this prior knowledge is incomplete or inaccurate. Inaccurate beliefs can be termed "misconceptions" and
-can impede learning by making it more difficult for learners to incorporate new, correct information into their mental
-models.
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 There are many ways of classifying different types of misconceptions. For our purposes, it is useful to consider 
 3 broad categories:
@@ -217,18 +210,27 @@ There are many ways of classifying different types of misconceptions. For our pu
     These are the easiest to correct. Example: believing that Vancouver is the capital of British Columbia.
 *   *Broken models*. These occur when inaccuracies explain relationships and generate predictions (often successfully!) in an existing mental model.
     These take time to address, demanding that learners reason carefully through examples to see contradictions. 
-    Example: believing that motion and acceleration must always be in the same direction, or that seasons are related to the shape of the earth's orbit.
+    Examples: believing that motion and acceleration must always be in the same direction, or that seasons are related to the shape of the earth's orbit.
 *   *Fundamental beliefs*, which are deeply connected to a learner's social identity
     and are the hardest to change. Examples: "the world is only a few thousand years old"
-    or "human beings cannot affect the planet's climate". 
+    or "human beings cannot affect the planet's climate". "I am not a computational person" may, arguably, also fall into this category of misconception.
 
-Since The Carpentries workshops are focused on building 
-strong mental models, we are most interested in the middle category of misconceptions.
-While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place. 
+The middle category of misconceptions is the most useful type to watch out for in Carpentries workshops. 
+While teaching, we want to expose learners' broken models so that we can help them begin to deconstruct them and build better ones in their place. 
 
+> ## Anticipating Misconceptions
+>
+> Describe a misconception you have encountered as a teacher or as a learner.
+> 
+> This exercise should take about 5 minutes.
+{: .challenge}
 
 
 ## Formative Assessment
+
+
+
+## The Importance of Going Slowly 
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
@@ -246,9 +248,6 @@ to teach the syntax of a particular programming language, but **to help them con
 so that they have something to attach facts to. In other words, our goal is to teach people **how to think** about programming and data
 management in a way that will allow them to learn more easily on their own or understand what they might find online.
 
-
-
-### The Importance of Going Slowly
 
 > If someone feels it is too slow, they will be a bit bored. If they feel it is too fast, they will never come back to programming.
 > — Kunal Marwaha, SWC Instructor
