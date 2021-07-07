@@ -144,11 +144,62 @@ still be missing or wrong, predictions about their area of work are usually accu
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 
-## How "Knowledge" Gets in the Way
 
-Besides going slowly, what else can we do to facilitate the formation of
-sufficiently accurate mental models? One important action is to address the
-misconceptions of broken mental models.
+### Mapping a Mental Model
+Most people do not naturally visualize a mental model as a diagram of concepts and relationships. Mental models are complicated!
+Yet, visual representation of concepts and relationships can be a useful way to explore and understand hidden features of a mental model.
+
+There are certain ways in which you may routinely use visual organizers, such as
+flow charts or biochemical pathway diagrams. A more general tool that is useful for exploring any network of concepts and relationships is a **concept map**. Pioneered for
+classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to a topic at hand and -- critically -- to
+identify how they are connected. It can be quite difficult to identify and organize these connections! However, the process of forcing abstract knowledge into a visual 
+format can often reveal connections or illuminate gaps that you may not have been aware of. Especially where analogies are not available, concept mapping can help 
+you to make your mental model of a concept more clear to yourself or others.
+
+As an example, consider a mental model of the relationship between trees and their surrounding environment.
+
+The concept map below illustrates one possible mental model showing a handful of concepts and relationships. Note that it is not comprehensive -- for example, 
+we have left "water" out of the picture for now, to focus more closely on the concepts and relationships here.
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree1.svg)
+
+
+> ## Mapping a Mental Model
+>
+> 1) On a piece of paper, draw a simplified concept map of the same concept you discussed in the last activity, but this time without the analogy. 
+> What are 3-4 core 
+> concepts involved? How are those concepts related?
+>  
+> 2) In the Etherpad, write some notes on this process. Was it difficult? Do you think it would be a useful exercise prior to teaching about your topic?
+> What challenges might a novice face in creating a concept map of this kind?  
+> This exercise should take about 5 minutes.
+{: .challenge}
+
+## Misconceptions
+
+The mental model above connects a tree to the earth below, recognizing that nutrients in soil are important to the health of a tree. 
+It also connects trees to benefits for the air. This mental model is perfectly functional for someone who wishes to grow a tree -- even a professional gardener! 
+It is also fully functional for most people to make responsible decisions about growing and protecting trees to maximize the quality of the air we breathe.
+
+However, if this person were to sign up for an introductory biology class, they may well be in for a surprise as they strive to add new information to this 
+mental model. Specifically, as they learn about the process of photosynthesis, they will be asked to understand that the carbon that makes sugar -- the *primary* 
+source of food for a tree, actually comes from carbon dioxide in the air. Wow, is that interesting! BUT...
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree2.svg)
+
+The problem with learning this new information is that it clashes with the pre-existing mental model, in which the "food" for a tree comes from the dirt that 
+it grows in. This prior knowledge needs to be adjusted to a new understanding that soil provides many nutrients to *supplement* the primary food source 
+in the air.  
+
+![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree3.svg)
+
+This adjustment can take a while! In the mean time, this mental model may continue to limp along, but will break down in the face of certain kinds 
+of test questions. 
+
+Most mental models worth mapping are not so simple. Yet, forcing complex ideas in to this simplified format can be useful when preparing to teach, because 
+it forces you to be explicit about exactly what concepts are at the heart of your topic, and to name relationships between them. 
+
+### Types of Misconceptions
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic
 with some amount of information, ideas and opinions about the topic. This is true even
@@ -175,48 +226,8 @@ strong mental models, we are most interested in the middle category of misconcep
 While teaching, we want to expose learners' broken models so that we can help them to deconstruct them and build better ones in their place. 
 
 
-### Mapping a Mental Model
-Most people do not naturally visualize a mental model as a diagram of concepts and relationships. Mental models are complicated!
-Yet, visual representation of concepts and relationships can be a useful way to explore and understand hidden features of a mental model.
 
-There are certain ways in which you may routinely use visual organizers, such as
-flow charts or biochemical pathway diagrams. A more general tool that is useful for exploring any network of concepts and relationships is a **concept map**. Pioneered for
-classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to a topic at hand and -- critically -- to
-identify how they are connected. It can be quite difficult to identify and organize these connections! However, the process of forcing abstract knowledge into a visual 
-format can often reveal connections or illuminate gaps that you may not have been aware of. Especially where analogies are not available, concept mapping can help 
-you to make your mental model of a concept more clear to yourself or others.
-
-As an example, let us consider a misconception that can interfere with understanding plants.
-
-* Many people have a mental model of a tree that connects it to the earth below, knowing that nutrients in soil are important in "feeding" the tree. 
-* It is also not uncommon to know that trees are good for the air, and that planting more trees is good for our atmosphere. 
-
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree1.svg)
-
-* Many people do not connect trees with carbon dioxide in the air. If they do, they may know that trees "remove" CO2. BUT...
-* Awareness that a tree is composed **mainly** of carbon derived from air is comparatively rare. 
-
-This new information is interesting to learn! Yet, it is surprisingly difficult to teach. Why? Because inaccurate prior knowledge creates conflict, breaking the 
-mental model and preventing this new information from fitting in. Plants eat dirt! This is a perfectly functional mental model, even for expert gardeners. It 
-takes time and effort for a student to re-adjust their understanding and fully accommodate this new mental model.
-
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree2.svg)
-
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree3.svg)
-
-Most mental models worth mapping are not so simple. Yet, forcing complex ideas in to this simplified format can be useful when preparing to teach, because 
-it forces you to be explicit about exactly what concepts are at the heart of your topic, and to name relationships between them. 
-
-> ## Mapping a Mental Model
->
-> 1. On a piece of paper, draw a concept map of the same concept you discussed in the last activity, but this time without the analogy. What are 3-4 core 
-> concepts involved? How are those concepts related?
->  
-> 2. In the Etherpad, write some notes on this process. Was it frustrating? Do you think it would be a useful exercise prior to teaching about your topic?
-> What challenges might a novice face in creating a concept map of this kind?  
-> This exercise should take about 5 minutes.
-{: .challenge}
-
+## Formative Assessment
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
