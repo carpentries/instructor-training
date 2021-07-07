@@ -23,15 +23,15 @@ Whether you are new to teaching or skilled in certain methods, adding new featur
 we will walk through some techniques for preparing to teach a workshop that we hope will help you to develop goals
 and implementation plans that are specific to a workshop. 
 
-As with other sections of this training, we will not be discussing technical preparation. Carefully reviewing the content of your workshop is important, and it
+As with other sections of this training, **we will not be discussing technical preparation**. Carefully reviewing the content of your workshop is important, and it
 can be useful to anticipate learner questions and update your knowledge accordingly. However, it is common for new Instructors to
 over-prepare on technical content -- which can be endless! -- and under-prepare the learner-centered elements of their teaching practice. If you encounter
 technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive feedback. On the other hand, neglecting
 to attend to your audience can have a significant negative impact on your workshop.
 
 When you prepare to teach a workshop, 
-we suggest setting aside time *before* deeply reviewing your technical content to think through the learner experience, how
-your teaching will translate into their learning, and how both of you will know when that happens. In this episode, we will provide
+we suggest setting aside time *before* deeply reviewing your technical content to **think through the learner experience, how
+your teaching will translate into their learning, and how both of you will know when that happens**. In this episode, we will provide
 some structure for that preparation.
 
 ![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
@@ -43,16 +43,24 @@ To teach effectively, you have to know *who* you are teaching. You may have a br
 also important to consider the broader contexts they bring in ways that you will never get to fully explore in your classroom. It can be helpful
 to reserve time to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others. 
 
-Whether through learner profiles or more general brainstorming, it is
+> ## Imagine a Learner
+>
+> Take a moment to silently imagine a learner who might attend your workshop. What is their background? What problem do they face? 
+> What will they gain from attending your workshop? 
+> 
+> This exercise should take about 2 minutes.  
+{: .challenge}
+
+As you strive to anticipate your audience, it is 
 useful to recognize that you will never know everything about the whole people who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped 
-breakfast to save money that morning. Thinking deeply about learners as people can help you prepare to bring your 
+breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your 
 best self and provide an inclusive environment for everyone.
 
 ## Reversing your Preparation Process
 
-Now that you have a sense of who might be in your classroom, you are ready to think through **their experience with the content you plan to teach**. 
+Now that you have a sense of who might be in your classroom, a good next step is to think through **their experience with the content you plan to teach**. 
 This is different from thinking through the content itself. 
 
 In curriculum design, most people naturally approach development in the order in which they use it. Lessons first, then assessments. Learning objectives
@@ -94,8 +102,8 @@ only be achieved after some 'groundwork' has been laid.
 > then add numbers below your objective to address the following:
 >
 > 1. Write your learning objective in the Etherpad. 
-> 2. Suppose a learner had mastered this objective, and wanted to do more or challenge themselves on the same topic. Identify an objective they could work towards next.
-> 3. Suppose a learner struggles to meet the specified objective. Identify one more fundamental thing a learner needs to be able to do in order to be successful in meeting this objective.
+> 2. Suppose a learner had mastered this objective, and wanted to do more to advance their mastery of the same topic. Identify an objective they could work towards next.
+> 3. Suppose a learner struggled to meet the specified objective. What might they be missing? Identify one more fundamental thing a learner needs to be able to do in order to be successful in meeting this objective.
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
