@@ -89,7 +89,10 @@ what pads can be used for, and how long pads stick around. You may also want to 
 
 ### General Preparation
 
-TBA
+- Have water and cough drops nearby.
+- Decide ahead of time if you will be using google docs or an etherpad.
+- Most people like or enjoy this training.
+- There is no such thing as "too much coffee" or "too many donuts"
 
 ### Using Helpers/Co-Instructors
 
@@ -185,6 +188,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - Google Doc pros + cons
     - Pros: richer formatting
     - Cons: no line numbers
+  - Have a plaintext list of names that you can paste into the Etherpad/Google Doc. Reduces confusion when a bunch of people need to answer something at once, and subtly makes it clear that everyone needs to respond.
 - **Zoom tips**
   - Announce *at the beginning* of the training that all participants should mute when
   they are not talking.  You may need to repeat this a few times during the early part
@@ -200,6 +204,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
+  - You can never practice too much with Zoom! 
 
 ## V. Curriculum Teaching Tips
 
@@ -211,6 +216,7 @@ This is a place for Trainers to leave tips and observations for those newer to t
 
 * Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give
 learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
+- Make good use of breaks - use them for a short exercise, or just give a break entirely for people to take a breather.
 
 ### Welcome
 
