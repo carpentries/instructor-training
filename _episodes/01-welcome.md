@@ -31,6 +31,9 @@ keypoints:
 > Do not force people to share their pronouns.
 {: .discussion}
 
+
+![Photograph of an icebreaker ship](../fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg)
+
 ## Before The Course Begins
 
 > ## Getting to know each other
@@ -38,6 +41,7 @@ keypoints:
 > If the Trainer has chosen an [icebreaker question]({{ site.training_site }}/icebreakers/index.html),
 > participate by writing your answers in the Etherpad.
 {: .challenge}
+
 
 ## Code of Conduct
 
@@ -117,6 +121,8 @@ are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
+
+![Photograph of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/CarpentriesWorkshopFigsLabeled.svg)
 
 The goal of this training is to provide you with the skills and information you need
 to become a certified Carpentries Instructor. Our expectations of certified
