@@ -1,0 +1,3741 @@
+% \iffalse
+% File: examdesign.dtx Copyright (C) 1997-2001 Jason Alexander
+% Copyright (C) 19yy  name of author
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License along with
+% this program; if not, write to the Free Software Foundation, Inc., 59 Temple
+% Place - Suite 330, Boston, MA  02111-1307, USA.
+%
+% For error reports, or offers to help improve the 'examdesign' class 
+% please contact me at jalex@uci.edu.
+% \fi
+%         \ProvidesFile{interactiveexamdesign.dtx}
+%          [1997/11/22 v1.02 `examdesign' class (JMA)]
+% \iffalse
+%<*driver>
+\documentclass{ltxdoc}
+\usepackage{tabularx}
+\CodelineIndex
+\EnableCrossrefs
+\RecordChanges
+\begin{document}
+\DocInput{interactiveexamdesign.dtx}% \PrintIndex
+\end{document}
+%</driver>
+%\fi
+% \MakeShortVerb{\|}
+% \MakeShortVerb{\"}
+%
+% \def\fileversion{v1.1}
+% \def\filedate{2001/3/26}
+% \changes{v1.00}{1997/10/11}{Initial version.}
+% \changes{v1.01}{1997/10/22}{Fixed several bugs, added
+%      \texttt{StudentInfoLineSpacing}
+%      command, included two example files
+%      to better illustrate the class features.}
+% \changes{v1.02}{1997/11/22}{Added the \textsf{block}, \textsf{frontmatter},
+%       \textsf{endmatter}, \textsf{examtop}, \textsf{keytop}, \textsf{exampreface},
+%       \textsf{keypreface}, \textsf{examclosing}, \textsf{keyclosing} environments
+%       and the commands \texttt{word}, \texttt{exam}, \texttt{key},
+%       \texttt{examvspace}, \texttt{examvspace*}, \texttt{examhspace},
+%       \texttt{examhspace*}, \texttt{keyvspace}, \texttt{keyvspace*},
+%       \texttt{keyhspace}, and \texttt{keyhspace*}. Fixed a bug that prevented
+%       the \textsf{multiplechoice} environment from identifying the answer
+%       in the answer key if the correct answer was the last choice.  Added
+%       the \texttt{onekey} option. Fixed a careless bug that broke the
+%       cedilla.}
+% \changes{v1.1}{2001/3/26}{Reworked the internal code, added the
+% \textsf{matching} environment, and changed the input syntax considerably to
+% make it (I hope) more user-friendly. Questions can now be numbered
+% continously across sections, plus more\ldots}
+% \changes{v1.101}{2006/09/05}{Jim Hefferon Changed name of files and class to
+% examdesign to avoid name clashes with another package, after getting OK
+% from author.}
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% \title{The \textsf{interactiveexamdesign} class\thanks{This file
+%        has version number \fileversion, last
+%        revised \filedate.}}
+% \author{Jason Alexander}
+% \date{\filedate}
+% \maketitle
+% \hfuzz=72pt
+% \vfuzz=36pt
+%
+% \DoNotIndex{\if,\else,\fi,\expandafter}
+% \DoNotIndex{\csname,\endcsname}
+% \DoNotIndex{\addtocounter,\stepcounter,\advance,\Alph,\alph,\arabic}
+% \DoNotIndex{\begin,\end,\begingroup,\endgroup,\catcode,\centerline,\day,\def}
+% \DoNotIndex{\divide,\do,\edef,\endgroup,\evensidemargin,\fbox,\gdef,\global}
+% \DoNotIndex{\headheight,\headsep,\hfill,\hphantom,\Huge,\ifnum,\ifx,\large}
+% \DoNotIndex{\long,\m@ne,\mbox,\medskip,\message,\month,\multiply}
+% \DoNotIndex{\noindent,\nopagebreak,\normalsize,\oddsidemargin,\pagebreak}
+% \DoNotIndex{\par,\relax,\rightmargin,\roman,\setcounter,\setlength}
+% \DoNotIndex{\smallskipamount,\space,\textheight,\textsf,\textwidth}
+% \DoNotIndex{\the,\topmargin,\undefined,\underline,\value,\vspace}
+% \DoNotIndex{\xdef,\year,\z@,\time,\topsep}
+%
+% \begin{abstract}
+% A new class, \textsf{interactiveexamdesign}, for \LaTeXe\ is defined.  It provides
+% several features useful for designing tests or question sets: (1) it allows
+% for an explicit markup of questions and answers; (2) the class will, at the
+% user's request, automatically generate answer keys; (3) multiple versions of
+% the same test can be generated automatically, with the ordering of questions
+% within each section randomly permuted so as to minimize cheating; (4) the
+% generated answer keys can be constructed either with or without the
+% questions included; and (4) some environments are provided to assist in
+% constructing the most common types of test question: matching,
+% true/false, multiple-choice, fill-in-the-blank, and short answer/essay
+% questions
+% \end{abstract}
+%
+% \section{Description}
+%
+% Teaching is a rewarding and enjoyable profession, designing exams is not.
+% \emph{Grading} exams is even worse, but for help with that last bit you'll
+% need more than a \LaTeX\ class.  This class file started out with a
+% relatively simply goal: randomize a collection of questions so that the
+% author wouldn't need to do it by hand.  Since then, it has grown
+% in functionality and size and is now (I hope) a reasonably complete
+% general-purpose class for constructing exams and question sets.
+%
+%
+% \section{Usage}
+%
+% To begin, simply create a new \LaTeXe\ document starting with
+% \begin{verbatim}
+% \documentclass{interactiveexamdesign}
+% \begin{document}\end{verbatim}
+% If you want to create an exam in 12pt type, use
+% "\documentclass[12pt]{interactiveexamdesign}" instead.  If you need to load
+% additional packages, they may be loaded via the command "\usepackage" as
+% always.  The class includes a number of packages included with a standard \LaTeX\
+% distribution: \textsf{keyval}, \textsf{multicol}, and \textsf{enumerate}.
+% If you don't have these packages, your \LaTeX\ distribution is nonstandard
+% (or incomplete), and you'll have to grab these packages from the nearest
+% CTAN site in order to use \textsf{interactiveexamdesign}.
+%
+% Most exams/questions sets are split into sections according to the type of
+% question asked, and \textsf{interactiveexamdesign} follows this practice.  There are five
+% environments defined, one environment for each type of question: \textsf{matching},
+% \textsf{shortanswer}, \textsf{truefalse}, \textsf{multiplechoice}, and
+% \textsf{fillin}.  \textbf{N.B.} Previous versions of \textsf{interactiveexamdesign} had
+% starred forms of these environments of well.  The starred forms (as well as
+% the \textsf{fixed} environment, have been eliminated in this new release.
+% Their functionality has been incorporated into the standard environments.
+%
+% All the environments are designed to make binding answers to questions
+% easier. This not only makes the job of writing the exam easier, 
+% but it allows the automated generation of answer keys.
+%
+% \subsection{Switches}
+% There are two ways to customize the output of the \textsf{exam}
+% class: switches and special formatting environments.
+% Descriptions of the special formatting environments (such as
+% \textsf{frontmatter}, \textsf{endmatter}, etc.) can be found in section
+% \ref{SFE}. 
+%
+% A switch is a single command that changes an internal parameter
+% influencing the overall formatting of the exam.  Switches should be included
+% in the preamble because doing so will guarantee that they will apply to the
+% entire exam.  Putting
+% switches elsewhere may result in odd results because \textsf{interactiveexamdesign} shuffles
+% around what you write quite a lot, and you won't always know when a
+% switch will be executed.
+%
+% One change between this release and previous releases is that all of the
+% class options unique to \textsf{interactiveexamdesign} have been converted to switches for
+% sake of consistency. 
+%
+% \DescribeMacro{\NoRearrange}
+% Although the original reason behind writing \textsf{interactiveexamdesign} was to automate
+% the random rearranging of questions, people have pointed out that it would
+% be nice to turn off the feature (say, when writing the exam).  The
+% "\NoRearrange" switch suppresses the rearrangement of questions.  You can
+% override this setting on a section-by-section basis, though, by setting the
+% correct environment option (see the discussion of the options in
+% section~\ref{env} for more details).  In addition, see the discussion of the
+% "\setrandomseed" macro below for how to generate ``randomly rearranged''
+% question sets in the \emph{same} order across runs.
+%
+% \DescribeMacro{\NoKey}
+% \DescribeMacro{\OneKey}
+% The switch "\NoKey" suppresses the generation of all answer keys, whereas
+% "\OneKey" generates an answer key for the first exam only.  
+%
+% \DescribeMacro{\BoldfaceCorrectMultipleChoiceAnswer}
+% \DescribeMacro{\UnderlineCorrectMultipleChoiceAnswer}
+% The switch "\BoldfaceCorrectMultipleChoiceAnswer" identifies the correct
+% answer in multiple choice questions by using boldface text instead of
+% placing a box around the correct letter.  The switch
+% "\UnderlineCorrectMultipleChoiceAnswer" identifies the correct answer in
+% multiple 
+% choice questions by underlining.  These two switches are cumulative:
+% including both in your exam will 
+% give you boldface underlined answers (the order doesn't matter).  If neither
+% one is specified, 
+% \textsf{interactiveexamdesign} will default to boxing the letter of the correct answer.  This
+% is shown in the examples below. 
+%
+% Technical note: The ordinary \LaTeXe\ "\underline" command does not work
+% well when the underlined text spans several lines. Consequently,
+% I've incorporated the \textsf{ulem} package, written
+% by Donald Arseneau, for underlining.  Since this package is embedded
+% in this class, you do not need to load it again if you should need it.
+%
+% \DescribeMacro{\NumberOfVersions}
+% The "\NumberOfVersions" macro takes a single numerical argument---the number of
+% different versions of the test to generate.  Under the default
+% settings, if you request more than 26 versions of the test you will
+% get an error.  This is because the forms are labelled according to letters of
+% the alphabet, and \LaTeXe\ doesn't like it when you try to ask
+% for the 27th letter of the alphabet.  If you \emph{really} need more than 27
+% copies of an exam, you will need to use one of the
+% special formatting environments redefine the material inserted at the top of
+% each exam and key.
+%
+% \DescribeMacro{\class}
+% The "\class" macro takes one argument: the name of the class to appear on
+% the exam.  For example, "\class{Math 205A: Set Theory}" will cause the
+% name of the class to appear in the appropriate place (if you are using the
+% default setting).
+%
+% \DescribeMacro{\examname}
+% |\examname| takes one argument, just like |\class|.  The argument is used to
+% identify the type of test.  For example, |\examname{Final Exam}|,
+% |\examname{Midterm Exam}|, |\examname{Pop Quiz}|,\ldots
+%
+% \DescribeMacro{\ConstantBlanks}
+% |\ConstantBlanks| has one mandatory argument (a length).  It tells \TeX\ to
+% typeset the underline in fill-in-the-blank environments using lines of a
+% constant length, regardless of the length of the correct word.
+%
+% \DescribeMacro{\ProportionalBlanks}
+% |\ProportionalBlanks| has one mandatory argument (a real number $r$). It tells \TeX\
+% to typeset the underline in fill-in-the-blank environments using lines that
+% are exactly $r$ times the length of the correct answer when the correct
+% answer is typeset by \TeX.  The default setting is |\ProportionalBlanks{1}|.
+% If you include both "\ConstantBlanks" and "\ProportionalBlanks" in the preamble,
+% the exam will be typeset using whichever switch was last set.
+%
+% \DescribeMacro{\StudentInfoLineSpacing}
+% |\StudentInfoLineSpacing| requires a length as its argument.  This value
+% is used to determine the amount of additional spacing between lines in
+% the student data box appearing in the upper right-hand corner of the exam.
+% The default value is 6pt.  If you change the definitions these environments
+% using \textsf{examtop} and \textsf{keytop}, this command will have no effect.
+%
+% \DescribeMacro{\SectionFont}
+% This macro takes one argument, which can be any declarative font-changing
+% commands (i.e., "\em" rather than "\emph").  It changes the default font
+% used to typeset the section titles.
+%
+% \DescribeMacro{\ContinuousNumbering}
+% This macro takes no argument.  It changes the default numbering behavior.
+% Instead of resetting the numbers at the start of each section, it will
+% continue the numbering from previous sections.  (Notice that the
+% \textsf{matching} and \textsf{truefalse} environments are not affected by
+% this, as they don't number their questions.)
+%
+% \DescribeMacro{\ShortKey}
+% This macro takes no argument.  It changes the way answer keys are typeset.
+% Basically, it will delete any question text, any instructions at the start
+% of a block of questions (or at the start of a section), and only print the
+% answer.  
+%
+% \DescribeMacro{\DefineAnswerWrapper}
+% This macro takes two arguments.  For the \textsf{shortanswer} environment,
+% the first argument will always be inserted before the answer, and the second
+% argument will always be inserted after the answer.  
+%
+% \DescribeMacro{\SectionPrefix}
+% This macro takes one argument, which specifies the default appearance of the
+% section number preceding each title.  Its default setting is\hfil\break
+% "\SectionPrefix{Section \arabic{sectionindex}. \space}"
+%
+%
+% \subsubsection{Summary of Switches}
+%
+% \medskip
+%
+% \begin{tabular}{p{2in}l}
+% {\large Switch Name} \rule[-3pt]{0pt}{15pt} & {\large Function} \\ \hline
+% "\NoKey" &  Suppress all answer keys \\
+% "\OneKey" & Generate only the first answer key, suppressing all others \\
+% \multicolumn{2}{l}{\texttt \textbackslash BoldfaceCorrectMultipleChoiceAnswer See above}\\
+% \multicolumn{2}{l}{\texttt \textbackslash UnderlineCorrectMultipleChoiceAnswer See above}\\
+% "\NumberOfVersions" & specify number of exams to make \\ 
+% "\class" & Class data (E.g., ``Philosophy 29'') \\ 
+% "\examname" & Exam name (E.g., ``Midterm Exam'') \\ 
+% "\ConstantBlanks" & See above \\ 
+% "\ProportionalBlanks" & See above \\ 
+% "\StudentInfoLineSpacing" & Set spacing in data box \\
+% "\SectionFont" & Change section font\\
+% "\ContinuousNumbering" & Change numbering style\\
+% "\ShortKey" & Change key formatting\\
+% "\DefineAnswerWrapper" & Change tags surrounding answers\\
+% "\SectionPrefix" &  Change the appearance of the section number\\
+% \end{tabular}
+% \MakeShortVerb{\|}
+%
+% \subsection{Environments\label{env}}
+%
+% There has been a significant change in the environments between this version
+% of \textsf{interactiveexamdesign} and earlier versions.  In this version, all question
+% environments can take an optional single argument which can be used to set a
+% number of different parameters.  (Before, the optional argument was used to
+% set the title for a section.)  Exams written for the previous version will
+% have to be updated to work with the new version.  Sorry.
+%
+% The options available for each section are:
+%
+% \noindent
+% \begin{tabularx}{\linewidth}{>{\tt}lX}
+% Name & Function\\\hline
+% title & Specifies the title for each section.  When no title is specified,
+% no section number is displayed (giving an entirely blank header before the
+% section). However, the section instructions will still be printed.  If you
+% would like a section number \emph{without} a title, simply give a blank
+% space for the title, or use "\relax", as in "title={ }" or "title={\relax}".\\
+% rearrange & This option takes one of two values, either "yes" or "no".  If
+% "yes",then the questions in that section are randomly rearranged; if "no",
+% then questions in that section appear in the order in which they are
+% written.  This option works for all environments (and hence replaces the old
+% \textsf{fixed} environment).\\
+% resetcounter & This option takes one of two values, either "yes" or "no".
+% If "yes", then the question numbers for that section start at 1, overriding
+% the "\ContinuousNumbering" switch.  If "no", then the question numbers for
+% that section will not be reset.  This gives you section-level control over
+% the numbering.\\
+% keycolumns & This option should be set to a number.  It specifies the number
+% of columns that should be used when typesetting the section in the answer
+% key.  For example, if you use the "\ShortKey" switch to only include the
+% correct answer for multiple-choice questions, each answer takes up very
+% little space on the line.  If you have 40 questions, it would take 40
+% lines---a waste of paper.  Setting "keycolumns=5" would typeset the answer
+% key using 5 columns, requiring only 8 lines for the answers.  The section
+% instructions will \emph{not} be typeset in columns, but will span the width
+% of the page, instead.  Note that it is very easy to get overfull/underfull
+% box messages with this option (and the next).\\
+% examcolumns & Same as above, except it affects the exam.\\
+% suppressprefix & Can be set to either "yes" or "no".  If "yes", it
+% suppresses the section prefix for that particular section; if "no", the
+% prefix will appear as always.  This option replaces the starred environments
+% in the the previous release.\\
+%\end{tabularx}
+%
+% \subsubsection{The \textsf{fillin} environment}
+%
+% This environment is for fill-in-the-blank questions.  
+% The syntax is:
+% \begin{verbatim}
+% \begin{fillin}[title={Insert title here}]
+%   \begin{question}
+%     How much \blank{wood} could a \blank{woodchuck} chuck if a woodchuck could
+%     \blank{chuck} wood?
+%   \end{question}
+% \end{fillin}\end{verbatim}
+% When typeset using "\ProportionalBlanks", the questions will be printed in
+% the exam as: 
+% \def\blank#1{$\underline{\mbox{\hphantom{#1}}}$}
+% \begin{enumerate}
+%   \item How much \blank{wood} could a \blank{woodchuck} chuck if a woodchuck could
+%         \blank{chuck} wood?
+% \end{enumerate}
+% but in the answer key as:
+% \def\blank#1{$\underline{\mbox{#1}}$}
+% \begin{enumerate}
+%   \item How much \blank{wood} could a \blank{woodchuck} chuck if a woodchuck could
+%         \blank{chuck} wood?
+% \end{enumerate}
+%
+% \subsubsection{The \textsf{shortanswer} environment}
+%
+% The \textsf{shortanswer} environment does not format its questions in any
+% way other than enumerating them.  (It is then a catch-all environment for
+% any other type of question.)  It does allow the group of
+% answers with questions. Including an answer is not mandatory (but you will get
+% errors if you do not include an answer and ask for a "\ShortKey").
+% The general syntax is:
+% \begin{verbatim}
+% \begin{shortanswer}[title={Interesting questions...},
+%                     rearrange=yes]
+%   \begin{question}
+%     State Hobbes' definition of the state of nature and the role it plays in
+%     his social philosophy.
+%     \begin{answer}
+%       The state of nature is\ldots
+%     \end{answer}
+%   \end{question}
+%
+%   \begin{question}
+%     State several examples that seem to illustrate that Mill's theory of
+%     Utilitarianism cannot be followed in practice, and explain why.
+%     Afterwards, state Mill's response to the problems you raised.
+%     \begin{answer}
+%       Often times it appears we need to act on our moral instincts without
+%       taking time to deliberate (as in the case of saving a drowning child).
+%       According to Mill, though, it seems that before each moral action we
+%       ought to deliberate in order to be sure that the action we take is such
+%       as to maximize the overall general utility\ldots
+%     \end{answer}
+%   \end{question}
+% \end{shortanswer}
+% \end{verbatim}
+% \vspace{-\baselineskip}
+% Note that the \textsf{answer} environment appears inside the \textsf{question}
+% environment.  
+%
+% In the exam, this will be typeset as:
+% \begin{enumerate}%
+%   \item State Hobbes' definition of the state of nature and the role it plays in
+%         his social philosophy.
+%   \item State several examples that seem to illustrate that Mill's theory of
+%     Utilitarianism cannot be followed in practice, and explain why.
+%     Afterwards, state Mill's response to the problems you raised.
+% \end{enumerate}%
+% The answer key, in normal form with the default definition of
+% "\DefineAnswerWrapper", will appear as: 
+% \begin{enumerate}%
+%   \item State Hobbes' definition of the state of nature and the role it plays in
+%         his social philosophy.
+%         \begin{description}%
+%            \item[Answer:] The state of nature is\ldots
+%         \end{description}%
+%   \item State several examples that seem to illustrate that Mill's theory of
+%         Utilitarianism cannot be followed in practice, and explain why.
+%         Afterwards, state Mill's response to the problems you raised.
+%         \begin{description}%
+%            \item[Answer:] Often times it appears we need to act on our moral
+%                instincts without taking time to deliberate (as in the case of
+%                saving a drowning child). According to Mill, though, it seems that
+%                before each moral action we ought to deliberate in order to be sure
+%                that the action we take is such as to maximize the overall general
+%                utility\ldots
+%         \end{description}%
+% \end{enumerate}%
+% If you specify a "\ShortKey", only the answers will be presented:
+% \begin{enumerate}%
+%   \item \begin{description}
+%            \item[Answer:] The state of nature is\ldots
+%         \end{description}
+%   \item \begin{description}
+%            \item[Answer:] Often times it appears we need to act on our moral
+%                instincts without taking time to deliberate (as in the case of
+%                saving a drowning child). According to Mill, though, it seems that
+%                before each moral action we ought to deliberate in order to be sure
+%                that the action we take is such as to maximize the overall general
+%                utility\ldots
+%         \end{description}
+% \end{enumerate}
+%
+%
+% \subsubsection{The \textsf{truefalse} environment}
+%
+% True/false questions.  The general syntax is:
+% \begin{verbatim}
+% \begin{truefalse}
+%   \begin{question}
+%     \answer{False} Laden swallows fly faster than unladen swallows,
+%     especially if they carry coconuts.
+%   \end{question}
+%
+%   \begin{question}
+%     \answer{True} Quantum mechanics was first stated using the
+%     mathematical tools of Hilbert spaces by John von~Neumann.
+%   \end{question}
+% \end{truefalse}\end{verbatim}
+%
+% Again, note that the \textsf{answer} environment appears within the
+% \textsf{question} environment.  The above will be typeset in the exam as:
+% \begin{list}{$\underline{\hskip.5in}$}{\setlength{\rightmargin}{0pt}
+%                \setlength{\labelwidth}{.5in}
+%                \setlength{\leftmargin}{.6in}
+%                \setlength{\labelsep}{.1in}
+%                \setlength{\itemindent}{0in}
+%                \setlength{\topsep}{4pt}
+%                \setlength{\itemsep}{.1in}}
+%   \item Laden swallows fly faster than unladen swallows, especially if they
+%     carry coconuts.
+%   \item Quantum mechanics was first stated using the mathematical tools of Hilbert
+%     spaces by John von~Neumann.
+% \end{list}
+% It will be typeset in the answer key as:
+% \begin{list}{$\underline{\hphantom{False}}$}{\setlength{\rightmargin}{0pt}
+%                \setlength{\labelwidth}{.5in}
+%                \setlength{\leftmargin}{.6in}
+%                \setlength{\labelsep}{.1in}
+%                \setlength{\itemindent}{0in}
+%                \setlength{\topsep}{4pt}
+%                \setlength{\itemsep}{.1in}}
+%   \item[$\underline{\makebox[.5in][c]{False}}$] Laden swallows fly faster than unladen
+%     swallows, especially if they carry coconuts.
+%   \item[$\underline{\makebox[.5in][c]{True}}$] Quantum mechanics was first
+%   stated using the mathematical tools of Hilbert spaces by John von~Neumann.
+% \end{list}
+%
+% \subsubsection{The \textsf{multiplechoice} Environment}
+%
+% It isn't difficult to format multiple choice questions in ordinary \LaTeX\ with
+% multiply nested \textsf{enumerate}'s, but this environment provides for a
+% simpler entry scheme, and the answer key can indicate the correct answer.
+% The syntax is: 
+% \begin{verbatim}
+% \begin{multiplechoice}
+%   \begin{question}
+%     How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+%      \choice{A lot.}
+%      \choice{More than most.}
+%      \choice{Exactly $\pi$ cords.}
+%      \choice[!]{It depends on the nature of the woodchuck.}
+%   \end{question}
+% \end{multiplechoice}
+% \end{verbatim}
+% \vspace{-\baselineskip}
+% In the exam, this is typeset as:
+% \begin{enumerate}
+%  \item How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+% \begin{list}{$\underline{\hphantom{False}}$}{\setlength{\rightmargin}{0pt}
+%                \setlength{\labelwidth}{.4in}
+%                \setlength{\leftmargin}{.5in}
+%                \setlength{\labelsep}{.1in}
+%                \setlength{\itemindent}{0in}
+%                \setlength{\topsep}{0pt}
+%                \setlength{\itemsep}{0pt}}
+% \item[(a)] A lot.
+% \item[(b)] More than most.
+% \item[(c)] Exactly $\pi$ cords.
+% \item[(d)] It depends on the nature of the woodchuck.
+% \end{list}
+% \end{enumerate}
+% In the answer key, if neither of the options |mcbold| nor |mcunderline|
+% were given, the answer will be typeset as:
+% \begin{enumerate}
+%  \item How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+% \begin{list}{$\underline{\hphantom{False}}$}{\setlength{\rightmargin}{0pt}
+%                \setlength{\labelwidth}{.4in}
+%                \setlength{\leftmargin}{.5in}
+%                \setlength{\labelsep}{.1in}
+%                \setlength{\itemindent}{0in}
+%                \setlength{\topsep}{0pt}
+%                \setlength{\itemsep}{0pt}}
+% \item[(a)] A lot.
+% \item[(b)] More than most.
+% \item[(c)] Exactly $\pi$ cords.
+% \item[\fbox{(d)}\hspace{-\fboxsep}] It depends on the nature of the woodchuck.
+% \end{list}
+% \end{enumerate}
+% You can have up to 26 choices. Also, notice that the correct answer was
+% specified by giving the optional argument "[!]" to |\choice|. 
+%
+% \subsubsection{The \textsf{matching} environment}
+%
+% This environment is new in this release of \textsf{interactiveexamdesign}.  It provides an
+% environment for the creation of matching tests.  The syntax is:
+% \begin{verbatim}
+% \begin{matching}[title={Some matching questions}]
+%   \pair{John Steinbeck}{\emph{The Grapes of Wrath}}
+%   \pair{Will Self}{\emph{My Kind of Fun}}
+%   \pair{Charles Darwin}{\emph{The Origin of Species}}
+% \end{matching}\end{verbatim}
+% In the exam, this will be typeset as:
+% \begin{multicols}{2}
+% \begin{quote}
+% \begin{enumerate}
+% \item[\underline{\hskip .5in}] Will Self
+% \item[\underline{\hskip .5in}] Charles Darwin
+% \item[\underline{\hskip .5in}] John Steinbeck
+% \columnbreak
+% \item[(a)] \emph{The Origin of Species}
+% \item[(b)] \emph{The Grapes of Wrath}
+% \item[(c)] \emph{My Kind of Fun}
+% \end{enumerate}
+% \end{quote}
+% \end{multicols}
+% In the answer key, this will be typeset as:
+% \begin{multicols}{2}
+% \begin{quote}
+% \begin{enumerate}
+% \item[\underline{\makebox[.5in][c]{(c)}}] Will Self
+% \item[\underline{\makebox[.5in][c]{(a)}}] Charles Darwin
+% \item[\underline{\makebox[.5in][c]{(b)}}] John Steinbeck
+% \columnbreak
+% \item[(a)] \emph{The Origin of Species}
+% \item[(b)] \emph{The Grapes of Wrath}
+% \item[(c)] \emph{My Kind of Fun}
+% \end{enumerate}
+% \end{quote}
+% \end{multicols}
+% The "\pair" macro preceeds the \emph{matched} pair of statements.  The
+% environment will randomly shuffle the first and second columns in order to
+% create the (hopefully randomized) lists.  Because of the way the randomizer
+% is implemented, this environment will produce better results (i.e., more
+% scrambled) results the longer the list of questions is.
+%
+% \textbf{N.B.} The \textsf{block} environment will break badly in this
+% environment, so don't use it.
+%
+%
+% \subsubsection{The \textsf{block} environment}
+%
+% The \textsf{block} environment lets you identify a group of questions,
+% as well as some preceeding text, as a ``block'' that should be kept together
+% even though the rest of the section gets rearranged.  (The questions inside
+% the block will not be rearranged.  That's on my to-do list, but it will take
+% more time than I have, and it's already been a long time since the last
+% update.)  
+%
+% The syntax is straightforward. For example:
+% \begin{verbatim}
+% \begin{block}
+% Here is a spot where you can put some instructions, a graph, or whatever
+% you want to preceed the questions in this block.
+%  \begin{question}
+%    This is the first question.
+%    \begin{answer}
+%      This is the answer to the first question.
+%    \end{answer}
+%  \end{question}
+%
+%  \begin{question}
+%    This is the second question.
+%    \begin{answer}
+%      This is the answer to the second question.
+%    \end{answer}
+%  \end{question}
+%
+%  \begin{question}
+%    This is the third question.
+%    \begin{answer}
+%      This is the answer to the third question.
+%    \end{answer}
+%  \end{question}
+% \end{block}\end{verbatim}
+% Will keep those three questions together when the rearranging happens.
+%
+% The \textsf{block} environment may be used in \emph{any} of the previously
+% described question environments, except for the \textsf{matching}
+% environment.  (There were some problems with using blocks inside some of the
+% other environments with earlier versions---I believe those bugs have been
+% fixed.)
+%
+% The \textsf{block} environment can take a special optional argument,
+% "questions", that specifies the number of questions in the block.
+% Specifying this option sets two counters, "first" and "last", so that you
+% can refer to the particular questions that fall within the block in the
+% instructions.  So, for example:
+% \begin{verbatim}
+% \begin{block}[questions=3]
+% \noindent For questions \thefirst--\thelast, consider the following data...\end{verbatim} 
+% would, if the block appeared after question 13, be typeset as:
+% 
+% \bigskip
+% \noindent For questions 14--16, consider the following data...\par\bigskip
+%
+% In previous versions of \textsf{interactiveexamdesign}, blocks were typeset indented from the
+% left margin.  This was undesireable because the block instructions could
+% be misread as belonging to the end of the preceeding question.  As of this
+% version, block instructions are typeset using no such indent.
+%
+%
+% \section{Special Formatting Tools}
+%
+% The following environments, macros, and length parameters allow the user to
+% customize virtually every aspect of the exam.  As I describe below, the default
+% settings of the \textsf{interactiveexamdesign} are defined using these environments.
+%
+% \subsection{Special Formatting Environments \label{SFE}}
+%
+% \DescribeEnv{frontmatter}
+% Any material enclosed in the \textsf{frontmatter} environment will be
+% typeset on a page (or pages) by itself before the exam (and the key, too).
+% For example, if one
+% wanted to make a cover sheet for the exam with the class name and a place for
+% the student to write their name, i.d. number, and so forth.
+%
+% \DescribeEnv{endmatter}
+% Any material enclosed in the \textsf{endmatter} environment will be
+% typeset on a page (or pages) by itself after the exam (and the key, too).
+% For example, if one wanted to place a page with several important equations,
+% constants, and tables at the end of the exam for students to reference, if
+% needed.
+%
+% \DescribeEnv{examtop}
+% Any material enclosed in the \textsf{examtop} environment will be
+% typeset on the next page following the \textsf{frontmatter} text, if an exam
+% is being created, and will be omitted if an answer key is being created.  The
+% default settings of the \textsf{interactiveexamdesign} class use this environment to create
+% the area for the class name, student name, etc. as follows:
+% \begin{verbatim}
+% \begin{examtop}
+%   \@@line{\parbox{3in}{\classdata \\
+%           \examtype, Form: \fbox{\textsf{\Alph{version}}}}
+%           \hfill
+%           \parbox{3in}{\normalsize \namedata}}
+%           \bigskip
+% \end{examtop}\end{verbatim}
+% Where "\classdata" and "\examtype" are macros that use
+% the current values assigned by the switches "\class" and "\examname".
+% 
+%
+% The definition of "\namedata" is:
+% \begin{verbatim}
+% \def\namedata{Name: \hrulefill \\[\namedata@vspace]
+%              Student Number: \hrulefill \\[\namedata@vspace]
+%              TA: \hrulefill \\[\namedata@vspace]
+%              Date: \hrulefill}\end{verbatim}
+% Where "\namedata@vspace" is the length set by the switch
+% "\StudentInfoLineSpacing".
+%
+% For those who don't know, "\@@line" is the \LaTeXe\ equivalent of Plain \TeX's
+% "\line" command.  If you wish to use "\@@line" in defining your own \textsf{examtop}
+% or \textsf{keytop}, please be sure to use "\makeatletter" and "\makeatother"
+% in the appropriate places, otherwise you could get errors.
+%
+% \DescribeEnv{keytop}
+% Any material enclosed in the \textsf{keytop} environment will be
+% typeset on the next page following the \textsf{frontmatter} text, if a key
+% is being created, and will be omitted if an exam is being created.  The
+% default settings of the \textsf{interactiveexamdesign} class use this environment to create
+% the top of an answer key as follows:
+%  \begin{verbatim}
+%  \begin{keytop}
+%  \@@line{\hfill \Huge Answer Key
+%          for Exam \fbox{\textsf{\Alph{version}}}\fi \hfill}
+%          \bigskip
+%  \end{keytop}\end{verbatim}
+%
+% \DescribeEnv{exampreface}
+% Any material enclosed in the \textsf{exampreface} environment will be
+% typeset on the same page as the \textsf{examtop} text, right beneath it but
+% before any sections of the exam are included.  In case you are wondering what
+% this environment does that cannot be done with \textsf{examtop}, your question
+% is very good.  The difference is this: The material enclosed in the
+% \textsf{exampreface} environment is sensitive to whether the \texttt{twocolumn}
+% option was given.  If the \texttt{twocolumn} option \emph{was} given, then
+% the material in \textsf{exampreface} will be typeset at the start of the
+% first column. By contrast, the material given in \textsf{examtop} is
+% \emph{always} typeset in a single column spanning the entire textwidth of
+% the page, at the top of the exam. 
+%
+% \DescribeEnv{keypreface}
+% Any material enclosed in the \textsf{keypreface} environment will be
+% typeset on the same page as the \textsf{keytop} text, right beneath it but
+% before any sections are included.  As described above, if the
+% \texttt{twocolumn} option \emph{was} given, then the material
+% in \textsf{keypreface} will be typeset at the start of the first column. By
+% contrast, the material given in \textsf{keytop} is \emph{always} typeset in a single
+% column spanning the entire textwidth of the page, at the top of the key.
+%
+% \DescribeEnv{examclosing}
+% Essentially the same as the \textsf{exampreface} environment, with the
+% obvious change that the enclosed material is typeset at the end of the exam,
+% on the same page as the rest of the exam (if possible), but before the
+% \textsf{endmatter}.  (Any material enclosed in an \textsf{endmatter}
+% environment is typeset on a page by itself after the exam or key.)
+%
+% \DescribeEnv{keyclosing}
+% Essentially the same as the \textsf{keypreface} environment, with the
+% obvious change that the enclosed material is typeset at the end of the key,
+% on the same page as the rest of the key (if possible), but before the
+% \textsf{endmatter}.
+%
+%
+% \subsection{Special Formatting Macros}
+%
+% Due to the special way the \textsf{interactiveexamdesign} class constructs a document (see the
+% technical notes in section \ref{TN}), several special macros are provided
+% which enable the user to easily take advantage of the way exams are
+% constructed.  In addition, there are several lengths which the user can modify
+% to further customize the appearance of the exam.
+%
+% \DescribeMacro{\exam}
+% The "\exam" macro takes one argument, which can be any command or
+% sequence of commands subject to the constraints described in the technical
+% notes.  The argument will be included wherever it is if and only if an exam is
+% being made, otherwise the argument will be ignored.
+%
+% \DescribeMacro{\key}
+% The "\key" macro takes one argument, which can be any command or
+% sequence of commands subject to the constraints described in the technical
+% notes.  The argument will be included wherever it is if and only if a key is
+% being made, otherwise the argument will be ignored.
+%
+% \DescribeMacro{\examvspace}
+% Just like the ordinary \LaTeX\ command "\vspace", with the exception that the vertical
+% space is included if and only if an exam is being typeset.
+%
+% \DescribeMacro{\examvspace*}
+% Just like the ordinary \LaTeX\ command "\vspace*", with the exception that the vertical
+% space is included if and only if an exam is being typeset.
+%
+% \DescribeMacro{\examhspace}
+% Just like the ordinary \LaTeX\ command "\hspace", with the exception that the
+% horizontal space is included if and only if an exam is being typeset.
+%
+% \DescribeMacro{\examhspace*}
+% Just like the ordinary \LaTeX\ command "\hspace*", with the exception that the
+% horizontal space is included if and only if an exam is being typeset.
+%
+% \DescribeMacro{\keyvspace}
+% Just like the ordinary \LaTeX\ command "\hspace*", with the exception that the
+% horizontal space is included if and only if a key is being typeset.
+%
+% \DescribeMacro{\keyvspace*}
+% Just like the ordinary \LaTeX\ command "\hspace*", with the exception that the
+% horizontal space is included if and only if a key is being typeset.
+%
+% \DescribeMacro{\keyhspace}
+% Just like the ordinary \LaTeX\ command "\hspace*", with the exception that the
+% horizontal space is included if and only if a key is being typeset.
+%
+% \DescribeMacro{\keyhspace*}
+% Just like the ordinary \LaTeX\ command "\hspace*", with the exception that the
+% horizontal space is included if and only if a key is being typeset.
+%
+% \DescribeMacro{\word}
+% The last new command (in version 1.02) is "\word".  This command
+% allows the user to insert inessential changes in the wording of a question
+% between various versions of the exam.  Thus, not only will the order of the
+% questions be different, but the actual \emph{wording} of the questions will be
+% slightly different as well.  For example, if one includes:
+% \begin{verbatim}
+% \begin{question}
+% Is the most well-known \word{{astronomer} {wrestler} {physicist}} in
+% the world \word{{Carl Sagan} {Rowdy Roddy Piper} {Albert Einstein}}?
+% \end{question}\end{verbatim}
+% in an exam, the first version of the exam will include the question
+% \begin{enumerate}
+% \item Is the most well-known astronomer in the world Carl Sagan?
+% \end{enumerate}
+% but the second version of the exam will include
+% \begin{enumerate}
+% \item Is the most well-known wrestler in the world Rowdy Roddy Piper?
+% \end{enumerate}
+% and the third version of the exam will include
+% \begin{enumerate}
+% \item Is the most well-known physicist in the world Albert Einstein?
+% \end{enumerate}
+%
+% Let's call the argument of "\word" an \emph{option-list}.  If one requests
+% more versions of an exam than options in an option-list, "\word" will behave
+% as if the option list you gave ``wrapped.''  That is, if one requests five
+% copies of an exam but includes "\word{{A} {B}}" in the input file, "A" will be
+% printed on the fifth version of the exam, because "\word" will act as if the
+% option list was "\word{{A} {B} {A} {B} {A} {B}}", where "A" is the fifth
+% option.
+%
+% If it turns out that your exams are becoming absolutely unreadable through
+% excessive use of "\word", chances are you are not introducing inessential
+% changes in the wording of a question, but are actually trying to write two
+% different exams simultaneously.
+%
+% \subsection{Length Parameters}
+%
+% The following table describes lengths that the user may set to whatever value
+% they wish, and the effect that it has upon the appearance of the exam (or
+% key).
+%
+% \DeleteShortVerb{\|}
+% \begin{center}
+% \begin{tabular}{|l|l|p{1.8in}|} \hline
+% {\large Length} & {\large Initial Value} & {\large Effect} \rule{0pt}{13pt} \\ \hline
+% "\beforesectsep" & "\medskipamount"         & Space inserted before the
+%                                               current section heading. \\
+% "\aftersectsep"  & "\medskipamount"         & Space inserted after the
+%                                               current section heading. \\
+% "\beforeinstsep" & "\medskipamount"         & Space inserted before any
+%                                               instructions for the current
+%                                               section are typeset. \\
+% "\afterinstsep"  & "\medskipamount-\topsep" & Space inserted after the
+%                                               instructions for the current
+%                                               section but before the
+%                                               questions. \\ \hline
+% \end{tabular}
+% \end{center}
+% \MakeShortVerb{\|}
+%
+% Given the above parameters, there are two rules that determine whether space
+% is inserted.  (1) If the section heading is empty (as might happen if someone
+% used a starred environment form and then did not include any optional
+% argument), then \emph{neither} "\beforesectsep" \emph{nor} "\aftersecsep" are
+% used to insert vertical space, and (2) if there are no instructions for a
+% section, then \emph{neither} "\beforeinstsep" \emph{nor} "\afterinstsep" are
+% used to insert vertical space.
+%
+% \section{Miscellaneous Goodies\label{TN}}
+%
+% \DescribeMacro{\setrandomseed}
+% The "\setrandomseed" macro allows you to specify a random seed at the start
+% of an exam.  This allows you to have a ``randomized'' exam that keeps
+% questions in the same scrambled order across different runs.  
+% If you set the random seed, it becomes possible to have crossreferences in
+% the exam.  In this release, the ordinary \LaTeX\ commands "\label" and "\ref" 
+% work as expected, even across different forms of the test (with the
+% questions in a different order).
+%
+% Math environments using numbered equations should also work correctly
+% in this version. 
+%
+% \DescribeMacro{\pagebreak}
+% Having fixed the order of the questions, you might need to introduce a
+% pagebreaks at certain points.  In this release, the "\pagebreak" command
+% works as expected, with one caveat.  Putting a "\pagebreak" before a section
+% will introduce a pagebreak before that section, and putting a "\pagebreak"
+% before a question will introduce a pagebreak before that question---no
+% matter where on the page that question may be.  
+%
+% \DescribeMacro{\BreakPageOnVersion}
+% If you want to insert pagebreaks before questions or sections conditionally
+% on the exam, you will need to use the "\BreakPageOnVersion{}" macro.  This
+% macro, which takes a number as its argument, will conditionally insert a
+% "\pagebreak" depending on whether number of the version currently being
+% typeset equals the version given as an argument to the macro.
+%
+% \DescribeMacro{\IncludeFromFile}
+% \DescribeMacro{\InsertChunk}
+% \DescribeEnv{chunk}
+% If you need to use any environment which changes the catcodes of the input
+% characters (such as the \textsf{verbatim} environment, or XY-pic), you will
+% have to employ the following hack.  The reason for this has to do with the
+% way \textsf{interactiveexamdesign} scrambles the order of the questions.  (Basically, each
+% question is saved to a macro for later recall.  This assigns each character
+% a catcode when it is saved, so it is not possible to change the catcode at a
+% later time.)
+%
+% The hack is the following: create another file called ``foo.tex'' (you can
+% name it whatever you like) and put "\IncludeFromFile{foo.tex}" in
+% the preamble of your document.  For each bit of text that you need contained
+% category code changes (like the \textsf{verbatim} environment) put, in
+% foo.tex, a named chunk containing that code.  I.e.,
+% \begin{quote}
+% "\begin{chunk}{chunk name}"\\
+% "\begin{verbatim}"\\
+% "  This is some verbatim text"\\
+% "  This is more verbatim text"\\
+% "\end{verbatim}"\\
+% "\end{chunk}"
+% \end{quote}
+% At the appropriate place in your exam, place "\InsertChunk{chunk name}".
+% This macro inserts the named chunk into the exam (or key) at that place.
+% All catcode changing commands, environments, etc., should be capable of
+% being inserted this way.  (If you find one that doesn't, let me know.)
+%
+% All of the chunks for a given exam can be stored in the same file---you just
+% need to give each chunk a unique name. Only the
+% chunk you request will be inserted at a particular point.  If you have a lot
+% of chunks, this can slow down considerably the overall processing of the exam,
+% but there's no other general solution which will work.
+% 
+% The chunk names can be descriptive, but don't try anything too fancy.  ``Too
+% fancy'' meaning: if it causes an error, it's too fancy. 
+%
+% \subsection{Bugs}
+%
+% No known bugs.
+%
+% \subsection{Changes}
+%
+% The changes between this version and previous versions are indicated in the
+% above sections. Early releases of the \textsf{interactiveexamdesign} class required that
+% instructions 
+% for a given section be specified as such by using the "\instructions"
+% command. The need for using "\instructions" has been lifted as of release
+% 1.02.  The rule is this: all material between the start of a section and
+% the first "\begin{question}" or "\begin{block}" will be taken to be the
+% instructions for that section.  Old exams created with "\instructions" should
+% still work with the new release (the "\instructions" macro has simply been
+% redefined as "\relax").
+%
+% Thus, if you are using
+% \textsf{fixed} to format a series of essay questions, you might want to tell
+% students that they only need to write answers to two of the following three
+% questions.  The instruction text is always
+% typeset at the beginning of a section, before any questions are typeset.
+%
+% \endinput
+%
+% \section{The Code}
+%
+% The following code is a bit messy, and the comments don't necessarily match
+% up with the code that follows.  I thought it was more important to get the
+% new version out than worry about making the source pretty.  If you need to
+% figure out how something works, trust the code, not the description!
+%
+% First just some declarations and stuff that says we are building an
+% extension to the ordinary \LaTeX\ class |article|.
+%    \begin{macrocode}
+%<*header>
+\ProvidesFile{interactiveexamdesign.dtx} 
+\NeedsTeXFormat{LaTeX2e} 
+\ProvidesClass{interactiveexamdesign}
+\newcounter{passes}\setcounter{passes}{2} 
+\newif\ifmcbold \mcboldfalse
+\newif\ifmcunder \mcunderfalse 
+\newif\ifulem \ulemfalse 
+\newif\ifbox \boxtrue
+\newif\iftwocolumn \twocolumnfalse 
+\gdef\@OneKeyHook{\relax}
+%\DeclareOption{mcbold}{\mcboldtrue\boxfalse}
+%\DeclareOption{mcunderline}{\mcundertrue \boxfalse}
+%\DeclareOption{nokey}{\setcounter{passes}{1}}
+%\DeclareOption{onekey}{\setcounter{passes}{2}%
+%  \gdef\@OneKeyHook{\setcounter{passes}{1} 
+%  \gdef\@OneKeyHook{\relax}}}
+\DeclareOption{twocolumn}{\twocolumntrue}
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}} 
+\ProcessOptions
+\LoadClass{article} 
+
+\def\NoKey{\setcounter{passes}{1}}
+
+\def\OneKey{\setcounter{passes}{2}%
+  \gdef\@OneKeyHook{\setcounter{passes}{1}
+    \gdef\@OneKeyHook{\relax}}}
+
+\def\BoldfaceCorrectMultipleChoiceAnswer{%
+  \mcboldtrue
+  \boxfalse
+  \exam@SetCorrectChoiceFont}
+
+\def\UnderlineCorrectMultipleChoiceAnswer{%
+  \mcundertrue
+  \boxfalse
+  \exam@SetCorrectChoiceFont}
+
+\def\exam@SetCorrectChoiceFont{%
+  \ifmcbold 
+    \ifmcunder 
+    \def\MCfont##1{\textbf{\uline{##1}}}%
+    \else 
+    \def\MCfont##1{\textbf{##1}}%
+    \fi 
+  \else 
+    \ifmcunder
+    \def\MCfont##1{\uline{##1}}%
+    \else 
+    \def\MCfont##1{\relax{##1}}%
+    \fi 
+  \fi}
+
+% \ifmcbold 
+%   \ifmcunder 
+%   \def\MCfont#1{\textbf{\uline{#1}}}
+%   \else 
+%   \def\MCfont#1{\textbf{#1}} 
+%   \fi 
+% \else 
+%   \ifmcunder
+%   \def\MCfont#1{\uline{#1}} 
+%   \else 
+%   \def\MCfont#1{\relax{#1}} 
+%   \fi 
+% \fi
+
+% Edited by BBS
+\RequirePackage{hyperref}
+
+
+\RequirePackage{enumerate} 
+\RequirePackage{multicol} 
+\RequirePackage{keyval}
+%</header>
+%    \end{macrocode}
+%
+% \subsection{The random number generator}
+%
+% RANDOM.TEX       v.1   (Donald Arseneau)
+% Generating "random" numbers in TeX.
+%
+% \DescribeMacro{\nextrandom}
+% Random integers are generated in the range 1 to 2147483646 by the
+% macro |\nextrandom|.  The result is returned in the counter |\randomi|.
+% Do not change |\randomi| except, perhaps, to initialize it at some
+% random value.  If you do not initialize it, it will be initialized
+% using the time and date.  (This is a sparse initialization, giving
+% fewer than a million different starting values, but you should use
+% other sources of numbers if they are available--just remember that
+% most of the numbers available to \TeX are not at all random.)
+%
+% \DescribeMacro{\setrannum}
+% The |\nextrandom| command is not very useful by itself, unless you
+% have exactly 2147483646 things to choose from.  Much more useful
+% is the |\setrannum| command which sets a given counter to a random
+% value within a specified range.  There are three parameters:
+% |\setrannum{|\meta{counter}|}{|\meta{minimum}|}{|\meta{maximum}|}|.
+% For example, to simulate a die-roll: |\setrannum{\die}{1}{6} \ifcase\die|\ldots
+%
+% \DescribeMacro{\setrandimen}
+% \DescribeMacro{\pointless}
+% If you need random numbers that are not integers, you will have to
+% use dimen registers and |\setrandimen|.  For example, to set a random
+% page width: |\setrandimen \hsize{3in}{6.5in}|.  The ``|\pointless|'' macro
+% will remove the ``pt'' that TeX gives so you can use the dimensions
+% as pure `real' numbers.  In that case, specify the range in pt units.
+% For example, |\setrandimen\answer{2.71828pt}{3.14159pt}|
+% The answer is |\pointless\answer|.
+%
+% The random number generator is the one by Lewis, Goodman, and Miller
+% (1969) and used as "ran0" in "Numerical Recipies" using Schrage's
+% method for avoiding overflows.  The multiplier is $16807 (7^5)$ the
+% added constant is 0, and the modulus is $147483647 (2^{31}-1)$  The
+% range of integers generated is $1 - 2147483646$.  A smaller range would
+% reduce the complexity of the macros a bit, but not much--most of the
+% code deals with initialization and type-conversion.  On the other hand,
+% the large range may be wasted due to the sparse seed initialization.
+%
+% I do not include the code in the documentation.
+%\iffalse
+%    \begin{macrocode}
+%<*random>
+\newcount\randomi % the random number seed (while executing)
+\global\randomi\catcode`\@  % scratch variable during definitions
+\catcode`\@=11
+% The following macro isn't part of Arseneau's original TeX package,
+% but it comes in handy when users want to recover a particular run.
+\def\setrandomseed#1{\global\randomi#1\relax
+  \message{Randomizer initialized to \the\randomi.}%
+  \nextrandom \nextrandom \nextrandom}
+
+\def\nextrandom{\begingroup
+ \ifnum\randomi<\@ne % then initialize with time
+    \global\randomi\time
+    \global\multiply\randomi388 \global\advance\randomi\year
+    \global\multiply\randomi31 \global\advance\randomi\day
+    \global\multiply\randomi97 \global\advance\randomi\month
+    \message{Randomizer initialized to \the\randomi.}%
+    \nextrandom \nextrandom \nextrandom
+ \fi
+ \count@ii\randomi
+ \divide\count@ii 127773 % modulus = multiplier * 127773 + 2836
+ \count@\count@ii
+ \multiply\count@ii 127773
+ \global\advance\randomi-\count@ii % random mod 127773
+ \global\multiply\randomi 16807
+ \multiply\count@ 2836
+ \global\advance\randomi-\count@
+ \ifnum\randomi<\z@ \global\advance\randomi 2147483647\relax\fi
+ \endgroup
+}
+
+\countdef\count@ii=2 % use only in boxes!
+\ifx\@tempcnta\undefined \csname newcount\endcsname \@tempcnta \fi
+\ifx\@tempcntb\undefined \csname newcount\endcsname \@tempcntb \fi
+
+\def\setrannum#1#2#3{% count register, minimum, maximum
+ \@tempcnta#3\advance\@tempcnta-#2\advance\@tempcnta\@ne
+ \@tempcntb 2147483645 %  =  m - 2  =  2^{31} - 3
+ \divide\@tempcntb\@tempcnta
+ \getr@nval
+ \advance\ranval#2\relax
+ #1\ranval
+}
+
+\def\setrandim#1#2#3{% dimen register, minimum length, maximum length
+ \dimen@#2\dimen@ii#3\relax
+ \setrannum\ranval\dimen@\dimen@ii
+ #1\ranval sp\relax
+}
+
+\def\getr@nval{% The values in \@tempcnta and \@tempcntb are parameters
+ \nextrandom
+ \ranval\randomi \advance\ranval\m@ne \divide\ranval\@tempcntb
+ \ifnum\ranval<\@tempcnta\else \expandafter\getr@nval \fi
+}
+
+\def\pointless{\expandafter\PoinTless\the}
+{\catcode`p=12 \catcode`t=12
+\gdef\PoinTless#1pt{#1}}
+
+\catcode`\@=\randomi
+\global\randomi=0
+\newcount\ranval
+%</random>
+%    \end{macrocode}
+%\fi
+%
+% \subsection{Incorporating the package \textsf{ulem}}
+% This code is not listed in the documentation.
+%\iffalse
+%    \begin{macrocode}
+%<*ulem>
+\expandafter \ifx \csname UL@box\endcsname \relax \else
+ \typeout{ulem.sty refuses to load twice. }\endinput \fi
+\chardef\ULthickness\catcode\string`\@ % hold catcode temporarily
+\catcode\string`\@=11
+\def\uline{\relax \ifmmode\expandafter\underline
+           \else \bgroup\expandafter\ULset\fi}
+\newbox\UL@box
+\newbox\UL@hyphenbox
+\newskip\UL@skip
+\newcount\UL@pe
+\let\LA@space\ \let\LA@hskip\hskip
+\def\UL@end *{\relax\relax}% something harmless unlikely to be found elsewhere
+\def\ULset{\ifdim\ULdepth=\maxdimen\setbox\UL@box\hbox{(j}\ULdepth\dp\UL@box\fi
+  \def\UL@leadtype{\leaders \hrule \@height\dimen@ \@depth\ULdepth}%
+  \ifmmode \ULdepth-4\p@ \fi
+  \dimen@-\ULdepth \advance\dimen@\ULthickness \ULon}
+\def\ULon{\ifmmode \expandafter\UL@onmath\else \expandafter\UL@on\fi}
+\def\UL@on#1{\leavevmode\UL@ender \let\UL@on\UL@onin
+  \everymath{\UL@hrest}\everyvbox{\UL@hrest}\let\hskip\UL@hskip
+  \let\\\UL@cr \let\-\UL@dischyp \let\newline\UL@newline \let\ \UL@space
+  \def\hfil{\hskip\z@ plus1fil\relax}\def\hfill{\hskip\z@ plus1fill\relax}%
+  \def\hss{\hskip\z@ plus1filminus1fil\relax}\let\penalty\UL@penalty
+  \UL@word\@empty#1\xdef\UL@spfactor{\the\spacefactor} \UL@end * }
+\def\UL@onin#1{\leavevmode\UL@ender % when nested, do multiple underlining
+  \dimen@\ULthickness \advance\ULdepth\thr@@\dimen@ \advance\dimen@-\ULdepth
+  \setbox\UL@box\hbox{{#1}}\let\UL@start\relax\UL@putbox\egroup}
+\def\UL@onmath#1{\UL@ender\mathord{\UL@hrest\mathop{\kern\z@#1}\limits\sb
+  {\UL@leadtype\LA@hskip\p@ plus1fill}}\egroup}
+\def\UL@unegroup{}
+\gdef\UL@ender{}
+\def\UL@swender{\ifnum`{=\z@\fi\aftergroup}\gdef\UL@ender{}}
+\def\UL@word#1 {\expandafter\UL@start#1 %
+  \expandafter\ifx\expandafter\UL@end#1\egroup\egroup
+   \unskip \unskip \unskip % remove extra leader at end
+   \spacefactor\UL@spfactor \let\UL@word\egroup
+  \else % not finished
+   \ifmmode\else \ifdim\lastskip=\z@\else % allow syntactical spaces
+     \global\UL@skip\lastskip \unskip
+     \UL@stop \UL@leaders
+   \fi\fi
+  \fi \UL@word\@empty}% \@empty preserves braces in param
+\def\UL@start{\setbox\UL@box\hbox\bgroup\everyhbox{\UL@hrest}%
+  \let\UL@start\@empty \def\UL@unegroup{\bgroup\bgroup}\let\UL@leadtype\@empty
+  \bgroup \kern-3sp\kern3sp % kerns so I can test for beginning of list
+  \if@ignore \global\@ignorefalse \ignorespaces \fi}
+\def\UL@stop{\global\UL@pe\lastpenalty \unpenalty % penalty in \UL@pe
+  \ifnum\lastkern=\thr@@ \egroup\egroup % Nothing in hbox...but make sure:
+    \ifdim\wd\UL@box=\z@ \else \UL@putbox \fi % something in box so print it
+  \else  \egroup\egroup \UL@putbox % something in box so print it
+  \fi \ifnum\UL@pe=\z@ \else \LA@penalty\UL@pe \fi % use penalty from inside box
+  \UL@unegroup}
+\def\UL@putbox{\ifx\UL@start\@empty \else % not inner
+  \vrule\@width\z@ \LA@penalty\@M
+  {\UL@skip\wd\UL@box \UL@leaders \kern-\UL@skip}%
+  \box\UL@box  \fi}
+\newdimen\UL@pixel \UL@pixel=1in \divide\UL@pixel 300
+\def\UL@leaders{{\LA@hskip-\UL@pixel \advance\UL@skip\tw@\UL@pixel
+   \UL@leadtype\LA@hskip\UL@skip  \LA@hskip-\UL@pixel}}
+\def\UL@hrest{\let\ \LA@space \let\-\@empty \let\penalty\LA@penalty}
+\def\UL@space{\LA@space \global\UL@skip\lastskip \unskip \UL@reskip}% \
+\def\UL@dischyp{\global\setbox\UL@hyphenbox\hbox
+   {\ifnum \hyphenchar\font<\z@ \string-\else \char\hyphenchar\font \fi}%
+   \kern\wd\UL@hyphenbox \LA@penalty\@M \UL@stop \kern-\wd\UL@hyphenbox
+   \discretionary{\box\UL@hyphenbox}{}{}\UL@start}
+\let\LA@penalty\penalty
+\def\UL@penalty{\relax\ifhmode \afterassignment\UL@@penalty\count@
+  \else\LA@penalty\fi}
+\def\UL@@penalty{\LA@penalty \ifnum\count@=\z@
+  \@ne \else \count@ \fi % zero penalty => no penalty, so use 1 instead.
+  \UL@stop \UL@start}
+\def\UL@hskip{\ifx\ \LA@space \LA@hskip \else
+  \afterassignment\UL@reskip \global\UL@skip \fi}
+\def\UL@reskip{\UL@stop \UL@leaders \UL@start}
+\def\UL@cr{\unskip \ifx\ \LA@space \let\UL@vad\@gobble
+  \else \UL@stop \unskip\unskip\unskip \let\UL@vad\vadjust \fi
+  \@ifstar{\UL@vad{\LA@penalty\@M}\UL@cra}\UL@cra}
+\def\UL@cra{\@ifnextchar[\UL@crb\UL@newline}
+\def\UL@crb[#1]{\UL@vad{\vskip#1}\UL@newline}
+\def\UL@newline{\ifx\UL@start\@empty % (\UL@cr may have \UL@stop-ed already)
+  \unskip \ifx\ \LA@space \else \UL@stop \unskip\unskip\unskip \fi\fi
+  \LA@hskip \z@\@plus.0001fil\LA@penalty -\@M \UL@start}
+\newbox\ULC@box
+\def\markoverwith#1{\setbox\ULC@box\hbox{{#1}}\UL@pixel.5\wd\ULC@box
+   \ifmmode \setbox\ULC@box\hbox{\raise1.4ex\box\ULC@box}%
+    \dp\ULC@box-1.4ex\ht\ULC@box\z@ \def\UL@leadtype{\cleaders\copy\ULC@box}%
+   \else
+    \def\UL@leadtype{\leaders\copy\ULC@box}%
+   \fi}
+\def\uwave{\bgroup \markoverwith{\lower3.5\p@\hbox{\sixly
+  \kern-.21\p@ \char58 \kern-.21\p@}}\ULon}
+\font\sixly=lasy6 % does not re-load if already loaded, so no memory problem.
+\def\uuline{\bgroup \markoverwith{\hbox
+ {\kern-.03em\vtop{\kern.2ex\hrule width.2em\kern1.1\p@
+ \hrule}\kern-.03em}}\ULon}
+\def\sout{\bgroup \ULdepth=-.5ex \ULset}
+\def\xout{\bgroup \markoverwith{\kern-.1em{/}\kern-.1em}\ULon}
+\def\useunder#1#2#3{\relax
+  \ifx\relax#2\relax\else % declaration command given
+    \def#2{\def\@tempa{#1}\global\let\UL@ender\UL@swender
+    \expandafter\@tempa\expandafter{\ifnum\z@=\string`}\fi}%
+    \MakeRobust{#2}\fi
+  \ifx\relax#3\relax\else % argumentative command
+    \def#3{#1}\MakeRobust{#3}\fi}
+\expandafter\ifx \csname @ifundefined\endcsname \relax
+  \def\@height{height}
+  \def\@depth{depth}
+  \def\@width{width}
+  \def\@empty{}
+  \def\@gobble#1{}
+  \def\MakeRobust#1{}
+  \csname newif\expandafter\endcsname \csname if@ignore\endcsname
+\else
+ \def\MakeRobust#1{\expandafter\let
+   \csname \expandafter\@gobble\string#1 \endcsname= #1%
+  \edef#1{\noexpand\protect \expandafter\noexpand
+   \csname\expandafter\@gobble\string#1 \endcsname}
+  }
+  \MakeRobust\uline
+  \MakeRobust\uuline
+  \MakeRobust\uwave
+  \MakeRobust\sout
+  \MakeRobust\xout
+  \let\LA@em\em   \let\LA@emph\emph
+  \expandafter\let\expandafter\LA@Pem \csname em \endcsname
+  \expandafter\let\expandafter\LA@Pemph \csname emph \endcsname
+  \def\ULforem{\useunder{\uline}{\em}{\emph}}
+  \def\normalem{\let\em\LA@em \let\emph\LA@emph
+    \expandafter\let\csname em \endcsname\LA@Pem
+    \expandafter\let\csname emph \endcsname\LA@Pemph}
+  \ULforem  %  default is to use underlining for \em,
+\fi
+\catcode`@=\ULthickness % Scratch meaning: restore catcode of @
+\def\ULthickness{.4pt}% can change this with \renewcommand
+\newdimen\ULdepth  \ULdepth=\maxdimen
+
+\normalem
+%</ulem>
+%    \end{macrocode}
+%\fi
+%
+% \subsection{The code for the \textsf{interactiveexamdesign} class}
+%
+% We now define an environment \textsf{question} that saves the surrounded text
+% to a macro |\sec@|\meta{section-number}|@qst|\meta{question-number}, where
+% \meta{section-number} and \meta{question-number} are expressed as lower case
+% roman numerals (this way they can be part of the macro name).  Note that we
+% must use lower case roman numerals since, I believe, \LaTeXe\ the |\Roman|
+% command uses the |\uppercase| command, which is not expanded fully until
+% further along in \TeX's gullet than we want.
+%
+% First, define some new counters and token lists.
+%    \begin{macrocode}
+%<*othercode>
+\newcounter{questionnumber}
+\setcounter{questionnumber}{0}
+\setcounter{section}{0}
+\newcounter{extract}
+\newcounter{question} \setcounter{question}{1}
+\newcounter{length} \setcounter{length}{0}
+\newcounter{temp} \setcounter{temp}{1}
+\newcounter{wordtemp} \setcounter{wordtemp}{1}
+\newcounter{form}
+\newcounter{version}
+\newcounter{current@section}
+\newcounter{current@question}
+\newcounter{innerloop}
+\newcounter{sect}
+\newcounter{sectionindex}
+\newcounter{answer}
+\newcounter{choice}
+ \setcounter{choice}{1}
+\newcounter{mcquestion} \setcounter{mcquestion}{1}
+\newcounter{mcchoice} \setcounter{mcchoice}{1}
+\newcounter{savelistcnt}
+\newlength{\blank@length}
+\newlength{\temp@length}
+\newlength{\temp@@length}
+\newlength{\namedata@vspace}
+\newlength{\beforesectsep}
+ \setlength{\beforesectsep}{\medskipamount}
+\newlength{\aftersectsep}
+ \setlength{\aftersectsep}{\medskipamount}
+\newlength{\beforeinstsep}
+ \setlength{\beforeinstsep}{\medskipamount}
+\newlength{\afterinstsep}
+ \setlength{\afterinstsep}{\medskipamount}
+ \addtolength{\afterinstsep}{-\topsep}
+\newif\ifchoice \choicefalse
+\newif\ifanswer
+\newif\ifnotfixed
+\newif\ifcblanks \cblanksfalse
+\newif\ifpblanks \pblankstrue
+\newif\ifidentifier \identifierfalse
+\newif\ifFirstQuestionInBlock \FirstQuestionInBlocktrue
+\newif\ifcontinuousnumbering \continuousnumberingtrue
+\newif\ifresetcounter\resetcounterfalse
+\global\newtoks\temptoks
+\global\newtoks\temp@toks
+%    \end{macrocode}
+% |\setrannum| requires a ``traditional'' counter (i.e., a non-\LaTeX counter (i.e., a
+% counter whose name doesn't begin with |c@|.
+%    \begin{macrocode}
+\newcount\exam@c
+\newcount\exam@n
+\newcount\exam@m
+\setrannum{\exam@m}{1}{10}
+\newtoks\@toklist
+%    \end{macrocode}
+%
+% \begin{environment}{section}
+% Questions naturally occur in blocks which have, more-or-less, the same
+% general format.  For example, one will naturally have a block of true/false
+% questions together, followed by a block of short answer, and then a
+% block of essay questions.  We don't want to mix questions between blocks (so
+% that the true/false questions are interspersed between the short answer
+% questions).  Thus we need to index the questions by section type as well as
+% question number.
+%
+%    \begin{macrocode}
+\def\section{\stepcounter{section}
+  \setcounter{question}{1}}
+%    \end{macrocode}
+%
+% \begin{macro}{\get@instructions}
+% This macro collects everything between it and the next |\begin| token.  It then
+% calls the |\find@instructions@end| macro to check whether the |\begin| token
+% belongs to the \textsf{question} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@instructions#1\begin{\@toklist=\expandafter{\the\@toklist#1}%
+  \find@instructions@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@instructions@end}
+% If we are at |\begin{question}| or |\begin{block}|
+% save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@instructions@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Q
+    \let\@next=\Qwrap@up@instructions
+  \else
+    \ifx\@tempa\@Block
+      \let\@next=\Bwrap@up@instructions
+    \else
+      \@toklist=\expandafter{\the\@toklist\begin{#1}}%
+      \let\@next=\get@instructions
+   \fi\fi\@next}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\Qwrap@up@instructions}
+% Use the counters |section| and |question| to save the collected token list
+% in a macro named as described earlier.
+%    \begin{macrocode}
+\def\Qwrap@up@instructions{%
+ \expandafter\xdef\csname inst@sec\thesection\endcsname{\the\@toklist}
+ \begin{question}}
+% \end{macro}
+%
+% \begin{macro}{\Bwrap@up@instructions}
+% Use the counters |section| and |question| to save the collected token list
+% in a macro named as described earlier.
+%    \begin{macrocode}
+\def\Bwrap@up@instructions{%
+ \expandafter\xdef\csname inst@sec\thesection\endcsname{\the\@toklist}
+ \begin{block}}
+% \end{macro}
+%
+% \begin{macro}{\endsection}
+% At the end of a section, make a list of question indexes.
+%    \begin{macrocode}
+\def\endsection{\make@qlist}
+%    \end{macrocode}
+% \end{macro}
+% \end{environment}
+%
+% \begin{macro}{\make@qlist}
+% As described below, we need to create a token list containing the index
+% numbers of each question.  This is done by a while-loop as follows:
+%    \begin{macrocode}
+\def\make@qlist{%
+  \setcounter{temp}{1}
+  \edef\@tempa{\thesection}%
+%    \end{macrocode}
+% We need to create a new token list to hold the question indexes.  While
+% we are at it, might as well create the token list to hold the rearranged
+% question indexes.  This saves us having to include a while-loop later.
+%    \begin{macrocode}
+  \global\expandafter\newtoks\csname qlist@sec\@tempa\endcsname
+  \global\expandafter\newtoks\csname qlist@scr@sec\@tempa\endcsname
+  \global\csname qlist@scr@sec\@tempa\endcsname={}
+%    \end{macrocode}
+% Now being a while-loop where each pass through the loop appends
+% an index number to the question list.
+%    \begin{macrocode}
+  \@whilenum \value{question}>1 \do{%
+    \edef\@questionnumber{\arabic{temp}}%
+    \expandafter\append\expandafter{\@questionnumber}%
+       {\csname qlist@sec\@tempa\endcsname}
+    \addtocounter{question}{-1}
+    \addtocounter{temp}{1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{question} environment}
+%
+% \begin{macro}{\question}
+% We define |\question| so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\question{%
+  \@toklist={\exam@ExecuteIfDefined{sec\thesection q\thequestion break}}%
+%   \@ifundefined{sec\thesection q\thequestion break}
+%     {\@toklist={}}
+%     {\expandafter\@toklist\expandafter{\csname 
+%         sec\thesection q\thequestion break\endcsname}}  
+ \get@question@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endquestion}
+% Increment the question counter so that the next question will be assigned the
+% right name
+%    \begin{macrocode}
+\def\endquestion{\stepcounter{question}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@question@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@question@end| macro to check whether the |\end| token
+% belongs to the \textsf{question} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@question@body#1\end{\@toklist=\expandafter{\the\@toklist#1}%
+  \find@question@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@question@end}
+% If we are at |\end{question}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@question@end#1{%
+  \def\@tempa{#1}%
+   \ifx\@tempa\@Q\expandafter\wrap@up
+    \else\@toklist=\expandafter{\the\@toklist\end{#1}}%
+     \expandafter\get@question@body\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\wrap@up}
+% Use the counters |section| and |question| to save the collected token list
+% in a macro named as described earlier.
+%    \begin{macrocode}
+\def\exam@ExecuteIfDefined#1{%
+  \@ifundefined{#1}%
+    {}%
+    {\csname #1\endcsname}} 
+
+\def\wrap@up{%
+ \edef\@tempa{\thesection}%
+ \edef\@tempb{\thequestion}%
+ \ifx\@currentsectionname\@truefalse
+   \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+     \noexpand\exam@ExecuteIfDefined{sec\thesection q\thequestion break}%
+     \noexpand\exam@TFItem
+     \noexpand\@beforequestionhook
+     \noexpand\exam@TFGobbleQuestionHook
+     \the\@toklist
+     \noexpand\@endquestionhook}
+   \else
+     \ifx\@currentsectionname\@MC
+       \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+         \noexpand\exam@ExecuteIfDefined{sec\thesection q\thequestion break}%
+         \noexpand\@mcitem
+         \noexpand\@beforequestionhook
+         \noexpand\exam@MCGobbleQuestionHook
+         \the\@toklist
+         \noexpand\exam@EndChoiceListIfNecessary
+         \noexpand\@mcenditem
+         \noexpand\@endquestionhook}
+       \else
+         \ifx\@currentsectionname\@shortanswer
+           \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+             \noexpand\exam@ExecuteIfDefined{sec\thesection q\thequestion break}%
+             \noexpand\item
+             \noexpand\@beforequestionhook
+             \noexpand\exam@SAGobbleQuestionHook
+             \the\@toklist
+             \noexpand\@endquestionhook}
+         \else
+           \ifx\@currentsectionname\@fillin
+             \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+               \noexpand\exam@ExecuteIfDefined{sec\thesection q\thequestion break}%
+               \noexpand\item
+               \noexpand\@beforequestionhook
+               \noexpand\exam@FillinGobbleQuestionHook
+               \the\@toklist
+               \noexpand\@endquestionhook}
+           \else
+             \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+               \noexpand\exam@ExecuteIfDefined{sec\thesection q\thequestion break}%
+               \noexpand\item
+               \noexpand\@beforequestionhook
+               \the\@toklist
+               \noexpand\@endquestionhook}
+   \fi\fi\fi\fi
+   \end{question}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Q}
+% Store the name of the environment for comparison in |\find@question@end|
+%    \begin{macrocode}
+\def\@Q{question}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{block} environment}
+%
+% \begin{macro}{\block}
+% This macro provides a ``block'' environment that prevents the questions
+% it surrounds from being rearranged.
+%
+% The |\global\@newlistfalse| is required to prevent \LaTeX\ from barfing
+% if the random rearrangement places the block at the beginning of the
+% question list, in which case the |\end{enumerate}| would close a
+% |\begin{enumerate}| without an intervening |\item|.
+%    \begin{macrocode}
+\newcounter{first}
+\newcounter{last}
+\def\exam@GobbleBlockInstructionsHook{\relax}
+\newcounter{exam@tf}\setcounter{exam@tf}{0}
+
+\newcommand{\block}[1][]{%
+  % Break only if a pagebreak preceeded the block
+  \@toklist={\exam@ExecuteIfDefined{sec\current@section q\current@question break}}%
+  \@toklist=\expandafter{\the\@toklist
+    \global\@newlistfalse
+    \setcounter{questionnumber}{\value{enumi}}}%
+  \ifx\@currentsectionname\@truefalse
+    \@toklist=\expandafter{\the\@toklist
+      \end{list}%
+      \setcounter{exam@tf}{0}%
+      \exam@TrueFalseGobbleBlockInstructionsHook}%
+  \else
+    \@toklist=\expandafter{\the\@toklist
+      \end{enumerate}\exam@GobbleBlockInstructionsHook}%
+  \fi
+  \setkeys{block}{#1}%
+  \exam@GetBlockToFirstQuestion}
+
+\define@key{block}{questions}[0]{%
+  \@toklist=\expandafter{\the\@toklist
+    \setcounter{first}{\value{enumi}}
+    \stepcounter{first}
+    \setcounter{last}{\value{enumi}}
+    \addtocounter{last}{#1}}}
+
+\long\def\exam@GetBlockToFirstQuestion#1\begin{%
+  \@toklist=\expandafter{\the\@toklist #1}%
+  \exam@CheckForQuestion}
+
+\def\exam@CheckForQuestion#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Q
+    \ifx\@currentsectionname\@truefalse
+      \@toklist=\expandafter{\the\@toklist
+        \exam@StartTrueFalseList
+        \begin{question}}
+    \else
+      \@toklist=\expandafter{\the\@toklist
+        \begin{enumerate}
+        \setcounter{enumi}{\value{questionnumber}}%
+        \begin{question}}
+    \fi
+    \expandafter\get@block@body
+  \else
+    \expandafter\exam@GetBlockToFirstQuestion
+  \fi}
+
+\long\def\get@block@body#1\end{\@toklist=\expandafter{\the\@toklist #1}%
+  \find@block@end}
+\def\find@block@end#1{%
+  \def\@tempa{#1}%
+   \ifx\@tempa\@Block\expandafter\block@wrap@up
+    \else\@toklist=\expandafter{\the\@toklist\end{#1}}%
+     \expandafter\get@block@body\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\block@wrap@up}
+%    \begin{macrocode}
+\def\block@wrap@up{%
+ \edef\@tempa{\thesection}%
+ \edef\@tempb{\thequestion}%
+ \expandafter\xdef\csname sec\@tempa @qst\@tempb\endcsname{%
+   \noexpand\@startofblockhook
+   \the\@toklist
+   \noexpand\@endofblockhook}%
+ \end{block}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@startofblockhook}
+%    \begin{macrocode}
+\def\@startofblockhook{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+%
+% \begin{macro}{\@endofblockhook}
+%    \begin{macrocode}
+\def\@endofblockhook{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Block}
+%    \begin{macrocode}
+\def\@Block{block}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endblock}
+%    \begin{macrocode}
+\def\endblock{\stepcounter{question}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{frontmatter} environment}
+%
+% \begin{macro}{\frontmatter}
+% We define "\frontmatter" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\frontmatter{\@toklist={}
+ \get@frontmatter@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endfrontmatter}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endfrontmatter{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@frontmatter@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@frontmatter@end| macro to check whether the |\end| token
+% belongs to the \textsf{frontmatter} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@frontmatter@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@frontmatter@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@frontmatter@end}
+% If we are at |\end{frontmatter}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@frontmatter@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Frontmatter
+    \expandafter\frontmatter@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@frontmatter@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\frontmatter@wrap@up}
+% Save all the scanned text into an appropriately named macro for later
+% recall.
+%    \begin{macrocode}
+\def\frontmatter@wrap@up{%
+  \xdef\@frontmattertext{\the\@toklist}
+  \end{frontmatter}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Frontmatter}
+% Store the name of the environment for comparison in |\find@frontmatter@end|
+%    \begin{macrocode}
+\def\@Frontmatter{frontmatter}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{endmatter} environment}
+%
+% The \textsf{endmatter} environment behaves just like the \textsf{frontmatter}
+% environment, except the enclosed text is saved in a differently-named macro.
+%
+% \begin{macro}{\endmatter}
+% We define "\endmatter" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\endmatter{\@toklist={}
+ \get@endmatter@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endendmatter}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endendmatter{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@endmatter@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@endmatter@end| macro to check whether the |\end| token
+% belongs to the \textsf{endmatter} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@endmatter@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@endmatter@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@endmatter@end}
+% If we are at |\end{endmatter}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@endmatter@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Endmatter
+    \expandafter\endmatter@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@endmatter@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endmatter@wrap@up}
+% Save the scanned text to an appropriately named macro for later recall.
+%    \begin{macrocode}
+\def\endmatter@wrap@up{%
+  \xdef\@endmattertext{\the\@toklist}
+  \end{endmatter}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Endmatter}
+% Store the name of the environment for comparison in |\find@endmatter@end|
+%    \begin{macrocode}
+\def\@Endmatter{endmatter}
+%    \end{macrocode}
+% \end{macro}
+%
+% We now initialize "\@frontmattertext" and "\@endmattertext" to a randomly
+% chosen garbage value that no user will ever use.  This enables us to test in
+% the main loop whether the user has used \textsf{frontmatter} or
+% \textsf{endmatter} in her document.
+%
+%    \begin{macrocode}
+\begin{frontmatter}
+  \relax
+\end{frontmatter}
+%    \end{macrocode}
+%
+%    \begin{macrocode}
+\begin{endmatter}
+  \relax
+\end{endmatter}
+%    \end{macrocode}
+%
+% \subsection{The \textsf{exampreface} environment}
+%
+% The \textsf{exampreface} environment behaves just like the \textsf{frontmatter}
+% environment, except the enclosed text is saved in a differently-named
+% macro---one that will be printed just beneath any text specified in the
+% \textsf{examtop} environment.
+%
+% \begin{macro}{\exampreface}
+% We define "\exampreface" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\exampreface{\@toklist={}
+ \get@exampreface@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endexampreface}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endexampreface{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@exampreface@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@exampreface@end| macro to check whether the |\end| token
+% belongs to the \textsf{exampreface} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@exampreface@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@exampreface@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@exampreface@end}
+% If we are at |\end{exampreface}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@exampreface@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Exampreface
+    \expandafter\exampreface@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@exampreface@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\exampreface@wrap@up}
+% Save the scanned text to an appropriately named macro for later recall.
+%    \begin{macrocode}
+\def\exampreface@wrap@up{%
+  \xdef\@examprefacetext{\the\@toklist}
+  \end{exampreface}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Exampreface}
+% Store the name of the environment for comparison in |\find@exampreface@end|
+%    \begin{macrocode}
+\def\@Exampreface{exampreface}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{examclosing} environment}
+%
+% The \textsf{examclosing} environment behaves just like the \textsf{frontmatter}
+% environment, except the enclosed text is saved in a differently-named
+% macro.
+%
+% \begin{macro}{\examclosing}
+% We define "\examclosing" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\examclosing{\@toklist={}
+ \get@examclosing@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endexamclosing}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endexamclosing{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@examclosing@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@examclosing@end| macro to check whether the |\end| token
+% belongs to the \textsf{examclosing} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@examclosing@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@examclosing@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@examclosing@end}
+% If we are at |\end{examclosing}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@examclosing@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Examclosing
+    \expandafter\examclosing@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@examclosing@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\examclosing@wrap@up}
+% Save the scanned text to an appropriately named macro for later recall.
+%    \begin{macrocode}
+\def\examclosing@wrap@up{%
+  \xdef\@examclosingtext{\the\@toklist}
+  \end{examclosing}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Examclosing}
+% Store the name of the environment for comparison in |\find@examclosing@end|
+%    \begin{macrocode}
+\def\@Examclosing{examclosing}
+%    \end{macrocode}
+% \end{macro}
+%
+% We now initialize "\@\examprefacetext" and "\@examclosingtext" to "\relax"
+% so that in case the user doesn't specify any special text, nothing will be
+% typeset in the actual exam.
+%
+%    \begin{macrocode}
+\begin{exampreface}
+  \relax
+\end{exampreface}
+%    \end{macrocode}
+%
+%    \begin{macrocode}
+\begin{examclosing}
+  \relax
+\end{examclosing}
+%    \end{macrocode}
+%
+% \subsection{The \textsf{keypreface} environment}
+%
+% The \textsf{keypreface} environment behaves just like the \textsf{frontmatter}
+% environment, except the enclosed text is saved in a differently-named
+% macro---one that will be printed just beneath any text specified in the
+% \textsf{keytop} environment.
+%
+% \begin{macro}{\keypreface}
+% We define "\keypreface" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\keypreface{\@toklist={}
+ \get@keypreface@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endkeypreface}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endkeypreface{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@keypreface@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@keypreface@end| macro to check whether the |\end| token
+% belongs to the \textsf{keypreface} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@keypreface@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@keypreface@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@keypreface@end}
+% If we are at "\end{keypreface}", save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@keypreface@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Keypreface
+    \expandafter\keypreface@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@keypreface@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\keypreface@wrap@up}
+% Save the scanned text to an appropriately named macro for later recall.
+%    \begin{macrocode}
+\def\keypreface@wrap@up{%
+  \xdef\@keyprefacetext{\the\@toklist}
+  \end{keypreface}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Keypreface}
+% Store the name of the environment for comparison in "\find@keypreface@end"
+%    \begin{macrocode}
+\def\@Keypreface{keypreface}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{The \textsf{keyclosing} environment}
+%
+% The \textsf{keyclosing} environment behaves just like the \textsf{frontmatter}
+% environment, except the enclosed text is saved in a differently-named
+% macro.
+%
+% \begin{macro}{\keyclosing}
+% We define "\keyclosing" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\keyclosing{\@toklist={}
+ \get@keyclosing@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endkeyclosing}
+% This doesn't need to do anything.
+%    \begin{macrocode}
+\def\endkeyclosing{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@keyclosing@body}
+% This macro collects everything between it and the next "\end" token.  It then
+% calls the "\find@keyclosing@end" macro to check whether the "\end" token
+% belongs to the \textsf{keyclosing} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@keyclosing@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@keyclosing@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@keyclosing@end}
+% If we are at |\end{keyclosing}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@keyclosing@end#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Keyclosing
+    \expandafter\keyclosing@wrap@up
+  \else
+    \@toklist=\expandafter{\the\@toklist\end{#1}}%
+    \expandafter\get@keyclosing@body
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\keyclosing@wrap@up}
+% Save the scanned text to an appropriately named macro for later recall.
+%    \begin{macrocode}
+\def\keyclosing@wrap@up{%
+  \xdef\@keyclosingtext{\the\@toklist}
+  \end{keyclosing}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@Keyclosing}
+% Store the name of the environment for comparison in "\find@keyclosing@end"
+%    \begin{macrocode}
+\def\@Keyclosing{keyclosing}
+%    \end{macrocode}
+% \end{macro}
+%
+% We now initialize "\@keyprefacetext" and "\@keyclosingtext" to "\relax"
+% so that in case the user doesn't specify any special text, nothing will be
+% typeset in the actual exam.
+%
+%    \begin{macrocode}
+\begin{keypreface}
+  \relax
+\end{keypreface}
+%    \end{macrocode}
+%
+%    \begin{macrocode}
+\begin{keyclosing}
+  \relax
+\end{keyclosing}
+%    \end{macrocode}
+%
+% \subsection{Macros for manipulating token lists}
+% In order to make manipulation of token lists easier, (or, really, to just
+% increase the overall readability of the syntax, we define some macros
+% to manipulate token lists.
+%
+% \begin{macro}{\append}
+% |\append{|\meta{string}|}{|\meta{token-list}|}| appends \meta{string}
+% to the rightmost end of \meta{token-list}.
+%
+% Note that we use |\@separator| between entries in the list, rather than
+% |\\| as recommended in the \TeX{}book, since we will later want to redefine
+% the list separator and \emph{execute} the list.  If we used |\\|, we run into
+% potential conflicts in executing the list, since \LaTeXe, at any given point
+% during the execution of the list entry, might redefine |\\| in such a way as to
+% screw things up.
+%    \begin{macrocode}
+\def\append#1#2{%
+  \global\temp@toks=\expandafter{\the #2\@separator {#1}}%
+  \global#2=\expandafter{\the\temp@toks}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\length}
+% The usage is |\length{|\meta{token-list}|}|.  So |\length{\foo}| computes the
+% length of the token list |\foo|, where it is assumed that the separator
+% between list elements is |\@separator|.
+%    \begin{macrocode}
+\def\length#1{%
+  \setcounter{length}{0}
+  \def\@separator##1{\stepcounter{length}}\the#1}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\remove}
+% |\remove{|\meta{number}|}{|\meta{token-list}|}| removes the \meta{number}th
+% element from the token list \meta{token-list}, redefining \meta{token-list}
+% to be that list.  As always, we assume that the list elements are separated
+% by the token |\@separator|.
+%    \begin{macrocode}
+\def\remove#1#2{%
+  \exam@c=0
+  \temptoks={}
+  \def\@separator##1{\advance\exam@c by 1\relax
+     \ifnum\exam@c=#1\relax%
+     \setcounter{extract}{##1}%
+     \else\append{##1}{\temptoks}
+     \fi}
+  \the#2
+  \global#2=\expandafter{\the\temptoks}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{Scrambling the order of the questions}
+%
+% The general idea is that, for each section, we form a token list named
+% |\qlist@sec|\meta{c} of the form:
+% |{\@separator{1}\@separator{2}|\ldots|\@separator{|\meta{n}|}}|
+% where \meta{c} is the number of the section (in roman numerals), and
+% \meta{n} is the number of questions in section \meta{c}.  We call a while-loop
+% to loop \meta{n} times, each time removing a randomly
+%  chosen entry from the token list. This entry is appended to the list
+% |\qlist@scr|\meta{m}@|sec|\meta{c}, where
+% \meta{m} is the current value (in roman numerals) of the form we are
+% generating. Once this list is built, we can then typeset the questions by
+% simply redefining |\@separator| and executing the new scrambled list.
+%
+% \begin{macro}{\@enddocumenthook}
+% Redefine the |\@enddocumenthook| so that the questions are automatically
+% generated without the user needing to insert a command after all the question
+% blocks.  This has the ironic effect that absolutely nothing the user sees in
+% the input file causes the text to be created.  I haven't been real careful to
+% prevent collisions occurring with other applications that use
+% |\@enddocumenthook|, so this could be a source of problems.
+%
+% \medskip
+%
+% First, save any previously assigned meaning to
+% |\@enddocumenthook| so that we don't clobber it.
+%    \begin{macrocode}
+\let\@oldenddocumenthook=\@enddocumenthook
+\def\@enddocumenthook{%
+  \global\let\pagebreak=\old@pagebreak
+  \global\let\BreakPageOnVersion=\exam@DoneReadingBreakPageOnVersion
+%    \end{macrocode}
+% We need to create the number of forms specified, so we loop over the
+% total number of forms.  Initialize the counter \texttt{version} to 1 (this
+% is the value we will loop over) and step the counter \texttt{form} (so that 
+% we actually generate all the forms that the user wants).
+%    \begin{macrocode}
+  \setcounter{version}{1} \stepcounter{form}
+%    \end{macrocode}
+% Loop until the value of \texttt{version} exceeds \texttt{form}.
+%    \begin{macrocode}
+  \@whilenum \value{version}<\value{form} \do{%
+%    \end{macrocode}
+% But two passes per exam are needed (once for the exam, once for the answers),
+% so we create an ``inner-loop'' to take care of this problem.  Since we will
+% want the answer key to have a slightly different format (where the
+% answers are included!) it pays to make this on the second pass.
+%    \begin{macrocode}
+    \setcounter{innerloop}{0}
+    \@whilenum \value{innerloop}<\value{passes} \do{%
+%    \end{macrocode}
+% Reset the page counter so that no new exams or answer keys start on page 17
+% (for example).
+%    \begin{macrocode}
+        \setcounter{page}{1}
+        \setcounter{questionnumber}{0}
+        \setcounter{enumi}{0}
+        \setcounter{equation}{0}
+%    \end{macrocode}
+% If |innerloop|=0, we are making an exam. If not, we are making an answer key,
+% so take the appropriate action for the top of the form.  Since we won't want
+% absent-minded professors to make 200+ copies of the answer key, print the
+% title of the answer key using |\Huge| to call attention to it.
+%    \begin{macrocode}
+        \ifx\@frontmattertext\relax
+          \relax
+        \else
+          \@frontmattertext \pagebreak
+        \fi
+        \ifnum \value{innerloop}=0 %
+          \@examtopmatter
+          \answerfalse
+          \iftwocolumn \begin{multicols}{2}\fi
+          \@examprefacetext
+        \else%
+          \@keytopmatter
+          \answertrue
+          \iftwocolumn \begin{multicols}{2}\fi
+          \@keyprefacetext
+        \fi
+        \setcounter{sectionindex}{0}
+%    \end{macrocode}
+% And finally, once we have started making the exam, we need to loop over each
+% individual section.
+%    \begin{macrocode}
+        \@whilenum \value{sectionindex}<\value{section} \do{%
+            \addtocounter{sectionindex}{1}
+%    \end{macrocode}
+% Store the value of |sectionindex| in the macro
+% |\current@section| so we can use it in |\csname|\ldots |\endcsname| pairs.
+%    \begin{macrocode}
+            \edef\current@section{\thesectionindex}
+%    \end{macrocode}
+% Compute the length of |\qlist@sec|\meta{current@section}
+%    \begin{macrocode}
+            \length{\csname qlist@sec\current@section\endcsname}
+%    \end{macrocode}
+% Here's the main meat of the code.  Pick a random number between 1 and the
+% length of |\qlist@sec|\meta{current@section}.  Store it in the counter |\exam@m|.
+% Remove the $m$th element from |\qlist@sec|\meta{current@section} and store it
+% as the first element in |\qlist@scr@sec|\meta{current@section}.  Continuing to
+% do this will rearrange the order of the questions.  The only thing we need to
+% keep in mind is to change the requested range of the random number to keep in
+% mind the fact that we removed an element from
+% |\qlist@sec|\meta{current@section}.  Although there are faster ways to do
+% this, I chose to opt for more readable code, since this part of the program is
+% so complex anyway.
+%    \begin{macrocode}
+            \csname sec\current@section @fixed\endcsname
+            \ifnotfixed
+              \ifanswer \relax
+              \else \typeout{Scrambling section \current@section, question: }\fi
+              \exam@ScrambleQuestionList
+            \else
+              \csname qlist@scr@sec\current@section\endcsname=\expandafter{%
+               \the\csname qlist@sec\current@section\endcsname}
+            \fi
+%    \end{macrocode}
+% Finally, the code dealing with processing the different types of questions.  Each
+% type of question is processed in the exact same way: we perform an |\ifx| to
+% test to see what type of question it is, and if it is that type of question,
+% execute the following code, which redefines |\begin{answer}|\ldots
+% |\end{answer}| as necessary to achieve the desired effects.
+%
+% \medskip
+%
+% We now conduct a series of tests to see exactly what type of question the
+% current section contains.  Once a match is made, the appropriate macro
+% (defined below) is expanded, which typesets all the questions in that section.
+%    \begin{macrocode}
+        \csname RS@sec@\current@section\endcsname
+        \@ifundefined{sec\current@section break}
+          {\relax}
+          {\pagebreak}
+        \ifsection{\@matching}{\@matchingmain}
+        \ifsection{\@shortanswer}{\@shortanswermain}
+        \ifsection{\@fillin}{\@fillinmain}
+        \ifsection{\@MC}{\@multiplechoicemain}
+        \ifsection{\@truefalse}{\@truefalsemain}}
+        \ifnum \value{innerloop}=0 %
+          \@examclosingtext\par
+        \else
+          \@keyclosingtext\par
+        \fi
+        \iftwocolumn \end{multicols} \fi
+        \ifx\@endmattertext\relax
+          \relax
+        \else
+          \pagebreak \@endmattertext \par
+        \fi
+        \pagebreak
+        \addtocounter{innerloop}{1}}
+      \@OneKeyHook
+%    \end{macrocode}
+% This is the end of the code for the inner while-loop (that generates both
+% exams and answer sheets. Toggle the value of "\ifanswer" so that
+% on the second pass we generate answers to the questions.  Add one to
+% "innerloop", too.
+%    \begin{macrocode}
+      \stepcounter{version}
+      \setcounter{sectionindex}{0}
+%    \end{macrocode}
+% This is the end of the code for the form while-loop.  Add -1 to |form| to
+% keep track of the number of copies we've made, and redefine the
+% |\qlist@sec|\meta{section} lists, since they were eaten up by |\remove|
+% during the randomization. (This is what the next loop does.)
+%    \begin{macrocode}
+      \@whilenum \value{sectionindex}<\value{section} \do{%
+        \addtocounter{sectionindex}{1}
+        \edef\current@section{\thesectionindex}
+        \csname sec\current@section @fixed\endcsname
+        \ifnotfixed
+          \exam@RestoreSectionLists
+        \else \notfixedtrue\fi}
+      }}
+
+ \def\exam@RestoreSectionLists{%
+   \csname qlist@sec\current@section\endcsname=\expandafter{\the\csname
+     qlist@scr@sec\current@section\endcsname}
+   \csname qlist@scr@sec\current@section\endcsname={}}
+
+\def\exam@ScrambleQuestionList{%
+  \length{\csname qlist@sec\current@section\endcsname}%
+  \@whilenum \value{length}>0 \do{%
+    \setrannum{\exam@m}{1}{\value{length}}%
+    \remove{\exam@m}{\csname qlist@sec\current@section\endcsname}%
+    \edef\@TEMP{\theextract}%
+    \ifnum \value{length}=1
+      \message{\@TEMP.}%
+    \else 
+      \message{\@TEMP,}%
+    \fi
+    \expandafter\append\expandafter{\@TEMP}{\csname
+      qlist@scr@sec\current@section\endcsname}
+    \length{\csname qlist@sec\current@section\endcsname}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \section{The layout of the exam}
+%
+% \begin{macro}{\NumberOfVersions}
+% A user-level command to specify the number of version to make. Originally
+% initialized to 1.
+%    \begin{macrocode}
+\def\NumberOfVersions#1{\setcounter{form}{#1}}
+ \NumberOfVersions{1}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\instructions}
+% Often one wants to preface a block of questions with a series of instructions
+% for the student.  Previous releases had defined "\instructions" to do this,
+% but that command is obsolete as of version 1.02.  Thus, we define
+% "\instructions" to be "\relax".
+%    \begin{macrocode}
+\def\instructions{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\classdata}
+% This command saves its argument in the macro |\classdata| (it is intended for
+% data like the class name and course number. E.g., Phil 29: Critical
+% Reasoning).  Originally initialized to |\relax|.
+%    \begin{macrocode}
+\def\class#1{\def\classdata{#1}}
+\def\classdata{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\examtype}
+% Allows one to specify the name of the exam (midterm, final, etc.)
+%    \begin{macrocode}
+\def\examname#1{\def\examtype{#1}}
+ \examname{Exam}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\namedata}
+% Placed in a |\parbox|, |\namedata| contains all the standard fields
+% ordinarily required in a large university setting.  If you should be so lucky as
+% to teach at a place where student numbers are not required, simply delete the
+% appropriate line.
+%    \begin{macrocode}
+\def\namedata{Name: \hrulefill \\[\namedata@vspace]
+              Student Number: \hrulefill \\[\namedata@vspace]
+              TA: \hrulefill \\[\namedata@vspace]
+              Date: \hrulefill}
+%    \end{macrocode}
+% \end{macro}
+%
+% \subsection{Types of questions}
+%
+% Five types of questions have special
+% formats: true/false, fill-in-the-blank, short answer, multiple choice, and
+% fixed (meaning: don't swap the order of the questions).  Since we will want to
+% distinguish between these types of questions when creating the exam, we need
+% a way to identify a particular section with a particular type of question.
+% We do this in the following way: for each section, we define a macro
+% |\type@sec|\meta{section} consisting of a single string containing the name
+% of the type of question.  That string will later be used to identify the 
+% section as such and take appropriate action.
+%
+% First, some necessary definitions.
+%    \begin{macrocode}
+\define@key{section}{title}[\relax]{%
+  \expandafter\gdef\csname head@sec\thesection\endcsname{#1}}
+
+\define@key{section}{resetcounter}[yes]{%
+  \def\exam@arg{#1}%
+  \ifx\exam@arg\exam@c@yes
+    \expandafter
+    \gdef\csname RS@sec@\thesection\endcsname{\resetcountertrue}
+  \else
+    \expandafter
+    \gdef\csname RS@sec@\thesection\endcsname{\resetcounterfalse}
+  \fi}
+
+\define@key{section}{suppressprefix}[yes]{%
+  \def\exam@arg{#1}%
+  \ifx\exam@arg\exam@c@yes
+    \expandafter
+    \gdef\csname SP@sec@\thesection\endcsname{\resetcountertrue}
+  \fi}
+
+\define@key{section}{rearrange}[yes]{%
+  \def\exam@arg{#1}%
+  \ifx\exam@arg\exam@c@yes
+    \exam@SectionIsNotFixed
+  \else
+    \exam@SectionIsFixed
+  \fi}
+
+\define@key{section}{keycolumns}[1]{%
+  \ifnum#1=1\relax\else
+    \ifx\@currentsectionname\@matching
+    \message{Column specification ignored for the `matching' environment.}
+    \else
+    \exam@SetKeyColumns{#1}
+    \fi
+  \fi}
+\define@key{section}{examcolumns}[1]{%
+  \ifnum#1=1\relax\else
+    \ifx\@currentsectionname\@matching
+    \message{Column specification ignored for the `message' environment.}
+    \else
+    \exam@SetExamColumns{#1}
+    \fi
+  \fi}
+
+\def\exam@definesectiontype#1{%
+  \expandafter\gdef\csname type@sec\thesection\endcsname{#1}}
+%    \end{macrocode}
+% These next three macros just makes some following code easier to read.
+%    \begin{macrocode}
+\def\exam@SetKeyColumns#1{%
+  \expandafter\gdef\csname sec\thesection @KCol\endcsname{#1}}
+\def\exam@SetExamColumns#1{%
+  \expandafter\gdef\csname sec\thesection @ECol\endcsname{#1}}
+\def\exam@SectionIsNotFixed{%
+   \expandafter\gdef\csname sec\thesection @fixed\endcsname{\notfixedtrue}}
+\def\exam@SectionIsFixed{%
+   \expandafter\gdef\csname sec\thesection @fixed\endcsname{\notfixedfalse}}
+\def\exam@SetDefaultSectionTitle#1{
+   \expandafter\gdef\csname head@sec\thesection\endcsname{#1}}
+\def\exam@SetDefaultRecountState#1{
+   \expandafter\gdef\csname RS@sec@\thesection\endcsname{#1}}
+\def\exam@notitle{\exam@notitle}
+%    \end{macrocode}
+%
+% \begin{environment}{matching}
+% The environment for matching questions.
+%    \begin{macrocode}
+\newenvironment{matching}[1][]
+  {\begin{section}
+   \def\@currentsectionname{matching}
+   \exam@definesectiontype{matching}
+   \exam@SetDefaultRearrangeBehavior
+   \exam@SetDefaultSectionTitle{\exam@notitle}
+   \exam@SetDefaultRecountState{\exam@DefaultNumberingBehavior}
+   \setkeys{section}{#1}%
+   \setcounter{temp}{0}%
+   \exam@GetInstructionsForMatchingSection}
+  {\end{section}}
+
+\long\def\exam@GetInstructionsForMatchingSection#1\pair{%
+  \@ifundefined{sec\thesection q\thequestion break}
+    {\@toklist={}}
+    {\@toklist={\old@pagebreak}}
+  \expandafter
+  \xdef\csname inst@sec\thesection\endcsname{\the\@toklist#1}\pair}
+
+% Edited by BBS
+% https://tex.stackexchange.com/a/14845
+
+
+%\newdimen\longline
+%\longline=\textwidth\advance\longline-4cm
+\def\LayoutTextField#1#2{#2} % override default in hyperref
+
+
+
+\def\labelline#1{\vbox{\hbox{\TextField[name=#1,width=#2]{\null}}\kern2pt\hrule}}
+
+\def\q#1{\hbox to \hsize{\labelline{#1}{\exam@MatchingLineLength}}\vskip1.4ex}
+
+
+\def\exam@MatchingLineLength{.5in}
+\def\exam@MatchingLineAfterSkip{6pt}
+\def\pair#1#2{%
+  \expandafter
+  \xdef\csname sec\thesection @\thequestion @tag\endcsname{\thetemp}
+  \expandafter
+  \gdef\csname sec\thesection @qst\thequestion\endcsname{%
+    \exam@PairA{\item[]\hskip-\leftmargin 
+      \ifanswer
+
+      \underline{\makebox[\exam@MatchingLineLength][c]{\exam@GetMatchingAnswer}}%
+      
+      \hskip\exam@MatchingLineAfterSkip #1
+      \else
+      \rule{\exam@MatchingLineLength}{.4pt}%
+      \hskip\exam@MatchingLineAfterSkip #1
+      \fi}}
+  \stepcounter{question}
+  \expandafter
+  \xdef\csname sec\thesection @\thequestion @tag\endcsname{\thetemp}
+  \expandafter
+  \gdef\csname sec\thesection @qst\thequestion\endcsname{%
+    \exam@PairB{\item\relax\exam@SaveMatchingAnswer #2}}
+  \stepcounter{temp}
+  \stepcounter{question}}
+
+\def\exam@GetMatchingAnswer{%
+  \edef\exam@tag{\csname sec\current@section @\current@question
+  @tag\endcsname}%
+  \csname matching@answer@\exam@tag\endcsname}
+\def\exam@SaveMatchingAnswer{%
+  \edef\exam@tag{\csname sec\current@section @\current@question
+    @tag\endcsname}%
+  \expandafter
+  \xdef\csname matching@answer@\exam@tag\endcsname{(\alph{enumi})}}
+
+%    \end{macrocode}
+% \end{environment}
+%
+% \begin{environment}{fillin}
+% The environment for fill-in-the-blank questions.
+%    \begin{macrocode}
+\newenvironment{fillin}[1][]
+  {\begin{section}
+   \def\@currentsectionname{fillin}
+   \exam@definesectiontype{fillin}
+   \exam@SetDefaultRearrangeBehavior
+   \exam@SetDefaultSectionTitle{\exam@notitle}
+   \exam@SetDefaultRecountState{\exam@DefaultNumberingBehavior}
+   \setkeys{section}{#1}%
+   \get@instructions \relax}
+  {\end{section}}
+%    \end{macrocode}
+% \end{environment}
+%
+%
+% \begin{environment}{truefalse}
+% The environment for true/false questions
+%    \begin{macrocode}
+\newenvironment{truefalse}[1][]
+  {\begin{section}
+   \def\@currentsectionname{truefalse}
+   \exam@definesectiontype{truefalse}
+   \exam@SetDefaultRearrangeBehavior
+   \exam@SetDefaultSectionTitle{\exam@notitle}
+   \exam@SetDefaultRecountState{\exam@DefaultNumberingBehavior}
+   \setkeys{section}{#1}%
+   \get@instructions \relax}
+  {\end{section}}
+%    \end{macrocode}
+% \end{environment}
+%
+%
+% \begin{environment}{shortanswer}
+% The environment for short answer questions
+%    \begin{macrocode}
+\newenvironment{shortanswer}[1][]
+  {\begin{section}
+   \def\@currentsectionname{shortanswer}
+   \exam@definesectiontype{shortanswer}
+   \exam@SetDefaultRearrangeBehavior
+   \exam@SetDefaultSectionTitle{\exam@notitle}
+   \exam@SetDefaultRecountState{\exam@DefaultNumberingBehavior}   
+   \setkeys{section}{#1}%
+   \get@instructions \relax}
+  {\end{section}}
+%    \end{macrocode}
+% \end{environment}
+%
+%
+% \begin{environment}{multiplechoice}
+% The environment for multiple choice questions
+%    \begin{macrocode}
+\newenvironment{multiplechoice}[1][]
+  {\begin{section}
+   \def\@currentsectionname{multiplechoice}
+   \exam@definesectiontype{multiplechoice}
+   \exam@SetDefaultRearrangeBehavior
+   \exam@SetDefaultSectionTitle{\exam@notitle}
+   \exam@SetDefaultRecountState{\exam@DefaultNumberingBehavior}   
+   \setkeys{section}{#1}%
+   \get@instructions \relax}
+  {\end{section}}
+%    \end{macrocode}
+% \end{environment}
+%
+%
+% \subsection{Loose Ends}
+%
+% The following macros just contain the environment names for identification in
+% the main loop.
+%    \begin{macrocode}
+\def\@matching{matching}
+\def\@fillin{fillin}
+\def\@shortanswer{shortanswer}
+\def\@truefalse{truefalse}
+\def\@MC{multiplechoice}
+%    \end{macrocode}
+%
+% \begin{macro}{\choice}
+% This is one of the complicated macros in the package.  From the user's point
+% of view, it indicates one answer to a multiple choice question.  Internally,
+% |\choice| has to recognize whether it is the first or last question, taking
+% different action depending on which it is.  Moreover, |\choice| has to format
+% the label differently depending on whether or not we are creating an exam or a
+% test. Note that, for reasons of sanity, I do not attempt to rearrange the order
+% of the choices.
+%    \begin{macrocode}
+\newcommand{\exam@DefaultChoice}[2][]{%
+  \ifchoice \relax
+    \else \@mcstartlist \choicetrue
+  \fi
+  \ifanswer
+    \if#1!%
+      \ifbox \vspace{-\fboxsep}\item[\hfill\fbox{(\alph{choice})}\hfill] #2
+        \vspace{-\fboxsep}%
+      \else
+         \item[\hfill\MCfont{(\alph{choice})}\hfill] \MCfont{#2}%
+      \fi
+    \else \item[\hfill(\alph{choice})\hfill] #2
+    \fi 
+    \stepcounter{choice}%
+  \else
+    \item[\hfill(\alph{choice})\hfill] #2
+    \stepcounter{choice}%
+  \fi}
+\def\exam@EndChoiceListIfNecessary{%
+  \ifchoice\end{list}\choicefalse\fi\setcounter{choice}{1}}
+\let\choice=\exam@DefaultChoice
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@mcstartlist}
+% The parameters used to start the |\begin{list}| environment used in
+% the |\choice| macro.
+%    \begin{macrocode}
+\def\@mcstartlist{\begin{list}{}{%
+ \setlength{\topsep}{6pt}
+ \setlength{\rightmargin}{0pt}
+ \setlength{\labelwidth}{.35in}
+ \setlength{\leftmargin}{.5in}
+ \setlength{\labelsep}{.15in}
+ \setlength{\itemindent}{0in}
+ \setlength{\itemsep}{0pt}}}
+%    \end{macrocode}
+% \end{macro}
+%
+%
+% \subsection{More User-Level Macros}
+%
+% \begin{macro}{\Fullpages}
+% Just a command so that people can automatically set the page margins to
+% full-sized pages.  Only defined for US letter, sorry.
+%    \begin{macrocode}
+\newcommand{\Fullpages}{\setlength{\topmargin}{0pc}
+                        \setlength{\oddsidemargin}{0pc}
+                        \setlength{\evensidemargin}{0pc}
+                        \setlength{\headheight}{0pc}
+                        \setlength{\headsep}{0pc}
+                        \setlength{\textwidth}{6.5in}
+                        \setlength{\textheight}{9in}}
+%</othercode>
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\ConstantBlanks}
+% Sets the blanks in \textsf{fillin} to be of constant width
+%    \begin{macrocode}
+\def\ConstantBlanks#1{\setlength{\blank@length}{#1}\cblankstrue\pblanksfalse}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\ProportionalBlanks}
+% Sets the blanks in \textsf{fillin} to be proportional to the actual typeset
+% width of the word.
+%    \begin{macrocode}
+\def\ProportionalBlanks#1{\edef\blank@multiplier{#1}\cblanksfalse\pblankstrue}
+ \ProportionalBlanks{1}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\StudentInfoLineSpacing}
+% Sets the amount of spacing between the lines in the |\namedata| macro.
+%    \begin{macrocode}
+\newcommand{\StudentInfoLineSpacing}[1]{\setlength{\namedata@vspace}{#1}}
+ \StudentInfoLineSpacing{6pt}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\examtop}
+% We define "\examtop" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\examtop{\@toklist={}
+ \get@examtop@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endexamtop}
+% This doesn't need to do much.
+%    \begin{macrocode}
+\def\endexamtop{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@examtop@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@examtop@end| macro to check whether the |\end| token
+% belongs to the \textsf{question} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@examtop@body#1\end{%
+  \@toklist=\expandafter{\the\@toklist#1}%
+  \find@examtop@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@examtop@end}
+% If we are at |\end{examtop}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@examtop@end#1{%
+  \def\@tempa{#1}%
+   \ifx\@tempa\@XMtop\expandafter\XMtop@wrap@up
+    \else\@toklist=\expandafter{\the\@toklist\end{#1}}%
+     \expandafter\get@examtop@body\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\XMtop@wrap@up}
+% Save the gathered information to a macro for later use.
+%    \begin{macrocode}
+\def\XMtop@wrap@up{\xdef\@examtopmatter{\the\@toklist}%
+ \end{examtop}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@XMtop}
+% Store the name of the environment for comparison in |\find@question@end|
+%    \begin{macrocode}
+\def\@XMtop{examtop}
+%    \end{macrocode}
+% \end{macro}
+%
+% \DescribeEnv{examtop}
+% This environment is defined via the macros below.  It allows the user
+% to customize the text at the top of the exam.  The example here is the
+% default definition.
+%    \begin{macrocode}
+\begin{examtop}
+\@@line{\parbox{3in}{\classdata \\
+        \examtype, Form:~\fbox{\textsf{\Alph{version}}}}
+        \hfill
+        \parbox{3in}{\normalsize \namedata}}
+        \bigskip
+\end{examtop}
+%    \end{macrocode}
+%
+% \begin{macro}{\keytop}
+% We define "\keytop" so that it reads in and saves the surround text
+% to a macro like in the \textsf{tabularx} environment.
+%    \begin{macrocode}
+\def\keytop{\@toklist={}
+ \get@keytop@body}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\endkeytop}
+% This doesn't need to do much.
+%    \begin{macrocode}
+\def\endkeytop{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\get@keytop@body}
+% This macro collects everything between it and the next |\end| token.  It then
+% calls the |\find@keytop@end| macro to check whether the |\end| token
+% belongs to the \textsf{question} environment or some other environment.
+%    \begin{macrocode}
+\long\def\get@keytop@body#1\end{\@toklist=\expandafter{\the\@toklist#1}%
+  \find@keytop@end}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\find@keytop@end}
+% If we are at |\end{keytop}|, save everything to the appropriately named
+% macro.  Otherwise, continue collecting tokens
+%    \begin{macrocode}
+\def\find@keytop@end#1{%
+  \def\@tempa{#1}%
+   \ifx\@tempa\@KYtop\expandafter\KYtop@wrap@up
+    \else\@toklist=\expandafter{\the\@toklist\end{#1}}%
+     \expandafter\get@keytop@body\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\KYtop@wrap@up}
+% Save the gathered information to a macro for later use.
+%    \begin{macrocode}
+\def\KYtop@wrap@up{\xdef\@keytopmatter{\the\@toklist}%
+ \end{keytop}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@KYtop}
+% Store the name of the environment for comparison in |\find@keytop@end|
+%    \begin{macrocode}
+\def\@KYtop{keytop}
+%    \end{macrocode}
+% \end{macro}
+%
+% \DescribeEnv{keytop}
+% This environment is defined via the macros below.  It allows the user
+% to customize the text at the top of the exam.  The example here is the
+% default definition.
+%    \begin{macrocode}
+\begin{keytop}
+\@@line{\hfill \Huge Answer Key
+        for Exam \fbox{\textsf{\Alph{version}}}\hfill}
+        \bigskip
+\end{keytop}
+%    \end{macrocode}
+%
+% \MakeShortVerb{\"}
+% \DeleteShortVerb{\|}
+% \begin{macro}{\word}
+% This macro enables one to insert minor (read: inessential) changes in wording
+% between different versions of the test.  For example, including the
+% command "\word|{Carl Sagan} {Bob Dole}|" in the text will cause the phrase
+% ``Carl Sagan'' to be printed in that place on every odd-numbered test and ``Bob Dole''
+% to be printed in that place on every even-numbered test.  In the event that
+% more versions of the test are requested than options given, "\word" acts as if
+% the given list of options repeats itself.  I.e., in the above case, if we requested
+% four different versions of the examn, "\word" will behave as if the
+% command given were "\word|{Carl Sagan} {Bob Dole} {Carl Sagan} {Bob Dole}|".
+%
+% \smallskip
+%
+% First we define a string to be equal to a space so that we can allow for any
+% number of spaces to be given in the option list.
+%    \begin{macrocode}
+\def\@Space{ }
+%    \end{macrocode}
+% The "\word" macro just saves the option-list in a macro named "\@wordlist" and
+% invokes the macro "\@wordmain" which most of the work.
+%    \begin{macrocode}
+\def\word#1{\def\@wordlist{#1}\expandafter\@wordmain\@wordlist \stop}
+
+\def\@wordmain#1{%
+%    \end{macrocode}
+% Check to see if the current argument is a space.  If so, ignore it.
+%    \begin{macrocode}
+  \ifx#1\@Space
+   \let\@next=\@wordmain
+  \else
+%    \end{macrocode}
+% If the current argument is not a space, but is "\stop", this means that
+% fewer options were given than versions of the test were requested.  Thus we
+% need to start "\@wordmain" again at the beginning of the option list.  This
+% is what the "\@dumpthenstart" macro does.
+%    \begin{macrocode}
+   \ifx#1\stop
+    \let\@next=\@dumpthenstart
+   \else%
+%    \end{macrocode}
+% If the current argument is none of the above, then it is an actual option.
+% However, we must check whether it is the option we want.  If it is, then
+% typeset it and gobble everything up to (and including) "\stop".  If not, just
+% throw the current argument away and get the next one.
+%    \begin{macrocode}
+    \ifnum\value{wordtemp}=\value{version}%
+     #1\let\@next=\@gobbletostop
+    \else
+     \stepcounter{wordtemp}%
+     \let\@next=\@wordmain
+    \fi
+   \fi
+  \fi
+  \@next}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@dumpthenstart}
+%    \begin{macrocode}
+\def\@dumpthenstart{\expandafter\@wordmain\@wordlist \stop}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@gobbletostop}
+%    \begin{macrocode}
+\def\@gobbletostop#1\stop{\relax\setcounter{wordtemp}{1}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \section{Macros to format types of questions}
+%
+% \begin{macro}{\ifsection}
+% This macro increases the readability of the code in the definition
+% of "\@enddocumenthook" when we test to see just which type of questions
+% the current section consists of.
+%    \begin{macrocode}
+\def\ifsection#1#2{%
+ \expandafter\ifx\csname type@sec\current@section\endcsname#1#2\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\exam@AddSectionTitle}
+% Typeset the section title, if there is one; otherwise, don't do anything.
+%    \begin{macrocode}
+\def\exam@AddSectionTitle{%
+  \expandafter\ifx\csname head@sec\current@section\endcsname\exam@notitle
+    \relax
+  \else
+    \par\vspace{\beforesectsep}
+    \noindent {\exam@sectionfont \exam@sectionprefix
+      \csname head@sec\current@section\endcsname}
+    \par\vspace{\aftersectsep}
+  \fi}
+
+
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\exam@AddSectionInstructions}
+% Add instructions for the section, if any were give; otherwise, don't
+% do anything.
+%    \begin{macrocode}
+\def\exam@AddSectionInstructions{%
+  \ifx\csname inst@sec\current@section\endcsname\relax
+    \relax
+  \else
+    \vspace{\beforeinstsep}
+    \csname inst@sec\current@section\endcsname
+    \par\vspace{\afterinstsep}
+  \fi}
+\let\exam@AddSectionInstructionsHook=\exam@AddSectionInstructions
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\exam@MakeAnswerEnvironGobble}
+% This macro redefines the \textsf{answer} environment so that it
+% ignores (``gobbles'') everything inside it.  Used when typesetting
+% the exam.
+%    \begin{macrocode}
+\def\exam@MakeAnswerEnvironGobble{%
+  \def\answer{\get@noanswer@body}
+  \def\endanswer{\relax}
+  \def\@S{answer}
+  \long\def\get@noanswer@body##1\end{\find@answer@end}
+  \def\find@answer@end##1{\def\@tempa{##1}
+    \ifx\@tempa\@S\expandafter\finish@up
+    \else\expandafter\get@noanswer@body\fi}
+  \def\finish@up{\end{answer}}}
+%    \end{macrocode}
+% \end{macro}
+%
+%
+% \begin{macro}{\exam@TypesetQuestions}
+% With the exception of the \textsf{truefalse} environment, 
+% all of the other kinds of questions are handled in the sam
+% way.  (The \textsf{truefalse} environment is special because of
+% the wide blanks it places at the left margin.)
+%    \begin{macrocode}
+\def\exam@PossiblyStartMultipleColumnsInKey{%
+  \ifanswer
+    \@ifundefined{sec\current@section @KCol}
+      \relax
+      {\begin{multicols}{\csname sec\current@section @KCol\endcsname}}
+  \fi}
+\def\exam@PossiblyEndMultipleColumnsInKey{%
+  \ifanswer
+    \@ifundefined{sec\current@section @KCol}
+      \relax
+      {\end{multicols}}
+  \fi}
+\def\exam@PossiblyStartMultipleColumnsInExam{%
+  \ifanswer\relax\else
+    \@ifundefined{sec\current@section @ECol}
+      \relax
+      {\begin{multicols}{\csname sec\current@section @ECol\endcsname}}
+  \fi}
+\def\exam@PossiblyEndMultipleColumnsInExam{%
+  \ifanswer\relax\else
+    \@ifundefined{sec\current@section @ECol}
+      \relax
+      {\end{multicols}}
+  \fi}
+
+\def\exam@EnumerateStyle{1.}
+\def\exam@DefaultEnumerateStyle{1.}
+
+\def\enumerate{%
+  \ifnum \@enumdepth >3 \@toodeep\else
+     \advance\@enumdepth \@ne
+     \edef\@enumctr{enum\romannumeral\the\@enumdepth}\fi
+  \@ifnextchar[{\exam@@enum@}{\@enum@}}
+\def\exam@@enum@[#1]{\expandafter\@@enum@\expandafter[#1]}
+
+\def\exam@TypesetQuestions{%
+  \exam@PossiblyStartMultipleColumnsInKey
+  \exam@PossiblyStartMultipleColumnsInExam
+  \ifx\exam@EnumerateStyle\exam@DefaultEnumerateStyle
+    \begin{enumerate}
+  \else
+    \begin{enumerate}[\exam@EnumerateStyle]
+  \fi
+    \ifresetcounter
+      \setcounter{enumi}{0}
+    \else
+%      \message{QuestionNumber: \thequestionnumber}%
+      \setcounter{enumi}{\value{questionnumber}}
+    \fi
+    \the\csname qlist@scr@sec\current@section\endcsname
+    \setcounter{questionnumber}{\value{enumi}}
+  \end{enumerate}
+  \exam@PossiblyEndMultipleColumnsInKey
+  \exam@PossiblyEndMultipleColumnsInExam}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@shortanswermain}
+%
+% Define |\@separator| in the appropriate fashion for this kind of question.
+%    \begin{macrocode}
+\def\@shortanswermain{%
+  \def\question{%
+    \item 
+    \@beforequestionhook
+    \exam@SAGobbleQuestionHook}
+  \def\endquestion{\@endquestionhook}
+  \def\@separator##1{\setcounter{temp}{##1}
+    \edef\current@question{\thetemp}
+    \csname sec\current@section @qst\current@question\endcsname}
+%    \end{macrocode}
+% If we are makingf a answer, set up the \textsf{answer} environment so that
+% it prints the answer along with an identifier.
+%    \begin{macrocode}
+  \ifanswer
+    \exam@DefineAnswerEnvironment
+  \else
+    \exam@MakeAnswerEnvironGobble
+  \fi
+  \exam@AddSectionTitle
+  \exam@AddSectionInstructionsHook
+  \exam@TypesetQuestions}
+%
+% \begin{macro}{\@matchingmain}
+%
+% Define |\@separator| in the appropriate fashion for this kind of question.
+%    \begin{macrocode}
+\def\@matchingmain{%
+  \def\@separator##1{\setcounter{temp}{##1}
+    \edef\current@question{\thetemp}
+    \csname sec\current@section @qst\current@question\endcsname}
+%    \end{macrocode}
+% If we are makingf a answer, set up the \textsf{answer} environment so that
+% it prints the answer along with an identifier.
+%    \begin{macrocode}
+  \exam@AddSectionTitle
+  \exam@AddSectionInstructionsHook
+  \def\exam@PairA##1{##1}
+  \def\exam@PairB##1{}
+  \edef\exam@questionnumber{\thequestionnumber}%
+  \begin{multicols}{2}\raggedcolumns
+  \exam@TypesetQuestions
+  \def\exam@PairA##1{}
+  \def\exam@PairB##1{##1}
+  \def\exam@EnumerateStyle{(a)}
+  \columnbreak
+  \exam@TypesetQuestions
+  \end{multicols}
+  \setcounter{enumi}{\exam@questionnumber}%
+  \setcounter{questionnumber}{\exam@questionnumber}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@fillinmain}
+% As with all of the section routines, we need to
+% define |\@separator| again.
+%    \begin{macrocode}
+\def\@fillinmain{%
+  \def\question{%
+    \item 
+    \@beforequestionhook
+    \exam@FillinBlockGobbleQuestionHook}
+  \def\endquestion{\@endquestionhook}
+  \def\@separator##1{\setcounter{temp}{##1}
+    \edef\current@question{\thetemp}
+    \csname sec\current@section @qst\current@question\endcsname}
+%    \end{macrocode}
+% Define |\blank| so that it either makes just an underline or an underline
+% with the word printed over it.
+%    \begin{macrocode}
+  \ifanswer 
+    \ifcblanks
+    \def\blank##1{\mbox{\rule[-1pt]{\blank@length}{.4pt}%
+        \hspace{-\blank@length}%
+        \makebox[\blank@length]{##1}}}
+    \fi
+    \ifpblanks
+    \def\blank##1{\settowidth{\temp@length}{##1}%
+      \mbox{\rule[-1pt]{\blank@multiplier\temp@length}{.4pt}%
+        \hspace{-\blank@multiplier\temp@length}%
+        \makebox[\blank@multiplier\temp@length]{##1}}}
+    \fi
+  \else
+    \ifcblanks
+      \def\blank##1{\rule[-1pt]{\blank@length}{.4pt}}
+    \fi
+    \ifpblanks
+      \def\blank##1{\settowidth{\temp@length}{##1}%
+        \rule[-1pt]{\blank@multiplier\temp@length}{.4pt}}
+    \fi
+  \fi
+  \exam@AddSectionTitle
+  \exam@AddSectionInstructionsHook
+  \exam@TypesetQuestions}
+%    \end{macrocode}
+% \end{macro}
+%
+%
+% \begin{macro}{\@multiplechoicemain}
+% This contains all the commands to be invoked if the current section in
+% the main loop is a multiple-choice environment.
+%    \begin{macrocode}
+\def\@multiplechoicemain{\setcounter{mcchoice}{1}
+%    \end{macrocode}
+% First, redefine the "\question", "\endquestion" pairs in case someone
+% used the \textsf{block} environment within multiplechoice.
+%    \begin{macrocode}
+   \def\question{\@mcitem
+     \@beforequestionhook
+     \exam@MCGobbleQuestionHook}
+   \def\endquestion{\@endquestionhook
+     \exam@EndChoiceListIfNecessary\@mcenditem}
+%    \end{macrocode}
+% Now define "\@separator" so that it calls the appropriate macro.
+%    \begin{macrocode}
+   \def\@separator##1{\setcounter{temp}{##1}
+     \edef\current@question{\thetemp}
+     \csname sec\current@section @qst\current@question\endcsname}
+   \exam@AddSectionTitle
+   \exam@AddSectionInstructionsHook
+   \exam@TypesetQuestions}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@truefalsemain}
+% This contains all the commands to be invoked if the current section in the
+% main loop is a true/false environment.
+%    \begin{macrocode}
+\def\@truefalsemain{%
+%    \end{macrocode}
+% First, define "\@separator" so that it calls the macro where the right
+% question is saved.
+%    \begin{macrocode}
+   \def\@separator##1{\setcounter{temp}{##1}
+     \edef\current@question{\thetemp}
+     \csname sec\current@section @qst\current@question\endcsname}
+%    \end{macrocode}
+% Redefine "\question" and "\endquestion" to work properly in case someone
+% used a \textsf{block} environment to keep a couple of true/false questions
+% together
+%    \begin{macrocode}
+   \def\question{%
+     \edef\current@question{\thetemp.\theexam@tf}%
+     \exam@TFItem \@beforequestionhook}
+   \def\endquestion{\stepcounter{exam@tf}\@endquestionhook}
+%    \end{macrocode}
+% Since the appearance of a true/false question depends heavily on whether we
+% are typesetting an answer key or not, we have to make a number of definitions
+% (or redefinitions) depending upon whether we are currently making an answer
+% key.
+%    \begin{macrocode}
+     \ifanswer
+%    \end{macrocode}
+% If we are typesetting an answer, we don't want the argument given to
+% "\answer" to do anything, so we define it so that it gobbles its argument.
+%    \begin{macrocode}
+       \def\answer##1{\relax}
+%    \end{macrocode}
+% If we aren't typesetting an answer, then we are typesetting a test. We
+% must define "\answer" so that it saves the answer in
+% a macro so that it can be recalled when the answer key is typeset.
+%    \begin{macrocode}
+     \else
+       \def\answer##1{\expandafter\gdef
+          \csname tf@sol\current@question\endcsname{##1}}
+          \vspace{-\smallskipamount}
+     \fi
+     \exam@AddSectionTitle
+     \exam@AddSectionInstructionsHook
+     \exam@StartTrueFalseList
+     \the\csname qlist@scr@sec\current@section\endcsname
+     \end{list}}
+
+\def\exam@StartTrueFalseList{%
+  \ifanswer
+  \begin{list}{}
+    {\setlength{\rightmargin}{0pt}
+      \setlength{\labelwidth}{.4in}
+      \setlength{\leftmargin}{.5in}
+      \setlength{\labelsep}{.1in}
+      \setlength{\itemindent}{0in}
+      \setlength{\itemsep}{3pt}}
+%    \the\csname qlist@scr@sec\current@section\endcsname
+%  \end{list}
+  \else
+  \begin{list}%{$\underline{\mbox{\hphantom{false}}}$}
+    {\setlength{\rightmargin}{0pt}
+      \setlength{\labelwidth}{.35in}
+      \setlength{\leftmargin}{.5in}
+      \setlength{\labelsep}{.15in}
+      \setlength{\itemindent}{0in}
+      \setlength{\itemsep}{3pt}}
+%    \the\csname qlist@scr@sec\current@section\endcsname
+%  \end{list}
+  \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@endquestionhook}
+% This provides a ``hook'' for inserting something (like a place to put points)
+% at the end of every question.  Originally initialized to just "\relax"
+%    \begin{macrocode}
+\def\@endquestionhook{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@beforequestionhook}
+% This provides a ``hook'' for inserting something (like a place to put points)
+% at the start of every question.  Originally initialized to just "\relax".
+%    \begin{macrocode}
+\def\@beforequestionhook{\relax}
+%    \end{macrocode}
+% \end{macro}
+%
+%\def\@endquestionhook{\par\hfill Score: \fbox{\phantom{M}}}
+%
+% \begin{macro}{\exam@DefaultTFItem}
+% This is a fancy version of "\item" that must be used for the true/false
+% environment because of the way the exams and answers are printed.
+%    \begin{macrocode}
+\def\exam@DefaultTFItem{%
+  \ifanswer
+    \item[\uline{\makebox[.5in][c]{\csname tf@sol\current@question\endcsname}}]
+  \else
+    \item[\uline{\makebox[.5in][r]{\hss}}]
+  \fi}
+\let\exam@TFItem=\exam@DefaultTFItem
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@mcitem}
+% This is a fancy version of "\item" that must be used for the multiple
+% choice environment because we want to put the question text inside a
+% minipage to keep it from being broken across pages.
+%    \begin{macrocode}
+\def\@mcitem{\item\begin{minipage}[t]{\linewidth}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@mcenditem}
+% This completes the minipage environment begun above.
+%    \begin{macrocode}
+\def\@mcenditem{\end{minipage}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\answerspace}
+% Inserts a particular amount of space for an answer to be given only on
+% the actual exam.  The space is suppressed in the answer key.
+%    \begin{macrocode}
+\def\answerspace#1{\ifanswer \relax \else \vspace*{#1} \fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\exam}
+% Whatever is given as an argument to this macro will only be included if we
+% are typesetting an exam.
+%    \begin{macrocode}
+\def\exam#1{\ifanswer\relax\else #1\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\key}
+% Whatever is given as an argument to this macro will only be included if we
+% are typesetting an answer key.
+%    \begin{macrocode}
+\def\key#1{\ifanswer#1\fi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\examvspace}
+% Insert the specified amount of vertical space only if we are making an
+% exam. At the same time, check to see if the command was a starred command or
+% not.
+%    \begin{macrocode}
+\def\examvspace{\@ifnextchar*{\@examvspacestar}{\@examvspace}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@examvspacestar}
+%    \begin{macrocode}
+\def\@examvspacestar*#1{\exam{\vspace*{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@examvspace}
+%    \begin{macrocode}
+\def\@examvspace#1{\exam{\vspace{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\examhspace}
+% Insert the specified amount of horizontal space only if we are making an
+% exam. At the same time, check to see if the command was a starred command or
+% not.
+%    \begin{macrocode}
+\def\examhspace{\@ifnextchar*{\@examhspacestar}{\@examhspace}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@examhspacestar}
+%    \begin{macrocode}
+\def\@examhspacestar*#1{\exam{\hspace*{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@examhspace}
+%    \begin{macrocode}
+\def\@examhspace#1{\exam{\hspace{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\keyvspace}
+% Insert the specified amount of vertical space only if we are making an
+% exam. At the same time, check to see if the command was a starred command or
+% not.
+%    \begin{macrocode}
+\def\keyvspace{\@ifnextchar*{\@keyvspacestar}{\@keyvspace}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@keyvspacestar}
+%    \begin{macrocode}
+\def\@keyvspacestar*#1{\key{\vspace*{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@keyvspace}
+%    \begin{macrocode}
+\def\@keyvspace#1{\key{\vspace{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\keyhspace}
+% Insert the specified amount of vertical space only if we are making an
+% exam. At the same time, check to see if the command was a starred command or
+% not.
+%    \begin{macrocode}
+\def\keyhspace{\@ifnextchar*{\@keyhspacestar}{\@keyhspace}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@keyhspacestar}
+%    \begin{macrocode}
+\def\@keyhspacestar*#1{\key{\hspace*{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\@keyhspace}
+%    \begin{macrocode}
+\def\@keyhspace#1{\key{\hspace{#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\label}
+% The multiple processing of exams generates error messages if we use
+% the default definition of |\label|.  The following hack lets one
+% use |\label| inside of exams with the expected effect.
+%    \begin{macrocode}
+\let\exam@oldlabel=\label
+\renewcommand{\label}[1]{\exam{\exam@oldlabel{\theversion @#1}}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\ref}
+% And a similar hack to get |\ref| working as well\ldots
+%    \begin{macrocode}
+\let\exam@oldref=\ref
+\renewcommand{\ref}[1]{\exam@oldref{\theversion @#1}}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\problem}
+% Occasionally one needs to put several different numbered questions
+% inside of a single block (I didn't first encounter this until I wrote
+% my first scantron exam).  This macro gives a way to do this consistently
+% with the numbering scheme for the rest of the section.
+%    \begin{macrocode}
+\def\problem{\stepcounter{enumi}\theenumi}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\SectionFont}
+% Here's an easy way to change the font used in section headings.
+%    \begin{macrocode}
+\def\SectionFont#1{\def\exam@sectionfont{#1}}
+\SectionFont{\large} % The default value
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\NoRearrange}
+% The default behavior is to rearrange the questions.  This macro changes
+% it.
+%    \begin{macrocode}
+\let\exam@SetDefaultRearrangeBehavior=\exam@SectionIsNotFixed
+\def\NoRearrange{%
+  \let\exam@SetDefaultRearrangeBehavior=\exam@SectionIsFixed}
+%    \end{macrocode}
+% \end{macro}
+%
+%    \begin{macrocode}
+\def\exam@resetcounter{%
+  \ifresetcounter
+    \setcounter{enumi}{0}
+    \global\resetcounterfalse
+  \else
+    \setcounter{enumi}{\value{questionnumber}}
+  \fi}
+%    \end{macrocode}
+%
+% \begin{macro}{\SectionPrefix}
+% This macro let's one change the appearance of the section number
+% which preceeds the title.
+%    \begin{macrocode}
+\def\SectionPrefix#1{%
+  \def\exam@sectionprefix{%
+    \@ifundefined{SP@sec@\current@section}
+      {#1}
+      \relax}}
+\SectionPrefix{Section \arabic{sectionindex}. \space}
+%    \end{macrocode}
+% \end{macro}
+%
+% \begin{macro}{\ContinuousNumbering}
+% When called, changes the default numbering behavior across sections.
+%    \begin{macrocode}
+\def\ContinuousNumbering{%
+  \let\exam@DefaultNumberingBehavior=\resetcounterfalse}
+\let\exam@DefaultNumberingBehavior=\resetcountertrue
+%    \end{macrocode}
+% \end{macro}
+%
+
+% \begin{macro}{\ShortKey}
+% This macro only includes the answers in the key.
+%    \begin{macrocode}
+\def\exam@SAGobbleQuestionHook{\relax}% default values
+\def\exam@MCGobbleQuestionHook{\relax}
+\def\exam@TFGobbleQuestionHook{\relax}
+\def\exam@FillinGobbleQuestionHook{\relax}
+\def\exam@FillinBlockGobbleQuestionHook{\relax}
+\def\exam@TrueFalseGobbleBlockInstructionsHook{\relax}
+\def\exam@answer{answer}
+\def\exam@enumerate{enumerate}
+\def\exam@list{list}
+
+\long\def\exam@BlockGobbleToBeginEnumerate#1\begin{%
+  \exam@CheckNextTokenForEnumerate}
+\def\exam@CheckNextTokenForEnumerate#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\exam@enumerate
+    \exam@BeginEnumerate
+  \else
+    \expandafter\exam@BlockGobbleToBeginEnumerate
+  \fi}
+\def\exam@BeginEnumerate{\begin{enumerate}}
+
+\long\def\exam@TrueFalseBlockInstructionsGobble#1\exam@StartTrueFalseList{%
+  \exam@StartTrueFalseList}
+
+\long\def\exam@GobbleUpToAnswer#1\begin{%
+  \exam@CheckNextTokenForAnswer}
+\def\exam@CheckNextTokenForAnswer#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\exam@answer
+    \let\exam@next=\exam@PrepareToTypesetAnswer
+  \else
+    \ifx\@tempa\@endquestionhook
+      \let\exam@next=\@endquestionhook
+    \else
+      \let\exam@next=\exam@GobbleUpToAnswer
+  \fi\fi\exam@next}
+\def\exam@PrepareToTypesetAnswer{\begin{answer}}
+
+\long\def\exam@GobbleUpToEndQuestionHook#1\@endquestionhook{%
+  \@endquestionhook}
+
+\long\def\exam@GobbleUpToChoice#1\choice{\choice}
+
+\def\exam@FillinGobbleNext#1{%
+  \ifx #1\blank
+    \let\exam@next=\exam@FillinInsertBlank
+  \else
+    \ifx #1\@endquestionhook
+      \def\exam@insertedblank{no}%
+      .\let\exam@next=\relax
+    \else
+      \let\exam@next=\exam@FillinGobbleNext
+  \fi\fi\exam@next}
+
+\def\exam@FillinBlockGobbleNext#1{%
+  \ifx #1\blank
+    \let\exam@next=\exam@FillinBlockInsertBlank
+  \else
+    \ifx #1\end
+      \let\exam@next=\exam@CheckNextTokenForQuestion
+    \else
+      \let\exam@next=\exam@FillinBlockGobbleNext
+  \fi\fi\exam@next}
+\def\exam@CheckNextTokenForQuestion#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\@Q
+    \expandafter\exam@FillinWrapupAndEndQuestion
+  \else
+    \expandafter\exam@FillinBlockGobbleNext
+  \fi}
+\def\exam@FillinWrapupAndEndQuestion{.\end{question}}
+
+\def\exam@insertedblank{no}
+\def\exam@FillinInsertBlank#1{%
+  \ifx\exam@insertedblank\exam@c@no
+    #1\def\exam@insertedblank{yes}%
+  \else
+    , #1\relax
+  \fi\exam@FillinGobbleNext}
+\def\exam@FillinBlockInsertBlank#1{%
+  \ifx\exam@insertedblank\exam@c@no
+    #1\def\exam@insertedblank{yes}%
+  \else
+    , #1\relax
+  \fi\exam@FillinBlockGobbleNext}
+
+\def\ShortKey{%
+  \def\exam@AddSectionInstructionsHook{%
+    \ifanswer\relax\else\exam@AddSectionInstructions\fi}
+  \def\exam@SAGobbleQuestionHook{%
+    \ifanswer\expandafter\exam@GobbleUpToAnswer\fi}
+  \def\exam@MCGobbleQuestionHook{%
+    \ifanswer\expandafter\exam@GobbleUpToChoice\fi}
+  \def\exam@FillinGobbleQuestionHook{%
+    \ifanswer\expandafter\exam@FillinGobbleNext\fi}
+  \def\exam@FillinBlockGobbleQuestionHook{%
+    \ifanswer\expandafter\exam@FillinBlockGobbleNext\fi}
+  \def\exam@GobbleBlockInstructionsHook{%
+    \ifanswer\expandafter\exam@BlockGobbleToBeginEnumerate\fi}
+  \def\exam@TrueFalseGobbleBlockInstructionsHook{%
+    \ifanswer\expandafter\exam@TrueFalseBlockInstructionsGobble\fi}
+  \let\choice=\exam@ShortChoice}
+
+\def\exam@ShortChoice{%
+  \ifanswer
+    \expandafter\exam@ShortKeyChoice
+  \else
+    \expandafter\exam@DefaultChoice
+  \fi}
+
+\newif\ifOneCorrectAnswerAlreadyGiven
+\OneCorrectAnswerAlreadyGivenfalse
+\def\MultipleChoiceShortKeyPrefix#1{%
+  \def\exam@MultipleChoiceShortKeyPrefix{#1}}
+\MultipleChoiceShortKeyPrefix{}
+
+\newcommand{\exam@ShortKeyChoice}[2][]{%
+  \if#1!%
+    \ifOneCorrectAnswerAlreadyGiven
+    , (\alph{choice})
+    \else
+    \exam@MultipleChoiceShortKeyPrefix
+    (\alph{choice})%
+    \OneCorrectAnswerAlreadyGiventrue
+    \fi
+   \else
+     \stepcounter{choice}%
+  \fi\ignorespaces}
+
+\def\exam@ShortTFItem{%
+  \ifanswer
+    \item[\csname tf@sol\current@question\endcsname]
+  \else
+    \item
+  \fi}
+
+\def\exam@c@yes{yes}
+\def\exam@c@no{no}
+
+\def\exam@MCMinipageWrapperBegin{\begin{minipage}[t]{\noexpand\linewidth}}
+\def\exam@MCMinipageWrapperEnd{\end{minipage}}
+
+\def\DefineAnswerWrapper#1#2{%
+  \def\exam@DefineAnswerEnvironment{%
+    \def\answer{#1}\def\endanswer{#2}}}
+\DefineAnswerWrapper{\begin{description}\item[Answer:]}{\end{description}}
+
+\let\old@pagebreak=\pagebreak
+\def\exam@none{none}
+\def\pagebreak{%
+  \ifx\@currentsectionname\exam@none
+    \setcounter{temp}{\thesection}
+    \stepcounter{temp}
+    \expandafter\def\csname sec\thetemp break\endcsname{\old@pagebreak}
+  \else
+    \expandafter
+    \gdef\csname sec\thesection q\thequestion break\endcsname{\old@pagebreak}
+  \fi}
+
+\def\exam@WhileReadingBreakPageOnVersion#1{%
+  \ifx\@currentsectionname\exam@none
+    \setcounter{temp}{\thesection}%
+    \stepcounter{temp}%
+    \expandafter\def\csname sec\thetemp break\endcsname{%
+      \ifnum\value{version}=#1\relax
+        \old@pagebreak
+      \fi}
+  \else
+    \expandafter
+    \gdef\csname sec\thesection q\thequestion break\endcsname{%
+      \ifnum\c@version=#1
+        \old@pagebreak
+      \fi}
+  \fi}
+\def\exam@DoneReadingBreakPageOnVersion#1{%
+  \ifnum\value{version}=#1\relax
+    \old@pagebreak
+    \fi}
+\let\BreakPageOnVersion=\exam@WhileReadingBreakPageOnVersion
+
+\def\@currentsectionname{none}
+
+\def\IncludeFromFile#1{\def\exam@includefile{#1}}
+
+\def\InsertChunk#1{%
+  \def\exam@chunklookup{#1}%
+  \input{\exam@includefile}}
+
+\def\chunk#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\exam@chunklookup
+    \relax
+  \else
+    \expandafter\exam@GobbleRestOfChunk
+  \fi}
+\def\endchunk{\relax}
+
+\def\exam@chunk{chunk}
+\long\def\exam@GobbleRestOfChunk#1\end{%
+  \exam@CheckNextTokenForChunk}
+\def\exam@CheckNextTokenForChunk#1{%
+  \def\@tempa{#1}%
+  \ifx\@tempa\exam@chunk
+    \end{chunk}%
+  \else
+    \expandafter\exam@GobbleRestOfChunk
+  \fi}
+
+
+%    \end{macrocode}
+% \end{macro}

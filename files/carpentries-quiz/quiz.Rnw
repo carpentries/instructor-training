@@ -1,0 +1,314 @@
+\documentclass[10pt]{interactiveexamdesign}
+\input{header}
+
+\begin{document}
+\SweaveOpts{concordance=FALSE}
+
+\begin{matching}[title={Role Matching}]
+  % Matching question instruction
+  Match the following artists with the listed albums.
+  % This is a comment
+  % \pair{Question}{Answer}
+  \pair{Instructors}{Organize and teach Carpentries workshops}
+  \pair{Mentors}{Support instructors as they build their teaching and technical skills}
+  \pair{Trainers}{Experienced instructors who inspire and prepare our new instructors}
+  \pair{Lesson developers}{Create new lessons}
+  \pair{Curriculum advisors}{Provide high-level guidance on the overall structure of a particular curriculum}
+  \pair{Lesson maintainers}{Make sure lessons stay accurate, up-to-date, functional, and cohesive}
+  \pair{Lesson Infrastructure Team}{Support lesson building and styling}
+  \pair{Assessment Network}{Community for those working on assessment to share resources and discuss best practices}
+  \pair{Champions}{Work to support existing local communities and attract new communities}
+  \pair{Regional Coordinators}{Help to coordinate workshops in their geographical areas}
+  \pair{Code of Conduct Committee}{Keep our community friendly, welcoming, and respectful}
+  \pair{Core Team}{Organise organisation membership, centrally organise workshops, and maintain instructor records.}
+  \pair{Feedback Facilitators}{}
+\end{matching}
+
+\begin{shortanswer}[title=What's your role?]
+% Shortanswer "instruction"
+Think about your various experiences, skills, and interests and then consider which of the roles within the Carpentries organizations that are described above fit you best. 
+%To make a new question
+% \begin{question}Question Text\end{question}
+\begin{question}In what ways would you be interested in working with the Carpentries?\end{question}
+\begin{question}For which roles are you a good fit?\end{question}
+\end{shortanswer}
+
+% You can ignore the rest. Kept in as an example of the question-formatting possible
+
+% \begin{truefalse}[title={True/False (5 pts each)},
+%                   resetcounter=yes,suppressprefix]
+%   Ho, hum, another batch of instructions.  But this time we will make them a
+%   little shorter, because we assume that students realize what they should do.
+
+% \begin{question}
+%   \answer{True} This sentence is not false.
+% \end{question}
+
+% \begin{block}
+%   I don't know why you'd need this, but here is a block of true/false
+%   questions. 
+%   \begin{question}
+%     \answer{True} `Roger \& Me' chronicles one man's attempt to get into
+%     Disneyland so that he can visit Toontown.
+%   \end{question}
+  
+%   \begin{question}
+%     \answer{False} Laden swallows fly faster than unladen swallows, unless
+%     they carry coconuts.
+%   \end{question}
+% \end{block}
+
+% \begin{question}
+%   \answer{True} `Monty Python and the Holy Grail' is a very funny movie.
+% \end{question}
+
+% \begin{question}
+%   \answer{False} All animals are created equal, but some animals are more
+%   equal than others.
+% \end{question}
+% \end{truefalse}
+
+% \begin{fillin}[title={Fill in the blank (5 pts each)}]
+%   Here is a place where you can put some instructions, so that the students
+%   won't get confused when they see a piece of paper with a whole bunch of
+%   questions on it.  Of course, the instructions aren't required to
+%   be \emph{that} lengthy, but you can make them as lengthy as you want so that
+%   people know what you are talking about.
+
+% \begin{question}
+%   How much \blank{wood} would a \blank{woodchuck} chuck, if a \blank{woodchuck}
+%   would \blank{chuck}, wood?
+% \end{question}
+
+% \begin{question}
+%   \blank{Wittgenstein}'s first work was the \textsl{Tractatus-\blank{Logico}
+%   Philosophicus}.
+% \end{question}
+
+%  \begin{block}
+%   I don't know why you'd need this, but here is a block of fill-in-the-blank
+%   questions. 
+%   \begin{question}
+%     \blank{Hobbes} thought that without a strong, \blank{centralized},
+%     effective government, chaos would reign in the state of nature.
+%   \end{question}
+
+%   \begin{question}
+%     One main component of Nietzche's moral philosophy is the \blank{will to
+%       power}.
+%   \end{question}
+% \end{block}
+
+% \begin{question}
+%   Mill's theory of morality is known as \blank{Utilitarianism}
+% \end{question}
+
+% \begin{question}
+%   According to Kant, we should always always always follow the
+%   \blank{categorical} imperative.
+% \end{question}
+% \end{fillin}
+
+% \begin{multiplechoice}[title={A title}, resetcounter=no]
+% These are meant to be multiple-choice questions --- the type you would give
+% students to fill out using scantrons (or whatever you call the number-2 pencil
+% automatic grading machines).
+
+% \begin{question}
+%   How many people live in Wales?
+%     \choice[!]{Approximately 2,811,865.}
+%     \choice{More than in most countries.}
+%     \choice{None.}
+%     \choice{Exactly seventeen.}
+% \end{question}
+
+% \begin{question}
+%   How many cows does it take to graze a field?
+%   \choice{One.}
+%   \choice[!]{Two.}
+%   \choice{Three.}
+%   \choice{Four}
+% \end{question}
+
+% \begin{question}
+%   This is a question.  Which is the correct answer? \ding{217} \hfill
+%   \fbox{ \large\ding{51} }
+%   \choice[!]{ \hfill \fbox{  }}
+%   \choice{ \hfill \fbox{  }}
+%   \choice{ \hfill \fbox{  }}
+%   \choice{ \hfill \fbox{  }}
+%   \choice{ \hfill \fbox{  }}  
+% \end{question}
+
+% \begin{block}
+%   Here is a block of multiple choice questions.
+%   \begin{question}
+%     The official state motto of Idaho is?
+%     \choice{``We're friendly than other states.''}
+%     \choice{``Home of the Unabomber.''}
+%     \choice[!]{``Famous Potatoes.''}
+%     \choice{``Try us, you'll like us.''}
+%   \end{question}
+
+%   \begin{question}
+%     What philosopher declared that human beings are the conduit
+%     through which language passes?
+%     \choice{Martha Stewart}
+%     \choice{Jacques Derrida}
+%     \choice[!]{Martin Heidegger}
+%     \choice{Jacques Cousteau}
+%   \end{question}
+% \end{block}
+
+%   \begin{question}
+%     How many elves does it take to mine tin?
+%     \choice{One.}
+%     \choice[!]{Two.}
+%     \choice{Three.}
+%     \choice{Four}
+%   \end{question}
+% \end{multiplechoice}
+
+% \begin{shortanswer}[title={Short Answer (10 pts each)},
+%                     rearrange=yes,resetcounter=no]
+% This is an example of the \textsf{shortanswer} type of question, where the
+% questions are rearranged between tests.
+
+% \begin{question}
+%   Here is an equation:
+%   \begin{align}
+%     f(x) &= h(x)\\
+%     g(x) &= j(x)
+%   \end{align}
+%   `Twas brillig, and the slithy toves  did gyre and gimble in the wabe;
+%   All mimsy were the borogoves, and the mome raths outgrabe.
+%   \InsertChunk{Sample program no. 1}
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{block}[questions=2]
+%   The first question is \thefirst\ and the last is \thelast.  The quick brown
+%   fox jumped over the lazy dogs.  The quick brown fox jumped over the lazy
+%   dogs.  The quick brown fox jumped over the lazy dogs.  The quick brown fox
+%   jumped over the lazy dogs.  The quick brown fox jumped over the lazy dogs.
+
+%   \begin{question}
+%     As you saw in equation in question---
+%     `Beware the Jabberwock, my son!  The jaws that bite, the claws that catch!
+%     Beware the Jubjub bird, and shun the frumious Bandersnatch!'
+%     \begin{answer}
+%       Ask Lewis Carroll.
+%     \end{answer}
+%   \end{question}
+
+%   \begin{question}
+%     He took his vorpal sword in hand: long time the manxome foe he sought --
+%     so rested he by the Tumtum tree,  and stood awhile in thought.
+%     \begin{answer}
+%       Ask Lewis Carroll.
+%     \end{answer}
+%   \end{question}
+% \end{block}
+
+% \begin{question}
+%   And as in uffish thought he stood, the Jabberwock, with eyes of flame,
+%   came whiffling through the tulgey wood, and burbled as it came!
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   One, two! One, two! And through and through the vorpal blade went snicker-snack!
+%   He left it dead, and with its head he went galumphing back.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `And has thou slain the Jabberwock? Come to my arms, my beamish boy!
+%   O frabjous day! Calooh! Callay!' He chortled in his joy.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `Twas brillig, and the slithy toves did gyre and gimble in the wabe;
+%   all mimsy were the borogoves, and the mome raths outgrabe.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   And as in uffish thought he stood, the Jabberwock, with eyes of flame,
+%   came whiffling through the tulgey wood, and burbled as it came!
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   One, two! One, two! And through and through the vorpal blade went snicker-snack!
+%   He left it dead, and with its head he went galumphing back.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `And has thou slain the Jabberwock? Come to my arms, my beamish boy!
+%   O frabjous day! Calooh! Callay!' He chortled in his joy.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `Twas brillig, and the slithy toves did gyre and gimble in the wabe;
+%   all mimsy were the borogoves, and the mome raths outgrabe.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   And as in uffish thought he stood, the Jabberwock, with eyes of flame,
+%   came whiffling through the tulgey wood, and burbled as it came!
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   One, two! One, two! And through and through the vorpal blade went snicker-snack!
+%   He left it dead, and with its head he went galumphing back.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `And has thou slain the Jabberwock? Come to my arms, my beamish boy!
+%   O frabjous day! Calooh! Callay!' He chortled in his joy.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \begin{question}
+%   `Twas brillig, and the slithy toves did gyre and gimble in the wabe;
+%   all mimsy were the borogoves, and the mome raths outgrabe.
+%   \begin{answer}
+%     Ask Lewis Carroll.
+%   \end{answer}
+% \end{question}
+
+% \end{shortanswer}
+
+\end{document}
+
