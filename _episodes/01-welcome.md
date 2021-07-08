@@ -33,6 +33,8 @@ keypoints:
 
 
 ![Photograph of an icebreaker ship](../fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg)
+Photo credit: Grand-Duc, Wikipedia, http://en.wikipedia.org/wiki/User:Grand-Duc
+
 
 ## Before The Course Begins
 
@@ -105,6 +107,8 @@ organization before starting the training.
 
 ## A Brief Overview of The Carpentries
 
+![Photograph of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/CarpentriesWorkshopFigsLabeled2.svg)
+
 Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of The Carpentries.
 Together, they form a **global community of volunteer researchers, educators, and others** oriented around
@@ -121,8 +125,6 @@ are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
 ## Instructor Training Workshop Overview
-
-![Photograph of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/CarpentriesWorkshopFigsLabeled.svg)
 
 The goal of this training is to provide you with the skills and information you need
 to become a certified Carpentries Instructor. Our expectations of certified
