@@ -44,11 +44,7 @@ To offer more flexible options for our community, we are piloting events that ru
 
 * June 21-24, 2021 *Registration full*
 
-* [July 19-22, 2021](https://www.eventbrite.com/e/online-instructor-training-july-19-22-2021-tickets-157652680411)
-    * 7 am to 11 am North America Pacific Time
-    * 9 am to 1 pm North America Central Time
-    * 3 pm to 8 pm British Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210719T09&p1=64&ah=4)*
+* July 19-22, 2021 *Registration Closed*
 
 * [July 26-29, 2021](https://www.eventbrite.com/e/online-instructor-training-july-26-29-tickets-157666612081)
     * 8 am to 12 noon British Summer Time
