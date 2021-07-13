@@ -43,34 +43,47 @@ Do not use the filter markdownify when specifying an <li> because otherwise fire
 {% endcomment %}
 
 {% for episode in site.episodes %}
-<h1>{{episode.title}} <br/><a href="{{episode.url | absolute_url}}">{{episode.url | absolute_url }}</a></h1>
+<br/>
+<br/>
+
+------------------------- <b>{{episode.title}}</b> -------------------------
+
+<br/><a href="{{episode.url | absolute_url}}">{{episode.url | absolute_url }}</a>
 
 <br/>
+<br/>
+
 <blockquote>
-<h2>Questions:</h2>
+<b>Questions:</b>
+
+<br/>
+
 <ul>
 {% for question in episode.questions %}
 <li>{{question}}</li>
 {% endfor %}
 </ul>
 </blockquote>
-
+<br/>
+<br/>
 <blockquote>
-<h2>Objectives:</h2>
+<b>Objectives:</b>
+<br/>
 <ul>
 {% for objective in episode.objectives %}
 <li>{{objective}}</li>
 {% endfor %}
 </ul>
 </blockquote>
-
-
+<br/>
+<br/>
 
 {{episode.content}}
 
 <blockquote>
   <br/><br/>
-<h2>Keypoints:</h2>
+<b>Keypoints:</b>
+<br/>
 <ul>
 {% for keypoint in episode.keypoints %}
 <li>{{keypoint}}</li>
@@ -125,11 +138,12 @@ $("input#workshop-id").change(function(){
 $( "h1, h2, h3" ).not("blockquote h2").before("<br style='line-height:0px'/><br/>").after("<br/>");
 
 // Also wrap headers in bold, as headers do not transfer over to the etherpad.
-$( "h1, h2, h3" ).not("blockquote h2").wrap("<b>");
+$( "h1, h2" ).not("blockquote h2").wrap("<b>");
 
 // We want to differentiate level 2 and level 3 headers, so I'm progressively adding styling to them, while retaining the bold.
-$("h2").wrap("<i>");
-$("h3").wrap("<u>");
+$("h2").wrap("<b>");
+$("h3").wrap("<i>");
+
 
 
 // //Also need to kill images. Not sure we need to keep images in blockquotes, but eh, might be useful some day if we print it off or something.
@@ -181,11 +195,21 @@ $("blockquote.challenge h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Exercise: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
 });
-$("blockquote.callout h2").each(function(){
-  var oldtext = $(this).text();
-  $(this).text("Callout: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
+// $("blockquote.callout h2").each(function(){
+//   var oldtext = $(this).text();
+//   $(this).text("Callout: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
+  
+// });
+$("blockquote.callout").remove();
+
+
+
+$("blockquote.testimonial").each(function(){
+  var oldtext = $(this).text().replace("—", "\" —");
+  $(this).text("Testimonial: \""+oldtext).wrap("<i>");
   
 });
+
 $("blockquote.discussion h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Discussion: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
@@ -225,6 +249,30 @@ $("pre").each(function(){
 
 //remove all non-essential formatting. (Specifically preserving the container.)
 $("[class]").not(".container").removeClass();
+
+// BBS TODO replace headers with bold only
+
+// $( "h1, h2, h3" ).replaceWith("<b>"+$(this).text()+"</b>");
+
+
+$("h1").each(function(){
+  var oldtext = $(this).text();
+  $(this).replaceWith("<div> -- "+oldtext+" --</div>");
+  //$(this).text("--- "+oldtext+" ---").before("<br/><br/>").wrap("<b>").wrap("<i>");
+});
+
+$("h2").each(function(){
+  var oldtext = $(this).text();
+  $(this).replaceWith("<div> -- -- "+oldtext+" -- --</div>");
+  //$(this).text("--- "+oldtext+" ---").before("<br/><br/>").wrap("<b>").wrap("<i>");
+});
+
+
+$("h3").each(function(){
+  var oldtext = $(this).text();
+  $(this).replaceWith("<div> -- -- -- "+oldtext+" -- -- --</div>");
+  //$(this).text("--- "+oldtext+" ---").before("<br/><br/>").wrap("<b>").wrap("<i>");
+});
 
 // //This is just a check for me to make sure that execution has proceeded this far and I have not messed something fundamental up.
 // //console.log("hi");
