@@ -337,8 +337,11 @@ are wrong in random ways.
 "Diagnostic power" means that each of the wrong choices helps the instructor figure out
 precisely what misconceptions learners have adopted when they select that choice.  
 
-Formative assessments are most powerful when an **instructor responds to the
-results of the assessment**. An instructor may learn they need to change their pace or review a particular concept.
+Formative assessments are most powerful when:
+1. **all learners** are effectively assessed (not only the most vocal ones!) AND
+2. an **instructor responds to the results of the assessment** 
+
+An instructor may learn they need to change their pace or review a particular concept.
 Using formative assessment effectively to discover and address misconceptions 
 is a teaching skill that you can develop with reflective practice.
 
