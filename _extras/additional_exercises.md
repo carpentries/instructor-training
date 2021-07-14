@@ -2,6 +2,32 @@
 layout: page
 title: "Additional Exercises"
 ---
+## Episode 2: Building Skill with Practice
+
+> ## Modeling Novice Mental Models
+>
+> Create a multiple choice question related to a lesson you intend to teach.
+> 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
+> 2. Create your question. How many choices can you think of that will diagnose a specific misconception?
+> 3. Type your question into the Etherpad
+> and **explain the diagnostic power of each choice.**
+> 
+> This exercise should take about 10 minutes.
+{: .challenge}
+
+> ## A Note on MCQ Design
+>
+> *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
+>     If you are having a hard time coming up with diagnostic distractors,
+>     then either you need to think more about your learners' mental models,
+>     or your question simply is not a good starting point for an MCQ.
+> *   When you are trying to come up with distractors,
+>     think about questions that learners asked or problems they had
+>     the last time you taught this subject.
+>     If you have not taught it before,
+>     think about your own misconceptions
+>     or ask colleagues about their experiences.
+{: .callout}
 
 
 ## Episode 9: Equity, Inclusion, and Accessibility
