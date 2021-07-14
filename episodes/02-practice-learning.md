@@ -292,7 +292,93 @@ is complete.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
+One example of formative assessment that we would like to highlight is
+the multiple choice question (MCQ).
+When designed well,
+these can do much more than just measure how much someone knows.
+For example,
+suppose we are teaching children multi-digit addition.
+A well-designed MCQ would be:
 
+~~~
+Q: what is 27 + 15 ?
+a) 42
+b) 32
+c) 312
+d) 33
+~~~
+{: .source}
+
+The correct answer is 42,
+but each of the other answers provides valuable insight.
+
+> ## Identify the Misconceptions
+>
+> Choose one wrong answer and write in the Etherpad what misconception is associated with that wrong answer.
+> This discussion should take about 5 minutes.
+>
+>> ## Solution
+>>
+>> *   If the child answers 32, they are throwing away the carry completely.
+>> *   If they answer 312, they know that they cannot just discard the carried '1',
+>>     but do not understand that it is actually a ten
+>>     and needs to be added into the next column.
+>>     In other words,
+>>     they are treating each column of numbers as unconnected to its neighbors.
+>> *   If they answer 33 then they know they have to carry the 1,
+>>     but are carrying it back into the same column it came from.
+> {: .solution}
+{: .challenge}
+
+Each of these incorrect answers has *diagnostic power*.
+Each answer looks like it could be right:
+silly answers like "a fish!" may offer comic relief, but do not provide any insight; nor do answers that
+are wrong in random ways. 
+"Diagnostic power" means that each of the wrong choices helps the instructor figure out
+precisely what misconceptions learners have adopted when they select that choice.  
+
+Formative assessments are most powerful when an **instructor responds to the
+results of the assessment**. An instructor may learn they need to change their pace or review a particular concept.
+Using formative assessment effectively to discover and address misconceptions 
+is a teaching skill that you can develop with reflective practice.
+
+> ## Handling Outcomes
+>
+> Formative assessments allow us as instructors to adapt our instruction to our audience.
+> What should we do as instructors if the class chooses:
+>
+> 1. mostly one of the wrong answers?  
+> 2. mostly the right answer?  
+> 3. an even spread among options?
+>
+> For one of the above, enter your answer in the Etherpad.   
+>
+> This discussion should take about 5 minutes.
+>
+>> ## Solution
+>> 1. If the majority of the class votes for a single wrong answer, you can stop 
+>> to work on correcting that one particular misconception.  
+>> 2. If most of the class votes
+>> for the right answer, it is probably safe to explain the answer and move on. Helpers can make 
+>> themselves available to help anyone at risk of being left behind. 
+>> 3. If answers are pretty evenly
+>> split between options, learners may be guessing randomly, reflecting an 
+>> absent mental model rather than a broken one. In this case it is a good
+>> idea to go back to a point where everyone was on the same page.
+> {: .solution}
+{: .challenge}
+
+
+Designing an MCQ with plausible distractors is useful
+even if it is never used in class
+because it forces the instructor to think about the learners' mental models
+and how they might be broken---in short,
+to put themselves into the learners' heads
+and see the topic from their point of view.
+
+There are many types of formative assessments other than MCQs. One (non-exhaustive) list
+to supplement the earlier exercise
+can be found in the [Edutopia assessment group][Edutopia].
 
 ## The Importance of Going Slowly 
 
