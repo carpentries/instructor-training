@@ -194,7 +194,7 @@ in the air.
 ![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree3.svg)
 
 This adjustment can take a while! This is because *unlearning* things often takes more effort than learning something new. In the mean time, 
-the clashing mental model may continue to limp along, but will break down in the face of certain kinds 
+the clashing mental model may continue to be used, but will break down in the face of certain kinds 
 of test questions. 
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas in to this simplified format can be useful when preparing to teach, because 
