@@ -233,7 +233,7 @@ think your lesson has good start points for participatory instruction, you may e
 work for a checkout demo. Be sure to give yourself time to change course if your planned lesson will not work. 
 
 ### Sign-up and Set-up 
-To sign up, select a session that works for you on the [the teaching demo schedule Etherpad]({{page.demopad}}), and add
+To sign up, select a session that works for you on the [the teaching demo schedule Etherpad][demo], and add
 your name and a link to your lesson of choice to the Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter 
 link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or 
 language (unless you are part of that target group). 
