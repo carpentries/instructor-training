@@ -30,6 +30,21 @@ title: "Additional Exercises"
 {: .callout}
 
 
+> ## How Many?
+>
+> The Carpentries use formative assessments often. How many have we done during this episode? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
+>
+> This discussion should take about 5 minutes.
+>
+>> ## Solution
+>> This will depend on the event they are attending. Most attendees will guess low.
+>> The purpose of this exercise is to emphasize the importance of frequent formative
+>> assessments and that an individual assessment does not have to take a lot of time.
+> {: .solution}
+{: .challenge}
+
+
+
 ## Episode 9: Equity, Inclusion, and Accessibility
 
  
