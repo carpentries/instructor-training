@@ -325,7 +325,7 @@ def total_length(words):
         total += len(word)
     return total
 ~~~
-{: .python}
+{: .language-python}
 
 then ask learners to fill in the blanks in:
 
@@ -341,7 +341,7 @@ def word_lengths(words):
         lengths ____
     return lengths
 ~~~
-{: .python}
+{: .language-python}
 
 The next problem might be:
 
@@ -357,7 +357,7 @@ def concatenate_all(words):
         ____
     return result
 ~~~~
-{: .python}
+{: .language-python}
 
 and learners would finally be asked to tackle:
 
@@ -370,7 +370,7 @@ def acronymize(words):
     """
     ____
 ~~~
-{: .python}
+{: .language-python}
 
 Another situation in which a concept map can be helpful is in deciding where to place the
 blanks in a faded example. Each blank (or set of blanks) would ideally correspond to one
