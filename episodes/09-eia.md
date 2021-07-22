@@ -43,7 +43,7 @@ integrated manner, with substantially equivalent ease of use.
 
 ### The Carpentries Core Values
 
-In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values](core-values) -- 
+In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values][core-values] -- 
 things that we do, things that we are, and things that we champion. Many of these relate to equity, inclusion, and accessibility. 
 
 > ## Discuss The Carpentries Core Values
