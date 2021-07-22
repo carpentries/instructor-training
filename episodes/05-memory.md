@@ -272,7 +272,7 @@ displays, text, and auditory information presented together
 are the same, with minimal distractions. 
 
 For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen** 
-while engaging learners in [participatory live coding]({{ page.root }}/20-live/).
+while engaging learners in [participatory live coding]({{ page.root }}/17-live/).
 
 One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands** 
 and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access 
