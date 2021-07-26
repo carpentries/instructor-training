@@ -31,14 +31,20 @@ Registration for each event closes one week before that event. You may change or
 To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
 
 * February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
-* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time *Registration Closed*
-* March 15-18, 2021 (9 am to 1 pm North America Central) *Registration Closed*
-* April 12-14, 2021 *Registration Closed*
-* April 12-15, 2021 *Registration Closed*
-* May 3-6, 2021 *Registration Closed*
-* May 4-26, 2021 *Registration Closed*
-* June 7-10, 2021 *Registration Closed* 
 
+* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time *Registration Closed*
+
+* March 15-18, 2021 (9 am to 1 pm North America Central) *Registration Closed*
+
+* April 12-14, 2021 *Registration Closed*
+
+* April 12-15, 2021 *Registration Closed*
+
+* May 3-6, 2021 *Registration Closed*
+
+* May 4-26, 2021 *Registration Closed*
+
+* June 7-10, 2021 *Registration Closed* 
 
 * June 15-18, 2021 *Registration Closed*
 
@@ -71,7 +77,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * January 13-14, 2021 *Registration Closed*
 * March 25-26, 2021 *Registration Closed*
 * June 9-10, 2021 *Registration Closed*
-* [August 2-3, 2021](https://www.eventbrite.com/e/online-instructor-training-august-2-3-2021-n-america-pacific-time-tickets-157668439547) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210802T09&p1=137&ah=8)*
+* August 2-3, 2021 *Registration Closed*
 
 
 #### Central time
