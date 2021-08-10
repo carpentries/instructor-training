@@ -85,7 +85,7 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 * March 23-24, 2021 *Registration Closed*
 * May 19-20, 2021 *Registration Closed*
 * June 15-16, 2021 *Registration Closed*
-* [August 18-19, 2021](https://www.eventbrite.com/e/online-instructor-training-august-18-19-n-america-central-time-tickets-157668862813)  *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210818T09&p1=64&ah=8)*
+* August 18-19, 2021 *Registration Closed*
 
 #### Eastern time
 * January 21-22, 2021 *Registration Closed*
