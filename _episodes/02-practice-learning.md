@@ -75,7 +75,8 @@ an arrow labelled "Experience level" points from left to right. The "Novice" is 
     > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
-You may or may not consider yourself an expert in a given subject, but the definition above may nonetheless apply to you. 
+Note that how a person *feels* about their skill level is not included in these definitions! You may or may not 
+consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts.
 We will come back to the expertise of the Instructor and its impact -- positive and negative -- 
 on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
