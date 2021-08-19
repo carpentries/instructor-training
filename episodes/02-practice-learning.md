@@ -154,16 +154,19 @@ There are certain ways in which you may routinely use visual organizers, such as
 flow charts or biochemical pathway diagrams. A more general tool that is useful for exploring any network of concepts and relationships is a **concept map**. Pioneered for
 classroom use by John Novak in the 1970s, a concept map asks you to identify which concepts are most relevant to a topic at hand and -- critically -- to
 identify how they are connected. It can be quite difficult to identify and organize these connections! However, the process of forcing abstract knowledge into a visual 
-format can often reveal connections or illuminate gaps that you may not have been aware of. Especially where analogies are not available, concept mapping can help 
+format can force you to name connections that you might otherwise have quietly assumed, or illuminate gaps that you may not have been aware of. Especially where analogies are not available, concept mapping can help 
 you to make your mental model of a concept more clear to yourself or others.
 
-As an example, consider a mental model of the relationship between trees and their surrounding environment.
+As an example, consider a mental model of the relationship between a small ball and water in a full glass.
 
-The concept map below illustrates one possible mental model showing a handful of concepts and relationships. Note that it is not comprehensive -- for example, 
-we have left "water" out of the picture for now, to focus more closely on the concepts and relationships here.
+The concept map below illustrates a simple mental model that a young child might develop after putting the ball in the water.
 
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree1.svg)
+![Two words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, with an arrow pointing to "Water", at right, labeled as "Pushes out."](../fig/ballwater1a.svg)
 
+Give a child balls of three different sizes, and they might put together a somewhat more complex mental model, 
+perhaps illustrated as:
+
+![Four words inside rectangles, with labeled arrows connecting them. "Ball" is at the left, and "Water", at right. "Big Ball" and "Small Ball" are stacked vertically between them. Arrows from "Ball" are labeled "can be MORE" and can be "LESS", and arrows to "water" are labeled as "Pushes out MORE" and "Pushes out "LESS"](../fig/ballwater2a.svg)
 
 > ## Mapping a Mental Model
 >
@@ -178,25 +181,19 @@ we have left "water" out of the picture for now, to focus more closely on the co
 
 ## Misconceptions
 
-The mental model above connects a tree to the earth below, recognizing that nutrients in soil are important to the health of a tree. 
-It also connects trees to benefits for the air. This mental model is perfectly functional for someone who wishes to grow a tree -- even a professional gardener! 
-It is also fully functional for most people to make responsible decisions about growing and protecting trees to maximize the quality of the air we breathe.
+The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around.  
+It may endure in this way for several years of beaches and bathtubs.
 
-However, if this person were to sign up for an introductory biology class, they may well be in for a surprise as they strive to add new information to this 
-mental model. Specifically, as they learn about the process of photosynthesis, they will be asked to understand that the carbon that makes sugar -- the *primary* 
-source of food for a tree, actually comes from carbon dioxide in the air. Wow, is that interesting! BUT...
+However, when this child is asked to predict what would happen to the water if a ball were not bigger or smaller but *heavier* or *lighter*, they will naturally apply their existing mental model to the task. 
+BUT...
 
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree2.svg)
+![A concept map similar to the previous one except with "Heavy Ball" and "Light Ball" in the middle, and a red "X" over the arrows labeled "Pushes out MORE" and "Pushes out LESS"](../fig/ballwater3a.svg)
 
-The problem with learning this new information is that it clashes with the pre-existing mental model, in which the "food" for a tree comes from the dirt that 
-it grows in. This prior knowledge needs to be adjusted to a new understanding that soil provides many nutrients to *supplement* the primary food source 
-in the air.  
+What a surprise! The challenge presented by this new information is that it clashes with the pre-existing mental model, to which it seemed to apply. This prior knowledge needs to be adjusted to a new understanding that incorporates the difference between properties of mass and volume.  
 
-![Three words inside rectangles, with labeled arrows connecting them. "Dirt" is at the top, with an arrow pointing to "Tree", at left, labeled as "feeds." An arrow connects "Tree" to "Air," at right, labeled "improves."](../fig/Tree3.svg)
+![A new concept map. "Ball" remains at left, and "Water", at right. "Size" and "Weight" are stacked vertically between them. Arrows from "Ball" share the label "Can have more or less." One arrow from "size to "water" is labeled "Affects pushing of"](../fig/ballwater4a.svg)
 
-This adjustment can take a while! This is because *unlearning* things often takes more effort than learning something new. In the mean time, 
-the clashing mental model may continue to be used, but will break down in the face of certain kinds 
-of test questions. 
+When mental models break, learning can occur more slowly than you might expect. The longer a prior model was in use, and the more extensively it has to be *unlearned*, the more it can actively interfere with the incorporation of new knowledge. Our child may quickly adapt to this new information if they had never thought much about mass before and were simply trying out an existing mental model on a new situation. However, if they had extensive experience with balls that were both larger and heavier (for example), it may take longer to unlearn what they thought they understood about mass.
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas in to this simplified format can be useful when preparing to teach, because 
 it forces you to be explicit about exactly what concepts are at the heart of your topic, and to name relationships between them. 
