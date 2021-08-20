@@ -113,13 +113,6 @@ to better evaluate our impact, and also to understand what the community wants a
 
 At this time we are not seeking registration for lessons taught from The Carpentries Incubator or Carpentries Labs. 
 
-### Instructor Certification is Comprehensive
-
-Certified Carpentries Instructors can teach curricula for any of the lesson programs
-(Data Carpentry, Library Carpentry, and Software Carpentries)
-as they feel able. Instructor badges
-may list a primary lesson program affiliation, but Instructors are **not** required to certify separately for each. For more
-information, see the description of [the Instructor checkout procedure]({{ page.root }}{% link _episodes/14-checkout.md %}).
 
 ### Carpentries Jargon Review
 
