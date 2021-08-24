@@ -257,6 +257,10 @@ choice questions can play this role. A few more that you may wish to consider ar
 
 For more on computational exercises, see this [blog post by Greg Wilson][GW-exercise-post].
 
+
+There are many types of formative assessments that are more general to all sorts of instruction. One (non-exhaustive) list
+can be found in the [Edutopia assessment group][Edutopia].
+
 ### What to Display
 
 The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps 
