@@ -224,64 +224,31 @@ While teaching, we want to expose learners' broken models so that we can help th
 {: .challenge}
 
 
-## Identifying and Correcting Misconceptions with Formative Assessment
+## Using Formative Assessment to Identify Misconceptions
 
-How do we expose misconceptions, especially as they pertain to broken models? How
-can we, in-class, know whether the learners already understand this topic
-(so that the class can move on),
-and if not,
-what misconceptions and gaps in their knowledge we should address?
+It would be so nice if misconceptions were visible! Unfortunately, facial expressions are a terrible metric to evaluate the accuracy of 
+a mental model. In order to effectively root out pre-existing misconceptions 
+that need to be un-learned and stop quietly developing 
+misconceptions in their tracks, an Instructor needs to be actively and persistently looking for them. But how? 
 
-To be effective, instructors need feedback on their learners' progress,
-and insight into their learners' mental models.
-This feedback comes through what we call *formative assessments* (in contrast
-  to *summative assessment*).
+Like so many challenges we will discuss in this training, the answer is **feedback**. In this case, we want feedback 
+that allows us to **assess** the developing mental model of a trainee in highly specific ways, to verify that learning 
+is proceeding according to plan and not careening off in some unpredicted direction. We want to get this feedback **while we teach**
+so that we can respond to that information and adapt our instruction to get learners back on track. 
 
-> ## Summative Assessment
-> *Summative assessment* is used
-> to judge whether a learner has reached an acceptable level of competence.
-> Learners either "pass" or "fail" a summative assessment.
-> One example is a driving exam,
-> which tells the rest of society whether someone can safely be allowed on the road. Most assessment done in university
-> courses is summative, and is used to assign course grades.
-{: .callout}
+This kind of assessment has a name: it is called **formative assessment** because it is applied during learning to form 
+the practice of teaching and the experience of the learner. This is different from exams, for example, 
+which sum up what a participant has learned but are not used to guide further progress 
+and are hence called **summative**.
 
-**Formative assessment** takes place during teaching and learning. It seems like
-a fancy term, but it can be used to describe any interaction or activity
-that provides feedback to both instructors and learners about learners' level of understanding of the
-material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
-their instruction to respond to challenges that learners are facing.  
-
-Learners do not "pass" or "fail" formative assessments; they are simply a feedback mechanism.
-For example, a music teacher might ask a learner to play a scale very slowly
-in order to see whether they are breathing correctly,
-and if not, what they should change.
-
-Formative assessment is most useful when it happens frequently and when the
-results are easily interpretable by the learner and instructor.
-
-> ## Repetition vs. Reflective Practice
->
-> The idea that ten thousand hours of practice will make someone an expert in some field
-> is widely known,
-> but reality is much more complex.
-> Practice is not doing the same thing over and over again:
-> practice is doing similar but subtly different things,
-> getting feedback,
-> and then changing behavior in response to that feedback to get cumulatively better.
-> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
-> Instructor Training program.
-{: .callout}
-
-## Formative Assessments Come in Many Forms
-
-Any assessment tool that is used *formatively* -- that is, in the process of teaching to *form* and adapt continuing instruction -- qualifies as 
-formative assessment. This might include anything from a carefully constructed multiple choice question to a quick call for sticky notes to assess whether a task 
-is complete.
+Feedback from formative assessment illuminates misconceptions for both Instructors and learners. It also provides 
+reassurance on both sides when learning *is* proceeding on track! It is far more reliable than reading faces 
+or using feelings of comfort as a metric, which tends to be what Instructors and learners default to 
+otherwise.
 
 > ## Formative Assessments
 >
+> Any instructional tool that generates feedback that is used in a formative way can be described as "formative assessment." 
 > Based on your previous educational experience (or even this training so far!)
 > what types of formative assessments do you know about?
 >
@@ -290,10 +257,14 @@ is complete.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-One example of formative assessment that we would like to highlight is
+Formative assessments can serve many purposes other than hunting down misconceptions, such as verifying 
+engagement or supporting memory consolidation. We will discuss some of these functions 
+in later episodes. In this section, we are interested quite narrowly in evaluating mental models.
+
+One example of formative assessment that can be used to tease out misconceptions is 
 the multiple choice question (MCQ).
-When designed well,
-these can do much more than just measure how much someone knows.
+When designed carefully,
+these can target anticipated misconceptions with surgical precision.
 For example,
 suppose we are teaching children multi-digit addition.
 A well-designed MCQ would be:
@@ -328,16 +299,16 @@ but each of the other answers provides valuable insight.
 > {: .solution}
 {: .challenge}
 
-Each of these incorrect answers has *diagnostic power*.
+Each of these incorrect answers has **diagnostic power**
 Each answer looks like it could be right:
-silly answers like "a fish!" may offer comic relief, but do not provide any insight; nor do answers that
+silly answers like "a fish!" offer therapeutic comedy but do not provide insight; nor do answers that
 are wrong in random ways. 
 "Diagnostic power" means that each of the wrong choices helps the instructor figure out
 precisely what misconceptions learners have adopted when they select that choice.  
 
 Formative assessments are most powerful when:
 1. **all learners** are effectively assessed (not only the most vocal ones!) AND
-2. an **instructor responds to the results of the assessment** 
+2. an **instructor responds promptly to the results of the assessment** 
 
 An instructor may learn they need to change their pace or review a particular concept.
 Using formative assessment effectively to discover and address misconceptions 
@@ -346,22 +317,22 @@ is a teaching skill that you can develop with reflective practice.
 > ## Handling Outcomes
 >
 > Formative assessments allow us as instructors to adapt our instruction to our audience.
-> What should we do as instructors if the class chooses:
+> What options do we have if a majority of the class chooses:
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
 > 3. an even spread among options?
 >
-> For one of the above, enter your answer in the Etherpad.   
+> Choose one of the above scenarios and compose a suggested response to it in the Etherpad.   
 >
 > This discussion should take about 5 minutes.
 >
 >> ## Solution
->> 1. If the majority of the class votes for a single wrong answer, you can stop 
->> to work on correcting that one particular misconception.  
+>> 1. If the majority of the class votes for a single wrong answer, you have a widespread misconception 
+>> and can stop to examine and that misconception.  
 >> 2. If most of the class votes
->> for the right answer, it is probably safe to explain the answer and move on. Helpers can make 
->> themselves available to help anyone at risk of being left behind. 
+>> for the right answer, it is ok to explain the answer and move on. Helpers can make 
+>> themselves available to assist anyone who still feels uncertain. 
 >> 3. If answers are pretty evenly
 >> split between options, learners may be guessing randomly, reflecting an 
 >> absent mental model rather than a broken one. In this case it is a good
@@ -369,19 +340,20 @@ is a teaching skill that you can develop with reflective practice.
 > {: .solution}
 {: .challenge}
 
-
-Designing an MCQ with plausible distractors is useful
-even if it is never used in class
-because it forces the instructor to think about the learners' mental models
-and how they might be broken---in short,
+Designing a few MCQs with diagnostic power is useful
+when preparing to teach even if they are never used, for the same reason that concept 
+mapping can be useful: it forces the instructor to think about the learners' mental models
+and try to anticipate how they might be broken. In short, it helps Instructors 
 to put themselves into the learners' heads
-and see the topic from their point of view.
+and see the topic from their point of view. We will talk more about the process of preparing to teach 
+in a later episode.
 
-There are many types of formative assessments other than MCQs. One (non-exhaustive) list
-to supplement the earlier exercise
-can be found in the [Edutopia assessment group][Edutopia].
 
 ## The Importance of Going Slowly 
+
+It takes work to actively assess mental models throughout a workshop; this also takes time. This 
+can make Instructors feel conflicted about using formative assessment routinely. However, the need to 
+conduct routine assessment is not the only reason why a workshop **should proceed more slowly than you think**. 
 
 One key insight from research on cognitive development is that
 novices, competent practitioners, and experts each need to be taught differently.
@@ -390,7 +362,7 @@ presenting novices with a pile of facts early on is counter-productive,
 because they do not yet have a model or framework to fit those facts into.
 In fact,
 **presenting too many facts too soon can actually reinforce
-an incorrect mental model**. (This is a key problem with the "empty vessel" analogy.)
+an incorrect mental model**. (This is a key problem with the "empty vessel" analogy described earlier.)
 
 Most learners coming to Carpentries lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
