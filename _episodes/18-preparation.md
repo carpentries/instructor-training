@@ -36,6 +36,20 @@ some structure for that preparation.
 
 ![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
 
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> Practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
+> Instructor Training program.
+{: .callout}
+
 ### Anticipating Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
