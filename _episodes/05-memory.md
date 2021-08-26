@@ -25,16 +25,16 @@ specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 Learning involves memory. For our purposes, human memory can be divided into two different
 layers.
-The first is called *long-term*.
+The first is called **long-term**.
 It is where we store persistent information like our friends' names and our home address.
 It is essentially unbounded
 (barring injury or disease, we will die before it fills up)
 but it is slow to access.
 
-Our second layer of memory is called *short-term*. This is the
+Our second layer of memory is called **short-term**. This is the
 type of memory you use to actively think about things and is often called working memory. It is much faster, but also much
 smaller: in 1956, George Miller estimated that the average adult's short-term memory could hold
-[7±2 items][wikipedia-7] for a few seconds before things started to drop out.
+**[7±2 items][wikipedia-7]** for a few seconds before things started to drop out.
 This is why phone numbers are typically 7 or 8 digits long:
 back when phones had dials instead of keypads,
 that was the longest sequence of numbers most adults could remember accurately
@@ -90,7 +90,7 @@ short term memory with too many separate pieces of information. Does this mean w
 teach fewer concepts? Yes! However, this is not the only tool in our toolbox. 
 We can also assist by providing strategies
 and exercises to help them form the connections that will a) support them in holding more 
-things in short-term memory at once and b) begin to *consolidate* some concepts, moving them into
+things in short-term memory at once and b) begin to **consolidate** some concepts, moving them into
 long-term memory.
 
 ### Chunking
@@ -121,7 +121,7 @@ more information in your head at once.
 You may have come across other mnemonic strategies, including some that rely on imagining a 
 "place" association for each item, e.g. a "memory palace." While slightly different from 
 chunking, this is another example of how 
-*connecting* information can make it easier to remember.
+**connecting information can make it easier to remember**.
 
 
 ### Using Formative Assessment to Support Memory Consolidation
@@ -132,7 +132,7 @@ retrieving recently-learned information and actively applying it to solve a prob
 to both reinforce and connect that new information in useful ways.
 
 The limitations of short-term 
-memory are one reason why assessments should be frequent: short-term memory is limited not only in 
+memory are one reason why **assessments should be frequent**: short-term memory is limited not only in 
 space, but also in time. If you wait too long before deploying a formative assessment,
 some of the information necessary to complete the task will already be forgotten. This time window can be very short, 
 especially if a lot of content is being taught at once! Be sure to remind learners about prior concepts 
@@ -152,9 +152,9 @@ to circulate and address lingering questions or engage with more advanced discus
 
 Reflection is another tool that can help learners review things they have 
 learned, strengthen connections between them, and consolidate long-term memories. Like 
-formative assessment, asking 
+formative assessment, **asking 
 learners for feedback can double as both a source of information and an effective consolidating 
-prompt, as providing feedback demands some reflection on what has been learned. We will talk 
+prompt**, as providing feedback demands some reflection on what has been learned. We will talk 
 more about methods for this in the next section. You may also wish to pause 
 and allow learners to write summary notes for themselves or otherwise ask them to review 
 what they have learned at various points in the workshop.
@@ -235,29 +235,29 @@ transferring attention to a new feature.
 
 
 ## Attention Management in Your Workshop
-Broadly, guided practice means providing structure for learners that asks them to 
-actively engage with practice in manageable increments. This stands in contrast, for 
-example, with a "lecture/lab" type arrangement, in which learners may be expected to apply 
-everything they have learned in a long lecture to implement a complex lab exercise. 
+Carpentries lessons include small tasks arranged incrementally 
+which are intended to be completed together, through participatory live coding (a technique we will discuss in more detail 
+later in this training). 
 
-The Carpentries approach to instruction uses participatory live coding, a technique we will discuss 
-in more detail tomorrow. Carpentries lessons generally contain small tasks arranged incrementally 
-which may be completed together, with interspersed challenges asking learners to accomplish a small number of things 
-based on limited prior knowledge. 
-
-You have many choices in how you use these curriculum materials, including exercises that may be added 
-for practice or formative assessment, decisions to work in groups or pairs, and choices about what to 
-display for learners while they work. We will briefly consider the implications in each case for memory, 
-attention, and learning.
+The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation 
+can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimize 
+cognitive load by choosing formative assessments that are 
+narrowly focused and by considering potential distractions in what you display during instruction.
 
 ### Using Formative Assessments for Guided Practice
+
 There are
-many different types of exercises that focus attention narrowly and help to avoid cognitive overload. 
+many different types of exercises that can focus attention narrowly and help to avoid cognitive overload. 
 Carefully targeted multiple choice questions can play this role. 
 A few more that you may wish to consider are:
 * [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
 * [Parson's Problems][wikipedia-parsons]: out-of-order code selection & sorting challenges
 * Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
+
+Beware assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced 
+some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novice learners. Questions 
+that ask learners to both remember and synthesize or reason with new information are also risky. If you try out 
+a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach... or you may only need a more narrowly focused question.
 
 
 ### What to Display
