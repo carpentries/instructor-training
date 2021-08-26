@@ -123,34 +123,26 @@ You may have come across other mnemonic strategies, including some that rely on 
 chunking, this is another example of how 
 *connecting* information can make it easier to remember.
 
-### Active Learning Through Formative Assessment
+
+### Using Formative Assessment to Support Memory Consolidation
 
 Formative assessment is a key component in helping learners solidify their understanding
-and begin transferring ideas into long-term memory. The limitations of short-term 
+and begin transferring ideas into long-term memory. Why? Because it engages the brain in 
+retrieving recently-learned information and actively applying it to solve a problem. This helps 
+to both reinforce and connect that new information in useful ways.
+
+The limitations of short-term 
 memory are one reason why assessments should be frequent: short-term memory is limited not only in 
-space, but also in time. As items begin to be consolidated into long-term memory, they also 
-become more consistently accessible for application during the workshop.
-
-Formative assessment will help learners to retain new information. However, it also sometimes 
-asks them to integrate things they may have already forgotten. The fact that a concept 
-was previously taught at a workshop does not mean that it will automatically be available for 
-use once its (very brief!) short-term memory window has expired. Be sure to remind learners of prior concepts 
-essential to a task. 
-
-### Limit concepts
-
-In the same vein as "going slowly," it is important to limit the number of
-concepts introduced in a lesson. This can be hard! As you are reviewing a lesson 
-to teach, you will doubtless come across related concepts that are very useful, and 
-you may feel strongly motivated to sneak them in. 
-Planning your lesson with a concept map can help you 
-not only identify key concepts and relationships, but also to notice when you are trying to 
-teach too many things at once. 
+space, but also in time. If you wait too long before deploying a formative assessment,
+some of the information necessary to complete the task will already be forgotten. This time window can be very short, 
+especially if a lot of content is being taught at once! Be sure to remind learners about prior concepts 
+essential to a task. When you no longer need to remind them, this is a sign that your efforts in 
+supporting memory consolidation have worked!
 
 ### Group Work
 
-_Elaboration_, or explaining your work, supports transfer 
-to long-term memory. This is one reason why *teaching* is one of the most effective ways to learn! 
+**Elaboration**, or explaining your work, supports transfer 
+to long-term memory. This is one reason why **teaching is one of the most effective ways to learn**! 
 Group work can feel uncomfortable at first and consumes time in a workshop, but 
 learners often rate group work as a high point for both enjoyment and learning in a workshop. 
 This is also a great opportunity for helpers 
@@ -167,29 +159,40 @@ more about methods for this in the next section. You may also wish to pause
 and allow learners to write summary notes for themselves or otherwise ask them to review 
 what they have learned at various points in the workshop.
 
+### Limit concepts
+
+In the same vein as "going slowly," it is important to limit the number of
+concepts introduced in a lesson. This can be hard! As you are reviewing a lesson 
+to teach, you will doubtless come across related concepts that are very useful, and 
+you may feel strongly motivated to sneak them in. 
+Planning your lesson with a concept map can help you 
+not only identify key concepts and relationships, but also to notice when you are trying to 
+teach too many things at once. 
+
 
 ## Attention is a Limited Resource: Cognitive Load
 
-Memory is not the only cognitive resource that is limited. Attention is constrained as well. 
+Memory is not the only cognitive resource that is limited. Attention is constrained as well, which can 
+limit the information that enters short term memory in the first place as well as interfere with attempts 
+at consolidation. 
 While many people believe that they can "multi-task," the reality is that attention can 
 only focus on one thing at a time. Adding items that demand attention adds more things 
 to alternate between attending to, which can reduce efficiency and performance on all of them.
-the theory of *[cognitive load][wikipedia-cognitive-load]*.
+the theory of **[cognitive load][wikipedia-cognitive-load]**.
 There are different theories of cognitive load, but one by Sweller posits that people have to 
 attend to three types of things when they are learning:
 
-*   Things they have to think about in order to *perform a task* ("intrinsic").
-*   Mental effort required to *connect the task* to new and old information ("germane").
-*   *Distractions* and other mental effort not directly related to performing or learning from the task ("extraneous").
+*   Things they have to think about in order to **perform a task** ("intrinsic").
+*   Mental effort required to **connect the task** to new and old information ("germane").
+*   **Distractions** and other mental effort not directly related to performing or learning from the task ("extraneous").
 
 Cognitive load is not always a bad thing! There is plenty of evidence that *some* difficulty is desirable 
 and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular 
-attention to extraneous load, can help prevent *cognitive overload* from impeding learning altogether. 
+attention to extraneous load, can help prevent **cognitive overload** from impeding learning altogether. 
 
-One way to manage cognitive load as tasks become more complex is by using *guided practice*: 
-creating a structure in which learners can
-apply their skills in stepped, precisely targeted ways and get feedback on their progress before 
-transferring their attention to a different element to be learned.
+One way to manage cognitive load as tasks become more complex is by using **guided practice**: 
+creating a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with feedback at each step before 
+transferring attention to a new feature.
 
 > ## Is Guided Practice "Hand Holding?"
 >
@@ -200,7 +203,8 @@ transferring their attention to a different element to be learned.
 > variously known as *constructivist*, *discovery*, *problem-based*, *experiential*
 > or *inquiry-based* learning.
 >
-> These strategies are not without merit! But they frequently fall flat. 
+> These strategies are not without merit! Indeed, they can work exceptionally well with advanced learners.
+> However, they frequently fall flat, especially with novice audiences. 
 > A landmark paper by [Kirshner et al.][kirschner-paper] 
 > responds to the popularity and uneven success of minimal guidance, applying 
 > cognitive load theory to understand why these strategies often fail.
@@ -209,11 +213,11 @@ transferring their attention to a different element to be learned.
 > implying that learners who receive support may never learn 
 > to function independently. This view fails to account for the *additional cognitive 
 > load* experienced by novices creating new connections while learning a task. 
-> Minimally-guided instruction requires learners to simultaneously
+> **Minimally-guided instruction requires learners to simultaneously
 > master a domain's factual content
-> and its search and problem-solving strategies. Fostering creativity and independence takes time.
+> AND its search and problem-solving strategies.** Fostering creativity and independence takes time.
 > Minimal guidance is intuitively appealing,
-> but that does not mean it works.
+> but that does not mean it always works.
 {: .callout}
 
 > ## Mapping Cognitive Load
@@ -224,7 +228,7 @@ transferring their attention to a different element to be learned.
 > 2. Draw a concept map connecting these concepts. What relationships do learners need to understand to connect them?  
 > 3. How many of these concepts and relationships have been introduced since the previous step or exercise?  
 > 
-> With a partner or in small groups, discuss what you have found. 
+> With a partner or in small groups, discuss what you have found. Are your learners at risk of cognitive overload at this point in your workshop? Why or why not?
 > 
 > This exercise should take about 15 minutes.
 {: .challenge}
@@ -246,20 +250,15 @@ for practice or formative assessment, decisions to work in groups or pairs, and 
 display for learners while they work. We will briefly consider the implications in each case for memory, 
 attention, and learning.
 
-### Creating Exercises
-
+### Using Formative Assessments for Guided Practice
 There are
-many different types of exercises that are compatible with guided practice. Carefully targeted multiple 
-choice questions can play this role. A few more that you may wish to consider are:
-* Faded examples: fill-in-the-blank programming blocks
-* Parson's Problems: out-of-order code sorting challenges
+many different types of exercises that focus attention narrowly and help to avoid cognitive overload. 
+Carefully targeted multiple choice questions can play this role. 
+A few more that you may wish to consider are:
+* [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
+* [Parson's Problems][wikipedia-parsons]: out-of-order code selection & sorting challenges
 * Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
 
-For more on computational exercises, see this [blog post by Greg Wilson][GW-exercise-post].
-
-
-There are many types of formative assessments that are more general to all sorts of instruction. One (non-exhaustive) list
-can be found in the [Edutopia assessment group][Edutopia].
 
 ### What to Display
 
@@ -270,7 +269,7 @@ displaying Carpentries curriculum materials** to your learners while you teach.
 The visual environment in a workshop should be focused on exactly what you are teaching and should mirror, 
 as closely as possible, exactly what you say. 
 This is because keeping track of distracting and contradictory sensory information adds to cognitive load. 
-The *[split-attention effect][wikipedia-split-attention]* describes the cognitive effort involved with 
+The **[split-attention effect][wikipedia-split-attention]** describes the cognitive effort involved with 
 trying to assemble information from different modalities. Learning is most effective when visual 
 displays, text, and auditory information presented together
 are the same, with minimal distractions. 
@@ -306,4 +305,6 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
-[GW-exercise-post]: https://third-bit.com/2017/10/16/exercise-types/
+[wikipedia-faded]: https://en.wikipedia.org/wiki/Worked-example_effect
+[wikipedia-parsons]: https://en.wikipedia.org/wiki/Parsons_problems
+
