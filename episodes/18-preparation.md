@@ -23,20 +23,13 @@ One thing we have emphasized is that **teaching is a skill** - and a complex one
 Whether you are new to teaching or skilled in certain methods, adding new features takes takes time, effort, and deliberate practice. In this episode, 
 we will walk through some suggestions about how to prepare yourself for success in the classroom.
 
-As in other sections, **we will not discuss technical preparation**. Carefully reviewing the content of your workshop is important! 
-However, it is common for new Instructors to
-over-prepare on technical content -- which can be endless if you anticipate every possible question! -- and under-prepare the 
-learner-centered elements of their teaching practice. If you encounter
-technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive 
-feedback! On the other hand, neglecting
-to attend to the audience can have a significant and lasting negative impact on a workshop.
-
-When you prepare to teach a workshop, 
-we suggest setting aside time *before* deeply reviewing your technical content to **think through the learner experience, how
-your teaching will translate into their learning, and how both of you will know when that happens**. In this episode, we will provide
-some structure for that preparation.
-
-![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
+As in other sections, we will not discuss technical preparation. Carefully reviewing the content of your workshop is important! 
+However, **it is common for new Instructors to
+over-prepare on technical content** -- which can be endless! -- and under-prepare the 
+learner-centered elements of their teaching practice. If you encounter questions that you can't answer, 
+demonstrating how you Google things may earn surprisingly positive feedback! In contrast, neglecting
+to attend to the audience usually has much more serious consequences for learning and morale. When you prepare to teach, 
+we therefore suggest setting aside time *before* deeply reviewing your technical content to **plan your approach to instruction**. 
 
 
 ## Anticipate Your Audience
@@ -45,6 +38,9 @@ To teach effectively, you have to know *who* you are teaching. You may have a br
 (we hope!) have a plan to learn a few things about your participants after a class has begun. However, in thinking about your learners, it is 
 also important to consider the broader contexts they bring in ways that you will never get to fully explore in your classroom. It can be helpful
 to reserve time to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others. 
+
+![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
+
 
 > ## Imagine a Learner
 >
@@ -66,43 +62,17 @@ The Carpentries strives to create useful assessment instruments that can help yo
 right up to the start of your workshop. Be sure to check the links sent by The Carpentries Workshop Administration Team for the most up-to-date information 
 about your trainees. If you think our surveys could benefit from new or different questions, please let us know!
 
-## Reverse Your Preparation Process
-
-Now that you have a sense of who might be in your classroom, a good next step is to think through **their experience with the content you plan to teach**. 
-This is different from thinking through the content itself. 
-
-In curriculum design, most people naturally approach development in the order in which they use it. Lessons first, then assessments. Learning objectives
-are often created last, if they are created at all. However, learning objectives play the important role of focusing attention on the **learner experience**.
-
-In course design, therefore, we strive to take a ["reverse" approach][Wiggins]. The order of course design in this case becomes
-
-1.  Determine learning objectives, deciding what constitutes evidence that each has been met
-2.  Design assessments to generate that evidence, and sort in order of increasing complexity
-3.  Design lesson content to connect assessments
-
-This process is much more likely to lead to an appropriately stepped curriculum that guides learners to specific goals and demonstrates to both instructors
-and learners that those goals have been met. 
-
-In the case of Carpentries workshops, the lesson has already been designed, and pre-written exercises are often available to use for assessment. Yet, the 
-the design process has many similarities to preparation, including a common tendency to start with technical content review, 
-work through the exercises, and maybe 
-(or maybe not) think through the learning objectives. Here, **reverse 
-instructional design** principles might be applied as follows: 
-
-1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
-2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 
-3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
 ## Examine Learning Objectives
 All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice these
-in your lesson? In the best 
-cases they are quite specific about what a learner should be able to do by the end of each episode.
-This can be helpful in both designing additional formative assessments and in evaluating potential additions or digressions for 
+in your lesson? In the most 
+cases they are quite specific about **what a learner should be able to do** by the end of the episode.
+This is helpful in both designing extra formative assessments and in evaluating possible additions or digressions for 
 appropriateness.
 
-When thinking about learning objectives, it is important to keep the 'level' of a learner in mind. There are many ways of conceptualizing 'level' in education. 
-However, you probably have your own sense of what kinds of goals can be achieved by a novice, and what kinds of things can
-only be achieved after some 'groundwork' has been laid. 
+Carpentries learning objectives should target novice learners. This typically means that the actions specified by the learning objective should be 
+basic and uncomplicated. These might include words like "recognize," "distinguish," or "use." They typically do not include words like "design," "evaluate," or "break down" 
+because these imply more complex cognitive actions even where the focal content is the same. 
 
 > ## Evaluate Learning Objectives
 >
@@ -110,34 +80,30 @@ only be achieved after some 'groundwork' has been laid.
 > then add numbers below your objective to address the following:
 >
 > 1. Write your learning objective in the Etherpad. 
-> 2. Suppose a learner had mastered this objective, and wanted to do more to advance their mastery of the same topic. Identify an objective they could work towards next.
+> 2. Suppose a learner had mastered this objective, and wanted to try something more cognitively challenging on the exact same topic (i.e. **not** a next step in a workflow). Identify an objective they could work towards next.
 > 3. Suppose a learner struggled to meet the specified objective. What might they be missing? Identify one more fundamental thing a learner needs to be able to do in order to be successful in meeting this objective.
 >
 > This exercise should take about 10 minutes.  
 {: .challenge}
 
+Some answers above may include words like "know" and "understand." Surely this is the objective of all teaching! However, 
+these terms are quite difficult to use when it comes time to *assess* whether a learner has met 
+that objective. Where you encounter these, consider how they may be improved by making them specific to an outcome that is readily assessed.
+
 
 ## Prepare to Use Formative Assessments
-In your answers above, you may have found yourself using words like "know" and "understand." These are words we are accustomed to using when we talk about 
-teaching and learning! However, these terms are so broad that they are actually quite difficult to use when it comes time to *assess* whether a learner has met 
-that objective. When do you *know* something? What does it mean to *understand*? 
-
-When we want to check on the completion of a learning objective, we create tasks, and these tasks usually test knowledge and understanding in very specific ways.
-For example, we might ask a learner to *recognize* a correct answer, or to *distinguish* between correct and incorrect answers. After working through an example, 
-we might ask them to *apply* their knowledge to a new task. When words like these are used in learning objectives, it makes it easier to decide how to assess 
-whether an objective has truly been met. 
-
 When a learning objective has been met, everyone should know about it! You, as an Instructor, can be satisfied that your teaching has successfully translated
 into learning. For learners, recognizing that they have successfully learned something is motivating and it also supports their ability to monitor their own 
 progress -- this awareness, or **metacognition**, is especially key to supporting continued learning beyond the classroom. However, not all lessons have 
-checkpoints built in where such progress is made clear.
+checkpoints built in where such progress is made clear. Where they do, they can pass unnoticed in the absence of focused recognition.
 
 > ## Where are your checkpoints?
 >
 > Have a look at your learning objective again and identify
 > *where* in the lesson that objective should reasonably be achieved. 
 >
-
+> This exercise should take about 5 minutes.
+{: .challenge}
 
 When subject area experts design instruction, they are often over-eager to get their learners to work with content they have learned in advanced ways. These 
 might include tasks that ask learners to synthesize information from different sources, or create something new based on what they have learned. It is essential 
