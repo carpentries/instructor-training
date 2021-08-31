@@ -15,34 +15,21 @@ keypoints:
 - "A good exercise informs Learners and Instructors when an objective is achieved."
 ---
 ## Building Teaching Skill
-At this point in the workshop, we have discussed many cognitive principles and teaching practices that guide collaborative 
-development and maintenance of The Carpentries curricula. We hope you are also feeling excited and optimistic about putting 
-those concepts to work in your teaching practice! 
+In this training, we have discussed many cognitive principles and teaching practices that guide underlie the design and 
+implementation of Carpentries Workshops.
+We hope you are feeling excited and optimistic about putting 
+those concepts to work! 
 One thing we have emphasized is that **teaching is a skill** - and a complex one at that. 
-Whether you are new to teaching or skilled in certain methods, adding new features takes takes effort and practice! In this episode, 
-we will walk through some techniques for preparing to teach a workshop that we hope will help you to develop goals
-and implementation plans that are specific to a workshop. 
+Whether you are new to teaching or skilled in certain methods, adding new features takes takes time, effort, and deliberate practice. In this episode, 
+we will walk through some suggestions about how to prepare yourself for success in the classroom.
 
-
-> ## Repetition vs. Reflective Practice
->
-> The idea that ten thousand hours of practice will make someone an expert in some field
-> is widely known,
-> but reality is much more complex.
-> Practice is not doing the same thing over and over again:
-> practice is doing similar but subtly different things,
-> getting feedback,
-> and then changing behavior in response to that feedback to get cumulatively better.
-> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
-> Instructor Training program.
-{: .callout}
-
-As with other sections of this training, **we will not be discussing technical preparation**. Carefully reviewing the content of your workshop is important, and it
-can be useful to anticipate learner questions and update your knowledge accordingly. However, it is common for new Instructors to
-over-prepare on technical content -- which can be endless! -- and under-prepare the learner-centered elements of their teaching practice. If you encounter
-technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive feedback. On the other hand, neglecting
-to attend to your audience can have a significant negative impact on your workshop.
+As in other sections, **we will not discuss technical preparation**. Carefully reviewing the content of your workshop is important! 
+However, it is common for new Instructors to
+over-prepare on technical content -- which can be endless if you anticipate every possible question! -- and under-prepare the 
+learner-centered elements of their teaching practice. If you encounter
+technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive 
+feedback! On the other hand, neglecting
+to attend to the audience can have a significant and lasting negative impact on a workshop.
 
 When you prepare to teach a workshop, 
 we suggest setting aside time *before* deeply reviewing your technical content to **think through the learner experience, how
@@ -241,6 +228,26 @@ What will you keep the same, and what will you do differently?
 Just a few moments of reflective practice with prior feedback will go a long way towards building your skill as a teacher and making each workshop you teach 
 better than the last.
 
+
+> ## Repetition vs. Reflective Practice
+>
+> The idea that ten thousand hours of practice will make someone an expert in some field
+> is widely known,
+> but reality is much more complex.
+> Practice is not doing the same thing over and over again:
+> practice is doing similar but subtly different things,
+> getting feedback,
+> and then changing behavior in response to that feedback to get cumulatively better.
+> Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
+> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
+> Instructor Training program.
+{: .callout}
+
+
+## Connect With Your Team
+Are you teaching with some of the same team-members you taught with previously? If so, this is a great time for *collaborative* feedback review! Depending on 
+your team's preferences, many of the independent preparation steps described here can be carried out collaboratively or at least in good company. In addition, 
+we will talk about how to prepare with your team to create a cohesive classroom experience in a later episode.
 
 
 [Wiggins]: https://www.worldcat.org/title/understanding-by-design/oclc/56491025
