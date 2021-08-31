@@ -74,7 +74,12 @@ workshop. You will not know who is going through a rough break-up, who struggles
 breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your 
 best self and provide an inclusive environment for everyone.
 
-## Reverse your Preparation Process
+### Remember Your Pre-Workshop Surveys
+The Carpentries strives to create useful assessment instruments that can help you plan and understand your workshop. Pre-survey data will likely accumulate 
+right up to the start of your workshop. Be sure to check the links sent by The Carpentries Workshop Administration Team for the most up-to-date information 
+about your trainees. If you think our surveys could benefit from new or different questions, please let us know!
+
+## Reverse Your Preparation Process
 
 Now that you have a sense of who might be in your classroom, a good next step is to think through **their experience with the content you plan to teach**. 
 This is different from thinking through the content itself. 
@@ -226,6 +231,15 @@ little to be gained by "quickly covering" (but not actually teaching) content.
 able to find a way to fit certain concepts in with later content if they know it has been missed.
 - **Communicate with your learners** about where they can find skipped content and whether any help may be available to support their independent work. Cutting 
 content may make them feel anxious, but it will help for them to know how to follow up.
+
+
+## Review Prior Feedback
+When is the best time to review your post-workshop survey responses and other feedback that you received during a workshop? We certainly recommend 
+taking time to do this after a workshop, while your memories are still fresh. However, we *also* recommend having a look again **before you teach your 
+next workshop**. This will help refresh your memory of all that went well (yay!) as well as challenges you faced and learners who struggled at certain points. 
+What will you keep the same, and what will you do differently? 
+Just a few moments of reflective practice with prior feedback will go a long way towards building your skill as a teacher and making each workshop you teach 
+better than the last.
 
 
 
