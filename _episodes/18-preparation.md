@@ -88,7 +88,16 @@ because these imply more complex cognitive actions even where the focal content 
 
 Some answers above may include words like "know" and "understand." Surely this is the objective of all teaching! However, 
 these terms are quite difficult to use when it comes time to *assess* whether a learner has met 
-that objective. Where you encounter these, consider how they may be improved by making them specific to an outcome that is readily assessed.
+that objective. They are also quite ambiguous with regard to the *level* of understanding to be achieved. Where you encounter these, 
+consider how they may be improved by making them specific to an outcome that is clearly achievable and readily assessed.
+
+### Beware the Urge to Complicate
+When experts teach, they are often eager to advance their learners to higher cognitive levels where challenges seem more interesting or valuable. 
+If the learning objectives in your lesson seem a bit dull, you can understand the appeal! And the goal is laudable. However, teaching is an incremental process, 
+and giving in to this urge can result in skipping steps (see "expert awareness gap" in previous episodes), leaving novice learners in a state of cognitive overload.  
+'Higher order' tasks like synthesis or creation rely on more fundamental levels of understanding, and are therefore prone to failure when applied too soon. 
+Awareness of exactly what underlying knowledge is required at each step will help you to avoid asking too much. For more guidance on identifying the "level" of 
+a particular task, we recommend having a look at one of many excellent references on Bloom's Taxonomy.
 
 
 ## Prepare to Use Formative Assessments
@@ -97,7 +106,7 @@ into learning. For learners, recognizing that they have successfully learned som
 progress -- this awareness, or **metacognition**, is especially key to supporting continued learning beyond the classroom. However, not all lessons have 
 checkpoints built in where such progress is made clear. Where they do, they can pass unnoticed in the absence of focused recognition.
 
-> ## Where are your checkpoints?
+> ## Where are your Checkpoints?
 >
 > Have a look at your learning objective again and identify
 > *where* in the lesson that objective should reasonably be achieved. 
@@ -105,36 +114,20 @@ checkpoints built in where such progress is made clear. Where they do, they can 
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-When subject area experts design instruction, they are often over-eager to get their learners to work with content they have learned in advanced ways. These 
-might include tasks that ask learners to synthesize information from different sources, or create something new based on what they have learned. It is essential 
-to recognize that these 'higher order' tasks rely on many layers of fundamental understanding, and are therefore prone to failure when applied to novices. 
-Awareness of exactly what underlying knowledge is required at each step will help you to avoid asking too much. For more guidance on identifying the "level" of 
-a particular task, we recommend having a look at one of many excellent references on Bloom's Taxonomy.
+Now that you have identified one point where formative assessment may be useful, take a moment to consider how it might be used most 
+effectively.
 
+> ## Assessment is for Everyone
 > How might you apply formative assessment to:  
 > a) verify that that achievement has been met by all and  
 > b) make learners aware of their accomplishment?  
 > Keep in mind that formative assessment can take many forms, including multiple
 > choice questions, other exercises, spontaneous questions and calls for sticky
-> notes, provided that *all learners are evaluated*. Write some notes or thoughts about this process in the Etherpad for
+> notes. Write some notes or thoughts about this process in the Etherpad for
 > discussion.
 >
 > This exercise and discussion should take about 10 minutes.
 {: .challenge}
-
-
-> ## Instructor Notes
-> Many of The Carpentries lessons have
-> instructor's notes, with information
-> from instructors who have already taught the material.  This can be a valuable
-> resource when preparing lessons, especially when teaching a lesson for the first time.  
-> The instructor notes are linked on each lesson page under the "Extras" pull down menu.
-> In addition, configuration problems and other
-> technical hurdles common across multiple lessons are detailed [in this community-developed page][Config] 
-> along with suggested solutions. This link is built into each workshop website as well for easy access by learners and 
-> during workshops. If you find new problems or solutions, please contribute! We will learn more about workshop 
-> websites shortly.  
-{: .callout}
 
 
 ### How Frequent?
@@ -184,6 +177,18 @@ little to be gained by "quickly covering" (but not actually teaching) content.
 able to find a way to fit certain concepts in with later content if they know it has been missed.
 - **Communicate with your learners** about where they can find skipped content and whether any help may be available to support their independent work. Cutting 
 content may make them feel anxious, but it will help for them to know how to follow up.
+
+
+## Review the Instructor Notes
+Many of The Carpentries lessons have
+instructor's notes, with information
+from instructors who have already taught the material. This can be a valuable
+resource when preparing lessons, especially when teaching a lesson for the first time.  
+The instructor notes are linked on each lesson page under the "Extras" pull down menu.
+In addition, configuration problems and other
+technical hurdles common across multiple lessons are detailed [in this community-developed page][Config] 
+along with suggested solutions. This link is built into each workshop website as well for easy access by learners and 
+during workshops. When you find new problems or solutions, please contribute! 
 
 
 ## Review Prior Feedback
