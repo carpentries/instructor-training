@@ -23,18 +23,6 @@ Whether you are new to teaching or skilled in certain methods, adding new featur
 we will walk through some techniques for preparing to teach a workshop that we hope will help you to develop goals
 and implementation plans that are specific to a workshop. 
 
-As with other sections of this training, **we will not be discussing technical preparation**. Carefully reviewing the content of your workshop is important, and it
-can be useful to anticipate learner questions and update your knowledge accordingly. However, it is common for new Instructors to
-over-prepare on technical content -- which can be endless! -- and under-prepare the learner-centered elements of their teaching practice. If you encounter
-technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive feedback. On the other hand, neglecting
-to attend to your audience can have a significant negative impact on your workshop.
-
-When you prepare to teach a workshop, 
-we suggest setting aside time *before* deeply reviewing your technical content to **think through the learner experience, how
-your teaching will translate into their learning, and how both of you will know when that happens**. In this episode, we will provide
-some structure for that preparation.
-
-![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
 
 > ## Repetition vs. Reflective Practice
 >
@@ -50,7 +38,21 @@ some structure for that preparation.
 > Instructor Training program.
 {: .callout}
 
-### Anticipating Your Audience
+As with other sections of this training, **we will not be discussing technical preparation**. Carefully reviewing the content of your workshop is important, and it
+can be useful to anticipate learner questions and update your knowledge accordingly. However, it is common for new Instructors to
+over-prepare on technical content -- which can be endless! -- and under-prepare the learner-centered elements of their teaching practice. If you encounter
+technical questions that you do not have answers to, showing learners how you Google things may earn you some surprisingly positive feedback. On the other hand, neglecting
+to attend to your audience can have a significant negative impact on your workshop.
+
+When you prepare to teach a workshop, 
+we suggest setting aside time *before* deeply reviewing your technical content to **think through the learner experience, how
+your teaching will translate into their learning, and how both of you will know when that happens**. In this episode, we will provide
+some structure for that preparation.
+
+![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
+
+
+## Anticipate Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
 (we hope!) have a plan to learn a few things about your participants after a class has begun. However, in thinking about your learners, it is 
@@ -72,7 +74,7 @@ workshop. You will not know who is going through a rough break-up, who struggles
 breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your 
 best self and provide an inclusive environment for everyone.
 
-## Reversing your Preparation Process
+## Reverse your Preparation Process
 
 Now that you have a sense of who might be in your classroom, a good next step is to think through **their experience with the content you plan to teach**. 
 This is different from thinking through the content itself. 
@@ -99,7 +101,7 @@ instructional design** principles might be applied as follows:
 2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met, and then 
 3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
-## Working With Learning Objectives
+## Examine Learning Objectives
 All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice these
 in your lesson? In the best 
 cases they are quite specific about what a learner should be able to do by the end of each episode.
@@ -123,8 +125,7 @@ only be achieved after some 'groundwork' has been laid.
 {: .challenge}
 
 
-## Using Formative Assessments
-
+## Prepare to Use Formative Assessments
 In your answers above, you may have found yourself using words like "know" and "understand." These are words we are accustomed to using when we talk about 
 teaching and learning! However, these terms are so broad that they are actually quite difficult to use when it comes time to *assess* whether a learner has met 
 that objective. When do you *know* something? What does it mean to *understand*? 
@@ -178,8 +179,7 @@ a particular task, we recommend having a look at one of many excellent reference
 {: .callout}
 
 
-## Formative Assessments Should Be Frequent
-
+### How Frequent?
 Instructors should use a formative assessment ideally every 5 minutes and
 at least every 10-15 minutes
 in order to make sure that the class is actually learning.
@@ -203,6 +203,29 @@ in which you were going to explain something that your learners already know.
 > demonstrates to all whether the learners' level of understanding has
 > met the instructor's goal.
 {: .callout}
+
+
+## Prepare to Cut
+Collaborative maintenance of curriculum materials allows The Carpentries to maintain up-to-date workshops in a rapidly changing world. 
+We hope you will join in to support our Maintainers in overseeing this process, and even consider becoming a curriculum Maintainer yourself! 
+However, there is one down-side to collaborative upkeep: adding content is a much more fun way to contribute than proposing content to remove. 
+Every workshop moves at its own pace, but if you are following our recommendations to **go slowly** and pause for formative assessment, it is likely
+that you will have to make cuts in what you plan to teach. Indeed, despite our best efforts at maintaining this curriculum, your Instructor Trainers 
+may well have had to make cuts to make space for great conversations or extra questions in this training! 
+
+There are many ways to make cuts in a workshop, and they can have variable knock-on effects to watch out for. A little advance planning goes a long way 
+to avoid making mistakes when you start cutting things 'on the fly.'
+- **Keep breaks on time** even if your content is split awkwardly around them. Delaying breaks can demotivate your audience and disrupt plans they may 
+make around announced break times.
+- **Watch out for dependencies** if you skip a step. It may not be a step they *needed to know* about, but it may generate or re-name a file that is used 
+in later episodes.
+- **Leave time to wrap up your workshop** even if this means cutting even more content. We will talk about this more shortly.
+- **Do not speed up** if you are running behind! All curricula are freely available so learners can visit content they have missed; this means there is very 
+little to be gained by "quickly covering" (but not actually teaching) content.
+- **Communicate with your team** about what you plan to cut, or what you decided to leave out. Do not assume anyone will notice if you skip something. They may be 
+able to find a way to fit certain concepts in with later content if they know it has been missed.
+- **Communicate with your learners** about where they can find skipped content and whether any help may be available to support their independent work. Cutting 
+content may make them feel anxious, but it will help for them to know how to follow up.
 
 
 
