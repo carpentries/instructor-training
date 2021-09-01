@@ -5,7 +5,7 @@
   Days are displayed if at least one episode has 'start = true'.
 {% endcomment %}
 <div class="syllabus">
-  <h2 id="schedule">Sample Schedule</h2>
+  <h2 id="schedule">Sample Schedule for a 2-day Training</h2>
 
   {% assign day = 0 %}
   {% assign multiday = false %}
@@ -19,13 +19,13 @@
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
     <td class="col-md-3"><a href="{{ relative_root_path }}{% link setup.md %}">Setup</a></td>
-    <td class="col-md-7">Download files required for the lesson</td>
+    <td class="col-md-7">Instructions to prepare for this workshop</td>
   </tr>
   <tr>
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
     <td class="col-md-3"><a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">Pre-training survey</a></td>
-    <td class="col-md-7">Please fill out our pre-training survey before the start of the course.</td>
+    <td class="col-md-7">General link to our pre-survey. Please see your contact email for links customized to your event.</td>
   </tr>
   {% for episode in site.episodes %}
     {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
@@ -74,7 +74,7 @@
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
     <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
-    <td class="col-md-7">Please fill out our post-training survey after the course.</td>
+    <td class="col-md-7">General link to our post-survey. Your Trainer will provide a link customized to your event.</td>
   </tr>
   {% assign current = current | plus: 15 %}
   {% assign hours = current | divided_by: 60 %}
@@ -88,7 +88,7 @@
   </table>
 
   <p>
-    The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
+    The actual schedule may vary depending on the time format of the workshop and the topics and exercises chosen by the Trainer.
   </p>
 
 </div>
