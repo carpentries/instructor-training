@@ -54,11 +54,7 @@ To offer more flexible options for our community, we are piloting events that ru
 
 * July 26-29, 2021 *Registration Full*
 
-* [September 13-16, 2021](https://www.eventbrite.com/e/online-instructor-training-september-13-16-2021-tickets-157674549823)
-    * 9 am to 1 pm North America Pacific Time
-    * 12 noon to 4 pm North America Eastern Time
-    * 5 pm to 9 pm British Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T09&p1=137&ah=4)*
+* September 13-16, 2021 *Registration Closed*
 
 * [September 21-24, 2021](https://www.eventbrite.com/e/online-instructor-training-september-21-24-2021-tickets-157674854735) 
     * 7 am to 11 am North America Pacific Time
@@ -103,5 +99,5 @@ The events below run for two days, from 9 am to 5 pm in the time zone specified.
 #### Central European/Western African time
 * January 25-26, 2021 *Registration Closed*
 * June 17-18, 2021 *Registration full*
-* [September 8-9, 2021](https://www.eventbrite.com/e/online-instructor-training-september-8-9-2021-central-european-time-tickets-157675255935) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210908T09&p1=195&ah=8)*
+* September 8-9, 2021 *Registration Closed*
 
