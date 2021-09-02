@@ -40,6 +40,10 @@ all the questions, you can preview them in a text-format below:
 - [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
 - [Post-workhop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
+When The Carpentries Workshop Administration Team sets up the surveys for your workshop, they will also send you a link to 
+a dashboard with the results! Take care not to share this link with your learners. 
+- This link will take you to a [mock-up of the dashboard you will see with your survey results](https://workshop-reports.carpentries.org/?demo-workshop). 
+
 > ## Survey links
 >
 > The survey links above are only for you to preview the survey as part of
