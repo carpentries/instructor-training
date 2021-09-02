@@ -17,6 +17,7 @@ keypoints:
 - "Our goal when teaching novices is to help them construct useful mental models."
 - "This requires practice and feedback."
 - "Formative assessments provide practice for learners and feedback to learners and instructors."
+
 ---
 
 We will now get started with a discussion of how learning works. We will learn
