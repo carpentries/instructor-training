@@ -25,79 +25,31 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 
 Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [checkout@carpentries.org](mailto:checkout@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
 
-**During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact [checkout@carpentries.org](mailto:checkout@carpentries.org) if you have questions.  Thank you.**
 
-## New! Events over multiple days
-To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
-
-* February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
-
-* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time *Registration Closed*
-
-* March 15-18, 2021 (9 am to 1 pm North America Central) *Registration Closed*
-
-* April 12-14, 2021 *Registration Closed*
-
-* April 12-15, 2021 *Registration Closed*
-
-* May 3-6, 2021 *Registration Closed*
-
-* May 4-26, 2021 *Registration Closed*
-
-* June 7-10, 2021 *Registration Closed* 
-
-* June 15-18, 2021 *Registration Closed*
-
-* June 21-24, 2021 *Registration full*
-
-* July 19-22, 2021 *Registration Closed*
-
-* July 26-29, 2021 *Registration Full*
-
-* September 13-16, 2021 *Registration Closed*
-
-* [September 21-24, 2021](https://www.eventbrite.com/e/online-instructor-training-september-21-24-2021-tickets-157674854735) 
-    * 7 am to 11 am North America Pacific Time
-    * 9 am to 1 pm North America Central Time
-    * 3 pm to 7 pm British Summer Time
-    *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210921T09&p1=64&ah=4)*
+### Upcoming Instructor Training
+New trainings are added to this calendar on a quarterly basis.
 
 
-## Two day events
+#### [September 21-24, 2021](https://www.eventbrite.com/e/online-instructor-training-september-21-24-2021-tickets-157674854735)
+**Four 4-hour days:**  9 am to 1 pn N. America Central Time / 7 am to 11 am N. America Pacific Time / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210921T09&p1=64&ah=4)
 
-The events below run for two days, from 9 am to 5 pm in the time zone specified.  Attendance for the entire event is mandatory.
+#### [October 18-21, 2021](https://www.eventbrite.com/e/online-instructor-training-october-18-21-2021-tickets-170015136851) 
+**Four 4-hour days:** 9 am - 1 pm N. America Pacific / 12 noon - 4 pm N. America Eastern / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211018T09&p1=137&ah=4)
 
-### North America
+#### [November 1-2, 2021](https://www.eventbrite.com/e/online-instructor-training-november-1-2-2021-n-amer-central-time-tickets-170015692513) 
+**Two 8-hour days:** 9 am - 5 pm N. America Central / 7 am to 3 pm N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211101T09&p1=64&ah=8)
 
-#### Pacific time
-* January 13-14, 2021 *Registration Closed*
-* March 25-26, 2021 *Registration Closed*
-* June 9-10, 2021 *Registration Closed*
-* August 2-3, 2021 *Registration Closed*
+#### [November 3-4, 2021](https://www.eventbrite.com/e/online-instructor-training-november-3-4-2021-n-amer-pacific-time-tickets-170016322397) 
+**Two 8-hour days:** 9 am - 5 pm N. America Pacific / 12 noon - 8 pm N. America Eastern / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211103T09&p1=137&ah=8)
 
+#### [November 15-16, 2021](https://www.eventbrite.com/e/online-instructor-training-november-15-16-2021-n-amer-eastern-time-tickets-170016898119) 
+**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211115T09&p1=179&ah=8)
 
-#### Central time
-* February 11-12, 2021 *Registration Closed*
-* March 23-24, 2021 *Registration Closed*
-* May 19-20, 2021 *Registration Closed*
-* June 15-16, 2021 *Registration Closed*
-* August 18-19, 2021 *Registration Closed*
+#### [December 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-december-7-10-2021-tickets-170017935221) 
+**Four 4-hour days:** 9 am - 1 pm N. America Pacific / 12 noon - 4 pm N. America Eastern / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211207T09&p1=137&ah=4)
 
-#### Eastern time
-* January 21-22, 2021 *Registration Closed*
-* March 3-4, 2021 *Registration Closed*
-* June 23-24, 2021 *Registration Closed*
-* August 16-17, 2021 *Registration Closed*
+#### [December 14-15, 2021](https://www.eventbrite.com/e/online-instructor-training-december-14-15-2021-tickets-170018988371) 
+**Two 8-hour days:** 9 am - 5 pm Central European Time / 10 am - 6 pm South Africa Time / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211214T09&p1=195&ah=8)
 
-
-### Europe and Africa
-
-#### Western European time
-* February 25-26, 2021 *Registration Closed*
-* April 29-30, 2021 *Registration Closed* 
-
-#### Central European/Western African time
-* January 25-26, 2021 *Registration Closed*
-* June 17-18, 2021 *Registration full*
-* September 8-9, 2021 *Registration Closed*
-
+#### [December 16-17, 2021](https://www.eventbrite.com/e/online-instructor-training-december-16-17-2021-tickets-170020045533)
+**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211216T09&p1=179&ah=8)
