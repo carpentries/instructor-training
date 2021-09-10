@@ -10,7 +10,7 @@ Trainees can register for events listed below by clicking on the link for that e
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
-Most trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below). Select events run for shorter periods of time over several days. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
+Trainings are generally offered over two 8-hour or four 4-hour days to accommodate various time zones. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
@@ -19,7 +19,7 @@ If you have not already done so, please be sure to also complete our [instructor
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
-Those who complete the two full days
+Those who complete the full training
 and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
 
