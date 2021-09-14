@@ -29,10 +29,6 @@ Registration for each event closes one week before that event. You may change or
 ### Upcoming Instructor Training
 New trainings are added to this calendar on a quarterly basis.
 
-
-#### [September 21-24, 2021](https://www.eventbrite.com/e/online-instructor-training-september-21-24-2021-tickets-157674854735)
-**Four 4-hour days:**  9 am to 1 pn N. America Central Time / 7 am to 11 am N. America Pacific Time / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210921T09&p1=64&ah=4)
-
 #### [October 18-21, 2021](https://www.eventbrite.com/e/online-instructor-training-october-18-21-2021-tickets-170015136851) 
 **Four 4-hour days:** 9 am - 1 pm N. America Pacific / 12 noon - 4 pm N. America Eastern / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211018T09&p1=137&ah=4)
 
