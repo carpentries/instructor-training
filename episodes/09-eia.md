@@ -157,7 +157,8 @@ Carpentries communications channels can be a good place to ask for advice more b
 {: .callout}
 
 For a short checklist of things to keep in mind for in-person workshop locations, see [the accessibility checklist][handbook-accessibility-checklist] 
-in The Carpentries Handbook. If anything seems to be missing, contributions are welcome!
+in The Carpentries Handbook. In particular, take note that the most frequent accessibility challenge noted in [Carpentries post-assessment 
+surveys][post-surveys] is difficulty hearing an Instructor from the back of the room.
 
 
 > ## Accessibility Testing
@@ -244,9 +245,11 @@ If you host a workshop, we encourage you to consider means of reaching out to hi
 groups in your community who may be interested in attending. 
 
 
-## Setting Expectations with the Code of Conduct
+## Inclusive Practices in a Carpentries Workshop
 
-Finally, a important way that The Carpentries fosters an inclusive, respectful
+### Setting Expectations with the Code of Conduct
+
+One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
 
 To make clear what is expected,
@@ -262,6 +265,32 @@ on learning.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
+### Listening with Assessment and Feedback
+
+Motivating practices like those discussed in the previous episode to invite participation, encourage a growth mindset, etc. can all contribute to making a classroom more inclusive for diverse learners. 
+However, we cannot assume that any instructional approach has succeeded at fostering inclusion if we do not listen to our audience. 
+Explicitly seeking to learn from and attend to the concerns of your learners is key. If you find yourself feeling 
+uncertain about whether you are successfully including all learners, this is a good time to pause and create an opportunity 
+to listen. 
+
+When you are actively providing avenues for feedback, there are two signs of trouble to watch out for: negative feedback, and a **lack of feedback**. 
+If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognize it 
+themselves. It can be difficult to notice the people you are *not* hearing from in a room! When in doubt, communicate with your team and 
+work together to identify and (gently) check in with anyone you haven't heard from.
+
+### Examining your Actions
+
+When you pay close attention to your own actions, this can help you to do more than (painfully) identify how often you 
+use the word "just"! Monitoring your actions can also provide you with useful information about the ways in which you behave 
+differently with different people. This is normal! It is also an excellent way to identify patterns that may intefere with your 
+intent to create an inclusive environment for all. Did you answer the same question in different ways at different points? If so, why? 
+Who did you feel comfortable chatting with at break time, and who seemed harder to connect with? Did you offer help to anyone who 
+didn't ask for it? Who were you most eager to impress?
+
+Asking yourself questions like these is hard! Answering them is harder. 
+When you notice things that trouble you, keep a positive and simple goal in mind: to learn and to improve. 
+
+
 ## Looking for More? Want to Contribute?
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
@@ -273,6 +302,7 @@ at the top), though our [#accessibility channel][slack-accessibility] on [The Ca
 [CAST]: https://udlguidelines.cast.org
 [handbook-accessibility-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility
 [handbook-host-template]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop
+[post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [slack-join]: https://swc-slack-invite.herokuapp.com/
 [slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
 [sketchsplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
