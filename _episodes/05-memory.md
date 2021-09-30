@@ -244,7 +244,7 @@ can reduce load later on in the workshop, as it reduces the effort of recalling 
 cognitive load by choosing formative assessments that are 
 narrowly focused and by considering potential distractions in what you display during instruction.
 
-### Using Formative Assessments for Guided Practice
+### Using Formative Assessments for Memory Management
 
 There are
 many different types of exercises that can focus attention narrowly and help to avoid cognitive overload. 
