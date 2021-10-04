@@ -252,22 +252,22 @@ groups in your community who may be interested in attending.
 One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
 
-To make clear what is expected,
-all participants in our workshops are required to abide by the
+All participants in our workshops and communities are required to abide by the
 [Code of Conduct]({{ site.coc }}).
- Its details are important,
-but the most important thing about it is that it exists:
-knowing that we have rules
-tells people a great deal about our values
-and about what kind of learning experience they can expect. This creates 
-an environment that is *explicitly inclusive* and supports safe focus 
+This code helps to ensure that our community does not tolerate the persistence of behaviors 
+that harm or exclude others. While such a code cannot prevent all incidents, reminding 
+participants of the Code of Conduct supports them in 
+being mindful of the impact of their words and actions. It also offers reassurance 
+to all that the instructional team cares about their experience, creating
+an environment that is explicitly inclusive and supports safe focus 
 on learning.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
 ### Listening with Assessment and Feedback
 
-Motivating practices like those discussed in the previous episode to invite participation, encourage a growth mindset, etc. can all contribute to making a classroom more inclusive for diverse learners. 
+Motivating practices like those discussed in the previous episode to invite participation and encourage a growth mindset can also 
+contribute to making a classroom more inclusive for diverse learners. 
 However, we cannot assume that any instructional approach has succeeded at fostering inclusion if we do not listen to our audience. 
 Explicitly seeking to learn from and attend to the concerns of your learners is key. If you find yourself feeling 
 uncertain about whether you are successfully including all learners, this is a good time to pause and create an opportunity 
@@ -276,7 +276,9 @@ to listen.
 When you are actively providing avenues for feedback, there are two signs of trouble to watch out for: negative feedback, and a **lack of feedback**. 
 If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognize it 
 themselves. It can be difficult to notice the people you are *not* hearing from in a room! When in doubt, communicate with your team and 
-work together to identify and (gently) check in with anyone you haven't heard from.
+work together to identify and (gently) check in with anyone you haven't heard from. In addition, examine your feedback processes to be sure you are 
+including opportunities for **anonymous feedback**.
+
 
 ### Examining your Actions
 
