@@ -205,21 +205,27 @@ can be a worthwhile experience for everyone.
 
 ## Sticky Situations 2: Code of Conduct Violations
 
-As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/08-motivation.md %}),
-the Carpentries uses a Code of Conduct as a tool to create a respectful and
-inclusive learning environment. This works well! But Codes of Conduct do not hold up if they
-are not enforced. Rarely, your instructional team
-may encounter a Code of Conduct violation. In this section, we will discuss resources available to
-help you prepare and respond appropriately in the event that a violation occurs.
+As discussed in an [earlier episode]({{ page.root }}{% link _episodes/09-eia.md %}),
+the Carpentries uses a Code of Conduct as a tool to create an explicitly 
+inclusive learning environment. This works well! But while the Code of Conduct may deter 
+some kinds of bad behavior, any public event carries a risk that someone will say or do something 
+that causes harm. 
 
-All Carpentries community members should feel empowered to enforce the Code of Conduct (CoC). However, you may not
-feel comfortable taking action alone, and you may wish to be informed when a team-member takes action in your workshop. 
-For these reasons and more we encourage you to **discuss Code of Conduct enforcement with your instructional team in advance**. 
+A critical function of the Code of Conduct is to ensure that our community does not 
+tolerate or encourage the persistence of harmful behaviors. In order for the code to work 
+well, **incidents must be reported**. Note that it is not the responsibility of the reporter to 
+determine whether a Code of Conduct violation has occurred; when in doubt, it is best to report 
+an incident and allow the Code of Conduct Committee to make that determination.
+
+Rarely, your instructional team may encounter a Code of Conduct violation during a workshop. In addition to reporting 
+this incident, you will need to decide how and when to respond in the moment. While any individual may take it upon themselves 
+to respond, team coordination can both lighten the load and improve the outcome. 
+We encourage you to **discuss an approach to managing Code of Conduct violations with your instructional team in advance**. 
 
 > ## Know Your Resources
 > 1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: https://docs.carpentries.org/topic_folders/policies/incident-response.html   
 > 2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook: https://docs.carpentries.org/topic_folders/policies/index_coc.html or to the Transparency Reports released by The Carpentries Code of Conduct Committee: https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports
-> * What would you want to discuss or have your instructional team agree upon in advance of your workshop? 
+> * What kinds of things could your instructional team agree upon in advance of your workshop? 
 > * What questions do you have about CoC enforcement?  
 > 
 > 3) Write some notes in the Etherpad. 
@@ -227,11 +233,15 @@ For these reasons and more we encourage you to **discuss Code of Conduct enforce
 > This discussion should take about 10 minutes.
 {: .challenge}
 
-Fortunately, Code of Conduct violations have been extremely rare in our community. Emphasizing our values up front really
-does make a difference. We hope that this preliminary introduction will help you know what to do, at a fundamental level, in 
-case you encounter a violation. However, thorough preparation to manage a difficult situation demands more than we can offer you today. 
+Fortunately, Code of Conduct violations have been extremely rare in our community. We think that this is because emphasizing our values up front really
+does make a difference. 
+
+We hope that this preliminary introduction will help you work with your team to decide on a response in 
+case you encounter a violation, and will support you in reporting incidents to prevent their recurrence. 
+Thorough preparation to manage a difficult situation is useful for 
+any leadership role, but is beyond the scope of this training event. 
 Because this challenge is not unique to Instructors, The Carpentries is currently working
-to address this unmet training need more broadly across our community through development of a Code of Conduct Facilitator role. Follow
+to address this unmet training need more broadly across our community through [development of a Code of Conduct Facilitator role][blog-coc-facilitators]. Follow
 our communications channels to learn about additional opportunities for training in this area.
 
 > ## Know your Local Laws and Policies
@@ -373,6 +383,7 @@ indefinitely, so they may be used for further reference after a workshop.
 > as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
 {: .challenge}
 
+[blog-coc-facilitators]: https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/
 [worldcat-interactions]: https://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
