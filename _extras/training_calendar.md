@@ -36,6 +36,11 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
+#### [October 21-29, 2021](https://www.eventbrite.com/e/online-instructor-training-october-21-29-2021-tickets-182954621197)
+**Four 5-hour days:** 10 am - 3 pm New Zealand Time / 8 am - 1 pm Australia Eastern Daylight Time / 2 pm - 7 pm **PREVIOUS DAY** N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211020T21&p1=1440&ah=5)
+
+
+<hr>
 
 #### [November 1-2, 2021](https://www.eventbrite.com/e/online-instructor-training-november-1-2-2021-n-amer-central-time-tickets-170015692513) 
 **Two 8-hour days:** 9 am - 5 pm N. America Central / 7 am to 3 pm N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211101T09&p1=64&ah=8)
@@ -56,7 +61,7 @@ New trainings are added to this calendar on a quarterly basis.
 
 
 #### [December 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-december-7-10-2021-australia-tickets-171338517117)
-**Four 4-hour days:** 9 am - 1 pm Australia Eastern Daylight / 11 am - 3 pm New Zealand Time [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211207T09&p1=240&ah=4)
+**Four 4-hour days:** 9 am - 1 pm Australia Eastern Daylight / 11 am - 3 pm New Zealand Time / 2 pm - 6 pm **PREVIOUS DAY** N. America Pacific / [See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211207T09&p1=240&ah=4)
 
 <hr>
 
