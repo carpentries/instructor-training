@@ -186,7 +186,7 @@ think carefully about the language that we use and how we interact with our lear
 ### Stereotypes
 
 We all use stereotypes, and for good reason. They serve a cognitive purpose. 
-One study suggests we encounter more than 34 gigabytes of information every day. 
+[One study][34gig] suggests we encounter more than 34 gigabytes of information every day. 
 That is more information than we could ever process, so our brains use shortcuts. 
 What an expert thing to do! Stereotypes are one of those shortcuts. As with other models, 
 they are all wrong... but some are dangerous.
@@ -299,6 +299,7 @@ being involved in the development of this content, please let us know! Contribut
 at the top), though our [#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 
+[34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [glossary]: https://www.diversity.pitt.edu/DEIGlossary
 [core-values]: https://carpentries.org/values/
 [CAST]: https://udlguidelines.cast.org

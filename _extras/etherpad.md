@@ -28,9 +28,9 @@ Please sign in so we can record your attendance.<br/>
   <li>&nbsp;</li>
 </ul>
 <br/>
-Please fill out the pre-training survey at https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=<span id="preid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span>
- 
-</blockquote> 
+Please fill out the pre-training survey at https://carpentries.typeform.com/to/QVOarK#slug=<span id="preid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span>
+
+</blockquote>
 
 
 
@@ -87,7 +87,7 @@ Do not use the filter markdownify when specifying an <li> because otherwise fire
 
 <blockquote>
 <p><b>BEFORE YOU LEAVE</b></p>
-<p>Please fill out the post-training survey at https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=<span id="postid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span></p>
+<p>Please fill out the post-training survey at https://carpentries.typeform.com/to/cjJ9UP#slug=<span id="postid">INSTRUCTOR_PASTE_WORKSHOP_ID_HERE</span></p>
 <br/><br/><br/><br/><br/>
 
 <p>Lesson content on this page released under a creative commons attribution license. Lesson Content &copy; 2018-2019 The Carpentries .</p>
@@ -120,7 +120,7 @@ $("input#workshop-id").change(function(){
 	$("#postid").text($(this).val());
 })
 
-// Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad. 
+// Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad.
 
 $( "h1, h2, h3" ).not("blockquote h2").before("<br style='line-height:0px'/><br/>").after("<br/>");
 
@@ -184,12 +184,12 @@ $("blockquote.challenge h2").each(function(){
 $("blockquote.callout h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Callout: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
-  
+
 });
 $("blockquote.discussion h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Discussion: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
-  
+
 });
 
 
@@ -205,7 +205,7 @@ $("blockquote").contents().unwrap();
 $("div[class^='language']").each(function(){
 	if ($(this).hasClass("language-python") == true) {
 		$(this).before("<i>Python:</i><br/>");
-	} 
+	}
 	else {
 		$(this).before("<i>Code:</i><br/>");
 	}
@@ -213,7 +213,7 @@ $("div[class^='language']").each(function(){
 })
 $("div[class^='output']").each(function(){
 	$(this).before("<i>Output:</i><br/>");
-	
+
 
 })
 
@@ -235,4 +235,3 @@ new ClipboardJS("#copy-button");
   }
 
 </script>
-
