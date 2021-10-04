@@ -41,7 +41,6 @@ Extensions may be granted for any reason up to 1 year from your training date.
 {: .challenge}
 
 
-
 > ## Schedule a Discussion or Demo
 >
 > Visit the discussion Etherpad to sign up for a session: <https://pad.carpentries.org/community-discussions>

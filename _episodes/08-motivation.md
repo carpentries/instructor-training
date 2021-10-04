@@ -158,7 +158,7 @@ often the 'first responders' to learner mistakes.
 
 
 + **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using 
-[participatory live coding]({{ page.root }}/20-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
+[participatory live coding]({{ page.root }}/17-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while 
 coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both 
 problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can 
 help here, too.
