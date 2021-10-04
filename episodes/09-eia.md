@@ -48,7 +48,7 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 > ## Discuss The Carpentries Core Values
 >
-> 1. Take a moment to read through the Core Values on this page: https://carpentries.org/values/
+> 1. Take a moment to read through the Core Values on this page: <https://carpentries.org/values/>
 > 2. Choose one core value that resonates with you. What is a decision you might make in a workshop 
 > that could look different if you were actively considering the core value you chose?
 >
@@ -82,7 +82,7 @@ without any knowledge of what specific disabilities people might have.
 Having some accommodations prepared also demonstrates care, helping 
 learners to trust that additional requests are likely to be well received.
 
-If you are playing the host role (or part of it), note that our [host template](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop)
+If you are playing the host role (or part of it), note that our [host template][handbook-host-template]
 includes an inquiry regarding accessibility needs. However, be aware that **many 
 people will not feel comfortable requesting accommodations in advance**, or at all if it can be avoided.
 For example, a participant who is hard of hearing may simply hope that
@@ -98,14 +98,17 @@ emotions such as uncertainity, confusion, annoyance or anger by those receiving 
 
 By contrast, "universal design" means creating something to be maximally usable by all people 
 without additional changes. 
-A good example of universal design is [curb cuts](https://en.wikipedia.org/wiki/Curb_cut) 
+A good example of universal design is curb cuts
 and sidewalk ramps. While they were originally created to make it easier for 
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
+
+![Cartoon showing strollers, suitcases, bicycles, carts, and wheelchairs using curb cuts](../fig/sketchsplanations-the-curb-cut-effect.png)
+Image: [Sketchsplanations][sketchsplanations-curb-cuts]
 
 ### Universal Design in Learning (UDL)
 
 In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design 
-into Education with the Universal Design in Learning (UDL) Framework. 
+into Education with the [Universal Design in Learning (UDL) Framework][CAST]. 
 UDL places responsibility for accessibility on the course designer rather than on the learner. 
 It states that the most inclusive approach to education is to design instruction with diverse learners in mind from the beginning.
 
@@ -153,8 +156,9 @@ Carpentries communications channels can be a good place to ask for advice more b
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
 
-For a short checklist of things to keep in mind for in-person workshop locations, see [the accessibility checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility) 
-in The Carpentries Handbook. If anything seems to be missing, contributions are welcome!
+For a short checklist of things to keep in mind for in-person workshop locations, see [the accessibility checklist][handbook-accessibility-checklist] 
+in The Carpentries Handbook. In particular, take note that the most frequent accessibility challenge noted in [Carpentries post-assessment 
+surveys][post-surveys] is difficulty hearing an Instructor from the back of the room.
 
 
 > ## Accessibility Testing
@@ -241,51 +245,70 @@ If you host a workshop, we encourage you to consider means of reaching out to hi
 groups in your community who may be interested in attending. 
 
 
-## Setting Expectations with the Code of Conduct
+## Inclusive Practices in a Carpentries Workshop
 
-Finally, a important way that The Carpentries fosters an inclusive, respectful
+### Setting Expectations with the Code of Conduct
+
+One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct]({{ site.coc }}).
 
-To make clear what is expected,
-all participants in our workshops are required to abide by the
+All participants in our workshops and communities are required to abide by the
 [Code of Conduct]({{ site.coc }}).
- Its details are important,
-but the most important thing about it is that it exists:
-knowing that we have rules
-tells people a great deal about our values
-and about what kind of learning experience they can expect. This creates 
-an environment that is *explicitly inclusive* and supports safe focus 
+This code helps to ensure that our community does not tolerate the persistence of behaviors 
+that harm or exclude others. While such a code cannot prevent all incidents, reminding 
+participants of the Code of Conduct supports them in 
+being mindful of the impact of their words and actions. It also offers reassurance 
+to all that the instructional team cares about their experience, creating
+an environment that is explicitly inclusive and supports safe focus 
 on learning.
 
 We will discuss the Code of Conduct in greater detail tomorrow.
 
+### Listening with Assessment and Feedback
+
+Motivating practices like those discussed in the previous episode to invite participation and encourage a growth mindset can also 
+contribute to making a classroom more inclusive for diverse learners. 
+However, we cannot assume that any instructional approach has succeeded at fostering inclusion if we do not listen to our audience. 
+Explicitly seeking to learn from and attend to the concerns of your learners is key. If you find yourself feeling 
+uncertain about whether you are successfully including all learners, this is a good time to pause and create an opportunity 
+to listen. 
+
+When you are actively providing avenues for feedback, there are two signs of trouble to watch out for: negative feedback, and a **lack of feedback**. 
+If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognize it 
+themselves. It can be difficult to notice the people you are *not* hearing from in a room! When in doubt, communicate with your team and 
+work together to identify and (gently) check in with anyone you haven't heard from. In addition, examine your feedback processes to be sure you are 
+including opportunities for **anonymous feedback**.
+
+
+### Examining your Actions
+
+When you pay close attention to your own actions, this can help you to do more than (painfully) identify how often you 
+use the word "just"! Monitoring your actions can also provide you with useful information about the ways in which you behave 
+differently with different people. This is normal! It is also an excellent way to identify patterns that may intefere with your 
+intent to create an inclusive environment for all. Did you answer the same question in different ways at different points? If so, why? 
+Who did you feel comfortable chatting with at break time, and who seemed harder to connect with? Did you offer help to anyone who 
+didn't ask for it? Who were you most eager to impress?
+
+Asking yourself questions like these is hard! Answering them is harder. 
+When you notice things that trouble you, keep a positive and simple goal in mind: to learn and to improve. 
+
+
 ## Looking for More? Want to Contribute?
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link 
-at the top), though our [#accessibility channel](https://swcarpentry.slack.com/archives/CBDTKM30Q) on [The Carpentries Slack](https://swc-slack-invite.herokuapp.com/), or by emailing [team@carpentries.org](mailto:team@carpentries.org).
+at the top), though our [#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
+
 
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [glossary]: https://www.diversity.pitt.edu/DEIGlossary
 [core-values]: https://carpentries.org/values/
-[worldcat-dweck]: http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262
-[cardiff-dweck]: https://www.cardiffschools.com/cms/lib/CA01000801/Centricity/Domain/87/boosting_achievement_dweck.pdf
-[ada-initiative-resources]: https://adainitiative.org/continue-our-work/impostor-syndrome-training/
-[worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
-[worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
-[worldcat-shallow-end]: https://www.worldcat.org/title/stuck-in-the-shallow-end-education-race-and-computing/oclc/792730600
-[worldcat-whistling-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
-[conference-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
-[deaf-accessibility]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
-[four-letter-words]: https://m.signalvnoise.com/four-letter-words-f01603fb704c#.dfulbwp49
-[high-achieving-women]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
-[jussim-stereotype-threat]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
-[recurse-social-rules]: https://www.recurse.com/manual#sec-environment
-[shapiro-neuberg-stereotype-threat]: http://shapiro.psych.ucla.edu/Papers_files/Shapiro%20PSPR2007.pdf
-[study-com-stereotype-threat]: http://study.com/academy/lesson/stereotype-threat-definition-examples-theories.html
-[swc-python-v4]: http://v4.software-carpentry.org/python/flow.html
-[usenix-impostor-syndrome]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessible]: http://www.w3.org/WAI/teach-advocate/accessible-presentations/
-[webaim]: http://webaim.org/
+[CAST]: https://udlguidelines.cast.org
+[handbook-accessibility-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility
+[handbook-host-template]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop
+[post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
+[slack-join]: https://swc-slack-invite.herokuapp.com/
+[slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
+[sketchsplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader

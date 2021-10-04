@@ -31,6 +31,11 @@ keypoints:
 > Do not force people to share their pronouns.
 {: .discussion}
 
+
+![Photograph of an icebreaker ship](../fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg)  
+Photo credit: Grand-Duc, Wikipedia, http://en.wikipedia.org/wiki/User:Grand-Duc
+
+
 ## Before The Course Begins
 
 > ## Getting to know each other
@@ -38,6 +43,7 @@ keypoints:
 > If the Trainer has chosen an [icebreaker question]({{ site.training_site }}/icebreakers/index.html),
 > participate by writing your answers in the Etherpad.
 {: .challenge}
+
 
 ## Code of Conduct
 
@@ -100,6 +106,8 @@ same context, we will give a brief overview of The Carpentries
 organization before starting the training.
 
 ## A Brief Overview of The Carpentries
+
+![Image of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/C-Workshop-labeled.jpg)
 
 Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of The Carpentries.
