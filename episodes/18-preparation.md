@@ -33,11 +33,11 @@ we therefore suggest setting aside time *before* deeply reviewing your technical
 
 > ## A note on cutting
 >  
-> This episode is a common place to trainers to cut while preparing to teach this workshop. 
->  That's not because this is not important, this page is a valuable resource, but we feel this 
+> This episode is a common place to Trainers to cut while preparing to teach. 
+>  That's not because this is not important -- this page is a valuable resource -- but we feel this 
 >  is one of the sections that trainees can use effectively as a resource when actually preparing
 > for a workshop, even without spending a lot of time doing activities on this material during 
-> their instructor training workshop. 
+> their Instructor Training event. 
 >
 {: .callout}
 
