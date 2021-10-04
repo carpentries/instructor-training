@@ -37,6 +37,7 @@ New trainings are added to this calendar on a quarterly basis.
 <hr>
 
 #### [October 21-29, 2021](https://www.eventbrite.com/e/online-instructor-training-october-21-29-2021-tickets-182954621197)
+Note this training will take place on four non-consecutive days:  October 21, October 22, October 28, October 29
 **Four 5-hour days:** 10 am - 3 pm New Zealand Time / 8 am - 1 pm Australia Eastern Daylight Time / 2 pm - 7 pm **PREVIOUS DAY** N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211020T21&p1=1440&ah=5)
 
 
