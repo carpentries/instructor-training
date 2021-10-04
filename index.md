@@ -23,7 +23,7 @@ Because we have only two days, some things are beyond the scope of this class. W
 *   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more). 
 
 *Please fill in [the online application form][application-form] if you wish to take part in this course.
-Priority is given to participants at our member organizations.  We review open applications on a rolling basis, and accepted applicants are invited to join one of our online events.
+Participants from member organizations should receive a registration code to use in this application. We review open applications on a rolling basis, and accepted applicants are invited to join one of our online events.
 
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
@@ -43,6 +43,8 @@ will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carp
 Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
+
+**Note: The schedule below describes an approximate layout for a 2-full-day training. Please contact your Instructor Trainers if you have questions about the schedule for your specific training event.**
 
 [application-form]: https://amy.carpentries.org/forms/request_training/
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html

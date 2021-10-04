@@ -40,6 +40,10 @@ all the questions, you can preview them in a text-format below:
 - [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
 - [Post-workhop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
+When The Carpentries Workshop Administration Team sets up the surveys for your workshop, they will also send you a link to 
+a dashboard with the results! Take care not to share this link with your learners. 
+- This link will take you to a [mock-up of the dashboard you will see with your survey results](https://workshop-reports.carpentries.org/?demo-workshop). 
+
 > ## Survey links
 >
 > The survey links above are only for you to preview the survey as part of
@@ -50,37 +54,42 @@ all the questions, you can preview them in a text-format below:
 
 ![Screenshot of a workshop website showing location of customized survey links](../fig/surveyscreenshot3.svg)
 
-> ## Timing Matters
-> 
-> We have found that learners are much more likely to fill out the post-workshop survey
-> while they are still at the workshop than they are after they leave the venue. At the end 
-> of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
-> fit in another 15 minutes worth of teaching, give your learners time to complete the
-> post-workshop survey at the end of your workshop. You will be helping them (with an
-> opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries 
-> (we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
-{: .callout}
+### Timing Matters
+ 
+We have found that learners are much more likely to fill out the post-workshop survey
+while they are still at the workshop than they are after they leave the venue. At the end 
+of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
+fit in another 15 minutes worth of teaching, give your learners time to complete the
+post-workshop survey at the end of your workshop. You will be helping them (with an
+opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries 
+(we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
+
 
 ## Minute Cards
 
 Before each lunch break and at the end of the first day, we
-use sticky notes as *minute cards* to get anonymous feedback from learners.
-Learners write one positive thing on their blue sticky
-note, and one negative thing on their yellow one. 
-Instructors can change the prompt to elicit different types of feedback at each break. 
+have learners complete **minute cards** to share anonymous feedback. At an in-person workshop, 
+paper sticky notes double as minute cards, with the two different colors used for positive and 
+constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview)
+on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and 
+anonymous. A public-facing sticky note board will receive different (and less useful) feedback.
 
-**Example "positive" prompts:**   
-- What is the most important thing you learned today.   
-- What new skill are you most excited about using? 
+Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break. 
 
-**Example "negative" prompts:**  
-- Write down one thing that is confusing and you would like clarification on.    
-- What is one specific question you have about the material? 
+**Example positive prompts:**   
+- One thing you liked about this section of the workshop
+- The most important thing you learned today   
+- A new skill, command, or technique you are most excited about using 
 
-Over lunch and before the second day starts, the instructors read through the minute 
-cards and look for patterns. At the start of day two and each afternoon, the instructors
+**Example constructive prompts:**  
+- One thing you did not like or would change about this section of the workshop
+- One thing that is confusing / you would like clarification on.    
+- One question you have 
+
+Over lunch and before the second day starts, the Instructors read through the minute 
+cards and look for patterns. At the start of day two and each afternoon, the Instructors
 take a few minutes to address commonly raised issues with the whole class. The 
-non-teaching instructor can also type answers to the questions in the Etherpad.
+non-teaching Instructor can also type answers to the questions in the Etherpad.
 
 > ## Be Explicit About Using Feedback
 > 

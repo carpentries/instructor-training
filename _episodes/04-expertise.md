@@ -126,12 +126,7 @@ be more likely to meet novice learners where they are.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
-### Bait and Switch
-When an expert con-artist aims to deceive, one way to do this is by "baiting" a 
-victim with one promise, then "switching" to deliver something different, 
-relying on confusion and trust to keep the victim from complaining. 
-Teachers are not aiming for deception, yet a similar thing can occur 
-entirely by accident when they *teach* one way of describing a concept, then *use* another.  
+### Switching Language
 
 If you worked in the USA in the same building as something called a "delicatessen", 
 you might invite a friend to meet you at "the deli" or simply at
@@ -194,11 +189,13 @@ it with more positive and motivating word choices.
 
 > ## Changing Your Language  
 >
-> What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
-> express this meaning in a positive and motivational way?  
-> Write your **examples and alternatives** in the Etherpad.
+> 1) What other words or phrases, besides "just", can have the same effect of dismissing the experience of finding a subject difficult or unclear? 
+> 
+> 2) Propose an alternate phrasing for one of the suggestions above.
+> 
+> Write your examples and alternatives in the Etherpad.
 >
-> This discussion should take about 5 minutes.  
+> This exercise should take about 5 minutes.  
 >
 >> ## Solution  
 >> It is hard to break the habit of trying to convince learners that a task is "easy"! A few alternatives 

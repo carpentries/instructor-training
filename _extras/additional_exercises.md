@@ -2,14 +2,48 @@
 layout: page
 title: "Additional Exercises"
 ---
-
 ## Episode 2: Building Skill with Practice
 
-> ## Confronting the Contradiction
+> ## Modeling Novice Mental Models
 >
-> Describe a misconception you have encountered in your own learning or teaching
-> and how to get learners to confront it.
+> Create a multiple choice question related to a lesson you intend to teach.
+> 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
+> 2. Create your question. How many choices can you think of that will diagnose a specific misconception?
+> 3. Type your question into the Etherpad
+> and **explain the diagnostic power of each choice.**
+> 
+> This exercise should take about 10 minutes.
 {: .challenge}
+
+> ## A Note on MCQ Design
+>
+> *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
+>     If you are having a hard time coming up with diagnostic distractors,
+>     then either you need to think more about your learners' mental models,
+>     or your question simply is not a good starting point for an MCQ.
+> *   When you are trying to come up with distractors,
+>     think about questions that learners asked or problems they had
+>     the last time you taught this subject.
+>     If you have not taught it before,
+>     think about your own misconceptions
+>     or ask colleagues about their experiences.
+{: .callout}
+
+
+> ## How Many?
+>
+> The Carpentries use formative assessments often. How many have we done during this episode? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
+>
+> This discussion should take about 5 minutes.
+>
+>> ## Solution
+>> This will depend on the event they are attending. Most attendees will guess low.
+>> The purpose of this exercise is to emphasize the importance of frequent formative
+>> assessments and that an individual assessment does not have to take a lot of time.
+> {: .solution}
+{: .challenge}
+
+
 
 ## Episode 9: Equity, Inclusion, and Accessibility
 
@@ -50,6 +84,44 @@ title: "Additional Exercises"
 {: .challenge}
 
 ## Episode 15: Preparing to Teach
+
+For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner 
+profile**. This is a good way to support an empathic and intentional approach to your plan for instruction.
+
+Learner profiles have three parts:
+- the person's general background,
+- the motivating problem they face,
+- and how the course will help them.
+
+> ## Learner Profiles
+> Examine this example profile of a Software Carpentry learner:  
+> ~~~
+> João is an agricultural engineer doing his masters in soil physics.
+> His programming experience is a first year programming course using C.
+> He was never able to use this low-level programming in his activities,
+> and never programmed after the first year.
+> His work consists of evaluating physical properties of soil samples from different conditions.
+> Some of the soil properties are measured by an automated device that sends logs in a text format to his machine.
+> João has to open each file in Excel,
+> crop the first and last quarters of data values,
+> and calculate an average.
+> Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file,
+> and how to use R to read these files and calculate the required statistics.
+> It will also show him how to put his programs and files under version control
+> so that he can re-run analyses and figure out which results may have been affected by changes.
+> ~~~
+>> {: .quotation}
+> Sketch out a short profile of someone you might expect to attend your workshop.
+> Who are they,
+> what motivating problems do they face,
+> and how might this training help them?
+> Be as specific as possible.  
+> Enter your learner profile into the Etherpad.
+>
+> This exercise should take about 5 minutes.  
+{: .challenge}
+
+
 
 > ## Feedback On Your Challenges (Optional)
 >
