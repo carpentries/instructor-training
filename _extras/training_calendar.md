@@ -10,7 +10,7 @@ Trainees can register for events listed below by clicking on the link for that e
 
 If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
 
-Trainings are generally offered over two 8-hour or four 4-hour days to accommodate various time zones. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
+Trainings are generally offered over two full days (8 hours per day) or four half days (4-5 hours per day) to accommodate various time zones. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
 
 Read more about our Instructor Training program [here]({{ page.root }}).
 
