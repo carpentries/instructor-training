@@ -253,21 +253,25 @@ opportunities. You may also adjust your preferences to select whether you want t
 ## 5. Congratulations!
 Approximately 1-2 weeks after your last step is complete, you should receive an email with your Carpentries Instructor badge. Hooray!
 
-[r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
-[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
+
 [amy-login]: https://amy.carpentries.org/account/login/
-[trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[carpentries-incubator]: https://github.com/carpentries-incubator/
+[contact-page]: https://carpentries.org/contact/
+[demo]: https://pad.carpentries.org/teaching-demos
+[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[discussion]: https://pad.carpentries.org/community-discussions
+[git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [instructors-page]: https://carpentries.org/instructors/
-[carpentries-incubator]: https://github.com/carpentries-incubator/
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[discussion]: https://pad.carpentries.org/community-discussions
-[demo]: https://pad.carpentries.org/teaching-demos
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
-[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
+[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
 [start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
-[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
 [text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
+[trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
+[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
+
