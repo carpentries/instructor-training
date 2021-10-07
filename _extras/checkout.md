@@ -72,7 +72,7 @@ you may view any responses by the maintainers.
 > At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress. 
 > That is why we exist! So we appreciate the irony when participation in our community demands tools or technical 
 > procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
-> this is something our community has [discussed extensively][git-blog].
+> this is something our community has [discussed extensively](git-blog).
 >
 > We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our 
 > community in surmounting the barriers presented by our own technologies of choice. Watch our channels for 
