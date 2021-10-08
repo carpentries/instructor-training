@@ -24,7 +24,7 @@ at multiple points in the workshop and in different forms.
 ## Surveys
 
 Carpentries learners fill out a survey before attending and immediately after a workshop. 
-These surveys include questions to help instructors get an idea of their attendees prior
+These surveys include questions to help instructors get an idea of their attendees' prior
 experience and backgrounds before the workshop starts. Using this information, instructors
 can start to plan how they will approach the materials and what level of exercises
 are likely to be appropriate for their learners. 
