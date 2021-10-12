@@ -31,11 +31,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [October 18-21, 2021](https://www.eventbrite.com/e/online-instructor-training-october-18-21-2021-tickets-170015136851) 
-**Four 4-hour days:** 9 am - 1 pm N. America Pacific / 12 noon - 4 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211018T09&p1=137&ah=4)
-
-<hr>
-
 #### [October 21-29, 2021](https://www.eventbrite.com/e/online-instructor-training-october-21-29-2021-tickets-182954621197)
 Note this training will take place on four non-consecutive days:  October 21, October 22, October 28, October 29
 
