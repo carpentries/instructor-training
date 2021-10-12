@@ -226,8 +226,7 @@ While teaching, we want to expose learners' broken models so that we can help th
 
 ## Using Formative Assessment to Identify Misconceptions
 
-It would be so nice if misconceptions were visible! Unfortunately, facial expressions are a terrible metric to evaluate the accuracy of 
-a mental model. In order to effectively root out pre-existing misconceptions 
+In order to effectively root out pre-existing misconceptions 
 that need to be un-learned and stop quietly developing 
 misconceptions in their tracks, an Instructor needs to be actively and persistently looking for them. But how? 
 
