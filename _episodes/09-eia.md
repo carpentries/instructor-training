@@ -102,8 +102,8 @@ A good example of universal design is curb cuts
 and sidewalk ramps. While they were originally created to make it easier for 
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts. 
 
-![Cartoon showing strollers, suitcases, bicycles, carts, and wheelchairs using curb cuts](../fig/sketchsplanations-the-curb-cut-effect.png)
-Image: [Sketchsplanations][sketchsplanations-curb-cuts]
+![Cartoon showing strollers, suitcases, bicycles, carts, and wheelchairs using curb cuts](../fig/sketchplanations-the-curb-cut-effect.png)
+Image: [Sketchplanations][sketchplanations-curb-cuts]
 
 ### Universal Design in Learning (UDL)
 
@@ -308,7 +308,7 @@ at the top), though our [#accessibility channel][slack-accessibility] on [The Ca
 [post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [slack-join]: https://swc-slack-invite.herokuapp.com/
 [slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
-[sketchsplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
+[sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-impostor-syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
