@@ -65,7 +65,7 @@ After the introduction learners should:
 
 The instructional team should:
 
-- know of who is participating in the workshop and what their expectations are
+- know who is participating in the workshop and what their expectations are
 - have an initial impression of how learners respond to participation prompts and what will be needed to encourage them to engage
 
 ### Setting the Stage
