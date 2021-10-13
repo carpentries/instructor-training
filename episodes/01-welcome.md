@@ -32,9 +32,8 @@ keypoints:
 {: .discussion}
 
 
-![Photograph of an icebreaker ship](../fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg)  
-Photo credit: Grand-Duc, Wikipedia, http://en.wikipedia.org/wiki/User:Grand-Duc
-
+![Photograph of an icebreaker ship](../fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){: width="600px" }  
+A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, http://en.wikipedia.org/wiki/User:Grand-Duc
 
 ## Before The Course Begins
 
