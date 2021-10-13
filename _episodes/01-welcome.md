@@ -106,7 +106,7 @@ organization before starting the training.
 
 ## A Brief Overview of The Carpentries
 
-![Image of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/Scene_1_blue_stickies_labeled.jpeg)
+![Image of action figures in a workshop with Instructor, Co-Instructor, Helper, and Sticky Notes labeled](../fig/Scene_1_blue_stickies_labeled.jpeg){: width="900px" }
 
 Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of The Carpentries.
