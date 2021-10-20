@@ -4,12 +4,20 @@
   Display syllabus in tabular form.
   Days are displayed if at least one episode has 'start = true'.
 {% endcomment %}
+
+{% include manual_episode_order.html %}
+
 <div class="syllabus">
-  <h2 id="schedule">Sample Schedule for a 2-day Training</h2>
+  <h2 id="schedule">Sample Schedule</h2>
 
   {% assign day = 0 %}
   {% assign multiday = false %}
-  {% for episode in site.episodes %}
+  {% for lesson_episode in lesson_episodes %}
+    {% if site.episode_order %}
+      {% assign episode = site.episodes | where: "slug", lesson_episode | first %}
+    {% else %}
+      {% assign episode = lesson_episode %}
+    {% endif %}
     {% if episode.start %}{% assign multiday = true %}{% break %}{% endif %}
   {% endfor %}
   {% assign current = site.start_time %}
@@ -18,16 +26,15 @@
   <tr>
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
-    <td class="col-md-3"><a href="{{ relative_root_path }}{% link setup.md %}">Setup</a></td>
-    <td class="col-md-7">Instructions to prepare for this workshop</td>
+    <td class="col-md-3"><a href="{{ relative_root_path }}{% link setup.md %}">Preparing for Training and Certification</a></td>
+    <td class="col-md-7">Download files required for the lesson</td>
   </tr>
-  <tr>
-    {% if multiday %}<td class="col-md-1"></td>{% endif %}
-    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}"></td>
-    <td class="col-md-3"><a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">Pre-training survey</a></td>
-    <td class="col-md-7">General link to our pre-survey. Please see your contact email for links customized to your event.</td>
-  </tr>
-  {% for episode in site.episodes %}
+  {% for lesson_episode in lesson_episodes %}
+    {% if site.episode_order %}
+      {% assign episode = site.episodes | where: "slug", lesson_episode | first %}
+    {% else %}
+      {% assign episode = lesson_episode %}
+    {% endif %}
     {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
       {% assign day = day | plus: 1 %}
       {% if day > 1 %} {% comment %} If about to start day 2 or later, show finishing time for previous day {% endcomment %}
@@ -70,11 +77,22 @@
   {% endfor %}
   {% assign hours = current | divided_by: 60 %}
   {% assign minutes = current | modulo: 60 %}
+  {% if site.instructor_training %}
+  <tr>
+    {% if multiday %}<td class="col-md-1"></td>{% endif %}
+    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif +++ %}{{ minutes }}</td>
+    <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
+    <td class="col-md-7">Please fill out our post-training survey after the course.</td>
+  </tr>
+  {% assign current = current | plus: 15 %}
+  {% assign hours = current | divided_by: 60 %}
+  {% assign minutes = current | modulo: 60 %}
+  {% endif %}
   <tr>
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-    <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
-    <td class="col-md-7">General link to our post-survey. Your Trainer will provide a link customized to your event.</td>
+    <td class="col-md-3">Post-training survey</td>
+    <td class="col-md-7">Please ask your Trainer for a custom link to your post-training survey at the end of the course.</td>
   </tr>
   {% assign current = current | plus: 15 %}
   {% assign hours = current | divided_by: 60 %}
@@ -88,7 +106,7 @@
   </table>
 
   <p>
-    The actual schedule may vary depending on the time format of the workshop and the topics and exercises chosen by the Trainer.
+    The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
   </p>
 
 </div>
