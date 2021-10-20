@@ -22,7 +22,7 @@ with the content but please do not over-prepare. This preparation should take no
  ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
  ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
   
-**For Online Events:**
+**For Online Events:**  
 4\. Please ensure that your computer and internet are sufficient to connect via Zoom 
 for the full event. You will need to have the bandwidth to transmit video during your practice exercises.
   
