@@ -23,10 +23,10 @@ with the content but please do not over-prepare. This preparation should take no
  ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
   
 **For Online Events:**
-4. Please ensure that your computer and internet are sufficient to connect via Zoom 
+4\. Please ensure that your computer and internet are sufficient to connect via Zoom 
 for the full event. You will need to have the bandwidth to transmit video during your practice exercises.
   
-**For In-Person Events:**
+**For In-Person Events:**  
 4\. We will be recording one another teaching in pairs or threes during the class, 
 so please bring a cell phone or hand-held camera that can record audio and video. 
 It does not have to be high-quality, but it should be good enough that you can understand what someone is saying.
