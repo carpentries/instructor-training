@@ -30,10 +30,11 @@ and [Software Carpentry](https://software-carpentry.org/) workshops throughout o
 * Participants are not required to have any specific programming skills (though they should know enough about the subjects of one or more of our lessons to be able to teach them).
 An Instructor Training event is the first step towards certification as a Carpentries Instructor. For more details on the other 3 steps, see the [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html) on this site.
   
-Feedback on these materials is welcome as an [issue](https://github.com/carpentries/instructor-training/issues) on the GitHub repository that hosts this site.
 Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
+
+**Note: The schedule below describes an approximate layout for a 2-full-day training. Please contact your Instructor Trainers if you have questions about the schedule for your specific training event.**
 
 [application-form]: https://amy.carpentries.org/forms/request_training/
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
