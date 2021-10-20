@@ -19,8 +19,8 @@ of its content twice during the second half of the workshop. Note that these
 presentations are expected to be rough, not polished -- you should be familiar 
 with the content but please do not over-prepare. This preparation should take no more than 20-30 minutes.
 4. Please read the following before the workshop begins:
- ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
- ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+ * ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
+ * ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
   
 **For Online Events:**  
 4\. Please ensure that your computer and internet are sufficient to connect via Zoom 
