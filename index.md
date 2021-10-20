@@ -4,42 +4,33 @@ root: .
 redirect_from: "http://swcarpentry.github.io/instructor-training/"
 ---
 
-Over the last hundred years,
-researchers have discovered an enormous amount about how people learn
-and how best to teach them.
-Unfortunately,
-much of that knowledge has not yet been translated into common classroom practice, especially at the university level.
-
-This two-day class has the following overall goals:
-
-*   Introduce you to evidence-based best-practices of teaching.
-*   Teach you how to create a positive environment for learners at your workshops.
-*   Provide opportunities for you to practice and build your teaching skills.
-*   Help you become integrated into the [Carpentries]({{ site.carpentries_site }}) community. 
-*   Prepare you to use these teaching skills in teaching [Carpentries]({{ site.carpentries_site }}) workshops.
-
-Because we have only two days, some things are beyond the scope of this class. We will not be learning:  
-*   How to program in R or Python, use Git or SQL, or any of the other topics taught in Software Carpentry, Data Carpentry, or Library Carpentry workshops. 
-*   How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more). 
-
-*Please fill in [the online application form][application-form] if you wish to take part in this course.
-Priority is given to participants at our member organizations.  We review open applications on a rolling basis, and accepted applicants are invited to join one of our online events.
-
-The class will be hands-on throughout:
-short lessons will alternate with individual and group practical exercises,
-including practice teaching sessions.
-Those who complete the two full days
-and [some short follow-up exercises online]({{ page.root }}/checkout/)
-will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
-
-*   All participants in this course are required to abide by our [Code of Conduct][conduct].
-*   There are no specific prerequisites for this training,
-    but participants will benefit from having attended a Data Carpentry, Software Carpentry, or Library Carpentry workshop either as learner or helper
-    so that they are familiar with our teaching techniques and the style of our workshops.
-*   In particular, participants are *not* required to have any specific programming skills
-    (though they should know enough about the subjects of one or more of our lessons
-    to be able to teach them).
-
+Welcome to The Carpentries Instructor Training curriculum! Originally released in 2016, this resource is collaboratively maintained and taught by The Carpentries Instructor Trainer community. Minor changes occur routinely; major updates are chronicled in our release history.
+  
+Carpentries Instructor Training has the following goals:  
+* Introduce you to evidence-based teaching practices.
+* Teach you how to create a positive environment for learners at your workshops.
+* Provide opportunities for you to practice and build your teaching skills.
+* Help you become integrated into the [Carpentries]([Carpentries]({{ site.carpentries_site }})) community.
+* Prepare you to use these teaching skills in teaching [Carpentries workshops](https://carpentries.org/workshops/).
+  
+Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
+* How to program in R or Python, use Git or SQL, or any of the other topics taught in Data Carpentry, Library Carpentry, or Software Carpentry workshops.
+* How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
+  
+If you would like to attend Instructor Training, please visit the [Become an Instructor page](https://carpentries.org/become-instructor/) on 
+The Carpentries website for details on admission. 
+  
+Instructor Training events are hands-on throughout: short lessons alternate with individual 
+and group practical exercises, including practice teaching sessions. Those who attend the 
+full training and all three checkout steps will be certified as a Carpentries Instructor 
+and will be eligible to teach [Data Carpentry](http://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/), 
+and [Software Carpentry](https://software-carpentry.org/) workshops throughout our global community.
+* All participants are required to abide by our [Code of Conduct][conduct].
+* There are no specific prerequisites for this training, but participants will benefit from having attended a Data Carpentry, Software Carpentry, or Library Carpentry workshop either as learner or helper so that they are familiar with our teaching techniques and the style of our workshops.
+* Participants are not required to have any specific programming skills (though they should know enough about the subjects of one or more of our lessons to be able to teach them).
+An Instructor Training event is the first step towards certification as a Carpentries Instructor. For more details on the other 3 steps, see the [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html) on this site.
+  
+Feedback on these materials is welcome as an [issue](https://github.com/carpentries/instructor-training/issues) on the GitHub repository that hosts this site.
 Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
