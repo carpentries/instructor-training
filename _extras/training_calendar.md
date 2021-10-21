@@ -6,24 +6,35 @@ title: "Instructor Training Calendar"
 
 # The Carpentries Instructor Training Calendar: 2021
 
-Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
+## About Carpentries Instructor Training
 
-If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
+This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures. 
 
-Trainings are generally offered over two full days (8 hours per day) or four half days (4-5 hours per day) to accommodate various time zones. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
+For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-Read more about our Instructor Training program [here]({{ page.root }}).
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout’ steps. For more details, see our [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html).
 
-If you have not already done so, please be sure to also complete our [instructor training application](https://amy.carpentries.org/forms/request_training/) so we can be sure you are in our system **in addition to** completing the registration on Eventbrite. The registration on Eventbrite secures your seat at an event; the application form ensures your information is in our system.    
+## How to Register for an Instructor Training 
+Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.  
+## When to Register
+### Members and other groups
+Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date. 
+### Open Instructor Training
+Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one workshop; duplicate registrations may be deleted.
+## Cancellation Policies
+Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline. 
 
-The class will be hands-on throughout:
-short lessons will alternate with individual and group practical exercises,
-including practice teaching sessions.
-Those who complete the full training
-and [some short follow-up exercises online]({{ page.root }}/checkout/)
-will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
+After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event. 
 
-Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [checkout@carpentries.org](mailto:checkout@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
+If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
+
+## Attendance
+Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
+
+A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
+
+More details on our [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) are available in The Carpentries Handbook.
+
 
 
 ### Upcoming Instructor Training
