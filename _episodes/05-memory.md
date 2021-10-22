@@ -113,6 +113,9 @@ rather than as five separate pieces of information.
 > This exercise should take about 5 minutes.
 {: .challenge}
 
+![A list of words: cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe. 
+Underneath, the same words are organized into boxes with related terms e.g. cat fish milk ball and apple flower tree"](../fig/chunking.svg)
+
 Associating concepts 
 reduces the number of effective
 items in your short-term memory, allowing you to keep
