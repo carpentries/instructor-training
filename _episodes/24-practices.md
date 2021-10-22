@@ -26,11 +26,11 @@ about teaching and learning, specifically in the Carpentries context.
 
 > ## Picking up the Pieces
 >
-> In small groups or on your own, make a list of all the concepts and skills you have
-> encountered in this training.  Your list can include everything from
-> educational/teaching theories to specific in-classroom practices.  
+> Based on the content we've discussed throughout this workshop, add at least one item to each category below:
+> - Concepts/Theories 
+> - Tools/Practices
 > 
-> This exercise should take about 5 minutes.
+> This exercise can be done as a class and should take about 5 minutes.
 > 
 > > ## Solution
 > >
@@ -70,14 +70,15 @@ Here is a non-exhaustive list of topics:
 > ## Organize Your Knowledge
 >
 > Use a concept map or other visual organiser of your choice to connect some of 
-> the concepts above. How are they related to each other? 
+> the concepts above. You don't have to use them all! How are the terms you have 
+> chosen to include related to each other? 
 >
 > Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
 >
 > If you feel you have finished organizing your thoughts, try the next exercise.
 > 
-> This exercise should take about 10 minutes. 
+> This exercise should take about 5 minutes. 
 > 
 {: .challenge}
 
