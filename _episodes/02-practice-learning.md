@@ -142,6 +142,9 @@ which seem superficially similar.
 *     A *competent practitioner* has a mental model that is useful for everyday purposes. Most new information
 they are likely to encounter will fit well with their existing model. Even though many potential elements of their mental model may
 still be missing or wrong, predictions about their area of work are usually accurate.
+* An *expert* has a densely populated and connected mental model that is especially good for problem solving. 
+They quickly connect concepts that others may not see as being related. They may have difficulty 
+explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
 
 ![Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.](../fig/mental_models.svg)
 

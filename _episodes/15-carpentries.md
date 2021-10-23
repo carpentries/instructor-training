@@ -147,7 +147,7 @@ that all Instructors and Helpers in our database have the experience recorded in
 on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
 
 Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
-The Carpentries Handbook is the definitive source for policies and information, including provides tips, checklists, and points of contact for nearly all 
+The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all 
 Carpentries-related activities. A few examples of useful content include:
 - template emails and checklists for Hosts, Instructors, and Helpers in [The Carpentries Handbook: Teaching and Hosting][docs-teach-host]
 - [policies][docs-policies], many of which affect Instructors and workshops, including
