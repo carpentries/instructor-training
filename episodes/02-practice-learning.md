@@ -80,7 +80,7 @@ consider yourself an expert in a particular subject, but may nonetheless functio
 We will come back to the expertise of the Instructor and its impact -- positive and negative -- 
 on teaching, in the next episode. 
 For now, we are primarily concerned with novices,
-as this tends to characterize The Carpentries audience.
+as this is The Carpentries' primary target audience.
 
 It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy has
 limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore 
