@@ -82,8 +82,7 @@ on teaching, in the next episode.
 For now, we are primarily concerned with novices,
 as this is The Carpentries' primary target audience.
 
-It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy has
-limited usefulness and is wrong in ways that generate dangerous misconceptions. In our next section, we will briefly explore 
+It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy includes inaccuracies that can generate dangerous misconceptions. In our next section, we will briefly explore 
 the nature of "knowledge" through a concept
 that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications
 for how we teach.
