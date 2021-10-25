@@ -40,12 +40,6 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 ### Upcoming Instructor Training
 New trainings are added to this calendar on a quarterly basis.
 
-
-<hr>
-
-#### [November 1-2, 2021](https://www.eventbrite.com/e/online-instructor-training-november-1-2-2021-n-amer-central-time-tickets-170015692513) 
-**Two 8-hour days:** 9 am - 5 pm N. America Central / 7 am to 3 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211101T09&p1=64&ah=8)
-
 <hr>
 
 
