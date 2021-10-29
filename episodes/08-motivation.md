@@ -175,8 +175,8 @@ irrelevant to innate ability. Evidence suggests that learner perseverence is bes
 are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
 
 > ## Choosing our Praises
-> Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these
-> are examples of performance-based, effort-based, or improvement-based praise?
+> Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these examples 
+> of praise do you think are based on performance, effort, or improvement?
 >
 > 1. That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
 > 2. You're getting to be really good at that. See how it pays to keep at it?
