@@ -187,6 +187,23 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > Imperfect presentations will
 > give you more to work with!
 >
+> **Distributed trainings:**
+> 1.  Split into groups of three.
+> 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
+>     the lesson episode you chose before the start of the training course. You will not
+>     be live coding.
+> 3.  Get together with your group and have one person teach their segment to the group.
+>     Keep a strict time limit of 90 seconds per person (one person
+>     should be responsible for the timekeeping).
+> 4.  After the first person has finished teaching, share feedback. The person who performed 
+>     should start by offering feedback on themselves. The timekeeper should help to keep 
+>     feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
+> 5.  Rotate roles and repeat steps 3 & 4
+> 5.  Return to the main group and briefly summarize the feedback you received in the Etherpad.
+> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
+> but do not record each other. Instead, give each person feedback immediately after they finish their
+> turn teaching.
+> 
 > **Trainings where trainees are co-located:**
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
@@ -213,10 +230,6 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > 5.  After everyone has given feedback on all of the videos,
 >     return to the main group and put everyone's feedback about you into the Etherpad.
 >
-> **Distributed trainings:**
-> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
-> but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching.
 >
 > This exercise should take about 25 minutes.
 {: .challenge}
