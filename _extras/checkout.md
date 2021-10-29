@@ -34,7 +34,7 @@ to help us out with something more substantial, consider selecting an item from 
 The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the 
 curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held. 
 
-To get there, try looking for a link that says "Improve this page. In this curriculum, that is located at the top of the page.
+To get there, try looking for a link that says "Improve this page". In this curriculum, that is located at the top of the page.
 
 ![Screen shot of the header for this page with Improve this page circled](../fig/Improve_this_page.svg){: width="800px" }
 
