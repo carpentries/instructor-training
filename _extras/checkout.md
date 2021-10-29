@@ -34,21 +34,28 @@ to help us out with something more substantial, consider selecting an item from 
 The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the 
 curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held. 
 
+To get there, try looking for a link that says "Improve this page. In this curriculum, that is located at the top of the page.
+
+![Screen shot of the header for this page with Improve this page circled](../fig/Improve_this_page.svg){: width="800px" }
+
+Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the rendered lessons on the websites listing Data Carpentry, 
+Library Carpentry, or Software Carpentry workshops.
+
 The browser view of the GitHub repository for this workshop looks like this: 
 
-![Screen shot of Instructor Training GitHub repository in a browser with Issues and Pull Requests tabs circled](../fig/Instructor_Training_Repo_1.svg)
+![Screen shot of Instructor Training GitHub repository in a browser with Issues and Pull Requests tabs circled](../fig/Instructor_Training_Repo_1.svg){: width="800px" }
 
 There are two tabs on this page that offer opportunities for interaction with the community that maintains this curriculum. The first is the "Issues" tab. 
 When someone has an idea or suggestion, they can start a conversation about their idea by creating an Issue. Others can then comment on the Issue to provide 
 feedback. Issues can be searched, using the search bar at the top:
 
-![Screen shot of Instructor Training GitHub repository with Issues tab selected and search bar and New Issue button circled](../fig/Instructor_Training_Repo_2.svg)
+![Screen shot of Instructor Training GitHub repository with Issues tab selected and search bar and New Issue button circled](../fig/Instructor_Training_Repo_2.svg){: width="800px" }
 
 If you have an idea, it is a good idea to search first to see if anyone else has already suggested it! If so, you can add your thoughts as a comment 
 on the existing issue instead of starting a new one. Either way, you will get credit for your contribution to the conversation. Note that you must be signed 
 in to GitHub to be able to see the comment box at the bottom of each issue. 
 
-![Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled](../fig/Instructor_Training_Repo_4.svg)
+![Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled](../fig/Instructor_Training_Repo_4.svg){: width="800px" }
 
 If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also view
 and comment on existing PRs. We will not cover the details of how to create a PR, but there is a 
