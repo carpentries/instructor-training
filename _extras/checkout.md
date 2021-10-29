@@ -205,7 +205,6 @@ You do not need to be prepared to teach the supplementary modules for your teach
 **The Trainer hosting the teaching demonstration session may choose any episode of the lesson** from this [list of suggested episodes][start-points] for you to teach. (An 
 example for an episode could be: [Data Structures][r-gapminder-episode]). Because we are particularly interested in your use of participatory live coding (or 
 participatory work with spreadsheets etc.), you will not be asked to teach episodes that lack participatory content or that require files or other output from previous episodes.
-other complications to set up.
 
 **If your chosen lesson does not have any suggested episodes for start points listed or is not on the list, please consider choosing a different lesson.** 
 Alternatively, if you
