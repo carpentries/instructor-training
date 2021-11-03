@@ -24,12 +24,14 @@ these practices in terms of what parts of a workshop we need to be conscious of 
 of these strategies. In other words, let us put down on paper some of our mental model
 about teaching and learning, specifically in the Carpentries context.  
 
-> ## Picking up the Pieces (optional)
+> ## Picking up the Pieces
 >
-> In small groups or on your own, make a list of all the concepts and skills you have
-> encountered in this training.  Your list can include everything from
-> educational/teaching theories to specific in-classroom practices.  
->
+> Based on the content we've discussed throughout this workshop, add at least one item to each category below:
+> - Concepts/Theories 
+> - Tools/Practices
+> 
+> This exercise can be done as a class and should take about 5 minutes.
+> 
 > > ## Solution
 > >
 > > Compare your list of topics with the list below.  What is missing, either in your
@@ -67,26 +69,24 @@ Here is a non-exhaustive list of topics:
 
 > ## Organize Your Knowledge
 >
-> Let us put the pieces together by creating a visual organization of information.  
-> We suggest doing this in two ways:
->
-> 1. If you are comfortable with / like concept maps, trying integrating all the
-> topics above into a single concept map.  
-> 2. Use the provided handout to organize topics.  Here are two examples:
->   - [Handout One](../files/handouts/Wrap-Up-doc.pdf) (with example content: [example](../files/handouts/Wrap-Up-doc-example.pdf))
->   - [Handout Two](../files/handouts/Carpentries_teaching_practices.pdf)
+> Use a concept map or other visual organiser of your choice to connect some of 
+> the concepts above. You don't have to use them all! How are the terms you have 
+> chosen to include related to each other? 
 >
 > Work on this on your own.  There is no "right answer" -- this is about you building
 > up a mental model, moving from "novice" to "competent practitioner".
 >
-> Once you have organized your thoughts, move to the next exercise.  
+> If you feel you have finished organizing your thoughts, try the next exercise.
+> 
+> This exercise should take about 5 minutes. 
+> 
 {: .challenge}
 
-> ## Parting Thoughts
+> ## Parting Thoughts (optional)
 >
 > If you did not think about these issues when organizing your topics in the previous
 > exercise, now consider:
-> 1. What is your mental model of teaching?
+> 1. How would you describe your mental model of teaching? 
 > 2. Can you identify why each topic above applies to teaching for the Carpentries?  
 {: .challenge}
 

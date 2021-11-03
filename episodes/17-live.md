@@ -3,7 +3,7 @@ start: false
 title: "Live Coding is a Skill"
 block: "Building Teaching Skill"
 teaching: 20
-exercises: 50
+exercises: 45
 questions:
 - "Why do we teach programming using participatory live coding?"
 objectives:
@@ -17,7 +17,7 @@ keypoints:
 ---
 
 One of the cornerstones of The Carpentries teaching is live
-coding: *instructors do not use slides*, but work through the lesson material,
+coding: *instructors do not use slides to teach coding*, but work through the lesson material,
 typing in the code or instructions, with the workshop participants following
 along. This section explains how it works, why we use it, and
 gives general tips for an effective participatory live coding presentation. We will
@@ -43,7 +43,7 @@ We refer to the practice of having the instructor live code and the learners cod
 > from both a learner's and an instructor's point of view
 > in the Etherpad.  
 >
-> This discussion should take about 10 minutes.
+> This discussion should take about 5 minutes.
 >
 >> ## Solution  
 >> Some advantages are:
@@ -53,7 +53,7 @@ We refer to the practice of having the instructor live code and the learners cod
 >> *   It enables instructors to be more responsive to "what if?" questions.
 >> Where a slide deck is like a railway track,
 >> participatory live coding allows instructors to go off-road and follow their learners' interests.
->> *   Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](http://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
+>> *   Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](https://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
 >> teaching by watching *how* instructors do things.
 >> *   It slows the instructor down:
 >> if she has to type in the program as she goes along,
@@ -85,12 +85,12 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It is
 important to keep in mind, however, that feedback is not helpful if you cannot understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) to make sure this feedback is useful to learners.
+[we learned earlier]({{ page.root }}{% link _episodes/08-motivation.md %}) to make sure this feedback is useful to learners.
 
 > ## Compare and Contrast
 >
-> Watch this [first participatory live coding demo video][live-coding-bad]
-> and this [second demo video][live-coding-good]
+> Watch this first participatory live coding demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
+> and this second demo video: [https://youtu.be/SkPmwe_WjeY][live-coding-good]
 > as a group and then summarize your feedback on both in the Etherpad.
 > Use the 2x2 rubric for feedback we discussed earlier.  
 >
@@ -120,50 +120,22 @@ Many error messages are obscure and not written with novices in mind. Continue t
 7. **Stick to the lesson material.** The core Carpentries lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Do not do this, since there is a fair chance you will run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
 Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
 8. **Leave no learner behind.** Use sticky notes, see below, to gauge learners' progress and understanding.
-9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]({{ page.root }}{% link _episodes/09-mindset.md %}#errors-are-essential-to-learning) and to help your learners learn the art of troubleshooting.
+9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing]({{ page.root }}{% link _episodes/08-motivation.md %}) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 
 Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper]
 
-## Sticky Notes
-Give each learner two sticky notes of different colours, e.g., yellow and blue.
-If someone has completed an exercise, they put the blue sticky note on their laptop;
-if they run into a problem and need help, the put up the yellow one.  This is better
-than having people raise their hands because:
-
-*  it is more discreet (which means they are more likely to actually do it),
-*  they can keep working while their flag is raised, and
-*  the instructor can quickly see from the front of the room what state the class is in.
-
-Sometimes a yellow sticky involves a technical problem that takes a bit
-more time to solve.  To prevent this issue slowing down the whole
-class too much, you could use the occasion to take the small break you
-had planned to take a bit later, giving the helper(s) time to fix the
-problem.
-
-Remind learners frequently about using their sticky notes, or they (and you) will forget.
-
-> ## Accessibility of Sticky Notes
-> We strongly encourage you to get sticky notes in colors other than red and green, 
-> as we have found that some learners (not to mention helpers and instructors!) 
-> may have colorblindness and thus cannot properly ask for/give help this way. 
-> Alternate ideas are to use differently-shaped sticky notes (stars and squares, 
-> thumbs up that can be turned into thumbs down stickies), or to use one sticky note 
-> as a flag for help.
-{: .callout}
-
 > ## Practice Teaching
 >
-> Teach 3 minutes of your chosen lesson episode using live coding to one or two
-> fellow trainees, then swap and watch while the other person(s) live codes for
-> you. (For this exercise, your peers will not "code-along", but will instead observe and give feedback.)
->
-> Explain in advance to your fellow trainee(s) what you will be teaching
-> and what the learners you teach it to are expected to be familiar with.
->
-> **Do not record this exercise.** Give each other feedback
-> using the 2x2 rubric we discussed previously and enter the feedback
-> you received in the Etherpad.
+> 1. Split into groups of three.
+> 1. Assign roles, which will rotate: presenter, timekeeper, note-taker.
+> 2. Have each group member teach 3 minutes of your chosen lesson episode using live coding.
+>   For this exercise, your peers will not "code-along." Before
+>   you begin, briefly describe what you will be teaching and what has been learned previously. Do not record this exercise.
+> 3. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric as yesterday. The
+> timekeeper should keep feedback discussion to about 1 minute per person; this may leave some time at the end for general
+> discussion. The note-taker should record feedback in the Etherpad.
+> 4. Trade off roles. 
 >
 > This exercise should take about 25 minutes.  
 {: .challenge}
