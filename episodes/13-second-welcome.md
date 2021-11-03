@@ -17,7 +17,7 @@ keypoints:
 - "Teaching is a learned skill."
 ---
 
-To recap from yesterday's introduction, the goal of this training is prepare
+To refresh as we enter the second half of this workshop, the goal of this training is prepare
 you to be a certified Carpentries Instructor, which includes the following:
 - be familiar with and understand how to apply research-based teaching principles,
 especially as they apply to The Carpentries audience.
@@ -28,7 +28,7 @@ identify and implement The Carpentries policies and general practices to accompl
 - learn enough about The Carpentries organization to know where to go for help,
 how to start organizing a workshop, and how to get involved with community activities.
 
-Yesterday we focused on general aspects of educational psychology and pedagogy and
+So far we have focused on general aspects of educational psychology and pedagogy and
 how to create a positive classroom as environment, addressing the first two goals.
 We started to address the third goal by discussing the importance of lesson study
 and observation, and by providing an opportunity to teach and
@@ -40,7 +40,8 @@ in The Carpentries is participatory live coding.  We will spend some time practi
 one, you rarely find this approach in a current university setting so it is good
 to try it out, but also, this will give us a chance to continue developing skills
 we discussed yesterday that help improve our teaching: reflective practice and
-providing (and receiving!) constructive feedback. Finally, we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
+providing (and receiving!) constructive feedback. In the final sections of the workshop, 
+we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
 
 > ## Questions
 >
