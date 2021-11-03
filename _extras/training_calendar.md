@@ -26,7 +26,7 @@ After a registration has been cancelled in Eventbrite, the code that was used to
 
 If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
 
-### Attendance
+#### Attendance
 Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
 
 A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
