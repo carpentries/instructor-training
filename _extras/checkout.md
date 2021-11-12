@@ -253,7 +253,7 @@ If you have any questions or did not provide a GitHub user name when registering
 training, please email us at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
-opportunities. You may also adjust your preferences to select whether you want to have your GitHub profile shared on our
+opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
 [Instructors page][instructors-page].
 
 ## 5. Congratulations!
