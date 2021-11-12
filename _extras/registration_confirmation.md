@@ -18,7 +18,7 @@ One week before the event you will receive an email from [instructor.training@ca
 If you do not receive this email, please check your spam folder and email instructor.training@carpentries.org. Please note that this mailbox is not continuously monitored, so be sure to check for this email well ahead of the time of your training. 
 
 ## How to Prepare for Instructor Training
-Before your training, please visit our [Preparing for Instructor Training page](https://data-lessons.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows:
+Before your training, please visit our [Preparing for Instructor Training page](https://carpentries.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows:
 
 1. Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.
 2. Select a lesson to use for teaching practice sessions, spending no more than 20-30 minutes to prepare.
@@ -27,7 +27,7 @@ Before your training, please visit our [Preparing for Instructor Training page](
      - ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
      - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
 ## Checkout: The Instructor Certification Process 
-After your training, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
+After your training, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
 
 
 ## If you Need to Reschedule or Cancel 
