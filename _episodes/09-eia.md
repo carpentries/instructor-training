@@ -300,7 +300,7 @@ at the top), though our [#accessibility channel][slack-accessibility] on [The Ca
 
 
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
-[glossary]: https://www.diversity.pitt.edu/DEIGlossary
+[glossary]: https://www.diversity.pitt.edu/education/diversity-equity-and-inclusion-glossary
 [core-values]: https://carpentries.org/values/
 [CAST]: https://udlguidelines.cast.org
 [handbook-accessibility-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility
