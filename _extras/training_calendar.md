@@ -54,3 +54,29 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
+#### [January 13-14, 2022](https://www.eventbrite.com/e/online-instructor-training-january-13-14-2022-tickets-220589909357)
+**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220113T09&p1=179&ah=8)
+
+<hr>
+
+#### [February 9-10, 2022 ](https://www.eventbrite.com/e/online-instructor-training-february-9-10-2022-tickets-220592657577)
+**Two 8-hour days:** 9 am - 5 pm N. America Mountain / 11 am - 7 pm N. America Eastern  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20220209T09&p1=75&ah=8)
+
+<hr>
+
+#### [March 3-4, 2022](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2022-tickets-220593901297)
+**Two 8-hour days:**  9 am - 5 pm Central European Time / 8 am - 4 pm GMT  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220303T09&p1=195&ah=8)
+<hr>
+
+#### [March 7-10, 2022](https://www.eventbrite.com/e/online-instructor-training-march-7-10-2022-tickets-220595435887)
+**Four 4-hour days** 9 am - 1 pm N. America Pacific  / 12 pm - 4 pm N. America Eastern /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220307T09&p1=137&ah=4)
+<hr>
+
+#### [March 15-16, 2022](https://www.eventbrite.com/e/online-instructor-training-march-15-16-2022-tickets-220597211197)
+**Two 8-hour days:**  9 am - 5 pm GMT / 11 am - 7 pm South Africa Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220315T09&p1=136&ah=8)
+<hr>
+
+#### [March 28-29, 2022](https://www.eventbrite.com/e/online-instructor-training-march-28-29-2022-tickets-220600059717)
+**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
+<hr>
+
