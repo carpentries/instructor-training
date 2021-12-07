@@ -41,14 +41,6 @@ New trainings are added to this calendar on a quarterly basis.
 <hr>
 
 
-
-
-#### [December 14-15, 2021](https://www.eventbrite.com/e/online-instructor-training-december-14-15-2021-tickets-170018988371) 
-**Two 8-hour days:** 9 am - 5 pm Central European Time / 10 am - 6 pm South Africa Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211214T09&p1=195&ah=8)
-
-<hr>
-
-
 #### [December 16-17, 2021](https://www.eventbrite.com/e/online-instructor-training-december-16-17-2021-tickets-170020045533)
 **Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20211216T09&p1=179&ah=8)
 
