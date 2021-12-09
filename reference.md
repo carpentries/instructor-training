@@ -1,5 +1,6 @@
 ---
 layout: reference
+title: "Key Points and References"
 root: .
 ---
 
