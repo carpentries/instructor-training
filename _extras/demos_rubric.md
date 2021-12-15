@@ -11,13 +11,13 @@ In general, the majority of people pass their demonstrations. When a trainee is 
 mark in a "Negative" column can be considered justification for asking a trainee to redo their demonstration if the problem is significant. As always,
 Trainers should use their own judgement when applying this rubric in individual cases.  
 
-|Positive Content|Negative Content|
+|Positive Content|Opportunities for Growth|
 |------|---------------------|
 Uses Carpentries curriculum with only minor deviations|Deviates significantly or does not use Carpentries curriculum|
 Places content in context and explains relevance/utility to learners|Jumps into the content without context|
 Teaches content correctly|Makes factual errors in content and does not correct|
 
-|Positive Delivery|Negative Delivery|
+|Positive Delivery|Opportunities for Growth|
 |------|---------------------|
 Manually types out all their code| Copies and pastes code from the lesson materials into their programming environment
 Mirrors the learner's environment (e.g. default terminal setup, simplified prompt)|Uses shortcuts or tools that are unfamiliar/unavailable to learners|
