@@ -131,7 +131,7 @@ of that Etherpad.
 
 > ## Carpentries Tools: Etherpads
 >
-> The Etherpad is a collaborative note taking tool that is widely used in Carpentries workshops and many other activities in the community.
+> The Etherpad is a collaborative note-taking tool that is widely used in Carpentries workshops and many other activities in the community.
 > We also use Etherpads for sign-ups and notes on recurring events, like community discussions and teaching demonstrations.
 > Most Etherpads for recurring events are linked from our ["pad of pads"][pad-of-pads].
 > This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
@@ -226,7 +226,7 @@ language (unless you are part of that target group).
 
 The link to connect to the video conference is at the top of the Traning Demonstration Sessions Etherpad. 
 Your Trainer may send an email with confirmation and/or additional instructions prior to your demo. 
-If possible, plan to use a headset with built in microphone for the best audio experience.
+If possible, plan to use a headset with built-in microphone for the best audio experience.
 
 ### During the Demo
 For your demonstration(s), you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use whatever notes you want, but
