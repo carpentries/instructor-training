@@ -233,4 +233,5 @@ we will talk about how to prepare with your team to create a cohesive classroom 
 
 [Wiggins]: https://www.worldcat.org/title/understanding-by-design/oclc/56491025
 [Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
+[Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
