@@ -224,7 +224,7 @@ your name and a link to your lesson of choice to that Etherpad. Be sure to **dou
 link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
-The link to connect to the video conference is at the top of the Traning Demonstration Sessions Etherpad. 
+The link to connect to the video conference is at the top of the Teaching Demos Etherpad. 
 Your Trainer may send an email with confirmation and/or additional instructions prior to your demo. 
 If possible, plan to use a headset with built-in microphone for the best audio experience.
 
