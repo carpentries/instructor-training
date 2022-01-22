@@ -13,7 +13,6 @@ or run `make` in this directory for a list of helpful commands.
 **Maintainer(s):**
 
 * [Sarah Brown][brown_sarah]: @brownsarahm
-* [Christina Koch][koch_christina]: @ChristinaLK 
 * [Tim Dennis][dennis_tim]: @jt14den
 * [Karen Word][word_karen]: @karenword  
 
