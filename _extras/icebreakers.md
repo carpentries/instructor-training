@@ -61,3 +61,11 @@ What is your favorite emoji. If you do not have a favorite or do not use emoiji'
 ### Mythical creature
 
 What is a mythical creature from where you grew up?
+
+### Something you might have in common
+
+What is something you might have in common with someone else? Maybe this is a hobby, a pet, a favorite tool, anything.
+
+### Joy
+
+What is something that has recently brought you joy?
