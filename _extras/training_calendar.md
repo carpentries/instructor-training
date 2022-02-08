@@ -54,7 +54,7 @@ New trainings are added to this calendar on a quarterly basis.
 
 #### [March 23-24, 2022](https://www.eventbrite.com/e/online-instructor-training-march-23-24-new-zealand-time-tickets-264277259397)
 **Two 8-hour days:**  9 am - 5 pm New Zealand / 7 am - 3 pm AEDT / 1 pm - 9 pm **previous day** N. America Pacific [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20220323T09&p1=22&ah=8)
-
+<hr>
 
 #### [March 28-29, 2022](https://www.eventbrite.com/e/online-instructor-training-march-28-29-2022-tickets-220600059717)
 **Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
