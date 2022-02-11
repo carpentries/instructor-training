@@ -63,5 +63,6 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
 [text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
