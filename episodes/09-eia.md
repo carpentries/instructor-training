@@ -177,7 +177,7 @@ surveys][post-surveys] is difficulty hearing an Instructor from the back of the 
 
 As Instructors, many aspects of our classroom environment are within our control or influence. 
 However, the world is a complicated place, and there will always be extraneous factors that 
-contribute to demotivation and add to cogitive load. These vary from person to person, but 
+contribute to demotivation and add to cognitive load. These vary from person to person, but 
 members of certain groups often carry a heavier load due to systemic forces that disproportionately 
 impact them. What we can control, in this case, is our own awareness of the challenges these forces 
 present to teaching and learning. As with other demotivation pitfalls, we can also
