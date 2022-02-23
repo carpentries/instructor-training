@@ -331,7 +331,7 @@ is a teaching skill that you can develop with reflective practice.
 >
 >> ## Solution
 >> 1. If the majority of the class votes for a single wrong answer, you have a widespread misconception 
->> and can stop to examine and that misconception.  
+>> and can stop to examine and correct that misconception.  
 >> 2. If most of the class votes
 >> for the right answer, it is ok to explain the answer and move on. Helpers can make 
 >> themselves available to assist anyone who still feels uncertain. 
@@ -415,7 +415,7 @@ helps solidify both ideas.
 > One of the strengths of Carpentries workshops is that we meet learners *where they are*. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
-> feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
+> feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills,
 > building an inclusive learning environment, and continually getting (and paying attention to!) feedback
 > from learners. We will be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
