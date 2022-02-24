@@ -98,10 +98,10 @@ what pads can be used for, and how long pads stick around. You may also want to 
 
 If you have a helper for the training, or want to involve your co-instructor more,
 here are some ways where it is easy to do so without much prep:
-* give an example of a mental model in "The Importance of Practice"
+* give an example of a mental model in "Building Skill with Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
-* find + talk about a good (or bad) learning objective in "Lesson Study"
+* find + talk about a good (or bad) learning objective in "Preparing to Teach"
 * have this person monitor the chat (if online) and answer questions, catch "hands"
 
 ### Episode order
