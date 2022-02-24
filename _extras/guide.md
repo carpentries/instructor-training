@@ -63,7 +63,7 @@ Details about the Instructor Trainer role including the application process, dut
 
 ### Using Slides
 
-Whether or not slides should be used be used during instructor training
+Whether or not slides should be used during instructor training
 is a subject of [frequent discussion][great-slide-issue].
 
 The main **advantage** is that slides provide a visual aid when explaining
