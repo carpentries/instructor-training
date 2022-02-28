@@ -40,10 +40,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [March 3-4, 2022](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2022-tickets-220593901297)
-**Two 8-hour days:**  9 am - 5 pm Central European Time / 8 am - 4 pm GMT  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220303T09&p1=195&ah=8)
-<hr>
-
 #### [March 7-10, 2022](https://www.eventbrite.com/e/online-instructor-training-march-7-10-2022-tickets-220595435887)
 **Four 4-hour days** 9 am - 1 pm N. America Pacific  / 12 pm - 4 pm N. America Eastern /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220307T09&p1=137&ah=4)
 <hr>
