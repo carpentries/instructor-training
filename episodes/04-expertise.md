@@ -189,9 +189,8 @@ it with more positive and motivating word choices.
 
 > ## Changing Your Language  
 >
-> 1) What other words or phrases, besides "just", can have the same effect of dismissing the experience of finding a subject difficult or unclear? 
-> 
-> 2) Propose an alternate phrasing for one of the suggestions above.
+> 1. What other words or phrases, besides "just", can have the same effect of dismissing the experience of finding a subject difficult or unclear? 
+> 2. Propose an alternate phrasing for one of the suggestions above.
 > 
 > Write your examples and alternatives in the Etherpad.
 >
