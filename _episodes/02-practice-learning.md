@@ -115,7 +115,6 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 > you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
 > 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
 > convey about the topic? How is it useful? In what ways is it wrong?
-> 
 >
 > This activity should take about 10 minutes.
 {: .challenge}
@@ -173,19 +172,18 @@ perhaps illustrated as:
 
 > ## Mapping a Mental Model
 >
-> 1) On a piece of paper, draw a simplified concept map of the same concept you discussed in the last activity, but this time without the analogy. 
+> 1. On a piece of paper, draw a simplified concept map of the same concept you discussed in the last activity, but this time without the analogy. 
 > What are 3-4 core 
-> concepts involved? How are those concepts related? (Note: if you would like to try out an online tool for this exercise, visit <https://excalidraw.com> .)
->  
-> 2) In the Etherpad, write some notes on this process. Was it difficult? Do you think it would be a useful exercise prior to teaching about your topic?
+> concepts involved? How are those concepts related? (Note: if you would like to try out an online tool for this exercise, visit <https://excalidraw.com>.)
+> 2. In the Etherpad, write some notes on this process. Was it difficult? Do you think it would be a useful exercise prior to teaching about your topic?
 > What challenges might a novice face in creating a concept map of this kind?  
+> 
 > This exercise should take about 5 minutes.
 {: .challenge}
 
 ## Misconceptions
 
-The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around.  
-It may endure in this way for several years of beaches and bathtubs.
+The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around. It may endure in this way for several years of beaches and bathtubs.
 
 However, when this child is asked to predict what would happen to the water if a ball were not bigger or smaller but *heavier* or *lighter*, they will naturally apply their existing mental model to the task. 
 BUT...
