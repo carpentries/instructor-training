@@ -77,9 +77,9 @@ to explain what you are doing step-by-step, and how each step leads to the next 
 
 ### Mind The Gap
 
-The problem with this is that when you are used to going from A to E in a single leap, it can 
-be very hard to remember that novices need to go through B, C, and D to understand the 
-connection. Experts are frequently so familiar with their subject 
+The problem with this is that when you are used to going from A to F in a single leap, it can 
+be very hard to remember that novices need to go through steps B and C before they can understand the 
+connection between A and F. Experts are frequently so familiar with their subject 
 that they can no longer imagine what it is like to *not* understand the world that way. 
 This phenomenon is known in the literature as an *expert blind spot*.
 
