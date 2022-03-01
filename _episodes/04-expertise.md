@@ -64,8 +64,8 @@ The greater connectivity of a mental model allows experts to:
 * jump directly from a problem to its solution
 because there is a direct link between the two in their mind.
 Where a competent practitioner would have to reason
-"A therefore B therefore C therefore D therefore E",
-the expert can go from A to E in a single step ("A therefore E").
+"A therefore B therefore C therefore F",
+the expert can go from A to F in a single step ("A therefore F").
 
 We will expand on some of these below and how they can manifest in the way you teach.
 
