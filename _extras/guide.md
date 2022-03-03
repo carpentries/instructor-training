@@ -63,7 +63,7 @@ Details about the Instructor Trainer role including the application process, dut
 
 ### Using Slides
 
-Whether or not slides should be used be used during instructor training
+Whether or not slides should be used during instructor training
 is a subject of [frequent discussion][great-slide-issue].
 
 The main **advantage** is that slides provide a visual aid when explaining
@@ -98,10 +98,10 @@ what pads can be used for, and how long pads stick around. You may also want to 
 
 If you have a helper for the training, or want to involve your co-instructor more,
 here are some ways where it is easy to do so without much prep:
-* give an example of a mental model in "The Importance of Practice"
+* give an example of a mental model in "Building Skill with Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
-* find + talk about a good (or bad) learning objective in "Lesson Study"
+* find + talk about a good (or bad) learning objective in "Preparing to Teach"
 * have this person monitor the chat (if online) and answer questions, catch "hands"
 
 ### Episode order
@@ -227,9 +227,6 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 ### Building Skill with Practice
 ### Expertise and Instruction
 ### Memory and Cognitive Load
-
-* FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
-
 ### Building Skill with Feedback
 ### Motivation and Demotivation
 
