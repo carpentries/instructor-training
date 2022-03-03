@@ -58,7 +58,7 @@ an arrow labelled "Experience level" points from left to right. The "Novice" is 
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
     Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic
-    as they rely on prior knowledge, without knowing what is/not related yet.
+    as they rely on prior knowledge, without knowing what is or is not related yet.
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
