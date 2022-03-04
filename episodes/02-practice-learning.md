@@ -184,7 +184,7 @@ perhaps illustrated as:
 
 ## Misconceptions
 
-The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around.  
+The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around. 
 It may endure in this way for several years of beaches and bathtubs.
 
 However, when this child is asked to predict what would happen to the water if a ball were not bigger or smaller but *heavier* or *lighter*, they will naturally apply their existing mental model to the task. 
