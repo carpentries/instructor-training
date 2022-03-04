@@ -57,28 +57,28 @@ New trainings are added to this calendar on a quarterly basis.
 <hr>
 
 ####[April 4-7, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days**     [See the start date and time in your time zone]()
 
 ####[April 26-29, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
 
 ####[May 10-11, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
 
 ####[May 16-19, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days**     [See the start date and time in your time zone]()
 
 ####[June 9-10, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
 
 ####[June 14-17, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days**     [See the start date and time in your time zone]()
 
 ####[June 15-16, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
 
 ####[June 21-22, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
 
 ####[June 29-30, 2022]()
-**hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days**     [See the start date and time in your time zone]()
