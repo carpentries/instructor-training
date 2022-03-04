@@ -56,3 +56,29 @@ New trainings are added to this calendar on a quarterly basis.
 **Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
 <hr>
 
+####[April 4-7, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[April 26-29, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[May 10-11, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[May 16-19, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[June 9-10, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[June 14-17, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[June 15-16, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[June 21-22, 2022]()
+**hour days**     [See the start date and time in your time zone]()
+
+####[June 29-30, 2022]()
+**hour days**     [See the start date and time in your time zone]()
