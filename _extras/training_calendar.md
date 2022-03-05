@@ -3,16 +3,15 @@ layout: page
 title: "Instructor Training Calendar"
 ---
 
-
 ### About Carpentries Instructor Training
 
-This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures. 
+This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures.
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
 In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout’ steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
 
-### How to Register for an Instructor Training 
+### How to Register for an Instructor Training
 
 Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.  
 
@@ -74,54 +73,53 @@ New trainings are added to this calendar on a quarterly basis.
 
 #### [April 4-7, 2022](https://www.eventbrite.com/e/online-instructor-training-april-4-7-2022-tickets-291493283257)
 
-**Four 4-hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days:** 1 pm - 5 pm N. America Mountain / 3 pm - 7 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20220404T13&p1=75&ah=4)
 
 <hr>
 
 #### [April 26-29, 2022](https://www.eventbrite.com/e/online-instructor-training-april-26-29-2022-tickets-291556893517)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220426T12&p1=240&ah=4)
 
 <hr>
 
 #### [May 10-11, 2022](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2022-tickets-291497736577)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days:** 9 am to 1 pm British Summer Time / 1:30 pm - 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220510T09&p1=136&ah=8)
 
 <hr>
 
 #### [May 16-19, 2022](https://www.eventbrite.com/e/online-instructor-training-may-16-19-2022-tickets-291499371467)
 
-**Four 4-hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days:** 9 am - 1 pm N. America Mountain / 11 am - 3 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220516T09&p1=75&ah=4)
 
 <hr>
 
 #### [June 9-10, 2022](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2022-tickets-291502019387)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days:** 9 am to 5 pm Central European Time /  12:30 pm - 8:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220609T09&p1=195&ah=8)
 
 <hr>
 
 #### [June 14-17, 2022](https://www.eventbrite.com/e/online-instructor-training-june-14-17-2022-tickets-291557786187)
-**Four 4-hour days**     [See the start date and time in your time zone]()
+**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220614T12&p1=240&ah=4)
 
 <hr>
 
 #### [June 15-16, 2022](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2022-tickets-291504346347)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220615T09&p1=179&ah=8)
 
 <hr>
 
 #### [June 21-22, 2022](https://www.eventbrite.com/e/online-instructor-training-june-21-22-2022-tickets-291506613127)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm to 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220621T09&p1=136&ah=8)
 
 <hr>
 
 #### [June 29-30, 2022](https://www.eventbrite.com/e/online-instructor-training-june-29-30-2022-tickets-291508177807)
 
-**Two 8-hour days**     [See the start date and time in your time zone]()
+**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220629T09&p1=137&ah=8)
 
 <hr>
-
