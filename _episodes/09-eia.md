@@ -89,11 +89,11 @@ For example, a participant who is hard of hearing may simply hope that
 instructors will speak loudly enough for them to hear. Taking steps to make 
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
-### From Accomodation to Universal Design 
-Accomodation means changing things to serve an individual with a demonstrated need. 
-However, **accomodation puts the onus on the indvidual with the need** to 
-have to disclose their disability and ask for accomodations. Reluctance to 
-do so is understandable: requests for accomodation are often met with negative 
+### From Accommodation to Universal Design 
+Accommodation means changing things to serve an individual with a demonstrated need. 
+However, **accommodation puts the onus on the individual with the need** to 
+have to disclose their disability and ask for accommodations. Reluctance to 
+do so is understandable: requests for accommodation are often met with negative 
 emotions such as uncertainity, confusion, annoyance or anger by those receiving the requests.  
 
 By contrast, "universal design" means creating something to be maximally usable by all people 
