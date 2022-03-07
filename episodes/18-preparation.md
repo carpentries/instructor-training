@@ -15,7 +15,7 @@ keypoints:
 - "A good exercise informs Learners and Instructors when an objective is achieved."
 ---
 ## Building Teaching Skill
-In this training, we have discussed many cognitive principles and teaching practices that guide underlie the design and 
+In this training, we have discussed many cognitive principles and teaching practices that guide the design and 
 implementation of Carpentries Workshops.
 We hope you are feeling excited and optimistic about putting 
 those concepts to work! 
