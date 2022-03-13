@@ -107,7 +107,7 @@ Awareness gaps can lead to some interesting reversals in the classroom. While de
 area can be valuable when teaching, it can also create obstacles that must be overcome with practice. 
 People with less expertise, who still remember what it is like to have to learn the things, can 
 be better equipped to anticipate novice misconceptions compared with an expert who has not learned 
-to identify their awarenesss gaps. 
+to identify their awareness gaps. 
 
 What does this mean for you? If you have deep expertise in the subject you are hoping to teach, listen 
 carefully to your learners, and seek out less-expert colleagues to discuss your teaching plans. 
