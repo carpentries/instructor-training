@@ -103,7 +103,7 @@ The greater challenge, in most cases, is identifying where and how to cut.
 
 
 ### What Comes Next?
-If you submit your own contribution, be sure to send an email with a link to [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+If you submit your own contribution, be sure to send an email with a link to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or
 requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
