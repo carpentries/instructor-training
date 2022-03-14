@@ -233,7 +233,7 @@ please do not display them on your screen. Teach as you would in an actual works
 When your five minutes are up, the Trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching.
 You will be asked to give feedback on yourself as well as on others;
-your Trainer will likely recommmend a feedback structure using two axes of positive vs. negative
+your Trainer will likely recommend a feedback structure using two axes of positive vs. negative
 and content vs. presentation, just as you have done during this workshop.
 
 ### Languages Other than English
