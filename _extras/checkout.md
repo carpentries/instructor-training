@@ -59,7 +59,7 @@ in to GitHub to be able to see the comment box at the bottom of each issue.
 
 If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also view
 and comment on existing PRs. We will not cover the details of how to create a PR, but there is a
-community-[contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md) that can help.
+community-[contributed guide][github-guide] that can help.
 
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
@@ -270,6 +270,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
 [discussion]: https://pad.carpentries.org/community-discussions
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
+[github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [instructors-page]: https://carpentries.org/instructors/
