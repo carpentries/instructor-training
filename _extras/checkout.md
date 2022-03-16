@@ -58,8 +58,8 @@ in to GitHub to be able to see the comment box at the bottom of each issue.
 ![Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled](../fig/Instructor_Training_Repo_4.svg){: width="800px" }
 
 If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also view
-and comment on existing PRs. We will not cover the details of how to create a PR, but there is a
-community-[contributed guide][github-guide] that can help.
+and comment on existing PRs. We will not cover the details here, but there is [a 
+community-contributed guide on how to create a PR][github-guide] that can help.
 
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
