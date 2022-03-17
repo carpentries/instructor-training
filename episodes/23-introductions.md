@@ -191,6 +191,11 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > > - Check with the workshop host to see if they have any closing words or instructions they would like to share.
 > > - Celebrate everyone's hard work. Thank your learners for helping each other, for staying motivated and persevering with you! Thank your helpers -- keep a
 > > list of names handy if you might forget them. Enjoy the applause, and give everyone a moment to bask in praise for a job well done.
+> > Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Some examples could be:
+> >    - Recreate an spreadsheet from a past presentation in R
+> >    - Write a lab notebook entry in R-markdown
+> >    - Backup a thesis or manuscript by storing it on a version control server
+> >    - Log in to a remote machine and run an analysis there
 > {: .solution}
 {: .challenge}
 
