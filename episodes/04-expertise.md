@@ -64,8 +64,8 @@ The greater connectivity of a mental model allows experts to:
 * jump directly from a problem to its solution
 because there is a direct link between the two in their mind.
 Where a competent practitioner would have to reason
-"A therefore B therefore C therefore D therefore E",
-the expert can go from A to E in a single step ("A therefore E").
+"A therefore B therefore C therefore F",
+the expert can go from A to F in a single step ("A therefore F").
 
 We will expand on some of these below and how they can manifest in the way you teach.
 
@@ -77,9 +77,9 @@ to explain what you are doing step-by-step, and how each step leads to the next 
 
 ### Mind The Gap
 
-The problem with this is that when you are used to going from A to E in a single leap, it can 
-be very hard to remember that novices need to go through B, C, and D to understand the 
-connection. Experts are frequently so familiar with their subject 
+The problem with this is that when you are used to going from A to F in a single leap, it can 
+be very hard to remember that novices need to go through steps B and C before they can understand the 
+connection between A and F. Experts are frequently so familiar with their subject 
 that they can no longer imagine what it is like to *not* understand the world that way. 
 This phenomenon is known in the literature as an *expert blind spot*.
 
@@ -96,7 +96,7 @@ This phenomenon is known in the literature as an *expert blind spot*.
 >
 > I like expert awareness gap because it is more precise than blind spot
 > (it is not about seeing, but about noticing) and feels more of a surmountable
-> challenge than a disadvantage. To me a disadvantage can sometimes feel like
+> challenge than a disadvantage. To me a disadvantage can sometimes feel like a
 > thing that exists as a fact, like an inevitable consequence, but a gap is a
 > thing to be bridged-- and we certainly want instructors to try to overcome
 > (or mitigate) their expert awareness gap
@@ -107,7 +107,7 @@ Awareness gaps can lead to some interesting reversals in the classroom. While de
 area can be valuable when teaching, it can also create obstacles that must be overcome with practice. 
 People with less expertise, who still remember what it is like to have to learn the things, can 
 be better equipped to anticipate novice misconceptions compared with an expert who has not learned 
-to identify their awarenesss gaps. 
+to identify their awareness gaps. 
 
 What does this mean for you? If you have deep expertise in the subject you are hoping to teach, listen 
 carefully to your learners, and seek out less-expert colleagues to discuss your teaching plans. 
@@ -189,9 +189,8 @@ it with more positive and motivating word choices.
 
 > ## Changing Your Language  
 >
-> 1) What other words or phrases, besides "just", can have the same effect of dismissing the experience of finding a subject difficult or unclear? 
-> 
-> 2) Propose an alternate phrasing for one of the suggestions above.
+> 1. What other words or phrases, besides "just", can have the same effect of dismissing the experience of finding a subject difficult or unclear? 
+> 2. Propose an alternate phrasing for one of the suggestions above.
 > 
 > Write your examples and alternatives in the Etherpad.
 >

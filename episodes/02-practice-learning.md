@@ -58,7 +58,7 @@ an arrow labelled "Experience level" points from left to right. The "Novice" is 
 *   *Novice*: someone who does not know what they do not know, i.e.,
     they do not yet know what the key ideas in the domain are or how they relate.
     Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic
-    as they rely on prior knowledge, without knowing what is/not related yet.
+    as they rely on prior knowledge, without knowing what is or is not related yet.
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
@@ -184,7 +184,7 @@ perhaps illustrated as:
 
 ## Misconceptions
 
-The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around.  
+The mental model above connects a ball to the water it can displace, recognizing that 'more' ball can move 'more' water. This mental model is perfectly functional for a child who wants to have fun splashing water around. 
 It may endure in this way for several years of beaches and bathtubs.
 
 However, when this child is asked to predict what would happen to the water if a ball were not bigger or smaller but *heavier* or *lighter*, they will naturally apply their existing mental model to the task. 
@@ -331,7 +331,7 @@ is a teaching skill that you can develop with reflective practice.
 >
 >> ## Solution
 >> 1. If the majority of the class votes for a single wrong answer, you have a widespread misconception 
->> and can stop to examine and that misconception.  
+>> and can stop to examine and correct that misconception.  
 >> 2. If most of the class votes
 >> for the right answer, it is ok to explain the answer and move on. Helpers can make 
 >> themselves available to assist anyone who still feels uncertain. 
@@ -415,7 +415,7 @@ helps solidify both ideas.
 > One of the strengths of Carpentries workshops is that we meet learners *where they are*. Carpentries Instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
-> feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
+> feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills,
 > building an inclusive learning environment, and continually getting (and paying attention to!) feedback
 > from learners. We will be talking in more depth about each of these strategies as we go forward in our workshop.
 {: .callout}
