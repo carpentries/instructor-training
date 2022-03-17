@@ -181,9 +181,10 @@ at consolidation.
 While many people believe that they can "multi-task," the reality is that attention can 
 only focus on one thing at a time. Adding items that demand attention adds more things 
 to alternate between attending to, which can reduce efficiency and performance on all of them.
-the theory of **[cognitive load][wikipedia-cognitive-load]**.
-There are different theories of cognitive load, but one by Sweller posits that people have to 
-attend to three types of things when they are learning:
+
+### The Theory of Cognitive Load
+
+There are different [theories of cognitive load][wikipedia-cognitive-load]. In one of these, [Sweller posits that people have to attend to three types of things when they are learning](https://doi.org/10.1207/s15516709cog1202_4):
 
 *   Things they have to think about in order to **perform a task** ("intrinsic").
 *   Mental effort required to **connect the task** to new and old information ("germane").
