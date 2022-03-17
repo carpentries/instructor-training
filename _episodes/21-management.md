@@ -378,12 +378,6 @@ Note that there are pros and cons to using Etherpad. Pads do occasionally
 freeze or crash, so we recommend creating a backup copy. Otherwise, Etherpads persist 
 indefinitely, so they may be used for further reference after a workshop. 
 
-> ## Minute Cards Revisited
->
-> Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
-{: .challenge}
-
 [blog-coc-facilitators]: https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/
 [worldcat-interactions]: https://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
