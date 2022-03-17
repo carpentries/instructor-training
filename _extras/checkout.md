@@ -126,12 +126,12 @@ community.
 
 When signing up on the [Community Discussion Etherpad][discussion], be sure to examine the description of your event carefully. Also, **take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
-of the Etherpad.
+of that Etherpad.
 
 
-> ## Carpentries Tools: Etherpad
+> ## Carpentries Tools: Etherpads
 >
-> The Etherpad is a collaborative note taking tool that is widely used in Carpentries workshops and many other activities in the community.
+> The Etherpad is a collaborative note-taking tool that is widely used in Carpentries workshops and many other activities in the community.
 > We also use Etherpads for sign-ups and notes on recurring events, like community discussions and teaching demonstrations.
 > Most Etherpads for recurring events are linked from our ["pad of pads"][pad-of-pads].
 > This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
@@ -174,7 +174,7 @@ meetings, CarpentryCon, and CarpentryConnect events are all eligible to satisfy 
 
 ### Getting Credit
 After each Community Discussion meeting, hosts submit a form that includes the names of attendees who identified themselves as
-fulfilling their checkout requirement. This is indicated by writing "checkout" next to your name in the Etherpad. As long as you
+fulfilling their checkout requirement. This is indicated by writing "checkout" next to your name when you register in the Community Discussion Etherpad. As long as you
 indicate that you are completing checkout and attend the event you are signed up for, it is not necessary to email us after attending a standard
 Community Discussion meeting.
 
@@ -219,13 +219,15 @@ think your lesson has good start points for participatory instruction, you may e
 work for a checkout demo. Be sure to give yourself time to change course if your planned lesson will not work.
 
 ### Sign-up and Set-up
-To sign up, select a session that works for you on [the teaching demo schedule Etherpad]({{page.demopad}}), and add
-your name and a link to your lesson of choice to the Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter
+To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
+your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter
+
 link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
-The link to connect to the video conference is at the top of the Etherpad. Your Trainer may send an email with confirmation and/or
-additional instructions prior to your demo. If possible, plan to use a headset with built in microphone for the best audio experience.
+The link to connect to the video conference is at the top of the Teaching Demos Etherpad. 
+Your Trainer may send an email with confirmation and/or additional instructions prior to your demo. 
+If possible, plan to use a headset with built-in microphone for the best audio experience.
 
 ### During the Demo
 For your demonstration(s), you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use whatever notes you want, but
