@@ -110,7 +110,7 @@ organization before starting the training.
 
 Software Carpentry, Data Carpentry, and Library Carpentry
 are official Lesson Programs of The Carpentries.
-Together, they form a **global community of volunteer researchers, educators, and others** oriented around
+The Carpentries is a **global community of volunteer researchers, educators, and others** oriented around
 improving basic computing and data skills for
 researchers through intensive, short-format workshops.
 * Software Carpentry focuses on helping researchers develop foundational
@@ -157,7 +157,7 @@ We will have many opportunities to practice and give each other feedback through
 One part of making this a productive experience for all of us is a
 community effort to treat one another with kindness and respect.  The [Code of Conduct]({{ site.coc }}) 
 is one piece of this. We will also be discussing and practicing teaching techniques to create a positive and
-welcoming environment in your classrooms, and will spend some time talking about why this is so important.
+welcoming environment in your classrooms, and will spend some time talking about why this is important.
 
 ### The Carpentries History and Culture
 

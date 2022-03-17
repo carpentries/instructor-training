@@ -58,8 +58,8 @@ in to GitHub to be able to see the comment box at the bottom of each issue.
 ![Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled](../fig/Instructor_Training_Repo_4.svg){: width="800px" }
 
 If you find something that you know how to fix by changing the code of the lesson, you may instead wish to submit a Pull Request (PR). You can also view
-and comment on existing PRs. We will not cover the details of how to create a PR, but there is a
-community-[contributed guide](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md) that can help.
+and comment on existing PRs. We will not cover the details here, but there is [a 
+community-contributed guide on how to create a PR][github-guide] that can help.
 
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
@@ -103,7 +103,7 @@ The greater challenge, in most cases, is identifying where and how to cut.
 
 
 ### What Comes Next?
-If you submit your own contribution, be sure to send an email with a link to [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+If you submit your own contribution, be sure to send an email with a link to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or
 requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
@@ -221,6 +221,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 ### Sign-up and Set-up
 To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
 your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter
+
 link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
@@ -234,7 +235,7 @@ please do not display them on your screen. Teach as you would in an actual works
 When your five minutes are up, the Trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching.
 You will be asked to give feedback on yourself as well as on others;
-your Trainer will likely recommmend a feedback structure using two axes of positive vs. negative
+your Trainer will likely recommend a feedback structure using two axes of positive vs. negative
 and content vs. presentation, just as you have done during this workshop.
 
 ### Languages Other than English
@@ -248,10 +249,11 @@ also email you to let you know, as this information is typically not shared duri
 after you have attended your teaching demonstration.
 
 ## 4. Tracking Your Progress
-After you complete this workshop, your application will be matched to your training record and a profile will be created in The
+After your instructor training workshop, Carpentries Core Team members will use your application or profile-creation form to activate
+your profile in The
 Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub ID.
-If you have any questions or did not provide a GitHub user name when registering for
-training, please email us at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+If you have any questions or did not provide a GitHub user name in your form, please email us 
+at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
@@ -270,6 +272,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
 [discussion]: https://pad.carpentries.org/community-discussions
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
+[github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [glosario-github]: https://github.com/carpentries/glosario/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [instructors-page]: https://carpentries.org/instructors/

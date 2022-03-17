@@ -10,7 +10,7 @@ Carpentries Instructor Training has the following goals:
 * Introduce you to evidence-based teaching practices.
 * Teach you how to create a positive environment for learners at your workshops.
 * Provide opportunities for you to practice and build your teaching skills.
-* Help you become integrated into the [Carpentries]([Carpentries]({{ site.carpentries_site }})) community.
+* Help you become integrated into the [Carpentries]({{ site.carpentries_site }}) community.
 * Prepare you to use these teaching skills in teaching [Carpentries workshops](https://carpentries.org/workshops/).
   
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
