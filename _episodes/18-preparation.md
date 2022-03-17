@@ -231,6 +231,13 @@ your team's preferences, many of the independent preparation steps described her
 we will talk about how to prepare with your team to create a cohesive classroom experience in a later episode.
 
 
+> ## Minute Cards Revisited
+>
+> Use your sticky notes to write minute cards
+> as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
+{: .challenge}
+
+
 [Wiggins]: https://www.worldcat.org/title/understanding-by-design/oclc/56491025
 [Config]: https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions
 [Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
