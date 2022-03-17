@@ -94,6 +94,7 @@ checkout contributions. This is because The Carpentries Code of Conduct does not
 
 We recommend that contributions be directed to:
 * any [Data Carpentry]({{ site.dc_site }}/lessons/), [Library Carpentry]({{ site.lc_site }}/lessons/), or [Software Carpentry]({{ site.swc_site }}/lessons/) lesson
+* the Carpentries Instructor Curriculum (this site)
 * any [community developed lesson][carpentries-incubator]
 * our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
