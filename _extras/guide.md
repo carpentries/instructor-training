@@ -63,7 +63,7 @@ Details about the Instructor Trainer role including the application process, dut
 
 ### Using Slides
 
-Whether or not slides should be used be used during instructor training
+Whether or not slides should be used during instructor training
 is a subject of [frequent discussion][great-slide-issue].
 
 The main **advantage** is that slides provide a visual aid when explaining
@@ -89,16 +89,19 @@ what pads can be used for, and how long pads stick around. You may also want to 
 
 ### General Preparation
 
-TBA
+- Have water and cough drops nearby.
+- Decide ahead of time if you will be using google docs or an etherpad.
+- Most people like or enjoy this training.
+- There is no such thing as "too much coffee" or "too many donuts"
 
 ### Using Helpers/Co-Instructors
 
 If you have a helper for the training, or want to involve your co-instructor more,
 here are some ways where it is easy to do so without much prep:
-* give an example of a mental model in "The Importance of Practice"
+* give an example of a mental model in "Building Skill with Practice"
 * tell a motivational/demotivational story in "Motivation and Demotivation"
 * help collect 1-up, 1-down feedback by either writing or directing the participants
-* find + talk about a good (or bad) learning objective in "Lesson Study"
+* find + talk about a good (or bad) learning objective in "Preparing to Teach"
 * have this person monitor the chat (if online) and answer questions, catch "hands"
 
 ### Episode order
@@ -185,6 +188,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - Google Doc pros + cons
     - Pros: richer formatting
     - Cons: no line numbers
+  - Have a plaintext list of names that you can paste into the Etherpad/Google Doc. Reduces confusion when a bunch of people need to answer something at once, and subtly makes it clear that everyone needs to respond.
 - **Zoom tips**
   - Announce *at the beginning* of the training that all participants should mute when
   they are not talking.  You may need to repeat this a few times during the early part
@@ -200,6 +204,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
+  - You can never practice too much with Zoom! 
 
 ## V. Curriculum Teaching Tips
 
@@ -211,6 +216,7 @@ This is a place for Trainers to leave tips and observations for those newer to t
 
 * Giving breaks is *extremely* important -- for learners to decompress, take a walk, check email, etc.  Make sure to give
 learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon break. (EW)
+- Make good use of breaks - use them for a short exercise, or just give a break entirely for people to take a breather.
 
 ### Welcome
 
@@ -221,9 +227,6 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 ### Building Skill with Practice
 ### Expertise and Instruction
 ### Memory and Cognitive Load
-
-* FM and RH: The [online tool](http://cat.xula.edu/thinker/memory/working/serial) we use to test working memory requires Flash. There is a verbal exercise you can use if Flash does not work for you.
-
 ### Building Skill with Feedback
 ### Motivation and Demotivation
 
