@@ -26,20 +26,17 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "checkout@carpentries.org"
+email: "instructor.training@carpentries.org"
 
 # Sites.
-amy_site: "https://amy.carpentries.org/workshops"
+amy_site: "https://amy.carpentries.org/"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"
-dc_site: "http://datacarpentry.org"
-dc_github: "https://github.com/datacarpentry"
+dc_site: "https://datacarpentry.org"
 example_repo: "https://github.com/carpentries/lesson-example"
 example_site: "https://carpentries.github.io/lesson-example"
 lc_site: "https://librarycarpentry.org/"
-lc_github: "https://github.com/LibraryCarpentry"
-lc_pages: "https://librarycarpentry.github.io"
 swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
@@ -47,11 +44,14 @@ template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
-coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id="
-instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id="
+instructor_pre_survey: "https://carpentries.typeform.com/to/QVOarK#slug="
+instructor_post_survey: "https://carpentries.typeform.com/to/cjJ9UP#slug="
+
+# Set to 'true' for instructor training websites only.
+instructor_training: true
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
 start_time: 540
@@ -89,6 +89,9 @@ exclude:
   - bin/
   - .Rproj.user/
   - files/rubric.md
+  - .vendor/
+  - vendor/
+  - .docker-vendor/
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge

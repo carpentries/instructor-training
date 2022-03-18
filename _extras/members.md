@@ -20,7 +20,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## How to schedule your team for training: 
 
-* You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/). All events run from 9am to 5pm in the time zone listed. 
+* You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/). 
 
 * Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organize a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training. 
 
@@ -34,8 +34,6 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 * Information about software/hardware requirements for the training, preparatory homework, and video-conference connection information will be provided one week before the event. 
 
-* The [schedule](http://carpentries.github.io/instructor-training/#schedule) includes a lunch break as well as two shorter breaks in the morning and afternoon.
-
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, you will be notified two weeks before the event and will have the opportunity to sign up for a future event.*
 
 
@@ -45,7 +43,8 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 * After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
-* Your Instructors will receive ongoing support and mentorship from Carpentries staff and experienced Instructors to help them prepare to start teaching at your institution and beyond. 
+* Ongoing support and mentorship for trained Instructors is available through The Carpentries community discussions and mentorship programs 
+as well as through partcipation in other roles in The Carpentries community.  
 
 We’re excited to have you and your staff taking this important step to build a strong community of Instructors at your organization. We look forward to welcoming your Instructors into our community!
 

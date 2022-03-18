@@ -3,108 +3,111 @@ layout: page
 title: "Instructor Training Calendar"
 ---
 
+### About Carpentries Instructor Training
 
-# The Carpentries Instructor Training Calendar: 2021
+This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures.
 
-Trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  If you are with a member site ready to schedule your instructor training session, you should have received an email with a code for your team to register. People affiliated with member sites can register at any time during their site's membership term.
+For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-If you are joining through our open application program, applications are reviewed on a rolling basis.  Applicants who are accepted will receive a code to register for an event below.  Open applicants can register no earlier than one month before each event.
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout’ steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
 
-Most trainings are offered online from 9 am to 5 pm in the time zone listed (unless otherwise noted below). Select events run for shorter periods of time over several days. You do not need to be in the same time zone yourself but need to accommodate that time zone for the full event. A link is provided next to each event that will convert the start time to your local time zone.
+### How to Register for an Instructor Training
 
-Read more about our Instructor Training program [here]({{ page.root }}).
+Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.  
 
-If you have not already done so, please be sure to also complete our [instructor training application](https://amy.carpentries.org/forms/request_training/) so we can be sure you are in our system **in addition to** completing the registration on Eventbrite. The registration on Eventbrite secures your seat at an event; the application form ensures your information is in our system.    
+### When to Register
 
-The class will be hands-on throughout:
-short lessons will alternate with individual and group practical exercises,
-including practice teaching sessions.
-Those who complete the two full days
-and [some short follow-up exercises online]({{ page.root }}/checkout/)
-will be certified to teach [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}), and [Library Carpentry]({{ site.lc_site }}) workshops.
+#### Members and other groups
 
-Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [checkout@carpentries.org](mailto:checkout@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another training event.
+Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date. 
 
-**During the COVID-19 global pandemic, our Instructor Training offerings may be limited. We will add more events to this calendar as they are scheduled. Please contact [checkout@carpentries.org](mailto:checkout@carpentries.org) if you have questions.  Thank you.**
+#### Open Instructor Training
 
-## New! Events over multiple days
-To offer more flexible options for our community, we are piloting events that run over mutliple days, with a set number of hours each day. Attendance for the entire event is mandatory.
+Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one workshop; duplicate registrations may be deleted.
 
-* February 1-4, 2021 (9 am to 1 pm North America Pacific Time) *Registration Closed*
-* March 1-23, 2021 (9:30 am to 11:30 am Australia Eastern Daylight Time (March 1, 2, 8, 9, 15, 16, 22, 23) *Registration Closed*
-* March 15-18, 2021 (9 am to 1 pm North America Central) *Registration Closed*
-* April 12-14, 2021 *Registration Closed*
-    * **Note the special timing of this event. It is spread out different times over three days.**
-    * Monday April 12, 12:30 pm to 5 pm North America Central *See this day in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210412T1230&p1=64&ah=4&am=30)*
-    * Tuesday April 13, 9 am to 5 pm North America Central *See this day in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210413T09&p1=64&ah=8)*
-    * Wednesday April 14, 9 am to 12 pm North America Central *See this day in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210414T09&p1=64&ah=3)*
-* April 12-15, 2021 *Registration Closed*
+### Cancellation Policies
 
-* [May 3-6, 2021](https://www.eventbrite.com/e/online-instructor-training-may-3-6-2021-british-summer-time-tickets-144492441783) 
-    * 8 am to 12 pm North America Eastern 
-    * 1 pm to 5 pm British Summer Time
-    * 2 pm to 6 pm Central European Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210503T13&p1=136&ah=4)*   
+Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline. 
 
-* [May 4-26, 2021](https://www.eventbrite.com/e/online-instructor-training-may-4-26-2021-new-zealand-standard-time-tickets-145132291591) 
-    * **This training will take place for two hours a day, two days a week, for four weeks**
-    * 11 am to 1 pm, Tuesdays and Wednesdays, Australia Eastern Standard Time
-    * 1 pm to 3 pm, Tuesdays and Wednesdays, New Zealand Standard Time
-    * 6 pm to 8 pm, Mondays and Tuesdays North America Pacific Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210504T13&p1=22&ah=2)*
+After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event. 
 
-* [June 7-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-7-10-2021-tickets-143821825953)
-    * 9 am to 1 pm North America Eastern
-    * 2 pm to 6 pm British Summer Time
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210607T09&p1=179&ah=4)*
+If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
 
+#### Attendance
 
-* [June 15-18, 2021](https://www.eventbrite.com/e/online-instructor-training-june-15-18-2021-australia-eastern-std-time-tickets-145397061525)
-    * 9 am to 1 pm Australia Eastern Standard Time (Tuesday-Friday)
-    * 11 am to 2 pm New Zealand Time (Tuesday-Friday)
-    * 4 pm to 8 pm North America Pacific Time (Monday-Thursday)
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210615T09&p1=47&ah=5)*
+Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
 
+A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
 
-* [June 21-24, 2021](https://www.eventbrite.com/e/online-instructor-training-june-21-24-2021-tickets-143825063637)
-    * 9 am to 1 pm North America Pacific
-    * 12 noon to 4 pm North America Eastern
-    * *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210621T09&p1=137&ah=4)*
+More details on our [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) are available in The Carpentries Handbook.
 
+### Upcoming Instructor Training
 
+New trainings are added to this calendar on a quarterly basis.
 
-## Two day events
+<hr>
 
-The events below run for two days, from 9 am to 5 pm in the time zone specified.  Attendance for the entire event is mandatory.
+#### [March 24-25, 2022](https://www.eventbrite.com/e/online-instructor-training-march-24-25-2022-tickets-272333365427)
 
-### North America
+**Two 8-hour days:**  9 am - 5 pm N. America Central / 2 pm - 10 pm UTC /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220324T09&p1=64&ah=8)
 
-#### Pacific time
-* January 13-14, 2021 *Registration Closed*
-* March 25-26, 2021 *Registration Closed*
-* [June 9-10, 2021](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2021-n-america-pacific-time-tickets-143823468867) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210609T09&p1=137&ah=9)*
+<hr>
 
+#### [March 28-29, 2022](https://www.eventbrite.com/e/online-instructor-training-march-28-29-2022-tickets-220600059717)
 
-#### Central time
-* February 11-12, 2021 *Registration Closed*
-* March 23-24, 2021 *Registration Closed*
-* [May 19-20, 2021](https://www.eventbrite.com/e/online-instructor-training-may-19-20-2021-n-america-central-time-tickets-144264269313) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20210519T09&p1=64&ah=8)*
-* [June 15-16, 2021](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2021-n-america-central-time-tickets-143824357525) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+instructor+training&iso=20210615T09&p1=64&ah=8)*
+**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
 
-#### Eastern time
-* January 21-22, 2021 *Registration Closed*
-* March 3-4, 2021 *Registration Closed*
-* [June 23-24](https://www.eventbrite.com/e/online-instructor-training-june-23-24-2021-n-america-eastern-time-tickets-143825334447) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210623T09&p1=179&ah=8)*
+<hr>
 
+#### [April 4-7, 2022](https://www.eventbrite.com/e/online-instructor-training-april-4-7-2022-tickets-291493283257)
 
-### Europe and Africa
+**Four 4-hour days:** 1 pm - 5 pm N. America Mountain / 3 pm - 7 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20220404T13&p1=75&ah=4)
 
-#### Western European time
-* February 25-26, 2021 *Registration Closed*
-* April 29-30, 2021 *Registration Closed* 
-* *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20210429T09&p1=136&ah=8)*
+<hr>
 
-#### Central European/Western African time
-* January 25-26, 2021 *Registration Closed*
-* [June 17-18, 2021](https://www.eventbrite.com/e/online-instructor-training-june-17-18-2021-central-european-summer-time-tickets-143826012475) *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+training&iso=20210617T09&p1=195&ah=8)*
+#### [April 26-29, 2022](https://www.eventbrite.com/e/online-instructor-training-april-26-29-2022-tickets-291556893517)
 
+**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220426T12&p1=240&ah=4)
+
+<hr>
+
+#### [May 10-11, 2022](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2022-tickets-291497736577)
+
+**Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm - 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220510T09&p1=136&ah=8)
+
+<hr>
+
+#### [May 16-19, 2022](https://www.eventbrite.com/e/online-instructor-training-may-16-19-2022-tickets-291499371467)
+
+**Four 4-hour days:** 9 am - 1 pm N. America Mountain / 11 am - 3 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220516T09&p1=75&ah=4)
+
+<hr>
+
+#### [June 9-10, 2022](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2022-tickets-291502019387)
+
+**Two 8-hour days:** 9 am to 5 pm Central European Time /  12:30 pm - 8:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220609T09&p1=195&ah=8)
+
+<hr>
+
+#### [June 14-17, 2022](https://www.eventbrite.com/e/online-instructor-training-june-14-17-2022-tickets-291557786187)
+**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220614T12&p1=240&ah=4)
+
+<hr>
+
+#### [June 15-16, 2022](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2022-tickets-291504346347)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220615T09&p1=179&ah=8)
+
+<hr>
+
+#### [June 21-22, 2022](https://www.eventbrite.com/e/online-instructor-training-june-21-22-2022-tickets-291506613127)
+
+**Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm to 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220621T09&p1=136&ah=8)
+
+<hr>
+
+#### [June 29-30, 2022](https://www.eventbrite.com/e/online-instructor-training-june-29-30-2022-tickets-291508177807)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220629T09&p1=137&ah=8)
+
+<hr>
