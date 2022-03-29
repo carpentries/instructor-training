@@ -47,7 +47,7 @@ A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, http://en.
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in The Carpentries activities is required
-to abide by our [Code of Conduct]({{ site.coc }}). Any form of behaviour to exclude, intimidate, 
+to abide by our [Code of Conduct][coc]. Any form of behaviour to exclude, intimidate, 
 or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional 
 learning environment we encourage you to:  
 * Use welcoming and inclusive language
@@ -199,6 +199,7 @@ use in your teaching practice in general and in teaching Carpentries
 workshops specifically.
 
 --------------------
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
 [lesson-dev]: https://carpentries-incubator.github.io/study-groups/
 [lesson-dev-web]: https://carpentries.org/involved-lessons/
