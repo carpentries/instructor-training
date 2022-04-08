@@ -221,9 +221,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 
 ### Sign-up and Set-up
 To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
-your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter
-
-link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
+your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
 The link to connect to the video conference is at the top of the Teaching Demos Etherpad. 
