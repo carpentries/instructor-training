@@ -250,8 +250,8 @@ after you have attended your teaching demonstration.
 ## 4. Tracking Your Progress
 After your instructor training workshop, Carpentries Core Team members will use your application or profile-creation form to activate
 your profile in The
-Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub ID.
-If you have any questions or did not provide a GitHub user name in your form, please email us 
+Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub username.
+If you have any questions or did not provide a GitHub username in your form, please email us 
 at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
