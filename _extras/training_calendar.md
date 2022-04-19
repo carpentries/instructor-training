@@ -47,12 +47,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [April 26-29, 2022](https://www.eventbrite.com/e/online-instructor-training-april-26-29-2022-tickets-291556893517)
-
-**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220426T12&p1=240&ah=4)
-
-<hr>
-
 #### [May 10-11, 2022](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2022-tickets-291497736577)
 
 **Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm - 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220510T09&p1=136&ah=8)
