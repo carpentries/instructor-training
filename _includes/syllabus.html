@@ -80,16 +80,6 @@
   {% if site.instructor_training %}
   <tr>
     {% if multiday %}<td class="col-md-1"></td>{% endif %}
-    <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif +++ %}{{ minutes }}</td>
-    <td class="col-md-3"><a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-training survey</a></td>
-    <td class="col-md-7">Please fill out our post-training survey after the course.</td>
-  </tr>
-  {% assign current = current | plus: 15 %}
-  {% assign hours = current | divided_by: 60 %}
-  {% assign minutes = current | modulo: 60 %}
-  {% endif %}
-  <tr>
-    {% if multiday %}<td class="col-md-1"></td>{% endif %}
     <td class="{% if multiday %}col-md-1{% else %}col-md-2{% endif %}">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
     <td class="col-md-3">Post-training survey</td>
     <td class="col-md-7">Please ask your Trainer for a custom link to your post-training survey at the end of the course.</td>
