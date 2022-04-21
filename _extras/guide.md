@@ -225,6 +225,18 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
 ### Building Skill with Practice
+People often request to see more examples of concept maps. These are some examples linked from a previous version of the curriculum:
+
+* [Array Math](../fig/array-math.png)
+* [Conditionals](../fig/conditionals.png)
+* [Creating and Destroying Files](../fig/create-destroy.png)
+* [Sets and Dictionaries in Python](../fig/dict-set.png)
+* [Input and Output](../fig/io.png)
+* [Lists and Loops](../fig/lists-loops.png)
+* [Git Version Control](../fig/git_concept_map.png)
+
+Most of these are much larger than our recommended limit for the activity. It can be helpful to make a larger map and then narrow down to a smaller one.
+
 ### Expertise and Instruction
 ### Memory and Cognitive Load
 ### Building Skill with Feedback
