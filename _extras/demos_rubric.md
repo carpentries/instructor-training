@@ -33,24 +33,30 @@ Appears focused and attentive to learners|Appears significantly distracted by co
 
 ---
 
-Trainers can also use the form below to take notes during the teaching demonstration.
+Trainers can also copy the form below to take notes during the teaching demonstration.
 
-Trainee:
+```
+# Teaching Demonstration Notes
 
-Date:
+**Trainee**:
+**Date**:
 
-|Aspect|Comments_________________________________________________|
-|------|---------------------|
-|<br>Sticks to curriculum<br>|
-|<br>Context|
-|<br>Content Knowledge|
-|<br>Mirror learner's environment|
-|<br>Font & window size|
-|<br>Explanation of typing|
-|<br>Embraces & uses mistakes|
-|<br>Use of notes on paper/tablet|
-|<br>Distraction-free screen|
-|<br>Wording|
-|<br>Pacing|
-|<br>Clarity|
-|<br>Demeanor & focus|
+## Content
+
+**Sticks to curriculum**:
+**Context**:
+**Content Knowledge**:
+
+## Delivery
+
+**Mirror learner's environment**:
+**Font & window size**:
+**Explanation of typing**:
+**Embraces & uses mistakes**:
+**Use of notes on paper/tablet**:
+**Distraction-free screen**:
+**Wording**:
+**Pacing**:
+**Clarity**:
+**Demeanor & focus**:
+```
