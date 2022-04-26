@@ -49,6 +49,7 @@ Trainers can also copy the form below to take notes during the teaching demonstr
 
 ## Delivery
 
+**Manual typing:
 **Mirror learner's environment**:
 **Font & window size**:
 **Explanation of typing**:
