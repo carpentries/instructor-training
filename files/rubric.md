@@ -18,7 +18,9 @@
 
 - Award +1 for using tools "every day" or "a few times a week".
 
-- Award +4 for meeting criteria for current recruitment push. As of August 2021, active recruitment areas are:
-     - EukRef community members   
+- Award points for meeting criteria for current recruitment push. As of April 2022, active recruitment areas are:
+     - EukRef community members  (+4) 
+     - Applicants willing to teach Centrally Organised Workshops (+4)
+     - Humanities, Library & information sciences, Economics/business, Social Sciences, Chemistry (+1)
 
 - Award -3 to +3 based on free text responses.
