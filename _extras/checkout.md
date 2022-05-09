@@ -51,7 +51,7 @@ feedback. Issues can be searched, using the search bar at the top:
 
 ![Screen shot of Instructor Training GitHub repository with Issues tab selected and search bar and New Issue button circled](../fig/Instructor_Training_Repo_2.svg){: width="800px" }
 
-If you have an idea, it is a good idea to search first to see if anyone else has already suggested it! If so, you can add your thoughts as a comment
+If you have an idea, it is best to first search to verify if anyone else has suggested it! If so, you can add your thoughts as a comment
 on the existing issue instead of starting a new one. Either way, you will get credit for your contribution to the conversation. Note that you must be signed
 in to GitHub to be able to see the comment box at the bottom of each issue.
 
