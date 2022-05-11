@@ -18,7 +18,7 @@ Briefly, the three steps are:
 
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
 ## 1. Lesson Contributions
@@ -69,7 +69,7 @@ All Carpentries curricula (including this one) are hosted on GitHub. Learning to
 including the ability to contribute to other open-source projects! However, we understand that there are many
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
-For this checkout task, you may email your contribution to [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+For this checkout task, you may email your contribution to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Be sure to include a link to the lesson or site that you are addressing in your contribution. A Carpentries Core Team member will
 add your contribution to the relevant repository on your behalf (e.g. by creating an issue), and will send you a link so that
 you may view any responses by the maintainers.
@@ -180,7 +180,7 @@ indicate that you are completing checkout and attend the event you are signed up
 Community Discussion meeting.
 
 If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
-not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org) to confirm.
+not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to confirm.
 
 ## 3. Teaching Demonstration
 
@@ -252,7 +252,7 @@ After your instructor training workshop, Carpentries Core Team members will use 
 your profile in The
 Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub username.
 If you have any questions or did not provide a GitHub username in your form, please email us 
-at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
