@@ -145,7 +145,7 @@ Learner profiles have three parts:
 > "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
 > to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for
 > the repository you are working in. If you do make a significant contribution to the discussion, send a link to
-> the issue to [checkout@carpentries.org](mailto: checkout@carpentries.org). Congratulations! You have
+> the issue to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Congratulations! You have
 > just completed one of the three remaining steps in becoming a Carpentries Instructor.
 >
 > Leave about 5-10 minutes for this exercise.
