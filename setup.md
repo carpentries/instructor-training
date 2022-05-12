@@ -37,7 +37,7 @@ in all of the practical exercises (a tablet will not be sufficient).
 After this course is over, you will be asked to do three short follow-up exercises online 
 in order to finish certification as an Instructor: the details are available on the [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html). 
   
-If you have any questions about the workshop, the reading material, or anything else, please [email us](mailto: instructor.training@carpentries.org)!
+If you have any questions about the workshop, the reading material, or anything else, please [email us](mailto:instructor.training@carpentries.org)!
 
 
 Recommended Episodes
