@@ -20,7 +20,7 @@ keypoints:
 
 > ## Pronouns and Names
 > 
-> Using correct names and pronouns (e.g. "she/her") is important to setting a tone of respect. Learning these is hard to
+> Using correct names and pronouns (e.g. "she/her") is important for setting a respectful tone. Learning these is hard to
 > do quickly, so we recommend displaying it prominently during the workshop. 
 > 
 > In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed. 
