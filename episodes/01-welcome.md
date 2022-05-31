@@ -177,7 +177,7 @@ familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries Instructor.
 The additional steps for certification, called _Checkout_, will require that you dig into the workshop content yourself. We will talk about that more tomorrow afternoon.
 
-We also do not discuss how to develop lessons. The Carpentries now has a growing subcommunity dedicated to lesson development, 
+We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development, 
 along with [its own onboarding curriculum][lesson-dev]. For more on lesson development, see [The Carpentries website][lesson-dev-web].
 
 If there is a particular topic that you would like us to address, let the Trainers
