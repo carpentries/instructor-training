@@ -43,7 +43,16 @@ you are comfortable and ready for.
 >
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
 > Did you come up with something that is not listed below?
->
+>> ## Solution
+>> 1.  Set positive first impressions
+>> 1.  Introduce yourself effectively (and have other workshop leaders do the same)
+>> 1.  Clarify learning objectives and expectations
+>> 1.  Help learners learn about each other
+>> 1.  Set the tone for the workshop
+>> 1.  Collect baseline data on learners' knowledge and motivation
+>> 1.  Whet learners' appetite for workshop content
+>> 1.  Inform Learners of Logistics 
+> {: .solution}
 {: .challenge}
 
 ### Learning Objectives For your Introduction
