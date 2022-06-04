@@ -64,3 +64,46 @@ New trainings are added to this calendar on a quarterly basis.
 **Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220629T09&p1=137&ah=8)
 
 <hr>
+
+#### [July 11-12, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-july-11-14-2022-tickets-356777670617)
+
+**Two 8-hour days:** 9 am to 1 pm N. America Pacific / 12 noon to 4 pm N. America Eastern /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries&iso=20220711T09&p1=137&ah=4)
+
+<hr>
+
+#### [July 27-28, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-july-27-28-2022-tickets-356782314507)
+
+**Four 4-hour days:** 9 am to 5 pm Central European Time / 12:30 pm to 8:30 pm India Standard Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220727T09&p1=195&ah=8)
+
+<hr>
+
+#### [August 9-10, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-august-9-10-2022-tickets-356783066757)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern time / 3 pm to 11 pm Central European Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220809T09&p1=179&ah=8)
+
+<hr>
+
+#### [August 23-26, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-august-23-26-2022-tickets-356785012577)
+
+**Four 4-hour days:**  7:30 am to 11:30 am India Standard Time  /  12 pm to 4 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220823T12&p1=240&ah=4)
+
+<hr>
+
+#### [September 6-7, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-6-7-2022-tickets-356787911247)
+
+**Two 8-hour days:** 9 am to 5 pm Central European Time / 12:30 pm to 8:30 pm India Standard Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220906T09&p1=195&ah=8)
+
+<hr>
+
+#### [September 6-9, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-6-9-2022-tickets-356789185057)
+
+**Four 4-hour days:** 10 am to 2 pm North America Pacific Time / 1 pm to 5 pm North America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220906T13&p1=179&ah=4)
+
+<hr>
+
+#### [September 20-23, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-20-23-2022-tickets-356790498987)
+
+**Four 4-hour days:** 7 am to 11 am N. America Eastern Time / 1 pm to 5 pm Central European Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220920T13&p1=195&ah=4)
+
+<hr>
+
