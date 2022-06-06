@@ -134,7 +134,7 @@ People vary in their beliefs about the nature of intelligence and skill developm
 are often praised as "talented" or having "high ability," and may develop an identity around being a certain "type of 
 person" who has inherent strengths or weaknesses.
 
-The belief that ability or inteligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
+The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
 continuing topic of research and debate in education communities. In the specific context of Carpentries workshops, we frequently encounter learners who believe that they are not 
 "computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We 
 therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through 
@@ -171,7 +171,7 @@ help here, too.
 + **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes 
 straight to your identity as a person of intellect and skill. When faced with a fixed mindset ("I'm not a computational person!"), many well-intentioned teachers 
 counter with another fixed mindset ("You ARE a computational person! You're really good at this!"). However, this doesn't prepare learners to interpret future obstacles as 
-irrelevant to innate ability. Evidence suggests that learner perseverence is best supported in the long term by praising effort or improvement instead. If you 
+irrelevant to innate ability. Evidence suggests that learner perseverance is best supported in the long term by praising effort or improvement instead. If you 
 are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
 
 > ## Choosing our Praises
