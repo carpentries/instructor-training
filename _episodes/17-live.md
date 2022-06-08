@@ -96,7 +96,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 >
 > In the videos, the bash shell `for` loop is taught,
 > and it is assumed learners are familiar with how to use a variable,
-> the `head` command and the content of the `basilisk.dat unicorn.dat`
+> the `head` command and the content of the `basilisk.dat` and `unicorn.dat`
 > files.
 >
 > Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
