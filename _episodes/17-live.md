@@ -96,10 +96,10 @@ Many error messages are obscure and not written with novices in mind. Continue t
 >
 > In the videos, the bash shell `for` loop is taught,
 > and it is assumed learners are familiar with how to use a variable,
-> the `head` command and the content of the `basilisk.dat unicorn.dat`
+> the `head` command and the content of the `basilisk.dat` and `unicorn.dat`
 > files.
 >
-> Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
+> Note: Sometimes sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
 >
 > This exercise and discussion should take about 15 minutes.
 >
@@ -113,7 +113,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 ## Top Ten Tips for Participatory Live Coding in a Workshop
 1. **Stand up and move around the room if possible.** This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.
 2. **Go slowly.** For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it.  Then point to the command and its output on the screen and go through it a second time.  This slows you down and allows learners to copy what you do, or to catch up.  Do not copy-paste code.
-3. **Mirror your learner's environment.** Try to create an environment that is as similar as possible to what your learners have to reduce cognitive load. Avoid using keyboard shortcuts.
+3. **Mirror your learners' environment.** Try to create an environment that is as similar as possible to what your learners have to reduce cognitive load. Avoid using keyboard shortcuts.
 4. **Use your screen wisely.** Use a big font, and maximize the window.  A black font on a white background works better than a light font on a dark background.  When the bottom of the projector screen is at the same height, or below, the heads of the learners, people in the back will not be able to see the lower parts.  Draw up the bottom of your window(s) to compensate. Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, re-position the tables so all learners can see the screen, and helpers can easily reach all learners.
 5. **Use illustrations** to help learners understand and organize the material. You can also generate the illustrations on the board as you progress through the material.  This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching.  It helps learners understand the material, makes for a more lively workshop and gathers the learners' attention to you as well.
 6. **Turn off notifications** on your laptop and phone.
