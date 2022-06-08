@@ -91,7 +91,7 @@ Now, we would like to get to know all of you.
 > 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
 > 2.  I have not had any teaching experience in the past.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
-> 4.  I have been the main/responsible teacher for a course at my own university/college course.
+> 4.  I have been the primary or responsible teacher for a university/college course.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
 >
