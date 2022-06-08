@@ -73,7 +73,7 @@ New trainings are added to this calendar on a quarterly basis.
 
 #### [July 27-28, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-july-27-28-2022-tickets-356782314507)
 
-**Four 4-hour days:** 9 am to 5 pm Central European Time / 12:30 pm to 8:30 pm India Standard Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220727T09&p1=195&ah=8)
+**Two 8-hour days:** 9 am to 5 pm Central European Time / 12:30 pm to 8:30 pm India Standard Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220727T09&p1=195&ah=8)
 
 <hr>
 
