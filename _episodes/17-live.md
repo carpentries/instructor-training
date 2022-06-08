@@ -99,7 +99,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 > the `head` command and the content of the `basilisk.dat` and `unicorn.dat`
 > files.
 >
-> Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
+> Note: Sometimes sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
 >
 > This exercise and discussion should take about 15 minutes.
 >
