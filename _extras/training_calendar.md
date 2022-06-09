@@ -47,12 +47,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [June 15-16, 2022](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2022-tickets-291504346347)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220615T09&p1=179&ah=8)
-
-<hr>
-
 #### [June 21-22, 2022](https://www.eventbrite.com/e/online-instructor-training-june-21-22-2022-tickets-291506613127)
 
 **Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm to 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220621T09&p1=136&ah=8)
