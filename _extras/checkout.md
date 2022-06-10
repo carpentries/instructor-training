@@ -205,8 +205,8 @@ Trainers draw from their own experience and training when they evaluate teaching
 For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
 Carpentries lesson programs. Please refer to the lists of [Data Carpentry lessons]({{ site.dc_site }}/lessons/), [Library Carpentry lessons]({{ site.lc_site }}/lessons/), and [Software Carpentry lessons]({{ site.swc_site }}/lessons/) on the websites.
 
-A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub.
-(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
+A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]).
 Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
