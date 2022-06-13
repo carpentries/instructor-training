@@ -91,7 +91,7 @@ what pads can be used for, and how long pads stick around. You may also want to 
 ### General Preparation
 
 - Have water and cough drops nearby.
-- Decide ahead of time if you will be using google docs or an etherpad.
+- Decide ahead of time if you will be using google docs or an Etherpad.
 - Most people like or enjoy this training.
 - There is no such thing as "too much coffee" or "too many donuts"
 
@@ -221,9 +221,9 @@ learners a full 60 minutes for lunch and 15-20 minutes for the morning/afternoon
 
 ### Welcome
 
-* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they would really like an answer now) or the schedule ends up being a little fractured."
+* From JS: "What happens is that we send participants home at the end of day one with a request to look up more about the Carpentries workshop types and then we ask them what questions they have at the start of day two. While the intent is that these questions will be put in the Etherpad and then taken up later in one way or another this does not happen or at least only happens in part. The result is either a lot of saying, "We will cover that this afternoon" or pulling parts of the relevant afternoon sessions into the morning. Participants thus either end up a little frustrated (because they would really like an answer now) or the schedule ends up being a little fractured."
 	* Response from CK: I have never had the problem described by JS; people are usually willing to wait (especially once we dive into live coding), and I make sure to answer all questions (and take new ones!) in the afternoon.
-	* Response from KW: Another option is to have people put questions into the etherpad in the morning, and then answer them (in the etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
+	* Response from KW: Another option is to have people put questions into the Etherpad in the morning, and then answer them (in the Etherpad) during the live coding practice. Trainees can read them at any time then, and you can refer back to them when necessary.
 
 ### Building Skill with Practice
 People often request to see more examples of concept maps. These are some examples linked from a previous version of the curriculum:
@@ -306,11 +306,11 @@ notes - that is how I always teach. (EB)
 * When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
 Different ways of managing feedback during the demo:
-* Create your own etherpad and populate it with episode links, feedback templates, whatever. 
+* Create your own Etherpad and populate it with episode links, feedback templates, whatever. 
 * Use +/- content delivery rubric. (Or use "improvement" in place of "-" as suggested by MC). Keep in mind that some learners
 (like some Trainers) do not have the content expertise to be able to fully evaluate that category for all lessons.
 * If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing 
-notes in the etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
+notes in the Etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
 summarize/disagree/add/emphasize as needed.
 * I take notes on physical paper during each demo with points I think need to be made, then mark things off as others
 mention them in their feedback. Usually, the trainees catch most of the things I wanted to mention, and I can choose just
