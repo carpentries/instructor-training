@@ -184,8 +184,8 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > You have made it to the end of your workshop! Everyone is exhausted and their brains are full. You could cover more content... or you could use the last few
 > minutes in another way. 
 >
-> In the etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing? 
-> If you have time after writing down your idea, read through the others in the etherpad. If you have another idea that has not been written down yet, add it 
+> In the Etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing? 
+> If you have time after writing down your idea, read through the others in the Etherpad. If you have another idea that has not been written down yet, add it 
 > to the list.
 >
 > This exercise will take about 5 minutes.
