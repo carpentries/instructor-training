@@ -86,7 +86,7 @@ because these imply more complex cognitive actions even where the focal content 
 
 > ## Evaluate Learning Objectives
 >
-> Select one learning objective from the episode you've used for teaching practice. Copy it into the etherpad
+> Select one learning objective from the episode you've used for teaching practice. Copy it into the Etherpad
 > then add numbers below your objective to address the following:
 >
 > 1. Write your learning objective in the Etherpad. 
