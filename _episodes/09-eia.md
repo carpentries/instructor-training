@@ -250,10 +250,10 @@ groups in your community who may be interested in attending.
 ### Setting Expectations with the Code of Conduct
 
 One central way that The Carpentries fosters an inclusive, respectful
-learning environment is our [Code of Conduct]({{ site.coc }}).
+learning environment is our [Code of Conduct][coc].
 
 All participants in our workshops and communities are required to abide by the
-[Code of Conduct]({{ site.coc }}).
+[Code of Conduct][coc].
 This code helps to ensure that our community does not tolerate the persistence of behaviors 
 that harm or exclude others. While such a code cannot prevent all incidents, reminding 
 participants of the Code of Conduct supports them in 

@@ -45,7 +45,6 @@ training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
-coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 
 # Surveys.
 instructor_pre_survey: "https://carpentries.typeform.com/to/QVOarK#slug="
