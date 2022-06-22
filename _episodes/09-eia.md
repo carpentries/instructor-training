@@ -29,9 +29,6 @@ This section addresses topics related to equity, inclusion, and accessibility. T
 and may be familiar to you, but not everyone understands or interprets them in the same way. So, we will start 
 with a few working definitions, adapted from the [University of Pittsburgh DEI Glossary][glossary]:
 
-**Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, 
-equity refers to outcomes while equality connotes equal treatment. 
-
 **Inclusion:**  Actively engaging traditionally excluded individuals and/or groups in processes, activities 
 and decisions in a way that shares power. Inclusion promotes broad engagement, shared participation, 
 and advances authentic sense of belonging through safe, positive, and nurturing environments. 
@@ -40,6 +37,14 @@ and advances authentic sense of belonging through safe, positive, and nurturing 
 that increase one's ability to use, access, and obtain the respective item. Each person is afforded the opportunity to acquire
 the same information, engage in the same interactions, and enjoy the same services in an equally effective and equally
 integrated manner, with substantially equivalent ease of use. 
+
+**Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, 
+equity refers to outcomes while equality connotes equal treatment. 
+
+![Cartoon with two sections. One side, labelled 'equality' shows people of different heights using identical boxes to see over a fence, the shorter people cannot see. The other side, labelled 'equity' shows the same people, but with boxes of different heights sufficient that all can see.](../fig/IISC_EqualityEquity.png){: width="600px" }
+
+Image: [Interaction Institute for Social Change](https://interactioninstitute.org/illustrating-equality-vs-equity/) | Artist: Angus Maguire. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ### The Carpentries Core Values
 
