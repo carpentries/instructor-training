@@ -50,8 +50,10 @@ Extensions may be granted for any reason up to 1 year from your training date.
 > If you would prefer to do your teaching demonstration before your discussion,
 > visit the demo Etherpad and sign up there: <https://pad.carpentries.org/teaching-demos>
 > This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
->
->
+> 
+> If these pages are hard to navigate or you cannot find a suitable time, save these links where 
+> you can find them again and make a note to schedule these steps of your checkout process. 
+> 
 > This exercise should take 5 minutes.
 {: .challenge}
 
