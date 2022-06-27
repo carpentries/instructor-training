@@ -3,9 +3,15 @@ layout: page
 title: "Suggested Lessons for Teaching Demonstrations"
 ---
 
-Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email [checkout@carpentries.org](mailto:checkout@carpentries.org).  Note that while a trainee can choose the lesson to teach from, the Trainer leading the demo session will choose the specific episode at the time of the demo session.
+The table below lists lessons that have been reviewed for good and bad start points to use for a teaching demonstration. Trainees may wish to review this 
+list to a) select a lesson and b) identify episodes marked "avoid" because they will not be asked to teach those episodes. (However, we recommend 
+reviewing the full lesson regardless, as this will help provide context for other start points and is also good preparation for your eventual teaching 
+role!) Note that while a trainee can choose the lesson to teach from, the **Trainer leading the demo session will choose the specific episode at the time 
+of the demo session.** If you would like to use a lesson that is not listed here, you may contact the Instructor Trainer leading your teaching 
+demonstration or (if no one is listed for your session) email [checkout@carpentries.org](mailto:checkout@carpentries.org).  
 
-If the chosen episode is very short and finishes in less than five minutes, the trainee can continue on to the next episode in that lesson.
+If the chosen episode is very short and finishes in less than 5 minutes, the trainee can continue on to the next episode in that lesson. They are not 
+required to cover any specific amount of content within the 5 minute period.
 
 * [Data Carpentry: Ecology](#dc-ecology)
 * [Data Carpentry: Genomics](#dc-genomics)
