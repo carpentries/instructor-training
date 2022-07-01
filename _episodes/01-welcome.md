@@ -55,6 +55,7 @@ learning environment we encourage you to:
 * Gracefully accept constructive criticism
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
+* Explain why he/his, she/her, they/their are written next to the participants' name and how all are excepted to adapt behaviour and language accordingly.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries 
 Code of Conduct Committee by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
