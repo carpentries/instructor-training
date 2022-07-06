@@ -52,7 +52,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 > This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 > 
 > If these pages are hard to navigate or you cannot find a suitable time, save these links where 
-> you can find them again and make a note to schedule these steps of your checkout process. 
+> you can find them again and make a note to schedule these steps for your checkout process. 
 > 
 > This exercise should take 5 minutes.
 {: .challenge}
