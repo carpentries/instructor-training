@@ -91,7 +91,7 @@ Now, we would like to get to know all of you.
 > 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
 > 2.  I have not had any teaching experience in the past.
 > 3.  I have taught a seminar, workshop, or other short or informal course.
-> 4.  I have been the instructor-of-record for my own university/college course.
+> 4.  I have been the primary or responsible teacher for a university/college course.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
 >
@@ -155,7 +155,7 @@ We will have many opportunities to practice and give each other feedback through
 ### Creating a Positive Learning Environment
 
 One part of making this a productive experience for all of us is a
-community effort to treat one another with kindness and respect.  The [Code of Conduct]({{ site.coc }})
+community effort to treat one another with kindness and respect.  The [Code of Conduct][coc] 
 is one piece of this. We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms, and will spend some time talking about why this is important.
 
