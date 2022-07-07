@@ -7,11 +7,11 @@ title: "Additional Exercises"
 > ## Modeling Novice Mental Models
 >
 > Create a multiple choice question related to a lesson you intend to teach.
-> 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom? 
+> 1. Think about the topic of the lesson. What relevant misconceptions might a novice learner bring to the classroom?
 > 2. Create your question. How many choices can you think of that will diagnose a specific misconception?
 > 3. Type your question into the Etherpad
 > and **explain the diagnostic power of each choice.**
-> 
+>
 > This exercise should take about 10 minutes.
 {: .challenge}
 
@@ -47,7 +47,7 @@ title: "Additional Exercises"
 
 ## Episode 9: Equity, Inclusion, and Accessibility
 
- 
+
 > ## Learning about Accessibility
 >
 > The [UK Home Office](https://hodigital.blog.gov.uk/category/accessibility/) has put together a
@@ -56,10 +56,10 @@ title: "Additional Exercises"
 > [these posters](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf) and put one thing you
 > have learned in the Etherpad.
 >
-> Note: There is an [HTML version](https://ukhomeoffice.github.io/accessibility-posters/) in English which may perform better 
+> Note: There is an [HTML version](https://ukhomeoffice.github.io/accessibility-posters/) in English which may perform better
 > with screen readers. There are also [translations](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)
 > available in a number of languages, including Dutch, French, Spanish, Swedish, Portuguese, German, and
-> Chinese. 
+> Chinese.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -85,7 +85,7 @@ title: "Additional Exercises"
 
 ## Episode 15: Preparing to Teach
 
-For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner 
+For our next exercise, we will explore some deep thinking about the 'whole people' who might come to your classroom by creatively brainstorming a **learner
 profile**. This is a good way to support an empathic and intentional approach to your plan for instruction.
 
 Learner profiles have three parts:
@@ -126,7 +126,7 @@ Learner profiles have three parts:
 > ## Feedback On Your Challenges (Optional)
 >
 > With these goals in mind, pair up with a partner to discuss the MCQ and faded example problems that you wrote
-> yesterday. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to
+> in part 1. Give each other specific, actionable feedback that follows our 2x2 framework. Use that feedback to
 > make at least one modification to your exercise(s). Discuss in the Etherpad the change you made and how it will
 > help you get more useful information about your learners.
 >
