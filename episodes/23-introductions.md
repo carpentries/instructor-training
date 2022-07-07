@@ -186,11 +186,11 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > > - Plan next steps. Does the local community have resources to support continued learning? 
 > > Do you have advice for how learners might continue on their own? Even
 > > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
-> > - Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Some examples could be:
-> >    - Recreate an spreadsheet from a past analysis in R
-> >    - Write a lab notebook entry in R-markdown
-> >    - Backup a thesis or manuscript by storing it on a remote server with a version control system
-> >    - Log in to a remote machine and run an analysis there
+> > - Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Potential examples include:
+> >    - Recreate an spreadsheet from a past analysis in R;
+> >    - Write a lab notebook entry in R-markdown;
+> >    - Backup a thesis or manuscript by storing it on a remote server with a version control system; and
+> >    - Log in to a remote machine and run an analysis there.
 > > - Collect feedback. Minute cards, one-up-one-down, and making time for Carpentries post-assessment surveys will support your continuing development as an 
 > > Instructor as well as our continuing development of Carpentries programs. This can also support or complement a reflection activity.
 > > - Check with the workshop host to see if they have any closing words or instructions they would like to share.
