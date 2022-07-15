@@ -60,7 +60,7 @@ a dashboard with the results! Take care not to share this link with your learner
 
 We have found that learners are much more likely to fill out the post-workshop survey
 while they are still at the workshop than they are after they leave the venue. At the end
-of a two-day workshop, your learners' brains will be very tired. Rather than trying to
+of a multi-day workshop, your learners' brains will be very tired. Rather than trying to
 fit in another 15 minutes worth of teaching, give your learners time to complete the
 post-workshop survey at the end of your workshop. You will be helping them (with an
 opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries
@@ -69,7 +69,7 @@ opportunity to reflect), yourself (you will get more useful feedback), and The C
 
 ## Minute Cards
 
-Before each lunch break and at the end of the first day, we
+During any lunch breaks and between days, we
 have learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
 paper sticky notes double as minute cards, with the two different colors used for positive and
 constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview)
@@ -88,7 +88,7 @@ Whatever method you use, you may wish to customize the prompt to elicit differen
 - One thing that is confusing / you would like clarification on.    
 - One question you have
 
-Over lunch and before the second day starts, the Instructors read through the minute
+During any lunch breaks and between days, the Instructors read through the minute
 cards and look for patterns. At the start of each half day, the Instructors
 take a few minutes to address commonly raised issues with the whole class. The
 non-teaching Instructor can also type answers to the questions in the Etherpad.
