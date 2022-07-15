@@ -69,7 +69,7 @@ opportunity to reflect), yourself (you will get more useful feedback), and The C
 
 ## Minute Cards
 
-During any lunch breaks and between days, we
+Before each long break, for example lunch or between days, we
 have learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
 paper sticky notes double as minute cards, with the two different colors used for positive and
 constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview)
