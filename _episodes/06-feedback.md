@@ -88,7 +88,7 @@ Whatever method you use, you may wish to customize the prompt to elicit differen
 - One thing that is confusing / you would like clarification on.    
 - One question you have
 
-During any lunch breaks and between days, the Instructors read through the minute
+During long breaks, instructors read through the minute
 cards and look for patterns. At the start of each half day, the Instructors
 take a few minutes to address commonly raised issues with the whole class. The
 non-teaching Instructor can also type answers to the questions in the Etherpad.
