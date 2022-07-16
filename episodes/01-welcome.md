@@ -19,14 +19,14 @@ keypoints:
 ---
 
 > ## Pronouns and Names
-> 
+>
 > Using correct names and pronouns (e.g. "she/her") is important for setting a respectful tone. Learning these is hard to
-> do quickly, so we recommend displaying it prominently during the workshop. 
-> 
-> In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed. 
-> 
+> do quickly, so we recommend displaying it prominently during the workshop.
+>
+> In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed.
+>
 > At an in-person event, we recommend supplying name tags and markers, or using plain paper to create table-displayed name placards.
-> 
+>
 > Note that pronouns are personal and some participants might prefer not to share them.
 > Do not force people to share their pronouns.
 {: .discussion}
@@ -47,8 +47,8 @@ A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, http://en.
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in The Carpentries activities is required
-to abide by our [Code of Conduct][coc]. Any form of behaviour to exclude, intimidate, 
-or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional 
+to abide by our [Code of Conduct][coc]. Any form of behaviour to exclude, intimidate,
+or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional
 learning environment we encourage you to:  
 * Use welcoming and inclusive language
 * Be respectful of different viewpoints and experiences
@@ -56,14 +56,14 @@ learning environment we encourage you to:
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries 
+If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries
 Code of Conduct Committee by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 ## Introductions
 Hello everyone, and welcome to The Carpentries
 instructor training.  We are very pleased to have you with us.
 
-> ## Today's Trainers
+> ## This Event's Trainers
 >
 > To begin class, each Trainer should give a brief introduction of themselves.
 >
@@ -75,7 +75,7 @@ Now, we would like to get to know all of you.
 
 > ## Reviewing The Carpentries Experience and Goals
 >
-> For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot 
+> For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
 > in the Etherpad below to write a short response to the last question.
 >
 > *Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
@@ -95,7 +95,7 @@ Now, we would like to get to know all of you.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
 >
-> **Why are you taking this course? What goals do you have for today and tomorrow?**
+> **Why are you taking this course? What goals do you have for this training?**
 >
 > This exercise should take about 5 minutes for responses, with an optional 10 for additional discussion as time permits.
 {: .challenge}
@@ -162,22 +162,22 @@ welcoming environment in your classrooms, and will spend some time talking about
 ### The Carpentries History and Culture
 
 In addition to the teaching practices and philosophy that have been
-adopted by The Carpentries community, it is helpful to become familiar 
-with our community structure and organisational procedures as you 
+adopted by The Carpentries community, it is helpful to become familiar
+with our community structure and organisational procedures as you
 prepare to join our Instructor community.
 The greatest asset of The Carpentries is people like
-you - people who want to help researchers learn new skills 
+you - people who want to help researchers learn new skills
 and share their own experience and enthusiasm.  Meeting your fellow trainees and
-Instructor Trainers at today's event is your first step into The Carpentries community.
+Instructor Trainers at this event is your first step into The Carpentries community.
 
 ## What We Leave Out
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
 familiarity with some of the content through the exercises),
 This workshop is a significant requirement for becoming a certified Carpentries Instructor.
-The additional steps for certification, called _Checkout_, will require that you dig into the workshop content yourself. We will talk about that more tomorrow afternoon.
+The additional steps for certification, called _Checkout_, will require that you dig into the workshop content yourself. We will talk about checkout requirements more in part 3 of this training.
 
-We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development, 
+We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development,
 along with [its own onboarding curriculum][lesson-dev]. For more on lesson development, see [The Carpentries website][lesson-dev-web].
 
 If there is a particular topic that you would like us to address, let the Trainers
@@ -186,11 +186,11 @@ know.
 ## What Questions Do You Have?
 
 We hope and expect that you will have many questions during this training! Please do not
-keep them to yourself. If you find something unclear, chances are good that others will have the same question, too. 
+keep them to yourself. If you find something unclear, chances are good that others will have the same question, too.
 It is ok to ask even if you think you might have missed an answer already given
 (e.g. during a distracted moment or a dropped connection)!
-Depending on the time available, your Trainers may ask you to share your questions 
-verbally, in the Etherpad, or otherwise. 
+Depending on the time available, your Trainers may ask you to share your questions
+verbally, in the Etherpad, or otherwise.
 
 Now that we have a road map of what we are covering
 we are ready to begin our training. Our goal is that by the end, you will

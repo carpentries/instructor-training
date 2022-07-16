@@ -262,7 +262,8 @@ to all that the instructional team cares about their experience, creating
 an environment that is explicitly inclusive and supports safe focus 
 on learning.
 
-We will discuss the Code of Conduct in greater detail tomorrow.
+We will discuss the Code of Conduct in greater detail in Part 4 of this training during
+our discussion of Working with your team.
 
 ### Listening with Assessment and Feedback
 
