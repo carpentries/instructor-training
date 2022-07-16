@@ -1,6 +1,6 @@
 ---
 layout: break
-title: "End Third Half Day"
+title: "End Part 3"
 teaching: 0
 exercises: 0
 break: 60
