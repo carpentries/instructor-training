@@ -31,9 +31,9 @@ keypoints:
 > Do not force people to share their pronouns.
 > One reason to avoid pressuring people to share them is to allow people to share their 
 > gender identity only when they feel ready to. 
-> It is however necessary for all participants to use the provided pronouns when available. 
+> It is however necessary for all participants to use the provided pronouns and names when available. 
 > 
-> For those unfamiliar with the practice of sharing prnouns, these resources may be helpful 
+> For those unfamiliar with the practice of sharing pronouns, these resources may be helpful 
 > for further reading: 
 > 
 > * The proper use of pronouns in language: https://lgbt.ucsf.edu/pronounsmatter
