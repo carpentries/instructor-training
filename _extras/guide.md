@@ -25,12 +25,12 @@ Details about the Instructor Trainer role including the application process, dut
 ### Four Weeks before the Event
 -  Contact your co-Trainer(s) to plan how you will co-teach.  Suggested discussion questions include:
     - What are some useful tips and tricks to organize yourself, pace yourself, share resources, etc. while teaching?
-    - How do you ensure that all trainees stay engaged and participate? 
+    - How do you ensure that all trainees stay engaged and participate?
     - How can Trainers help each other (at times when we are not the active Trainer)? How should we communicate with each other during the training?
     - How can we address trainee challenges? These may include internet connectivity problems, distractions caused by working from home, etc.
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
--  Consider forking the Instructor Training curriculum and doing all of your preparation work based on your fork so that any changes do not impact your preparation. 
+-  Consider forking the Instructor Training curriculum and doing all of your preparation work based on your fork so that any changes do not impact your preparation.
 
 ### One Week before the Event    
 -  Plan logistics with co-Trainer(s)
@@ -78,11 +78,11 @@ you risk losing the audience's attention because your face is less prominent.
 If you chose to use slides in your workshop,
 this [Google Drive folder][slides-folder] contains slides with diagrams, cartoons, and text that trainers have used past workshops. Feel free to reuse the existing materials or add your own slides.
 
-### Using Etherpad 
+### Using Etherpad
 
-Each workshop will have an Etherpad. 
+Each workshop will have an Etherpad.
 You can use the [Instructor Training Etherpad template](https://pad.carpentries.org/ttt-template)
-to quickly copy and paste challenges or useful information into your Etherpad. 
+to quickly copy and paste challenges or useful information into your Etherpad.
 
 Given the central role that Etherpad plays is running Carpentry workshops,
 you may want to take a minute to explain [how to create a pad](https://pad.carpentries.org/),
@@ -107,11 +107,11 @@ here are some ways where it is easy to do so without much prep:
 
 ### Episode order
 
-Experience has shown that the current order of episodes works quite well. 
-If you are a new Trainer, we recommend following the official order, however, 
-the material is flexible enough to allow small shifts in episode order. 
-If you are an experienced Trainer and you would like to re-arrange the schedule, 
-make sure to communicate with your trainees and co-Trainers! 
+Experience has shown that the current order of episodes works quite well.
+If you are a new Trainer, we recommend following the official order, however,
+the material is flexible enough to allow small shifts in episode order.
+If you are an experienced Trainer and you would like to re-arrange the schedule,
+make sure to communicate with your trainees and co-Trainers!
 
 ## III. Online vs In Person Training Events
 
@@ -147,10 +147,10 @@ account for yourself for free. This personal account will be able to attend the 
 
 ### Becoming the meeting host
 
-About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no 
-one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list; 
+About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no
+one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list;
 you will be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
-See [the explanation here][zoom-host-key] for step-by-step instructions on how to 
+See [the explanation here][zoom-host-key] for step-by-step instructions on how to
 claim host in Zoom Rooms using the host key.
 
 This account will be the host for the event and will have extra privileges including the
@@ -205,7 +205,7 @@ you’re not the host, please contact Carpentry staff immediately.
   - During breaks, learners will often turn off their video and wait for your audio cue to re-activate. This makes it look like no one is back from break, but just saying 'hello' will generally get a bunch of people to come back on video quickly.
   - When several attendees are in the same room (member trainings): it is helpful to have every participant log in separately so that you can see names and faces and they can interact by waving or using the chat. However, it is important that only one microphone and speaker should be active in the room at one time or feedback and noise will be a problem. When creating breakouts, you can either leave these people in the main room or shuffle people around to create a room just for them. Either way, ask them to leave a mic on so you can listen in.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
-  - You can never practice too much with Zoom! 
+  - You can never practice too much with Zoom!
 
 ## V. Curriculum Teaching Tips
 
@@ -249,7 +249,7 @@ As written, this can run long.  Suggestions:
 
 ### Mindset
 ### Teaching is a Skill
-### Wrap-Up and Homework for Tomorrow
+### Wrap-Up and Homework
 
 ### Welcome Back
 ### Live Coding	is a Skill
@@ -289,27 +289,27 @@ group is interested.
 This section contains tips and tricks on demo hosting that may be contributed by any Trainer describing things that work for them. For official/technical guidelines on how to run a demo, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration).
 
 Suggested points to make during introductions:
-* This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite 
+* This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite
 people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
 we would like you to change on your next visit. This does not mean we do not want you as an instructor, it means we want you to be
 ready to put your best foot forward in the classroom and we are here to help you do that. (KW)
 * I will not tell anyone that they have passed or ask anyone to repeat during this session. That information will come in the follow up email. (KW)
 * The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
-* Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the 
+* Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the
 mute button is. (EB)
 * I have already determined a random order for you each to do your demonstration. When it is your turn, I will tell you what
 episode you will be teaching from, and
-you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the 
+you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the
 option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
 from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
 notes - that is how I always teach. (EB)
 * When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
 Different ways of managing feedback during the demo:
-* Create your own Etherpad and populate it with episode links, feedback templates, whatever. 
+* Create your own Etherpad and populate it with episode links, feedback templates, whatever.
 * Use +/- content delivery rubric. (Or use "improvement" in place of "-" as suggested by MC). Keep in mind that some learners
 (like some Trainers) do not have the content expertise to be able to fully evaluate that category for all lessons.
-* If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing 
+* If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing
 notes in the Etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
 summarize/disagree/add/emphasize as needed.
 * I take notes on physical paper during each demo with points I think need to be made, then mark things off as others
