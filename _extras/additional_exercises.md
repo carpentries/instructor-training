@@ -17,7 +17,7 @@ title: "Additional Exercises"
 
 > ## A Note on MCQ Design
 >
-> *   A good MCQ tests for conceptual misunderstanding rather than simple factual knowledge.
+> *   A good MCQ test for conceptual misunderstanding rather than simple factual knowledge.
 >     If you are having a hard time coming up with diagnostic distractors,
 >     then either you need to think more about your learners' mental models,
 >     or your question simply is not a good starting point for an MCQ.
