@@ -10,7 +10,7 @@ Those who wish may also consult the detailed tables following the list to identi
 reviewing the full lesson regardless, as this will help provide context for other start points and is also good preparation for your eventual teaching 
 role!
 
-Note that while a trainee can choose the lesson to teach from, the **Trainer leading the demo session will choose the specific episode at the time 
+Note that while a trainee can choose the lesson to teach from, the **Trainer** leading the demo session will choose the specific episode at the time 
 of the demo session.** If you would like to use a lesson that is not listed here, you may contact the Instructor Trainer leading your teaching 
 demonstration or (if no one is listed for your session) email [checkout@carpentries.org](mailto:checkout@carpentries.org).  
 
