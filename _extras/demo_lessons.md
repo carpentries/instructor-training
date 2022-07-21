@@ -74,7 +74,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Project Organization and Management for ](https://datacarpentry.org/organization-genomics/) | none | all lessons | Discussion based. No live coding. |
 | [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/) |  all episodes | none | If using [Introducing the Shell](https://datacarpentry.org/shell-genomics/01-introduction/) begin with `cd shell_data` |
-| [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/) |  * [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) <br/> * [Trimming and Filtering](https://datacarpentry.org/wrangling-genomics/03-trimming/index.html) <br/> * [Automating a Variant Calling Workflow](https://datacarpentry.org/wrangling-genomics/05-automation/index.html)  | any other episode |  For ([Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html)) begin with `gunzip SRR2584863_1.fastq.gz`  |
+| [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/) |  * [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) <br/> * [Trimming and Filtering](https://datacarpentry.org/wrangling-genomics/03-trimming/index.html) <br/> * [Automating a Variant Calling Workflow](https://datacarpentry.org/wrangling-genomics/05-automation/index.html)  | any other episode |  For [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) begin with `gunzip SRR2584863_1.fastq.gz`  |
 | [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/) |  * [Logging onto  the Cloud](https://datacarpentry.org/cloud-genomics/02-logging-onto-cloud/index.html)  <br/> * [Fine tuning your Cloud Setup](https://datacarpentry.org/cloud-genomics/03-verifying-instance/index.html) | any other episode | Have trainees teach the version “AWS_UNIX”.  |
 | [Data Analysis and Visualization in R](https://datacarpentry.org/genomics-r-intro/) | none  | all episodes | This lesson is not yet stable. |
 
@@ -99,6 +99,13 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | Lesson  | Good Starting Points | Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | * [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> * [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, _Query Language_, and _Using Jupyter_ sections, and begin with [_Connecting to Gaia_](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
+
+### <a id="dc-astro"></a> Data Carpentry: Astronomy
+
+| Lesson  | Good Starting Points | Avoid | Notes
+|---------- |---------- |---------- |---------- |---------- |---------- |
+| [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | * [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> * [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, _Query Language_, and _Using Jupyter_ sections, and begin with [_Connecting to Gaia_](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
+
 
 ### <a id="lc"></a>Library Carpentry
 
