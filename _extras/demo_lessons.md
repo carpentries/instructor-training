@@ -72,7 +72,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
-| [Project Organization and Management for ](https://datacarpentry.org/organization-genomics/) | none | all lessons | Discussion based. No live coding. |
+| [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/) | none | all episodes | Discussion based. No live coding. |
 | [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/) |  all episodes | none | If using [Introducing the Shell](https://datacarpentry.org/shell-genomics/01-introduction/) begin with `cd shell_data` |
 | [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/) |  * [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) <br/> * [Trimming and Filtering](https://datacarpentry.org/wrangling-genomics/03-trimming/index.html) <br/> * [Automating a Variant Calling Workflow](https://datacarpentry.org/wrangling-genomics/05-automation/index.html)  | any other episode |  For [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) begin with `gunzip SRR2584863_1.fastq.gz`  |
 | [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/) |  * [Logging onto  the Cloud](https://datacarpentry.org/cloud-genomics/02-logging-onto-cloud/index.html)  <br/> * [Fine tuning your Cloud Setup](https://datacarpentry.org/cloud-genomics/03-verifying-instance/index.html) | any other episode | Have trainees teach the version “AWS_UNIX”.  |
