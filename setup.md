@@ -20,7 +20,7 @@ presentations are expected to be rough, not polished -- you should be familiar
 with the content but please do not over-prepare. This preparation should take no more than 20-30 minutes.
 4. Please read the following before the workshop begins:
  * ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
- * ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+ * ["The Carpentries Annual Report"](https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf)
   
 **For Online Events:**  
 4\. Please ensure that your computer and internet are sufficient to connect via Zoom 
@@ -37,7 +37,7 @@ in all of the practical exercises (a tablet will not be sufficient).
 After this course is over, you will be asked to do three short follow-up exercises online 
 in order to finish certification as an Instructor: the details are available on the [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html). 
   
-If you have any questions about the workshop, the reading material, or anything else, please [email us](mailto: instructor.training@carpentries.org)!
+If you have any questions about the workshop, the reading material, or anything else, please [email us](mailto:instructor.training@carpentries.org)!
 
 
 Recommended Episodes

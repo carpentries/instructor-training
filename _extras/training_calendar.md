@@ -45,69 +45,36 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 New trainings are added to this calendar on a quarterly basis.
 
-<hr>
-
-#### [March 24-25, 2022](https://www.eventbrite.com/e/online-instructor-training-march-24-25-2022-tickets-272333365427)
-
-**Two 8-hour days:**  9 am - 5 pm N. America Central / 2 pm - 10 pm UTC /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220324T09&p1=64&ah=8)
 
 <hr>
 
-#### [March 28-29, 2022](https://www.eventbrite.com/e/online-instructor-training-march-28-29-2022-tickets-220600059717)
+#### [August 9-10, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-august-9-10-2022-tickets-356783066757)
 
-**Two 8-hour days:** 9 am - 5 pm N. America Eastern / 6 am - 2 pm N. America Pacific / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220328T09&p1=179&ah=8)
-
-<hr>
-
-#### [April 4-7, 2022](https://www.eventbrite.com/e/online-instructor-training-april-4-7-2022-tickets-291493283257)
-
-**Four 4-hour days:** 1 pm - 5 pm N. America Mountain / 3 pm - 7 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20220404T13&p1=75&ah=4)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern time / 3 pm to 11 pm Central European Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220809T09&p1=179&ah=8)
 
 <hr>
 
-#### [April 26-29, 2022](https://www.eventbrite.com/e/online-instructor-training-april-26-29-2022-tickets-291556893517)
+#### [August 23-26, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-august-23-26-2022-tickets-356785012577)
 
-**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220426T12&p1=240&ah=4)
-
-<hr>
-
-#### [May 10-11, 2022](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2022-tickets-291497736577)
-
-**Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm - 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220510T09&p1=136&ah=8)
+**Four 4-hour days:**  7:30 am to 11:30 am India Standard Time  /  12 pm to 4 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220823T12&p1=240&ah=4)
 
 <hr>
 
-#### [May 16-19, 2022](https://www.eventbrite.com/e/online-instructor-training-may-16-19-2022-tickets-291499371467)
+#### [September 6-7, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-6-7-2022-tickets-356787911247)
 
-**Four 4-hour days:** 9 am - 1 pm N. America Mountain / 11 am - 3 pm N. America Eastern / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220516T09&p1=75&ah=4)
-
-<hr>
-
-#### [June 9-10, 2022](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2022-tickets-291502019387)
-
-**Two 8-hour days:** 9 am to 5 pm Central European Time /  12:30 pm - 8:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220609T09&p1=195&ah=8)
+**Two 8-hour days:** 9 am to 5 pm Central European Time / 12:30 pm to 8:30 pm India Standard Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220906T09&p1=195&ah=8)
 
 <hr>
 
-#### [June 14-17, 2022](https://www.eventbrite.com/e/online-instructor-training-june-14-17-2022-tickets-291557786187)
-**Four 4-hour days:** 12 noon - 4 pm Australia Eastern Standard Time / 7:30 am - 11:30 am India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220614T12&p1=240&ah=4)
+#### [September 6-9, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-6-9-2022-tickets-356789185057)
+
+**Four 4-hour days:** 10 am to 2 pm North America Pacific Time / 1 pm to 5 pm North America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220906T13&p1=179&ah=4)
 
 <hr>
 
-#### [June 15-16, 2022](https://www.eventbrite.com/e/online-instructor-training-june-15-16-2022-tickets-291504346347)
+#### [September 20-23, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-20-23-2022-tickets-356790498987)
 
-**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220615T09&p1=179&ah=8)
-
-<hr>
-
-#### [June 21-22, 2022](https://www.eventbrite.com/e/online-instructor-training-june-21-22-2022-tickets-291506613127)
-
-**Two 8-hour days:** 9 am to 5 pm British Summer Time / 1:30 pm to 9:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220621T09&p1=136&ah=8)
+**Four 4-hour days:** 7 am to 11 am N. America Eastern Time / 1 pm to 5 pm Central European Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220920T13&p1=195&ah=4)
 
 <hr>
 
-#### [June 29-30, 2022](https://www.eventbrite.com/e/online-instructor-training-june-29-30-2022-tickets-291508177807)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20220629T09&p1=137&ah=8)
-
-<hr>

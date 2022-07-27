@@ -14,19 +14,19 @@ keypoints:
 - "Conclusions support reflective practice and set the stage for continued learning."
 ---
 
-When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery, 
+When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery,
 creating plans to listen and respond to learners during a workshop. But within that, there are two time points that make a big difference to a
-workshop experience: the introduction and the conclusion. Because these take time away from content instruction, it can be tempting to avoid investing precious 
-preparation and class time to these sections. However, a strong introduction sets the tone for your workshop, teaches learners how to engage, and inspires 
+workshop experience: the introduction and the conclusion. Because these take time away from content instruction, it can be tempting to avoid investing precious
+preparation and class time to these sections. However, a strong introduction sets the tone for your workshop, teaches learners how to engage, and inspires
 confidence that learners will get what they need. A solid conclusion helps learners to solidify what they have learned and plan their next steps, and sends the
-everyone -- including Instructors and Helpers -- home with a sense of accomplishment. In this section, we will work together to identify ingredients that can 
-make these moments stand out and dedicate some practice time as well. 
+everyone -- including Instructors and Helpers -- home with a sense of accomplishment. In this section, we will work together to identify ingredients that can
+make these moments stand out and dedicate some practice time as well.
 
 ## Launching your Workshop: The Introduction
 Take a moment to think back to a course or workshop you really liked, think about how it began. Your impression on the first day of a course probably matched that of the rest of the course. It also probably stands out in your memory far more than the rest of the course! This is due to a feature of memory known as the **primacy effect**.
 Opening experiences make a difference in the short and long term -- introductions set the tone for the workshop and the path for learning.
 
-Introducing a workshop is an exciting and empowering moment! It can also be intimidating. Having a plan helps relieve stress and get you started. 
+Introducing a workshop is an exciting and empowering moment! It can also be intimidating. Having a plan helps relieve stress and get you started.
 Even in the face of
 early technical issues  (which is common at the start of a workshop), you can have a chance to reset with something
 you are comfortable and ready for.
@@ -43,7 +43,16 @@ you are comfortable and ready for.
 >
 > Finally, compare your ideas with the list of topics below.  Did you miss anything?
 > Did you come up with something that is not listed below?
->
+>> ## Solution
+>> 1.  Set positive first impressions
+>> 1.  Introduce yourself effectively (and have other workshop leaders do the same)
+>> 1.  Clarify learning objectives and expectations
+>> 1.  Help learners learn about each other
+>> 1.  Set the tone for the workshop
+>> 1.  Collect baseline data on learners' knowledge and motivation
+>> 1.  Whet learners' appetite for workshop content
+>> 1.  Inform Learners of Logistics
+> {: .solution}
 {: .challenge}
 
 ### Learning Objectives For your Introduction
@@ -51,7 +60,7 @@ you are comfortable and ready for.
 It can feel like the Introduction is "just" something you have to get through in order to get started on the "real" workshop content.
 But, chances are that many of the goals you identified in the activity above involved *teaching* information or procedures that
 you want learners to know, or *learning* things about your audience. This means that everything you have learned about
-teaching and learning applies here, too. Short term memory? Check! Cognitive overload? Check! 
+teaching and learning applies here, too. Short term memory? Check! Cognitive overload? Check!
 
 Learning objectives usually omit introductory content -- after all, these do not typically relate to our long term goals. The content of the introduction may not even be relevant once the workshop has
 finished! But if we did include the Introduction, what would those learning objectives look like?
@@ -70,11 +79,11 @@ The instructional team should:
 
 ### Setting the Stage
 
-These objectives can be met in many ways; many of them can be addressed at the same time. As you consider the approach you will take, 
-take a step back to consider the big picture. How will learners perceive your classroom environment? A few things to pay attention to 
-as you include: 
+These objectives can be met in many ways; many of them can be addressed at the same time. As you consider the approach you will take,
+take a step back to consider the big picture. How will learners perceive your classroom environment? A few things to pay attention to
+as you include:
 
-**Your attire.** This is one of those things that "should not matter" but, in reality, clothing has a powerful influence on perceptions of everything from 
+**Your attire.** This is one of those things that "should not matter" but, in reality, clothing has a powerful influence on perceptions of everything from
 credibility to kindness. Be comfortable, be intentional, and convey what you want to communicate. (Also, check the weather, and make
 no assumptions about thermostats in an unfamiliar classroom!)
 
@@ -87,7 +96,7 @@ no assumptions about thermostats in an unfamiliar classroom!)
 * how formal/informal you want to be
 * how available you will be to the learners
 * your enthusiasm for the subject
-* your motivations for teaching 
+* your motivations for teaching
 
 > ## Introductions for Everyone
 >
@@ -100,12 +109,12 @@ no assumptions about thermostats in an unfamiliar classroom!)
 >
 {: .callout}
 
-**Your doubts.** Sometimes if you have doubts about how the workshop will go, either because you are new to teaching or because you are aware of potential 
-problems, this may come across (intentionally or unintentionally) during your introduction. Sharing such vulnerabilities judiciously can help keep learners on 
+**Your doubts.** Sometimes if you have doubts about how the workshop will go, either because you are new to teaching or because you are aware of potential
+problems, this may come across (intentionally or unintentionally) during your introduction. Sharing such vulnerabilities judiciously can help keep learners on
 your side when problems do arise. However, there is also a risk of undermining learner confidence. Thinking this through in advance can keep you from oversharing
 in a moment of anxiety!
 
-**The classroom community.** Becoming familiar with other participants helps learners relax and engage, breaking down fear and supporting a sense of belonging. 
+**The classroom community.** Becoming familiar with other participants helps learners relax and engage, breaking down fear and supporting a sense of belonging.
 Icebreakers can seem silly and they do take time, but even a lightweight activity makes a big difference. This also sets the tone for an active workshop, which
 can be especially important if your curriculum does not offer early opportunities for interaction.
 
@@ -127,11 +136,11 @@ This information should also be present in your workshop documentation and/or co
 
 **Describe the prerequisites** (if any).
 
-**Share the schedule and logistics.** Post lunch and break times, and stick to them! Share bathroom & lactation room locations and any other 
-instructions specific to your workshop. Demonstrating a commitment to accessibility at this point will help learners feel more comfortable making 
+**Share the schedule and logistics.** Post lunch and break times, and stick to them! Share bathroom & lactation room locations and any other
+instructions specific to your workshop. Demonstrating a commitment to accessibility at this point will help learners feel more comfortable making
 additional requests as needed.
 
-**Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g. 
+**Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g.
 "notetaker" vs "roaming helper", be sure to introduce them, too.
 
 **Communicate your expectations** for learners, including:
@@ -139,21 +148,21 @@ additional requests as needed.
 - ways to ask for help
 - ways to give feedback to the instructional team
 
-**Collect and share baseline data on learners**. If you are teaching an official Carpentries workshop, you should have received the results of your pre-assessment surveys 
--- these can be helpful in planning your workshop! Even so, you may have additional questions, and there will always be learners who did not fill out the survey. 
+**Collect and share baseline data on learners**. If you are teaching an official Carpentries workshop, you should have received the results of your pre-assessment surveys
+-- these can be helpful in planning your workshop! Even so, you may have additional questions, and there will always be learners who did not fill out the survey.
 Sharing and discussing these data with learners can help to combat imposter syndrome and let them know that they are welcome 'as they are'.
 
-**Share some advice for success** -- including your confidence that they can do it! If you have a range of skill backgrounds, this is a good opportunity to offer 
+**Share some advice for success** -- including your confidence that they can do it! If you have a range of skill backgrounds, this is a good opportunity to offer
 differentiated advice on how to make the most of the experience, e.g. suggesting that intermediate learners build their skills by helping a neighbour or
 considering more advanced questions to be discussed during the breaks.
 
-**Whet learners' appetites for workshop content**. In most cases, your learners chose to attend this workshop, but they may yet be unclear on whether it will 
+**Whet learners' appetites for workshop content**. In most cases, your learners chose to attend this workshop, but they may yet be unclear on whether it will
 be worthwhile. This is a great chance to get them excited about the prospect of learning what you have to teach!
 
 
 > ## Practice Your Introduction
 >
-> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching today.
+> Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching during this training.
 >
 > 1. Write out some notes, covering a few of the topics described above:
 > 	1.  Introduce yourself effectively
@@ -167,27 +176,27 @@ be worthwhile. This is a great chance to get them excited about the prospect of 
 
 ## The Art of a Smooth Landing
 Your workshop almost certainly had some highs and lows. If you followed our advice about going slowly, it is also likely that you will be pressed for time
-at the end! Out of respect for all involved, it is important that you end your workshop on time. Even if you have not met your content goals, 
+at the end! Out of respect for all involved, it is important that you end your workshop on time. Even if you have not met your content goals,
 there are far more valuable ways to spend the last 15-20 minutes of a course than squeezing in one last command or bit of advice.
 
 > ## Brainstorm: Making the Last Moments Count
 >
 > You have made it to the end of your workshop! Everyone is exhausted and their brains are full. You could cover more content... or you could use the last few
-> minutes in another way. 
+> minutes in another way.
 >
-> In the etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing? 
-> If you have time after writing down your idea, read through the others in the etherpad. If you have another idea that has not been written down yet, add it 
+> In the Etherpad, write down one thing you could do at the end of a workshop. What is the value of spending time on that thing?
+> If you have time after writing down your idea, read through the others in the Etherpad. If you have another idea that has not been written down yet, add it
 > to the list.
 >
 > This exercise will take about 5 minutes.
 > > ## Solution
 > > - Close and save files. Where can those files be found, and how can learners pick up independently where you left off?
 > > - Reflect on learning. This can help learners to solidify key concepts they have learned, making them easier to remember. It may also flush out a few last questions.
-> > - Plan next steps. Does the local community have resources to support continued learning? 
+> > - Plan next steps. Does the local community have resources to support continued learning?
 > > Do you have advice for how learners might continue on their own? Even
 > > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
 > > - Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Potential examples include:
-> >    - Reproduce using R an analysis that was previously done with a spreadsheet application;
+> >    - Use R to reproduce an analysis that was previously done with a spreadsheet application;
 > >    - Write a lab notebook entry in R-markdown;
 > >    - Backup a thesis or manuscript by storing it on a remote server with a version control system; and
 > >    - Log in to a remote machine and run an analysis there.

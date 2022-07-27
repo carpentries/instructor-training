@@ -284,7 +284,7 @@ there is work to do when planning a workshop! But there is much to be gained in 
 >>  advance preparation together, try drawing a concept map together or
 >>  teaching a short snippet of the lessons for each other.
 >>
->>- Discuss in advance if you will providing feedback to each other
+>>- Discuss in advance if you will provide feedback to each other
 >>  and how to do so (see notes above).
 >>
 >>- If it will not cause cognitive overload for you (the instructors),
