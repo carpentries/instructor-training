@@ -37,9 +37,9 @@ keypoints:
 > for further reading: 
 > 
 > * The proper use of pronouns in language: https://lgbt.ucsf.edu/pronounsmatter
-> * The importance of using pronouns: https://www.mypronouns.org/
-> * How to use personal pronouns: https://www.mypronouns.org/how
-> * How to deal with situations when you use the wrong pronoun: https://www.mypronouns.org/mistakes
+> * The importance of using pronouns: https://www.pronouns.org/
+> * How to use personal pronouns: https://www.pronouns.org/how
+> * How to deal with situations when you use the wrong pronoun: https://www.pronouns.org/mistakes
 > 
 {: .discussion}
 
