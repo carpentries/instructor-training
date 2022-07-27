@@ -14,20 +14,20 @@ keypoints:
 - "Take the time to respond to your learners' feedback."
 ---
 
-We use formative assessment of learners during workshops to help track 
+We use formative assessment of learners during workshops to help track
 learners' progress and adjust our approach to teaching the content as needed.
-But formative assessment is not just for learners. As we will discuss in more detail 
-[later]({{ page.root }}/11-practice-teaching/), teaching is also a skill that is improved 
+But formative assessment is not just for learners. As we will discuss in more detail
+[later]({{ page.root }}/11-practice-teaching/), teaching is also a skill that is improved
 through regular practice and feedback. We gather feedback from our learners
-at multiple points in the workshop and in different forms. 
+at multiple points in the workshop and in different forms.
 
 ## Surveys
 
-Carpentries learners fill out a survey before attending and immediately after a workshop. 
+Carpentries learners fill out a survey before attending and immediately after a workshop.
 These surveys include questions to help instructors get an idea of their attendees' prior
 experience and backgrounds before the workshop starts. Using this information, instructors
 can start to plan how they will approach the materials and what level of exercises
-are likely to be appropriate for their learners. 
+are likely to be appropriate for their learners.
 
 You can preview the surveys your learners will take at the links below:
 
@@ -57,44 +57,44 @@ a dashboard with the results! Take care not to share this link with your learner
 ![Screenshot of a workshop website showing location of customized survey links](../fig/surveyscreenshot3.svg)
 
 ### Timing Matters
- 
+
 We have found that learners are much more likely to fill out the post-workshop survey
-while they are still at the workshop than they are after they leave the venue. At the end 
-of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
+while they are still at the workshop than they are after they leave the venue. At the end
+of a multi-day workshop, your learners' brains will be very tired. Rather than trying to
 fit in another 15 minutes worth of teaching, give your learners time to complete the
 post-workshop survey at the end of your workshop. You will be helping them (with an
-opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries 
+opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries
 (we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
 
 
 ## Minute Cards
 
-Before each lunch break and at the end of the first day, we
-have learners complete **minute cards** to share anonymous feedback. At an in-person workshop, 
-paper sticky notes double as minute cards, with the two different colors used for positive and 
+Before each long break, for example lunch or between days, we
+have learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
+paper sticky notes double as minute cards, with the two different colors used for positive and
 constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview)
-on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and 
+on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and
 anonymous. A public-facing sticky note board will receive different (and less useful) feedback.
 
-Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break. 
+Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break.
 
 **Example positive prompts:**   
 - One thing you liked about this section of the workshop
 - The most important thing you learned today   
-- A new skill, command, or technique you are most excited about using 
+- A new skill, command, or technique you are most excited about using
 
 **Example constructive prompts:**  
 - One thing you did not like or would change about this section of the workshop
 - One thing that is confusing / you would like clarification on.    
-- One question you have 
+- One question you have
 
-Over lunch and before the second day starts, the Instructors read through the minute 
-cards and look for patterns. At the start of day two and each afternoon, the Instructors
-take a few minutes to address commonly raised issues with the whole class. The 
+During long breaks, instructors read through the minute
+cards and look for patterns. At the start of each half day, the Instructors
+take a few minutes to address commonly raised issues with the whole class. The
 non-teaching Instructor can also type answers to the questions in the Etherpad.
 
 > ## Be Explicit About Using Feedback
-> 
+>
 > Learners are more likely to give useful feedback if they feel that their feedback
 > is being taken seriously. Spending a few minutes talking about the feedback you got
 > and being explicit about what changes you are making in light of that feedback
@@ -119,7 +119,7 @@ about how you are responding to learner feedback.
 
 > ## Give Us Feedback
 >
-> Write one thing you learned this morning that you found useful on
+> Write one thing you learned this so far in this training that you found useful on
 > your blue sticky note, and one question you have about the material
 > on the yellow.  Do *not* put your name on the notes: this is meant to
 > be anonymous feedback.  Add your notes to the pile by the door as

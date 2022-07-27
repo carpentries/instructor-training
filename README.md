@@ -14,6 +14,9 @@ or run `make` in this directory for a list of helpful commands.
 
 * [Sarah Brown][brown_sarah]: @brownsarahm
 * [Tim Dennis][dennis_tim]: @jt14den
+* [David Perez-Suarez][perez-suarez_david]: @dpshelio
+* [Nathaniel Porter][porter-nathaniel]: @ndporter
+* [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
 * [Karen Word][word_karen]: @karenword  
 
 [dc-site]: http://datacarpentry.org
@@ -23,4 +26,7 @@ or run `make` in this directory for a list of helpful commands.
 [koch_christina]: https://carpentries.org/instructors/
 [brown_sarah]: https://carpentries.org/instructors/ 
 [dennis_tim]: https://carpentries.org/instructors/
+[perez-suarez_david]: https://carpentries.org/instructors/
+[porter-nathaniel]: https://carpentries.org/instructors/
+[wheeler_jon]: https://carpentries.org/instructors/
 [word_karen]: https://carpentries.org/team/

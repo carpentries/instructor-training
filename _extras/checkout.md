@@ -18,7 +18,7 @@ Briefly, the three steps are:
 
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
 ## 1. Lesson Contributions
@@ -69,7 +69,7 @@ All Carpentries curricula (including this one) are hosted on GitHub. Learning to
 including the ability to contribute to other open-source projects! However, we understand that there are many
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
-For this checkout task, you may email your contribution to [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+For this checkout task, you may email your contribution to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Be sure to include a link to the lesson or site that you are addressing in your contribution. A Carpentries Core Team member will
 add your contribution to the relevant repository on your behalf (e.g. by creating an issue), and will send you a link so that
 you may view any responses by the maintainers.
@@ -79,7 +79,7 @@ you may view any responses by the maintainers.
 > At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress.
 > That is why we exist! So we appreciate the irony when participation in our community demands tools or technical
 > procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
-> this is something our community has [discussed extensively](git-blog).
+> this is something our community has [discussed extensively][git-blog].
 >
 > We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our
 > community in surmounting the barriers presented by our own technologies of choice. Watch our channels for
@@ -180,7 +180,7 @@ indicate that you are completing checkout and attend the event you are signed up
 Community Discussion meeting.
 
 If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
-not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org) to confirm.
+not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to confirm.
 
 ## 3. Teaching Demonstration
 
@@ -205,8 +205,8 @@ Trainers draw from their own experience and training when they evaluate teaching
 For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
 Carpentries lesson programs. Please refer to the lists of [Data Carpentry lessons]({{ site.dc_site }}/lessons/), [Library Carpentry lessons]({{ site.lc_site }}/lessons/), and [Software Carpentry lessons]({{ site.swc_site }}/lessons/) on the websites.
 
-A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub.
-(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
+A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]).
 Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
@@ -221,9 +221,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 
 ### Sign-up and Set-up
 To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
-your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter
-
-link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
+your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
 The link to connect to the video conference is at the top of the Teaching Demos Etherpad. 
@@ -252,9 +250,9 @@ after you have attended your teaching demonstration.
 ## 4. Tracking Your Progress
 After your instructor training workshop, Carpentries Core Team members will use your application or profile-creation form to activate
 your profile in The
-Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub ID.
-If you have any questions or did not provide a GitHub user name in your form, please email us 
-at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub username.
+If you have any questions or did not provide a GitHub username in your form, please email us 
+at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
