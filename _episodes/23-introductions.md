@@ -187,7 +187,7 @@ there are far more valuable ways to spend the last 15-20 minutes of a course tha
 > > Do you have advice for how learners might continue on their own? Even
 > > if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
 > > - Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Potential examples include:
-> >    - Recreate an spreadsheet from a past analysis in R;
+> >    - Reproduce using R an analysis that was previously done with a spreadsheet application;
 > >    - Write a lab notebook entry in R-markdown;
 > >    - Backup a thesis or manuscript by storing it on a remote server with a version control system; and
 > >    - Log in to a remote machine and run an analysis there.
