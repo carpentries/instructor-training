@@ -200,9 +200,7 @@ Now that you have had some practice observing teaching and giving feedback, let 
 >     feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
 > 5.  Rotate roles and repeat steps 3 & 4
 > 5.  Return to the main group and briefly summarize the feedback you received in the Etherpad.
-> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
-> but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching.
+> 
 >
 > **Trainings where trainees are co-located:**
 > 1.  Split into groups of three.
