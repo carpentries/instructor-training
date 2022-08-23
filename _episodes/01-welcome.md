@@ -29,6 +29,18 @@ keypoints:
 >
 > Note that pronouns are personal and some participants might prefer not to share them.
 > Do not force people to share their pronouns.
+> One reason to avoid pressuring people to share them is to allow people to share their 
+> gender identity only when they feel ready to. 
+> It is, however, necessary for all participants to use pronouns and names as listed when participants provide them. 
+> 
+> For those unfamiliar with the practice of sharing pronouns, these resources may be helpful 
+> for further reading: 
+> 
+> * The proper use of pronouns in language: https://lgbt.ucsf.edu/pronounsmatter
+> * The importance of using pronouns: https://www.pronouns.org/
+> * How to use personal pronouns: https://www.pronouns.org/how
+> * How to deal with situations when you use the wrong pronoun: https://www.pronouns.org/mistakes
+> 
 {: .discussion}
 
 
