@@ -37,7 +37,7 @@ Importantly, learners are strongly encouraged
 to "code-along" with the instructor.
 We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'.
 
-> ## Up and Down
+> ## Anticipate the Pros and Cons
 >
 > List some advantages and challenges of participatory live coding
 > from both a learner's and an instructor's point of view
