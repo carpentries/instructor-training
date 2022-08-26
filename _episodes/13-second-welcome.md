@@ -47,7 +47,8 @@ we will conclude our training with a discussion about workshop logistics that wi
 >
 > At the end of part 2, we asked you to read some resources about the logistics of teaching and running Carpentries workshops. Please
 > add your questions about logistics and preparation to the Etherpad. We will answer these questions in the Etherpad during your work time
-> and will return to this list later in the training.
+> and will return to this list later in the training. We may draw on the [Workshop FAQ](https://carpentries.org/workshop_faq/), which you
+> can also refer to later if you have additional questions.
 >
 > This activity should take about 5 minutes.
 {: .challenge}
