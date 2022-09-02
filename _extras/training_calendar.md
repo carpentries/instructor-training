@@ -23,7 +23,7 @@ Registration codes provided to members and other groups are active immediately a
 
 #### Open Instructor Training
 
-Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one workshop; duplicate registrations may be deleted.
+Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one training; duplicate registrations may be deleted.
 
 ### Cancellation Policies
 
