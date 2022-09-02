@@ -55,3 +55,35 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
+#### [October 17-20, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-october-17-20-2022-tickets-412286619377)
+
+**Four 4-hour days:** 1 pm to 5 pm N. America Pacific Time / 4 pm to 8 pm N. America Eastern Time / 7 am to 11 am **FOLLOWING DAY** Australia Eastern Daylight Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221017T13&p1=197&ah=4)
+
+<hr>
+
+#### [November 8-11, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-november-8-11-2022-tickets-413089942137)
+
+**Four 4-hour days:** 9 am to 1 pm  Australia Eastern Standard Time / 12 noon - 4 pm New Zealand Daylight Time / 3 pm - 7 pm **PREVIOUS DAY** N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221108T09&p1=47&ah=4)
+
+<hr>
+
+#### [November 15-18, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-november-15-18-2022-tickets-413091506817)
+
+**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time /  2 pm to 6 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221115T09&p1=25&ah=4)
+
+<hr>
+
+#### [December 5-8, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-december-5-8-2022-tickets-413094285127)
+
+**Four 4-hour days:** 9 am to 1 pm N. America Central Time /  3 pm to 7 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221205T09&p1=142&ah=4)
+
+<hr>
+
+#### [December 19-20, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-december-19-20-2022-tickets-413096923017)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time /  11 am to 7 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221219T09&p1=42&ah=8)
+
+<hr>
+
+
+
