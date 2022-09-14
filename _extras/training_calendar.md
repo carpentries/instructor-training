@@ -49,12 +49,6 @@ New trainings are added to this calendar on a quarterly basis.
 <hr>
 
 
-#### [September 20-23, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-september-20-23-2022-tickets-356790498987)
-
-**Four 4-hour days:** 7 am to 11 am N. America Eastern Time / 1 pm to 5 pm Central European Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=carpentries&iso=20220920T13&p1=195&ah=4)
-
-<hr>
-
 #### [October 17-20, 2022](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-october-17-20-2022-tickets-412286619377)
 
 **Four 4-hour days:** 1 pm to 5 pm N. America Pacific Time / 4 pm to 8 pm N. America Eastern Time / 7 am to 11 am **FOLLOWING DAY** Australia Eastern Daylight Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20221017T13&p1=197&ah=4)
