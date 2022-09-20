@@ -38,8 +38,9 @@ To get there, try looking for a link that says "Improve this page". In this curr
 
 ![Screen shot of the header for this page with Improve this page circled](../fig/Improve_this_page.svg){: width="800px" }
 
-Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the rendered lessons on the websites listing Data Carpentry,
-Library Carpentry, or Software Carpentry workshops.
+Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
+
+![Screen shot of Sofware Carpentries Lessons list in a browser with Links to Lessons Repositories circled](../fig/Instructor_Training_Repo_0.png){: width="800px" }
 
 The browser view of the GitHub repository for this workshop looks like this:
 
