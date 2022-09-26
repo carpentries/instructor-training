@@ -58,9 +58,8 @@ Extensions may be granted for any reason up to 1 year from your training date.
 {: .challenge}
 
 ### What does a badge mean?
-* **You can teach any Carpentries workshops!** While your badge will indicate a lesson program that you selected for checkout, all Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
+* **You can teach any Carpentries workshops!** Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
 * **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
-* **You can register for Carpentries Bonus Modules!** New to The Carpentries in 2020, we are now offering short continuing education [modules][bonus-modules] for certified Instructors. The first of these targets preparing to teach online. Look out for more topics coming soon!
 * **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
 
