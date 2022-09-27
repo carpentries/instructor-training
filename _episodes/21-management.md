@@ -32,6 +32,23 @@ In this episode, we will discuss examples, strategies, and resources for handlin
 also take some time to discuss planning logistics, and (time permitting) everyone will have an opportunity to try out
 our instructions for setting up a workshop website.
 
+### Co-Teaching Models
+
+*Co-teaching* describes any situation in which two teachers work
+together in the same classroom. There are [many ways][worldcat-interactions] to do
+this; we use the following methods most frequently:
+
+- **Team teaching:** Both teachers deliver a single stream of content
+  in tandem, taking turns the way that musicians taking solos would.
+
+- **Teach and assist:** Teacher A teaches while Teacher B moves around
+  the classroom to help learners.
+
+"Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
+"Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
+Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
+considering for self-organised workshops if a co-Instructor has not yet been certified.
+
 ## The Instructional Team
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
 - A **Host** who organizes the workshop logistics
@@ -133,23 +150,6 @@ are expected in all Carpentries workshops. These include:
 #### Feedback
  Using sticky cards as "minute cards" and creating time for Carpentries surveys are two essential components of a Carpentries workshop.
  Save your best feedback to look at on a tough day! 
-
-### Co-Teaching Models
-
-*Co-teaching* describes any situation in which two teachers work
-together in the same classroom. There are [many ways][worldcat-interactions] to do
-this; we use the following methods most frequently:
-
-- **Team teaching:** Both teachers deliver a single stream of content
-  in tandem, taking turns the way that musicians taking solos would.
-
-- **Teach and assist:** Teacher A teaches while Teacher B moves around
-  the classroom to help learners.
-
-"Teach and assist" is most common, in part because people are accustomed to teaching alone! However, 
-"Team teaching" can be a fun way to lead together as well. Team teaching can be particularly helpful when two 
-Instructors have very different strengths, creating a more balanced experience overall. This may also be worth 
-considering for self-organised workshops if a co-Instructor has not yet been certified.
 
 ## Sticky Situations 1: Learners at Many Levels
 
