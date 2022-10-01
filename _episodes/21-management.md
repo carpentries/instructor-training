@@ -50,7 +50,7 @@ If you cannot find someone else to bear full responsibility for the Host role, c
 involving helpers in advance of the workshop, or exploring institutional support for event logistics like registration, snack delivery, 
 helper coordination, and emergency contact.
 
-### Co-teaching with other Instructors
+### Instructors: Co-teaching Models
 
 *Co-teaching* describes any situation in which two teachers work
 together in the same classroom. There are [many ways][worldcat-interactions] to do
