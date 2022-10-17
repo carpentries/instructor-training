@@ -16,10 +16,10 @@ need to take after this training to become a fully certified Carpentries Instruc
 
 ## Instructor Checkout
 
-After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor. 
+After completing the Instructor Training workshop, there are [three final steps to complete](https://carpentries.github.io/instructor-training/checkout/index.html) before qualifying as an Instructor. 
 Briefly, the three steps are:
 
-1.  Make (and [send us a link](mailto:instructor.training@carpentries.org) to) a small contribution to a lesson or glossary.
+1.  Make a small contribution to a lesson or glossary.
 2.  Take part in an online community discussion session.
 3.  Take part in an online teaching demonstration session.
 
