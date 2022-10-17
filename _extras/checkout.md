@@ -71,10 +71,9 @@ including the ability to contribute to other open-source projects! However, we u
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
 
-For this checkout task, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  
-This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. 
-If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  
-A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. 
+For this checkout task, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. 
+If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. 
+
 In either case, you can track your progress by [logging into AMY here](https://amy.carpentries.org).
 
 
@@ -105,10 +104,7 @@ We recommend that contributions be directed to:
 With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting!
 The greater challenge, in most cases, is identifying where and how to cut.
 
-
-
 ### What Comes Next?
-If you submit your own contribution, be sure to send an email with a link to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or
 requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
