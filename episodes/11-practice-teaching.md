@@ -195,15 +195,13 @@ Now that you have had some practice observing teaching and giving feedback, let 
 > 3.  Get together with your group and have one person teach their segment to the group.
 >     Keep a strict time limit of 90 seconds per person (one person
 >     should be responsible for the timekeeping).
-> 4.  After the first person has finished teaching, share feedback. The person who performed 
->     should start by offering feedback on themselves. The timekeeper should help to keep 
+> 4.  After the first person has finished teaching, share feedback. The person who performed
+>     should start by offering feedback on themselves. The timekeeper should help to keep
 >     feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
 > 5.  Rotate roles and repeat steps 3 & 4
 > 5.  Return to the main group and briefly summarize the feedback you received in the Etherpad.
-> Your Trainer will split the group into virtual break-out rooms. Follow the instructions above
-> but do not record each other. Instead, give each person feedback immediately after they finish their
-> turn teaching.
 > 
+>
 > **Trainings where trainees are co-located:**
 > 1.  Split into groups of three.
 > 2.  Individually, spend 5 minutes preparing a 90-second introduction to the topic of
@@ -253,7 +251,7 @@ If you notice yourself feeling hurt or threatened by the feedback you got, or re
 pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills
 are going to improve. By strengthening your growth mindset with respect to teaching, you can
 transform getting feedback from an unpleasant experience to a richly rewarding one. You will have more opportunities to
-practice teaching and to get and give feedback tomorrow.
+practice teaching and to get and give feedback in parts 3 and 4.
 
 
 [lunar-babboon]: https://web.archive.org/web/20210513225525/http://www.lunarbaboon.com/comics/feedback.html

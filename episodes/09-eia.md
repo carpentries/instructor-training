@@ -250,10 +250,10 @@ groups in your community who may be interested in attending.
 ### Setting Expectations with the Code of Conduct
 
 One central way that The Carpentries fosters an inclusive, respectful
-learning environment is our [Code of Conduct]({{ site.coc }}).
+learning environment is our [Code of Conduct][coc].
 
 All participants in our workshops and communities are required to abide by the
-[Code of Conduct]({{ site.coc }}).
+[Code of Conduct][coc].
 This code helps to ensure that our community does not tolerate the persistence of behaviors 
 that harm or exclude others. While such a code cannot prevent all incidents, reminding 
 participants of the Code of Conduct supports them in 
@@ -262,7 +262,8 @@ to all that the instructional team cares about their experience, creating
 an environment that is explicitly inclusive and supports safe focus 
 on learning.
 
-We will discuss the Code of Conduct in greater detail tomorrow.
+We will discuss the Code of Conduct in greater detail in Part 4 of this training during
+our discussion of Working with your team.
 
 ### Listening with Assessment and Feedback
 
@@ -301,6 +302,7 @@ at the top), though our [#accessibility channel][slack-accessibility] on [The Ca
 
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [glossary]: https://www.diversity.pitt.edu/education/diversity-equity-and-inclusion-glossary
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [core-values]: https://carpentries.org/values/
 [CAST]: https://udlguidelines.cast.org
 [handbook-accessibility-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility
