@@ -18,7 +18,7 @@ Briefly, the three steps are:
 
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
 ## 1. Lesson Contributions
@@ -38,8 +38,9 @@ To get there, try looking for a link that says "Improve this page". In this curr
 
 ![Screen shot of the header for this page with Improve this page circled](../fig/Improve_this_page.svg){: width="800px" }
 
-Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the rendered lessons on the websites listing Data Carpentry,
-Library Carpentry, or Software Carpentry workshops.
+Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
+
+![Screen shot of Sofware Carpentries Lessons list in a browser with Links to Lessons Repositories circled](../fig/Instructor_Training_Repo_0.png){: width="800px" }
 
 The browser view of the GitHub repository for this workshop looks like this:
 
@@ -69,6 +70,7 @@ All Carpentries curricula (including this one) are hosted on GitHub. Learning to
 including the ability to contribute to other open-source projects! However, we understand that there are many
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
+
 For this checkout task, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. In either case, you can track your progress by [logging into AMY here](https://amy.carpentries.org).
 
 
@@ -77,7 +79,7 @@ For this checkout task, please log in to your [AMY profile](https://docs.carpent
 > At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress.
 > That is why we exist! So we appreciate the irony when participation in our community demands tools or technical
 > procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
-> this is something our community has [discussed extensively](git-blog).
+> this is something our community has [discussed extensively][git-blog].
 >
 > We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our
 > community in surmounting the barriers presented by our own technologies of choice. Watch our channels for
@@ -178,7 +180,7 @@ indicate that you are completing checkout and attend the event you are signed up
 Community Discussion meeting.
 
 If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
-not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org) to confirm.
+not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to confirm.
 
 ## 3. Teaching Demonstration
 
@@ -203,8 +205,8 @@ Trainers draw from their own experience and training when they evaluate teaching
 For your teaching demonstration, you will prepare to teach **a complete lesson** from one of the
 Carpentries lesson programs. Please refer to the lists of [Data Carpentry lessons]({{ site.dc_site }}/lessons/), [Library Carpentry lessons]({{ site.lc_site }}/lessons/), and [Software Carpentry lessons]({{ site.swc_site }}/lessons/) on the websites.
 
-A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub.
-(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder].
+A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]).
 Some lessons have supplementary modules.
 You do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
@@ -248,9 +250,7 @@ after you have attended your teaching demonstration.
 ## 4. Tracking Your Progress
 After your instructor training workshop, Carpentries Core Team members will use your application or profile-creation form to activate
 your profile in The
-Carpentries database, AMY. You can monitor your checkout progress by [logging on to our database, AMY][amy-login], using your GitHub username.
-If you have any questions or did not provide a GitHub username in your form, please email us 
-at [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org).
+Carpentries database, AMY. Information on getting started with and using AMY is in the [Carpentries Handbook][handbook-amy].
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
@@ -260,7 +260,7 @@ opportunities. You may also adjust your preferences to select whether you want t
 Approximately 1-2 weeks after your last step is complete, you should receive an email with your Carpentries Instructor badge. Hooray!
 
 
-[amy-login]: https://amy.carpentries.org/account/login/
+[handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
 [bonus-modules]: https://carpentries.github.io/instructor-training-bonus-modules/
 [contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
 [carpentries-incubator]: https://github.com/carpentries-incubator/

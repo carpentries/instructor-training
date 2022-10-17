@@ -2,9 +2,9 @@
 layout: base
 title: "Etherpad Template"
 ---
-<blockquote><div style=' border:2px solid black; background:white;margin:10px;padding:5px;'><h1> Etherpad Exporter </h1><p>To use, click copy to clipboard, go to your etherpad, and paste, or click save page to disk for etherpad import, go to etherpad, click the double-arrow button in the top right, choose the file just downloaded, and click import now.</p>
+<blockquote><div style=' border:2px solid black; background:white;margin:10px;padding:5px;'><h1> Etherpad Exporter </h1><p>To use, click copy to clipboard, go to your Etherpad, and paste, or click save page to disk for Etherpad import, go to Etherpad, click the double-arrow button in the top right, choose the file just downloaded, and click import now.</p>
 	<p>Workshop ID:<input id="workshop-id" name="workshop-id" value="WORKSHOP_ID_HERE"/></p>
-	<button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for etherpad import</button></div></blockquote>
+	<button id="copy-button" data-clipboard-target="#data-copy-target"  style="">Copy to Clipboard</button><button id="save-button" onClick="save()"  style="margin-left:10px;">Save page to disk for Etherpad import</button></div></blockquote>
 
 <div id="data-copy-target">
 <blockquote >
@@ -133,11 +133,11 @@ $("input#workshop-id").change(function(){
 	$("#postid").text($(this).val());
 })
 
-// Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of etherpad.
+// Find headers (h1..3), and add physical linebreaks around them, while trying to minimise the appearance of physical linebreaks, so that they render in the degraded html of Etherpad.
 
 $( "h1, h2, h3" ).not("blockquote h2").before("<br style='line-height:0px'/><br/>").after("<br/>");
 
-// Also wrap headers in bold, as headers do not transfer over to the etherpad.
+// Also wrap headers in bold, as headers do not transfer over to the Etherpad.
 $( "h1, h2" ).not("blockquote h2").wrap("<b>");
 
 // We want to differentiate level 2 and level 3 headers, so I'm progressively adding styling to them, while retaining the bold.
@@ -169,7 +169,7 @@ $( "ol").not('blockquote ol').remove();
 // The navbar presents copying problems, so we need to clear that as well
 $(".navbar").remove();
 
-// Code should also not be copied over to the etherpad. Code is indicated by the .source class on divs, rather than as a blockquote
+// Code should also not be copied over to the Etherpad. Code is indicated by the .source class on divs, rather than as a blockquote
 $( "div.source").not('blockquote div.source').remove();
 
 // Other divs need to be removed too
@@ -179,7 +179,7 @@ $( "div.source").not('blockquote div.source').remove();
 $("footer").remove();
 
 
-//Take all ordered lists and turn them into unordered lists, because ordered lists do not transfer well into the etherpad.
+//Take all ordered lists and turn them into unordered lists, because ordered lists do not transfer well into the Etherpad.
 //https://stackoverflow.com/a/12679823/263449
 $($('ol').get().reverse()).each(function(){
   $(this).replaceWith($('<ul>'+$(this).html()+'</ul>'))
@@ -190,7 +190,7 @@ $($('ol').get().reverse()).each(function(){
 $("blockquote.solution").remove();
 
 
-// I wanted to keep challenges, callouts, and discussion blocks. However, the icons do not transfer, so I need to add the calling-out word (exercise, etc) to the header (and then render the header as an h2) so that there is appropriate formatting transfered to the etherpad, and that each of these has a useful label in the text-only zone.
+// I wanted to keep challenges, callouts, and discussion blocks. However, the icons do not transfer, so I need to add the calling-out word (exercise, etc) to the header (and then render the header as an h2) so that there is appropriate formatting transfered to the Etherpad, and that each of these has a useful label in the text-only zone.
 $("blockquote.challenge h2").each(function(){
   var oldtext = $(this).text();
   $(this).text("Exercise: "+oldtext).before("<br/><br/>").wrap("<b>").wrap("<i>");
