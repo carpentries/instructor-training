@@ -15,7 +15,7 @@ the [Data Carpentry lessons page]({{ site.dc_site}}/lessons/), or the
 (for recommendations, see the list below) and read through it carefully. 
 You will be asked to teach a 90 second introduction to this content during 
 the first half of the workshop, and will teach a 3 minute participatory segment 
-of its content twice during the second half of the workshop. Note that these 
+of its content twice during the second half of the workshop (i.e. using live coding or live demonstration). Note that these 
 presentations are expected to be rough, not polished -- you should be familiar 
 with the content but please do not over-prepare. This preparation should take no more than 20-30 minutes.
 4. Please read the following before the workshop begins:
