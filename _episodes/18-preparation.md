@@ -20,7 +20,7 @@ implementation of Carpentries Workshops.
 We hope you are feeling excited and optimistic about putting
 those concepts to work!
 One thing we have emphasized is that **teaching is a skill** - and a complex one at that.
-Whether you are new to teaching or skilled in certain methods, adding new features takes takes time, effort, and deliberate practice. In this episode,
+Whether you are new to teaching or skilled in certain methods, adding new features takes time, effort, and deliberate practice. In this episode,
 we will walk through some suggestions about how to prepare yourself for success in the classroom.
 
 As in other sections, we will not discuss technical preparation. Carefully reviewing the content of your workshop is important!
