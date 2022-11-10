@@ -194,7 +194,7 @@ they are all wrong... but some are dangerous.
 ### What are stereotypes?
 
 Stereotypes are an established feature of human social cognition, in which a set of characteristics 
-is associted with members of a group. Sterotypes:
+is associated with members of a group. Sterotypes:
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
 - guide what we notice about people 
 - guide how we interpret people's behaviors
