@@ -3,23 +3,62 @@ layout: page
 title: "Suggested Lessons for Teaching Demonstrations"
 ---
 
-Please see the tables below for recommendations about choosing a lesson for your teaching demonstration. If you would like to use a lesson that is not listed here, please contact the Instructor Trainer leading your teaching demonstration or (if no one is listed for your session) email [checkout@carpentries.org](mailto:checkout@carpentries.org).  Note that while a trainee can choose the lesson to teach from, the Trainer leading the demo session will choose the specific episode at the time of the demo session.
+The list below shows lessons that have been reviewed for good and bad start points to use for a teaching demonstration. When selecting a lesson for a 
+teaching demonstration, trainees should review this list to ensure it is suitable.
 
-If the chosen episode is very short and finishes in less than five minutes, the trainee can continue on to the next episode in that lesson.
+Those who wish may also consult the detailed tables following the list to identify episodes marked "avoid" because they will not be asked to teach those episodes. However, we recommend 
+reviewing the full lesson regardless, as this will help provide context for other start points and is also good preparation for your eventual teaching 
+role!
+
+Note that while a trainee can choose the lesson to teach from, the **Trainer leading the demo session will choose the specific episode at the time 
+of the demo session.** If you would like to use a lesson that is not listed here, you may contact the Instructor Trainer leading your teaching 
+demonstration or (if no one is listed for your session) email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).  
+
+If the episode chosen by the trainer is very short and finishes in less than 5 minutes, the trainee can continue on to the next episode in that lesson. They are not 
+required to cover any specific amount of content within the 5 minute period.
 
 * [Data Carpentry: Ecology](#dc-ecology)
+  * [Data Cleaning with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
+  * [Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/)
+  * [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/)
+  * [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Data Carpentry: Genomics](#dc-genomics)
+  * [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/)
+  * [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/)
+  * [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/)
 * [Data Carpentry: Social Sciences](#dc-socialsci)
+  * [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/)
+  * [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/)
+  * [Data Analysis and Visualization with R](http://www.datacarpentry.org/r-socialsci/)
 * [Data Carpentry: Geospatial](#dc-geospatial)
+  * [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/)
+  * [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
 * [Data Carpentry: Astronomy](#dc-astro)
+  * [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/)
 * [Library Carpentry](#lc)
+  * [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/)
+  * [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
+  * [Library Carpentry: Introduction to Git](https://librarycarpentry.org/lc-git/)
 * [Software Carpentry](#swc)
+  * [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
+  * [Version Control with Git](http://swcarpentry.github.io/git-novice/)
+  * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+  * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder)
+  * [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+  * [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+  * [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
+  * [Automation and Make](http://swcarpentry.github.io/make-novice/)
+  * [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/)
 * [Lecciones en español](#espanol)
+  * [La Terminal de Unix](http://swcarpentry.github.io/shell-novice-es/)
+  * [Control de versiones con Git](http://swcarpentry.github.io/git-novice-es/)
+  * [R para Análisis Científicos Reproducibles](http://swcarpentry.github.io/r-novice-gapminder-es/)
+  * [Análisis y visualización de datos usando Python](http://www.datacarpentry.org/python-ecology-lesson-es/)
 
 
 ### <a id="dc-ecology"></a> Data Carpentry: Ecology
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) |  any episode | none ||
 | [Data Cleaning with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |  [Working with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine) | any other episode | The intro episode has no live coding. <br/> Other episodes have dependencies. |
@@ -27,34 +66,29 @@ If the chosen episode is very short and finishes in less than five minutes, the 
 | [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/) | any other episode | [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) | Live coding starts in the middle of the episode to avoid. |
 | [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/) |  * [Short Introduction to Programming](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/)<br/> * [Starting with Data](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/)<br/> * [Indexing, Slicing, and Subsetting](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/)<br/> * [Data Types and Formats](https://datacarpentry.org/python-ecology-lesson/04-data-types-and-format/)<br/> * [Combining DataFrames with Pandas](https://datacarpentry.org/python-ecology-lesson/05-merging-data/)<br/> * [Data Workflows and Automation](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/) | any other episode | [Before we Start](https://datacarpentry.org/python-ecology-lesson/00-before-we-start/) has no live coding. <br/> Later episodes have dependencies. |
 
-
-
 ### <a id="dc-genomics"></a>Data Carpentry: Genomics
 
 If you are an instructor in training and wish to use lessons from Data Carpentry’s Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/teaching_demos/index.html) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
-| [Project Organization and Management for ](https://datacarpentry.org/organization-genomics/) | none | all lessons | Discussion based. No live coding. |
+| [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/) | none | all episodes | Discussion based. No live coding. |
 | [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/) |  all episodes | none | If using [Introducing the Shell](https://datacarpentry.org/shell-genomics/01-introduction/) begin with `cd shell_data` |
 | [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/) |  * [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) <br/> * [Trimming and Filtering](https://datacarpentry.org/wrangling-genomics/03-trimming/index.html) <br/> * [Automating a Variant Calling Workflow](https://datacarpentry.org/wrangling-genomics/05-automation/index.html)  | any other episode |  For [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) begin with `gunzip SRR2584863_1.fastq.gz`  |
 | [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/) |  * [Logging onto  the Cloud](https://datacarpentry.org/cloud-genomics/02-logging-onto-cloud/index.html)  <br/> * [Fine tuning your Cloud Setup](https://datacarpentry.org/cloud-genomics/03-verifying-instance/index.html) | any other episode | Have trainees teach the version “AWS_UNIX”.  |
 | [Data Analysis and Visualization in R](https://datacarpentry.org/genomics-r-intro/) | none  | all episodes | This lesson is not yet stable. |
 
-
 ### <a id="dc-socialsci"></a>Data Carpentry: Social Sciences
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
-| [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/) | * [Dates as Data](https://datacarpentry.org/spreadsheets-socialsci/03-dates-as-data/index.html)<br/> * [Quality Assurance](https://datacarpentry.org/spreadsheets-socialsci/04-quality-assurance/index.html) | * [Introduction](https://datacarpentry.org/spreadsheets-socialsci/00-intro/index.html)<br/> * [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/01-format-data/index.html)<br/> * [Formatting problems](https://datacarpentry.org/spreadsheets-socialsci/02-common-mistakes/index.html)<br/> * [Exporting data](https://datacarpentry.org/spreadsheets-socialsci/05-exporting-data/index.html) | Lessons listed to avoid have no live coding. |
+| [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/) | * [Dates as Data](https://datacarpentry.org/spreadsheets-socialsci/03-dates-as-data/index.html)<br/> * [Quality Assurance](https://datacarpentry.org/spreadsheets-socialsci/04-quality-assurance/index.html) | * [Introduction](https://datacarpentry.org/spreadsheets-socialsci/00-intro/index.html)<br/> * [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/01-format-data/index.html)<br/> * [Formatting problems](https://datacarpentry.org/spreadsheets-socialsci/02-common-mistakes/index.html)<br/> * [Exporting data](https://datacarpentry.org/spreadsheets-socialsci/05-exporting-data/index.html) | Episodes listed to avoid have no live coding. |
 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) |  [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | any other episode | [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) has no live coding. <br/> Later episodes have dependencies. |
 | [Data Analysis and Visualization with R](http://www.datacarpentry.org/r-socialsci/) | any other episode | * [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/)<br/> * [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/)|  [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) has no live coding. <br/> [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/) has dependencies. |
 
-
-
 ### <a id="dc-geospatial"></a>Data Carpentry: Geospatial
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Project Organization and Management](https://datacarpentry.org/organization-geospatial/) | none | all episodes |  This lesson has no live coding. <br/> Do not use for teaching demos. |
 | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) |  any episode | none | |
@@ -63,14 +97,14 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### <a id="dc-astro"></a> Data Carpentry: Astronomy
 
-| Lesson  | Good Starting Points | Avoid | Notes
+| Lesson  | (For Trainers)  Good Starting Points | (For Trainers) Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | * [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> * [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, _Query Language_, and _Using Jupyter_ sections, and begin with [_Connecting to Gaia_](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
 
 ### <a id="lc"></a>Library Carpentry
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) | * [ Navigating the filesystem](https://librarycarpentry.github.io/lc-shell/02-navigating-the-filesystem/index.html)<br/> * [Working with files and directories](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)<br/> * [Automating the tedious with loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)<br/> * [Counting and mining with the shell](https://librarycarpentry.github.io/lc-shell/05-counting-mining/index.html)<br/> * [Working with free text](https://librarycarpentry.github.io/lc-shell/06-free-text/index.html) | [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/)  |  [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/) has no live coding. |
 | [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/) | * [Importing data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html) | any other episode | [Introduction to OpenRefine](https://librarycarpentry.org/lc-open-refine/01-introduction/index.html) has no live coding. <br/> Later episodes have dependencies. |
@@ -80,7 +114,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### <a id="swc"></a>Software Carpentry
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |---------- |---------- |
 |  [The Unix Shell](http://swcarpentry.github.io/shell-novice/) | any other episode | [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) |  [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) has no live coding. |
 |  [Version Control with Git](http://swcarpentry.github.io/git-novice/) |  * [Setting up Git](http://swcarpentry.github.io/git-novice/02-setup)<br/> * [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create)<br/> * [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes)| any other episode | [Automated Version Control](http://swcarpentry.github.io/git-novice/01-basics) has no live coding. <br/> Later episodes have dependencies. |
@@ -94,7 +128,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### <a id="espanol"></a>Lecciones en español
 
-| Lesson  | Good Starting Points | Avoid | Notes
+|  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes     
 |---------- |---------- |---------- |---------- |
 |  [La Terminal de Unix](http://swcarpentry.github.io/shell-novice-es/) | any other episode | [Introducción a la Terminal](https://swcarpentry.github.io/shell-novice-es/01-intro) |  [Introducción a la Terminal](https://swcarpentry.github.io/shell-novice-es/01-intro) no tiene programando en vivo. |
 |  [Control de versiones con Git](http://swcarpentry.github.io/git-novice-es/) |  * [Configurando Git](http://swcarpentry.github.io/git-novice-es/02-setup)<br/> * [Creando un repositorio](http://swcarpentry.github.io/git-novice-es/03-create)<br/> * [Rastreando Cambios](http://swcarpentry.github.io/git-novice-es/04-changes)| cualquier otro episodio | [Control Automatizado de Versiones](http://swcarpentry.github.io/git-novice-es/01-basics) no tiene programando en vivo. <br/> Los episodios posteriores tienen dependencias. |
