@@ -38,7 +38,7 @@ If you'd like have an overview of the questions asked in the surveys without hav
 all the questions, you can preview them in a text-format below:
 
 - [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
-- [Post-workhop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
+- [Post-workshop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
 When The Carpentries Workshop Administration Team sets up the surveys for your workshop, they will also send you a link to
 a dashboard with the results! Take care not to share this link with your learners.
