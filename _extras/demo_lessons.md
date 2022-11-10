@@ -12,7 +12,7 @@ role!
 
 Note that while a trainee can choose the lesson to teach from, the **Trainer leading the demo session will choose the specific episode at the time 
 of the demo session.** If you would like to use a lesson that is not listed here, you may contact the Instructor Trainer leading your teaching 
-demonstration or (if no one is listed for your session) email [instructor.training@carpentries.org](mailto:checkout@carpentries.org).  
+demonstration or (if no one is listed for your session) email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).  
 
 If the episode chosen by the trainer is very short and finishes in less than 5 minutes, the trainee can continue on to the next episode in that lesson. They are not 
 required to cover any specific amount of content within the 5 minute period.
