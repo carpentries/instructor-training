@@ -94,15 +94,10 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) |  any episode | none | |
 | [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | * [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)<br/> * [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)<br/> * [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)<br/> * [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)<br/> * [Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)<br/> * [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)<br/> * [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/) | any other episode | Many episodes rely on data from previous episodes. <br/> Trainees may need extra time to set up their environment. |
 
-### <a id="dc-astro"></a> Data Carpentry: Astronomy
-
-| Lesson  | Good Starting Points | Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
-| [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | * [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> * [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, _Query Language_, and _Using Jupyter_ sections, and begin with [_Connecting to Gaia_](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
 ### <a id="dc-astro"></a> Data Carpentry: Astronomy
 
-| Lesson  | Good Starting Points | Avoid | Notes
+| Lesson  | (For Trainers)  Good Starting Points | (For Trainers) Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | * [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> * [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, _Query Language_, and _Using Jupyter_ sections, and begin with [_Connecting to Gaia_](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
