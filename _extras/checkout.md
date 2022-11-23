@@ -65,13 +65,6 @@ community-contributed guide on how to create a PR][github-guide] that can help.
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
 
-### Alternatives to GitHub
-All Carpentries curricula (including this one) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
-including the ability to contribute to other open-source projects! However, we understand that there are many
-reasons why trainees may wish to avoid engaging on GitHub. That's ok!
-
-If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. 
-
 ### Add Your Lesson Contribution to Your Carpentries Record
 
 In order for your contribution to count for checkout, it needs to be added to your Carpentries record on our AMY database. 
@@ -85,6 +78,13 @@ For this checkout task, please:
 If you have difficulty submitting your lesson contribution in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. However, if you would like to submit your contribution before you receive a response from us, you can use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform) as an alternative. 
 
 You can track your progress by [logging into AMY here](https://amy.carpentries.org).
+
+### Alternatives to GitHub
+All Carpentries curricula (including this one) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
+including the ability to contribute to other open-source projects! However, we understand that there are many
+reasons why trainees may wish to avoid engaging on GitHub. That's ok!
+
+If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. 
 
 
 > ## Help Wanted: Breaking Down Barriers
