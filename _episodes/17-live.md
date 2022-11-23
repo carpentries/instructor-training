@@ -87,13 +87,8 @@ important to keep in mind, however, that feedback is not helpful if you cannot u
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier]({{ page.root }}{% link _episodes/08-motivation.md %}) to make sure this feedback is useful to learners.
 
-+ **Handling errors in coding as a basic programming skill** – one way of encouraging learners to deal with coding errors that
-may occur in their own work is to introduce them to the idea of a “bug”. Properly identifying possible “bugs” (errors) in a code
-and “debugging” them (finding a solution to remove/resolve them) is a unique skill on its own. It is not too distant to what could 
-be considered as “proofreading” of a written text, from finding and hopefully fixing issues as simple as spelling mistakes or character 
-omissions (syntax errors) up to as complex as wrong logical sequences (logical errors) or incorrect calculations (arithmetic errors). 
-However, “debugging” goes a little bit beyond that, as not only a good grasp of specific coding language principles is needed, but also
-experience in reading the feedback software that executes the code can provide about encountered problems (error messages).
++ **Debugging as a skill** – while learners may have negative associations with "mistakes" or "typos", it may be useful to re-frame troubleshooting as the routine process of finding and fixing "bugs". 
++ Learning to parse error messages is an important step in developing debugging skills.
 
 + **Dealing with errors, when to (actually) start?** - A few minutes of a lesson can be spent on intentionally making a few basic errors 
 to explain the idea and to familiarise the learners with error messages and how to read them. The simplest and reproducible errors are 
