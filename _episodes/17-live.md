@@ -90,13 +90,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 + **Debugging as a skill** – while learners may have negative associations with "mistakes" or "typos", it may be useful to re-frame troubleshooting as the routine process of finding and fixing "bugs". 
 + Learning to parse error messages is an important step in developing debugging skills.
 
-+ **Dealing with errors, when to (actually) start?** - A few minutes of a lesson can be spent on intentionally making a few basic errors 
-to explain the idea and to familiarise the learners with error messages and how to read them. The simplest and reproducible errors are 
-definitely syntax errors; they are also ones that learners will most likely encounter first and may start to spot on their own. Syntax 
-errors also have relatively well-defined error messages in the majority of interpreting software. However, explaining debugging beyond
-this point should be done only when opportunities arise. Own coding mistakes and errors made by learners when either copying the instructor
-or while working on their own should be considered a teaching/learning resource, giving a chance to digress about more specific issues and
-how to deal with them when writing or reviewing the code.
++ **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
 
 > ## Compare and Contrast
 >
