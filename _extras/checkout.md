@@ -65,16 +65,26 @@ community-contributed guide on how to create a PR][github-guide] that can help.
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
 
+### Add Your Lesson Contribution to Your Carpentries Record
+
+In order for your contribution to count for checkout, it needs to be added to your Carpentries record on our AMY database. 
+
+For this checkout task, please:
+1. log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile). If you are unable to login to AMY, please see below.
+1. Once you have logged in, select “Training progress” at the top of the screen.  
+1. Enter in a link to your lesson contribution.  
+1. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
+
+If you have difficulty submitting your lesson contribution in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. However, if you would like to submit your contribution before you receive a response from us, you can use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform) as an alternative. 
+
+You can track your progress by [logging into AMY here](https://amy.carpentries.org).
+
 ### Alternatives to GitHub
 All Carpentries curricula (including this one) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
 including the ability to contribute to other open-source projects! However, we understand that there are many
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
-
-For this checkout task, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. 
 If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. 
-
-In either case, you can track your progress by [logging into AMY here](https://amy.carpentries.org).
 
 
 > ## Help Wanted: Breaking Down Barriers
