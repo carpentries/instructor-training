@@ -87,6 +87,11 @@ important to keep in mind, however, that feedback is not helpful if you cannot u
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier]({{ page.root }}{% link _episodes/08-motivation.md %}) to make sure this feedback is useful to learners.
 
++ **Debugging as a skill** – while learners may have negative associations with "mistakes" or "typos", it may be useful to re-frame troubleshooting as the routine process of finding and fixing "bugs". 
++ Learning to parse error messages is an important step in developing debugging skills.
+
++ **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
+
 > ## Compare and Contrast
 >
 > Watch this first participatory live coding demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
