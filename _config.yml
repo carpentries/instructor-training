@@ -11,7 +11,10 @@ carpentry: "cp"
 
 # Overall title for pages.
 title: "Instructor Training"
-
+life_cycle: "transition-step-1"
+transition_date_prebeta: '2022-11-28'
+transition_date_beta: '2022-01-09'
+transition_date_prerelease: '2023-03-06'
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
