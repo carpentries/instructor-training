@@ -61,7 +61,7 @@ to reserve time to think through ways in which learners' experiences and needs m
 {: .challenge}
 
 As you strive to anticipate and understand your audience, it is
-useful to recognize that you will never know everything about the people as a whole who come into your classroom. You will not
+useful to recognize that you will never know everything about the individuals who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped
 breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your
