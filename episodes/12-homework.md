@@ -33,7 +33,7 @@ To prepare for our next session, please:
     Remember, imperfect presentations can generate useful feedback!
     If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
     *   Data Carpentry
-        *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>)
+        *   [Faceting and Clustering in OpenRefine](<{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine>) #broken link
         *   [Basic Queries in SQL](<{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>)
         *   [Starting with Data in R](<{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>)
         *   [Starting with Data in Python](<{{ site.dc_site }}/python-ecology-lesson/02-starting-with-data/>)
