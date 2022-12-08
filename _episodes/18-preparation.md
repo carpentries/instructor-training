@@ -15,7 +15,7 @@ keypoints:
 - "A good exercise informs Learners and Instructors when an objective is achieved."
 ---
 ## Building Teaching Skill
-In this training, we have discussed many cognitive principles and teaching practices that guide the design and
+In this training we have discussed many cognitive principles and teaching practices that guide the design and
 implementation of Carpentries Workshops.
 We hope you are feeling excited and optimistic about putting
 those concepts to work!
@@ -46,7 +46,7 @@ we therefore suggest setting aside time *before* deeply reviewing your technical
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
 (we hope!) have a plan to learn a few things about your participants after a class has begun. However, in thinking about your learners, it is
-also important to consider the broader contexts they bring in ways that you will never get to fully explore in your classroom. It can be helpful
+also important to consider them in a broader context and in a way that you are not able to fully explore in your classroom. It can be helpful
 to reserve time to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others.
 
 ![A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners](../fig/instructor-training-program.png)
@@ -60,8 +60,8 @@ to reserve time to think through ways in which learners' experiences and needs m
 > This exercise should take about 2 minutes.  
 {: .challenge}
 
-As you strive to anticipate your audience, it is
-useful to recognize that you will never know everything about the whole people who come into your classroom. You will not
+As you strive to anticipate and understand your audience, it is
+useful to recognize that you will never know everything about the individuals who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped
 breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your
