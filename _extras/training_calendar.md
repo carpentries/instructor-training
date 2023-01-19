@@ -45,15 +45,6 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 New trainings are added to this calendar on a quarterly basis.
 
-
-
-
-
-
-#### [January 25-26, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-january-25-26-2023-tickets-476718416617)
-
-**Two 8-hour days:** 9 am to 5 pm N.America Eastern Time / 2 pm to 10 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230125T09&p1=77&ah=8)
-
 <hr>
 
 #### [February 7-8, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-7-8-2023-tickets-476726781637)
