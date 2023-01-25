@@ -23,10 +23,9 @@ or run `make` in this directory for a list of helpful commands.
 [lesson-example]: https://carpentries.github.io/lesson-example
 [swc-site]: http://software-carpentry.org
 [lc-site]: https://librarycarpentry.org
-[koch_christina]: https://carpentries.org/instructors/
-[brown_sarah]: https://carpentries.org/instructors/ 
-[dennis_tim]: https://carpentries.org/instructors/
-[perez-suarez_david]: https://carpentries.org/instructors/
-[porter-nathaniel]: https://carpentries.org/instructors/
-[wheeler_jon]: https://carpentries.org/instructors/
+[brown_sarah]: https://carpentries.org/instructors/#brownsarahm
+[dennis_tim]: https://carpentries.org/instructors/#jt14den
+[perez-suarez_david]: https://carpentries.org/instructors/#dpshelio
+[porter-nathaniel]: https://carpentries.org/instructors/#ndporter
+[wheeler_jon]: https://carpentries.org/instructors/#jonathanwheeler01
 [word_karen]: https://carpentries.org/team/
