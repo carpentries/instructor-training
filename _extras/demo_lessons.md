@@ -107,7 +107,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 | Lesson  | (For Trainers)  Good Starting Points | (For Trainers) Avoid | Notes
 |---------- |---------- |---------- |---------- |---------- |---------- |
-| [Image Processing with Python](https://datacarpentry.org/image-processing/) | * [Working with skimage](https://datacarpentry.org/image-processing/03-skimage-images/index.html) <br/> * [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/index.html) <br/> * [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/index.html)<br/> * [Thresholding](https://datacarpentry.org/image-processing/07-thresholding/index.html) | any other episode |  Other episodes begin with too much explanatory content for a teaching demo. <br/> This lesson is designed to be taught with a Jupyter environment. |
+| [Image Processing with Python](https://datacarpentry.org/image-processing/) | * [Working with skimage](https://datacarpentry.org/image-processing/03-skimage-images/index.html) <br/> * [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/index.html) <br/> * [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/index.html)<br/> * [Thresholding](https://datacarpentry.org/image-processing/07-thresholding/index.html) | any other episode |  Other episodes begin with too much explanatory content for a teaching demo. <br/> This lesson is designed to be taught with a [JupyterLab](https://jupyter.org/) environment. |
 
 
 ### <a id="lc"></a>Library Carpentry
