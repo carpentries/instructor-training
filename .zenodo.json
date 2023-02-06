@@ -2,11 +2,6 @@
   "contributors": [
     {
       "type": "Editor",
-      "name": "Karen Word",
-      "orcid": "0000-0002-7294-7231"
-    },
-    {
-      "type": "Editor",
       "name": "Sarah M Brown",
       "orcid": "0000-0001-5728-0822"
     },
@@ -17,191 +12,159 @@
     },
     {
       "type": "Editor",
-      "name": "Kelly Barnes"
+      "name": "Pérez-Suárez",
+      "orcid": "0000-0003-0784-6909"
+    },
+    {
+      "type": "Editor",
+      "name": "Nathaniel Porter",
+      "orcid": "0000-0002-0479-6777"
+    },
+    {
+      "type": "Editor",
+      "name": "Jon Wheeler",
+      "orcid": "0000-0002-7166-3587"
+    },
+    {
+      "type": "Editor",
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
     }
   ],
   "creators": [
-    {
-      "name": "Karen Word",
-      "orcid": "0000-0002-7294-7231"
-    },
-    {
-      "name": "Maneesha Sane",
-      "orcid": "0000-0003-0726-5696"
-    },
-    {
-      "name": "Kelly Barnes"
-    },
     {
       "name": "Sarah M Brown",
       "orcid": "0000-0001-5728-0822"
     },
     {
-      "name": "François Michonneau",
-      "orcid": "0000-0002-9092-966X"
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
     },
     {
-      "name": "Christina Koch",
-      "orcid": "0000-0001-8600-8158"
+      "name": "Maneesha Sane"
     },
     {
-      "name": "Rayna M Harris",
-      "orcid": "0000-0002-7943-5650"
+      "name": "Kelly Barnes"
     },
     {
-      "name": "Erin Becker",
-      "orcid": "0000-0002-6832-0233"
+      "name": "Nathaniel Porter",
+      "orcid": "0000-0002-0479-6777"
     },
     {
-      "name": "Brian Ballsun-Stanton"
-    },
-    {
-      "name": "Gerard Capes"
-    },
-    {
-      "name": "Toby Hodges",
-      "orcid": "0000-0003-1766-456X"
-    },
-    {
-      "name": "Serah Njambi",
-      "orcid": "0000-0002-7834-1038"
-    },
-    {
-      "name": "Sarah Stevens",
-      "orcid": "0000-0002-7040-548X"
-    },
-    {
-      "name": "Zhian Namir Kamvar",
-      "orcid": "0000-0003-1458-7108"
-    },
-    {
-      "name": "Angela Li",
-      "orcid": "0000-0002-8956-419X"
-    },
-    {
-      "name": "Ariel Deardorff"
-    },
-    {
-      "name": "Pradeep Eranti",
-      "orcid": "0000-0002-3060-3967"
-    },
-    {
-      "name": "SherAaron Hurt"
+      "name": "Philipp Matthias Schaefer"
     },
     {
       "name": "Aleksandra Nenadic",
       "orcid": "0000-0002-2269-3894"
     },
     {
-      "name": "Eric Jankowski",
-      "orcid": "0000-0002-3267-1410"
+      "name": "Toby Hodges",
+      "orcid": "0000-0003-1766-456X"
     },
     {
-      "name": "Dr. Kari L. Jordan",
-      "orcid": "0000-0003-4121-2432"
+      "name": "Giordano Lipari",
+      "orcid": "0000-0002-5680-2809"
     },
     {
-      "name": "Laurent Heirendt"
+      "name": "Andrzej Aleksander Romaniuk",
+      "orcid": "0000-0002-4977-9241"
     },
     {
-      "name": "Murray Cadzow"
+      "name": "Martino Sorbaro Sindaci",
+      "orcid": "0000-0002-0182-7443"
     },
     {
-      "name": "Aaron Tran"
+      "name": "amangoel185",
+      "orcid": "0000-0003-3567-2096"
     },
     {
-      "name": "Alec L. Robitaille",
-      "orcid": "0000-0002-4706-1762"
+      "name": "Brynn Elliott"
     },
     {
-      "name": "Alexander James Ball",
-      "orcid": "0000-0002-3148-9107"
+      "name": "Christian Knüpfer",
+      "orcid": "0000-0002-1323-5445"
     },
     {
-      "name": "Bianca Peterson",
-      "orcid": "0000-0001-6927-9159"
+      "name": "jaguillette"
     },
     {
-      "name": "Christa de Kock"
+      "name": "Jonathan Wheeler"
     },
     {
-      "name": "Daniel Chen",
-      "orcid": "0000-0003-3857-1741"
+      "name": "JorgeBCh"
     },
     {
-      "name": "Darya P Vanichkina",
-      "orcid": "0000-0002-0406-164X"
+      "name": "MARK TEFERO KIVUMBI",
+      "orcid": "0000-0002-1482-4217"
     },
     {
-      "name": "Pérez-Suárez",
-      "orcid": "0000-0003-0784-6909"
+      "name": "Adrian Pohl",
+      "orcid": "0000-0001-9083-7442"
     },
     {
-      "name": "Elizabeth McAulay",
-      "orcid": "0000-0002-8679-9727"
+      "name": "Andy Foster"
     },
     {
-      "name": "George Milunovich",
-      "orcid": "0000-0003-0697-0684"
+      "name": "Annika Rockenberger",
+      "orcid": "0000-0001-9515-8262"
     },
     {
-      "name": "GIUSEPPE PROFITI",
-      "orcid": "0000-0001-6067-6174"
+      "name": "Christopher Beltz",
+      "orcid": "0000-0001-9605-0712"
     },
     {
-      "name": "Hugo Gruson",
-      "orcid": "0000-0002-4094-1476"
+      "name": "Cora Assmann"
+    },
+    {
+      "name": "Désirée Treichler",
+      "orcid": "0000-0002-2758-9885"
+    },
+    {
+      "name": "Erin Alison Becker",
+      "orcid": "0000-0002-6832-0233"
+    },
+    {
+      "name": "Hao Ye",
+      "orcid": "0000-0002-8630-1458"
+    },
+    {
+      "name": "James Deaton"
+    },
+    {
+      "name": "Jannetta Steyn"
     },
     {
       "name": "Jeffrey Oliver",
       "orcid": "0000-0003-2160-1086"
     },
     {
-      "name": "Jonah Duckles",
-      "orcid": "0000-0002-8985-3119"
+      "name": "Jeremy Guillette"
     },
     {
-      "name": "Juvonen, Matti"
+      "name": "Joenio Marques da Costa"
     },
     {
-      "name": "Konrad U. Förstner",
-      "orcid": "0000-0002-1481-2996"
+      "name": "Jon Wheeler",
+      "orcid": "0000-0002-7166-3587"
     },
     {
-      "name": "Lex Nederbragt",
-      "orcid": "0000-0001-5539-0999"
+      "name": "Kelly Duffy",
+      "orcid": "0000-0001-8476-2077"
     },
     {
-      "name": "Liz Stokes",
-      "orcid": "0000-0002-2973-5647"
+      "name": "Marcelina Nagales"
     },
     {
-      "name": "Martin Stoffers",
-      "orcid": "0000-0003-2987-4345"
+      "name": "nikitabern"
     },
     {
-      "name": "Michael Black",
-      "orcid": "0000-0003-1174-6054"
+      "name": "Ragnhild Sundsbak"
     },
     {
-      "name": "Michael Henry",
-      "orcid": "0000-0002-3870-9993"
+      "name": "raisaionin"
     },
     {
-      "name": "Neal Davis",
-      "orcid": "0000-0002-1131-8319"
-    },
-    {
-      "name": "Sarah Peter"
-    },
-    {
-      "name": "Sichong"
-    },
-    {
-      "name": "Tong Liang"
-    },
-    {
-      "name": "Ashwin Vishnu Mohanan"
+      "name": "TM612"
     }
   ],
   "license": {
