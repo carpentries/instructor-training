@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Icebreakers"
+title: Icebreakers
 ---
 
 ## Icebreaker Ideas
@@ -8,7 +7,7 @@ title: "Icebreakers"
 ### Information for Today's Learners
 
 1. Add your name to the Etherpad
-1. Introduce yourselves (preferably verbally)! In your introduction, (a) explain your work in 3 words and (b) say something you are proud of (not necessarily related to research or teaching).
+2. Introduce yourselves (preferably verbally)! In your introduction, (a) explain your work in 3 words and (b) say something you are proud of (not necessarily related to research or teaching).
 
 ### Our First Exercise
 
@@ -69,3 +68,5 @@ What is something you might have in common with someone else? Maybe this is a ho
 ### Joy
 
 What is something that has recently brought you joy?
+
+

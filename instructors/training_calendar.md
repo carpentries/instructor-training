@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Instructor Training Calendar"
+title: Instructor Training Calendar
 ---
 
 ### About Carpentries Instructor Training
@@ -9,17 +8,17 @@ This training is designed for people who want to become certified Carpentries in
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout’ steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
 
 ### How to Register for an Instructor Training
 
-Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.  
+Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.
 
 ### When to Register
 
 #### Members and other groups
 
-Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date. 
+Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date.
 
 #### Open Instructor Training
 
@@ -27,9 +26,9 @@ Open Instructor Training codes become active for each event starting one month b
 
 ### Cancellation Policies
 
-Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline. 
+Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline.
 
-After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event. 
+After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event.
 
 If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
 
@@ -47,7 +46,7 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [February 15-16, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-15-16-2023-tickets-476729620127) 
+#### [February 15-16, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-15-16-2023-tickets-476729620127)
 
 **Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / 11 am to 7 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230215T09&p1=75&ah=8)
 
@@ -70,7 +69,6 @@ New trainings are added to this calendar on a quarterly basis.
 **Two 8-hour days:** 9 am to 5 pm UTC / 2:30 pm to 10:30 pm India Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230314T09&p1=136&ah=8)
 
 <hr>
-
 
 #### [March 20-23, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-20-23-2023-tickets-476742779487)
 

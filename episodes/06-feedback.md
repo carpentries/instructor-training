@@ -1,25 +1,30 @@
 ---
-title: "Building Skill With Feedback"
-block: "Building Teaching Skill"
+title: Building Skill With Feedback
+block: Building Teaching Skill
 teaching: 10
 exercises: 10
-questions:
-- "How can I get feedback from learners?"
-- "How can I use this feedback to improve my teaching?"
-objectives:
-- "Describe three feedback mechanisms used in Carpentries workshops."
-- "Give feedback to your instructors."
-keypoints:
-- "Give your learners time to fill out the post-workshop survey at the end of your workshop."
-- "Take the time to respond to your learners' feedback."
 ---
 
 We use formative assessment of learners during workshops to help track
 learners' progress and adjust our approach to teaching the content as needed.
 But formative assessment is not just for learners. As we will discuss in more detail
-[later]({{ page.root }}/11-practice-teaching/), teaching is also a skill that is improved
+[later](11-practice-teaching/), teaching is also a skill that is improved
 through regular practice and feedback. We gather feedback from our learners
 at multiple points in the workshop and in different forms.
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Describe three feedback mechanisms used in Carpentries workshops.
+- Give feedback to your instructors.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- How can I get feedback from learners?
+- How can I use this feedback to improve my teaching?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Surveys
 
@@ -42,19 +47,24 @@ all the questions, you can preview them in a text-format below:
 
 When The Carpentries Workshop Administration Team sets up the surveys for your workshop, they will also send you a link to
 a dashboard with the results! Take care not to share this link with your learners.
+
 - This link will take you to a [dashboard displaying the last year of data for our workshop
   surveys](https://workshop-reports.carpentries.org/?aggregate-workshops) so you can have an idea of
   what to expect for your workshop.
 
-> ## Survey links
->
-> The survey links above are only for you to preview the survey as part of
-> Instructor Training. When you are teaching a workshop, make sure to share the
-> links that gets generated on your workshop website. Doing so will ensure that
-> you will receive all the survey results from your workshop participants.
-{: .checklist}
+:::::::::::::::::::::::::::::::::::::::  checklist
 
-![Screenshot of a workshop website showing location of customized survey links](../fig/surveyscreenshot3.svg)
+## Survey links
+
+The survey links above are only for you to preview the survey as part of
+Instructor Training. When you are teaching a workshop, make sure to share the
+links that gets generated on your workshop website. Doing so will ensure that
+you will receive all the survey results from your workshop participants.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customized survey links'}
 
 ### Timing Matters
 
@@ -65,7 +75,6 @@ fit in another 15 minutes worth of teaching, give your learners time to complete
 post-workshop survey at the end of your workshop. You will be helping them (with an
 opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries
 (we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
-
 
 ## Minute Cards
 
@@ -78,14 +87,16 @@ anonymous. A public-facing sticky note board will receive different (and less us
 
 Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break.
 
-**Example positive prompts:**   
+**Example positive prompts:**
+
 - One thing you liked about this section of the workshop
-- The most important thing you learned today   
+- The most important thing you learned today
 - A new skill, command, or technique you are most excited about using
 
-**Example constructive prompts:**  
+**Example constructive prompts:**
+
 - One thing you did not like or would change about this section of the workshop
-- One thing that is confusing / you would like clarification on.    
+- One thing that is confusing / you would like clarification on.
 - One question you have
 
 During long breaks, instructors read through the minute
@@ -93,14 +104,17 @@ cards and look for patterns. At the start of each half day, the Instructors
 take a few minutes to address commonly raised issues with the whole class. The
 non-teaching Instructor can also type answers to the questions in the Etherpad.
 
-> ## Be Explicit About Using Feedback
->
-> Learners are more likely to give useful feedback if they feel that their feedback
-> is being taken seriously. Spending a few minutes talking about the feedback you got
-> and being explicit about what changes you are making in light of that feedback
-> will encourage learners to continue to give informative feedback throughout the workshop.
-{: .callout}
+:::::::::::::::::::::::::::::::::::::::::  callout
 
+## Be Explicit About Using Feedback
+
+Learners are more likely to give useful feedback if they feel that their feedback
+is being taken seriously. Spending a few minutes talking about the feedback you got
+and being explicit about what changes you are making in light of that feedback
+will encourage learners to continue to give informative feedback throughout the workshop.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## One-Up, One-Down
 
@@ -116,12 +130,24 @@ but does not comment on the feedback while collecting it. The instructors then
 discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
 about how you are responding to learner feedback.
 
+:::::::::::::::::::::::::::::::::::::::  challenge
 
-> ## Give Us Feedback
->
-> Write one thing you learned this so far in this training that you found useful on
-> your blue sticky note, and one question you have about the material
-> on the yellow.  Do *not* put your name on the notes: this is meant to
-> be anonymous feedback.  Add your notes to the pile by the door as
-> you leave for lunch.
-{: .challenge}
+## Give Us Feedback
+
+Write one thing you learned this so far in this training that you found useful on
+your blue sticky note, and one question you have about the material
+on the yellow.  Do *not* put your name on the notes: this is meant to
+be anonymous feedback.  Add your notes to the pile by the door as
+you leave for lunch.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Give your learners time to fill out the post-workshop survey at the end of your workshop.
+- Take the time to respond to your learners' feedback.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
