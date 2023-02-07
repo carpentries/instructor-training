@@ -22,7 +22,7 @@ need to take after this training to become a fully certified Carpentries Instruc
 
 ## Instructor Checkout
 
-After completing the Instructor Training workshop, there are [three final steps to complete](https://carpentries.github.io/instructor-training/checkout/index.html) before qualifying as an Instructor.
+After completing the Instructor Training workshop, there are [three final steps to complete](checkout.md) before qualifying as an Instructor.
 Briefly, the three steps are:
 
 1. Make a small contribution to a lesson or glossary.
@@ -37,7 +37,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 ## Be The Expert: Checkout Q \& A
 
-In small groups, read and discuss one of the three checkout procedures described on this page: [https://carpentries.github.io/instructor-training/checkout/index.html](https://carpentries.github.io/instructor-training/checkout/index.html)
+In small groups, read and discuss one of the three checkout procedures described on this page: [https://carpentries.github.io/instructor-training/checkout/index.html](checkout.md)
 Make notes in the Etherpad:
 
 - What points do you think it is most important or helpful for people to remember?
@@ -45,7 +45,6 @@ Make notes in the Etherpad:
   When you are done, report back to the full group about that stage of the process.
 
 This exercise should take about 10 minutes.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -66,7 +65,6 @@ you can find them again and make a note to schedule these steps for your checkou
 
 This exercise should take 5 minutes.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### What does a badge mean?
@@ -75,14 +73,14 @@ This exercise should take 5 minutes.
 - **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
 - **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
-[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
-[text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
-
-
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
+[text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
+
 
 

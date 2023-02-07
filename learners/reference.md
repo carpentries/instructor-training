@@ -1,128 +1,201 @@
 ---
-title: Key Points and References
+title: Glossary
 ---
 
-## Books
+- **Accessibility**:
+  Equal access to learning opportunities regardless of learners' physical abilities or other attributes.
 
-Susan Ambrose et al: *[How Learning Works: Seven Research-Based Principles for Smart Teaching][worldcat-hlw]*.
-:   An excellent overview of what we know about education and why we
-believe it is true, covering everything from cognitive psychology
-to social factors.
+- **Authentic Task**:
+  A task which contains important elements of things that learners would
+  do in real life (i.e. non-classroom situations).  To be authentic, a task should
+  require learners to construct their own answers rather than choose
+  among provided answers, and to work with the same tools and data
+  they would use in real life.
 
-Stephen D. Brookfield and Stephen Preskill: *[The Discussion Book][worldcat-discussion]*.
-:   Describes fifty different ways to get groups talking productively.
+- **Chunking**:
+  The act of grouping related concepts together so that they can be
+  stored and processed as a single unit.
 
-Joshua Foer: *[Moonwalking with Einstein: The Art and Science of Remembering Everything][worldcat-moonwalking]*.
-:   Discusses memory techniques within the context of training for the U.S. Memory Championship. Compelling read and
-also very informative.
+- **Cognitive Load**:
+  [Cognitive load][wikipedia-cognitive-load] is the amount of mental
+  effort required to solve a problem.  Cognitive load theory divides
+  this effort into *intrinsic*, *extraneous*, and *germane*, and holds
+  that people learn faster and better when extraneous load is reduced.
 
-Elizabeth Green: *[Building a Better Teacher][worldcat-babt]*.
-:   A well-written look at why educational reforms in the past 50 years have mostly missed the mark,
-and what we should be doing instead.
+- **Community of Practice**:
+  A self-perpetuating group of people who share and develop a craft or
+  occupation, such as knitters, musicians, or programmers.
 
-Mark Guzdial: *[Learner-Centered Design of Computing Education: Research on Computing for Everyone][worldcat-lcdce]*.
-:   A well-researched investigation of what it means to design computing courses for everyone,
-not just people who are going to become professional programmers,
-from one of the leading researchers in CS education.
+- **Competent Practitioner**:
+  Someone who can do normal tasks with normal effort under normal
+  circumstances.
+  <br>
+  See also *novice* and *expert*.
 
-Doug Lemov: *[Teach Like a Champion 2.0][worldcat-tlac]*.
-:   Presents 62 classroom techniques drawn from intensive study of thousands of hours of video of good teachers in action.
+- **Concept Map**:
+  A picture of a mental model in which concepts are nodes in a graph
+  and relationships are (labelled) arcs.
 
-Therese Huston: *[Teaching What You Do not Know][worldcat-twydk]*.
-:   A pointed, funny, and very useful book that explores exactly what the title suggests.
+- **Deliberate Practice**:
+  The act of observing performance of a task while doing it in order to
+  improve ability.
 
-James Lang: *[Small Teaching][worldcat-small-teaching]*.
-:   A short guide to evidence-based teaching practices that can be adopted
-without requiring large up-front investments of time and money.
+- **Diagnostic Power**:
+  The degree to which a wrong answer to a question or exercise tells the
+  instructor what misconceptions a particular learner has.
 
-Jane Margolis and Allan Fisher: *[Unlocking the Clubhouse: Women in Computing][worldcat-clubhouse]*.
-:   A groundbreaking report on the gender imbalance in computing,
-and the steps Carnegie-Mellon took to address the problem.
+- **Educational Psychology**:
+  The study of how people learn.
+  <br>
 
-Claude M. Steele: *[Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do][worldcat-vivaldi]*.
-:   Explains and explores stereotype threat and strategies for addressing it.
+- **Effort-based Praise**:
+  Providing positive feedback to learners that recognizes and rewards their hard work.
+  <br>
+  See also *improvement-based praise* and *performance-based praise*.
 
-## Papers
+- **Error Framing**: Presenting errors as an integral part of the learning process and using them as teaching opportunities.
 
-Baume: "[Writing and Using Good Learning Outcomes](files/papers/baume-learning-outcomes-2009.pdf)"
-:   A useful detailed guide to constructing useful learning outcomes.
+- **Expert**:
+  Someone who can diagnose and handle unusual situations, knows when the
+  usual rules do not apply, and tends to recognize solutions rather than
+  reasoning to them.
+  <br>
+  See also *competent practitioner* and *novice*.
 
-Borrego and Henderson: "[Increasing the Use of Evidence-Based Teaching in STEM Higher Education: A Comparison of Eight Change Strategies](files/papers/borrego-henderson-change-strategies-2014.pdf)"
-:   Describes eight approaches to effecting change in STEM education
-that form a useful framework for thinking about how Software Carpentry and Data Carpentry can change the world.
+- **Expert Awareness Gap**:
+  The inability of experts to empathize with novices who are
+  encountering concepts or practices for the first time.
+  Often referred to as expert blind spot in the literature.
 
-Brown and Altadmri: "[Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data](files/papers/brown-educator-vs-learner-beliefs-2014.pdf)"
-:   Compares teachers' opinions about common programming errors with data from over 100,000 students,
-and finds only weak consensus amongst teachers and between teachers and data.
+- **Faded Example**:
+  A series of examples in which a steadily increasing number of key
+  steps are blanked out.
+  <br>
+  See also *scaffolding*.
 
-Carroll, Smith-Kerker, Ford, and Mazur-Rimetz: "[The Minimal Manual](https://doi.org/10.1207/s15327051hci0302_2)" *Human–Computer Interaction*, 3:2, 123-153, 1987.
-:   Outlines an approach to documentation and instruction
-in which each lesson is one page long and describes how to accomplish one concrete task.
-Its focus on immediate application,
-error recognition and recovery,
-and reference use after training
-makes it an interesting model for Software and Data Carpentry.
+- **Fixed Mindset**:
+  The belief that an ability is innate, and that failure is due to a
+  lack of some necessary attribute.
+  <br>
+  See also *growth mindset*.
 
-Crouch and Mazur: "[Peer Instruction: Ten Years of Experience and Results](files/papers/crouch-mazur-peer-instruction-ten-years-2001.pdf)"
-:   An early report on peer instruction and its effects in the classroom.
+- **Fluid Representation**:
+  The ability to move quickly between different models of a problem.
 
-Deans for Impact: "[The Science of Learning](files/papers/science-of-learning-2015.pdf)"
-:   Summarizes cognitive science research related to how students learn,
-and connects it to practical implications for teaching and learning.
+- **Formative Assessment**:
+  Assessment that takes place during a lesson in order to give both the
+  learner and the instructor feedback on actual understanding.
+  <br>
+  See also *summative assessment*.
 
-Guzdial: "[Exploring Hypotheses about Media Computation](files/papers/guzdial-mediacomp-retrospective-2013.pdf)"
-:   A look back on 10 years of media computation research.
+- **Growth Mindset**:
+  The belief that ability comes with practice.
+  <br>
+  See also *fixed mindset*.
 
-De Bruyckere et al: "[Urban Myths About Learning and Education](files/papers/de-bruyckere-urban-myths-2015.pdf)"
-:   A one-page summary drawn from their book of the same name.
+- **Impostor Syndrome**:
+  A feeling of insecurity about one's accomplishments that manifests as
+  a fear of being exposed as a fraud.
 
-Gormally et al: "[Feedback about Teaching in Higher Ed: Neglected Opportunities to Promote Change](files/papers/gormally-teaching-feedback-2014.pdf)"
-:   Summarizes best practices for providing instructional feedback and recommends specific strategies for sharing instructional expertise.
+- **Improvement-based Praise**:
+  Providing positive feedback to learners that recognizes and rewards improvements they have made.
+  <br>
+  See also *effort-based praise* and *performance-based praise*.
 
-Guzdial: "[Why Programming is Hard to Teach](files/papers/guzdial-why-hard-to-teach-2011.pdf)"
-:   A chapter from
-*[Making Software][worldcat-making-software]*
-that explores why programming seems so much harder to teach than
-some other standard subjects.
+- **Inclusivity**:
+  Working actively to include people with diverse backgrounds and needs.
 
-Kirschner et al: "[Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](files/papers/kirschner-minimal-guidance-fails-2006.pdf)"
-:   Argues that inquiry-based learning is less effective for novices than guided instruction.
+- **Inquiry-Based Learning**:
+  The practice of allowing learners to ask their own questions, set
+  their own goals, and find their own path through a subject.
 
-Lee: "[What can I do today to create a more inclusive community in CS?](files/papers/lee-create-inclusive-community-2015.pdf)".
-:   A brief, practical guide on exactly that with references to the research literature.
+- **Lateral Knowledge Transfer**:
+  The "accidental" transfer of knowledge that occurs when an instructor
+  is teaching one thing, and the learner picks up another.
 
-Mayer and Moreno: "[Nine Ways to Reduce Cognitive Load in Multimedia Learning](files/papers/mayer-reduce-cognitive-load-2003.pdf)"
-:   Shows how research into how we absorb and process information
-can be applied to the design of instructional materials.
+- **Learner Profile**:
+  A brief description of a typical target learner for a lesson that
+  includes their general background, what they already know, what they
+  want to do, how the lesson will help them, and any special needs they
+  might have.
 
-Porter et al: "[Success in Introductory Programming: What Works?](files/papers/porter-what-works-2013.pdf)"
-:   Summarizes the evidence that three techniques---peer instruction, media computation, and pair programming---can
-significantly improve outcomes in introductory programming courses.
+- **Learning Objective**:
+  What a lesson is trying to achieve.
 
-Wiggins and McTighe: "[UbD in a Nutshell](files/papers/wiggins-mctighe-ubd-nutshell.pdf)"
-:   A four-page summary of the authors' take on reverse instructional design.
+- **Lesson Study**:
+  The process in which instructors collaboratively plan lessons,
+  observe each other's teaching, and discuss teaching experiences
+  in order to learn from each other.
 
-Wilson et al: "[Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)".
-:   Describes and justifies a minimal set of computing practices that every researcher could and should adopt.
+- **Live Coding**:
+  The act of teaching programming by writing software in front of
+  learners as the lesson progresses.
 
-Wilson et al: "[Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)"
-:   Describes and justifies the practices that mature scientific software developers ought to use.
+- **Long-Term Memory**:
+  The part of memory that stores information for long periods of time.
+  Long-term memory is very large, but slow.
+  <br>
+  See also *short-term memory*.
 
-Wilson: "[Software Carpentry: Lessons Learned][swc-lessons-learned]"
-:   Summarizes what we have learned in 17 years of running classes for scientists.
+- **Mental Model**:
+  A representation of a person's knowledge and thought processes about a topic or domain.
 
-[worldcat-hlw]: https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489
-[worldcat-discussion]: https://www.worldcat.org/title/discussion-book-50-great-ways-to-get-people-talking/oclc/914221868
-[worldcat-moonwalking]: https://www.worldcat.org/title/moonwalking-with-einstein-the-art-and-science-of-remembering-everything/oclc/1023353802
-[worldcat-babt]: https://www.worldcat.org/title/building-a-better-teacher-how-teaching-works-and-how-to-teach-it-to-everyone/oclc/953075081
-[worldcat-lcdce]: https://www.worldcat.org/title/learner-centered-design-of-computing-education-research-on-computing-for-everyone/oclc/1028934710&referer=brief_results
-[worldcat-tlac]: https://www.worldcat.org/title/teach-like-a-champion-20-62-techniques-that-put-students-on-thepath-to-college/oclc/946587371
-[worldcat-twydk]: https://www.worldcat.org/title/teaching-what-you-dont-know/oclc/806492013
-[worldcat-small-teaching]: https://www.worldcat.org/title/small-teaching-everyday-lessons-from-the-science-of-learning/oclc/968245403
-[worldcat-clubhouse]: https://www.worldcat.org/title/unlocking-the-clubhouse-women-in-computing/oclc/752326915
-[worldcat-vivaldi]: https://www.worldcat.org/title/whistling-vivaldi-and-other-clues-to-how-stereotypes-affect-us/oclc/987873095
-[worldcat-making-software]: https://www.worldcat.org/title/making-software-what-really-works-and-why-we-believe-it/oclc/795921229
-[swc-lessons-learned]: https://f1000research.com/articles/3-62/v2
+- **Minute Cards**:
+  A feedback technique in which learners spend a minute writing one
+  positive thing about a lesson (e.g., one thing they have learned) and
+  one negative thing (e.g., a question that still hasn't been answered).
+
+- **Novice**:
+  Someone who has not yet built a usable mental model of a domain.
+  <br>
+  See also *competent practitioner* and *expert*.
+
+- **One-Up, One-Down**:
+  A feedback technique in which learners take turns giving positive and negative feedback without repeating anything that has been said before.
+
+- **Participatory Live Coding**
+  A style of teaching where the instructor [live codes][wikipedia-live-coding]
+  and the learners "code along".
+
+- **Performance-based Praise**:
+  Providing positive feedback to learners that focuses on whether they have attained the correct answer.
+  <br>
+  See also *effort-based praise* and *performance-based praise*.
+
+- **Perseverance**:
+  The trait of persisting in the face of difficulty.
+
+- **Persistent Memory**:
+  see *long-term memory*.
+
+- **Plausible Distractor**:
+  A wrong answer to a multiple-choice question that will seem to some students to be correct due to a misconception they hold.
+  <br>
+  See also *diagnostic power*.
+
+- **Reflective Practice**:
+  see *deliberate practice*.
+
+- **Scaffolding**:
+  Extra material provided to early-stage learners to help them solve problems.
+
+- **Short-Term Memory**:
+  The part of memory that briefly stores information that can be
+  directly accessed by consciousness.
+
+- **Stereotype Threat**:
+  A situation in which people feel that they are at risk of being held
+  to stereotypes of their social group.
+
+- **Summative Assessment**:
+  Assessment that takes place at the end of a lesson to tell whether the
+  desired learning has taken place.
+
+- **Working Memory**:
+  see *short-term memory*.
+
+[wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
+[wikipedia-live-coding]: https://en.wikipedia.org/wiki/Live_coding
 
 
 

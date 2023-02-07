@@ -13,6 +13,26 @@ This section provides some background on
 [The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
 ways you might wish to participate (including by teaching workshops!).
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+- CK: Not an "official" exercise, but after explaining the workshops and how to run them,
+  go around the room, asking each person if they have a question + then answer them.
+
+- Exercise: Creating a Workshop Website
+  
+  - CK: This takes some time, so some people opt to skip this section.  Inevitably,
+    when working with a group of mixed experience with GitHub, some will be able
+    to zip through this exercise, where others will struggle.  We **have** gotten
+    positive feedback about this exercise as well, where learners felt like it was
+    a valuable experience. Can be especially valuable for groups that will probably
+    be running workshops on their own (so open trainings, or trainings for folks
+    who are ready to get started right away).
+
+- CK: The coffee break after this would be a great time for an "Ask and Offer" if the
+  group is interested.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Get connected with The Carpentries community.
@@ -97,7 +117,6 @@ certified instructors.
 There is a helpful list for planning here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist]. We recommend at least a 1:8
 helper-to-learner ratio for in-person workshops and more (e.g. 1:5) if teaching online.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Materials
@@ -139,7 +158,6 @@ As a class or in groups, see how many of the following terms you can define.
 - (Instructor) Trainer
 
 This should take about 5 minutes.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -185,7 +203,6 @@ If you want to get started right away, consider organizing
 your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
 you will need to set aside some time to help them understand how best to support your efforts.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -199,7 +216,6 @@ or answers as needed.
 When you encounter new questions during this process, be sure to write them in the Etherpad.
 
 Leave about 10 minutes for this discussion.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -253,7 +269,6 @@ Select one role from the list below that interests you. Using the the descriptio
 
 This exercise should take about 5 minutes.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Keeping In Touch
@@ -286,6 +301,13 @@ When you are done, share a channel you find interesting or useful on the Etherpa
 
 This exercise should take about 5 minutes.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- The Carpentries materials are all openly licensed, but names and logos are trademarked.
+- Carpentries workshops must cover core concepts, have at least one certified Instructor, and use our pre- and post-workshop surveys.
+- [Guidance for teaching and hosting workshops][docs-teach-host] is provided in [The Carpentries Handbook](https://docs.carpentries.org).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -315,13 +337,5 @@ This exercise should take about 5 minutes.
 [cdh]: https://cdh.carpentries.org/
 [community-page]: https://carpentries.org/community/
 
-
-:::::::::::::::::::::::::::::::::::::::: keypoints
-
-- The Carpentries materials are all openly licensed, but names and logos are trademarked.
-- Carpentries workshops must cover core concepts, have at least one certified Instructor, and use our pre- and post-workshop surveys.
-- [Guidance for teaching and hosting workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) is provided in [The Carpentries Handbook](https://docs.carpentries.org).
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 

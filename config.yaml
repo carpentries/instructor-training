@@ -87,9 +87,20 @@ episodes:
 
 # Information for Learners
 learners: 
+- training_calendar.md
+- checkout.md
+- demo_lessons.md
+- demos_rubric.md
+- members.md
+- fromthelearners.md
+- reference.md
 
 # Information for Instructors
 instructors: 
+- icebreakers.md
+- additional_exercises.md
+- registration_confirmation.md
+- instructor-notes.md
 
 # Learner Profiles
 profiles: 

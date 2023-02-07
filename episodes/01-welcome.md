@@ -57,9 +57,8 @@ A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en
 
 ## Getting to know each other
 
-If the Trainer has chosen an [icebreaker question](https://carpentries.github.io/instructor-training/icebreakers/index.html),
+If the Trainer has chosen an [icebreaker question](icebreakers.md),
 participate by writing your answers in the Etherpad.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -91,8 +90,7 @@ instructor training.  We are very pleased to have you with us.
 To begin class, each Trainer should give a brief introduction of themselves.
 
 (For some guidelines on introducing yourself, see some content from
-later in the workshop: [Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html))
-
+later in the workshop: [Workshop Introductions](23-introductions.md))
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -125,7 +123,6 @@ in the Etherpad below to write a short response to the last question.
 **Why are you taking this course? What goals do you have for this training?**
 
 This exercise should take about 5 minutes for responses, with an optional 10 for additional discussion as time permits.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -230,12 +227,6 @@ workshops specifically.
 
 ***
 
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
-[lesson-dev]: https://carpentries-incubator.github.io/study-groups/
-[lesson-dev-web]: https://carpentries.org/involved-lessons/
-
-
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - The Carpentries is a community of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously.
@@ -244,5 +235,11 @@ workshops specifically.
 - Learner motivation and prior knowledge vary widely, and can be quickly assessed with a multiple choice question.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
+[lesson-dev]: https://carpentries-incubator.github.io/study-groups/
+[lesson-dev-web]: https://carpentries.org/involved-lessons/
+
 
 
