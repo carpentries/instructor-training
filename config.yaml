@@ -27,7 +27,7 @@ life_cycle: 'transition-step-2'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/instructor-training/'
+source: 'https://github.com/carpentries/instructor-training/'
 
 # Default branch of your lesson
 branch: 'main'
