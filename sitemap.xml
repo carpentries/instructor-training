@@ -85,6 +85,9 @@
     <loc>https://preview.carpentries.org/instructor-training/additional_exercises.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/instructor-training/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/instructor-training/checkout.html</loc>
   </url>
   <url>
@@ -98,6 +101,9 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/instructor-training/icebreakers.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/instructor-training/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/instructor-training/index.html</loc>
@@ -187,6 +193,9 @@
     <loc>https://preview.carpentries.org/instructor-training/instructor/additional_exercises.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/instructor-training/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/instructor-training/instructor/checkout.html</loc>
   </url>
   <url>
@@ -202,7 +211,16 @@
     <loc>https://preview.carpentries.org/instructor-training/instructor/icebreakers.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/instructor-training/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/instructor-training/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/instructor-training/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/instructor-training/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/instructor-training/instructor/members.html</loc>
@@ -221,6 +239,12 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/instructor-training/instructor/training_calendar.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/instructor-training/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/instructor-training/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/instructor-training/members.html</loc>
