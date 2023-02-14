@@ -249,7 +249,7 @@ This exercise will take about 5 minutes.
 Introduction materials are adapted from [Carnegie Mellon Eberly
 Center Teaching Excellence \& Educational Innovation][credits]
 
-[icebreakers]: icebreakers/
+[icebreakers]: ../instructors/icebreakers.md
 [credits]: https://www.cmu.edu/teaching/designteach/teach/firstday.html
 
 
