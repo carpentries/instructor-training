@@ -237,18 +237,6 @@ This is a place for Trainers to leave tips and observations for those newer to t
 
 ### Building Skill with Practice
 
-People often request to see more examples of concept maps. These are some examples linked from a previous version of the curriculum:
-
-- [Array Math](fig/array-math.png)
-- [Conditionals](fig/conditionals.png)
-- [Creating and Destroying Files](fig/create-destroy.png)
-- [Sets and Dictionaries in Python](fig/dict-set.png)
-- [Input and Output](fig/io.png)
-- [Lists and Loops](fig/lists-loops.png)
-- [Git Version Control](fig/git_concept_map.png)
-
-Most of these are much larger than our recommended limit for the activity. It can be helpful to make a larger map and then narrow down to a smaller one.
-
 ### Expertise and Instruction
 
 ### Memory and Cognitive Load
