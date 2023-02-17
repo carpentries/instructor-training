@@ -256,9 +256,9 @@ We encourage you to **discuss an approach to managing Code of Conduct violations
 
 ## Know Your Resources
 
-1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: [https://docs.carpentries.org/topic\_folders/policies/incident-response.html](https://docs.carpentries.org/topic_folders/policies/incident-response.html)
-2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook:
-  [https://docs.carpentries.org/topic\_folders/policies/index\_coc.html](https://docs.carpentries.org/topic_folders/policies/index_coc.html) or to the Transparency Reports released by The Carpentries Code of Conduct Committee: [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
+1) Take 5 minutes to read through the [Code of Conduct Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html)
+2) Discuss what you have read in small groups. As questions arise, you may wish to refer to [our complete Code of Conduct section in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
+  or to the [Transparency Reports released by The Carpentries Code of Conduct Committee](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports).
 
 - What kinds of things could your instructional team agree upon in advance of your workshop?
 - What questions do you have about CoC enforcement?
@@ -396,13 +396,13 @@ instructions for setting them up.
 For this activity, your Trainer will put you in groups, but you may choose whether to work together or independently.
 If you work independently, you can still use your group as a resource to ask questions as they emerge.
 
-Go to the workshop template repository: [https://github.com/carpentries/workshop-template](https://github.com/carpentries/workshop-template)
+Go to the [workshop template repository](https://github.com/carpentries/workshop-template)
 
 - If you have a GitHub account (or don't mind creating one) and are comfortable doing so,
   follow the directions to begin creating a workshop website using your local location and today's date.
 
 - Alternatively, have a look at the video tutorial linked on the instructions page. With any time
-  remaining, have a look at the websites for upcoming Carpentries workshops on our website: [https://carpentries.org/upcoming\_workshops/](https://carpentries.org/upcoming_workshops/)
+  remaining, have a look at the websites for [upcoming Carpentries workshops](https://carpentries.org/upcoming_workshops/)
 
 - Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
   add the link there as well.
@@ -413,7 +413,7 @@ Note: Sometimes web browsers will cache the workshop webpage, so when
 you make changes in GitHub, they do not show up on the workshop webpage
 immediately.  Two ways to avoid this are to use a "private" or
 "incognito" mode in your web browser or by following these
-instructions to bypass your browser cache: [https://en.wikipedia.org/wiki/Wikipedia:Bypass\_your\_cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+[instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -173,9 +173,8 @@ it is OK to remind yourself:
 
 We will start by observing some examples of teaching and providing some feedback.
 
-Watch this example teaching video as a group
+Watch [this example teaching video][bad-teaching-video] as a group
 and then give feedback on it.
-[https://www.youtube.com/watch?v=-ApVt04rB4U][bad-teaching-video]
 Put your feedback in the Etherpad.
 Organize your feedback along two axes:
 positive vs. opportunities for growth (sometimes called "negative")

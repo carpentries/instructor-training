@@ -295,8 +295,7 @@ Want to **join meetings** (to meet new people or listen in)?
 
 ## Get Connected
 
-Take a couple of minutes to sign up for The Carpentries channels you want to stay involved with on this page:
-[https://carpentries.org/connect/][connect-page]
+Take a couple of minutes to sign up for [The Carpentries channels][connect-page] you want to stay involved with.
 When you are done, share a channel you find interesting or useful on the Etherpad.
 
 This exercise should take about 5 minutes.

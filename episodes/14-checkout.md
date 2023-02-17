@@ -37,7 +37,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 ## Be The Expert: Checkout Q \& A
 
-In small groups, read and discuss one of the three checkout procedures described on this page: [https://carpentries.github.io/instructor-training/checkout/index.html](checkout.md)
+In small groups, read and discuss one of the three [checkout procedures described on this page](checkout.md).
 Make notes in the Etherpad:
 
 - What points do you think it is most important or helpful for people to remember?
@@ -52,7 +52,7 @@ This exercise should take about 10 minutes.
 
 ## Schedule a Discussion or Demo
 
-Visit the discussion Etherpad to sign up for a session: [https://pad.carpentries.org/community-discussions](https://pad.carpentries.org/community-discussions)
+Visit the [discussion Etherpad to sign up](https://pad.carpentries.org/community-discussions) for a session.
 If the session you would like to attend is full, contact the discussion
 host and co-host to ask if you can attend.
 

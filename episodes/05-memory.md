@@ -56,8 +56,7 @@ frequent formative assessment is important.
 
 ## Test Your Working Memory
 
-This website implements a short test of working memory:
-[https://miku.github.io/activememory/][memory-test]
+This [website implements a short test of working memory][memory-test].
 
 What was your score? If you are comfortable, share your answer
 in the Etherpad.
