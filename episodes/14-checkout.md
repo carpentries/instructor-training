@@ -57,7 +57,7 @@ If the session you would like to attend is full, contact the discussion
 host and co-host to ask if you can attend.
 
 If you would prefer to do your teaching demonstration before your discussion,
-visit the demo Etherpad and sign up there: [https://pad.carpentries.org/teaching-demos](https://pad.carpentries.org/teaching-demos)
+visit the [teaching demo Etherpad and sign up there](https://pad.carpentries.org/teaching-demos)
 This demo [rubric](demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
 
 If these pages are hard to navigate or you cannot find a suitable time, save these links where

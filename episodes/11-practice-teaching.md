@@ -181,7 +181,7 @@ Organize your feedback along two axes:
 positive vs. opportunities for growth (sometimes called "negative")
 and content (what was said) vs. presentation (how it was said).
 
-Note: there is a version of this video with subtitles in both Spanish and English here: [https://www.youtube.com/watch?v=jxgMVwQamO0](https://www.youtube.com/watch?v=jxgMVwQamO0)
+Note: there is a version of [this video with subtitles in both Spanish and English](https://www.youtube.com/watch?v=jxgMVwQamO0)
 
 This exercise should take about 10 minutes.
 
