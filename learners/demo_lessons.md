@@ -59,7 +59,7 @@ required to cover any specific amount of content within the 5 minute period.
 ### <a id="dc-ecology"></a> Data Carpentry: Ecology
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) |  any episode | none ||
 | [Data Cleaning with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |  [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/02-exploring-data/index.html) | any other episode | The intro episode has no live coding. <br/> Other episodes have dependencies. |
 | [Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/) |  \* Introduction to R<br/>\* Starting with Data | \* [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html)<br/> \* [Manipulating Data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)<br/> \* [Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)<br/> \* [SQL Databases and R](https://datacarpentry.org/R-ecology-lesson/05-r-and-databases.html)<br/>| [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) has no live coding. <br/> Manipulating Data and [Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) have dependencies. <br/> SQL and `RSQLite` are taught less frequently. |
@@ -71,7 +71,7 @@ required to cover any specific amount of content within the 5 minute period.
 If you are an instructor in training and wish to use lessons from Data Carpentry's Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/teaching_demos/index.html) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/) | none | all episodes | Discussion based. No live coding. |
 | [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/) |  all episodes | none | If using [Introducing the Shell](https://datacarpentry.org/shell-genomics/01-introduction/) begin with `cd shell_data` |
 | [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/) |  \* [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) <br/> \* [Trimming and Filtering](https://datacarpentry.org/wrangling-genomics/03-trimming/index.html) <br/> \* [Automating a Variant Calling Workflow](https://datacarpentry.org/wrangling-genomics/05-automation/index.html)  | any other episode |  For [Assessing Read Quality](https://datacarpentry.org/wrangling-genomics/02-quality-control/index.html) begin with `gunzip SRR2584863_1.fastq.gz`  |
@@ -81,7 +81,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 ### <a id="dc-socialsci"></a>Data Carpentry: Social Sciences
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/) | \* [Dates as Data](https://datacarpentry.org/spreadsheets-socialsci/03-dates-as-data/index.html)<br/> \* [Quality Assurance](https://datacarpentry.org/spreadsheets-socialsci/04-quality-assurance/index.html) | \* [Introduction](https://datacarpentry.org/spreadsheets-socialsci/00-intro/index.html)<br/> \* [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/01-format-data/index.html)<br/> \* [Formatting problems](https://datacarpentry.org/spreadsheets-socialsci/02-common-mistakes/index.html)<br/> \* [Exporting data](https://datacarpentry.org/spreadsheets-socialsci/05-exporting-data/index.html) | Episodes listed to avoid have no live coding. |
 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) |  [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | any other episode | [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) has no live coding. <br/> Later episodes have dependencies. |
 | [Data Analysis and Visualization with R](http://www.datacarpentry.org/r-socialsci/) | any other episode | \* [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/)<br/> \* [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/)|  [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) has no live coding. <br/> [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/) has dependencies. |
@@ -89,7 +89,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 ### <a id="dc-geospatial"></a>Data Carpentry: Geospatial
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Project Organization and Management](https://datacarpentry.org/organization-geospatial/) | none | all episodes |  This lesson has no live coding. <br/> Do not use for teaching demos. |
 | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) |  any episode | none | |
 | [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | \* [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)<br/> \* [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)<br/> \* [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)<br/> \* [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)<br/> \* [Handling Spatial Projection \& CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)<br/> \* [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)<br/> \* [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/) | any other episode | Many episodes rely on data from previous episodes. <br/> Trainees may need extra time to set up their environment. |
@@ -97,19 +97,19 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 ### <a id="dc-astro"></a> Data Carpentry: Astronomy
 
 | Lesson  | (For Trainers)  Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | \* [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) <br/> \* [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords/index.html) | any other episode |  Later episodes have dependencies. <br/> For [Basic Queries](https://datacarpentry.org/astronomy-python/01-query/index.html) skip the episode introduction, *Query Language*, and *Using Jupyter* sections, and begin with [*Connecting to Gaia*](https://datacarpentry.org/astronomy-python/01-query/index.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
 ### <a id="dc-image"></a> Data Carpentry: Image Processing
 
 | Lesson  | (For Trainers)  Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Image Processing with Python](https://datacarpentry.org/image-processing/) | \* [Working with skimage](https://datacarpentry.org/image-processing/03-skimage-images/index.html) <br/> \* [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/index.html) <br/> \* [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/index.html)<br/> \* [Thresholding](https://datacarpentry.org/image-processing/07-thresholding/index.html) | any other episode |  Other episodes begin with too much explanatory content for a teaching demo. <br/> This lesson is designed to be taught with a [JupyterLab](https://jupyter.org/) environment. |
 
 ### <a id="lc"></a>Library Carpentry
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) | \* [ Navigating the filesystem](https://librarycarpentry.github.io/lc-shell/02-navigating-the-filesystem/index.html)<br/> \* [Working with files and directories](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)<br/> \* [Automating the tedious with loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)<br/> \* [Counting and mining with the shell](https://librarycarpentry.github.io/lc-shell/05-counting-mining/index.html)<br/> \* [Working with free text](https://librarycarpentry.github.io/lc-shell/06-free-text/index.html) | [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/)  |  [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/) has no live coding. |
 | [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/) | \* [Importing data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html) | any other episode | [Introduction to OpenRefine](https://librarycarpentry.org/lc-open-refine/01-introduction/index.html) has no live coding. <br/> Later episodes have dependencies. |
 | [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/) | No episodes | Avoid all episodes. | Episodes are built through exercises without an obvious live-coding component that is not explaining the solution to the exercise. |
@@ -119,7 +119,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 ### <a id="swc"></a>Software Carpentry
 
 |  Lesson   | (For Trainers) Good Starting Points | (For Trainers) Avoid | Notes
-|---------- |---------- |---------- |---------- |---------- |---------- |
+|---------- |---------- |---------- |---------- |
 |  [The Unix Shell](http://swcarpentry.github.io/shell-novice/) | any other episode | [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) |  [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) has no live coding. |
 |  [Version Control with Git](http://swcarpentry.github.io/git-novice/) |  \* [Setting up Git](http://swcarpentry.github.io/git-novice/02-setup)<br/> \* [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create)<br/> \* [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes)| any other episode | [Automated Version Control](http://swcarpentry.github.io/git-novice/01-basics) has no live coding. <br/> Later episodes have dependencies. |
 | [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) | any other episode | [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) |  [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) has no live coding. |
