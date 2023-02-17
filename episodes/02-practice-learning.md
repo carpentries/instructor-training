@@ -166,6 +166,20 @@ Returning to our example levels of skill development:
 ![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.'}
 
 ### Mapping a Mental Model
+:::::::::::::::::::::::::::::::::::::::  instructor
+People often request to see more examples of concept maps. These are some examples linked from a previous version of the curriculum:
+
+- [Array Math](fig/array-math.png)
+- [Conditionals](fig/conditionals.png)
+- [Creating and Destroying Files](fig/create-destroy.png)
+- [Sets and Dictionaries in Python](fig/dict-set.png)
+- [Input and Output](fig/io.png)
+- [Lists and Loops](fig/lists-loops.png)
+- [Git Version Control](fig/git_concept_map.png)
+
+Most of these are much larger than our recommended limit for the activity. It can be helpful to make a larger map and then narrow down to a smaller one.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Most people do not naturally visualize a mental model as a diagram of concepts and relationships. Mental models are complicated!
 Yet, visual representation of concepts and relationships can be a useful way to explore and understand hidden features of a mental model.
