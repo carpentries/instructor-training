@@ -46,18 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [February 15-16, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-15-16-2023-tickets-476729620127)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / 11 am to 7 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230215T09&p1=75&ah=8)
-
-<hr>
-
-#### [February 21-24, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-21-24-2023-tickets-476730954117)
-
-**Four 4-hour days:** 1 pm to 5 pm N. America Eastern Time / 10 am to 2 pm N. America Pacific Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230221T13&p1=77&ah=4)
-
-<hr>
-
 #### [March 6-9, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-6-9-2023-tickets-476732177777)
 
 **Four 4-hour days:** 1 pm to 5 pm Central European Time / 7 am to 11 am N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230306T13&p1=195&ah=4)
