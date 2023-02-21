@@ -93,7 +93,7 @@ for how we teach.
 
 :::::::::::::::::::::::::::::::::::::  testimonial
 
-All models are wrong, but some are useful.
+Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.
 
 - George Box, statistician
   
