@@ -23,7 +23,7 @@ exercises: 15
 
 
 :::::::::::::::::::::::::::::::::::::::instructor
-If on zoom, ensure that captions are turned on
+In an online workshop, ensure that captions are turned on.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
