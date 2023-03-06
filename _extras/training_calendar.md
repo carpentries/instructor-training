@@ -47,12 +47,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [March 6-9, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-6-9-2023-tickets-476732177777)
-
-**Four 4-hour days:** 1 pm to 5 pm Central European Time / 7 am to 11 am N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230306T13&p1=195&ah=4)
-
-<hr>
-
 #### [March 14-15, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-14-15-2023-tickets-476736390377)
 
 **Two 8-hour days:** 9 am to 5 pm UTC / 2:30 pm to 10:30 pm India Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230314T09&p1=136&ah=8)
@@ -63,6 +57,70 @@ New trainings are added to this calendar on a quarterly basis.
 #### [March 20-23, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-20-23-2023-tickets-476742779487)
 
 **Four 4-hour days:** 1 pm to 5 pm N. America Mountain Time / 8 am to 12 noon **FOLLOWING DAY** New Zealand Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230320T13&p1=75&ah=4)
+
+<hr>
+
+
+#### [April 18-19, 2023](https://www.eventbrite.com/e/online-instructor-training-april-18-19-2023-tickets-568423047637)
+
+
+**Two 8-hour days:** 9 am to 5 pm N. America Central Time / 11 am to 7 pm Argentina Time /
+[See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230418T09&p1=64&ah=8)
+
+
+<hr>
+
+
+#### [April 26-27, 2023](https://www.eventbrite.com/e/online-instructor-training-april-26-27-2023-tickets-568436357447)
+
+
+**Two 8-hour days:** 9 am to 5 pm Central European Summer Time / 12:30 pm to 8:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230426T09&p1=195&ah=8)
+
+
+<hr>
+
+
+#### [May 10-11, 2023](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2023-tickets-568443518867)
+
+
+**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230510T09&p1=137&ah=8)
+
+
+<hr>
+
+
+#### [May 16-19, 2023](https://www.eventbrite.com/e/online-instructor-training-may-16-19-2023-tickets-568445484747)
+
+
+**Four 4-hour days:** 1 pm to 5 pm N. America Mountain Time / 7 am to 11 am **FOLLOWING DAY** New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230516T13&p1=42&ah=4)
+
+
+<hr>
+
+
+#### [June 1-2, 2023](https://www.eventbrite.com/e/online-instructor-training-june-1-2-2023-tickets-568447530867)
+
+
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230601T09&p1=77&ah=8)
+
+
+<hr>
+
+
+#### [June 13-16, 2023](https://www.eventbrite.com/e/online-instructor-training-june-13-16-2023-tickets-568451201847)
+
+
+**Four 4-hour days:** 9 am to 1 pm Central European Summer Time / 12:30 pm to 4:30 pm India Standard Time / 5 pm to 9 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230613T09&p1=195&ah=4)
+
+
+<hr>
+
+
+#### [June 29-30, 2023](https://www.eventbrite.com/e/online-instructor-training-june-29-30-2023-tickets-568452846767)
+
+
+**Two 8-hour days:** 9 am to 5 pm UTC / 11 am to 6 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230629T09&p1=1440&ah=8)
+
 
 <hr>
 
