@@ -14,7 +14,7 @@ carpentry: 'cp'
 title: 'Instructor Training'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~
+created: '2014-11-16'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
