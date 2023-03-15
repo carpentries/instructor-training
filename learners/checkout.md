@@ -11,7 +11,7 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor.
 Briefly, the three steps are:
 
-1. [Make a small contribution to a lesson or glossary](#1-lesson-contributions).
+1. [Make a small contribution to an official Carpentry lesson, a lesson in Carpentries Incubator or glossary](#1-lesson-contributions).
 2. [Take part in an online community discussion session](#2-community-discussion).
 3. [Take part in an online teaching demonstration session](#3-teaching-demonstration).
 
@@ -40,6 +40,8 @@ To get there, try looking for a link that says "Improve this page". In this curr
 Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
 
 ![](fig/Instructor_Training_Repo_0.png){alt='Screen shot of Sofware Carpentries Lessons list in a browser with Links to Lessons Repositories circled' width="800px" }
+
+You can also contribute to one of the many lessons in [Carpentries Incubator](https://github.com/carpentries-incubator).
 
 The browser view of the GitHub repository for this workshop looks like this:
 
