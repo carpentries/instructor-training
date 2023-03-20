@@ -142,7 +142,7 @@ In some cases, a Community Discussion meeting may be used for regional community
 with representatives from specific Carpentries committees or subcommunities, or to address a theme of special interest to our
 community.
 
-When signing up on the [Community Discussion Etherpad][discussion], be sure to examine the description of your event carefully. Also, **take care to double check
+Upcoming Community Discussions are shown on the [Community Events Calendar][community-calendar]. When signing up on the [Community Discussion Etherpad][discussion], be sure to examine the description of your event carefully. Also, **take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
 of that Etherpad.
 
@@ -250,7 +250,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 
 ### Sign-up and Set-up
 
-To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
+Upcoming teaching demonstration sessions are shown on the [Community Events Calendar][community-calendar]. To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
 your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
@@ -311,6 +311,6 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
-
+[community-calendar]: https://carpentries.org/community/#community-events
 
 
