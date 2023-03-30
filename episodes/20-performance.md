@@ -25,9 +25,9 @@ process of observing and giving feedback, and to make changes to how we teach ba
 
 ## Round Two
 
-1. Before splitting into groups, read the rubric that is given to Instructor Trainers
-  as a suggested framework for evaluating the online teaching demonstration sessions that are part of Instructor checkout.  
-  [https://carpentries.github.io/instructor-training/demos\_rubric/](demos_rubric.md). (Note: demos are not scored, so this rubric is for
+1. Before splitting into groups, read the [rubric that is given to Instructor Trainers](demos_rubric.md)
+  as a suggested framework for evaluating the online teaching demonstration sessions that are part of Instructor checkout.
+  (Note: demos are not scored, so this rubric is for
   advisory purposes only.)
   What questions do you have?
 2. Return to your groups and repeat the previous live coding exercise, re-teaching the same content as before.

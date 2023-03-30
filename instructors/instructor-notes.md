@@ -57,7 +57,7 @@ Details about the Instructor Trainer role including the application process, dut
 ### Immediately after the event
 
 - Send a list of those who completed the training to checkout@carpentries.
-- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See template [here][post-template].
+- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See [an email template to thank the participants][post-template].
 - Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].
 - File any relevant issues or PRs to the [instructor training repo][training-repo].
 
@@ -157,8 +157,8 @@ account for yourself for free. This personal account will be able to attend the 
 About a week before your event, you will be given login credentials for a Carpentry account. Alternatively, if no
 one has yet claimed "host" in your session, you can click "claim host" next to your name in the Participants list;
 you will be asked for a 6-digit host key, which you can find [in this message](https://carpentries.topicbox.com/groups/trainers/T3ec157cc9a3d1833/zoom-host-code).
-See [the explanation here][zoom-host-key] for step-by-step instructions on how to
-claim host in Zoom Rooms using the host key.
+See [the explanation for step-by-step instructions on how to
+claim host in Zoom Rooms using the host key][zoom-host-key].
 
 This account will be the host for the event and will have extra privileges including the
 ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with/claim these credentials. The host

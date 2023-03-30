@@ -55,7 +55,7 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 ## Discuss The Carpentries Core Values
 
-1. Take a moment to read through the Core Values on this page: [https://carpentries.org/values/][core-values]
+1. Take a moment to read through the [Core Values][core-values]
 2. Choose one core value that resonates with you. What is a decision you might make in a workshop
   that could look different if you were actively considering the core value you chose?
 

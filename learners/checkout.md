@@ -61,8 +61,8 @@ If you find something that you know how to fix by changing the code of the lesso
 and comment on existing PRs. We will not cover the details here, but there is [a
 community-contributed guide on how to create a PR][github-guide] that can help.
 
-Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
-is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
+Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines.
+You can read [the contributing guidelines for this repository][contributing]. Maintainers for each repository may choose to customize their own guidelines.
 
 ### Add Your Lesson Contribution to Your Carpentries Record
 
@@ -77,7 +77,7 @@ For this checkout task, please:
 
 If you have difficulty submitting your lesson contribution in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. However, if you would like to submit your contribution before you receive a response from us, you can use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform) as an alternative.
 
-You can track your progress by [logging into AMY here](https://amy.carpentries.org).
+You can track your progress by [logging into AMY](https://amy.carpentries.org).
 
 ### Alternatives to GitHub
 
