@@ -10,15 +10,11 @@ Table of Contents
 - [IV. Using Zoom  for Online Trainings](#zoom)
 - [V. Curriculum Teaching Tips](#curriculum)
 
-## I. Information For and About Instructor Trainers
-
-<a name="more-info"></a>
+## I. Information For and About Instructor Trainers {#more-info}
 
 Details about the Instructor Trainer role including the application process, duties, meetings, and administrative instructions are now housed in the [Carpentries Handbook][handbook]. To the extent that information in those instructions is directly pertinent to teaching an Instructor Training workshop, some items may be duplicated here. All other information previously housed on this page may now be found in the handbook. [Instructions on running a Demo session][demos] are also provided in the Trainer Guide.
 
-## II. Running an Instructor Training Event (General)
-
-<a name="general"></a>
+## II. Running an Instructor Training Event (General) {#general}
 
 ### Four Weeks before the Event
 
@@ -117,9 +113,8 @@ the material is flexible enough to allow small shifts in episode order.
 If you are an experienced Trainer and you would like to re-arrange the schedule,
 make sure to communicate with your trainees and co-Trainers!
 
-## III. Online vs In Person Training Events
+## III. Online vs In Person Training Events {#online-inperson}
 
-<a name="online-inperson"></a>
 
 ### In-person trainings
 
@@ -144,9 +139,7 @@ make sure to communicate with your trainees and co-Trainers!
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.
 - See section IV below for more tips.
 
-## IV. Using Zoom  for Online Trainings
-
-<a name="zoom"></a>
+## IV. Using Zoom  for Online Trainings {#zoom}
 
 Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom
 account for yourself for free. This personal account will be able to attend the training event
@@ -216,9 +209,7 @@ you're not the host, please contact Carpentry staff immediately.
   - Attendees might like to have a separate room (without Trainers) to network in over lunch or other breaks. Be prepared to assign that room and then close it to restart the main session.
   - You can never practice too much with Zoom!
 
-## V. Curriculum Teaching Tips
-
-<a name="curriculum"></a>
+## V. Curriculum Teaching Tips {#curriculum}
 
 This is a place for Trainers to leave tips and observations for those newer to the curriculum. This can provide guidance on how to navigate difficult places in the curriculum until problems can be fixed, or may provide additional instructions that are conditional to an audience or are otherwise not appropriate to/ready for a change in the curriculum itself.
 
