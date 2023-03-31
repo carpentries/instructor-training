@@ -346,13 +346,13 @@ Suggested points to make during wrap-up:
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
 [demos]: https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration
-[etherpad-template]: http://pad.software-carpentry.org/ttt-template
+[etherpad-template]: https://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
-[checkout-checklist]: http://www.datacarpentry.org/checkout/
+[checkout-checklist]: https://www.datacarpentry.org/checkout/
 [post-template]: https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#email-after-training-event
 [trainer-pad]: https://pad.carpentries.org/trainers
-[training-repo]: http://carpentries.github.io/instructor-training/
+[training-repo]: https://carpentries.github.io/instructor-training/
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
 [slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t
 [zoom-home]: https://www.zoom.us/

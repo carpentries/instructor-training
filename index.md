@@ -42,7 +42,7 @@ The Carpentries website for details on admission.
 Instructor Training events are hands-on throughout: short lessons alternate with individual
 and group practical exercises, including practice teaching sessions. Those who attend the
 full training and all three checkout steps will be certified as a Carpentries Instructor
-and will be eligible to teach [Data Carpentry](http://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/),
+and will be eligible to teach [Data Carpentry](https://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/),
 and [Software Carpentry](https://software-carpentry.org/) workshops throughout our global community.
 
 - All participants are required to abide by our [Code of Conduct][conduct].
