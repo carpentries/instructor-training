@@ -13,7 +13,7 @@ The instructor view has a few features that the learner view does not have:
 
 1. instructor notes like this one where instructors can provide guidance about
   how the particular episode is taught in practice **(you can find an example of
-  this in the [How We Operate episode](15-carpentries.md))**.
+  this in the [How We Operate episode](episodes/15-carpentries.md))**.
 2. aggregated timing estimates
 3. a schedule integrated into the index page
 
@@ -42,13 +42,13 @@ The Carpentries website for details on admission.
 Instructor Training events are hands-on throughout: short lessons alternate with individual
 and group practical exercises, including practice teaching sessions. Those who attend the
 full training and all three checkout steps will be certified as a Carpentries Instructor
-and will be eligible to teach [Data Carpentry](http://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/),
+and will be eligible to teach [Data Carpentry](https://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/),
 and [Software Carpentry](https://software-carpentry.org/) workshops throughout our global community.
 
 - All participants are required to abide by our [Code of Conduct][conduct].
 - There are no specific prerequisites for this training, but participants will benefit from having attended a Data Carpentry, Software Carpentry, or Library Carpentry workshop either as learner or helper so that they are familiar with our teaching techniques and the style of our workshops.
 - Participants are not required to have any specific programming skills (though they should know enough about the subjects of one or more of our lessons to be able to teach them).
-  An Instructor Training event is the first step towards certification as a Carpentries Instructor. For more details on the other 3 steps, see the [Checkout Instructions page](checkout.md) on this site.
+  An Instructor Training event is the first step towards certification as a Carpentries Instructor. For more details on the other 3 steps, see the [Checkout Instructions page](learners/checkout.md) on this site.
 
 Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 

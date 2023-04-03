@@ -37,7 +37,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## What to expect after the event:
 
-- Participants will have three months (90 days) to complete [post-training homework exercises](http://carpentries.github.io/instructor-training/checkout/) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.
+- Participants will have three months (90 days) to complete [post-training homework exercises](https://carpentries.github.io/instructor-training/checkout/) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.
 
 - After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
