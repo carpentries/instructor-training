@@ -19,8 +19,8 @@ or run `make` in this directory for a list of helpful commands.
 - [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
 - [Karen Word][word_karen]: @karenword
 
-[swc-site]: http://software-carpentry.org
-[dc-site]: http://datacarpentry.org
+[swc-site]: https://software-carpentry.org
+[dc-site]: https://datacarpentry.org
 [lc-site]: https://librarycarpentry.org
 [lesson-example]: https://carpentries.github.io/lesson-example
 [brown_sarah]: https://carpentries.org/instructors/#brownsarahm

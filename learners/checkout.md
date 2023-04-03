@@ -11,15 +11,15 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor.
 Briefly, the three steps are:
 
-1. [Make a small contribution to a lesson or glossary](#1-lesson-contributions).
-2. [Take part in an online community discussion session](#2-community-discussion).
-3. [Take part in an online teaching demonstration session](#3-teaching-demonstration).
+1. [Make a small contribution to a lesson or glossary](#contributions).
+2. [Take part in an online community discussion session](#discussion).
+3. [Take part in an online teaching demonstration session](#demonstration).
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
-## 1\. Lesson Contributions
+## 1\. Lesson Contributions {#contributions}
 
 ### Keep It Simple!
 
@@ -127,7 +127,7 @@ requests. However, also keep in mind that Carpentries lesson Maintainers, like I
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
 **Your contribution does not need to be reviewed or accepted in order for you to become an Instructor**.
 
-## 2\. Community Discussion
+## 2\. Community Discussion {#discussion}
 
 The purpose of having you attend a Community Discussion is to introduce you to other members of our global community
 and to demonstrate an ongoing resource for support and advice as you develop your teaching practice.
@@ -209,7 +209,7 @@ Community Discussion meeting.
 If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
 not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to confirm.
 
-## 3\. Teaching Demonstration
+## 3\. Teaching Demonstration {#demonstration}
 
 The teaching demonstration serves several purposes. First and foremost, it is an opportunity to **both give and receive feedback** on
 a more polished presentation after you have had some time to reflect on your lesson and what you have learned in this workshop. In
