@@ -21,7 +21,7 @@ keywords: 'software, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'transition-step-2'
+life_cycle: 'stable'
 
 # License of the lesson
 license: 'CC-BY 4.0'
@@ -111,7 +111,4 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: https://preview.carpentries.org/instructor-training
-workbench-beta: 'true'
-beta-date: '2023-02-06'
-old-url: 'https://carpentries.github.io/instructor-training'
+url: 'https://carpentries.github.io/instructor-training'
