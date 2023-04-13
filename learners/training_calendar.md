@@ -46,12 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [April 18-19, 2023](https://www.eventbrite.com/e/online-instructor-training-april-18-19-2023-tickets-568423047637)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Central Time / 11 am to 7 pm Argentina Time /
-[See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230418T09&p1=64&ah=8)
-
-<hr>
 
 #### [April 26-27, 2023](https://www.eventbrite.com/e/online-instructor-training-april-26-27-2023-tickets-568436357447)
 
