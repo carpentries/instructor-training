@@ -87,6 +87,7 @@ After the introduction learners should:
 - know what will be taught
 - understand what will be required of them
 - believe that they can learn from the workshop
+- be aware of the schedule 
 
 The instructional team should:
 
