@@ -21,6 +21,13 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+:::::::::::::::::::::::::::::::::::::::instructor
+In an online workshop, ensure that captions are turned on.
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::  discussion
 
 ## Pronouns and Names
@@ -52,6 +59,9 @@ for further reading:
 A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)
 
 ## Before The Course Begins
+
+
+
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
