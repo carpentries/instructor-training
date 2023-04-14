@@ -54,8 +54,6 @@ Feedback on these materials is welcome as an [issue][issues] on the GitHub repos
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-**Note: The schedule below describes an approximate layout for a 2-full-day training. Please contact your Instructor Trainers if you have questions about the schedule for your specific training event.**
-
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [issues]: https://github.com/carpentries/instructor-training/issues
 [license]: LICENSE.html
