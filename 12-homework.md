@@ -88,6 +88,7 @@ the following list for a starting point:
 - write a paragraph or "journal" entry about your
   experience of the training so far
 - write down one thing that struck you the most
+- write down one thing or topic that you want to learn more about
 
 This exercise should take about 10 minutes.
 
