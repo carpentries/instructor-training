@@ -296,7 +296,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
-[contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
 [handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
