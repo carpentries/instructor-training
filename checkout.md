@@ -250,7 +250,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 
 ### Sign-up and Set-up
 
-To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
+To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad](https://pad.carpentries.org/teaching-demos), and add
 your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
@@ -296,7 +296,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
-[contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
 [handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
@@ -305,10 +305,10 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [discussion]: https://pad.carpentries.org/community-discussions
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
-[start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
-[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
+[start-points]: https://carpentries.github.io/instructor-training/demo_lessons
+[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
 
