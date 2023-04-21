@@ -8,7 +8,7 @@ This training is designed for people who want to become certified Carpentries in
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout).
 
 ### How to Register for an Instructor Training
 
