@@ -14,7 +14,6 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 **Maintainer(s):**
 
 - [Sarah Brown][brown_sarah]: @brownsarahm
-- [Tim Dennis][dennis_tim]: @jt14den
 - [David Perez-Suarez][perez-suarez_david]: @dpshelio
 - [Nathaniel Porter][porter-nathaniel]: @ndporter
 - [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
@@ -25,7 +24,6 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 [lc-site]: https://librarycarpentry.org
 [lesson-doc]: https://carpentries.github.io/sandpaper-docs
 [brown_sarah]: https://carpentries.org/instructors/#brownsarahm
-[dennis_tim]: https://carpentries.org/instructors/#jt14den
 [perez-suarez_david]: https://carpentries.org/instructors/#dpshelio
 [porter-nathaniel]: https://carpentries.org/instructors/#ndporter
 [wheeler_jon]: https://carpentries.org/instructors/#jonathanwheeler01
