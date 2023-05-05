@@ -46,12 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [May 10-11, 2023](https://www.eventbrite.com/e/online-instructor-training-may-10-11-2023-tickets-568443518867)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230510T09&p1=137&ah=8)
-
-<hr>
-
 #### [May 16-19, 2023](https://www.eventbrite.com/e/online-instructor-training-may-16-19-2023-tickets-568445484747)
 
 **Four 4-hour days:** 1 pm to 5 pm N. America Mountain Time / 7 am to 11 am **FOLLOWING DAY** New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230516T13&p1=42&ah=4)
