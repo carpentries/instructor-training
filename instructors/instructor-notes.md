@@ -325,7 +325,7 @@ Suggested points to make during wrap-up:
 
 [handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
 [demos]: https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration
-[etherpad-template]: https://pad.software-carpentry.org/ttt-template
+[etherpad-template]: https://pad.carpentries.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
 [checkout-checklist]: https://www.datacarpentry.org/checkout/
