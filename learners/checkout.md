@@ -40,7 +40,7 @@ of that Etherpad.
 ## Carpentries Tools: Etherpads
 
 The Etherpad is a collaborative note-taking tool that is widely used in Carpentries workshops and many other activities in the community.
-We also use Etherpads for sign-ups and notes on recurring events, like community discussions and teaching demonstrations.
+We also use Etherpads for sign-ups and notes on recurring events, like community events and teaching demonstrations.
 Most Etherpads for recurring events are linked from our ["pad of pads"][pad-of-pads].
 This is a great one to bookmark and use as a reference throughout your checkout process and as a newly minted member
 of The Carpentries community.
@@ -49,22 +49,21 @@ of The Carpentries community.
 
 ### What Should I Say?
 
-Welcome sessions are intended to serve new community members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
+Welcome sessions are intended for new community members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
 in this role. You do not need to do any homework in advance! 
 However, it can help to put a little thought into what questions you have about how workshops work. If you ask a question, there will likely be 
 other people there who also want to hear the answer! Some themes to guide your thinking include:
 
-- how instructional teams usually divide up teaching and other responsibilities
-- adaptations or modifications to curricular materials
 - what happens after you express interest in teaching a centrally organised workshop 
 - how to recruit help for your self-organised workshop
+- how teaching and other responsibilities are distributed among team-members
+- adaptations or modifications to curricular materials
 - broader questions about the value or experience of teaching Carpentries workshops
-
 
 
 ### In-Person and Virtual Alternatives
 
-Occasionally, a special in-person Welcome Session event may be approved to occur in-person. This is most common in areas with limited internet
+Occasionally, a special in-person Welcome Session may be approved to occur in-person. This is most common in areas with limited internet
 access or in association with larger events like conferences or extended workshops. 
 
 ### Getting Credit
@@ -83,18 +82,6 @@ addition, it is an opportunity to **spend some time reviewing a lesson** more ca
 Finally, it is an opportunity to receive **feedback from a Carpentries
 Instructor Trainer** (like your Trainers at today's event), who will help make sure you are prepared for a strong start.
 
-### Not a High Stakes Test
-
-It can be nerve-wracking to perform in front of others! This is true when you teach, too, but we know it feels different to teach in a 
-context that is specifically designed for feedback and approval. As much as possible, try to relax and
-enjoy this friendly opportunity for connection with others in our community. Remember to embrace your mistakes!
-
-In some cases, an Instructor Trainer may ask you to repeat your teaching demonstration another time prior to certification. If this
-happens, they will be very clear about exactly what they would like you to change on your second appearance, and why. These requests
-are made with your interests in mind -- we want you to be prepared for success when you set out to teach!
-
-Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a
-[rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare.
 
 ### Selecting an Episode with Participatory Content
 
@@ -110,13 +97,25 @@ This [list of suggested episodes][start-points] may be helpful in selecting an a
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
 (An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). As of July 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
 
+### Not a High Stakes Test
 
+It can be nerve-wracking to perform in front of others! This is also true when you teach, but there is a special kind of stress that comes with inviting feedback and approval from strangers. 
+It may help to know that, when we have surveyed our community about their experiences with the checkout process, 
+demos were praised throughout as highly useful, enjoyable, and worthwhile. As much as possible, try to relax and
+enjoy this friendly opportunity for connection with others in our community. Remember to embrace your mistakes!
+
+In some cases, an Instructor Trainer may ask you to repeat your teaching demonstration another time prior to certification. If this
+happens, they will be very clear about exactly what they would like you to change on your second appearance, and why. These requests
+are made with your interests in mind -- we want you to be prepared for success when you set out to teach!
+
+Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a
+[rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare.
 
 
 ### Sign-up and Set-up
 
 To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad](https://pad.carpentries.org/teaching-demos), and add
-your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
+your name and a link to your chosen episode to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
 The link to connect to the video conference is at the top of the Teaching Demos Etherpad.
@@ -125,7 +124,7 @@ If possible, plan to use a headset with built-in microphone for the best audio e
 
 ### During the Demo
 
-For your demonstration(s), you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use whatever notes you want, but
+For your demonstration, you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use whatever notes you want, but
 please do not display them on your screen. Teach as you would in an actual workshop.
 When your five minutes are up, the Trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching.
@@ -136,8 +135,8 @@ and content vs. presentation, just as you have done during this workshop.
 ### Languages Other than English
 
 If you want to do your demonstration in a language other than English,
-please let us know in advance so that we can attempt to find someone to moderate.
-We may not be able to accommodate all languages.
+please contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+We may not be able to accommodate all languages, but we will do what we can!
 
 ### Getting Credit
 
@@ -147,10 +146,36 @@ after you have attended your teaching demonstration.
 
 
 
-
-
-
 ## 3\. Get Involved! {#getinvolved}
+
+The purpose of this step is to encourage you to take a first step towards further engagement with 
+The Carpentries, choosing a path that works well for you. Any participation in Carpentries activities 
+or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started.
+- Serve as an Instructor or a Helper at a workshop
+- Attend a Curriculum-specific onboarding
+- Attend an Instructor Meeting, regional call, or other community programming
+- Submit a contribution to a Lesson, Glossario, or other Carpentries repository
+
+### Serve as an Instructor or Helper at a Carpentries Workshop
+If you attended Instructor Training because you want to get started participating in workshops as soon 
+as possible, this step is for you! When you submit this step, you will be asked to share the date and 
+workshop website link. 
+
+Did you serve as a Helper or un-certified co-Instructor before you attended Instructor Training? 
+That counts! 
+
+### Attend a Curriculum-Specific Onboarding
+New in 2023, The Carpentries will periodically offer onboarding to prepare Instructors to teach specific 
+curricula. If one of these sessions is available during your checkout window and suits your interest, 
+this may be an ideal way to get involved! 
+
+### Attend an Instructor Meeting, Regional Call, or Other Community Programming
+The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting (!) any of these sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community programming, [see this blog 
+post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the [Community Discussions Etherpad][discussion] to look for sessions that will work for you!
+
+### Submit a contribution to a Lesson, Glossario, or other Carpentries Repository
+The Carpentries lessons are maintained and improved through collaborative effort across The Carpentries 
+communities. 
 
 ### Keep It Simple!
 
