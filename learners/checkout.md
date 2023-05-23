@@ -49,7 +49,7 @@ of The Carpentries community.
 
 ### What Should I Say?
 
-Welcome sessions are intended to serve new community-members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
+Welcome sessions are intended to serve new community members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
 in this role. You do not need to do any homework in advance! 
 However, it can help to put a little thought into what questions you have about how workshops work. If you ask a question, there will likely be 
 other people there who also want to hear the answer! Some themes to guide your thinking include:
