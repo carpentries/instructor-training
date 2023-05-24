@@ -97,7 +97,7 @@ This [list of suggested episodes][start-points] may be helpful in selecting an a
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
 (An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). As of July 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
 
-### Not a High Stakes Test
+### Not a High Stakes Test!
 
 It can be nerve-wracking to perform in front of others! This is also true when you teach, but there is a special kind of stress that comes with inviting feedback and approval from strangers. 
 It may help to know that, when we have surveyed our community about their experiences with the checkout process, 
@@ -173,14 +173,13 @@ this may be an ideal way to get involved!
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting (!) any of these sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community programming, [see this blog 
 post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the [Community Discussions Etherpad][discussion] to look for sessions that will work for you!
 
-### Submit a contribution to a Lesson, Glossario, or other Carpentries Repository
+### Contribute to maintenance of a Lesson, Glossario, or other Carpentries Repository
 The Carpentries lessons are maintained and improved through collaborative effort across The Carpentries 
-communities. 
+communities. If you see something in a lesson that you think could be improved, visit the repository and bring your 
+voice to the conversation! 
 
 ### Keep It Simple!
-
-**The purpose of the lesson contribution is to demonstrate that you are prepared to draw upon your experience teaching Carpentries lessons to
-contribute towards their maintenance and improvement in the future.** For this reason, we suggest starting small! Consider commenting
+We suggest starting small! Consider commenting
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
 to help us out with something more substantial, consider selecting an item from our [Help Wanted page][help-wanted].
 
@@ -189,9 +188,9 @@ to help us out with something more substantial, consider selecting an item from 
 The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the
 curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held.
 
-To get there, try looking for a link that says "Improve this page". In this curriculum, that is located at the top of the page.
+To get there, try looking for a link that says "Edit this page". In this curriculum, that is located at the top of the page, underneath the title.
 
-![](fig/Improve_this_page.svg){alt='Screen shot of the header for this page with Improve this page circled' width="800px" }
+![](fig/Edit_this_page.svg){alt='Screen shot of the header for this page with Edit this page circled' width="800px" }
 
 Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
 
@@ -208,7 +207,7 @@ feedback. Issues can be searched, using the search bar at the top:
 ![](fig/Instructor_Training_Repo_2.svg){alt='Screen shot of Instructor Training GitHub repository with Issues tab selected and search bar and New Issue button circled' width="800px" }
 
 If you have an idea, it is a good idea to search first to see if anyone else has already suggested it! If so, you can add your thoughts as a comment
-on the existing issue instead of starting a new one. Either way, you will get credit for your contribution to the conversation. Note that you must be signed
+on the existing issue instead of starting a new one. Either way, you can submit a link to the conversation with your contribution for your Get Involved step. Note that you must be signed
 in to GitHub to be able to see the comment box at the bottom of each issue.
 
 ![](fig/Instructor_Training_Repo_4.svg){alt='Screen shot of Instructor Training GitHub repository with a single Issue selected and comment box circled' width="800px" }
