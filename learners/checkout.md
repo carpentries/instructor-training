@@ -178,12 +178,12 @@ The Carpentries lessons are maintained and improved through collaborative effort
 communities. If you see something in a lesson that you think could be improved, visit the repository and bring your 
 voice to the conversation! 
 
-### Keep It Simple!
+#### Keep It Simple!
 We suggest starting small! Consider commenting
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
 to help us out with something more substantial, consider selecting an item from our [Help Wanted page][help-wanted].
 
-### What is an Issue? GitHub 101
+#### What is an Issue? GitHub 101
 
 The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the
 curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held.
@@ -219,22 +219,7 @@ community-contributed guide on how to create a PR][github-guide] that can help.
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
 is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
 
-### Add Your Lesson Contribution to Your Carpentries Record
-
-In order for your contribution to count for checkout, it needs to be added to your Carpentries record on our AMY database.
-
-For this checkout task, please:
-
-1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
-2. Once you have logged in, select "Training progress" at the top of the screen.
-3. Enter in a link to your lesson contribution.
-4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
-
-If you have difficulty submitting your lesson contribution in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. However, if you would like to submit your contribution before you receive a response from us, you can use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform) as an alternative.
-
-You can track your progress by [logging into AMY here](https://amy.carpentries.org).
-
-### Alternatives to GitHub
+#### Alternatives to GitHub
 
 All Carpentries curricula (including this one) are hosted on GitHub. Learning to interact on GitHub can have many benefits,
 including the ability to contribute to other open-source projects! However, we understand that there are many
@@ -260,7 +245,8 @@ please [let us know][contact-page].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Eligible Repositories
+
+#### Eligible Repositories
 
 Contributions to repositories that are not managed by The Carpentries, including forks of Carpentries repositories, are **not** eligible for
 checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces.
@@ -275,12 +261,33 @@ We recommend that contributions be directed to:
 With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting!
 The greater challenge, in most cases, is identifying where and how to cut.
 
-### What Comes Next?
+#### What Comes Next?
 
 Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or
 requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
 **Your contribution does not need to be reviewed or accepted in order for you to become an Instructor**.
+
+
+### Add your Get Involved step to your Record in our Database (AMY)
+
+Whatever way you choose to Get Involved, this step must be added to your 
+Carpentries record on our AMY database to satisfy the requirement. This is 
+true even if you attend an event where attendance is taken.
+
+For this checkout task, please:
+
+1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
+2. Once you have logged in, select "Training progress" at the top of the screen.
+3. Select the checkbox that best describes your step to Get Involved with The Carpentries. 
+3. Enter the information requested with your checkbox.
+4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
+
+If you have difficulty submitting this step in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. 
+
+You can track your progress by [logging into AMY here](https://amy.carpentries.org).
+
+
 
 ### Community Discussions
 Community Discussion meetings occur several times a week and may take different forms. The most common type of Community Discussion
