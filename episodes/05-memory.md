@@ -9,7 +9,8 @@ In our final topic in how people learn (and therefore, how we can be more
 effective instructors), we will be learning more about human memory:
 specifically, how to remove unnecessary "load" in order to facilitate learning.
 
-::::::::::::::::::::::::::::::::::::::: objectives
+::::::::::::::::::::::::::::::::::::::: 
+objectives
 
 - Remember the quantitative limit of human memory.
 - Distinguish desirable from undesirable cognitive load.
@@ -24,6 +25,13 @@ specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Cognitive resources and their limitations
+
+Learning involves 2 Cognitive resources, i.e. Memory and Attention. Overloading either of the 
+resources is called Cognitive Overlaoding and impact learning.
+Lets us look at in detail how to manage Memory and Attention to avoid Cognitive overload.
+
+## Memory
 ## Types of Memory
 
 Learning involves memory. For our purposes, human memory can be divided into two different
@@ -186,15 +194,66 @@ Planning your lesson with a concept map can help you
 not only identify key concepts and relationships, but also to notice when you are trying to
 teach too many things at once.
 
-## Attention is a Limited Resource: Cognitive Load
+## Attention
 
-Memory is not the only cognitive resource that is limited. Attention is constrained as well, which can
+Like Memory, Attention is also a limited cognitive resource, which can
 limit the information that enters short term memory in the first place as well as interfere with attempts
 at consolidation.
 While many people believe that they can "multi-task," the reality is that attention can
 only focus on one thing at a time. Adding items that demand attention adds more things
 to alternate between attending to, which can reduce efficiency and performance on all of them.
 
+
+
+## Attention Management in Your Workshop
+
+Carpentries lessons include small tasks arranged incrementally
+which are intended to be completed together, through participatory live coding (a technique we will discuss in more detail
+later in this training).
+
+The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation
+can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimize
+cognitive load by choosing formative assessments that are
+narrowly focused and by considering potential distractions in what you display during instruction.
+
+### Using Formative Assessments for Memory Management
+
+There are
+many different types of exercises that can focus attention narrowly and help to avoid cognitive overload.
+Carefully targeted multiple choice questions can play this role.
+A few more that you may wish to consider are:
+
+- [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
+- [Parson's Problems][wikipedia-parsons]: out-of-order code selection \& sorting challenges
+- Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
+
+Beware assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
+some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novice learners. Questions
+that ask learners to both remember and synthesize or reason with new information are also risky. If you try out
+a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach... or you may only need a more narrowly focused question.
+
+### What to Display
+
+The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps
+any of the Instructor Training curriculum during your time as a learner in this workshop. In most situations **we do not recommend
+displaying Carpentries curriculum materials** to your learners while you teach.
+
+The visual environment in a workshop should be focused on exactly what you are teaching and should mirror,
+as closely as possible, exactly what you say.
+This is because keeping track of distracting and contradictory sensory information adds to cognitive load.
+The **[split-attention effect][wikipedia-split-attention]** describes the cognitive effort involved with
+trying to assemble information from different modalities. Learning is most effective when visual
+displays, text, and auditory information presented together
+are the same, with minimal distractions.
+
+For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen**
+while engaging learners in [participatory live coding](17-live/).
+
+One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands**
+and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access
+items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary
+is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document
+for reference as needed.
 ### The Theory of Cognitive Load
 
 There are different [theories of cognitive load][wikipedia-cognitive-load]. In one of these, [Sweller posits that people have to attend to three types of things when they are learning](https://doi.org/10.1207/s15516709cog1202_4):
@@ -256,59 +315,7 @@ With a partner or in small groups, discuss what you have found. Are your learner
 
 This exercise should take about 15 minutes.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Attention Management in Your Workshop
-
-Carpentries lessons include small tasks arranged incrementally
-which are intended to be completed together, through participatory live coding (a technique we will discuss in more detail
-later in this training).
-
-The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation
-can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimize
-cognitive load by choosing formative assessments that are
-narrowly focused and by considering potential distractions in what you display during instruction.
-
-### Using Formative Assessments for Memory Management
-
-There are
-many different types of exercises that can focus attention narrowly and help to avoid cognitive overload.
-Carefully targeted multiple choice questions can play this role.
-A few more that you may wish to consider are:
-
-- [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
-- [Parson's Problems][wikipedia-parsons]: out-of-order code selection \& sorting challenges
-- Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
-
-Beware assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
-some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novice learners. Questions
-that ask learners to both remember and synthesize or reason with new information are also risky. If you try out
-a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach... or you may only need a more narrowly focused question.
-
-### What to Display
-
-The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps
-any of the Instructor Training curriculum during your time as a learner in this workshop. In most situations **we do not recommend
-displaying Carpentries curriculum materials** to your learners while you teach.
-
-The visual environment in a workshop should be focused on exactly what you are teaching and should mirror,
-as closely as possible, exactly what you say.
-This is because keeping track of distracting and contradictory sensory information adds to cognitive load.
-The **[split-attention effect][wikipedia-split-attention]** describes the cognitive effort involved with
-trying to assemble information from different modalities. Learning is most effective when visual
-displays, text, and auditory information presented together
-are the same, with minimal distractions.
-
-For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen**
-while engaging learners in [participatory live coding](17-live/).
-
-One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands**
-and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access
-items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary
-is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document
-for reference as needed.
-
 ## Summary
 
 The process of learning is constrained by the limits of short-term memory. In order to move
