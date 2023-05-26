@@ -165,17 +165,20 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ## Enseñanza de episodios con dependencias {#dependencies-es}
 
-Muchas lecciones de Carpentries siguen una narrativa: un ejemplo que va de episodio en episodio, 
-con los mismos datos, archivos, variables, etc. 
-Reutilizados y modificados a medida que se enseñan nuevas habilidades y conceptos a los alumnos. 
-Esto significa que el contenido de los episodios posteriores de una lección dependerá probablemente 
-de los pasos que se hayan dado anteriormente en la lección.
+Muchas lecciones en *Carpentries* siguen una narrativa común: Un mismo ejemplo
+que va de episodio en episodio, con datos, archivos, variables, etc. que son
+reutilizados y modificados a medida que nuevas habilidades y conceptos son
+enseñados a los alumnos. Esto significa que el contenido de los episodios
+dependerá probablemente de los pasos que se hayan dado en episodios anteriores
+de una misma lección.
 
-La columna _Puntos de Partida Recomendados_ de las tablas siguientes proporciona una lista de episodios que 
-no dependen en gran medida de ninguno de los contenidos anteriores de la lección. 
-**Si decide enseñar uno de los episodios que no figuran en esta lista de recomendaciones, 
-deberá asegurarse de que todo está preparado como si las partes anteriores de la lección 
-ya se hubieran enseñado antes de comenzar su demostración didáctica.**
+La columna _Puntos de Partida Recomendados_ en la tabla siguiente proporciona
+una lista de episodios que no dependen en gran medida de ninguno de los
+contenidos anteriores de la lección. Si decide enseñar uno de los episodios que
+no figuran en esta lista de recomendaciones, deberá asegurarse de que todo está
+preparado como si las partes anteriores de la lección ya se hubieran enseñado
+antes de comenzar su demostración didáctica.
+
 
 :::::::::::::::::::::::::::::::
 
@@ -183,9 +186,13 @@ ya se hubieran enseñado antes de comenzar su demostración didáctica.**
 
 ## Episodios no aptos para la demostración didáctica {#ineligible-es}
 
-Algunas lecciones incluyen episodios que **no pueden utilizarse para una demostración didáctica**,
-normalmente porque contienen poca o ninguna oportunidad para la enseñanza mediante demostración en vivo.
-Estos episodios se enumeran en la columna _No elegible para demostraciones_ de las tablas siguientes.
+Algunas lecciones incluyen episodios que **no pueden ser utilizados para una
+demostración didáctica**, normalmente porque contienen poca o ninguna
+oportunidad para la enseñanza mediante demostraciones en vivo. Estos episodios
+se enumeran en la columna _No elegible para demostraciones_ en la tabla
+siguiente.
+
+
 
 :::::::::::::::::::::::::::::::
 
