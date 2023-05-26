@@ -179,7 +179,6 @@ no figuran en esta lista de recomendaciones, deberá asegurarse de que todo est�
 preparado como si las partes anteriores de la lección ya se hubieran enseñado
 antes de comenzar su demostración didáctica.
 
-
 :::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::: callout
