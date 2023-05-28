@@ -12,8 +12,8 @@ license][cc-by-legal].
 
 You are free:
 
-* to **Share**---copy and redistribute the material in any medium or format
-* to **Adapt**---remix, transform, and build upon the material
+- to **Share**---copy and redistribute the material in any medium or format
+- to **Adapt**---remix, transform, and build upon the material
 
 for any purpose, even commercially.
 
@@ -22,10 +22,10 @@ license terms.
 
 Under the following terms:
 
-* **Attribution**---You must give appropriate credit (mentioning that
+- **Attribution**---You must give appropriate credit (mentioning that
   your work is derived from work that is Copyright © Software
   Carpentry and, where practical, linking to
-  http://software-carpentry.org/), provide a [link to the
+  [http://software-carpentry.org/](https://software-carpentry.org/)), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
   so in any reasonable manner, but not in any way that suggests the
   licensor endorses you or your use.
@@ -36,10 +36,10 @@ anything the license permits.  With the understanding that:
 
 Notices:
 
-* You do not have to comply with the license for elements of the
+- You do not have to comply with the license for elements of the
   material in the public domain or where your use is permitted by an
   applicable exception or limitation.
-* No warranties are given. The license may not give you all of the
+- No warranties are given. The license may not give you all of the
   permissions necessary for your intended use. For example, other
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
@@ -77,6 +77,9 @@ are registered trademarks of [Community Initiatives][ci].
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
-[mit-license]: https://opensource.org/licenses/mit-license.html
-[ci]: http://communityin.org/
 [osi]: https://opensource.org
+[mit-license]: https://opensource.org/licenses/mit-license.html
+[ci]: https://communityin.org/
+
+
+

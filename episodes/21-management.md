@@ -419,11 +419,10 @@ instructions to bypass your browser cache: [https://en.wikipedia.org/wiki/Wikipe
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 You may also wish to create an Etherpad for your workshop
-(or other Carpentries-related event).
+(or other Carpentries-related event), preferably using the same workshop id used when creating the workshop website.
 When you point a browser to a url at
-`https://pad.carpentries.org/workshop-slug`
-(e.g., `https://pad.carpentries.org/2022-02-22-data-skills`
-for the example above)
+`https://pad.carpentries.org/workshop-id`
+(e.g., `https://pad.carpentries.org/2022-02-22-berlin`)
 you will either arrive at an existing Etherpad by that name or a brand new
 Etherpad with basic Carpentries information at the top.
 

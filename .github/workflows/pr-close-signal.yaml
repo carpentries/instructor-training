@@ -16,8 +16,8 @@ jobs:
           mkdir -p ./pr
           printf ${{ github.event.number }} > ./pr/NUM
       - name: Upload Diff
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: pr 
+          name: pr
           path: ./pr
 

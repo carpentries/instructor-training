@@ -11,15 +11,15 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor.
 Briefly, the three steps are:
 
-1. [Make a small contribution to a lesson or glossary](#1-lesson-contributions).
-2. [Take part in an online community discussion session](#2-community-discussion).
-3. [Take part in an online teaching demonstration session](#3-teaching-demonstration).
+1. [Make a small contribution to a lesson or glossary](#contributions).
+2. [Take part in an online community discussion session](#discussion).
+3. [Take part in an online teaching demonstration session](#demonstration).
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
-## 1\. Lesson Contributions
+## 1\. Lesson Contributions {#contributions}
 
 ### Keep It Simple!
 
@@ -127,7 +127,7 @@ requests. However, also keep in mind that Carpentries lesson Maintainers, like I
 maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
 **Your contribution does not need to be reviewed or accepted in order for you to become an Instructor**.
 
-## 2\. Community Discussion
+## 2\. Community Discussion {#discussion}
 
 The purpose of having you attend a Community Discussion is to introduce you to other members of our global community
 and to demonstrate an ongoing resource for support and advice as you develop your teaching practice.
@@ -209,7 +209,7 @@ Community Discussion meeting.
 If you attend an in-person meeting or a CarpentryCon/Connect event, please verify with your host if they plan to report checkout attendance. If you are
 not sure whether your attendance has been reported, you can email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to confirm.
 
-## 3\. Teaching Demonstration
+## 3\. Teaching Demonstration {#demonstration}
 
 The teaching demonstration serves several purposes. First and foremost, it is an opportunity to **both give and receive feedback** on
 a more polished presentation after you have had some time to reflect on your lesson and what you have learned in this workshop. In
@@ -250,7 +250,7 @@ work for a checkout demo. Be sure to give yourself time to change course if your
 
 ### Sign-up and Set-up
 
-To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad]({{page.demopad}}), and add
+To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad](https://pad.carpentries.org/teaching-demos), and add
 your name and a link to your lesson of choice to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
@@ -296,7 +296,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
-[contributing]: https://github.com/carpentries/instructor-training/blob/gh-pages/CONTRIBUTING.md
+[contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
 [handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
 [git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
@@ -305,10 +305,10 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [discussion]: https://pad.carpentries.org/community-discussions
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
-[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric/
+[demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
-[start-points]: https://carpentries.github.io/instructor-training/demo_lessons/index.html
-[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html
+[start-points]: https://carpentries.github.io/instructor-training/demo_lessons
+[r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
 

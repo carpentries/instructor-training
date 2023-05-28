@@ -30,7 +30,7 @@ To prepare for our next session, please:
   When you arrive for the next part, we will ask you to add one question about our operations to a list.
   We will then do our best to answer all of those questions during the day.
 
-2. Prepare for the [live coding exercises](17-live/).
+2. Prepare for the [live coding exercises](https://carpentries.github.io/instructor-training/17-live.html).
   If you have not already done so per the pre-workshop instructions, pick an episode from an existing Software Carpentry,
   Data Carpentry, or Library Carpentry lesson and
   read through it carefully.
@@ -88,6 +88,7 @@ the following list for a starting point:
 - write a paragraph or "journal" entry about your
   experience of the training so far
 - write down one thing that struck you the most
+- write down one thing or topic that you want to learn more about
 
 This exercise should take about 10 minutes.
 

@@ -46,18 +46,19 @@ These episodes are listed in the _Not Eligible for Demos_ column of the tables b
 :::::::::::::::::::::::::::::::
 
 - [Data Carpentry: Ecology](#dc-ecology)
+  - [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/index.html)
   - [Data Cleaning with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
   - [Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/)
-  - [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/)
-  - [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/)
+  - [Data Management with SQL](https://www.datacarpentry.org/sql-ecology-lesson/)
+  - [Data Analysis and Visualization in Python](https://www.datacarpentry.org/python-ecology-lesson/)
 - [Data Carpentry: Genomics](#dc-genomics)
   - [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/)
   - [Data Wrangling and Processing](https://datacarpentry.org/wrangling-genomics/)
   - [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/)
 - [Data Carpentry: Social Sciences](#dc-socialsci)
   - [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/)
-  - [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/)
-  - [Data Analysis and Visualization with R](http://www.datacarpentry.org/r-socialsci/)
+  - [Data Cleaning with OpenRefine](https://www.datacarpentry.org/openrefine-socialsci/)
+  - [Data Analysis and Visualization with R](https://www.datacarpentry.org/r-socialsci/)
 - [Data Carpentry: Geospatial](#dc-geospatial)
   - [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/)
   - [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
@@ -70,20 +71,21 @@ These episodes are listed in the _Not Eligible for Demos_ column of the tables b
   - [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
   - [Library Carpentry: Introduction to Git](https://librarycarpentry.org/lc-git/)
 - [Software Carpentry](#swc)
-  - [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
-  - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
-  - [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
-  - [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder)
-  - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
-  - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
-  - [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
-  - [Automation and Make](http://swcarpentry.github.io/make-novice/)
-  - [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/)
+  - [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+  - [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+  - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+  - [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder)
+  - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+  - [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
+  - [Using Databases and SQL](https://swcarpentry.github.io/sql-novice-survey/)
+  - [Automation and Make](https://swcarpentry.github.io/make-novice/)
+  - [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/)
 - [Lecciones en español](#espanol)
-  - [La Terminal de Unix](http://swcarpentry.github.io/shell-novice-es/)
-  - [Control de versiones con Git](http://swcarpentry.github.io/git-novice-es/)
-  - [R para Análisis Científicos Reproducibles](http://swcarpentry.github.io/r-novice-gapminder-es/)
-  - [Análisis y visualización de datos usando Python](http://www.datacarpentry.org/python-ecology-lesson-es/)
+  - [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/)
+  - [Control de versiones con Git](https://swcarpentry.github.io/git-novice-es/)
+  - [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/)
+  - [Análisis y visualización de datos usando Python](https://www.datacarpentry.org/python-ecology-lesson-es/)
+
 
 ### Data Carpentry: Ecology {#dc-ecology}
 
@@ -94,6 +96,7 @@ These episodes are listed in the _Not Eligible for Demos_ column of the tables b
 | [Data Analysis and Visualization in R](https://datacarpentry.org/R-ecology-lesson/) |  \* [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)<br/>\* [Starting with Data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) | \* [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) | [Manipulating Data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html) and [Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/) | \* [Accessing Data With Queries](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)<br/>\* [Aggregating and Grouping Data](https://datacarpentry.org/sql-ecology-lesson/02-sql-aggregation.html)<br/>\* [Combining Data With Joins](https://datacarpentry.org/sql-ecology-lesson/03-sql-joins.html) | \* [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) |  |
 | [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/) |  \* [Short Introduction to Programming](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/)<br/> \* [Starting with Data](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/)<br/> \* [Indexing, Slicing, and Subsetting](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/)<br/> \* [Data Types and Formats](https://datacarpentry.org/python-ecology-lesson/04-data-types-and-format/)<br/> \* [Combining DataFrames with Pandas](https://datacarpentry.org/python-ecology-lesson/05-merging-data/)<br/> \* [Data Workflows and Automation](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/) | \* [Before we Start](https://datacarpentry.org/python-ecology-lesson/00-before-we-start/) | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
+
 
 ### Data Carpentry: Genomics {#dc-genomics}
 
@@ -107,6 +110,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Introduction to Cloud Computing](https://datacarpentry.org/cloud-genomics/) |  \* [Logging onto  the Cloud](https://datacarpentry.org/cloud-genomics/02-logging-onto-cloud.html)  <br/> \* [Fine tuning your Cloud Setup](https://datacarpentry.org/cloud-genomics/03-verifying-instance.html) | \* [Why of Cloud Computing](https://datacarpentry.org/cloud-genomics/01-why-cloud-computing.html) <br/> \* [Which Cloud for my Data?](https://datacarpentry.org/cloud-genomics/04-which-cloud.html) |  |
 | [Data Analysis and Visualization in R](https://datacarpentry.org/genomics-r-intro/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
 
+
 ### Data Carpentry: Social Sciences {#dc-socialsci}
 
 |  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
@@ -114,6 +118,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/) | \* [Dates as Data](https://datacarpentry.org/spreadsheets-socialsci/03-dates-as-data.html)<br/> \* [Quality Assurance](https://datacarpentry.org/spreadsheets-socialsci/04-quality-assurance.html) | \* [Introduction](https://datacarpentry.org/spreadsheets-socialsci/00-intro.html)<br/> \* [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/01-format-data.html)<br/> \* [Formatting problems](https://datacarpentry.org/spreadsheets-socialsci/02-common-mistakes.html)<br/> \* [Exporting data](https://datacarpentry.org/spreadsheets-socialsci/05-exporting-data.html) |  |
 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) |  [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | \* [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) |  The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Data Analysis and Visualization with R](http://www.datacarpentry.org/r-socialsci/) | \* [Introduction to R](https://datacarpentry.org/r-socialsci/01-intro-to-r.html)<br/>\* [Starting with Data](https://datacarpentry.org/r-socialsci/02-starting-with-data.html)<br/>\* [Data Wrangling with dplyr](https://datacarpentry.org/r-socialsci/03-dplyr.html)<br/>\* [Data Wrangling with tidyr](https://datacarpentry.org/r-socialsci/04-tidyr.html)<br/>\* [Getting Started with R Markdown](https://datacarpentry.org/r-socialsci/06-rmarkdown.html)<br/>\* [Processing JSON Data](https://datacarpentry.org/r-socialsci/07-json.html)<br/> | \* [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) | [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/) depends on action taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
+
 
 ### Data Carpentry: Geospatial {#dc-geospatial}
 
@@ -123,17 +128,20 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) |  all episodes | none | |
 | [Introduction to Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | \* [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)<br/> \* [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)<br/> \* [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)<br/> \* [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)<br/> \* [Handling Spatial Projection \& CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)<br/> \* [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)<br/> \* [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/) | none | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). <br/> You may need to allow yourself extra time to set up your environment to demo this lesson. |
 
+
 ### Data Carpentry: Astronomy {#dc-astro}
 
 |  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | \* [Basic Queries](https://datacarpentry.org/astronomy-python/01-query.html) <br/> \* [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords.html) | none |  The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). <br/> If using [Basic Queries](https://datacarpentry.org/astronomy-python/01-query.html), skip the episode introduction, *Query Language*, and *Using Jupyter* sections, and begin with [*Connecting to Gaia*](https://datacarpentry.org/astronomy-python/01-query.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
+
 ### Data Carpentry: Image Processing {#dc-image}
 
 |  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Image Processing with Python](https://datacarpentry.org/image-processing/) | \* [Working with skimage](https://datacarpentry.org/image-processing/03-skimage-images.html) <br/> \* [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing.html) <br/> \* [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms.html)<br/> \* [Thresholding](https://datacarpentry.org/image-processing/07-thresholding.html) | \* [Introduction](https://datacarpentry.org/image-processing/instructor/01-introduction.html)<br/> \* [Blurring Images](https://datacarpentry.org/image-processing/instructor/06-blurring.html)<br/> \* [Capstone Challenge](https://datacarpentry.org/image-processing/instructor/09-challenges.html)  | If using [Image Basics](https://datacarpentry.org/image-processing/instructor/02-image-basics.html), start from [Working with Pixels](https://datacarpentry.org/image-processing/instructor/02-image-basics.html#working-with-pixels). <br/>If using [Connected Component Analysis](https://datacarpentry.org/image-processing/instructor/08-connected-components.html), start from [the Connected Component Analysis section](https://datacarpentry.org/image-processing/instructor/08-connected-components.html#connected-component-analysis). <br/>This lesson is designed to be taught with a [JupyterLab](https://jupyter.org/) environment - check [the lesson's Instructor Notes](https://datacarpentry.org/image-processing/instructor/instructor-notes.html#working-with-jupyter-notebooks) for further guidance. |
+
 
 ### Library Carpentry {#lc}
 
@@ -144,6 +152,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/) | none | all episodes | This is a discussion-based lesson and provides no opportunities for live demonstration. It cannot be used for teaching demonstrations. |
 | [Library Carpentry: Introduction to Git](https://librarycarpentry.org/lc-git/) | \* [Getting started with Git](https://librarycarpentry.org/lc-git/02-getting-started.html) | \* [What is Git/GitHub?](https://librarycarpentry.org/lc-git/01-what-is-git.html) | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Library Carpentry: SQL](https://librarycarpentry.org/lc-sql/) | \* [Selecting and Sorting Data](https://librarycarpentry.org/lc-sql/02-selecting-sorting-data.html)<br/> \* [Filtering](https://librarycarpentry.org/lc-sql/03-filtering.html)<br/> \* [Ordering and Commenting](https://librarycarpentry.org/lc-sql/04-ordering-commenting.html)<br/> \* [Aggregating and Calculating Values](https://librarycarpentry.org/lc-sql/05-aggregating-calculating.html)<br/> \* [Joins and aliases](https://librarycarpentry.org/lc-sql/06-joins-aliases.html)<br/> \* [Saving queries](https://librarycarpentry.org/lc-sql/07-saving-queries.html)<br/> \* [Creating tables and modifying data](https://librarycarpentry.org/lc-sql/09-create.html) | \* [Database design](https://librarycarpentry.org/lc-sql/08-database-design.html)<br/> \* [Other database tools](https://librarycarpentry.org/lc-sql/10-other-tools.html)<br/> \* [Extra-challenges](https://librarycarpentry.org/lc-sql/11-extra-challenges.html)<br/> \* [Good style](https://librarycarpentry.org/lc-sql/Bonus_GoodStyle.html) |  |
+
 
 ### Software Carpentry {#swc}
 
@@ -158,6 +167,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/) | any other episode  | [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) |  |
 | [Automation and Make](http://swcarpentry.github.io/make-novice/) |  \* [Introduction](http://swcarpentry.github.io/make-novice/01-intro)<br/> \*  [Makefiles](http://swcarpentry.github.io/make-novice/02-makefiles) | \* [Conclusion](https://swcarpentry.github.io/make-novice/09-conclusion.html) | Later episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) |  \* [Configuring Mercurial](http://swcarpentry.github.io/hg-novice/02-configuration/)<br/> \* [Creating a Repository](http://swcarpentry.github.io/hg-novice/03-create-repo/)<br/> \* [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) | \* [Automated Version Control](http://swcarpentry.github.io/hg-novice/01-basics/) | Later episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
+
 
 ### Lecciones en español {#espanol}
 
@@ -191,9 +201,8 @@ oportunidad para la enseñanza mediante demostraciones en vivo. Estos episodios
 se enumeran en la columna _No elegible para demostraciones_ en la tabla
 siguiente.
 
-
-
 :::::::::::::::::::::::::::::::
+
 
 |  Lección   | Puntos de Partida Recomendados | [**No elegible para demostraciones**](#ineligible-es) | Notas
 |---------- |--------------- |--------------- |------------------------- |
