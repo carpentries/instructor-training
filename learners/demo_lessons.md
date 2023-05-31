@@ -2,19 +2,21 @@
 title: Lessons for Teaching Demonstrations
 ---
 
-The list below shows lessons that have been reviewed for good and bad start points to use for a teaching demonstration. When selecting a lesson for a
+The list below shows lessons that have been reviewed for good and bad start points to use for a teaching demonstration. When selecting an episode for a
 teaching demonstration, trainees should review this list to ensure it is suitable.
 
-Those who wish may also consult the detailed tables following the list to identify episodes marked "avoid" because they will not be asked to teach those episodes. However, we recommend
-reviewing the full lesson regardless, as this will help provide context for other start points and is also good preparation for your eventual teaching
-role!
+As of July 2023, trainees are allowed to choose the episode from which their 5-minute teaching demo will begin. However,  still we recommend
+reviewing the full lesson during preparation, as this will help provide context for instruction and is also good preparation for teaching a 
+complete workshop later on!
 
-Note that while a trainee can choose the lesson to teach from, the **Trainer leading the demo session will choose the specific episode at the time
-of the demo session.** If you would like to use a lesson that is not listed here, you may contact the Instructor Trainer leading your teaching
-demonstration or (if no one is listed for your session) email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+If a selected episode is very short and finishes in less than 5 minutes, it may be necessary to continue on to the next episode in that lesson 
+to complete a 5 minute demonstration. 
+It is **not** necessary to teach the full episode, or to cover any specific amount of content within the 5 minute period.
 
-If the episode chosen by the trainer is very short and finishes in less than 5 minutes, the trainee can continue on to the next episode in that lesson. They are not
-required to cover any specific amount of content within the 5 minute period.
+**If your preferred lesson is not on the list or includes only ineligible episodes, please choose a different lesson.** 
+If you believe you have a lesson or episode that should be eligible but is not on the list, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+
+
 
 ::::::::::::::::::::::: callout
 
