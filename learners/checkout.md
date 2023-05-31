@@ -187,6 +187,16 @@ The Carpentries lessons are built, sustained, and improved only through the coll
 All Instructors should feel empowered and invited to participate! Taking a first step to walk through the 
 contribution process is a great way to complete your Instructor certification. 
 
+#### Why Contribute to Carpentries Lessons?
+If you are interested in getting involved in The Carpentries, you may also be interested in becoming more involved in the 
+open source tools we teach and the communities that revolve around them. The Carpentries community is a safe and friendly space to 
+learn to how to participate in open collaboration on GitHub. You can apply what you have learned here to engage elsewhere, with the tools you 
+love and the people who develop them! 
+
+In addition, because The Carpentries curricula are collaboratively developed and maintained, all direct contributors become authors on 
+Carpentries lessons! If you submit a pull request to a lesson that is accepted and merged by the maintainers, you will be listed as a co-author 
+on the lesson's next release. 
+
 #### Keep It Simple!
 We suggest starting small! Consider commenting
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
