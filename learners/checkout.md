@@ -47,7 +47,7 @@ of The Carpentries community.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### What Should I Say?
+### Preparing for your Welcome Session
 
 Welcome sessions are intended for new community members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
 in this role. You do not need to do any homework in advance! 
@@ -83,21 +83,34 @@ Finally, it is an opportunity to receive **feedback from a Carpentries
 Instructor Trainer** (like your Trainers at today's event), who will help make sure you are prepared for a strong start.
 
 
-### Selecting an Episode with Participatory Content
+### Selecting an Eligible Episode
 
-For your teaching demonstration, you will prepare to teach **a 5 minute segment of a Carpentries Lesson, starting at the beginning of any episode that 
-includes participatory live instruction**. 
-Because participatory live coding or other content is an essential element of Carpentries practices, you must select an episode that 
-includes participatory content; if you prepare an episode that does not contain participatory content, you may be given a choice between teaching an episode 
-other than the one you prepared, or rescheduling your teaching demonstration. When selecting an episode, be aware that some episodes may rely on files or 
-folders created or modified in earlier episodes, so it is important to have everything in the right place and ready for your start point when you arrive for your demo. 
+For your teaching demonstration, you will prepare to teach **a 5 minute segment of an approved Carpentries Lesson, 
+starting at the beginning of an episode that includes participatory live instruction**. 
 
-This [list of suggested episodes][start-points] may be helpful in selecting an appropriate episode from your lesson of choice. **If your chosen lesson does not have any suggested episodes for start points listed or is not on the list, please consider choosing a different lesson.**
+To select an episode, please visit this [list of recommended episodes][start-points]. **If your preferred lesson is not on the list or includes 
+only ineligible episodes, please choose a different lesson.** Lessons in The Carpentries Incubator are not eligible for use in teaching demonstrations. If you believe you have a lesson or episode that should be eligible but is not on the list, please contact us.
 
+If you arrive at your demo prepared to teach an episode that is ineligible, your Trainer may offer you a choice between
+teaching from an appropriate episode (other than the one you prepared) or rescheduling your demo (to allow time to prepare an appropriate episode). 
+
+### Starting in the Middle
+Demonstrating an episode that falls later in a lesson can be fun! It also helps to ensure that other trainees who choose the same lesson 
+won't all be starting from the same place during the demo session. When selecting an episode that follows others, be aware that some 
+steps may rely on files or folders created or modified in earlier episodes. If you choose an episode with dependencies like this, be sure 
+to have everything 
+in the right place and ready for your start point when you arrive for your demo. 
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Carpentries Terminology: Lessons vs Episodes
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
-(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). As of July 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). The episodes within a lesson are numbered and listed in a collapsible window on the left side of the main lesson page. After 24 July, 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
 
-### Not a High Stakes Test!
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+### Demos are Fun! 
 
 It can be nerve-wracking to perform in front of others! This is also true when you teach, but there is a special kind of stress that comes with inviting feedback and approval from strangers. 
 It may help to know that, when we have surveyed our community about their experiences with the checkout process, 
@@ -106,7 +119,7 @@ enjoy this friendly opportunity for connection with others in our community. Rem
 
 In some cases, an Instructor Trainer may ask you to repeat your teaching demonstration another time prior to certification. If this
 happens, they will be very clear about exactly what they would like you to change on your second appearance, and why. These requests
-are made with your interests in mind -- we want you to be prepared for success when you set out to teach!
+are made with your interests at heart -- we want you to be prepared for success when you set out to teach!
 
 Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a
 [rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare.
@@ -124,12 +137,12 @@ If possible, plan to use a headset with built-in microphone for the best audio e
 
 ### During the Demo
 
-For your demonstration, you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use whatever notes you want, but
+For your demonstration, you will screen-share and live code (or teach other participatory content) for 5 minutes. You may use any notes you want, but
 please do not display them on your screen. Teach as you would in an actual workshop.
 When your five minutes are up, the Trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching.
 You will be asked to give feedback on yourself as well as on others;
-your Trainer will likely recommend a feedback structure using two axes of positive vs. negative
+your Trainer will likely recommend a feedback structure using two axes of positive vs. constructive
 and content vs. presentation, just as you have done during this workshop.
 
 ### Languages Other than English
@@ -152,7 +165,6 @@ The purpose of this step is to encourage you to take a first step towards furthe
 The Carpentries, choosing a path that works well for you. Any participation in Carpentries activities 
 or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started.
 - Serve as an Instructor or a Helper at a workshop
-- Attend a Curriculum-specific onboarding
 - Attend an Instructor Meeting, regional call, or other community programming
 - Submit a contribution to a Lesson, Glossario, or other Carpentries repository
 
@@ -164,27 +176,23 @@ workshop website link.
 Did you serve as a Helper or un-certified co-Instructor before you attended Instructor Training? 
 That counts! 
 
-### Attend a Curriculum-Specific Onboarding
-New in 2023, The Carpentries will periodically offer onboarding to prepare Instructors to teach specific 
-curricula. If one of these sessions is available during your checkout window and suits your interest, 
-this may be an ideal way to get involved! 
-
 ### Attend an Instructor Meeting, Regional Call, or Other Community Programming
-The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting (!) any of these sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community programming, [see this blog 
-post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the [Community Discussions Etherpad][discussion] to look for sessions that will work for you!
+The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these 
+sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community 
+programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the 
+[Community Discussions Etherpad][discussion] to look for sessions that will work for you!
 
-### Contribute to maintenance of a Lesson, Glossario, or other Carpentries Repository
-The Carpentries lessons are maintained and improved through collaborative effort across The Carpentries 
-communities. If you see something in a lesson that you think could be improved, visit the repository and bring your 
-voice to the conversation! 
+### Contribute to the construction or maintenance of Carpentries materials
+The Carpentries lessons are built, sustained, and improved only through the collaborative effort of our community members. 
+All Instructors should feel empowered and invited to participate! Taking a first step to walk through the 
+contribution process is a great way to complete your Instructor certification. 
 
 #### Keep It Simple!
 We suggest starting small! Consider commenting
 on an existing issue, fixing a typo if you find one, or contributing a single term to our multilingual glossary. If you would like
 to help us out with something more substantial, consider selecting an item from our [Help Wanted page][help-wanted].
 
-#### What is an Issue? GitHub 101
-
+#### How to Contribute? GitHub 101
 The curriculum for this workshop, like all Carpentries curricula, is hosted on GitHub. This gives you access to a 'back room' where the code for the
 curriculum website is freely available, suggestions for changes can be proposed, and conversations about potential changes can be held.
 
@@ -225,7 +233,7 @@ All Carpentries curricula (including this one) are hosted on GitHub. Learning to
 including the ability to contribute to other open-source projects! However, we understand that there are many
 reasons why trainees may wish to avoid engaging on GitHub. That's ok!
 
-If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses.
+If you do not use GitHub, you may submit your contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -248,72 +256,52 @@ please [let us know][contact-page].
 
 #### Eligible Repositories
 
-Contributions to repositories that are not managed by The Carpentries, including forks of Carpentries repositories, are **not** eligible for
-checkout contributions. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces.
-
-We recommend that contributions be directed to:
+The only eligibility rule for contributions is that they must be made to a repository that is managed by The Carpentries. That includes:
 
 - any [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lesson
 - the Carpentries Instructor Curriculum (this site)
-- any [community developed lesson][carpentries-incubator]
+- any [community developed lesson][carpentries-incubator] in The Carpentries Incubator
 - our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 
-With the exception of Glossario, **please be cautious about proposing new content or exercises**. Most of our lessons are full to bursting!
-The greater challenge, in most cases, is identifying where and how to cut.
+Repositories that are **not** eligible for contribution credit include forks of Carpentries repositories and 
+other Carpentries-based content that is not located 
+in a Carpentries repository. This is because The Carpentries Code of Conduct does not apply outside of Carpentries spaces. If you submit a 
+link to an ineligible repository for this step, we may contact you with a request to redirect your contribution.
+
+#### Adding or Subtracting
+When considering a lesson contribution, keep in mind that most of our core lessons are already full to bursting with great content! 
+In many cases, suggestions for how to cut or streamline may be more useful than a proposal for additional content or exercises. If you would 
+like to propose new content, consider directing your contribution to Glosario or a lesson under active development in The Carpentries Incubator.
 
 #### What Comes Next?
+After you submit your contribution, the Maintainers or others may have follow-up questions or requests, so please be alert for 
+notifications from GitHub. Because lesson Maintainers, like Instructors, are mostly volunteers, they may not always respond promptly! 
+Some repositories are vigorously
+maintained; others have slower response times. Do not take it personally if your contribution does not get a prompt response.
+**Your contribution does not need to be reviewed or accepted in order to satisfy your 'Get Involved' step**.
 
-Pay attention to GitHub notifications in case the Maintainers or others have follow-up questions or
-requests. However, also keep in mind that Carpentries lesson Maintainers, like Instructors, are mostly volunteers! Some repositories are vigorously
-maintained; others may have slower response times. Do not take it personally if your contribution does not get a prompt response.
-**Your contribution does not need to be reviewed or accepted in order for you to become an Instructor**.
 
+### Add your 'Get Involved' step to your Record in our Database (AMY)
 
-### Add your Get Involved step to your Record in our Database (AMY)
-
-Whatever way you choose to Get Involved, this step must be added to your 
-Carpentries record on our AMY database to satisfy the requirement. This is 
-true even if you attend an event where attendance is taken.
+Whatever path you choose, **you must submit this step** to have it counted towards the 'Get Involved' 
+requirement for checkout. This is true even if you attend an event where attendance is taken.
 
 For this checkout task, please:
-
 1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
 2. Once you have logged in, select "Training progress" at the top of the screen.
 3. Select the checkbox that best describes your step to Get Involved with The Carpentries. 
 3. Enter the information requested with your checkbox.
 4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
 
-If you have difficulty submitting this step in AMY, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) -- we would like to know about your problem and can help to get you logged in. 
-
-You can track your progress by [logging into AMY here](https://amy.carpentries.org).
-
-
-
-### Community Discussions
-Community Discussion meetings occur several times a week and may take different forms. The most common type of Community Discussion
-meeting is designed to support Instructors in preparing to teach an upcoming workshop and to provide a forum for sharing
-lessons learned by those who have recently taught. If there are no workshops to discuss on the agenda, then the facilitator will
-lead a conversation about teaching and preparing to teach, engaging the interests of participants. These meetings are most often
-led by a member of the Instructor Development committee or The Carpentries Core Team.
-
-In some cases, a Community Discussion meeting may be used for regional community-building, to invite the community to connect
-with representatives from specific Carpentries committees or subcommunities, or to address a theme of special interest to our
-community.
-
-### Community Discussions are Not Just for Checkout!
-
-Community Discussion meetings are an excellent opportunity to
-get help as you prepare to teach and to engage in vital reflection on your teaching practice while connecting with a community of like-
-minded Instructors. You are invited to attend these at any time! If you think you might enjoy hosting them, or would like to help develop
-other opportunities for Instructors, consider joining the Instructor Development Committee.
-
+If you have difficulty logging in to AMY, please:
+1. Verify that you have completed the [Instructor Training application form][application], and that you have included a GitHub username in your application. Both the form and the GitHub username are necessary for us to create a profile that you can login to use.
+2. Email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). In this email, let us know when you have 
+completed the application, and share your GitHub username if you did not previously include it. You may also share your selection for the Get Involved step so that a member of our Core Team can enter it for you.
 
 
 ## 4\. Tracking Your Progress
 
-After your instructor training workshop, Carpentries Core Team members will use your application or profile-creation form to activate
-your profile in The
-Carpentries database, AMY. Information on getting started with and using AMY is in the [Carpentries Handbook][handbook-amy].
+Once your profile has been set up, you can record your 'Get Involved' step and track your progress towards certification by [logging into AMY here](https://amy.carpentries.org). More information on getting started with and using AMY is available in the [Carpentries Handbook][handbook-amy].
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
@@ -323,6 +311,7 @@ opportunities. You may also adjust your preferences to select whether you want t
 
 Approximately 1-2 weeks after your last step is complete, you should receive an email with your Carpentries Instructor badge. Hooray!
 
+[application]: https://amy.carpentries.org/forms/request_training/
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
@@ -333,7 +322,6 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [glosario-github]: https://github.com/carpentries/glosario/
 [discussion]: https://pad.carpentries.org/community-discussions
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
-[mentoring]: https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
 [start-points]: https://carpentries.github.io/instructor-training/demo_lessons
