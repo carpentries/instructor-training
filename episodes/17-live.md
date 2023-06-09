@@ -1,51 +1,67 @@
 ---
 start: no
-title: Live Coding is a Skill
+title: Live Demonstration is a Skill
 block: Building Teaching Skill
 teaching: 20
 exercises: 45
 ---
 
 One of the cornerstones of The Carpentries teaching is live
-coding: *instructors do not use slides to teach coding*, but work through the lesson material,
-typing in the code or instructions, with the workshop participants following
+demonstrations: *instructors do not use slides to teach*, but work through the lesson material,
+typing in code or modeling procedures, with the workshop participants following
 along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation. We will
+gives general tips for an effective participatory live demo presentation. We will
 finish this section by practicing ourselves and providing feedback for each other.
+
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain the advantages and limitations of participatory live coding.
-- Summarize the key dos and do nots of participatory live coding.
-- Demonstrate participatory live coding.
+- Explain the advantages and limitations of participatory live demos.
+- Summarize the key dos and do nots of participatory live demos.
+- Demonstrate participatory live demos.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- Why do we teach using participatory live coding?
+- Why do we teach using participatory live demos?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Why Participatory Live Coding?
+## Why Participatory Live Demos?
 
 We do not use slides in our lessons.
-Instead, instructors plug their laptop into the projector
+Instead, instructors share their computer screens
 and work through the lesson,
 typing in the code,
 reformatting data,
+demonstrating commands and procedures,
 and talking as we go.
-This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
+This is called "live coding" or more generally "live demonstration".
 However, the instructor is not live coding in a vacuum.
 Importantly, learners are strongly encouraged
 to "code-along" with the instructor.
 We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'.
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Live Coding or Live Demonstration?
+
+The term "live coding" is used throughout instructor training
+to describe the Carpentries model of teaching,
+but you don't need to be a programmer or know how to code at all
+to integrate live demonstrations in your teaching.
+Many of our lessons on tools like spreadsheets and OpenRefine
+include no coding at all, and similar models are widely used
+to teach topics as diverse as cooking and dance!
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Anticipate the Impact
 
-List some advantages and challenges of participatory live coding
+List some advantages and challenges of participatory live demos
 from both a learner's and an instructor's point of view
 in the Etherpad.
 
@@ -65,7 +81,7 @@ Some advantages are:
 - Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](https://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
   teaching by watching *how* instructors do things.
 - It slows the instructor down:
-  if she has to type in the program as she goes along,
+  if she has to type or navigate the program as she goes along,
   she can only go twice as fast as her learners,
   rather than ten-fold faster as she could with slides.
 - Learners get to see instructors' mistakes *and how to diagnose and correct them*.
@@ -90,9 +106,9 @@ Some challenges are:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Live coding fits well into the practice-feedback model we have been discussing - by providing
-learners with continuous opportunities for practice (every time they type in a line of code)
-and continuous feedback (their code either works or fails with an error message). It is
+Live demos fits well into the practice-feedback model we have been discussing - by providing
+learners with continuous opportunities for practice (every time they type a line of code or perform a procedure)
+and continuous feedback (their attempt either works or fails with an error message). It is
 important to keep in mind, however, that feedback is not helpful if you cannot understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
 [we learned earlier](08-motivation.md) to make sure this feedback is useful to learners.
@@ -107,7 +123,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 
 ## Compare and Contrast
 
-Watch this first participatory live coding demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
+Watch this first participatory live demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
 and this second demo video: [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
 as a group and then summarize your feedback on both in the Etherpad.
 Use the 2x2 rubric for feedback we discussed earlier.
@@ -154,7 +170,7 @@ Read more in [Ten quick tips for teaching with participatory live-coding][live-c
 
 1. Split into groups of three.
 2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
-3. Have each group member teach 3 minutes of your chosen lesson episode using live coding.
+3. Have each group member teach 3 minutes of your chosen lesson episode using live demonstration.
   For this exercise, your peers will not "code-along." Before
   you begin, briefly describe what you will be teaching and what has been learned previously. Do not record this exercise.
 4. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric introduced in part 2 The
@@ -174,9 +190,9 @@ This exercise should take about 25 minutes.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Live coding forces the instructor to slow down.
+- Live demos forces the instructor to slow down.
 - Coding-along gives learners continuous practice and feedback.
-- Mistakes made during participatory live coding are valuable learning opportunities.
+- Mistakes made during participatory live demonstration are valuable learning opportunities.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
