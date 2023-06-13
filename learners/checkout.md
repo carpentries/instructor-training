@@ -11,7 +11,7 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor.
 Briefly, the three steps are:
 
-1. [Attend a community welcome session](#discussion).
+1. [Attend a community welcome session](#welcome).
 2. [Take part in an online teaching demonstration session](#demonstration).
 3. [Choose one more step to get involved with The Carpentries](#getinvolved).
 
