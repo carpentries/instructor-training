@@ -18,7 +18,7 @@ If you do not receive this email, please check your spam folder and email [instr
 
 ## How to Prepare for Instructor Training
 
-Before your training, please visit our [Preparing for Instructor Training page](https://carpentries.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows:
+Before your training, please visit our [Preparing for Instructor Training page](https://carpentries.github.io/instructor-training/index.html) for complete instructions. A brief summary of these instructions is as follows:
 
 1. Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.
 
@@ -31,7 +31,7 @@ Before your training, please visit our [Preparing for Instructor Training page](
 
 ## Checkout: The Instructor Certification Process
 
-After your training, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html) and will be discussed at your training.
+After your training, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout.html) and will be discussed at your training.
 
 ## If you Need to Reschedule or Cancel
 

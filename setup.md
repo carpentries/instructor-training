@@ -47,23 +47,23 @@ If you are having trouble choosing an episode, we recommend choosing one of the 
 
 **Data Carpentry**
 
-- [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/02-exploring-data/index.html)
-- [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries/)
+- [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
+- [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
 - [Starting with Data in R](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
 - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data)
 
 **Software Carpentry**
 
-- [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create/)
-- [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes/)
-- [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select/)
-- [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop/)
-- [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/)
+- [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
+- [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)
+- [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select.html)
+- [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)
+- [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html)
 
 **Library Carpentry**
 
-- [Working with Files and Directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
-- [Automating the Tedious with Loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)
-- [Importing Data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html)
+- [Working with Files and Directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders.html)
+- [Automating the Tedious with Loops](https://librarycarpentry.github.io/lc-shell/04-loops.html)
+- [Importing Data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data.html)
 
 
