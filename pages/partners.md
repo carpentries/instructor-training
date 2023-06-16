@@ -3,7 +3,7 @@ layout: page
 title: "Partners"
 permalink: /partners/
 redirect_to:
-  - https://carpentries.github.io/instructor-training/members/
+  - https://carpentries.github.io/instructor-training
 root: ..
 ---
 
