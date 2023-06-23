@@ -19,6 +19,12 @@ All trainees have 3 months (90 days) from the end date of your training to compl
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+## Help! I have a Question about Checkout! 
+
+I have you have a question, you can email us at instructor.training@carpentries.org or visit the [#checkout-support](https://swc-slack-invite.herokuapp.com/) slack channel.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ## 1\. Welcome Session {#welcome}
