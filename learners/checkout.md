@@ -8,12 +8,12 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 
 ## Instructor Checkout
 
-After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor.
+After attending Instructor Training, there are three steps to complete before qualifying as a Certified Carpentries Instructor.
 Briefly, the three steps are:
 
 1. [Attend a community welcome session](#welcome).
-2. [Take part in an online teaching demonstration session](#demonstration).
-3. [Choose one more step to get involved with The Carpentries](#getinvolved).
+2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of teaching and receive and share feedback with their peers.
+3. [Get Involved!](#getinvolved). Choose one more step to further your engagement with The Carpentries.
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
