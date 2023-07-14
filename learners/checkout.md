@@ -11,7 +11,7 @@ discussioninfo: https://docs.carpentries.org/topic_folders/instructor_developmen
 After attending Instructor Training, there are three steps to complete before qualifying as a Certified Carpentries Instructor.
 Briefly, the three steps are:
 
-1. [Attend a community welcome session](#welcome).
+1. [Attend a Welcome Session](#welcome). A 1-hour onboarding to the Instructor and global Carpentries community.
 2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of teaching and receive and share feedback with their peers.
 3. [Get Involved!](#getinvolved). Choose one more step to further your engagement with The Carpentries.
 
