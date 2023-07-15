@@ -15,6 +15,10 @@ Briefly, the three steps are:
 2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of teaching and receive and share feedback with their peers.
 3. [Get Involved!](#getinvolved). Choose one more step to further your engagement with The Carpentries.
 
+#### How will the Checkout steps be tracked?
+Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts. **For the “Get Involved” step, trainees must login to AMY to report which participation option they have completed.**
+
+#### Checkout Deadline
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
