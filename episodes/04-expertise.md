@@ -149,7 +149,7 @@ you might invite a friend to meet you at "the deli" or simply at
 "the restaurant" and expect them to know what you mean, because you naturally use these terms interchangeably.
 Yet, someone less familiar with US English might hesitate, wondering if
 these words mean the same thing, or close enough, under the circumstances. Similarly,
-in a Carpentries workshop, an Instructor may start a workshop talking about "Unix," but
+in a Carpentries workshop, an Instructor may start a workshop talking about "Unix", but
 then automatically start using words like "bash" and "shell"
 without noticing that learners are struggling to figure out how these
 two new words are related.
