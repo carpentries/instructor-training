@@ -39,6 +39,6 @@
 "learners/members.md" "f65ea167fdf6b89fbcd6d1e245c1167c" "site/built/members.md" "2023-06-16"
 "learners/fromthelearners.md" "4c586e5f20cd951c47872439263f5745" "site/built/fromthelearners.md" "2023-02-07"
 "learners/reference.md" "61a622f37ef51d682c6d51a2068e086a" "site/built/reference.md" "2023-06-21"
-"learners/setup.md" "73d352f3405e8be6917ae12bf8b234fd" "site/built/setup.md" "2023-06-16"
+"learners/setup.md" "a3c7277d324d05c314774d595fb76503" "site/built/setup.md" "2023-07-17"
 "pages/partners.md" "139ebb374919c12aa04e70dc23fb36d9" "site/built/partners.md" "2023-06-16"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2023-02-07"
