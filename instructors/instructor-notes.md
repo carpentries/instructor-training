@@ -19,47 +19,53 @@ Details about the Instructor Trainer role including the application process, dut
 ### Four Weeks before the Event
 
 - Contact your co-Trainer(s) to plan how you will co-teach.  Suggested discussion questions include:
+  - Are all Trainers able to be present throughout the event? If someone needs to step away, you can request a backup co-Trainer during that time if you wish.
   - What are some useful tips and tricks to organize yourself, pace yourself, share resources, etc. while teaching?
   - How do you ensure that all trainees stay engaged and participate?
   - How can Trainers help each other (at times when we are not the active Trainer)? How should we communicate with each other during the training?
   - How can we address trainee challenges? These may include internet connectivity problems, distractions caused by working from home, etc.
-- Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (there is now a [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) for that, too) and a workshop website (using the [training template][training-template]). *Be sure to check the event Etherpad or Google Doc against the curriculum as you prepare to teach, as these may not be reliably updated with curriculum changes.*
-- Send Etherpad/Google Doc and website links to [training@carpentries.org](mailto:training@carpentries.org).
+- Create an event Etherpad using the [Etherpad template][etherpad-template]). (Google Doc [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) may not be maintained) and a workshop website (using the [training template][training-template]). **If you find areas where the template needs to be updated,** please email suggested changes to instructor.training@carpentries.org. You are welcome to make quick fixes (e.g. links) yourself
+- Send Etherpad/Google Doc and website links to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 - Consider forking the Instructor Training curriculum and doing all of your preparation work based on your fork so that any changes do not impact your preparation.
 
 ### One Week before the Event
 
 - Plan logistics with co-Trainer(s)
+  - Review your teaching schedule.
 - Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
-- If teaching remotely:
-  - Test videoconferencing set up with co-Trainer(s) using login credentials provided.
-  - Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.
-  - Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event. To make a copy, click on the three dots at the top right and select "Make a copy" on the drop-down. ("Add to My Drive" will **not** create a new copy of the form, but will instead add a shortcut to the original template from your Google Drive.)
-- If teaching in person:
-  - Confirm with your host that breakout rooms are available or make an alternate plan
-  - Create a plan for printing handouts \& determine who will bring sticky notes
+- For online events:
+  - Test videoconferencing set up using login credentials provided.
+  - Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.
+  - Plan how you will have trainees watch videos. If you plan to play them on zoom, familiarize yourself with audio settings and consider an ad blocking strategy.
+- For in-person events:
+  - Confirm that breakout rooms are available or make an alternate plan
+  - Determine who will bring paper (if needed for concept mapping) and sticky notes (for minute cards & demonstration).
   - Make sure you are prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
-  - Check on availability/timing of breaks, lunch, or any other details that matter to you
+  - Check on availability/timing of breaks, lunch, etc.
+  - Familiarize yourself with the room, building, and accessibility resources as possible.
 
 ### During the event
 
-- Take attendance.
-- Remind member trainees to fill out application (Open Training applicants have already done this).
-- Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).
+- Take attendance. When marking trainees absent due to missed time, be sure to add notes describing what time was missed.
 - Monitor the Etherpad / Google Doc for questions and responses to exercises.
-- If teaching remotely: Ensure that you are logged into the Zoom room with the host key so that you can mute participants and create breakout rooms as needed.
-- If teaching remotely: Turn off video during long exercises and breaks and disconnect during lunch (note: you may need to re-log in with the host key if returning after disconnecting).
+- For online events, ensure that you are logged into the Zoom room with the host key so that you can mute participants and create breakout rooms as needed.
+- For self-organised training events, it may be necessary to remind trainees to fill out the application.
+
 
 ### Immediately after the event
 
-- Send a list of those who completed the training to checkout@carpentries.
-- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See template [here][post-template].
+- Double check that your attendance sheet is complete. For self-organized events, email instructor.training@carpentries.org to be sure we have your attendance record.
+- If you wish, you can an email to trainees thanking them for participating. 
 - Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].
 - File any relevant issues or PRs to the [instructor training repo][training-repo].
 
 ### Long-term after the event
 
-- Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.
+- Join a [Trainer discussion meeting][trainer-pad] to share details about your event with other Trainers. Consider:
+  - What instructional choices did you make for this event, and why?
+  - Did anything happen that would be interesting or useful for other Trainers to know or think about?
+  - What activities worked well? Where were the rough patches?
+  - Is there anything you would do differently next time?
 
 ### Using Slides
 
@@ -153,30 +159,15 @@ you will be asked for a 6-digit host key, which you can find [in this message](h
 See [the explanation here][zoom-host-key] for step-by-step instructions on how to
 claim host in Zoom Rooms using the host key.
 
-This account will be the host for the event and will have extra privileges including the
-ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with/claim these credentials. The host
-can transfer host privileges to other participants, so you will be able to trade host status
-back and forth with your co-Trainers during the event.
-
-All Carpentry online events are set-up such that participants can enter the room without the
-host being present. If you ever get an error message saying you can't join the room because
-you're not the host, please contact Carpentry staff immediately.
-
-### Host abilities:
-
-- "Mute" is in the lower left. To mute other participants, the host can go to "Manage Participants", hover over a participant's name, and click "mute".
-- When the room host clicks "End Meeting", a dialogue box appears with three options: "Cancel", "Leave Meeting" and "End Meeting for All". Be careful not to end the meeting if you are simply leaving the room temporarily while your co-Trainer teaches.
-- Only the host has the ability to create "Breakout rooms". The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants' assignments manually if desired.
-- The host can move between breakout rooms and can send messages to all rooms simultaneously.
 
 ### General tips for online training:
 
 - **Support the lead**
-  - It is tempting to check-out and check email/do work when your co-teacher has taken the wheel.  Try not to do this!  Ways that you can support your co-teacher when they are leading are:
+  - Ways that you can support your co-teacher when they are leading are:
     - Monitor the chat in zoom/notes
     - Help post exercises + provide instructions
     - Find links or references
-  - Make sure that whomever is actively teaching always has host privileges. When you take turns instructing, remember to hand-off host privileges during the change-over.
+  - When you take turns instructing, remember to hand-off host privileges as needed, especially if anyone is stepping away.
 - **Exercise management**
   - After the first exercise, keep a list of all the participants in a plain text file on your computer so can you can easily paste it into the shared note-taking doc for exercises. This way, everyone immediately has a place to start writing.(G.W.) Tip: randomise the order of names every once in a while so it is not always the same person that is first or last in the list, and thus may get more or less attention when you discuss the responses (LN.)
   - Screen-share a timer/countdown clock (like [this timer from timeanddate.com](https://www.timeanddate.com/timer/)) so participants know how long they have to work on exercises. (L.N) [Cuckoo timers](https://cuckoo.team/carpentries-instructor-training) can also be helpful, especially during breakout room sessions: the countdown timer is shared between everyone visiting the webpage and all participants will hear an alarm sound when the timer runs out.
@@ -298,9 +289,7 @@ Suggested points to make during introductions:
 - The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
 - Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the
   mute button is. (EB)
-- I have already determined a random order for you each to do your demonstration. When it is your turn, I will tell you what
-  episode you will be teaching from, and
-  you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the
+- I have already determined a random order for you each to do your demonstration. When it is your turn, you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the
   option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
   from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
   notes - that is how I always teach. (EB)
@@ -328,8 +317,6 @@ Suggested points to make during wrap-up:
 [etherpad-template]: https://pad.carpentries.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview
-[checkout-checklist]: https://www.datacarpentry.org/checkout/
-[post-template]: https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#email-after-training-event
 [trainer-pad]: https://pad.carpentries.org/trainers
 [training-repo]: https://carpentries.github.io/instructor-training/
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
