@@ -28,7 +28,7 @@ to Learners.
 This means that the content of later episodes in a lesson is likely to depend on the steps
 that have taken place earlier in the lesson.
 
-The _Recommended Starting Points_ column of the tables below provides a list
+The _Recommended Episodes_ column of the tables below provides a list
 of episodes that do not depend heavily on any of the preceding content in the lesson.
 **If you choose to teach one of the episodes not in this list of recommendations, 
 you should take care to ensure that you have everything set up
@@ -91,7 +91,7 @@ These episodes are listed in the _Not Eligible for Demos_ column of the tables b
 
 ### Data Carpentry: Ecology {#dc-ecology}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) | \* [Dates as Data](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)<br/> \* [Quality Assurance](https://datacarpentry.org/spreadsheet-ecology-lesson/04-quality-assurance.html) | \* [Introduction](https://datacarpentry.org/spreadsheet-ecology-lesson/00-intro.html)<br/> \* [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data.html)<br/> \* [Formatting problems](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html)<br/> \* [Exporting data](https://datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data.html) |  |
 | [Data Cleaning with OpenRefine](https://www.datacarpentry.org/openrefine-socialsci/) |  [Working with OpenRefine](https://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | \* [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) |  The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
@@ -105,7 +105,7 @@ These episodes are listed in the _Not Eligible for Demos_ column of the tables b
 
 If you are an instructor in training and wish to use lessons from Data Carpentry's Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/teaching_demos/) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/) | none | all episodes | This is a discussion-based lesson and provides no opportunities for live demonstration. It cannot be used for teaching demonstrations. |
 | [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/) |  all episodes | none | If using [Introducing the Shell](https://datacarpentry.org/shell-genomics/01-introduction/), begin with `cd shell_data` |
@@ -116,7 +116,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### Data Carpentry: Social Sciences {#dc-socialsci}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/) | \* [Dates as Data](https://datacarpentry.org/spreadsheets-socialsci/03-dates-as-data.html)<br/> \* [Quality Assurance](https://datacarpentry.org/spreadsheets-socialsci/04-quality-assurance.html) | \* [Introduction](https://datacarpentry.org/spreadsheets-socialsci/00-intro.html)<br/> \* [Formatting Data Tables in Spreadsheets](https://datacarpentry.org/spreadsheets-socialsci/01-format-data.html)<br/> \* [Formatting problems](https://datacarpentry.org/spreadsheets-socialsci/02-common-mistakes.html)<br/> \* [Exporting data](https://datacarpentry.org/spreadsheets-socialsci/05-exporting-data.html) |  |
 | [Data Cleaning with OpenRefine](https://www.datacarpentry.org/openrefine-socialsci/) |  [Working with OpenRefine](https://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | \* [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) |  The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
@@ -125,7 +125,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### Data Carpentry: Geospatial {#dc-geospatial}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Project Organization and Management](https://datacarpentry.org/organization-geospatial/) | none | all episodes | This is a discussion-based lesson and provides no opportunities for live demonstration. It cannot be used for teaching demonstrations. |
 | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) |  all episodes | none | |
@@ -134,21 +134,21 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### Data Carpentry: Astronomy {#dc-astro}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) | \* [Basic Queries](https://datacarpentry.org/astronomy-python/01-query.html) <br/> \* [Coordinate Transformations](https://datacarpentry.org/astronomy-python/02-coords.html) | none |  The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). <br/> If using [Basic Queries](https://datacarpentry.org/astronomy-python/01-query.html), skip the episode introduction, *Query Language*, and *Using Jupyter* sections, and begin with [*Connecting to Gaia*](https://datacarpentry.org/astronomy-python/01-query.html#connecting-to-gaia) (`from astroquery.gaia import Gaia`)  |
 
 
 ### Data Carpentry: Image Processing {#dc-image}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Image Processing with Python](https://datacarpentry.org/image-processing/) | \* [Working with skimage](https://datacarpentry.org/image-processing/03-skimage-images.html) <br/> \* [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing.html) <br/> \* [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms.html)<br/> \* [Thresholding](https://datacarpentry.org/image-processing/07-thresholding.html) | \* [Introduction](https://datacarpentry.org/image-processing/instructor/01-introduction.html)<br/> \* [Blurring Images](https://datacarpentry.org/image-processing/instructor/06-blurring.html)<br/> \* [Capstone Challenge](https://datacarpentry.org/image-processing/instructor/09-challenges.html)  | If using [Image Basics](https://datacarpentry.org/image-processing/instructor/02-image-basics.html), start from [Working with Pixels](https://datacarpentry.org/image-processing/instructor/02-image-basics.html#working-with-pixels). <br/>If using [Connected Component Analysis](https://datacarpentry.org/image-processing/instructor/08-connected-components.html), start from [the Connected Component Analysis section](https://datacarpentry.org/image-processing/instructor/08-connected-components.html#connected-component-analysis). <br/>This lesson is designed to be taught with a [JupyterLab](https://jupyter.org/) environment - check [the lesson's Instructor Notes](https://datacarpentry.org/image-processing/instructor/instructor-notes.html#working-with-jupyter-notebooks) for further guidance. |
 
 
 ### Library Carpentry {#lc}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) | \* [ Navigating the filesystem](https://librarycarpentry.github.io/lc-shell/02-navigating-the-filesystem.html)<br/> \* [Working with files and directories](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)<br/> \* [Automating the tedious with loops](https://librarycarpentry.github.io/lc-shell/04-loops.html)<br/> \* [Counting and mining with the shell](https://librarycarpentry.github.io/lc-shell/05-counting-mining.html)<br/> \* [Working with free text](https://librarycarpentry.github.io/lc-shell/06-free-text.html) | \* [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/)  |  |
 | [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/) | \* [Importing data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data.html) | \* [Introduction to OpenRefine](https://librarycarpentry.org/lc-open-refine/01-introduction.html) | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
@@ -159,7 +159,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 
 ### Software Carpentry {#swc}
 
-|  Lesson   | Recommended Starting Points | [**Not Eligible for Demos**](#ineligible) | Notes
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 |  [The Unix Shell](https://swcarpentry.github.io/shell-novice/) | any other episode | \* [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) |  |
 |  [Version Control with Git](https://swcarpentry.github.io/git-novice/) |  \* [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup)<br/> \* [Creating a Repository](https://swcarpentry.github.io/git-novice/03-create)<br/> \* [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes)| \* [Automated Version Control](https://swcarpentry.github.io/git-novice/01-basics)<br/> \* [Open Science](https://swcarpentry.github.io/git-novice/10-open.html)<br/> \* [Licensing](https://swcarpentry.github.io/git-novice/11-licensing.html)<br/> \* [Citation](https://swcarpentry.github.io/git-novice/12-citation.html)<br/> \* [Hosting](https://swcarpentry.github.io/git-novice/13-hosting.html) | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
@@ -185,7 +185,7 @@ enseñados a los alumnos. Esto significa que el contenido de los episodios
 dependerá probablemente de los pasos que se hayan dado en episodios anteriores
 de una misma lección.
 
-La columna _Puntos de Partida Recomendados_ en la tabla siguiente proporciona
+La columna _Episodios Recomendados_ en la tabla siguiente proporciona
 una lista de episodios que no dependen en gran medida de ninguno de los
 contenidos anteriores de la lección. Si decide enseñar uno de los episodios que
 no figuran en esta lista de recomendaciones, deberá asegurarse de que todo está
@@ -207,7 +207,7 @@ siguiente.
 :::::::::::::::::::::::::::::::
 
 
-|  Lección   | Puntos de Partida Recomendados | [**No elegible para demostraciones**](#ineligible-es) | Notas
+|  Lección   | Episodios Recomendados | [**No elegible para demostraciones**](#ineligible-es) | Notas
 |---------- |--------------- |--------------- |------------------------- |
 | [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/) | cualquier otro episodio | \* [Introducción a la Terminal](https://swcarpentry.github.io/shell-novice-es/01-intro) |  |
 | [Control de versiones con Git](https://swcarpentry.github.io/git-novice-es/)       | \* [Configurando Git](https://swcarpentry.github.io/git-novice-es/02-setup)<br/> \* [Creando un repositorio](https://swcarpentry.github.io/git-novice-es/03-create)<br/> \* [Rastreando Cambios](https://swcarpentry.github.io/git-novice-es/04-changes)                                  | \* [Control Automatizado de Versiones](https://swcarpentry.github.io/git-novice-es/01-basics.html) | Los episodios posteriores dependen de las acciones realizadas anteriormente en la lección (consulte [_Enseñanza de episodios con dependencias_](#dependencies-es)). |
