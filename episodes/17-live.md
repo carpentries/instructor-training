@@ -23,7 +23,7 @@ finish this section by practicing ourselves and providing feedback for each othe
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- Why do we teach programming using participatory live coding?
+- Why do we teach using participatory live coding?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

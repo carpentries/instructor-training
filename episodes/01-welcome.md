@@ -55,8 +55,8 @@ for further reading:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){alt='Photo of an Icebreaker ship, named Stephan Jantzen' width="600px" }  
-A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)
+![A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)](fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){alt='Photo of an Icebreaker ship, named Stephan Jantzen' width="600px" }  
+
 
 ## Before The Course Begins
 
