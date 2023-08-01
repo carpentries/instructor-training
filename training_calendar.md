@@ -44,11 +44,6 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 New trainings are added to this calendar on a quarterly basis.
 
-<hr>
-
-#### [August 9-10, 2023](https://www.eventbrite.com/e/online-instructor-training-august-9-10-2023-tickets-51973278475)
-
-**Two 8-hour days:**  9 am to 5 pm N. America Pacific Time / 12 noon to 8 pm N. America Eastern Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230809T09&p1=137&ah=8)
 
 <hr>
 
