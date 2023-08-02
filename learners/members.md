@@ -19,7 +19,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## How to schedule your team for training:
 
-- You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar/).
+- You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar).
 
 - Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organize a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training.
 
@@ -37,7 +37,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## What to expect after the event:
 
-- Participants will have three months (90 days) to complete [post-training homework exercises](https://carpentries.github.io/instructor-training/checkout/) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.
+- Participants will have three months (90 days) to complete [post-training homework exercises](https://carpentries.github.io/instructor-training/14-checkout.html) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.
 
 - After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
