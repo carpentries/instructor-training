@@ -53,7 +53,7 @@ Details about the Instructor Trainer role including the application process, dut
 ### Immediately after the event
 
 - Send a list of those who completed the training to checkout@carpentries.
-- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See template [here][post-template].
+- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See [template][post-template].
 - Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].
 - File any relevant issues or PRs to the [instructor training repo][training-repo].
 
