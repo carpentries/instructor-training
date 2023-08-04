@@ -5,7 +5,7 @@ title: Lessons for Teaching Demonstrations
 The list below shows lessons that have been reviewed for good and bad start points to use for a teaching demonstration. When selecting an episode for a
 teaching demonstration, trainees should review this list to ensure it is suitable.
 
-As of July 2023, trainees are allowed to choose the episode from which their 5-minute teaching demo will begin. However,  still we recommend
+As of 14 August 2023, trainees are allowed to choose the episode from which their 5-minute teaching demo will begin. However,  still we recommend
 reviewing the full lesson during preparation, as this will help provide context for instruction and is also good preparation for teaching a 
 complete workshop later on!
 
