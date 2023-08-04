@@ -12,11 +12,11 @@ After attending Instructor Training, there are three steps to complete before qu
 Briefly, the three steps are:
 
 1. [Attend a Welcome Session](#welcome). A 1-hour onboarding to the Instructor and global Carpentries community.
-2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of teaching and receive and share feedback with their peers.
+2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of participatory instruction and share feedback, with evaluation by a Carpentries Instructor Trainer.
 3. [Get Involved!](#getinvolved). Choose one more step to further your engagement with The Carpentries.
 
 #### How will the Checkout steps be tracked?
-Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts. **For the “Get Involved” step, trainees must login to AMY to report which participation option they have completed.**
+ **For the “Get Involved” step, trainees must login to AMY to report which participation option they would like to have counted.**  Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts.
 
 #### Checkout Deadline
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
@@ -26,7 +26,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 :::::::::::::::::::::::::::::::::::::::::  callout
 ## Help! I have a Question about Checkout! 
 
-I have you have a question, you can email us at instructor.training@carpentries.org or visit the [#checkout-support](https://swc-slack-invite.herokuapp.com/) slack channel.
+If you have a question, you can email us at instructor.training@carpentries.org or visit the [#checkout-support](https://swc-slack-invite.herokuapp.com/) slack channel.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -115,7 +115,7 @@ in the right place and ready for your start point when you arrive for your demo.
 
 ## Carpentries Terminology: Lessons vs Episodes
 A "lesson" corresponds to a single line in the lesson table and a single repository in GitHub
-(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). The episodes within a lesson are numbered and listed in a collapsible window on the left side of the main lesson page. After 24 July, 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
+(An example of a lesson: [R for Reproducible Scientific Analysis][r-gapminder]). The episodes within a lesson are numbered and listed in a collapsible window on the left side of the main lesson page. After 14 August, 2023, **you do NOT need to prepare a full lesson**, but should select a single episode within that lesson. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -173,9 +173,9 @@ after you have attended your teaching demonstration.
 
 The purpose of this step is to encourage you to take a first step towards further engagement with 
 The Carpentries, choosing a path that works well for you. Any participation in Carpentries activities 
-or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started.
+or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started:
 - Serve as an Instructor or a Helper at a workshop
-- Attend an Instructor Meeting, regional call, or other community programming
+- Attend a regional call, skill-up session, or other community programming
 - Submit a contribution to a Lesson, Glossario, or other Carpentries repository
 
 ### Serve as an Instructor or Helper at a Carpentries Workshop
@@ -186,7 +186,7 @@ workshop website link.
 Did you serve as a Helper or un-certified co-Instructor before you attended Instructor Training? 
 That counts! 
 
-### Attend an Instructor Meeting, Regional Call, or Other Community Programming
+### Attend a Regional Call, Skill-Up Session, or Other Community Programming
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these 
 sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community 
 programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the 
@@ -244,8 +244,8 @@ If you find something that you know how to fix by changing the code of the lesso
 and comment on existing PRs. We will not cover the details here, but there is [a
 community-contributed guide on how to create a PR][github-guide] that can help.
 
-Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The one for this repository
-is [here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
+Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The [guidelines for this repository
+are here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
 
 #### Alternatives to GitHub
 
