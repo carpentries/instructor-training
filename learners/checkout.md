@@ -13,13 +13,14 @@ Briefly, the three steps are:
 
 1. [Attend a Welcome Session](#welcome). A 1-hour onboarding to the Instructor and global Carpentries community.
 2. [Complete a Teaching Demonstration](#demonstration). A 1-hour session where trainees demonstrate 5 minutes of participatory instruction and share feedback, with evaluation by a Carpentries Instructor Trainer.
-3. [Get Involved!](#getinvolved). Choose one more step to further your engagement with The Carpentries.
+3. [Get Involved!](#getinvolved) Choose one more step to further your engagement with The Carpentries.
 
 #### How will the Checkout steps be tracked?
- **For the “Get Involved” step, trainees must login to AMY to report which participation option they would like to have counted.**  Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts.
+ **For the “Get Involved” step, trainees must login to AMY to report which participation option they would like to have counted.**  
+ Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts.
 
 #### Checkout Deadline
-All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
+All trainees have 3 months (90 days) from the end date of their training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
@@ -37,11 +38,11 @@ The purpose of having you attend a Welcome Session is to introduce you to other 
 opportunities for engagement with The Carpentries, and address any new or lingering questions about how 
 it works to volunteer as an Instructor.
 
-Welcome sessions are a specific type of Community Discussion. While you can attend other types, we ask that you attend a welcome session specifically 
-for this step. If you see another session you would like to attend, you are welcome to use that for your [Get Involved step](#getinvolved). 
+Welcome sessions are a specific type of Community Session. While you can attend other types, we ask that you attend a welcome session specifically 
+for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved). 
 
-When signing up on the [Community Discussion Etherpad][discussion], be sure to examine the description of the event to be sure you are registering for a 
-Welcome session. Also, **take care to double check
+Sign up on the [Community Welcome Sessions Etherpad][welcome]. Other types of sessions can be accessed from the [Community Sessions Etherpad][discussion].
+Welcome session. **Take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
 of that Etherpad.
 
@@ -61,7 +62,7 @@ of The Carpentries community.
 
 Welcome sessions are intended for new community members in all roles, with Instructor-specific sections to assist with onboarding as a volunteer 
 in this role. You do not need to do any homework in advance! 
-However, it can help to put a little thought into what questions you have about how workshops work. If you ask a question, there will likely be 
+However, it can help to put a little thought into what questions you have. If you ask a question, there will likely be 
 other people there who also want to hear the answer! Some themes to guide your thinking include:
 
 - what happens after you express interest in teaching a centrally organised workshop 
@@ -107,8 +108,8 @@ teaching from an appropriate episode (other than the one you prepared) or resche
 ### Starting in the Middle
 Demonstrating an episode that falls later in a lesson can be fun! It also helps to ensure that other trainees who choose the same lesson 
 won't all be starting from the same place during the demo session. When selecting an episode that follows others, be aware that some 
-steps may rely on files or folders created or modified in earlier episodes. If you choose an episode with dependencies like this, be sure 
-to have everything 
+steps may rely on files or folders created or modified in earlier episodes. These episodes are labeled on our [recommended episodes page][start-points]. 
+If you choose an episode with dependencies, be sure to have everything 
 in the right place and ready for your start point when you arrive for your demo. 
 
 :::::::::::::::::::::::::::::::::::::::::  callout
@@ -138,7 +139,8 @@ Trainers draw from their own experience and training when they evaluate teaching
 ### Sign-up and Set-up
 
 To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad](https://pad.carpentries.org/teaching-demos), and add
-your name and a link to your chosen episode to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
+your name and a link to your chosen episode to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted. 
+Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
 language (unless you are part of that target group).
 
 The link to connect to the video conference is at the top of the Teaching Demos Etherpad.
@@ -153,7 +155,7 @@ When your five minutes are up, the Trainer leading the session will call time,
 and then you and everyone else taking part in the session will give feedback on your teaching.
 You will be asked to give feedback on yourself as well as on others;
 your Trainer will likely recommend a feedback structure using two axes of positive vs. constructive
-and content vs. presentation, just as you have done during this workshop.
+and content vs. presentation, just as you have done during this training.
 
 ### Languages Other than English
 
@@ -190,10 +192,10 @@ That counts!
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these 
 sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community 
 programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the 
-[Community Discussions Etherpad][discussion] to look for sessions that will work for you!
+[Community Sessions Etherpad][discussion] to look for sessions that will work for you!
 
 ### Contribute to the construction or maintenance of Carpentries materials
-The Carpentries lessons are built, sustained, and improved only through the collaborative effort of our community members. 
+The Carpentries' lessons are built, sustained, and improved only through the collaborative effort of our community members. 
 All Instructors should feel empowered and invited to participate! Taking a first step to walk through the 
 contribution process is a great way to complete your Instructor certification. 
 
@@ -262,7 +264,7 @@ If you do not use GitHub, you may submit your contribution via [this form](https
 At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress.
 That is why we exist! So we appreciate the irony when participation in our community demands tools or technical
 procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
-this is something our community has [discussed extensively][git-blog].
+this is something our community has [discussed extensively][git-blog]. 
 
 We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our
 community in surmounting the barriers presented by our own technologies of choice. Watch our channels for
@@ -340,7 +342,8 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [contact-page]: https://carpentries.org/contact/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [glosario-github]: https://github.com/carpentries/glosario/
-[discussion]: https://pad.carpentries.org/community-discussions
+[discussion]: https://pad.carpentries.org/community-sessions-2023
+[welcome]: https://pad.carpentries.org/welcome-sessions-2023
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
