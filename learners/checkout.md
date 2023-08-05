@@ -157,6 +157,7 @@ You will be asked to give feedback on yourself as well as on others;
 your Trainer will likely recommend a feedback structure using two axes of positive vs. constructive
 and content vs. presentation, just as you have done during this training.
 
+
 ### Languages Other than English
 
 If you want to do your demonstration in a language other than English,
@@ -353,6 +354,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
+[community-calendar]: https://carpentries.org/community/#community-events
 
 
 
