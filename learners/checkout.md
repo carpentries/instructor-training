@@ -197,7 +197,8 @@ programming, [see this blog post](https://carpentries.org/blog/2023/04/new-commu
 ### Contribute to the construction or maintenance of Carpentries materials
 The Carpentries' lessons are built, sustained, and improved only through the collaborative effort of our community members. 
 All Instructors should feel empowered and invited to participate! Taking a first step to walk through the 
-contribution process is a great way to complete your Instructor certification. 
+contribution process is a great way to complete your Instructor certification.  
+If you would like help making a lesson contribution consider making a post in the #first-time-contributors channel on [The Carpentries Slack][slack]. This channel is overseen by our Curriculum team and can be useful for contribution questions long after you have completed your checkout process. 
 
 #### Why Contribute to Carpentries Lessons?
 If you are interested in getting involved in The Carpentries, you may also be interested in becoming more involved in the 
@@ -348,6 +349,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
 [start-points]: https://carpentries.github.io/instructor-training/demo_lessons
+[slack]: https://swc-slack-invite.herokuapp.com/
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
