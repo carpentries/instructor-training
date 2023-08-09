@@ -47,11 +47,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [August 15-18, 2023](https://www.eventbrite.com/e/online-instructor-training-august-15-18-2023-tickets-649135079497)
-
-**Four 4-hour days:**  9 am to 1 pm N. America Eastern Time / 3 pm to 7 pm Central European Summer Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20230815T09&p1=179&ah=4)
-
-<hr>
 
 #### [August 22-25, 2023](https://www.eventbrite.com/e/online-instructor-training-22-25-august-2023-tickets-661118482177)
 
