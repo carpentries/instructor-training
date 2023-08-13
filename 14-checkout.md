@@ -10,7 +10,7 @@ need to take after this training to become a fully certified Carpentries Instruc
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe the final steps required to qualify as an Instructor.
-- Schedule your community discussion session.
+- Schedule a checkout step.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -22,14 +22,14 @@ need to take after this training to become a fully certified Carpentries Instruc
 
 ## Instructor Checkout
 
-After completing the Instructor Training workshop, there are [three final steps to complete](checkout.md) before qualifying as an Instructor.
+After attending Instructor Training, there are [three final steps to complete](checkout.md) before qualifying as an Instructor.
 Briefly, the three steps are:
 
-1. Make a small contribution to a lesson or glossary.
-2. Take part in an online community discussion session.
-3. Take part in an online teaching demonstration session.
+1. Take part in a Community Welcome session.
+2. Successfully demonstrate participatory instruction in a Teaching Demonstration session, as approved by a Carpentries Instructor Trainer.
+3. Choose another step to 'Get Involved' with The Carpentries, and submit this to our database, AMY.
 
-All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
+All trainees have 90 days from the end date of your training to complete checkout. If you need more time,
 3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 Extensions may be granted for any reason up to 1 year from your training date.
 
@@ -50,18 +50,16 @@ This exercise should take about 10 minutes.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Schedule a Discussion or Demo
+## Schedule a Checkout Step
 
-Visit the discussion Etherpad to sign up for a session: [https://pad.carpentries.org/community-discussions](https://pad.carpentries.org/community-discussions)
-If the session you would like to attend is full, contact the discussion
-host and co-host to ask if you can attend.
+Take a moment to review your calendar and sign up for one or more sessions to get your checkout process rolling!
 
-If you would prefer to do your teaching demonstration before your discussion,
-visit the demo Etherpad and sign up there: [https://pad.carpentries.org/teaching-demos](https://pad.carpentries.org/teaching-demos)
-This demo [rubric](demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
+Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-sessions-2023>
 
-If these pages are hard to navigate or you cannot find a suitable time, save these links where
-you can find them again and make a note to schedule these steps for your checkout process.
+Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
+
+If you would like to attend another community session for your 'Get Involved' step, visit the 
+Community Sessions Etherpad: <https://pad.carpentries.org/community-sessions-2023>
 
 This exercise should take 5 minutes.
 
@@ -69,13 +67,13 @@ This exercise should take 5 minutes.
 
 ### What does a badge mean?
 
-- **You can teach any Carpentries workshops!** Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
+- **You can teach any Carpentries workshops!** Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. You can teach branded workshops locally, or network with experienced co-Instructors as a volunteer with our global community. While local co-Instructors need not be badged or experienced, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
 - **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
 - **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To certify, you must contribute to a lesson, take part in a discussion, and do a teaching demo within 90 days of your training event.
+- To certify, you must take part in a Welcome Session, pass a Teaching Demonstration, and share an additional step you have taken to 'Get Involved' with The Carpentries within 90 days of your training event.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
