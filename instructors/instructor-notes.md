@@ -53,7 +53,7 @@ Details about the Instructor Trainer role including the application process, dut
 ### Immediately after the event
 
 - Send a list of those who completed the training to checkout@carpentries.
-- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See template [here][post-template].
+- Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See [template][post-template].
 - Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].
 - File any relevant issues or PRs to the [instructor training repo][training-repo].
 
@@ -298,9 +298,7 @@ Suggested points to make during introductions:
 - The feedback you give sometimes says as much or more about your approach to instruction as the demo itself. (KW)
 - Have trainees introduce themselves (name and institution or location) at the start. This makes sure everyone knows where the
   mute button is. (EB)
-- I have already determined a random order for you each to do your demonstration. When it is your turn, I will tell you what
-  episode you will be teaching from, and
-  you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the
+- I have already determined a random order for you each to do your demonstration. When it is your turn, you will have a minute or two to set up your screen. You will screen share (describe where the button is) and will have the
   option to share your whole Desktop or just a single application. I recommend sharing only the application you will be teaching
   from, that way you can keep your notes up on your screen without us seeing them. It is perfectly fine to teach using your
   notes - that is how I always teach. (EB)
