@@ -74,7 +74,7 @@ other people there who also want to hear the answer! Some themes to guide your t
 
 ### In-Person and Virtual Alternatives
 
-Occasionally, a special in-person Welcome Session may be approved to occur in-person. This is most common in areas with limited internet
+Occasionally, a Welcome Session may be approved to occur in-person. This is most common in areas with limited internet
 access or in association with larger events like conferences or extended workshops. 
 
 ### Getting Credit
