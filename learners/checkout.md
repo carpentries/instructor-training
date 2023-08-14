@@ -42,7 +42,7 @@ Welcome sessions are a specific type of Community Session. While you can attend 
 for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved). 
 
 Sign up on the [Community Welcome Sessions Etherpad][welcome]. Other types of sessions can be accessed from the [Community Sessions Etherpad][discussion].
-Welcome session. **Take care to double check
+**Take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
 of that Etherpad.
 
