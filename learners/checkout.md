@@ -177,6 +177,7 @@ after you have attended your teaching demonstration.
 The purpose of this step is to encourage you to take a first step towards further engagement with 
 The Carpentries, choosing a path that works well for you. Any participation in Carpentries activities 
 or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started:
+
 - Serve as an Instructor or a Helper at a workshop
 - Attend a regional call, skill-up session, or other community programming
 - Submit a contribution to a Lesson, Glossario, or other Carpentries repository
