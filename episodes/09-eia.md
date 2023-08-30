@@ -334,7 +334,7 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
-[slack-join]: https://swc-slack-invite.herokuapp.com/
+[slack-join]: https://slack-invite.carpentries.org
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
