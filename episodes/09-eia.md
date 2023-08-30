@@ -168,7 +168,7 @@ instruction more accessible.
   that are both quick to accomplish and minimal in demands on attention:
   font choices, text size,
   checking in advance that your room is accessible via an elevator or ramp, etc.
-  
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -333,8 +333,8 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 [post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
-[slack-join]: https://swc-slack-invite.herokuapp.com/
+[slack-accessibility]: https://carpentries.slack.com/archives/CBDTKM30Q
+[slack-join]: https://slack-invite.carpentries.org
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
