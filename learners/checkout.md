@@ -351,7 +351,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
 [start-points]: https://carpentries.github.io/instructor-training/demo_lessons
-[slack]: https://swc-slack-invite.herokuapp.com/
+[slack]: https://slack-invite.carpentries.org
 [r-gapminder-episode]: https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1
 [trainee-profile]: https://amy.carpentries.org/workshops/trainee-dashboard/
 [instructors-page]: https://carpentries.org/instructors/
