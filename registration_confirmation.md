@@ -1,7 +1,6 @@
 ---
 title: Registration Confirmation Page
 exclude: yes
-permalink: /confirmation/
 ---
 
 # Thank you for registering!
