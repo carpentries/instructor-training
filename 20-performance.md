@@ -42,7 +42,7 @@ This exercise should take about 10 minutes for rubric discussion, 25 minutes for
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- (Reflective) Practice makes perfect.
+- (Reflective) Practice makes progress.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
