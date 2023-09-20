@@ -5,8 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-## Examining Your Expertise
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain what differentiates an expert from a competent practitioner.
@@ -22,6 +20,8 @@ exercises: 25
 - How are we (as Instructors) different from our learners and how does this impact our teaching?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Examining Your Expertise
 
 In the last episode, we discussed the transition from novice to competent practitioner through
 formation of a functional mental model. We now shift our attention to experts. The expert we want to talk about is you!
