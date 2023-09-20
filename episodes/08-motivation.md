@@ -5,8 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-## Motivation Matters
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify authentic tasks and explain why teaching them is important.
@@ -21,6 +19,8 @@ exercises: 30
 - How can we create a motivating environment for learners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
 necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated
