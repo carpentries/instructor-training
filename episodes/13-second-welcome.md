@@ -5,9 +5,6 @@ teaching: 5
 exercises: 5
 ---
 
-To refresh as we enter the second half of this workshop, the goal of this training is prepare
-you to be a certified Carpentries Instructor, which includes the following:
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Review main points we discussed in parts 1 and 2.
@@ -21,6 +18,9 @@ you to be a certified Carpentries Instructor, which includes the following:
 - What will we focus on next?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+To refresh as we enter the second half of this workshop, the goal of this training is prepare
+you to be a certified Carpentries Instructor, which includes the following:
 
 - be familiar with and understand how to apply research-based teaching principles,
   especially as they apply to The Carpentries audience.
