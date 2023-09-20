@@ -5,8 +5,6 @@ teaching: 20
 exercises: 20
 ---
 
-## A Positive Environment for All
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify instructional strategies that are consistent with universal design.
@@ -21,6 +19,8 @@ exercises: 20
 - What can I do enhance equity, inclusion, and accessibility in my workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A Positive Environment for All
 
 As we have seen, there are many teaching practices that can make your workshop more positive and welcoming.
 However, no workshop occurs in a vacuum: everyone's experiences begin and end and are influenced by the world beyond.
