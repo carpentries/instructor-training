@@ -5,14 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-In becoming a certified [Carpentries Instructor](https://carpentries.org/instructors/),
-you are also becoming part of a community of like-minded volunteers. Our most
-active members draw upon this community for support and mentorship, pursuing goals that
-matter to them and creating relationships across the globe.
-This section provides some background on
-[The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
-ways you might wish to participate (including by teaching workshops!).
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 - CK: Not an "official" exercise, but after explaining the workshops and how to run them,
@@ -47,6 +39,14 @@ ways you might wish to participate (including by teaching workshops!).
 - How do you run a Carpentries workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+In becoming a certified [Carpentries Instructor](https://carpentries.org/instructors/),
+you are also becoming part of a community of like-minded volunteers. Our most
+active members draw upon this community for support and mentorship, pursuing goals that
+matter to them and creating relationships across the globe.
+This section provides some background on
+[The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
+ways you might wish to participate (including by teaching workshops!).
 
 ## A Brief History
 
