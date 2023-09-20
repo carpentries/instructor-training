@@ -17,6 +17,7 @@ exercises: 15
 - What needs to be done to prepare for the next part of the workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
 In the first half of this workshop we have focused on understanding some core findings of pedagogical research about how the learning process
 works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
 and gave some opportunities to practice teaching. In the remaining parts of the training, we will continue our discussions of
