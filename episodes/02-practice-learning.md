@@ -5,10 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-We will now get started with a discussion of how learning works. We will begin with
-some key concepts from educational research and identify how these principles
-are put into practice in Carpentries workshops.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Compare and contrast the three stages of skill acquisition.
@@ -26,6 +22,10 @@ are put into practice in Carpentries workshops.
 - How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+We will now get started with a discussion of how learning works. We will begin with
+some key concepts from educational research and identify how these principles
+are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
 
