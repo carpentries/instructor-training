@@ -198,6 +198,16 @@ This discussion should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::: instructor
+
+If trainees seem to be struggling to identify challenges, consider priming them with some ideas from this list or your own experience:
+- Varying prior knowledge
+- More varied interests, expectations and goals for coming to the workshop
+- Getting the pace right with both novice and more advanced learners - more difficult to keep all learners motivated
+- More varied/customised setups at machines used by learners that instructors may be expected to understand/support
+
+:::
+
 Here are some strategies Carpentries
 Instructors have generated to deal with this issue:
 
