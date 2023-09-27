@@ -160,7 +160,7 @@ The main goal of The Carpentries is not to teach specific skills, per se - altho
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
-## Instructor Training Workshop Overview
+## Instructor Training Overview
 
 The goal of this training is to provide you with the skills and information you need
 to become a certified Carpentries Instructor. Our expectations of certified
