@@ -240,8 +240,8 @@ workshops specifically.
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - The Carpentries is a community of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously.
-- This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust.
-- This workshop will cover evidence-based teaching practices and how they apply specifically to The Carpentries.
+- This episode sets the stage for the entire training. The introductions and exercises help everyone begin to develop a relationship and trust.
+- This training will cover evidence-based teaching practices and how they apply specifically to The Carpentries.
 - Learner motivation and prior knowledge vary widely, and can be quickly assessed with a multiple choice question.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
