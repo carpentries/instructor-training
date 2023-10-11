@@ -44,13 +44,6 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 New trainings are added to this calendar on a quarterly basis.
 
-
-<hr>
-
-#### [October 17-18, 2023](https://www.eventbrite.com/e/online-instructor-training-17-18-october-2023-tickets-711572220667)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / 2 pm to 10 pm British Summer Time [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231017T09&p1=77&ah=8)
-
 <hr>
 
 
