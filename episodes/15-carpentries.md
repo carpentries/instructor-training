@@ -279,7 +279,7 @@ ways to keep in touch, and we do our best to make that possible.
 Want to **listen**?
 
 - Sign up for our newsletter
-- Follow us on Twitter, Facebook, or LinkedIn
+- Follow us on Mastodon or LinkedIn
 
 Want to **interact** (or listen with options to engage)?
 
