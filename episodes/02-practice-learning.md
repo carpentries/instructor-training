@@ -91,7 +91,7 @@ for how we teach.
 
 ## Building a Mental Model
 
-:::::::::::::::::::::::::::::::::::::  testimonial
+:::::::::::::::::::::::::::::::::::::  callout
 
 All models are wrong, but some are useful.
 
