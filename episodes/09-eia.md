@@ -133,7 +133,7 @@ The key to UDL is creating redundancies such that learners have multiple options
 
 ## Activity: Applying Universal Design in Your Teaching
 
-Consider some of the teaching tools and strategies we have discussed so far in this workshop, or others you have observed in your experience.
+Consider some of the teaching tools and strategies we have discussed so far in this training, or others you have observed in your experience.
 How do these meet UDL goals of providing multiple options for learners?
 
 Consider multiple ways for learners to:

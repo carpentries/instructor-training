@@ -5,7 +5,7 @@ teaching: 5
 exercises: 5
 ---
 
-To refresh as we enter the second half of this workshop, the goal of this training is prepare
+To refresh as we enter the second half of this training, the goal of this training is prepare
 you to be a certified Carpentries Instructor, which includes the following:
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -43,7 +43,7 @@ in The Carpentries is participatory live coding.  We will spend some time practi
 one, you rarely find this approach in a current university setting so it is good
 to try it out, but also, this will give us a chance to continue developing skills
 we discussed so far that help improve our teaching: reflective practice and
-providing (and receiving!) constructive feedback. In the final sections of the workshop,
+providing (and receiving!) constructive feedback. In the final sections of the training,
 we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
 
 :::::::::::::::::::::::::::::::::::::::  challenge

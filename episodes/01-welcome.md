@@ -100,7 +100,7 @@ instructor training.  We are very pleased to have you with us.
 To begin class, each Trainer should give a brief introduction of themselves.
 
 (For some guidelines on introducing yourself, see some content from
-later in the training: [Workshop Introductions](23-introductions.md))
+later in the training: [Introductions](23-introductions.md))
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
