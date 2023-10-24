@@ -46,14 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-
-#### [November 1-2, 2023](https://www.eventbrite.com/e/online-instructor-training-1-2-november-2023-tickets-711574066187)
-
-**Two 8-hour days:**   9 am to 5 pm N. America Eastern Time / 1 pm to 9 pm UTC /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231101T09&p1=77&ah=8)
-
-<hr>
-
-
 #### [November 7-10, 2023](https://www.eventbrite.com/e/online-instructor-training-7-10-november-2023-tickets-711576483417)
 
 **Four 4-hour days:** 9 am to 1 pm Central European Time / 1:30 pm to 5:30 pm India Standard Time   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231107T09&p1=195&ah=4)
