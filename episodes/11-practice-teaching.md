@@ -5,13 +5,6 @@ teaching: 20
 exercises: 40
 ---
 
-So far, we have focused on how we can be effective instructors by understanding
-how people learn and how to create a positive classroom environment, covering
-two of our primary goals in helping you become a certified Carpentries Instructor.
-Now our focus will shift to developing additional teaching skills that you can
-use in a Carpentries workshop setting, starting with the process of "lesson study",
-or teaching observation and feedback.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Use peer-to-peer lesson practice to transform your instruction.
@@ -25,6 +18,13 @@ or teaching observation and feedback.
 - How can I improve my teaching?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+So far, we have focused on how we can be effective instructors by understanding
+how people learn and how to create a positive classroom environment, covering
+two of our primary goals in helping you become a certified Carpentries Instructor.
+Now our focus will shift to developing additional teaching skills that you can
+use in a Carpentries workshop setting, starting with the process of "lesson study",
+or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 

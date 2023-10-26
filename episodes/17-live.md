@@ -5,14 +5,6 @@ block: Building Teaching Skill
 teaching: 20
 exercises: 45
 ---
-
-One of the cornerstones of The Carpentries teaching is live
-coding: *instructors do not use slides to teach coding*, but work through the lesson material,
-typing in the code or instructions, with the workshop participants following
-along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation. We will
-finish this section by practicing ourselves and providing feedback for each other.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain the advantages and limitations of participatory live coding.
@@ -26,6 +18,13 @@ finish this section by practicing ourselves and providing feedback for each othe
 - Why do we teach using participatory live coding?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+One of the cornerstones of The Carpentries teaching is live
+coding: *instructors do not use slides to teach coding*, but work through the lesson material,
+typing in the code or instructions, with the workshop participants following
+along. This section explains how it works, why we use it, and
+gives general tips for an effective participatory live coding presentation. We will
+finish this section by practicing ourselves and providing feedback for each other.
 
 ## Why Participatory Live Coding?
 
