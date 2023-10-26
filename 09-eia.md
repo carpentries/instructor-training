@@ -133,7 +133,7 @@ The key to UDL is creating redundancies such that learners have multiple options
 
 ## Activity: Applying Universal Design in Your Teaching
 
-Consider some of the teaching tools and strategies we have discussed so far in this workshop, or others you have observed in your experience.
+Consider some of the teaching tools and strategies we have discussed so far in this training, or others you have observed in your experience.
 How do these meet UDL goals of providing multiple options for learners?
 
 Consider multiple ways for learners to:
@@ -278,7 +278,7 @@ groups in your community who may be interested in attending.
 One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct][coc].
 
-All participants in our workshops and communities are required to abide by the
+All participants in our workshops, activities and communities are required to abide by the
 [Code of Conduct][coc].
 This code helps to ensure that our community does not tolerate the persistence of behaviors
 that harm or exclude others. While such a code cannot prevent all incidents, reminding

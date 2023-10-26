@@ -7,9 +7,9 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify common ground with some of your fellow workshop participants.
+- Identify common ground with some of your fellow participants.
 - Understand a general structure and core goals of The Carpentries.
-- Predict what will and will not be covered in this workshop.
+- Predict what will and will not be covered in this training.
 - Know where to find The Carpentries Code of Conduct and how to report an incident.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -17,13 +17,13 @@ exercises: 15
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - What is The Carpentries and how do we approach teaching?
-- What should you expect from this workshop?
+- What should you expect from this training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::instructor
-In an online workshop, ensure that captions are turned on.
+In an online training, ensure that captions are turned on.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -33,9 +33,9 @@ In an online workshop, ensure that captions are turned on.
 ## Pronouns and Names
 
 Using correct names and pronouns (e.g. "she/her") is important for setting a respectful tone. Learning these is hard to
-do quickly, so we recommend displaying it prominently during the workshop.
+do quickly, so we recommend displaying it prominently during the training.
 
-In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed.
+In an online training, give everyone a moment to update their display name to reflect how they would like to be addressed.
 
 At an in-person event, we recommend supplying name tags and markers, or using plain paper to create table-displayed name placards.
 
@@ -100,7 +100,7 @@ instructor training.  We are very pleased to have you with us.
 To begin class, each Trainer should give a brief introduction of themselves.
 
 (For some guidelines on introducing yourself, see some content from
-later in the workshop: [Workshop Introductions](23-introductions.md))
+later in the training: [Introductions](23-introductions.md))
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -160,7 +160,7 @@ The main goal of The Carpentries is not to teach specific skills, per se - altho
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
-## Instructor Training Workshop Overview
+## Instructor Training Overview
 
 The goal of this training is to provide you with the skills and information you need
 to become a certified Carpentries Instructor. Our expectations of certified
@@ -187,7 +187,7 @@ findings and demonstrating how they can be used to help people learn better and 
 
 Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.
-We will have many opportunities to practice and give each other feedback throughout this workshop.
+We will have many opportunities to practice and give each other feedback throughout this training.
 
 ### Creating a Positive Learning Environment
 
@@ -211,7 +211,7 @@ Instructor Trainers at this event is your first step into The Carpentries commun
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
 familiarity with some of the content through the exercises),
-This workshop is a significant requirement for becoming a certified Carpentries Instructor.
+This training is a significant requirement for becoming a certified Carpentries Instructor.
 The additional steps for certification, called *Checkout*, will require that you dig into the workshop content yourself. We will talk about checkout requirements more in part 3 of this training.
 
 We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development,
@@ -240,8 +240,8 @@ workshops specifically.
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - The Carpentries is a community of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously.
-- This episode sets the stage for the entire workshop. The introductions and exercises help everyone begin to develop a relationship and trust.
-- This workshop will cover evidence-based teaching practices and how they apply specifically to The Carpentries.
+- This episode sets the stage for the entire training. The introductions and exercises help everyone begin to develop a relationship and trust.
+- This training will cover evidence-based teaching practices and how they apply specifically to The Carpentries.
 - Learner motivation and prior knowledge vary widely, and can be quickly assessed with a multiple choice question.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
