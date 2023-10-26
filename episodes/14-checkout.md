@@ -4,9 +4,6 @@ teaching: 15
 exercises: 15
 ---
 
-In this short episode, we will take a moment to review the actions you will
-need to take after this training to become a fully certified Carpentries Instructor.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe the final steps required to qualify as an Instructor.
@@ -19,6 +16,9 @@ need to take after this training to become a fully certified Carpentries Instruc
 - What do I need to do to finish certifying as a Carpentries Instructor?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+In this short episode, we will take a moment to review the actions you will
+need to take after this training to become a fully certified Carpentries Instructor.
 
 ## Instructor Checkout
 

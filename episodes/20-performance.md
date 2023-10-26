@@ -5,9 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-Continuing our theme of developing practical Carpentries teaching skills,
-this section provides another chance to practice live coding, to go through the
-process of observing and giving feedback, and to make changes to how we teach based on the feedback of others.
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -20,6 +17,10 @@ process of observing and giving feedback, and to make changes to how we teach ba
 - How did you change your teaching in response to feedback?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+Continuing our theme of developing practical Carpentries teaching skills,
+this section provides another chance to practice live coding, to go through the
+process of observing and giving feedback, and to make changes to how we teach based on the feedback of others.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 

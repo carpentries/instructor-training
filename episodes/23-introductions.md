@@ -5,16 +5,6 @@ teaching: 10
 exercises: 30
 ---
 
-When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery,
-creating plans to listen and respond to learners during a workshop. But within that, there are two time points that make a big difference to a
-workshop experience: the introduction and the conclusion. 
-
-Because these take time away from content instruction, it can be tempting to avoid investing precious
-preparation and class time to these sections. However, a strong introduction sets the tone for your workshop, teaches learners how to engage, and inspires
-confidence that learners will get what they need. A solid conclusion helps learners to solidify what they have learned and plan their next steps, and sends 
-everyone -- including Instructors and Helpers -- home with a sense of accomplishment. In this section, we will work together to identify ingredients that can
-make these moments stand out and dedicate some practice time as well.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Connect goals of an introduction with options for content and delivery.
@@ -28,6 +18,16 @@ make these moments stand out and dedicate some practice time as well.
 - How do you actually start a workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+When preparing to teach a workshop, it is normal to focus on the content. We hope that our discussions so far have also encouraged you to prepare your delivery,
+creating plans to listen and respond to learners during a workshop. But within that, there are two time points that make a big difference to a
+workshop experience: the introduction and the conclusion. 
+
+Because these take time away from content instruction, it can be tempting to avoid investing precious
+preparation and class time to these sections. However, a strong introduction sets the tone for your workshop, teaches learners how to engage, and inspires
+confidence that learners will get what they need. A solid conclusion helps learners to solidify what they have learned and plan their next steps, and sends 
+everyone -- including Instructors and Helpers -- home with a sense of accomplishment. In this section, we will work together to identify ingredients that can
+make these moments stand out and dedicate some practice time as well.
 
 ## Launching your Workshop: The Introduction
 

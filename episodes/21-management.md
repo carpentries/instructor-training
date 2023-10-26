@@ -5,8 +5,6 @@ teaching: 30
 exercises: 40
 ---
 
-## Never Teach Alone
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify potential challenges of teaching learners with very different backgrounds and skill levels.
@@ -24,6 +22,8 @@ exercises: 40
 - How does an instructional team prepare for a workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Never Teach Alone
 
 One of the greatest strengths of Carpentries workshops compared with many other instructional settings is that workshops are prepared and executed
 by more than one person. We ask that at least two Instructors teach in every workshop, and some workshops may have many more! During the workshop,
