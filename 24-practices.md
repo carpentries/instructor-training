@@ -4,8 +4,6 @@ teaching: 5
 exercises: 15
 ---
 
-We are almost done with our training!  At this point, we have covered many, many topics
-around teaching and learning, especially in the context of Carpentries workshops.
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -18,7 +16,11 @@ around teaching and learning, especially in the context of Carpentries workshops
 - How are the teaching practices we have learned used in our workshops?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+We are almost done with our training!  At this point, we have covered many, many topics
+around teaching and learning, especially in the context of Carpentries workshops.
 
+  
 Carpentries instructors use a set of teaching techniques based on evidence from
 educational research. We have talked about some of these techniques explicitly
 (e.g. participatory live coding and formative assessment), and others we have been modeling throughout

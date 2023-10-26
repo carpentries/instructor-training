@@ -5,10 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-In our final topic in how people learn (and therefore, how we can be more
-effective instructors), we will be learning more about human memory:
-specifically, how to remove unnecessary "load" in order to facilitate learning.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Remember the quantitative limit of human memory.
@@ -23,6 +19,10 @@ specifically, how to remove unnecessary "load" in order to facilitate learning.
 - How can we design instruction to work with, rather than against, memory constraints?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+In our final topic in how people learn (and therefore, how we can be more
+effective instructors), we will be learning more about human memory:
+specifically, how to remove unnecessary "load" in order to facilitate learning.
 
 ## Types of Memory
 
