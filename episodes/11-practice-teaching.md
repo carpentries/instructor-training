@@ -80,7 +80,7 @@ forward momentum on system-wide improvements to teaching.
 Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
 observing the work of others.  The Carpentries pedagogical model supports lesson
 study by providing many opportunities for our instructors
-to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
+to learn from each other. In this training, you will have opportunities to practice teaching for one another
 and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.

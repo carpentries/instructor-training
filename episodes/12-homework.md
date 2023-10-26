@@ -14,16 +14,15 @@ exercises: 15
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - What have we learned so far?
-- What needs to be done to prepare for the next part of the workshop?
+- What needs to be done to prepare for the next part of the training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
   
-In the first half of this workshop we have focused on understanding some core findings of pedagogical research about how the learning process
+In the first half of this training we have focused on understanding some core findings of pedagogical research about how the learning process
 works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
 and gave some opportunities to practice teaching. In the remaining parts of the training, we will continue our discussions of
 how we build teaching skill and will have more chances for practice and feedback. We will also
 look in some depth at how The Carpentries operates to prepare you for the logistics of teaching a workshop.
-
 
 To prepare for our next session, please:
 

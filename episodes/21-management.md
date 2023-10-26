@@ -307,7 +307,7 @@ promise confidentiality because they are legally required to report certain type
 ## Planning Together
 
 Planning a workshop can be at least as much fun as teaching one. Why? Because this is the stage at which you get to connect
-with the amazing people on your instructional team! One reason why people love the workshop you are taking right now is because
+with the amazing people on your instructional team! One reason why people love the training you are taking right now is because
 they get to meet other Carpentries trainees -- people with shared interests and enthusiasm for sharing technical skills. Yes,
 there is work to do when planning a workshop! But there is much to be gained in sharing the process.
 

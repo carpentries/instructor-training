@@ -245,7 +245,7 @@ but that does not mean it always works.
 
 ## Mapping Cognitive Load
 
-Look in the curriculum that you chose to prepare for this workshop and focus on one step or task
+Look in the curriculum that you chose to prepare for this training and focus on one step or task
 that learners will be asked to complete.
 
 1. What concepts will learners need to understand and hold in short-term memory in order to complete this task?
@@ -289,7 +289,7 @@ a question and get a room filled with silence, you may need an icebreaker, you m
 ### What to Display
 
 The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps
-any of the Instructor Training curriculum during your time as a learner in this workshop. In most situations **we do not recommend
+any of the Instructor Training curriculum during your time as a learner in this training. In most situations **we do not recommend
 displaying Carpentries curriculum materials** to your learners while you teach.
 
 The visual environment in a workshop should be focused on exactly what you are teaching and should mirror,
