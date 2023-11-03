@@ -114,8 +114,8 @@ certified instructors.
 
 ## Local Support
 
-There is a helpful list for planning here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist]. We recommend at least a 1:8
-helper-to-learner ratio for in-person workshops and more (e.g. 1:5) if teaching online.
+There are a number of helpful [Workshop Checklists and Suggestions][docs-workshop-checklists] in the handbook. The Helper checklist recommends at least a 1:10
+helper-to-learner ratio for in-person workshops (not counting instructors) and more if teaching online.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -318,7 +318,7 @@ This exercise should take about 5 minutes.
 [LIBERQ]: https://www.liberquarterly.eu/article/10.18352/lq.10176/
 [values-page]: https://carpentries.org/values/
 [workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
-[docs-helper-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
+[docs-workshop-checklists]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [membership-page]: https://carpentries.org/membership/
