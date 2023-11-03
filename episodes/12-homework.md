@@ -38,21 +38,17 @@ To prepare for our next session, please:
   Remember, imperfect presentations can generate useful feedback!
   If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
   
-  - Data Carpentry
-    
+  - Data Carpentry   
     - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
     - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
     - [Starting with Data in R](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
     - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
-  
-  - Library Carpentry
-    
+    - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
+  - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
     - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops.html)
-  
-  - Software Carpentry
-    
+  - Software Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
     - [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)
     - [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select.html)
