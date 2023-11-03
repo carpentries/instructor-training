@@ -259,13 +259,13 @@ Select one role from the list below that interests you. Using the the descriptio
   would like to see that are not listed? Note that, too!
 
 1. Executive Council
-2. Mentors
-3. Instructor Trainers
-4. Lesson Developers
-5. Code of Conduct Committee
-6. Instructor Development Committee
-7. Community Facilitators
-8. Maintainers
+2. Instructor development
+3. Trainers
+4. Lesson developers
+5. Curriculum advisors
+6. Lesson maintainers
+7. Regional Coordinators
+8. Code of Conduct Committee
 
 This exercise should take about 5 minutes.
 
