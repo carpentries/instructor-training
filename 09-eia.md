@@ -69,6 +69,15 @@ This exercise should take about 5 minutes.
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely.
 What barriers might be present in your workshop, and what can you do to remove them?
 
+::::::::::::::::::::::::::::::::::::::: instructor
+
+In your discussion of accessibility, it is helpful to point out that accessibility may not alway affect only individual learners,
+such as persons with disabilities. Geographic and social differences can present barriers to accessibility for entire groups.
+People in rural regions or institutions with unreliable electicity and internet access, for example, face extra barriers to
+participating in online Carpentries workshops, instructor trainings, and community events.
+
+:::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## What Happens When Accessibility is an Issue?
