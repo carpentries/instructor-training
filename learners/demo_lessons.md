@@ -73,7 +73,7 @@ Use the links below to jump to the starting points information for a particular 
 
 ### Data Carpentry: Genomics {#dc-genomics}
 
-If you are an instructor in training and wish to use lessons from Data Carpentry's Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/teaching_demos/) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
+If you are an instructor in training and wish to use lessons from Data Carpentry's Genomics curriculum for your teaching demo, please read [these instructions](https://datacarpentry.org/genomics-workshop/instructor/teaching_demos.html) to be sure you are prepared. You must follow these steps before your teaching demo, or you will be asked to reschedule.
 
 |  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
