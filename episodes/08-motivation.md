@@ -202,7 +202,7 @@ The typos are the pedagogy.
 ## Choosing our Praises
 
 Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these examples
-of praise do you think are based on performance, effort, or improvement?
+of praise do you think are based on performance, ability, effort, or improvement?
 
 1. That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
 2. You're getting to be really good at that. See how it pays to keep at it?
