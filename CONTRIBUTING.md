@@ -46,8 +46,8 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1. If you wish to change this lesson,
-  please work in [https://github.com/swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice),
-  which can be viewed at [https://swcarpentry.github.io/shell-novice](https://swcarpentry.github.io/shell-novice).
+  please work in [https://github.com/carpentries/instructor-training](https://github.com/carpentries/instructor-training),
+  which can be viewed at [https://carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training).
 
 2. If you wish to change the example lesson,
   please work in [https://github.com/carpentries/lesson-example](https://github.com/carpentries/lesson-example),
@@ -109,7 +109,7 @@ In brief:
 1. The published copy of the lesson is in the `gh-pages` branch of the repository
   (so that GitHub will regenerate it automatically).
   Please create all branches from that,
-  and merge the [master repository][repo]'s `gh-pages` branch into your `gh-pages` branch
+  and merge the [upstream repository][repo]'s `gh-pages` branch into your `gh-pages` branch
   before starting work.
   Please do *not* work directly in your `gh-pages` branch,
   since that will make it difficult for you to work on other contributions.
@@ -119,7 +119,7 @@ In brief:
   1. Create a new branch in your desktop copy of this repository for each significant change.
   2. Commit the change in that branch.
   3. Push that branch to your fork of this repository on GitHub.
-  4. Submit a pull request from that branch to the [master repository][repo].
+  4. Submit a pull request from that branch to the [upstream repository][repo].
   5. If you receive feedback,
     make changes on your desktop and push to your branch on GitHub:
     the pull request will update automatically.
@@ -141,11 +141,11 @@ You can also [reach us by email][contact].
 [github]: https://github.com
 [contact]: mailto:admin@software-carpentry.org
 [github-join]: https://github.com/join
-[issues]: https://github.com/swcarpentry/shell-novice/issues/
+[issues]: https://github.com/carpentries/instructor-training/issues/
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[repo]: https://github.com/swcarpentry/shell-novice/
+[repo]: https://github.com/carpentries/instructor-training/
 [github-flow]: https://guides.github.com/introduction/flow/
 [discuss-list]: https://lists.software-carpentry.org/listinfo/discuss
 
