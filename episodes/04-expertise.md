@@ -278,7 +278,7 @@ This does *not* mean that they are not important,
 or are not worth learning,
 but if our aim is to convince people that they can learn this stuff,
 and that doing so will help them do more research faster,
-they are less compelling than things like automating repetitive tasks.
+computer science concepts are less compelling than things like automating repetitive tasks.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
