@@ -205,10 +205,10 @@ give you more to work with!
 2. Individually, spend 5 minutes preparing a 90-second introduction to the topic of
   the lesson episode you chose before the start of the training course. You will not
   be live coding.
-3. Get together with your group and have one person teach their segment to the group.
+3. Get together with your group and have one person introduce their lesson episode to the group.
   Keep a strict time limit of 90 seconds per person (one person
   should be responsible for the timekeeping).
-4. After the first person has finished teaching, share feedback. The person who performed
+4. After the first person has finished their introduction, share feedback. The person who performed
   should start by offering feedback on themselves. The timekeeper should help to keep
   feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
 5. Rotate roles and repeat steps 3 \& 4
@@ -221,7 +221,7 @@ give you more to work with!
   the lesson episode you chose before the start of the training course. You will not
   be live coding; you can use a whiteboard or other visual aids if available (but
   this is not required!).
-3. Get together with your group and have each person teach their segment to the group,
+3. Get together with your group and have each person introduce their lesson episode to the group,
   while one person records this (video and audio)
   using a cell phone or some other handheld device.
   Keep a strict time limit of 90 seconds per person (one person
@@ -232,7 +232,7 @@ give you more to work with!
   the audience becomes the instructor,
   the person who was recording becomes the audience)
   and then rotate roles again.
-5. After everyone in the group of three has finished teaching,
+5. After everyone in the group of three has finished their introduction,
   watch the videos as a group.
   Everyone gives feedback on all three videos,
   i.e., people give feedback on themselves as well as on others.
