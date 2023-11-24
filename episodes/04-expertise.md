@@ -247,6 +247,7 @@ moving on, the more this implication is magnified.
 Instead, consider asking "What questions do you have?" and leaving a healthy pause for consideration.
 This firmly establishes an expectation that
 people will, indeed, have questions, and should challenge themselves to formulate them.
+By additionally sign-posting upcoming Q&A periods, learners can mentally prepare and are less put on the spot.
 
 ## You Are Not Your Learners
 
