@@ -46,20 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-
-#### [December 5-8, 2023](https://www.eventbrite.com/e/online-instructor-training-5-8-december-2023-tickets-711576994947)
-
-**Four 4-hour days:** 9 am to 1 pm UTC / 2:30 pm to 6:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231205T09&p1=136&ah=4)
-
-<hr>
-
-
-#### [December 7-8, 2023](https://www.eventbrite.com/e/online-instructor-training-7-8-december-2023-tickets-711578268757)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Central Time / 7 am to 3 pm N. America Pacific time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231207T09&p1=64&ah=8)
-
-<hr>
-
 ### Accommodations
 
 We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
