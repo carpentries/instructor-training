@@ -64,9 +64,9 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [February 19-22 2024](https://www.eventbrite.com/e/online-instructor-training-february-19-22-2024-tickets-770322203447)
+#### [February 20-23 2024](https://www.eventbrite.com/e/online-instructor-training-february-20-23-2024-tickets-770322203447)
 
-**Four 4-hour days:** 9 am to 1 pm Bangladesh Standard Time / 1 pm to 5 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240219T09&p1=73&ah=4)
+**Four 4-hour days:** 9 am to 1 pm Bangladesh Standard Time / 1 pm to 5 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240220T09&p1=73&ah=4)
 
 <hr>
 
