@@ -76,11 +76,11 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [March 18-21 2024](https://www.eventbrite.com/e/online-instructor-training-march-18-21-2024-tickets-770332233447)
+<!-- #### [March 18-21 2024](https://www.eventbrite.com/e/online-instructor-training-march-18-21-2024-tickets-770332233447)
 
 **Four 4-hour days:** 9 am to 5 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240318T09&p1=187&ah=4)
 
-<hr>
+<hr> -->
 
 #### [March 26-29 2024](https://www.eventbrite.com/e/online-instructor-training-march-26-29-2024-tickets-770354108877)
 
