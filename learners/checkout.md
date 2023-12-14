@@ -135,6 +135,14 @@ are made with your interests at heart -- we want you to be prepared for success 
 Trainers draw from their own experience and training when they evaluate teaching demonstrations, but we do provide a
 [rubric][demos-rubric] for their reference. This can be a helpful resource as you prepare.
 
+::::::::::::::::::::::::::::::::::::::::: callout
+
+## Practicing What We Preach
+Participants in Instructor Training have often asked to see their Instructor Trainer model a teaching demonstration, but there is never enough time in these 2-day events! 
+In November, 2023, 4 Instructor Trainers attended a community session in which they modeled the entire process of a teaching demo. Thanks to their efforts, 
+you can now view a [recording of this session](https://youtu.be/3NCpPk8jvQo?si=hS4DYWpir25G6y13) to help you prepare for your demo.
+
+:::::::::::::::::::::::::::::::::::::::::::::
 
 ### Sign-up and Set-up
 
