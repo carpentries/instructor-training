@@ -61,14 +61,32 @@ for further reading:
 ## Before The Course Begins
 
 
+:::::::::::::::::::::::::::::::::::::::  instructor
 
+## Getting to know each other
+
+There are multiple ways to build a sense of community early in an instructor training event 
+and help ensure participants engage fully with one another. Some example activities are:
+
+- Include an [icebreaker question](icebreakers.md) in the sign-in section or separately on the etherpad
+- Invite participants to share their names (and optionally pronouns) verbally and/or share their icebreaker answers
+- Model informal chat as participants come into the room on Day 1, particularly if a number of participants are early or late
+
+Hearing participants say their own names is especially valuable in online workshops with diverse participants whose names may
+be difficult for some trainers and instructor trainees to pronounce.
+
+When planning icebreakers and introductions, it's important to be aware of time considerations, given the number of participants
+and expected timing. Balancing what is done in the etherpad and verbally can help, as can avoiding activities that are likely to 
+encourage longer introductions or extended interaction at this point.
+
+:::::::::::::::::::::::::::::::::::::::  
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Getting to know each other
 
 If the Trainer has chosen an [icebreaker question](icebreakers.md),
-participate by writing your answers in the Etherpad.
+participate by writing your answers in the Etherpad. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
