@@ -259,7 +259,6 @@ Select one role from the list below that interests you. Using the the descriptio
   would like to see that are not listed? Note that, too!
 
 1. Executive Council
-2. Mentors
 3. Instructor Trainers
 4. Lesson Developers
 5. Code of Conduct Committee
