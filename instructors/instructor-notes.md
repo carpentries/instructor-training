@@ -286,7 +286,7 @@ As written, this can run long.  Suggestions:
 
 ## VI. Teaching Demonstration Tips
 
-Here are suggestions from the Trainer Community for the smooth running of your teaching demo. For official/technical guidelines on how to run a demo, see the [Handbook][demos].
+Here are suggestions from the Trainer Community for running a low stress teaching demo. For official/technical guidelines on how to run a demo, see the [Handbook][demos].
 
 Points to make during introductions:
 
