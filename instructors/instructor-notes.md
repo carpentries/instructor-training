@@ -286,9 +286,9 @@ As written, this can run long.  Suggestions:
 
 ## VI. Teaching Demonstration Tips
 
-This section contains tips and tricks on demo hosting that may be contributed by any Trainer describing things that work for them. For official/technical guidelines on how to run a demo, see the [Handbook][demos].
+Here are suggestions from the Trainer Community for running a low stress teaching demo. For official/technical guidelines on how to run a demo, see the [Handbook][demos].
 
-Suggested points to make during introductions:
+Points to make during introductions:
 
 - This is not a high-stakes test! This is a friendly opportunity to give and receive feedback. On occasion, we do invite
   people to return for a second try. If we do this, your follow-up email will contain very clear instructions on exactly what
@@ -304,9 +304,9 @@ Suggested points to make during introductions:
   notes - that is how I always teach. (EB)
 - When your time is up, I will stop you and ask you to give feedback on yourself and then ask others to add their feedback. (EB)
 
-Different ways of managing feedback during the demo:
+Different ways of managing feedback:
 
-- Create your own Etherpad and populate it with episode links, feedback templates, whatever.
+- Create your own Etherpad and populate it with episode links, feedback templates, whatever. For example: [etherpad-teaching-demo-template](https://pad.carpentries.org/teaching-demo-template) (LS)
 - Use +/- content delivery rubric. (Or use "improvement" in place of "-" as suggested by MC). Keep in mind that some learners
   (like some Trainers) do not have the content expertise to be able to fully evaluate that category for all lessons.
 - If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing
@@ -316,7 +316,7 @@ Different ways of managing feedback during the demo:
   mention them in their feedback. Usually, the trainees catch most of the things I wanted to mention, and I can choose just
   one or two things to comment on. (EB)
 
-Suggested points to make during wrap-up:
+Points to make during wrap-up:
 
 - Thank you for your excellent feedback! Instructors like you help to make this community what it is.
 - I will follow up with each of you by email within \_\_\_ (time period). If you do not hear from me by \_\_ feel free to check in.
