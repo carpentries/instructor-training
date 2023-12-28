@@ -46,24 +46,53 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
+#### [February 1-2 2024](https://www.eventbrite.com/e/online-instructor-training-february-1-2-2024-tickets-770295644007)
 
-#### [November 20-23, 2023](https://www.eventbrite.com/e/online-instructor-training-20-23-november-2023-tickets-719778495857?aff=oddtdtcreator)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240201T09&p1=77&ah=8)
 
-**Four 4-hour days:** 9 am to 1 pm Central European Time / 1:30 pm to 5:30 pm India Standard Time   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T09&p1=37&ah=4)
+<hr>
+
+#### [February 7-8 2024](https://www.eventbrite.com/e/online-instructor-training-february-7-8-2024-tickets-770305774307)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240207T09&p1=75&ah=8)
+
+<hr>
+
+#### [February 19-22 2024](https://www.eventbrite.com/e/online-instructor-training-february-19-22-2024-tickets-770311200537)
+
+**Four 4-hour days:** 9 am to 1 pm UTC / 11 am to 3 pm South Africa Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240219T09&p1=136&ah=4)
+
+<hr>
+
+#### [February 20-23 2024](https://www.eventbrite.com/e/online-instructor-training-february-20-23-2024-tickets-770322203447)
+
+**Four 4-hour days:** 9 am to 1 pm Bangladesh Standard Time / 1 pm to 5 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240220T09&p1=73&ah=4)
+
+<hr>
+
+#### [March 4-5 2024](https://www.eventbrite.com/e/online-instructor-training-march-4-5-2024-tickets-770327800187)
+
+**Two 8-hour days:** 9 am to 5 pm N. America Central Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240304T09&p1=64&ah=8)
+
+<hr>
+
+#### [March 18-21 2024](https://www.eventbrite.com/e/online-instructor-training-march-18-21-2024-tickets-770332233447)
+
+**Four 4-hour days:** 9 am to 1 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240318T09&p1=187&ah=4)
+
+<hr>
+
+#### [March 26-29 2024](https://www.eventbrite.com/e/online-instructor-training-march-26-29-2024-tickets-770354108877)
+
+**Four 4-hour days:** 8 am to 12 noon N. America Eastern Time / 1 pm to 5 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240326T13&p1=187&ah=4)
 
 <hr>
 
 
-#### [December 5-8, 2023](https://www.eventbrite.com/e/online-instructor-training-5-8-december-2023-tickets-711576994947)
+### Accommodations
 
-**Four 4-hour days:** 9 am to 1 pm UTC / 2:30 pm to 6:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231205T09&p1=136&ah=4)
-
-<hr>
-
-
-#### [December 7-8, 2023](https://www.eventbrite.com/e/online-instructor-training-7-8-december-2023-tickets-711578268757)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Central Time / 7 am to 3 pm N. America Pacific time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20231207T09&p1=64&ah=8)
-
-<hr>
-
+We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
+However, we do want to help create an inclusive, accessible experience for all participants. 
+We encourage you to share any information that would be helpful to make your Carpentries experience accessible. 
+To request an accommodation for this training, please fill out the [accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0)
+If you have questions or need assistance with the accommodation form please [email us](mailto:instructor.training@carpentries.org).

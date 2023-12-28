@@ -122,7 +122,7 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 ## Analogy Brainstorm
 
 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If
-  you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
+  you prefer to work with an example, consider this analogy from education: "teaching is like gardening."
 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
   convey about the topic? How is it useful? In what ways is it wrong?
 
