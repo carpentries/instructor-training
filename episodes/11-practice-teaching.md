@@ -5,13 +5,6 @@ teaching: 20
 exercises: 40
 ---
 
-So far, we have focused on how we can be effective instructors by understanding
-how people learn and how to create a positive classroom environment, covering
-two of our primary goals in helping you become a certified Carpentries Instructor.
-Now our focus will shift to developing additional teaching skills that you can
-use in a Carpentries workshop setting, starting with the process of "lesson study",
-or teaching observation and feedback.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Use peer-to-peer lesson practice to transform your instruction.
@@ -25,6 +18,13 @@ or teaching observation and feedback.
 - How can I improve my teaching?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+So far, we have focused on how we can be effective instructors by understanding
+how people learn and how to create a positive classroom environment, covering
+two of our primary goals in helping you become a certified Carpentries Instructor.
+Now our focus will shift to developing additional teaching skills that you can
+use in a Carpentries workshop setting, starting with the process of "lesson study",
+or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
@@ -80,7 +80,7 @@ forward momentum on system-wide improvements to teaching.
 Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
 observing the work of others.  The Carpentries pedagogical model supports lesson
 study by providing many opportunities for our instructors
-to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
+to learn from each other. In this training, you will have opportunities to practice teaching for one another
 and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.

@@ -5,8 +5,6 @@ teaching: 20
 exercises: 20
 ---
 
-## A Positive Environment for All
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify instructional strategies that are consistent with universal design.
@@ -21,6 +19,8 @@ exercises: 20
 - What can I do enhance equity, inclusion, and accessibility in my workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A Positive Environment for All
 
 As we have seen, there are many teaching practices that can make your workshop more positive and welcoming.
 However, no workshop occurs in a vacuum: everyone's experiences begin and end and are influenced by the world beyond.
@@ -68,6 +68,15 @@ This exercise should take about 5 minutes.
 
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely.
 What barriers might be present in your workshop, and what can you do to remove them?
+
+::::::::::::::::::::::::::::::::::::::: instructor
+
+In your discussion of accessibility, it is helpful to point out that accessibility may not alway affect only individual learners,
+such as persons with disabilities. Geographic and social differences can present barriers to accessibility for entire groups.
+People in rural regions or institutions with unreliable electicity and internet access, for example, face extra barriers to
+participating in online Carpentries workshops, instructor trainings, and community events.
+
+:::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -133,7 +142,7 @@ The key to UDL is creating redundancies such that learners have multiple options
 
 ## Activity: Applying Universal Design in Your Teaching
 
-Consider some of the teaching tools and strategies we have discussed so far in this workshop, or others you have observed in your experience.
+Consider some of the teaching tools and strategies we have discussed so far in this training, or others you have observed in your experience.
 How do these meet UDL goals of providing multiple options for learners?
 
 Consider multiple ways for learners to:
@@ -168,7 +177,7 @@ instruction more accessible.
   that are both quick to accomplish and minimal in demands on attention:
   font choices, text size,
   checking in advance that your room is accessible via an elevator or ramp, etc.
-  
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -278,7 +287,7 @@ groups in your community who may be interested in attending.
 One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct][coc].
 
-All participants in our workshops and communities are required to abide by the
+All participants in our workshops, activities and communities are required to abide by the
 [Code of Conduct][coc].
 This code helps to ensure that our community does not tolerate the persistence of behaviors
 that harm or exclude others. While such a code cannot prevent all incidents, reminding
@@ -333,8 +342,8 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 [post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
-[slack-join]: https://swc-slack-invite.herokuapp.com/
+[slack-accessibility]: https://carpentries.slack.com/archives/CBDTKM30Q
+[slack-join]: https://slack-invite.carpentries.org
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

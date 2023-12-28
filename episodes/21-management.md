@@ -5,8 +5,6 @@ teaching: 30
 exercises: 40
 ---
 
-## Never Teach Alone
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify potential challenges of teaching learners with very different backgrounds and skill levels.
@@ -24,6 +22,8 @@ exercises: 40
 - How does an instructional team prepare for a workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Never Teach Alone
 
 One of the greatest strengths of Carpentries workshops compared with many other instructional settings is that workshops are prepared and executed
 by more than one person. We ask that at least two Instructors teach in every workshop, and some workshops may have many more! During the workshop,
@@ -198,6 +198,16 @@ This discussion should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::: instructor
+
+If trainees seem to be struggling to identify challenges, consider priming them with some ideas from this list or your own experience:
+- Varying prior knowledge
+- More varied interests, expectations and goals for coming to the workshop
+- Getting the pace right with both novice and more advanced learners - more difficult to keep all learners motivated
+- More varied/customised setups at machines used by learners that instructors may be expected to understand/support
+
+:::
+
 Here are some strategies Carpentries
 Instructors have generated to deal with this issue:
 
@@ -297,7 +307,7 @@ promise confidentiality because they are legally required to report certain type
 ## Planning Together
 
 Planning a workshop can be at least as much fun as teaching one. Why? Because this is the stage at which you get to connect
-with the amazing people on your instructional team! One reason why people love the workshop you are taking right now is because
+with the amazing people on your instructional team! One reason why people love the training you are taking right now is because
 they get to meet other Carpentries trainees -- people with shared interests and enthusiasm for sharing technical skills. Yes,
 there is work to do when planning a workshop! But there is much to be gained in sharing the process.
 

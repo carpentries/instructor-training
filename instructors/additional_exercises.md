@@ -179,8 +179,8 @@ in discussions about the lesson materials (and other aspects of The Carpentries 
 Go to the GitHub page for the lesson you worked with over the past two days and click on the
 "Issues" tab. Read through some of the discussions and, if you have anything to add, please add it
 to the conversation! If you wish to make a pull request, be sure to examine the contribution guidelines for
-the repository you are working in. If you do make a significant contribution to the discussion, send a link to
-the issue to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). Congratulations! You have
+the repository you are working in. If you do make a contribution to the discussion, you can submit a link for your 
+'Get Involved' step for checkout. Congratulations! You have
 just completed one of the three remaining steps in becoming a Carpentries Instructor.
 
 Leave about 5-10 minutes for this exercise.

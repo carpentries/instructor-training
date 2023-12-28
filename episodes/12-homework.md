@@ -4,12 +4,6 @@ teaching: 5
 exercises: 15
 ---
 
-In the first half of this workshop we have focused on understanding some core findings of pedagogical research about how the learning process
-works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
-and gave some opportunities to practice teaching. In the remaining parts of the training, we will continue our discussions of
-how we build teaching skill and will have more chances for practice and feedback. We will also
-look in some depth at how The Carpentries operates to prepare you for the logistics of teaching a workshop.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe overnight homework.
@@ -20,9 +14,15 @@ look in some depth at how The Carpentries operates to prepare you for the logist
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - What have we learned so far?
-- What needs to be done to prepare for the next part of the workshop?
+- What needs to be done to prepare for the next part of the training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+In the first half of this training we have focused on understanding some core findings of pedagogical research about how the learning process
+works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
+and gave some opportunities to practice teaching. In the remaining parts of the training, we will continue our discussions of
+how we build teaching skill and will have more chances for practice and feedback. We will also
+look in some depth at how The Carpentries operates to prepare you for the logistics of teaching a workshop.
 
 To prepare for our next session, please:
 
@@ -40,7 +40,7 @@ To prepare for our next session, please:
   
   - Data Carpentry
     
-    - [Faceting and Clustering in OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/02-exploring-data.html)
+    - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
     - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
     - [Starting with Data in R](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
     - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)

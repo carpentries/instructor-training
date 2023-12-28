@@ -5,8 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-## Motivation Matters
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify authentic tasks and explain why teaching them is important.
@@ -21,6 +19,8 @@ exercises: 30
 - How can we create a motivating environment for learners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
 necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated
@@ -105,7 +105,7 @@ If you are new to teaching, try to ask an experienced instructor for feedback be
 While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
 workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical
 problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-**be mindful of times when your content is not motivating**, and to strategize your rescue using some of the other techniques in this section.
+**be mindful of times when your content is not motivating**, and to strategize ways to re-engage learners (and yourself) using some of the other techniques in this section.
 
 ## How Can You Affect Motivation?
 

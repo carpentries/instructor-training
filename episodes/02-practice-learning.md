@@ -5,10 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-We will now get started with a discussion of how learning works. We will begin with
-some key concepts from educational research and identify how these principles
-are put into practice in Carpentries workshops.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Compare and contrast the three stages of skill acquisition.
@@ -26,6 +22,10 @@ are put into practice in Carpentries workshops.
 - How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+We will now get started with a discussion of how learning works. We will begin with
+some key concepts from educational research and identify how these principles
+are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
 
@@ -91,7 +91,7 @@ for how we teach.
 
 ## Building a Mental Model
 
-:::::::::::::::::::::::::::::::::::::  testimonial
+:::::::::::::::::::::::::::::::::::::  callout
 
 All models are wrong, but some are useful.
 
@@ -122,7 +122,7 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 ## Analogy Brainstorm
 
 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If
-  you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
+  you prefer to work with an example, consider this analogy from education: "teaching is like gardening."
 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
   convey about the topic? How is it useful? In what ways is it wrong?
 

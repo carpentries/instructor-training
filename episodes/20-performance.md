@@ -5,9 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-Continuing our theme of developing practical Carpentries teaching skills,
-this section provides another chance to practice live coding, to go through the
-process of observing and giving feedback, and to make changes to how we teach based on the feedback of others.
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -20,6 +17,10 @@ process of observing and giving feedback, and to make changes to how we teach ba
 - How did you change your teaching in response to feedback?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+Continuing our theme of developing practical Carpentries teaching skills,
+this section provides another chance to practice live coding, to go through the
+process of observing and giving feedback, and to make changes to how we teach based on the feedback of others.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -27,7 +28,7 @@ process of observing and giving feedback, and to make changes to how we teach ba
 
 1. Before splitting into groups, read the rubric that is given to Instructor Trainers
   as a suggested framework for evaluating the online teaching demonstration sessions that are part of Instructor checkout.  
-  [https://carpentries.github.io/instructor-training/demos\_rubric/](demos_rubric.md). (Note: demos are not scored, so this rubric is for
+  [https://carpentries.github.io/instructor-training/demos_rubric.html](demos_rubric.md). (Note: demos are not scored, so this rubric is for
   advisory purposes only.)
   What questions do you have?
 2. Return to your groups and repeat the previous live coding exercise, re-teaching the same content as before.
@@ -42,7 +43,7 @@ This exercise should take about 10 minutes for rubric discussion, 25 minutes for
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- (Reflective) Practice makes perfect.
+- (Reflective) Practice makes progress.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

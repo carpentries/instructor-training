@@ -5,14 +5,6 @@ block: Building Teaching Skill
 teaching: 20
 exercises: 45
 ---
-
-One of the cornerstones of The Carpentries teaching is live
-coding: *instructors do not use slides to teach coding*, but work through the lesson material,
-typing in the code or instructions, with the workshop participants following
-along. This section explains how it works, why we use it, and
-gives general tips for an effective participatory live coding presentation. We will
-finish this section by practicing ourselves and providing feedback for each other.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain the advantages and limitations of participatory live coding.
@@ -26,6 +18,13 @@ finish this section by practicing ourselves and providing feedback for each othe
 - Why do we teach using participatory live coding?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+One of the cornerstones of The Carpentries teaching is live
+coding: *instructors do not use slides to teach coding*, but work through the lesson material,
+typing in the code or instructions, with the workshop participants following
+along. This section explains how it works, why we use it, and
+gives general tips for an effective participatory live coding presentation. We will
+finish this section by practicing ourselves and providing feedback for each other.
 
 ## Why Participatory Live Coding?
 
@@ -142,7 +141,7 @@ making sure that the points of the Top Ten Tips below have been made.
 6. **Turn off notifications** on your laptop and phone.
 7. **Stick to the lesson material.** The core Carpentries lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Do not do this, since there is a fair chance you will run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
   Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
-8. **Leave no learner behind.** You will learn later in the workshop [how sticky notes can be used to gauge learners' progress and understanding](21-management.md#sticky-notes).
+8. **Leave no learner behind.** You will learn later in the training [how sticky notes can be used to gauge learners' progress and understanding](21-management.md#sticky-notes).
 9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing](08-motivation.md) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 

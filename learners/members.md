@@ -3,7 +3,7 @@ title: Information for Member Organizations
 survey_link: ~
 ---
 
-Welcome to The Carpentries community. We are excited to welcome you as a member organisation. Our instructor training process is a vital component of how we spread the teaching culture of the Carpentries to new organisations. We're looking forward to meeting your team and helping them develop their teaching skills so you can have the best impact on the learners at your institution.
+Welcome to The Carpentries community. We are excited to welcome you as a member organisation. Our Instructor Training process is a vital component of how we spread the teaching culture of the Carpentries to new organisations. We're looking forward to meeting your team and helping them develop their teaching skills so you can have the best impact on the learners at your institution.
 
 Your annual membership gives you a number of slots in our Instructor Training program. This training is for people who want to become certified Instructors with The Carpentries and is based on our constantly updated open-source [curriculum](https://carpentries.github.io/instructor-training/).
 
@@ -29,7 +29,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 - Trainees may register or change their registration up to one week before the event. However, we recommend registering as early as possible, as these events fill up quickly.
 
-- If one of your trainees is not able to attend after they have registered for an event, please get in touch with us at [checkout@carpentries.org](mailto:checkout@carpentries.org) as soon as possible. In some cases, we will be able to transfer your training seat to another event, however, because the success of our program depends on accurately predicting our capacity needs, we may not be able to accommodate changes in registration unless we are notified in advance of the event. Except in case of emergency, training seats may be forfeited if advance notice is not given.
+- If one of your trainees is not able to attend after they have registered for an event, please get in touch with us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) as soon as possible. In some cases, we will be able to transfer your training seat to another event, however, because the success of our program depends on accurately predicting our capacity needs, we may not be able to accommodate changes in registration unless we are notified in advance of the event. Except in case of emergency, training seats may be forfeited if advance notice is not given.
 
 - Information about software/hardware requirements for the training, preparatory homework, and video-conference connection information will be provided one week before the event.
 
@@ -37,11 +37,13 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## What to expect after the event:
 
-- Participants will have three months (90 days) to complete [post-training homework exercises](https://carpentries.github.io/instructor-training/14-checkout.html) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline may be granted at the discretion of Carpentries staff.
+- Participants will have three months (90 days) to complete [post-training steps](https://carpentries.github.io/instructor-training/checkout.html) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline will be granted upon request for up to 1 year.
 
 - After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
-- Ongoing support and mentorship for trained Instructors is available through The Carpentries community discussions and mentorship programs
+- Consider encouraging your Instructors to volunteer with The Carpentries. This will give them opportunities to teach and share knowledge with experienced Carpentries Instructors around the world, enriching their practice and your community.
+
+- Ongoing support and mentorship for trained Instructors is also available through The Carpentries community sessions
   as well as through partcipation in other roles in The Carpentries community.
 
 We're excited to have you and your staff taking this important step to build a strong community of Instructors at your organization. We look forward to welcoming your Instructors into our community!
