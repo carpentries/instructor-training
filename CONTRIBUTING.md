@@ -109,7 +109,7 @@ In brief:
 1. The published copy of the lesson is in the `main` branch of the repository
   (so that GitHub will regenerate it automatically).
   Please create all branches from that,
-  and merge the [upstream repository][repo]'s `gh-pages` branch into your `gh-pages` branch
+  and merge the [upstream repository][repo]'s `main` branch into your `main` branch
   before starting work.
   Please do *not* work directly in your `gh-pages` branch,
   since that will make it difficult for you to work on other contributions.
