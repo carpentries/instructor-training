@@ -111,7 +111,7 @@ In brief:
   Please create all branches from that,
   and merge the [upstream repository][repo]'s `main` branch into your `main` branch
   before starting work.
-  Please do *not* work directly in your `gh-pages` branch,
+  Please do *not* work directly in your `main` branch,
   since that will make it difficult for you to work on other contributions.
 
 2. We use [GitHub flow][github-flow] to manage changes:
