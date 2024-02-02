@@ -70,6 +70,12 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
+#### [March 5-8 2024](https://www.eventbrite.com.au/e/the-carpentries-online-instructor-training-march-5-8-2024-tickets-777489621387)
+
+**Four 4-hour days: 9 am to 1 pm Australian Western Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Australian+Carpentries+Instructor+Training+March+2024&iso=20240305T09&p1=196&ah=4)
+
+<hr>
+
 #### [March 18-21 2024](https://www.eventbrite.com/e/online-instructor-training-march-18-21-2024-tickets-770332233447)
 
 **Four 4-hour days:** 9 am to 1 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240318T09&p1=187&ah=4)
