@@ -46,12 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [February 7-8 2024](https://www.eventbrite.com/e/online-instructor-training-february-7-8-2024-tickets-770305774307)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240207T09&p1=75&ah=8)
-
-<hr>
-
 #### [February 19-22 2024](https://www.eventbrite.com/e/online-instructor-training-february-19-22-2024-tickets-770311200537)
 
 **Four 4-hour days:** 9 am to 1 pm UTC / 11 am to 3 pm South Africa Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+Event&iso=20240219T09&p1=136&ah=4)
