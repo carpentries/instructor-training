@@ -54,12 +54,12 @@ This exercise should take about 10 minutes.
 
 Take a moment to review your calendar and sign up for one or more sessions to get your checkout process rolling!
 
-Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-sessions-2023>
+Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-sessions-2024>
 
 Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
 
 If you would like to attend another community session for your 'Get Involved' step, visit the 
-Community Sessions Etherpad: <https://pad.carpentries.org/community-sessions-2023>
+Community Sessions Etherpad: <https://pad.carpentries.org/community-sessions-2024>
 
 This exercise should take 5 minutes.
 
