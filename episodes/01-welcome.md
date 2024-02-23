@@ -266,7 +266,6 @@ workshops specifically.
 
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
-[lesson-dev]: https://carpentries-incubator.github.io/study-groups/
 [lesson-dev-web]: https://carpentries.org/involved-lessons/
 [cldt-curriculum]: https://carpentries.github.io/lesson-development-training/index.html
 
