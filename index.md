@@ -34,7 +34,7 @@ Carpentries Instructor Training has the following goals:
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 
 - How to program in R or Python, use the Unix shell, Git or SQL, or any of the other topics taught in Data Carpentry, Library Carpentry, or Software Carpentry workshops.
-- How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
+- How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more, for example in our [lesson development training][cldt-curriculum]).
 
 If you would like to attend Instructor Training, please visit the [Become an Instructor page](https://carpentries.org/become-instructor/) on
 The Carpentries website for details on admission.
@@ -57,6 +57,7 @@ Feedback on these materials is welcome as an [issue][issues] on the GitHub repos
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [issues]: https://github.com/carpentries/instructor-training/issues
 [license]: LICENSE.html
+[cldt-curriculum]: https://carpentries.github.io/lesson-development-training/index.html
 
 
 
