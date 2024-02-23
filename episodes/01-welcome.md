@@ -233,7 +233,7 @@ This training is a significant requirement for becoming a certified Carpentries 
 The additional steps for certification, called *Checkout*, will require that you dig into the workshop content yourself. We will talk about checkout requirements more in part 3 of this training.
 
 We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development,
-along with [its own onboarding curriculum][lesson-dev]. For more on lesson development, see [The Carpentries website][lesson-dev-web].
+along with [its own onboarding curriculum][cldt-curriculum]. For more on lesson development, see [The Carpentries website][lesson-dev-web].
 
 If there is a particular topic that you would like us to address, let the Trainers
 know.
@@ -266,8 +266,8 @@ workshops specifically.
 
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
-[lesson-dev]: https://carpentries-incubator.github.io/study-groups/
 [lesson-dev-web]: https://carpentries.org/involved-lessons/
+[cldt-curriculum]: https://carpentries.github.io/lesson-development-training/index.html
 
 
 
