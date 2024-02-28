@@ -36,7 +36,7 @@ Details about the Instructor Trainer role including the application process, dut
 - For online events:
   - Test videoconferencing set up using login credentials provided.
   - Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.
-  - Plan how you will have trainees watch videos. If you plan to play them on zoom, familiarize yourself with audio settings and consider an ad blocking strategy.
+  - Plan how you will have trainees watch videos. If you plan to play them on zoom, familiarize yourself with audio settings and consider an ad management strategy.
 - For in-person events:
   - Confirm that breakout rooms are available or make an alternate plan
   - Determine who will bring paper (if needed for concept mapping) and sticky notes (for minute cards & demonstration).
