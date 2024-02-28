@@ -249,7 +249,7 @@ serious hazards in the classroom! Here are a few **things you should not do in y
   more if you are frank about the limitations of your knowledge, and
   will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
 - **Use the J word ("just") or other demotivating words** we talked about in a
-  [previous lesson](04-expertise/). These signal to the learner that
+  [previous lesson](04-expertise.html). These signal to the learner that
   the instructor thinks their problem is trivial
   and by extension that they therefore must be deficient
   if they are not able to figure it out.
