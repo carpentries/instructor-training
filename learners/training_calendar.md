@@ -78,7 +78,7 @@ New trainings are added to this calendar on a quarterly basis.
 
 #### [May 14-17 2024](https://www.eventbrite.com/e/online-instructor-training-may-14-17-2024-tickets-857191702457)
 
-**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time /  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240514T09&p1=240&ah=4)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240514T09&p1=240&ah=4)
 
 <hr>
 
