@@ -13,7 +13,7 @@ If a selected episode is very short and finishes in less than 5 minutes, it may 
 to complete a 5 minute demonstration. 
 It is **not** necessary to teach the full episode, or to cover any specific amount of content within the 5 minute period.
 
-**If your preferred lesson is not on the list or includes only ineligible episodes, please choose a different lesson.** 
+**NB: If your preferred lesson is not on the list or includes only ineligible episodes, please choose a different lesson.** 
 If you believe you have a lesson or episode that should be eligible but is not on the list, please email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
 
@@ -125,6 +125,12 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/index.html) | none | all episodes | This is a discussion-based lesson and provides no opportunities for live demonstration. It cannot be used for teaching demonstrations. |
 | [Library Carpentry: Introduction to Git](https://librarycarpentry.org/lc-git/index.html) | \* [Getting started with Git](https://librarycarpentry.org/lc-git/02-getting-started.html) | \* [What is Git/GitHub?](https://librarycarpentry.org/lc-git/01-what-is-git.html) | The other episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Library Carpentry: SQL](https://librarycarpentry.org/lc-sql/index.html) | \* [Selecting and Sorting Data](https://librarycarpentry.org/lc-sql/02-selecting-sorting-data.html)<br/> \* [Filtering](https://librarycarpentry.org/lc-sql/03-filtering.html)<br/> \* [Ordering and Commenting](https://librarycarpentry.org/lc-sql/04-ordering-commenting.html)<br/> \* [Aggregating and Calculating Values](https://librarycarpentry.org/lc-sql/05-aggregating-calculating.html)<br/> \* [Joins and aliases](https://librarycarpentry.org/lc-sql/06-joins-aliases.html)<br/> \* [Saving queries](https://librarycarpentry.org/lc-sql/07-saving-queries.html)<br/> \* [Creating tables and modifying data](https://librarycarpentry.org/lc-sql/09-create.html) | \* [Database design](https://librarycarpentry.org/lc-sql/08-database-design.html)<br/> \* [Other database tools](https://librarycarpentry.org/lc-sql/10-other-tools.html)<br/> \* [Extra-challenges](https://librarycarpentry.org/lc-sql/11-extra-challenges.html)<br/> \* [Good style](https://librarycarpentry.org/lc-sql/Bonus_GoodStyle.html) |  |
+| [Library Carpentry: Introduction to Tidy Data](https://librarycarpentry.org/lc-spreadsheets/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to Python](https://librarycarpentry.org/lc-python-intro/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to Data for Archivists](https://librarycarpentry.org/lc-data-intro-archives/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to R](https://librarycarpentry.org/lc-r/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to MarcEdit](http://librarycarpentry.org/lc-marcedit/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to AI for GLAM](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
 
 
 ### Software Carpentry {#swc}
@@ -140,6 +146,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Databases and SQL](https://swcarpentry.github.io/sql-novice-survey/index.html) | any other episode  | [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene.html) |  |
 | [Automation and Make](https://swcarpentry.github.io/make-novice/index.html) |  \* [Introduction](https://swcarpentry.github.io/make-novice/01-intro.html)<br/> \*  [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles.html) | \* [Conclusion](https://swcarpentry.github.io/make-novice/09-conclusion.html) | Later episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
 | [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/index.html) |  \* [Configuring Mercurial](https://swcarpentry.github.io/hg-novice/02-configuration.html)<br/> \* [Creating a Repository](https://swcarpentry.github.io/hg-novice/03-create-repo.html)<br/> \* [Tracking Changes to Files](https://swcarpentry.github.io/hg-novice/04-tracking.html) | \* [Automated Version Control](https://swcarpentry.github.io/hg-novice/01-basics.html) | Later episodes depend on actions taken earlier in the lesson - consult [_Teaching Episodes with Dependencies_](#dependencies). |
+| [Programming with MATLAB](https://swcarpentry.github.io/matlab-novice-inflammation) | none | all episodes | This lesson is currently unmaintained and cannot be used for teaching demonstrations. |
 
 
 ### Lecciones en español {#espanol}
