@@ -46,12 +46,6 @@ New trainings are added to this calendar on a quarterly basis.
 
 <hr>
 
-#### [April 29-30 2024](https://www.eventbrite.com/e/online-instructor-training-april-29-30-2024-tickets-857174781847)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240429T09&p1=137&ah=8)
-
-<hr>
-
 #### [May 1-2 2024](https://www.eventbrite.com/e/online-instructor-training-may-1-2-2024-tickets-857186085657)
 
 **Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240501T09&p1=179&ah=8)
