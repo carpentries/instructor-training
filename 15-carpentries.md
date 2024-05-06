@@ -124,7 +124,7 @@ helper-to-learner ratio for in-person workshops (not counting instructors) and m
 All Carpentries lesson
 materials are freely available under a permissive [open license](LICENSE.md).
 This means that you may use them in contexts outside of a Carpentries workshop (e.g. as material
-introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
+introduced into a longer course, as a standalone 2-3 hour session, as practice exercises, etc.)
 provided you cite the original source.
 
 It is only when you want to run a branded Carpentries workshop using the materials

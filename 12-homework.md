@@ -1,12 +1,12 @@
 ---
-title: End Part 2 and Homework
+title: End Part 2 and Preparation for the Next Part
 teaching: 5
 exercises: 15
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Describe overnight homework.
+- Describe overnight preparation.
 - Produce a paragraph, drawing, or diagram that summarizes what was taught to this point.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
