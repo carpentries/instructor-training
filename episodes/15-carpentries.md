@@ -277,24 +277,23 @@ ways to keep in touch, and we do our best to make that possible.
 Want to **listen**?
 
 - Sign up for our newsletter
-- Follow us on Mastodon or LinkedIn
+- Follow us on [Mastodon](https://hachyderm.io/@thecarpentries) or [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
 
 Want to **interact** (or listen with options to engage)?
 
-- Join our Slack organisation
-- Join our Email lists (start with "Discuss"!)
+- [Join our Slack organisation](https://slack-invite.carpentries.org/) (start with #welcome)
+- [Join our Email lists](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html) (start with "Discuss")
 
 Want to **join meetings** (to meet new people or listen in)?
 
-- Sign up for Community Discussions (or just drop in if there is space!) or other events when announced
+- Sign up for [Community Discussions](https://pad.carpentries.org/community-discussions) (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Get Connected
 
-Take a couple of minutes to sign up for The Carpentries channels you want to stay involved with on this page:
-[https://carpentries.org/connect/][connect-page]
+Take a couple of minutes to sign up for The Carpentries communication channels you want to stay involved with on [Connecting with the Carpentries][connect-page].
 When you are done, share a channel you find interesting or useful on the Etherpad.
 
 This exercise should take about 5 minutes.
