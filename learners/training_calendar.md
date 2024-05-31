@@ -114,7 +114,7 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 #### [September 10-13 2024](https://www.eventbrite.com/e/online-instructor-training-september-10-13-2024-tickets-917294872657?aff=oddtdtcreator)
 
-**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time / 4 pm to 8 pm **PREVIOIUS DAY** N. America Pacific Time / g[See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240910T09&p1=47&ah=4)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time / 4 pm to 8 pm **PREVIOIUS DAY** N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240910T09&p1=47&ah=4)
 
 <hr>
 
