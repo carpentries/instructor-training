@@ -49,6 +49,14 @@ their Instructor Training event.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Using this page as a resource
+
+Your trainers may not cover everything here during Instructor Training because the material is designed to be a valuable ongoing reference. We encourage you to keep this lesson handy as a resource when preparing for a workshop.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Anticipate Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may have a broad idea about the type of audience you expect. You may
