@@ -37,7 +37,7 @@ demonstrating how you Google things may earn surprisingly positive feedback! In 
 to attend to the audience usually has much more serious consequences for learning and morale. When you prepare to teach,
 we therefore suggest setting aside time *before* deeply reviewing your technical content to **plan your approach to instruction**.
 
-:::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::  instructor
 
 ## A note on cutting
 
