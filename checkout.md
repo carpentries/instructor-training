@@ -17,7 +17,7 @@ Briefly, the three steps are:
 
 #### How will the Checkout steps be tracked?
  **For the “Get Involved” step, trainees must login to AMY to report which participation option they would like to have counted.**
- Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts.
+ Welcome Sessions and Teaching Demonstrations will be tracked automatically based on data shared by session hosts. You can track your progress in [AMY](https://amy.carpentries.org/).
 
 #### Checkout Deadline
 All trainees have 3 months (90 days) from the end date of their training to complete checkout. If you need more time,
