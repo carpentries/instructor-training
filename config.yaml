@@ -1,0 +1,113 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+carpentry: 'cp'
+
+# Overall title for pages.
+title: 'Instructor Training'
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: '2014-11-16'
+
+# Comma-separated list of keywords for the lesson
+keywords: 'software, data, lesson, The Carpentries'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'stable'
+
+# License of the lesson
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/carpentries/instructor-training/'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'instructor.training@carpentries.org'
+
+# Navigation ------------------------------------------------
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+#
+# episodes:
+# - introduction.md
+# - first-steps.md
+#
+# learners:
+# - setup.md
+#
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson
+episodes: 
+- 01-welcome.md
+- 02-practice-learning.md
+- 03-coffee.md
+- 04-expertise.md
+- 05-memory.md
+- 06-feedback.md
+- 07-lunch.md
+- 08-motivation.md
+- 09-eia.md
+- 10-coffee.md
+- 11-practice-teaching.md
+- 12-homework.md
+- 13-second-welcome.md
+- 14-checkout.md
+- 15-carpentries.md
+- 16-coffee.md
+- 17-live.md
+- 18-preparation.md
+- 19-lunch.md
+- 20-performance.md
+- 21-management.md
+- 22-coffee.md
+- 23-introductions.md
+- 24-practices.md
+- 25-wrap-up.md
+
+# Information for Learners
+learners: 
+- training_calendar.md
+- checkout.md
+- demo_lessons.md
+- demos_rubric.md
+- members.md
+- fromthelearners.md
+- reference.md
+
+# Information for Instructors
+instructors: 
+- icebreakers.md
+- additional_exercises.md
+- instructor-notes.md
+
+# Learner Profiles
+profiles: 
+
+# Customisation ---------------------------------------------
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+
+
+url: 'https://carpentries.github.io/instructor-training'
