@@ -37,15 +37,23 @@ demonstrating how you Google things may earn surprisingly positive feedback! In 
 to attend to the audience usually has much more serious consequences for learning and morale. When you prepare to teach,
 we therefore suggest setting aside time *before* deeply reviewing your technical content to **plan your approach to instruction**.
 
-:::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::  instructor
 
 ## A note on cutting
 
-This episode is a common place to Trainers to cut while preparing to teach.
+This episode is a common place for Trainers to cut parts of while preparing to teach.
 That's not because this is not important -- this page is a valuable resource -- but we feel this
 is one of the sections that trainees can use effectively as a resource when actually preparing
 for a workshop, even without spending a lot of time doing activities on this material during
 their Instructor Training event.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Using this page as a resource
+
+Your trainers may not cover everything here during Instructor Training because the material is designed to be a valuable ongoing reference. We encourage you to keep this lesson handy as a resource when preparing for a workshop.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
