@@ -159,6 +159,20 @@ As a class or in groups, see how many of the following terms you can define.
 
 This should take about 5 minutes.
 
+::::::::::::::::::::::: solution
+
+### Links to definitions
+These terms are defined in our Community Glossary.
+
+- [Lesson](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson)
+- [Episode](https://github.com/carpentries/community-development/blob/main/glossary.md#episode-lesson-episode)
+- [Workshop](https://github.com/carpentries/community-development/blob/main/glossary.md#workshop)
+- [Lesson Program](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson-program)
+- [Instructor](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor)
+- [(Instructor) Trainer](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor-trainer)
+
+::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## How to Organise a Carpentries Workshop Locally
