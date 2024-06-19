@@ -46,18 +46,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [June 17-20 2024](https://www.eventbrite.com/e/online-instructor-training-june-17-20-2024-tickets-857197850847?aff=oddtdtcreator)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240617T09&p1=137&ah=4)
-
-<hr>
-
-#### [June 24-27 2024](https://www.eventbrite.com/e/online-instructor-training-june-24-27-2024-tickets-880941508767)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T16&p1=1440)
-
-<hr>
-
 #### [July 9-12 2024](https://www.eventbrite.com/e/online-instructor-training-july-9-12-2024-tickets-916681508067?aff=oddtdtcreator)
 
 **Four 4-hour days:** 8 am to 12 noon N. America Eastern Time / 1 pm to 5 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240709T13&p1=136&ah=4)
