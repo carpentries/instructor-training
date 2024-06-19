@@ -39,9 +39,10 @@ opportunities for engagement with The Carpentries, and address any new or linger
 it works to volunteer as an Instructor.
 
 Welcome sessions are a specific type of Community Session. While you can attend other types, we ask that you attend a welcome session specifically
-for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved).
+for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved), 
+but not the Welcome Session step.
 
-Sign up on the [Community Welcome Sessions Etherpad][welcome]. Other types of sessions can be accessed from the [Community Sessions Etherpad][discussion].
+Sign up on the [Community Welcome Sessions Etherpad][welcome]. 
 **Take care to double check
 the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
 of that Etherpad.
@@ -57,6 +58,7 @@ This is a great one to bookmark and use as a reference throughout your checkout 
 of The Carpentries community.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ### Preparing for your Welcome Session
 
