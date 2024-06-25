@@ -86,7 +86,7 @@ Their aligned missions are accomplished by running accessible, inclusive trainin
 Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
 
 - a focus on technical skills,
-- a two-day format taught by volunteer instructors, and
+- a two full day or four half day format taught by volunteer instructors, and
 - a focus on filling gaps in current training for learners.
 
 The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
