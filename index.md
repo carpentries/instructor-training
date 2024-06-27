@@ -3,7 +3,7 @@ redirect_from: http://swcarpentry.github.io/instructor-training/
 site: sandpaper::sandpaper_site
 ---
 
-Welcome to The Carpentries Instructor Training curriculum! Originally released in 2016, this resource is collaboratively maintained and taught by The Carpentries Instructor Trainer community. Minor changes occur routinely; major updates are chronicled in our release history.
+Welcome to The Carpentries Instructor Training curriculum! Originally released in 2016, this resource is collaboratively maintained and taught by The Carpentries Instructor Trainer community. Minor changes occur routinely; major updates are chronicled in our [release history](https://github.com/carpentries/instructor-training/releases).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
