@@ -97,6 +97,15 @@ If you feel you have finished organizing your thoughts, try the next exercise.
 
 This exercise should take about 5 minutes.
 
+::::: hint
+
+## Excalidraw
+
+The online tool we used in the mental models exercise is [Excalidraw](https://excalidraw.com/), in case you'd like to use it here.
+
+
+:::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
