@@ -346,7 +346,7 @@ This exercise should take about 5 minutes.
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
-[cld]: https://github.com/carpentries/lesson-development-training
+[cld]: https://carpentries.github.io/lesson-development-training
 [community-page]: https://carpentries.org/community/
 
 
