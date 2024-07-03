@@ -59,19 +59,17 @@ On January 1, 2018, Software Carpentry and Data Carpentry merged to form a new p
 [The Carpentries](https://carpentries.org/)
 under the fiscal sponsorship of
 [Community Initiatives][CI].
-Within this new organization structure, Software Carpentry and Data Carpentry retained their individual identities as Lesson Programs of The Carpentries.
-On November 1, 2018, The Carpentries Executive Council
+Within this new organisation structure, Software Carpentry and Data Carpentry retained their identities as Lesson Programs of The Carpentries.
+On November 1, 2018, The Carpentries governance (formerly known as the Executive Council)
 approved [Library Carpentry](https://librarycarpentry.org/)
 as the third official Lesson Program of The Carpentries.
 
-The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam-page],
+The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
-The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council
-members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
-Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers,
-learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
+The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
+Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers, learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
-![](fig/SWCDChistory.png){alt='A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.'}
+![](fig/SWCDChistory.png){alt='A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozilla Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.'}
 
 You can learn more about the history and goals of each Lesson Program by reading
 "[Software Carpentry: Lessons Learned][F1000]",
@@ -106,7 +104,7 @@ You may only call a workshop a Data Carpentry, Library Carpentry, or Software Ca
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
-rely on your judgement as a certified Instructor to recruit and orient volunteers who
+rely on your judgment as a certified Instructor to recruit and orient volunteers who
 will support you in implementing The Carpentries values and practices. **We do expect you to have at least one co-Instructor and helpers**, even if they are not
 certified instructors.
 
@@ -114,7 +112,7 @@ certified instructors.
 
 ## Local Support
 
-There are a number of helpful [Workshop Checklists and Suggestions][docs-workshop-checklists] in the handbook. The Helper checklist recommends at least a 1:10
+There are several helpful [Workshop Checklists and Suggestions][docs-workshop-checklists] in the handbook. The Helper checklist recommends at least a 1:10
 helper-to-learner ratio for in-person workshops (not counting instructors) and more if teaching online.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -245,12 +243,12 @@ Any lesson that uses The Carpentries [lesson template][lesson-template],
 follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
 can be hosted in The Carpentries Incubator.
 Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
-the backwards design approach we recommend for lesson development.
+the backward design approach we recommend for lesson development.
 
 ## A Culture of Contribution
 
-In the same way that we hope to promote research practices that are open, collaborative,
-and reproducible through our technical trainings, The
+In the same way we hope to promote research practices that are open, collaborative,
+and reproducible through our technical training, The
 Carpentries community aims to embody a culture of openness, sharing, and
 continual pursuit of best practices. We draw together the collective expertise of
 all who join us to collaborate on new lessons, share resources,
@@ -272,7 +270,7 @@ Select one role from the list below that interests you. Using the the descriptio
 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
   would like to see that are not listed? Note that, too!
 
-1. Executive Council
+1. Governance
 2. Instructor Trainers
 3. Lesson developers
 4. Curriculum advisors
@@ -285,7 +283,7 @@ This exercise should take about 5 minutes.
 
 ### Keeping In Touch
 
-There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their own favorite
+There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favorite
 ways to keep in touch, and we do our best to make that possible.
 
 Want to **listen**?
@@ -300,7 +298,7 @@ Want to **interact** (or listen with options to engage)?
 
 Want to **join meetings** (to meet new people or listen in)?
 
-- Sign up for Community Discussions (or just drop in if there is space!) or other events when announced
+- Sign up for Community Sessions (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
 :::::::::::::::::::::::::::::::::::::::  challenge
