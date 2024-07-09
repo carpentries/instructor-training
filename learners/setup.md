@@ -50,6 +50,7 @@ If you are having trouble choosing an episode, we recommend choosing one of the 
     - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
     - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
     - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
+    - [Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/visualizing-ggplot.html)
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
