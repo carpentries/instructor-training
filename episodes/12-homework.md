@@ -41,9 +41,9 @@ To prepare for our next session, please:
   - Data Carpentry   
     - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
     - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
-    - [Starting with Data in R](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
     - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
     - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
+    - [Exploring and Understanding Data in R](https://datacarpentry.org/R-ecology-lesson/how-r-thinks-about-data.html)
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)

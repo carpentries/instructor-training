@@ -14,7 +14,6 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 **Maintainer(s):**
 
 - [Sarah Brown][brown_sarah]: @brownsarahm
-- [David Perez-Suarez][perez-suarez_david]: @dpshelio
 - [Nathaniel Porter][porter-nathaniel]: @ndporter
 - [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
 - [Karen Word][word_karen]: @karenword
