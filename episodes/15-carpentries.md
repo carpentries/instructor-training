@@ -243,7 +243,7 @@ Any lesson that uses The Carpentries [lesson template][lesson-template],
 follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
 can be hosted in The Carpentries Incubator.
 
-Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
+Another resource, [the Collaborative Lesson Development Training curriculum][cld], provides a guide to
 the backward design approach we recommend for lesson development.
 
 ## A Culture of Contribution
