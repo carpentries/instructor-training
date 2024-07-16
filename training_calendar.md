@@ -46,24 +46,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [July 16-19 2024](https://www.eventbrite.com/e/online-instructor-training-july-16-19-2024-tickets-917308242647)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20240716T09&p1=137&ah=4)
-
-<hr>
-
-#### [July 22-25 2024](https://www.eventbrite.com/e/online-instructor-training-july-22-25-2024-tickets-916699963267)
-
-**Four 4-hour days:** 9 am to 1 pm Central European Summer Time / 12:30 pm to 4:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240722T09&p1=195&ah=4)
-
-<hr>
-
-#### [July 22-25 2024](https://www.eventbrite.com/e/online-instructor-training-july-22-25-2024-tickets-916701959237)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240722T09&p1=137&ah=4)
-
-<hr>
-
 #### [August 5-8 2024](https://www.eventbrite.com/e/online-instructor-training-august-5-8-2024-tickets-917284571847)
 
 **Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time /   [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240805T09&p1=47&ah=4)
