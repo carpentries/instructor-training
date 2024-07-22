@@ -35,7 +35,7 @@ identify and overcome these difficulties.
 
 ## What Makes an Expert?
 
-An [earlier topic](02-practice-learning/) described a key
+An [earlier topic](02-practice-learning) described a key
 difference between novices and competent practitioners. Novices lack a mental model, or have only
 a very incomplete model with limited utility.
 Competent practitioners
