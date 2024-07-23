@@ -330,7 +330,7 @@ When you notice things that trouble you, keep a positive and simple goal in mind
 ## Looking for More? Want to Contribute?
 
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in
-being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link
+being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "Edit this page" link
 at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 [glossary]: https://www.diversity.pitt.edu/education/glossary-terms
