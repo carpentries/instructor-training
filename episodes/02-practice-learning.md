@@ -350,7 +350,7 @@ This discussion should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Each of these incorrect answers has **diagnostic power**
+Each of these incorrect answers has **diagnostic power**. 
 Each answer looks like it could be right:
 silly answers like "a fish!" offer therapeutic comedy but do not provide insight; nor do answers that
 are wrong in random ways.
