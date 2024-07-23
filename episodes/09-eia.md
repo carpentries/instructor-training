@@ -333,7 +333,7 @@ The Carpentries is actively working on improving our content and practices with 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link
 at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
-[glossary]: https://www.diversity.pitt.edu/education/diversity-equity-and-inclusion-glossary
+[glossary]: https://www.diversity.pitt.edu/education/glossary-terms
 [core-values]: https://carpentries.org/values/
 [handbook-host-template]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop
 [sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
