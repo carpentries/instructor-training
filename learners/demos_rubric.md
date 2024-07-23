@@ -2,7 +2,7 @@
 title: Suggested Rubric for Teaching Demonstrations
 ---
 
-This rubric is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration ([Good lessons to use for demo](https://carpentries.github.io/instructor-training/demo_lessons.html)). Deciding whether a particular trainee passes or fails the demonstration is the sole discretion of the Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
+This rubric is provided as a guide for Trainers evaluating potential new instructors during the teaching demonstration ([Good lessons to use for demo](https://carpentries.github.io/instructor-training/demo_lessons.html)). Deciding whether a particular trainee passes or is asked to repeat the demonstration is the sole discretion of the Trainer. As such, deviation from this rubric is encouraged as needed to accurately assess the trainee's preparation and instructional
 skills.
 
 In general, the majority of people pass their demonstrations. When a trainee is asked to redo a demo, it is usually a matter of correction -- an error to embrace and to learn from -- not rejection. Trainees who have three or more marks in the "Content Opportunities for Growth" or "Delivery Opportunities for Growth" columns below should probably be asked to try again. Even one mark in the "Content Opportunities for Growth" or "Delivery Opportunities for Growth" column can be considered justification for asking a trainee to redo their demonstration if the problem is significant. As always, Trainers should use their own judgement when applying this rubric in individual cases.
