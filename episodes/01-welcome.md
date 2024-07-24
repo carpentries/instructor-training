@@ -45,12 +45,18 @@ One reason to avoid pressuring people to share them is to allow people to share 
 gender identity only when they feel ready to.
 It is, however, necessary for all participants to use pronouns and names as listed when participants provide them.
 
-These resources may be helpful for further reading to learn more about using pronouns:
+::::: spoiler
+
+### Further reading on pronouns
+
+The resources below can provide additional guidance on respectful pronoun usage:
 
 - The proper use of pronouns in language: [https://lgbt.ucsf.edu/pronounsmatter](https://lgbt.ucsf.edu/pronounsmatter)
 - The importance of using pronouns: [https://www.pronouns.org/](https://www.pronouns.org/)
 - How to use personal pronouns: [https://www.pronouns.org/how](https://www.pronouns.org/how)
 - How to deal with situations when you use the wrong pronoun: [https://www.pronouns.org/mistakes](https://www.pronouns.org/mistakes)
+
+:::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
