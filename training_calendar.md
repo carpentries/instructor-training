@@ -52,12 +52,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [August 5-8 2024](https://www.eventbrite.com/e/online-instructor-training-august-5-8-2024-tickets-917287721267)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20240805T09&p1=179&ah=4)
-
-<hr>
-
 #### [August 13-16 2024](https://www.eventbrite.com/e/online-instructor-training-august-13-16-2024-tickets-917288443427)
 
 **Four 4-hour days:** 9 am to 1 pm Central European Summer Time / 12:30 pm to 4:30 pm India Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Instructor+Training+&iso=20240813T09&p1=195&ah=4)
