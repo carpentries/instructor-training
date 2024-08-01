@@ -58,7 +58,7 @@ a dashboard with the results! Take care not to share this link with your learner
 
 The survey links above are only for you to preview the survey as part of
 Instructor Training. When you are teaching a workshop, make sure to share the
-links that gets generated on your workshop website. Doing so will ensure that
+links that get generated on your workshop website. Doing so will ensure that
 you will receive all the survey results from your workshop participants.
 
 

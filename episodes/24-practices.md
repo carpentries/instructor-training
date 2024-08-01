@@ -124,7 +124,7 @@ exercise, now consider:
 While there are many ways to
 think about the practice of teaching, we hope that this training has provided a model of
 teaching that is **learner-centered**.  In other words, teaching is not really about the
-teacher, but the learners!  The more we know about learner's backgrounds, motivations,
+teacher, but the learners!  The more we know about learners' backgrounds, motivations,
 and how they learn (educational psychology) and what interventions can address these
 issues, the more effective our teaching can be.  This also means that our model of teaching
 does not mean you need to be an expert in the content you are teaching or that you have
