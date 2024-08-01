@@ -113,7 +113,7 @@ Accommodation means changing things to serve an individual with a demonstrated n
 However, **accommodation puts the onus on the individual with the need** to
 have to disclose their disability and ask for accommodations. Reluctance to
 do so is understandable: requests for accommodation are often met with negative
-emotions such as uncertainity, confusion, annoyance or anger by those receiving the requests.
+emotions such as uncertainty, confusion, annoyance or anger by those receiving the requests.
 
 By contrast, "universal design" means creating something to be maximally usable by all people
 without additional changes.
@@ -221,7 +221,7 @@ they are all wrong... but some are dangerous.
 ### What are stereotypes?
 
 Stereotypes are an established feature of human social cognition, in which a set of characteristics
-is associated with members of a group. Sterotypes:
+is associated with members of a group. Stereotypes:
 
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
 - guide what we notice about people
@@ -319,7 +319,7 @@ including opportunities for **anonymous feedback**.
 
 When you pay close attention to your own actions, this can help you to do more than (painfully) identify how often you
 use the word "just"! Monitoring your actions can also provide you with useful information about the ways in which you behave
-differently with different people. This is normal! It is also an excellent way to identify patterns that may intefere with your
+differently with different people. This is normal! It is also an excellent way to identify patterns that may interfere with your
 intent to create an inclusive environment for all. Did you answer the same question in different ways at different points? If so, why?
 Who did you feel comfortable chatting with at break time, and who seemed harder to connect with? Did you offer help to anyone who
 didn't ask for it? Who were you most eager to impress?
