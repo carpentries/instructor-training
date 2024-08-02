@@ -129,7 +129,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](fig/chunking.svg){alt='A list of words: cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe.Underneath, the same words are organized into boxes with related terms e.g. cat fish milk ball and apple flower tree"'}
+![](fig/chunking2.png){alt='A list of words: cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe.Underneath, the same words are organized into boxes with related terms e.g. cat fish milk ball and apple flower tree"'}
 
 Associating concepts
 reduces the number of effective
