@@ -235,16 +235,18 @@ Leave about 10 minutes for this discussion.
 
 Maybe this instructor training has inspired you to go home and write your
 own fantastic lesson!  If you would like to model it after the Software, Data and
-Library Carpentry lesson format, you can find a template and instructions in
-[The Carpentries lesson example repository](https://github.com/carpentries/lesson-example/),
-and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
+Library Carpentry lesson format, you can find two Workbench lesson templates available:
 
-Any lesson that uses The Carpentries [lesson template][lesson-template],
-follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
-can be hosted in The Carpentries Incubator.
+- [Markdown](template-md): this template is suitable for lessons that serve static content
+- [RMarkdown](template-rmd): this template is suitable for lessons that include executable R code
 
-Another resource, [the Collaborative Lesson Development Training curriculum][cld], provides a guide to
-the backward design approach we recommend for lesson development.
+Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
+and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
+
+[The Collaborative Lesson Development Training curriculum][cld] provides a guide to
+the backward design approach we recommend for lesson development. This curriculum is part of our official
+teaching offerings; please contact [The Carpentries](mailto:team@carpentries.org) if you are interested in taking
+this course.
 
 ## A Culture of Contribution
 
@@ -341,7 +343,8 @@ This exercise should take about 5 minutes.
 [connect-page]: https://carpentries.org/connect/
 [instructors-list]: https://carpentries.topicbox.com/groups/instructors
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
-[lesson-template]: https://carpentries.github.io/lesson-example/
+[template-md]: https://github.com/carpentries/workbench-template-md/
+[template-rmd]: https://github.com/carpentries/workbench-template-rmd/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
