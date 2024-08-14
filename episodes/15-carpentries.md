@@ -245,7 +245,7 @@ and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carp
 
 [The Collaborative Lesson Development Training curriculum][cld] provides a guide to
 the backward design approach we recommend for lesson development. This curriculum is part of our official
-teaching offerings, and please contact The Carpentries if you are interested in taking
+teaching offerings; please contact [The Carpentries](mailto:team@carpentries.org) if you are interested in taking
 this course.
 
 ## A Culture of Contribution
