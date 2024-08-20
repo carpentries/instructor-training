@@ -20,10 +20,6 @@ Invited trainees can register for events listed below by clicking on the link fo
 
 Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date.
 
-#### Open Instructor Training
-
-Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one training; duplicate registrations may be deleted.
-
 ### Cancellation Policies
 
 Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline.
