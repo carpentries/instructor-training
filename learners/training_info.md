@@ -1,3 +1,7 @@
+---
+title: 'Information: The Carpentries Instructor Training'
+---
+
 ## General Information
 [The Carpentries](https://carpentries.org) is a community of practice centered around teaching foundational coding and data science skills to researchers worldwide. 
 This Instructor Training event is designed to prepare trainees to certify and participate as Carpentries Instructors. 
@@ -92,66 +96,6 @@ Please contact your Trainers using the details provided in the information email
 This website contains the curriculum for Instructor Training.
 Use the left sidebar to browse the content, and visit [the landing page in Instructor View](https://carpentries.github.io/instructor-training/instructor/index.html#schedule) for a sample schedule for a 2-day event.
 Note that many Instructor Training events take place over four half-days, and this schedule will not apply in those cases.
-
-<!--
-FOUR DAY SCHEDULE
---->
-<!--
-
-<div class="row">
-  <div class="col-md-6">
-    <h3>Day 1</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:30</td> <td>Break </td> </tr>
-      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Finish day 1 </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
-    </table>
-  </div>
-</div>
-<div class="row">  
-  <div class="col-md-6">
-    <h3>Day 3</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Getting Started on Instructor Certification </td> </tr>
-      <tr> <td>09:40</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>10:25</td> <td>Break </td> </tr>
-      <tr> <td>10:40</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>12:30</td> <td>Finish day 3 </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 4</h3>
-    <table class="table table-striped">
-      <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
-      <tr> <td>15:25</td> <td>Break </td> </tr>
-      <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
-    </table>
-  </div>
-</div>
-
--->
 
 ### Collaborative Notes
 Trainers will share the link to an [_Etherpad_](https://github.com/carpentries/community-engagement/blob/main/glossary.md#etherpad) that can be used for chatting, collaborating on notes, and sharing URLs and bits of code during the training.
