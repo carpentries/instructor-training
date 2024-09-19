@@ -94,8 +94,8 @@ Please contact your Trainers using the details provided in the information email
 
 ## Training Materials and Schedule
 This website contains the curriculum for Instructor Training.
-Use the left sidebar to browse the content, and visit [the landing page in Instructor View](https://carpentries.github.io/instructor-training/instructor/index.html#schedule) for a sample schedule for a 2-day event.
-Note that many Instructor Training events take place over four half-days, and this schedule will not apply in those cases.
+Use the left sidebar to browse the content, and visit [the landing page in Instructor View](https://carpentries.github.io/instructor-training/instructor/index.html#schedule) for a sample schedule.
+Most Instructor Training events take place over four half-days, and the majority of others span two full days.
 
 ### Collaborative Notes
 Trainers will share the link to an [_Etherpad_](https://github.com/carpentries/community-engagement/blob/main/glossary.md#etherpad) that can be used for chatting, collaborating on notes, and sharing URLs and bits of code during the training.
