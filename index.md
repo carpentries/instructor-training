@@ -64,7 +64,7 @@ half days, with the "end part 1" and "end part 3" episodes used as lunch breaks;
 in a 4 day training, parts correspond to days and the time allocated to those
 two episodes is skipped. 
 
-A common modification is to switch from one break rouhgly at the middle of each 
+A common modification is to switch from one break roughly at the middle of each 
 part to two breaks at about 1/3 and 2/3 through the part. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
 
