@@ -24,8 +24,8 @@ Details about the Instructor Trainer role including the application process, dut
   - How do you ensure that all trainees stay engaged and participate?
   - How can Trainers help each other (at times when we are not the active Trainer)? How should we communicate with each other during the training?
   - How can we address trainee challenges? These may include internet connectivity problems, distractions caused by working from home, etc.
-- Create an event Etherpad using the [Etherpad template][etherpad-template]). (Google Doc [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) may not be maintained) and a workshop website (using the [training template][training-template]). **If you find areas where the template needs to be updated,** please email suggested changes to instructor.training@carpentries.org. You are welcome to make quick fixes (e.g. links) yourself
-- Send Etherpad/Google Doc and website links to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+- Create an event Etherpad using the [Etherpad template][etherpad-template]). (Google Doc [template](https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit?usp=sharing) may not be maintained) 
+- Send Etherpad/Google Doc links to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 - Consider forking the Instructor Training curriculum and doing all of your preparation work based on your fork so that any changes do not impact your preparation.
 
 ### One Week before the Event
