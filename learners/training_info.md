@@ -50,7 +50,7 @@ We do not require participants to provide documentation of disabilities or discl
 However, we do want to help create an inclusive, accessible experience for all participants.
 We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
 To request an accommodation for this training, please fill out the [accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0).
-If you have questions or need assistance with the accommodation form please [email us](mailto:team@carpentries.org).
+If you have questions or need assistance with the accommodation form please [email us](mailto:community@carpentries.org).
 
 For in-person training events, organisers have checked that:
 
