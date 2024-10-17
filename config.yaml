@@ -87,6 +87,7 @@ episodes:
 
 # Information for Learners
 learners: 
+- training_info.md
 - training_calendar.md
 - checkout.md
 - demo_lessons.md
