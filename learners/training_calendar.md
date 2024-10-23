@@ -42,12 +42,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [October 28-31 2024](https://www.eventbrite.com/e/online-instructor-training-october-28-31-2024-tickets-1007621241257)
-
-**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 1 pm to 5 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20241028T09&p1=179&ah=4)
-
-<hr>
-
 #### [November 5-6 2024](https://www.eventbrite.com/e/online-instructor-training-november-5-6-2024-tickets-1007696717007)
 **Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20241105T09&p1=137&ah=8)
 
