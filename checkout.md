@@ -203,7 +203,7 @@ That counts!
 ### Attend a Regional Call, Skill-Up Session, or Other Community Programming
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these
 sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community
-programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the
+programming, [see this blog post](https://carpentries.org/blog/2023/04/2023-04-28-new-community-programming/) or go directly to the
 [Community Sessions Etherpad][discussion] to look for sessions that will work for you!
 
 ### Contribute to the construction or maintenance of Carpentries materials
@@ -351,7 +351,7 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
 [handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
-[git-blog]: https://carpentries.org/blog/2020/05/conversations-teaching-git-github/
+[git-blog]: https://carpentries.org/blog/2020/05/2020-05-04-conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [glosario-github]: https://github.com/carpentries/glosario/
