@@ -121,7 +121,7 @@ in a way that facilitates growth.
   hear feedback that you have asked for.
 
 - **Be specific.** See a great example of this from
-  this [Lunar Baboon comic][lunar-babboon]
+  this [Lunar Baboon comic][lunar-babboon].
 
 As an instructor one way to get specific feedback is to provide questions that
 focus the responses.  Writing your own feedback questions allows you to frame
