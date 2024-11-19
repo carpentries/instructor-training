@@ -5,8 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-## Examining Your Expertise
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain what differentiates an expert from a competent practitioner.
@@ -23,6 +21,8 @@ exercises: 25
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Examining Your Expertise
+
 In the last episode, we discussed the transition from novice to competent practitioner through
 formation of a functional mental model. We now shift our attention to experts. The expert we want to talk about is you!
 
@@ -35,7 +35,7 @@ identify and overcome these difficulties.
 
 ## What Makes an Expert?
 
-An [earlier topic](02-practice-learning/) described a key
+An [earlier topic](02-practice-learning) described a key
 difference between novices and competent practitioners. Novices lack a mental model, or have only
 a very incomplete model with limited utility.
 Competent practitioners
@@ -149,8 +149,8 @@ you might invite a friend to meet you at "the deli" or simply at
 "the restaurant" and expect them to know what you mean, because you naturally use these terms interchangeably.
 Yet, someone less familiar with US English might hesitate, wondering if
 these words mean the same thing, or close enough, under the circumstances. Similarly,
-in a Carpentries workshop, an Instructor may start a workshop talking about "Unix," but
-then automatically start using words like "bash" and "shell"
+in a Carpentries workshop, an Instructor may start a workshop talking about "Unix", but
+then automatically start using words like "Bash" and "shell"
 without noticing that learners are struggling to figure out how these
 two new words are related.
 

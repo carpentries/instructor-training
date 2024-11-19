@@ -8,7 +8,7 @@ This training is designed for people who want to become certified Carpentries in
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
-In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html).
+In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout).
 
 ### How to Register for an Instructor Training
 
@@ -19,10 +19,6 @@ Invited trainees can register for events listed below by clicking on the link fo
 #### Members and other groups
 
 Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date.
-
-#### Open Instructor Training
-
-Open Instructor Training codes become active for each event starting one month before the start date. All events are closed one week before their start date. Please register for only one training; duplicate registrations may be deleted.
 
 ### Cancellation Policies
 
@@ -42,38 +38,24 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 ### Upcoming Instructor Training
 
-New trainings are added to this calendar on a quarterly basis.
+New trainings are added to this calendar on a quarterly basis (generally in early March, June, September, and December).
 
 <hr>
 
-#### [February 15-16, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-15-16-2023-tickets-476729620127)
-
-**Two 8-hour days:** 9 am to 5 pm N. America Mountain Time / 11 am to 7 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230215T09&p1=75&ah=8)
-
-<hr>
-
-#### [February 21-24, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-february-21-24-2023-tickets-476730954117)
-
-**Four 4-hour days:** 1 pm to 5 pm N. America Eastern Time / 10 am to 2 pm N. America Pacific Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230221T13&p1=77&ah=4)
+#### [December 10-11 2024](https://www.eventbrite.com/e/copy-of-online-instructor-training-december-10-11-2024-tickets-1007701451167)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20241210T09&p1=179&ah=8)
 
 <hr>
 
-#### [March 6-9, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-6-9-2023-tickets-476732177777)
-
-**Four 4-hour days:** 1 pm to 5 pm Central European Time / 7 am to 11 am N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230306T13&p1=195&ah=4)
-
-<hr>
-
-#### [March 14-15, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-14-15-2023-tickets-476736390377)
-
-**Two 8-hour days:** 9 am to 5 pm UTC / 2:30 pm to 10:30 pm India Standard Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230314T09&p1=136&ah=8)
+#### [December 10-13 2024](https://www.eventbrite.com/e/online-instructor-training-december-10-13-2024-tickets-1007692273717)
+**Four 4-hour days:** 9 am to 1 pm Central European Time / 1:30 pm to 5:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20241210T09&p1=195&ah=4)
 
 <hr>
 
-#### [March 20-23, 2023](https://www.eventbrite.com/e/the-carpentries-online-instructor-training-march-20-23-2023-tickets-476742779487)
+### Accommodations
 
-**Four 4-hour days:** 1 pm to 5 pm N. America Mountain Time / 8 am to 12 noon **FOLLOWING DAY** New Zealand Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20230320T13&p1=75&ah=4)
-
-<hr>
-
-
+We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
+However, we do want to help create an inclusive, accessible experience for all participants. 
+We encourage you to share any information that would be helpful to make your Carpentries experience accessible. 
+To request an accommodation for this training, please fill out the [accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0)
+If you have questions or need assistance with the accommodation form please [email us](mailto:instructor.training@carpentries.org).

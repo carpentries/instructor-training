@@ -5,10 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-We will now get started with a discussion of how learning works. We will begin with
-some key concepts from educational research and identify how these principles
-are put into practice in Carpentries workshops.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Compare and contrast the three stages of skill acquisition.
@@ -26,6 +22,10 @@ are put into practice in Carpentries workshops.
 - How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+We will now get started with a discussion of how learning works. We will begin with
+some key concepts from educational research and identify how these principles
+are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
 
@@ -91,7 +91,9 @@ for how we teach.
 
 ## Building a Mental Model
 
-:::::::::::::::::::::::::::::::::::::  testimonial
+:::::::::::::::::::::::::::::::::::::  callout
+
+### Models are not perfect but are still helpful
 
 All models are wrong, but some are useful.
 
@@ -122,7 +124,7 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 ## Analogy Brainstorm
 
 1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If
-  you prefer to work with an example, consider this common analogy from education: "teaching is like gardening."
+  you prefer to work with an example, consider this analogy from education: "teaching is like gardening."
 2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
   convey about the topic? How is it useful? In what ways is it wrong?
 
@@ -166,6 +168,20 @@ Returning to our example levels of skill development:
 ![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.'}
 
 ### Mapping a Mental Model
+:::::::::::::::::::::::::::::::::::::::  instructor
+People often request to see more examples of concept maps. These are some examples linked from a previous version of the curriculum:
+
+- [Array Math](fig/array-math.png)
+- [Conditionals](fig/conditionals.png)
+- [Creating and Destroying Files](fig/create-destroy.png)
+- [Sets and Dictionaries in Python](fig/dict-set.png)
+- [Input and Output](fig/io.png)
+- [Lists and Loops](fig/lists-loops.png)
+- [Git Version Control](fig/git_concept_map.png)
+
+Most of these are much larger than our recommended limit for the activity. It can be helpful to make a larger map and then narrow down to a smaller one.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Most people do not naturally visualize a mental model as a diagram of concepts and relationships. Mental models are complicated!
 Yet, visual representation of concepts and relationships can be a useful way to explore and understand hidden features of a mental model.
@@ -336,7 +352,7 @@ This discussion should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Each of these incorrect answers has **diagnostic power**
+Each of these incorrect answers has **diagnostic power**. 
 Each answer looks like it could be right:
 silly answers like "a fish!" offer therapeutic comedy but do not provide insight; nor do answers that
 are wrong in random ways.

@@ -21,7 +21,7 @@ training_site: https://carpentries.github.io/instructor-training
 3. Please read the following before the workshop begins:
 
 - ["The Science of Learning"](./files/papers/science-of-learning-2015.pdf)
-- ["The Carpentries Annual Report"](https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf)
+- ["The Carpentries Annual Report"](https://carpentries.org/files/reports/AnnualReport2022.pdf)
 
 **For Online Events:**  
 4\. Please ensure that your computer and internet are sufficient to connect via Zoom
@@ -45,25 +45,21 @@ If you have any questions about the workshop, the reading material, or anything 
 
 If you are having trouble choosing an episode, we recommend choosing one of the following:
 
-**Data Carpentry**
-
-- [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/02-exploring-data/index.html)
-- [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries/)
-- [Starting with Data in R](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
-- [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data)
-
-**Software Carpentry**
-
-- [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create/)
-- [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes/)
-- [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select/)
-- [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop/)
-- [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/)
-
-**Library Carpentry**
-
-- [Working with Files and Directories](https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders/index.html)
-- [Automating the Tedious with Loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)
-- [Importing Data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html)
+ - Data Carpentry   
+    - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
+    - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
+    - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
+    - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
+    - [Exploring and Understanding Data in R](https://datacarpentry.org/R-ecology-lesson/how-r-thinks-about-data.html)
+  - Library Carpentry    
+    - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
+    - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
+    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops.html)
+  - Software Carpentry    
+    - [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
+    - [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)
+    - [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select.html)
+    - [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)
+    - [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html)
 
 

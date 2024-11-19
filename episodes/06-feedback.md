@@ -5,13 +5,6 @@ teaching: 10
 exercises: 10
 ---
 
-We use formative assessment of learners during workshops to help track
-learners' progress and adjust our approach to teaching the content as needed.
-But formative assessment is not just for learners. As we will discuss in more detail
-[later](11-practice-teaching/), teaching is also a skill that is improved
-through regular practice and feedback. We gather feedback from our learners
-at multiple points in the workshop and in different forms.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe three feedback mechanisms used in Carpentries workshops.
@@ -25,6 +18,13 @@ at multiple points in the workshop and in different forms.
 - How can I use this feedback to improve my teaching?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+We use formative assessment of learners during workshops to help track
+learners' progress and adjust our approach to teaching the content as needed.
+But formative assessment is not just for learners. As we will discuss in more detail
+[later](11-practice-teaching), teaching is also a skill that is improved
+through regular practice and feedback. We gather feedback from our learners
+at multiple points in the workshop and in different forms.
 
 ## Surveys
 
@@ -58,7 +58,7 @@ a dashboard with the results! Take care not to share this link with your learner
 
 The survey links above are only for you to preview the survey as part of
 Instructor Training. When you are teaching a workshop, make sure to share the
-links that gets generated on your workshop website. Doing so will ensure that
+links that get generated on your workshop website. Doing so will ensure that
 you will receive all the survey results from your workshop participants.
 
 

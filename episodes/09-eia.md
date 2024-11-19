@@ -5,8 +5,6 @@ teaching: 20
 exercises: 20
 ---
 
-## A Positive Environment for All
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify instructional strategies that are consistent with universal design.
@@ -21,6 +19,8 @@ exercises: 20
 - What can I do enhance equity, inclusion, and accessibility in my workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A Positive Environment for All
 
 As we have seen, there are many teaching practices that can make your workshop more positive and welcoming.
 However, no workshop occurs in a vacuum: everyone's experiences begin and end and are influenced by the world beyond.
@@ -69,6 +69,15 @@ This exercise should take about 5 minutes.
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely.
 What barriers might be present in your workshop, and what can you do to remove them?
 
+::::::::::::::::::::::::::::::::::::::: instructor
+
+In your discussion of accessibility, it is helpful to point out that accessibility may not always affect only individual learners,
+such as persons with disabilities. Geographic and social differences can present barriers to accessibility for entire groups.
+People in rural regions or institutions with unreliable electricity and internet access, for example, face extra barriers to
+participating in online Carpentries workshops, instructor trainings, and community events.
+
+:::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## What Happens When Accessibility is an Issue?
@@ -104,7 +113,7 @@ Accommodation means changing things to serve an individual with a demonstrated n
 However, **accommodation puts the onus on the individual with the need** to
 have to disclose their disability and ask for accommodations. Reluctance to
 do so is understandable: requests for accommodation are often met with negative
-emotions such as uncertainity, confusion, annoyance or anger by those receiving the requests.
+emotions such as uncertainty, confusion, annoyance or anger by those receiving the requests.
 
 By contrast, "universal design" means creating something to be maximally usable by all people
 without additional changes.
@@ -133,7 +142,7 @@ The key to UDL is creating redundancies such that learners have multiple options
 
 ## Activity: Applying Universal Design in Your Teaching
 
-Consider some of the teaching tools and strategies we have discussed so far in this workshop, or others you have observed in your experience.
+Consider some of the teaching tools and strategies we have discussed so far in this training, or others you have observed in your experience.
 How do these meet UDL goals of providing multiple options for learners?
 
 Consider multiple ways for learners to:
@@ -168,7 +177,7 @@ instruction more accessible.
   that are both quick to accomplish and minimal in demands on attention:
   font choices, text size,
   checking in advance that your room is accessible via an elevator or ramp, etc.
-  
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -212,7 +221,7 @@ they are all wrong... but some are dangerous.
 ### What are stereotypes?
 
 Stereotypes are an established feature of human social cognition, in which a set of characteristics
-is associated with members of a group. Sterotypes:
+is associated with members of a group. Stereotypes:
 
 - may be explicit (conscious and deliberate) or implicit (unconscious and automatic)
 - guide what we notice about people
@@ -278,7 +287,7 @@ groups in your community who may be interested in attending.
 One central way that The Carpentries fosters an inclusive, respectful
 learning environment is our [Code of Conduct][coc].
 
-All participants in our workshops and communities are required to abide by the
+All participants in our workshops, activities and communities are required to abide by the
 [Code of Conduct][coc].
 This code helps to ensure that our community does not tolerate the persistence of behaviors
 that harm or exclude others. While such a code cannot prevent all incidents, reminding
@@ -310,7 +319,7 @@ including opportunities for **anonymous feedback**.
 
 When you pay close attention to your own actions, this can help you to do more than (painfully) identify how often you
 use the word "just"! Monitoring your actions can also provide you with useful information about the ways in which you behave
-differently with different people. This is normal! It is also an excellent way to identify patterns that may intefere with your
+differently with different people. This is normal! It is also an excellent way to identify patterns that may interfere with your
 intent to create an inclusive environment for all. Did you answer the same question in different ways at different points? If so, why?
 Who did you feel comfortable chatting with at break time, and who seemed harder to connect with? Did you offer help to anyone who
 didn't ask for it? Who were you most eager to impress?
@@ -321,10 +330,10 @@ When you notice things that trouble you, keep a positive and simple goal in mind
 ## Looking for More? Want to Contribute?
 
 The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in
-being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "improve this page" link
+being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "Edit this page" link
 at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
-[glossary]: https://www.diversity.pitt.edu/education/diversity-equity-and-inclusion-glossary
+[glossary]: https://www.diversity.pitt.edu/education/glossary-terms
 [core-values]: https://carpentries.org/values/
 [handbook-host-template]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop
 [sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
@@ -333,8 +342,8 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 [post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[slack-accessibility]: https://swcarpentry.slack.com/archives/CBDTKM30Q
-[slack-join]: https://swc-slack-invite.herokuapp.com/
+[slack-accessibility]: https://carpentries.slack.com/archives/CBDTKM30Q
+[slack-join]: https://slack-invite.carpentries.org
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

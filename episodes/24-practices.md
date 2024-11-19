@@ -4,8 +4,6 @@ teaching: 5
 exercises: 15
 ---
 
-We are almost done with our training!  At this point, we have covered many, many topics
-around teaching and learning, especially in the context of Carpentries workshops.
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -18,11 +16,15 @@ around teaching and learning, especially in the context of Carpentries workshops
 - How are the teaching practices we have learned used in our workshops?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+We are almost done with our training!  At this point, we have covered many, many topics
+around teaching and learning, especially in the context of Carpentries workshops.
 
+  
 Carpentries instructors use a set of teaching techniques based on evidence from
 educational research. We have talked about some of these techniques explicitly
 (e.g. participatory live coding and formative assessment), and others we have been modeling throughout
-the workshop, without necessarily calling attention to what we were doing. Some of
+the training, without necessarily calling attention to what we were doing. Some of
 these teaching techniques are implemented at particular points in a workshop, while
 others are used throughout. Let us put together everything we have learned and organize
 these practices in terms of what parts of a workshop we need to be conscious of each
@@ -33,7 +35,7 @@ about teaching and learning, specifically in the Carpentries context.
 
 ## Picking up the Pieces
 
-Based on the content we've discussed throughout this workshop, add at least one item to each category below:
+Based on the content we've discussed throughout this training, add at least one item to each category below:
 
 - Concepts/Theories
 - Tools/Practices
@@ -95,6 +97,15 @@ If you feel you have finished organizing your thoughts, try the next exercise.
 
 This exercise should take about 5 minutes.
 
+::::: hint
+
+## Excalidraw
+
+The online tool we used in the mental models exercise is [Excalidraw](https://excalidraw.com/), in case you'd like to use it here.
+
+
+:::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -113,7 +124,7 @@ exercise, now consider:
 While there are many ways to
 think about the practice of teaching, we hope that this training has provided a model of
 teaching that is **learner-centered**.  In other words, teaching is not really about the
-teacher, but the learners!  The more we know about learner's backgrounds, motivations,
+teacher, but the learners!  The more we know about learners' backgrounds, motivations,
 and how they learn (educational psychology) and what interventions can address these
 issues, the more effective our teaching can be.  This also means that our model of teaching
 does not mean you need to be an expert in the content you are teaching or that you have

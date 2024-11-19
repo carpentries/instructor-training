@@ -5,13 +5,6 @@ teaching: 20
 exercises: 40
 ---
 
-So far, we have focused on how we can be effective instructors by understanding
-how people learn and how to create a positive classroom environment, covering
-two of our primary goals in helping you become a certified Carpentries Instructor.
-Now our focus will shift to developing additional teaching skills that you can
-use in a Carpentries workshop setting, starting with the process of "lesson study",
-or teaching observation and feedback.
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Use peer-to-peer lesson practice to transform your instruction.
@@ -25,6 +18,13 @@ or teaching observation and feedback.
 - How can I improve my teaching?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+So far, we have focused on how we can be effective instructors by understanding
+how people learn and how to create a positive classroom environment, covering
+two of our primary goals in helping you become a certified Carpentries Instructor.
+Now our focus will shift to developing additional teaching skills that you can
+use in a Carpentries workshop setting, starting with the process of "lesson study",
+or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
 
@@ -80,7 +80,7 @@ forward momentum on system-wide improvements to teaching.
 Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
 observing the work of others.  The Carpentries pedagogical model supports lesson
 study by providing many opportunities for our instructors
-to learn from each other. In this training workshop, you will have opportunities to practice teaching for one another
+to learn from each other. In this training, you will have opportunities to practice teaching for one another
 and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
 as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
 giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
@@ -121,7 +121,7 @@ in a way that facilitates growth.
   hear feedback that you have asked for.
 
 - **Be specific.** See a great example of this from
-  this [Lunar Baboon comic][lunar-babboon]
+  this [Lunar Baboon comic][lunar-babboon].
 
 As an instructor one way to get specific feedback is to provide questions that
 focus the responses.  Writing your own feedback questions allows you to frame
@@ -204,10 +204,10 @@ give you more to work with!
 2. Individually, spend 5 minutes preparing a 90-second introduction to the topic of
   the lesson episode you chose before the start of the training course. You will not
   be live coding.
-3. Get together with your group and have one person teach their segment to the group.
+3. Get together with your group and have one person introduce their lesson episode to the group.
   Keep a strict time limit of 90 seconds per person (one person
   should be responsible for the timekeeping).
-4. After the first person has finished teaching, share feedback. The person who performed
+4. After the first person has finished their introduction, share feedback. The person who performed
   should start by offering feedback on themselves. The timekeeper should help to keep
   feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
 5. Rotate roles and repeat steps 3 \& 4
@@ -220,7 +220,7 @@ give you more to work with!
   the lesson episode you chose before the start of the training course. You will not
   be live coding; you can use a whiteboard or other visual aids if available (but
   this is not required!).
-3. Get together with your group and have each person teach their segment to the group,
+3. Get together with your group and have each person introduce their lesson episode to the group,
   while one person records this (video and audio)
   using a cell phone or some other handheld device.
   Keep a strict time limit of 90 seconds per person (one person
@@ -231,7 +231,7 @@ give you more to work with!
   the audience becomes the instructor,
   the person who was recording becomes the audience)
   and then rotate roles again.
-5. After everyone in the group of three has finished teaching,
+5. After everyone in the group of three has finished their introduction,
   watch the videos as a group.
   Everyone gives feedback on all three videos,
   i.e., people give feedback on themselves as well as on others.

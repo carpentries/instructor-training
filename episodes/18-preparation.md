@@ -37,15 +37,23 @@ demonstrating how you Google things may earn surprisingly positive feedback! In 
 to attend to the audience usually has much more serious consequences for learning and morale. When you prepare to teach,
 we therefore suggest setting aside time *before* deeply reviewing your technical content to **plan your approach to instruction**.
 
-:::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::  instructor
 
 ## A note on cutting
 
-This episode is a common place to Trainers to cut while preparing to teach.
+This episode is a common place for Trainers to cut parts of while preparing to teach.
 That's not because this is not important -- this page is a valuable resource -- but we feel this
 is one of the sections that trainees can use effectively as a resource when actually preparing
 for a workshop, even without spending a lot of time doing activities on this material during
 their Instructor Training event.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Using this page as a resource
+
+Your trainers may not cover everything here during Instructor Training because the material is designed to be a valuable ongoing reference. We encourage you to keep this episode handy as a resource when preparing for a workshop.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -136,7 +144,7 @@ checkpoints built in where such progress is made clear. Where they do, they can 
 ## Where are your Checkpoints?
 
 Have a look at your learning objective again and identify
-*where* in the lesson that objective should reasonably be achieved.
+*where* in the episode that objective should reasonably be achieved.
 
 This exercise should take about 5 minutes.
 
@@ -221,7 +229,7 @@ to avoid making mistakes when you start cutting things 'on the fly.'
 Many of The Carpentries lessons have
 instructor's notes, with information
 from instructors who have already taught the material. This can be a valuable
-resource when preparing lessons, especially when teaching a lesson for the first time.  
+resource when preparing to teach, especially when teaching a lesson for the first time.  
 The instructor notes are linked on each lesson page under the "Extras" pull down menu.
 In addition, configuration problems and other
 technical hurdles common across multiple lessons are detailed [in this community-developed page][Config]

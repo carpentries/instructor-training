@@ -5,9 +5,6 @@ teaching: 5
 exercises: 5
 ---
 
-To refresh as we enter the second half of this workshop, the goal of this training is prepare
-you to be a certified Carpentries Instructor, which includes the following:
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Review main points we discussed in parts 1 and 2.
@@ -21,6 +18,9 @@ you to be a certified Carpentries Instructor, which includes the following:
 - What will we focus on next?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+To refresh as we enter the second half of this training, the goal of this training is to prepare
+you to be a certified Carpentries Instructor, which includes the following:
 
 - be familiar with and understand how to apply research-based teaching principles,
   especially as they apply to The Carpentries audience.
@@ -43,7 +43,7 @@ in The Carpentries is participatory live coding.  We will spend some time practi
 one, you rarely find this approach in a current university setting so it is good
 to try it out, but also, this will give us a chance to continue developing skills
 we discussed so far that help improve our teaching: reflective practice and
-providing (and receiving!) constructive feedback. In the final sections of the workshop,
+providing (and receiving!) constructive feedback. In the final sections of the training,
 we will conclude our training with a discussion about workshop logistics that will help you in preparing to teach your first workshop and become involved in The Carpentries community.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -52,7 +52,7 @@ we will conclude our training with a discussion about workshop logistics that wi
 
 At the end of part 2, we asked you to read some resources about the logistics of teaching and running Carpentries workshops. Please
 add your questions about logistics and preparation to the Etherpad. We will answer these questions in the Etherpad during your work time
-and will return to this list later in the training. We may draw on the [Workshop FAQ](https://carpentries.org/workshop_faq/), which you
+and will return to this list later in the training. We may draw on the [Workshop FAQ](https://carpentries.org/workshops/workshops-faq/), which you
 can also refer to later if you have additional questions.
 
 This activity should take about 5 minutes.

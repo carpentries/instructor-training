@@ -1,0 +1,23 @@
+name: Report a problem
+description: Tell us about something that needs to be fixed
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: What is the problem?
+      description: Please provide details, to make it easier for the Maintainers and other community members to address the issue.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location of problem (optional)
+      description: Where is the problem that needs to be fixed? (e.g. the name of the source file or the URL(s) of the webpage(s))
+  - type: markdown
+    attributes:
+      value: >
+        Thank you for taking time to tell us about a problem in this repository.
+        Before you submit the issue, please make sure you have read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+        Please keep in mind that lesson Maintainers are volunteers and it may be some time before they can respond to your contribution. 
+        If you have any questions about the lesson maintenance process or would like to volunteer your time as a contribution reviewer, 
+        please contact The Carpentries Team at team@carpentries.org.

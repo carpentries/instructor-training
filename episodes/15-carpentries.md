@@ -5,14 +5,6 @@ teaching: 20
 exercises: 25
 ---
 
-In becoming a certified [Carpentries Instructor](https://carpentries.org/instructors/),
-you are also becoming part of a community of like-minded volunteers. Our most
-active members draw upon this community for support and mentorship, pursuing goals that
-matter to them and creating relationships across the globe.
-This section provides some background on
-[The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
-ways you might wish to participate (including by teaching workshops!).
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 - CK: Not an "official" exercise, but after explaining the workshops and how to run them,
@@ -47,6 +39,14 @@ ways you might wish to participate (including by teaching workshops!).
 - How do you run a Carpentries workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+  
+In becoming a certified [Carpentries Instructor](https://carpentries.org/instructors/),
+you are also becoming part of a community of like-minded volunteers. Our most
+active members draw upon this community for support and mentorship, pursuing goals that
+matter to them and creating relationships across the globe.
+This section provides some background on
+[The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
+ways you might wish to participate (including by teaching workshops!).
 
 ## A Brief History
 
@@ -59,19 +59,17 @@ On January 1, 2018, Software Carpentry and Data Carpentry merged to form a new p
 [The Carpentries](https://carpentries.org/)
 under the fiscal sponsorship of
 [Community Initiatives][CI].
-Within this new organization structure, Software Carpentry and Data Carpentry retained their individual identities as Lesson Programs of The Carpentries.
-On November 1, 2018, The Carpentries Executive Council
+Within this new organisation structure, Software Carpentry and Data Carpentry retained their identities as Lesson Programs of The Carpentries.
+On November 1, 2018, The Carpentries governance (formerly known as the Executive Council)
 approved [Library Carpentry](https://librarycarpentry.org/)
 as the third official Lesson Program of The Carpentries.
 
-The Carpentries administration and other essential operations are held together by a small [Core Team][coreteam-page],
+The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
-The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, Executive Council
-members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
-Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers,
-learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
+The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
+Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers, learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
-![](fig/SWCDChistory.png){alt='A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozila Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.'}
+![](fig/SWCDChistory.png){alt='A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozilla Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.'}
 
 You can learn more about the history and goals of each Lesson Program by reading
 "[Software Carpentry: Lessons Learned][F1000]",
@@ -86,7 +84,7 @@ Their aligned missions are accomplished by running accessible, inclusive trainin
 Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
 
 - a focus on technical skills,
-- a two-day format taught by volunteer instructors, and
+- a two full day or four half day format taught by volunteer instructors, and
 - a focus on filling gaps in current training for learners.
 
 The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
@@ -106,7 +104,7 @@ You may only call a workshop a Data Carpentry, Library Carpentry, or Software Ca
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
-rely on your judgement as a certified Instructor to recruit and orient volunteers who
+rely on your judgment as a certified Instructor to recruit and orient volunteers who
 will support you in implementing The Carpentries values and practices. **We do expect you to have at least one co-Instructor and helpers**, even if they are not
 certified instructors.
 
@@ -114,8 +112,8 @@ certified instructors.
 
 ## Local Support
 
-There is a helpful list for planning here in the handbook [Helper Checklist and Suggestions][docs-helper-checklist]. We recommend at least a 1:8
-helper-to-learner ratio for in-person workshops and more (e.g. 1:5) if teaching online.
+There are several helpful [Workshop Checklists and Suggestions][docs-workshop-checklists] in the handbook. The Helper checklist recommends at least a 1:10
+helper-to-learner ratio for in-person workshops (not counting instructors) and more if teaching online.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -124,7 +122,7 @@ helper-to-learner ratio for in-person workshops and more (e.g. 1:5) if teaching 
 All Carpentries lesson
 materials are freely available under a permissive [open license](LICENSE.md).
 This means that you may use them in contexts outside of a Carpentries workshop (e.g. as material
-introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
+introduced into a longer course, as a standalone 2-3 hour session, as practice exercises, etc.)
 provided you cite the original source.
 
 It is only when you want to run a branded Carpentries workshop using the materials
@@ -158,6 +156,20 @@ As a class or in groups, see how many of the following terms you can define.
 - (Instructor) Trainer
 
 This should take about 5 minutes.
+
+::::::::::::::::::::::: solution
+
+### Links to definitions
+These terms are defined in our Community Glossary.
+
+- [Lesson](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson)
+- [Episode](https://github.com/carpentries/community-development/blob/main/glossary.md#episode-lesson-episode)
+- [Workshop](https://github.com/carpentries/community-development/blob/main/glossary.md#workshop)
+- [Lesson Program](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson-program)
+- [Instructor](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor)
+- [(Instructor) Trainer](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor-trainer)
+
+::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -223,20 +235,23 @@ Leave about 10 minutes for this discussion.
 
 Maybe this instructor training has inspired you to go home and write your
 own fantastic lesson!  If you would like to model it after the Software, Data and
-Library Carpentry lesson format, you can find a template and instructions in
-[The Carpentries lesson example repository](https://github.com/carpentries/lesson-example/),
-and a place to develop it in [The Carpentries Incubator][carpentries-incubator].
+Library Carpentry lesson format, you can find two Workbench lesson templates available:
 
-Any lesson that uses The Carpentries [lesson template][lesson-template],
-follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0]
-can be hosted in The Carpentries Incubator.
-Another resource, [The Carpentries Curriculum Development Handbook][cdh], provides a guide to
-the backwards design approach we recommend for lesson development.
+- [Markdown](template-md): this template is suitable for lessons that serve static content
+- [RMarkdown](template-rmd): this template is suitable for lessons that include executable R code
+
+Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
+and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
+
+[The Collaborative Lesson Development Training curriculum][cld] provides a guide to
+the backward design approach we recommend for lesson development. This curriculum is part of our official
+teaching offerings; please contact [The Carpentries](mailto:team@carpentries.org) if you are interested in taking
+this course.
 
 ## A Culture of Contribution
 
-In the same way that we hope to promote research practices that are open, collaborative,
-and reproducible through our technical trainings, The
+In the same way we hope to promote research practices that are open, collaborative,
+and reproducible through our technical training, The
 Carpentries community aims to embody a culture of openness, sharing, and
 continual pursuit of best practices. We draw together the collective expertise of
 all who join us to collaborate on new lessons, share resources,
@@ -258,14 +273,12 @@ Select one role from the list below that interests you. Using the the descriptio
 1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
   would like to see that are not listed? Note that, too!
 
-1. Executive Council
-2. Mentors
-3. Instructor Trainers
-4. Lesson Developers
-5. Code of Conduct Committee
-6. Instructor Development Committee
-7. Community Facilitators
-8. Maintainers
+1. Governance
+2. Instructor Trainers
+3. Lesson developers
+4. Curriculum advisors
+5. Lesson maintainers
+6. Code of Conduct Committee
 
 This exercise should take about 5 minutes.
 
@@ -273,13 +286,13 @@ This exercise should take about 5 minutes.
 
 ### Keeping In Touch
 
-There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their own favorite
+There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favorite
 ways to keep in touch, and we do our best to make that possible.
 
 Want to **listen**?
 
 - Sign up for our newsletter
-- Follow us on Twitter, Facebook, or LinkedIn
+- Follow us on Mastodon or LinkedIn
 
 Want to **interact** (or listen with options to engage)?
 
@@ -288,7 +301,7 @@ Want to **interact** (or listen with options to engage)?
 
 Want to **join meetings** (to meet new people or listen in)?
 
-- Sign up for Community Discussions (or just drop in if there is space!) or other events when announced
+- Sign up for Community Sessions (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -314,10 +327,10 @@ This exercise should take about 5 minutes.
 [coreteam-page]: https://carpentries.org/team/
 [F1000]: https://f1000research.com/articles/3-62/v2
 [IJDC]: https://ijdc.net/index.php/ijdc/article/view/10.1.135
-[LIBERQ]: https://www.liberquarterly.eu/article/10.18352/lq.10176/
+[LIBERQ]: https://doi.org/10.18352/lq.10176
 [values-page]: https://carpentries.org/values/
 [workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
-[docs-helper-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
+[docs-workshop-checklists]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [membership-page]: https://carpentries.org/membership/
@@ -329,11 +342,12 @@ This exercise should take about 5 minutes.
 [connect-page]: https://carpentries.org/connect/
 [instructors-list]: https://carpentries.topicbox.com/groups/instructors
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
-[lesson-template]: https://carpentries.github.io/lesson-example/
+[template-md]: https://github.com/carpentries/workbench-template-md/
+[template-rmd]: https://github.com/carpentries/workbench-template-rmd/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
-[cdh]: https://cdh.carpentries.org/
+[cld]: https://carpentries.github.io/lesson-development-training
 [community-page]: https://carpentries.org/community/
 
 

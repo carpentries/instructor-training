@@ -5,8 +5,6 @@ teaching: 30
 exercises: 30
 ---
 
-## Motivation Matters
-
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify authentic tasks and explain why teaching them is important.
@@ -21,6 +19,8 @@ exercises: 30
 - How can we create a motivating environment for learners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
 necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated
@@ -105,7 +105,7 @@ If you are new to teaching, try to ask an experienced instructor for feedback be
 While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
 workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical
 problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-**be mindful of times when your content is not motivating**, and to strategize your rescue using some of the other techniques in this section.
+**be mindful of times when your content is not motivating**, and to strategize ways to re-engage learners (and yourself) using some of the other techniques in this section.
 
 ## How Can You Affect Motivation?
 
@@ -176,7 +176,7 @@ This exercise should take about 5 minutes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using
-  [participatory live coding](17-live/), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while
+  [participatory live coding](17-live), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while
   coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both
   problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can
   help here, too.
@@ -228,7 +228,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Leveraging the Power of "Yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
+- **Leveraging the power of "yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
   these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasize that being a novice is
   a temporary state, and encourages a growth mindset towards progress.
 
@@ -248,8 +248,8 @@ serious hazards in the classroom! Here are a few **things you should not do in y
 - **Pretend to know more than you do**.  People will actually trust you
   more if you are frank about the limitations of your knowledge, and
   will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
-- **Use the J word ("just") or other demotivating words** we talked about in a
-  [previous lesson](04-expertise/). These signal to the learner that
+- **Use the word "just" or other demotivating words** we talked about in a
+  [previous lesson](04-expertise.html). These signal to the learner that
   the instructor thinks their problem is trivial
   and by extension that they therefore must be deficient
   if they are not able to figure it out.

@@ -109,6 +109,9 @@ title: Glossary
   The practice of allowing learners to ask their own questions, set
   their own goals, and find their own path through a subject.
 
+- **Jugyokenkyu**:
+  See *lesson study*.
+
 - **Lateral Knowledge Transfer**:
   The "accidental" transfer of knowledge that occurs when an instructor
   is teaching one thing, and the learner picks up another.
