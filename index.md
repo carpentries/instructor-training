@@ -54,6 +54,21 @@ Feedback on these materials is welcome as an [issue][issues] on the GitHub repos
 
 **These materials are freely available under a [Creative Commons license][license].**
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+### Scheduling Notes
+
+The schedule below aggregates time over nearly 16 straight hours.  
+The curriculum is broken in to four parts, labeled with start and end episodes
+and one break episode in each part. In a 2 day training, parts correspond to 
+half days, with the "end part 1" and "end part 3" episodes used as lunch breaks; 
+in a 4 day training, parts correspond to days and the time allocated to those
+two episodes is skipped. 
+
+A common modification is to switch from one break roughly at the middle of each 
+part to two breaks at about 1/3 and 2/3 through the part. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [issues]: https://github.com/carpentries/instructor-training/issues
 [license]: LICENSE.html
