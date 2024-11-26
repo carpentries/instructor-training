@@ -237,8 +237,8 @@ Maybe this instructor training has inspired you to go home and write your
 own fantastic lesson!  If you would like to model it after the Software, Data and
 Library Carpentry lesson format, you can find two Workbench lesson templates available:
 
-- [Markdown](template-md): this template is suitable for lessons that serve static content
-- [RMarkdown](template-rmd): this template is suitable for lessons that include executable R code
+- [Markdown][template-md]: this template is suitable for lessons that serve static content
+- [RMarkdown][template-rmd]: this template is suitable for lessons that include executable R code
 
 Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
 and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
