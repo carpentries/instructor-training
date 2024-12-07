@@ -269,7 +269,7 @@ workshops specifically.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[coc]: https://docs.carpentries.org/policies/coc/
 [form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
 [lesson-dev-web]: https://carpentries.org/involved-lessons/
 [cldt]: https://carpentries.github.io/lesson-development-training/index.html
