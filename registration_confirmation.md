@@ -40,7 +40,7 @@ After a registration has been cancelled in Eventbrite, the code that was used to
 
 If a trainee repeatedly registers and cancels (more than 3 times), or registers for more than one seat at the same time, they may be barred from further registration.
 
-More details on our [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) are available in The Carpentries Handbook.
+More details on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) are available in The Carpentries Handbook.
 
 ## Learn More and Get Connected
 

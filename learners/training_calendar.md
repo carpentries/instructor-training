@@ -34,7 +34,7 @@ Trainees who miss more than 1 hour of an Instructor Training event may be marked
 
 A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
 
-More details on our [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) are available in The Carpentries Handbook.
+More details on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) are available in The Carpentries Handbook.
 
 ### Upcoming Instructor Training
 

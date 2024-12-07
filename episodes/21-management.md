@@ -266,9 +266,9 @@ We encourage you to **discuss an approach to managing Code of Conduct violations
 
 ## Know Your Resources
 
-1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: [https://docs.carpentries.org/topic\_folders/policies/incident-response.html](https://docs.carpentries.org/topic_folders/policies/incident-response.html)
+1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: [https://docs.carpentries.org/policies/coc/incident-response.html](https://docs.carpentries.org/policies/coc/incident-response.html)
 2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook:
-  [https://docs.carpentries.org/topic\_folders/policies/index\_coc.html](https://docs.carpentries.org/topic_folders/policies/index_coc.html) or to the Transparency Reports released by The Carpentries Code of Conduct Committee: [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
+  [https://docs.carpentries.org/policies/coc/](https://docs.carpentries.org/policies/coc/) or to the Transparency Reports released by The Carpentries Code of Conduct Committee: [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
 
 - What kinds of things could your instructional team agree upon in advance of your workshop?
 - What questions do you have about CoC enforcement?
@@ -440,10 +440,10 @@ Note that there are pros and cons to using Etherpad. Pads do occasionally
 freeze or crash, so we recommend creating a backup copy. Otherwise, Etherpads persist
 indefinitely, so they may be used for further reference after a workshop.
 
-[host-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist
+[host-checklist]: https://docs.carpentries.org/resources/workshops/checklists.html#host-checklist
 [worldcat-interactions]: https://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
-[helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist
-[CoC-summary]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[helpers]: https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist
+[CoC-summary]: https://docs.carpentries.org/policies/coc/#code-of-conduct-summary-view
 [vps]: https://en.wikipedia.org/wiki/Virtual_private_server
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
 [blog-coc-facilitators]: https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/

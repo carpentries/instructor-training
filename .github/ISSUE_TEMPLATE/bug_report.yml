@@ -17,7 +17,7 @@ body:
     attributes:
       value: >
         Thank you for taking time to tell us about a problem in this repository.
-        Before you submit the issue, please make sure you have read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+        Before you submit the issue, please make sure you have read [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/)
         Please keep in mind that lesson Maintainers are volunteers and it may be some time before they can respond to your contribution. 
         If you have any questions about the lesson maintenance process or would like to volunteer your time as a contribution reviewer, 
         please contact The Carpentries Team at team@carpentries.org.
