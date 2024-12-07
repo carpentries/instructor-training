@@ -193,7 +193,6 @@ The Carpentries Handbook is the definitive source for policies and information, 
 Carpentries-related activities. A few examples of useful content include:
 
 - template emails and checklists for Hosts, Instructors, and Helpers in [The Carpentries Handbook: Teaching and Hosting][docs-teach-host]
-- [policies][docs-policies], many of which affect Instructors and workshops, including
 - the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
 
 As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
@@ -331,21 +330,20 @@ This exercise should take about 5 minutes.
 [LIBERQ]: https://doi.org/10.18352/lq.10176
 [values-page]: https://carpentries.org/values/
 [workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
-[docs-workshop-checklists]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
+[docs-workshop-checklists]: https://docs.carpentries.org/resources/workshops/checklists.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [membership-page]: https://carpentries.org/membership/
 [SO-recruiting-blog]: https://carpentries.org/blog/2021/06/Recruiting-Instructors-for-Self-Organised-Workshops/
 [docs]: https://docs.carpentries.org/
-[docs-teach-host]: https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
-[docs-policies]: https://docs.carpentries.org/topic_folders/policies/index.html
-[docs-noshow]: https://docs.carpentries.org/topic_folders/policies/instructor-no-show-policy.html#instructor-no-show-policy
+[docs-teach-host]: https://docs.carpentries.org/resources/workshops/
+[docs-noshow]: https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy
 [connect-page]: https://carpentries.org/connect/
 [instructors-list]: https://carpentries.topicbox.com/groups/instructors
 [carpentries-incubator]: https://github.com/carpentries-incubator/proposals/
 [template-md]: https://github.com/carpentries/workbench-template-md/
 [template-rmd]: https://github.com/carpentries/workbench-template-rmd/
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[coc]: https://docs.carpentries.org/policies/coc/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cld]: https://carpentries.github.io/lesson-development-training
