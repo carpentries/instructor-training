@@ -134,7 +134,7 @@ confusion or doubt. Creating a motivating classroom means inviting communication
 A few ways to invite participation are:
 
 - **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking
-  stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+  stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/policies/coc/)
   also provides a framework for positive communication to occur.
 - **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages
   learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and

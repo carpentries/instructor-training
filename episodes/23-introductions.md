@@ -171,7 +171,7 @@ additional requests as needed.
 
 **Communicate your expectations** for learners, including:
 
-- how to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
+- how to follow the [Code of Conduct](https://docs.carpentries.org/policies/coc/)
 - ways to ask for help
 - ways to give feedback to the instructional team
 
