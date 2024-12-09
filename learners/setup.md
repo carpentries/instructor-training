@@ -21,7 +21,7 @@ training_site: https://carpentries.github.io/instructor-training
 3. Please read the following before the workshop begins:
 
 - ["The Science of Learning"](./files/papers/science-of-learning-2015.pdf)
-- ["The Carpentries Annual Report"](https://carpentries.org/files/reports/AnnualReport2022.pdf)
+- ["The Carpentries Annual Report"](https://carpentries.org/reports/annual-reports/2023AnnualReport.pdf)
 
 **For Online Events:**  
 4\. Please ensure that your computer and internet are sufficient to connect via Zoom
