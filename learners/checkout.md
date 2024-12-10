@@ -355,8 +355,8 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [contact-page]: https://carpentries.org/contact/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [glosario-github]: https://github.com/carpentries/glosario/
-[discussion]: https://pad.carpentries.org/community-sessions-2024
-[welcome]: https://pad.carpentries.org/welcome-sessions-2024
+[discussion]: https://pad.carpentries.org/community-sessions-2025
+[welcome]: https://pad.carpentries.org/welcome-sessions-2025
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
