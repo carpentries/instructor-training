@@ -335,13 +335,13 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 
 [glossary]: https://www.diversity.pitt.edu/education/glossary-terms
 [core-values]: https://carpentries.org/values/
-[handbook-host-template]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop
+[handbook-host-template]: https://docs.carpentries.org/resources/workshops/email_templates.html
 [sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
 [CAST]: https://udlguidelines.cast.org
-[handbook-accessibility-checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#accessibility
+[handbook-accessibility-checklist]: https://docs.carpentries.org/resources/workshops/workshop_needs.html#accessibility
 [post-surveys]: https://zenodo.org/record/1325464#.YVJIWS-B0ea
 [34gig]: https://ijoc.org/index.php/ijoc/article/view/1566
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[coc]: https://docs.carpentries.org/policies/coc/
 [slack-accessibility]: https://carpentries.slack.com/archives/CBDTKM30Q
 [slack-join]: https://slack-invite.carpentries.org
 

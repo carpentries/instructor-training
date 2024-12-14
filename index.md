@@ -54,7 +54,7 @@ Feedback on these materials is welcome as an [issue][issues] on the GitHub repos
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-[conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[conduct]: https://docs.carpentries.org/policies/coc/
 [issues]: https://github.com/carpentries/instructor-training/issues
 [license]: LICENSE.html
 [cldt-curriculum]: https://carpentries.github.io/lesson-development-training/index.html

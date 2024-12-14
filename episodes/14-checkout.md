@@ -77,7 +77,7 @@ This exercise should take 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[voting-rights]: https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members
+[voting-rights]: https://carpentries.org/about-us/governance/#carpentries-bylaws-and-policies
 [text-for-instructors]: https://github.com/carpentries/commons/blob/master/text-for-instructors.md
 
 

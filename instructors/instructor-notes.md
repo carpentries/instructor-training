@@ -312,8 +312,8 @@ Points to make during wrap-up:
 - Thank you for your excellent feedback! Instructors like you help to make this community what it is.
 - I will follow up with each of you by email within \_\_\_ (time period). If you do not hear from me by \_\_ feel free to check in.
 
-[handbook]: https://docs.carpentries.org/topic_folders/instructor_training/index.html#for-trainers
-[demos]: https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration
+[handbook]: https://docs.carpentries.org/handbooks/instructor_trainers.html
+[demos]: https://docs.carpentries.org/handbooks/instructor_trainers.html#teaching-demonstrations
 [etherpad-template]: https://pad.carpentries.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1lEdF1PuJB4FWhH8xLBDeQ9rwJRP304oBnkLv6DisM9o/edit

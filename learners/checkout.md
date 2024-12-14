@@ -3,7 +3,7 @@ title: Checkout Instructions
 calendar: https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com
 demopad: https://pad.carpentries.org/teaching-demos
 discussionpad: https://pad.carpentries.org/community-discussions
-discussioninfo: https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html
+discussioninfo: https://docs.carpentries.org/handbooks/community_session_host.html
 ---
 
 ## Instructor Checkout
@@ -350,13 +350,13 @@ Approximately 1-2 weeks after your last step is complete, you should receive an 
 [help-wanted]: https://carpentries.org/help-wanted-issues/
 [github-guide]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [contributing]: https://github.com/carpentries/instructor-training/blob/main/CONTRIBUTING.md
-[handbook-amy]: https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile
+[handbook-amy]: https://carpentries.github.io/amy/users_guide/community_index/#user-profiles
 [git-blog]: https://carpentries.org/blog/2020/05/2020-05-04-conversations-teaching-git-github/
 [contact-page]: https://carpentries.org/contact/
 [carpentries-incubator]: https://github.com/carpentries-incubator/
 [glosario-github]: https://github.com/carpentries/glosario/
-[discussion]: https://pad.carpentries.org/community-sessions-2024
-[welcome]: https://pad.carpentries.org/welcome-sessions-2024
+[discussion]: https://pad.carpentries.org/community-sessions-2025
+[welcome]: https://pad.carpentries.org/welcome-sessions-2025
 [pad-of-pads]: https://pad.carpentries.org/pad-of-pads
 [demos-rubric]: https://carpentries.github.io/instructor-training/demos_rubric
 [r-gapminder]: https://swcarpentry.github.io/r-novice-gapminder/
