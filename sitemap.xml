@@ -247,6 +247,9 @@
     <loc>https://carpentries.github.io/instructor-training/instructor/training_calendar.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/instructor-training/instructor/training_info.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/instructor-training/instructor-notes.html</loc>
   </url>
   <url>
@@ -269,5 +272,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training/training_calendar.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training/training_info.html</loc>
   </url>
 </urlset>
