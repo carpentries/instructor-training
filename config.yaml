@@ -87,6 +87,7 @@ episodes:
 
 # Information for Learners
 learners: 
+- training_info.md
 - training_calendar.md
 - checkout.md
 - demo_lessons.md
@@ -109,5 +110,6 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-
+analytics: carpentries
 url: 'https://carpentries.github.io/instructor-training'
+lang: en

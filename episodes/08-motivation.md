@@ -134,7 +134,7 @@ confusion or doubt. Creating a motivating classroom means inviting communication
 A few ways to invite participation are:
 
 - **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking
-  stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+  stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/policies/coc/)
   also provides a framework for positive communication to occur.
 - **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages
   learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and
@@ -228,7 +228,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Leveraging the Power of "Yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
+- **Leveraging the power of "yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
   these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasize that being a novice is
   a temporary state, and encourages a growth mindset towards progress.
 
@@ -248,7 +248,7 @@ serious hazards in the classroom! Here are a few **things you should not do in y
 - **Pretend to know more than you do**.  People will actually trust you
   more if you are frank about the limitations of your knowledge, and
   will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
-- **Use the J word ("just") or other demotivating words** we talked about in a
+- **Use the word "just" or other demotivating words** we talked about in a
   [previous lesson](04-expertise.html). These signal to the learner that
   the instructor thinks their problem is trivial
   and by extension that they therefore must be deficient

@@ -93,6 +93,8 @@ for how we teach.
 
 :::::::::::::::::::::::::::::::::::::  callout
 
+### Models are not perfect but are still helpful
+
 All models are wrong, but some are useful.
 
 - George Box, statistician

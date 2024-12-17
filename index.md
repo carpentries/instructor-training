@@ -68,11 +68,9 @@ A common modification is to switch from one break roughly at the middle of each
 part to two breaks at about 1/3 and 2/3 through the part. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
 
-
-[conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+[conduct]: https://docs.carpentries.org/policies/coc/
 [issues]: https://github.com/carpentries/instructor-training/issues
 [license]: LICENSE.html
 [cldt-curriculum]: https://carpentries.github.io/lesson-development-training/index.html
-
 
 
