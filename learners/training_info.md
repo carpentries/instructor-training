@@ -29,7 +29,7 @@ For more information, see our [Instructor Training Curriculum](../index.md).
 
 ### Code of Conduct
 
-All participants are required to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+All participants are required to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/policies/coc/).
 
 ### Where
 Instructor Training is typically conducted using the Zoom video conferencing platform. 
@@ -60,13 +60,13 @@ For in-person training events, organisers have checked that:
 ### How to Prepare for Instructor Training
 
 Please review [_Preparing for your training_](https://carpentries.github.io/instructor-training/#preparing-for-your-training) for complete instructions. 
-A brief summary of these instructions is as follows
+A brief summary of these instructions is as follows:
 
 1. Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.
 1. Select a lesson to use for teaching practice sessions and prepare a 3 minute segment, spending no more than 20-30 minutes to prepare.
 1. Please read the following:
     * [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    * [The Carpentries 2023 Annual Report](https://carpentries.org/files/reports/AnnualReport2023.pdf)
+    * The Carpentries Annual Report (most recent version from [The Carpentries Impact page](https://carpentries.org/about-us/impact/
 
 ### Checkout: The Instructor Certification Process
 After the training event, we ask you to complete three follow-up tasks to become a certified Instructor.
@@ -86,7 +86,7 @@ If you unexpectedly need to miss more than 1 hour of your event, please contact 
 For events in which registration occurs through The Carpentries via Eventbrite, cancellation may be performed in Eventbrite up to the start of the event.
 Canceled seats cannot be filled after the 1 week registration deadline for these events, so we ask that you only cancel if absolutely necessary.
 
-More information on our [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) is available in The Carpentries Handbook.
+More information on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) is available in The Carpentries Handbook.
 
 ### Contact
 Please contact your Trainers using the details provided in the information email for your event or [email us](mailto:instructor.training@carpentries.org) with questions about Instructor Training.
