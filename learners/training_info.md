@@ -66,7 +66,7 @@ A brief summary of these instructions is as follows:
 1. Select a lesson to use for teaching practice sessions and prepare a 3 minute segment, spending no more than 20-30 minutes to prepare.
 1. Please read the following:
     * [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    * [The Carpentries Annual Report](https://github.com/carpentries/governance/tree/main/year-in-review)
+    * The Carpentries Annual Report (most recent version from [The Carpentries Impact page](https://carpentries.org/about-us/impact/
 
 ### Checkout: The Instructor Certification Process
 After the training event, we ask you to complete three follow-up tasks to become a certified Instructor.
