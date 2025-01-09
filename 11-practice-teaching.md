@@ -106,9 +106,9 @@ Sometimes it can be hard to receive feedback, especially negative feedback.
 ![](fig/deathbulge-jerk.jpg "Comic from http://www.deathbulge.com/comics/155"){alt='A three panel comic. In the first panel, a smiling figure is surrounded by speech bubbles with mostly positive feedback. In the second panel, the figure is eating dinner. All of the previous speech bubbles appear faded out, except the one negative bubble. The third panel shows the figure in bed, with an unhappy face, with the one piece of negative feedback lingering after all others have faded.'}
 
 Feedback is most effective when the people involved
-share ground rules and expectations. In Carpentries teaching, we use the 2x2
+share ground rules and expectations. In Carpentries teaching, we use the **2x2**
 paradigm for feedback. Each person giving feedback is expected to provide at least one
-piece of negative and one piece of positive feedback each for content and delivery. This
+piece of **negative** and one piece of **positive** feedback each for **content** and **delivery**. This
 helps overcome two common tendencies when giving feedback on teaching: to focus on the content
 (even though delivery is at least as important) and to either provide only negative or
 only positive feedback.
