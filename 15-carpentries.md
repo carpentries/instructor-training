@@ -236,8 +236,8 @@ Maybe this instructor training has inspired you to go home and write your
 own fantastic lesson!  If you would like to model it after the Software, Data and
 Library Carpentry lesson format, you can find two Workbench lesson templates available:
 
-- [Markdown](template-md): this template is suitable for lessons that serve static content
-- [RMarkdown](template-rmd): this template is suitable for lessons that include executable R code
+- [Markdown][template-md]: this template is suitable for lessons that serve static content
+- [RMarkdown][template-rmd]: this template is suitable for lessons that include executable R code
 
 Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
 and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
@@ -307,8 +307,7 @@ Want to **join meetings** (to meet new people or listen in)?
 
 ## Get Connected
 
-Take a couple of minutes to sign up for The Carpentries channels you want to stay involved with on this page:
-[https://carpentries.org/connect/][connect-page]
+Take a couple of minutes to sign up for [The Carpentries communication channels][connect-page] you want to stay involved with: [https://carpentries.org/connect/][connect-page]
 When you are done, share a channel you find interesting or useful on the Etherpad.
 
 This exercise should take about 5 minutes.
