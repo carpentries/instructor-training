@@ -10,7 +10,7 @@ site/*
 # User-specific files
 .Ruserdata
 # Project files
-.Rproj
+*.Rproj
 # Example code in package build process
 *-Ex.R
 # Output files from R CMD build
