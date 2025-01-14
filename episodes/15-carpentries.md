@@ -334,7 +334,7 @@ This exercise should take about 5 minutes.
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
 [membership-page]: https://carpentries.org/membership/
-[SO-recruiting-blog]: https://carpentries.org/blog/2021/06/Recruiting-Instructors-for-Self-Organised-Workshops/
+[SO-recruiting-blog]: https://carpentries.org/blog/2021/06/recruiting-instructors-for-self-organised-workshops/
 [docs]: https://docs.carpentries.org/
 [docs-teach-host]: https://docs.carpentries.org/resources/workshops/
 [docs-noshow]: https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy
