@@ -283,13 +283,7 @@ This discussion should take about 10 minutes.
 Fortunately, Code of Conduct violations have been extremely rare in our community. We think that this is because emphasizing our values up front really
 does make a difference.
 
-We hope that this preliminary introduction will help you work with your team to decide on a response in
-case you encounter a violation, and will support you in reporting incidents to prevent their recurrence.
-Thorough preparation to manage a difficult situation is useful for
-any leadership role, but is beyond the scope of this training event.
-Because this challenge is not unique to Instructors, The Carpentries is currently working
-to address this unmet training need more broadly across our community through [development of a Code of Conduct Facilitator role][blog-coc-facilitators]. Follow
-our communications channels to learn about additional opportunities for training in this area.
+We hope that this preliminary introduction will help you work with your team to decide on a response in case you encounter a violation, and will support you in reporting incidents to prevent their recurrence. Thorough preparation to manage a difficult situation is useful for any leadership role, but is beyond the scope of this training event. Follow our communications channels to learn about additional opportunities for training in this area.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -446,7 +440,6 @@ indefinitely, so they may be used for further reference after a workshop.
 [CoC-summary]: https://docs.carpentries.org/policies/coc/#code-of-conduct-summary-view
 [vps]: https://en.wikipedia.org/wiki/Virtual_private_server
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
-[blog-coc-facilitators]: https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
