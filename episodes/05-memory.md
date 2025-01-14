@@ -56,7 +56,7 @@ frequent formative assessment is important.
 
 ## Test Your Working Memory
 
-Try a short [test of working memory][memory-test] [https://miku.github.io/activememory/][memory-test].
+Try a short [test of working memory][memory-test] at [https://miku.github.io/activememory/][memory-test].
 
 What was your score? If you are comfortable, share your answer
 in the Etherpad.
@@ -196,7 +196,7 @@ to alternate between attending to, which can reduce efficiency and performance o
 
 ### The Theory of Cognitive Load
 
-There are different [theories of cognitive load][wikipedia-cognitive-load]. In one of these, [Sweller posits that people have to attend to three types of things when they are learning](https://doi.org/10.1207/s15516709cog1202_4):
+There are different [theories of cognitive load][wikipedia-cognitive-load]. In one of these, [Sweller](https://doi.org/10.1207/s15516709cog1202_4)  posits that people have to attend to three types of things when they are learning:
 
 - Things they have to think about in order to **perform a task** ("intrinsic").
 - Mental effort required to **connect the task** to new and old information ("germane").

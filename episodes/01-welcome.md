@@ -122,8 +122,7 @@ instructor training.  We are very pleased to have you with us.
 
 To begin class, each Trainer should give a brief introduction of themselves.
 
-(For some guidelines on introducing yourself, see some content from
-later in the training: [Introductions](23-introductions.md))
+(For some guidelines on introducing yourself, see some content from the [Introductions section](23-introductions.md) later in the training: )
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -173,10 +172,8 @@ The Carpentries is a **global community of volunteer researchers, educators, and
 improving basic computing and data skills for
 researchers through intensive, short-format workshops.
 
-- Software Carpentry focuses on helping researchers develop foundational
-  computational skills
-- Data Carpentry focuses on helping
-  researchers work effectively with their data through its lifecycle
+- Software Carpentry focuses on helping researchers develop foundational computational skills
+- Data Carpentry focuses on helping researchers work effectively with their data through its lifecycle
 - Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
 
 The main goal of The Carpentries is not to teach specific skills, per se - although those
@@ -189,14 +186,10 @@ The goal of this training is to provide you with the skills and information you 
 to become a certified Carpentries Instructor. Our expectations of certified
 Instructors is that they:
 
-- be familiar with and understand **how to apply research-based teaching principles**,
-  especially as they apply to The Carpentries audience.
-- understand the **importance of a respectful and inclusive classroom environment**; commit to
-  creating such an environment; and be able to
-  identify and implement The Carpentries policies and general practices to accomplish this.
+- be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to The Carpentries audience.
+- understand the **importance of a respectful and inclusive classroom environment**; commit to creating such an environment; and be able to identify and implement The Carpentries policies and general practices to accomplish this.
 - **practice and develop skills** in the teaching methods used in The Carpentries workshops.
-- learn enough about The Carpentries organisation to **know where to go for help**,
-  how to start organizing a workshop, and how to get involved with community activities.
+- learn enough about The Carpentries organisation to **know where to go for help**, how to start organizing a workshop, and how to get involved with community activities.
 
 These four goals are broken down into four main themes of content:
 
