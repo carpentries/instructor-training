@@ -25,8 +25,8 @@ exercises: 15
 :::::::::::::::::::::::::::::::::::::::instructor
 In an online training, ensure that captions are turned on.
 
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
