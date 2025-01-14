@@ -55,7 +55,7 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 ## Discuss The Carpentries Core Values
 
-1. Take a moment to read through the Core Values on this page: [https://carpentries.org/values/][core-values]
+1. Take a moment to read through [The Carpentries Core Values][core-values] [https://carpentries.org/about-us/#our-values][core-values]
 2. Choose one core value that resonates with you. What is a decision you might make in a workshop
   that could look different if you were actively considering the core value you chose?
 
@@ -334,7 +334,7 @@ being involved in the development of this content, please let us know! Contribut
 at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 [glossary]: https://www.diversity.pitt.edu/education/glossary-terms
-[core-values]: https://carpentries.org/values/
+[core-values]:  https://carpentries.org/about-us/#our-values
 [handbook-host-template]: https://docs.carpentries.org/resources/workshops/email_templates.html
 [sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
 [CAST]: https://udlguidelines.cast.org
