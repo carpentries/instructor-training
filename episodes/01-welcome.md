@@ -135,7 +135,7 @@ Now, we would like to get to know all of you.
 For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
 in the Etherpad below to write a short response to the last question.
 
-*Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
+**Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?**
 
 1. Yes, I have taken a workshop.
 2. Yes, I have been a workshop helper.
@@ -143,7 +143,8 @@ in the Etherpad below to write a short response to the last question.
 4. No, but I am familiar with what is taught at a workshop.
 5. No, and I am not familiar with what is taught at a workshop.
 
-*Which of these most accurately describes your teaching experience?*
+
+**Which of these most accurately describes your teaching experience?**
 
 1. I have been a graduate or undergraduate teaching assistant for a university/college course.
 2. I have not had any teaching experience in the past.
@@ -151,6 +152,7 @@ in the Etherpad below to write a short response to the last question.
 4. I have been the primary or responsible teacher for a university/college course.
 5. I have taught at the primary or secondary education level.
 6. I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
+
 
 **Why are you taking this course? What goals do you have for this training?**
 
@@ -195,7 +197,7 @@ These four goals are broken down into four main themes of content:
 
 ### How Learning Works
 
-One of our main emphases will be discussing the "best practices" of teaching. We
+One of our main emphases will be discussing the **best practices** of teaching. We
 will be introducing you to a handful of key educational research
 findings and demonstrating how they can be used to help people learn better and faster.
 

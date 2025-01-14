@@ -248,17 +248,14 @@ a somewhat more complex mental model, perhaps illustrated as:
 ::: challenge
 ## Mapping a Mental Model
 
-1)  On a piece of paper, draw a simplified concept map of the same
-    concept you discussed in the last activity, but this time without
-    the analogy. What are 3-4 core concepts involved? How are those
-    concepts related? (Note: if you would like to try out an online tool
-    for this exercise, visit [Excalidraw](https://excalidraw.com) at [https://excalidraw.com](https://excalidraw.com).)
+1)  On a piece of paper, draw a simplified concept map of the same concept you discussed in the last activity, but this time without the analogy. What are 3-4 core concepts involved? How are those concepts related?
 
-2)  In the Etherpad, write some notes on this process. Was it difficult?
-    Do you think it would be a useful exercise prior to teaching about
-    your topic? What challenges might a novice face in creating a
-    concept map of this kind?
-    This exercise should take about 5 minutes.
+If you would like to try out an online tool for this exercise, visit [Excalidraw](https://excalidraw.com) at [https://excalidraw.com](https://excalidraw.com).
+
+2)  In the Etherpad, write some notes on this process. Was it difficult? Do you think it would be a useful exercise prior to teaching about your topic? What challenges might a novice face in creating a concept map of this kind?
+
+This exercise should take about 5 minutes.
+
 :::
 
 ## Misconceptions
