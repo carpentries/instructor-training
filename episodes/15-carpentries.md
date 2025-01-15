@@ -51,6 +51,7 @@ ways you might wish to participate (including by teaching workshops!).
 ## A Brief History
 
 [Software Carpentry](https://software-carpentry.org/) was founded in 1998 with the mission of teaching lab skills for research computing.
+
 [Data Carpentry](https://datacarpentry.org/) was founded in 2014 with the mission of building communities teaching universal data literacy.
 
 Also in 2014, [Library Carpentry](https://librarycarpentry.org/) was founded with the mission of teaching data skills to people working in library- and information-related roles.
@@ -71,10 +72,11 @@ Carpentries communities may include many participants who are not necessarily co
 
 ![](fig/SWCDChistory.png){alt='A very brief history of The Carpentries. A timeline - 1998 Software Carpentry is founded by Greg Wilson and Bret Gorda to teach researchers better software development skills. 2005 lesson materials are made open source with support from the Python Software Foundation. 2012 Software Carpentry workshop efforts scale with support from the Alfred P. Sloan Foundation and the Mozilla Science Lab. 2013 the first Software Carpentry for Librarians workshops are organised in the US and Canada. 2014 Data Carpentry is founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from the National Science Foundation. James Baker receives support from the Software Sustainability Institute to develop and implement Library Carpentry. Software Carpentry Foundation is founded under the auspices of NumFOCUS. 2015 - Data Carpentry workshop efforts scaled with support from the Gordon and Betty Moore Foundation. 2018 in January, Software Carpentry and Data Carpentry merge to form The Carpentries, a fiscally sponsored project of Community Initiatives. In November, Library Carpentry joins as a Lesson Program.'}
 
-You can learn more about the history and goals of each Lesson Program by reading
-"[Software Carpentry: Lessons Learned][F1000]",
-"[Data Carpentry: Workshops to Increase Data Literacy for Researchers][IJDC]" and
-"[Library Carpentry: software skills training for library professionals][LIBERQ]"".
+You can learn more about the history and goals of each Lesson Program by reading:
+
+- [Software Carpentry: Lessons Learned][F1000]
+- [Data Carpentry: Workshops to Increase Data Literacy for Researchers][IJDC]
+- [Library Carpentry: software skills training for library professionals][LIBERQ]
 
 ## Similarities and Differences between The Carpentries Lesson Programs
 
@@ -112,7 +114,9 @@ certified instructors.
 
 ## Local Support
 
-There are several helpful [Workshop Checklists and Suggestions][docs-workshop-checklists] in the handbook. The Helper checklist recommends at least a 1:10
+The handbook includes several helpful [Workshop Checklists and Suggestions][docs-workshop-checklists]: [https://docs.carpentries.org/resources/workshops/checklists.html](https://docs.carpentries.org/resources/workshops/checklists.html) 
+
+The Helper checklist recommends at least a 1:10
 helper-to-learner ratio for in-person workshops (not counting instructors) and more if teaching online.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -192,7 +196,7 @@ Once you have selected your workshop type, consult [**The Carpentries Handbook**
 The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all
 Carpentries-related activities. A few examples of useful content include:
 
-- template emails and checklists for Hosts, Instructors, and Helpers in [The Carpentries Handbook: Teaching and Hosting][docs-teach-host]
+- [template emails and checklists][docs-teach-host] for Hosts, Instructors, and Helpers
 - the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
 
 As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
@@ -242,7 +246,7 @@ Library Carpentry lesson format, you can find two Workbench lesson templates ava
 Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
 and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
 
-[The Collaborative Lesson Development Training curriculum][cld] provides a guide to
+The [Collaborative Lesson Development Training][cld] curriculum provides a guide to
 the backward design approach we recommend for lesson development. This curriculum is part of our official
 teaching offerings; please contact [The Carpentries](mailto:team@carpentries.org) if you are interested in taking
 this course.
@@ -267,10 +271,16 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 
 ## Community Roles
 
-Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write
+Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page] at [https://carpentries.org/community/](https://carpentries.org/community/).
 
-1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
-  would like to see that are not listed? Note that, too!
+Write:
+
+- a short definition of the role and
+- a question that you have (or that you imagine someone else might have) about the role. 
+
+Are there roles you would like to see that are not listed? Note that, too!
+
+**Roles**
 
 1. Governance
 2. Instructor Trainers
@@ -307,7 +317,8 @@ Want to **join meetings** (to meet new people or listen in)?
 
 ## Get Connected
 
-Take a couple of minutes to sign up for [The Carpentries communication channels][connect-page] you want to stay involved with: [https://carpentries.org/connect/][connect-page]
+Take a couple of minutes to sign up for [The Carpentries communication channels][connect-page] you want to stay involved with at [https://carpentries.org/connect/][connect-page].
+
 When you are done, share a channel you find interesting or useful on the Etherpad.
 
 This exercise should take about 5 minutes.
