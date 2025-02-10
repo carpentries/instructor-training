@@ -52,8 +52,8 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [March 3-4 2025](https://www.eventbrite.com/e/online-instructor-training-march-3-4-2025-tickets-1242515791179)
-**Two 8-hour days:** 9:15 am to 5:15 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250303T0915&p1=1440&ah=8)
+#### [March 4-5 2025](https://www.eventbrite.com/e/online-instructor-training-march-4-5-2025-tickets-1242515791179)
+**Two 8-hour days:** 9:15 am to 5:15 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250304T0915&p1=1440&ah=8)
 
 <hr>
 
