@@ -190,7 +190,7 @@ or processes may be submitted to satisfy this requirement! We have a few suggest
 
 - Serve as an Instructor or a Helper at a workshop
 - Attend a regional call, skill-up session, or other community programming
-- Submit a contribution to a Lesson, Glossario, or other Carpentries repository
+- Submit a contribution to a Lesson, Glosario, or other Carpentries repository
 
 ### Serve as an Instructor or Helper at a Carpentries Workshop
 If you attended Instructor Training because you want to get started participating in workshops as soon
