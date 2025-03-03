@@ -226,7 +226,7 @@ This exercise should take about 5 minutes.
 
 ## Solution
 
-It is hard to break the habit of trying to convince learners that a task is "easy"! A few alternatives
+It is hard to break the habit of trying to convince learners that a task is *easy*! A few alternatives
 might include statements like:
 
 - "This task will become really easy once you have learned how to do it."

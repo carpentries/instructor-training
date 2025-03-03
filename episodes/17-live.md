@@ -34,11 +34,11 @@ and work through the lesson,
 typing in the code,
 reformatting data,
 and talking as we go.
-This is called ["live coding"](https://en.wikipedia.org/wiki/Live_coding).
+This is called **[live coding](https://en.wikipedia.org/wiki/Live_coding)**.
 However, the instructor is not live coding in a vacuum.
 Importantly, learners are strongly encouraged
-to "code-along" with the instructor.
-We refer to the practice of having the instructor live code and the learners code along as "participatory live coding" or, less formally, 'code-along sessions'.
+to **code-along** with the instructor.
+We refer to the practice of having the instructor live code and the learners code along as **participatory live coding** or, less formally, **code-along sessions**.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -101,22 +101,28 @@ Many error messages are obscure and not written with novices in mind. Continue t
 - Learning to parse error messages is an important step in developing debugging skills.
 
 - **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
+::: instructor
+
+For the next exercise, please turn on closed captions using the "CC"" button for the videos, both for accessibility and because sound quality is poor in places.
+
+:::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Compare and Contrast
 
-Watch this first participatory live coding demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
-and this second demo video: [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
-as a group and then summarize your feedback on both in the Etherpad.
+Watch the following two participatory live coding demo videos as a group:
+
+- [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
+- [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
+
+After watching, summarize your feedback on both in the Etherpad.
 Use the 2x2 rubric for feedback we discussed earlier.
 
 In the videos, the bash shell `for` loop is taught,
 and it is assumed learners are familiar with how to use a variable,
 the `head` command and the content of the `basilisk.dat` and `unicorn.dat`
 files.
-
-Note: Sometimes sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
 
 This exercise and discussion should take about 15 minutes.
 
@@ -145,7 +151,7 @@ making sure that the points of the Top Ten Tips below have been made.
 9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing](08-motivation.md) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 
-Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper]
+Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper].
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -153,12 +159,8 @@ Read more in [Ten quick tips for teaching with participatory live-coding][live-c
 
 1. Split into groups of three.
 2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
-3. Have each group member teach 3 minutes of your chosen lesson episode using live coding.
-  For this exercise, your peers will not "code-along." Before
-  you begin, briefly describe what you will be teaching and what has been learned previously. Do not record this exercise.
-4. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric introduced in part 2 The
-  timekeeper should keep feedback discussion to about 1 minute per person; this may leave some time at the end for general
-  discussion. The note-taker should record feedback in the Etherpad.
+3. Have each group member teach 3 minutes of your chosen lesson episode using live coding. For this exercise, your peers will not "code-along." Before you begin, briefly describe what you will be teaching and what has been learned previously. Do not record this exercise.
+4. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric introduced in part 2 The timekeeper should keep feedback discussion to about 1 minute per person; this may leave some time at the end for general discussion. The note-taker should record feedback in the Etherpad.
 5. Trade off roles.
 
 This exercise should take about 25 minutes.  
