@@ -53,6 +53,56 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 <hr>
 
 
+#### [April 14-15 2025](https://www.eventbrite.com/e/online-instructor-training-april-14-15-2025-tickets-1264347259689)
+**Two 8-hour days:** 9 am to 5 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250414T09&p1=195&ah=8)
+
+<hr>
+
+#### [April 22-25 2025](https://www.eventbrite.com/e/online-instructor-training-april-22-25-tickets-1264370539319)
+**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250422T09&p1=179&ah=4)
+
+<hr>
+
+#### [April 29 - May 2 2025](https://www.eventbrite.com/e/online-instructor-training-april-29-may-2-tickets-1264375112999)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250429T09&p1=47&ah=4)
+
+<hr>
+
+#### [May 7-8 2025](https://www.eventbrite.com/e/online-instructor-training-may-7-8-2025-tickets-1264427730379)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250507T09&p1=179&ah=8)
+
+<hr>
+
+#### [May 20-23 2025](https://www.eventbrite.com/e/online-instructor-training-may-20-23-2025-tickets-1264432033249)
+**Four 4-hour days:** 9 am to 1 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250520T09&p1=136&ah=4)
+
+<hr>
+
+#### [May 20-23 2025](https://www.eventbrite.com/e/online-instructor-training-may-20-23-2025-tickets-1264434570839)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250520T09&p1=137&ah=4)
+
+<hr>
+
+#### [June 3-6 2025](https://www.eventbrite.com/e/online-instructor-training-june-3-6-2025-tickets-1264437188669)
+**Four 4-hour days:** 9 am to 1 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250603T09&p1=195&ah=4)
+
+<hr>
+
+#### [June 3-6 2025](https://www.eventbrite.com/e/online-instructor-training-june-3-6-2025-tickets-1264438101399)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250603T09&p1=137&ah=4)
+
+<hr>
+
+#### [June 16-17 2025](https://www.eventbrite.com/e/online-instructor-training-june-16-17-2025-tickets-1264439706199)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250616T09&p1=179&ah=8)
+
+<hr>
+
+#### [June 24-27 2025](https://www.eventbrite.com/e/online-instructor-training-june-24-27-2025-tickets-1264441792439)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+
+<hr>
+
 ### Accommodations
 
 We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
