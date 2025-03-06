@@ -64,6 +64,8 @@ On November 1, 2018, The Carpentries governance (formerly known as the Executive
 approved [Library Carpentry](https://librarycarpentry.org/)
 as the third official Lesson Program of The Carpentries.
 
+On February 1, 2025, The Carpentries became an independent 501(c)(3) non-profit organisation, now called The Carpentries, Inc. (The Carpentries), governed by a Board of Directors. Non-profit status provides a stable foundation for long-term planning and sustainability. As an independent organisation, The Carpentries has more flexibility in decision-making, program development, and organisational structure, allowing the opportunity to adapt more easily to the changing needs of the community. 
+
 The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
 The **global Carpentries community** consists of Instructors, Instructor Trainers, Maintainers, Lesson Developers, Institutional Partners, members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
