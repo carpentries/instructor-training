@@ -121,7 +121,7 @@ in a way that facilitates growth.
   hear feedback that you have asked for.
 
 - **Be specific.** See a great example of this from
-  this [Lunar Baboon comic][lunar-babboon].
+  this [Lunar Baboon comic][lunar-baboon].
 
 As an instructor one way to get specific feedback is to provide questions that
 focus the responses.  Writing your own feedback questions allows you to frame
@@ -174,13 +174,14 @@ it is OK to remind yourself:
 We will start by observing some examples of teaching and providing some feedback.
 
 Watch this [example teaching video][bad-teaching-video] as a group 
-and then give feedback on it: [https://www.youtube.com/watch?v=-ApVt04rB4U][bad-teaching-video]
+and then give feedback on it: [https://www.youtube.com/watch?v=jxgMVwQamO0][bad-teaching-video]. 
+
+English and Spanish captions are available by clicking the settings icon in the video.
+
 Put your feedback in the Etherpad.
 Organize your feedback along two axes:
-positive vs. opportunities for growth (sometimes called "negative")
-and content (what was said) vs. presentation (how it was said).
-
-Note: there is [a version of this video with subtitles in both Spanish and English](https://www.youtube.com/watch?v=jxgMVwQamO0) [https://www.youtube.com/watch?v=jxgMVwQamO0](https://www.youtube.com/watch?v=jxgMVwQamO0)
+- positive vs. opportunities for growth (sometimes called "negative") and
+- content (what was said) vs. presentation (how it was said).
 
 This exercise should take about 10 minutes.
 
@@ -273,8 +274,8 @@ practice teaching and to get and give feedback in parts 3 and 4.
 [fincher-warren]: files/papers/fincher-warrens-questions-2007.pdf
 [fincher-stories]: files/papers/fincher-stories-change-2012.pdf
 [barker-practice]: files/papers/barker-practice-adoption-2015.pdf
-[lunar-babboon]: https://web.archive.org/web/20210513225525/http://www.lunarbaboon.com/comics/feedback.html
-[bad-teaching-video]: https://www.youtube.com/watch?v=-ApVt04rB4U
+[lunar-baboon]: https://web.archive.org/web/20210513225525/http://www.lunarbaboon.com/comics/feedback.html
+[bad-teaching-video]: https://www.youtube.com/watch?v=jxgMVwQamO0
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
