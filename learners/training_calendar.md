@@ -42,12 +42,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [March 25-26 2025](https://www.eventbrite.com/e/online-instructor-training-march-25-26-2025-tickets-1095479591949?aff=oddtdtcreator)
-**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20250325T09&p1=224&ah=8)
-
-<hr>
-
-
 #### [April 14-15 2025](https://www.eventbrite.com/e/online-instructor-training-april-14-15-2025-tickets-1264347259689)
 **Two 8-hour days:** 9 am to 5 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250414T09&p1=195&ah=8)
 
