@@ -49,7 +49,7 @@ This exercise should take 5 minutes.
 
 ::: instructor
 
-You will need to get the post-training survey link yourself and provide it in the activity below. It should follow the form `https://carpentries.typeform.com/to/cjJ9UP#slug=...../` and can be found on the website for the specific training.
+You will need to get the post-training survey link yourself and provide it in the activity below. It should follow the form `https://carpentries.typeform.com/to/cjJ9UP#slug=...../` and can be found in an email trainers receive from the Carpentries team and on the website for the specific training.
 
 :::
 
