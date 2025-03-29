@@ -37,7 +37,8 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 ## Be The Expert: Checkout Q \& A
 
-In small groups, read and discuss one of [the three checkout procedures](checkout.md) [https://carpentries.github.io/instructor-training/checkout/index.html](checkout.md).
+In small groups, read and discuss one of [the three checkout steps](checkout.md) at [https://carpentries.github.io/instructor-training/checkout/index.html](checkout.md).
+
 Make notes in the Etherpad:
 
 - What points do you think it is most important or helpful for people to remember?
@@ -68,7 +69,7 @@ This exercise should take 5 minutes.
 ### What does a badge mean?
 
 - **You can teach any Carpentries workshops!** Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. You can teach branded workshops locally, or network with experienced co-Instructors as a volunteer with our global community. While local co-Instructors need not be badged or experienced, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
-- **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
+- **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See the [Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
 - **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

@@ -48,9 +48,7 @@ all the questions, you can preview them in a text-format below:
 When The Carpentries Workshop Administration Team sets up the surveys for your workshop, they will also send you a link to
 a dashboard with the results! Take care not to share this link with your learners.
 
-- This link will take you to a [dashboard displaying the last year of data for our workshop
-  surveys](https://workshop-reports.carpentries.org/?aggregate-workshops) so you can have an idea of
-  what to expect for your workshop.
+- The carpentries maintains a [dashboard](https://workshop-reports.carpentries.org/?aggregate-workshops) displaying data from past workshop surveys, so you can have an idea of what to expect for your workshop.
 
 :::::::::::::::::::::::::::::::::::::::  checklist
 
