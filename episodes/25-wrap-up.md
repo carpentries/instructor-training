@@ -52,7 +52,7 @@ This exercise should take 5 minutes.
 ## Post Workshop Surveys
 
 Assessment is very important to us! Please take the remaining time to complete
-this [\~5 minute post-workshop survey](https://carpentries.typeform.com/to/cjJ9UP#slug=/).
+this about 5-minute [post-workshop survey](https://carpentries.typeform.com/to/cjJ9UP#slug=/).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
