@@ -61,7 +61,7 @@ things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
 
-![](fig/what-to-teach.png){alt='A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "don't bother".'}
+![](fig/what-to-teach.png){alt='A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
 
 Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
@@ -146,7 +146,7 @@ A few ways to invite participation are:
 ### Encourage a Growth Mindset
 
 People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people
-are often praised as *talented* or having *high ability*, and may develop an identity around being a certain "type of
+are often praised as "talented" or having "high ability", and may develop an identity around being a certain "type of
 person" who has inherent strengths or weaknesses.
 
 The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
