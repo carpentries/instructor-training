@@ -192,12 +192,12 @@ be worthwhile. This is a great chance to get them excited about the prospect of 
 
 Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching during this training.
 
-1. Write out some notes, covering a few of the topics described above:
-2. Introduce yourself effectively
-3. Clarify learning objectives and expectations
-4. Set the tone for the workshop
-5. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-6. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
+1. Write out some notes, covering a few of the topics described above (3-4 minutes):
+  a. Introduce yourself effectively
+  b. Clarify learning objectives and expectations
+  c. Set the tone for the workshop
+2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
+3. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
 
 This exercise will take about 15 minutes.
 
