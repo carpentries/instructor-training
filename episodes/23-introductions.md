@@ -62,7 +62,7 @@ Did you come up with something that is not listed below?
 2. Introduce yourself effectively (and have other workshop leaders do the same)
 3. Clarify learning objectives and expectations
 4. Help learners learn about each other
-5. Set the tone for the workshop
+5. Set the tone for the workshop (including Code of Conduct)
 6. Collect baseline data on learners' knowledge and motivation
 7. Whet learners' appetite for workshop content
 8. Inform Learners of Logistics
