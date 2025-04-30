@@ -196,8 +196,10 @@ Imagine you have completed instructor training and you are about to teach a full
   a. Introduce yourself effectively
   b. Clarify learning objectives and expectations
   c. Set the tone for the workshop
-2. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-3. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
+2. Return to your groups of 2 or 3 and do the following for each participant (6-8 minutes):
+  a. each give 2 minutes of your introduction
+  b. briefly shared feedback after each introduction
+3. After all have had a turn to present, use any remaining time for more extended discussion.
 
 This exercise will take about 15 minutes.
 
