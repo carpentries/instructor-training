@@ -47,12 +47,18 @@ This exercise should take 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::: instructor
+
+You will need to get the post-training survey link yourself and provide it in the activity below. It should follow the form `https://carpentries.typeform.com/to/cjJ9UP#slug=...../` and can be found in an email trainers receive from the Carpentries Core Team before the training.
+
+:::
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Post Workshop Surveys
 
 Assessment is very important to us! Please take the remaining time to complete
-this about 5-minute [post-workshop survey](https://carpentries.typeform.com/to/cjJ9UP#slug=/).
+this about 5-minute post-training survey (your trainers will provide the link).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
