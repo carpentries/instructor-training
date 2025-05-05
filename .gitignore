@@ -2,7 +2,6 @@
 episodes/*html
 site/*
 !site/README.md
-
 # History files
 .Rhistory
 .Rapp.history
@@ -10,6 +9,8 @@ site/*
 .RData
 # User-specific files
 .Ruserdata
+# Project files
+*.Rproj
 # Example code in package build process
 *-Ex.R
 # Output files from R CMD build
@@ -53,3 +54,4 @@ vendor/
 .docker-vendor/
 Gemfile.lock
 .*history
+instructor-training.Rproj

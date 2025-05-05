@@ -133,10 +133,10 @@ confusion or doubt. Creating a motivating classroom means inviting communication
 
 A few ways to invite participation are:
 
-- **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a 'talking
-  stick', or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/policies/coc/)
+- **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a *talking
+  stick*, or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/policies/coc/)
   also provides a framework for positive communication to occur.
-- **Encouraging learners to learn from each other**. Working in pairs, or "[pair programming](https://en.wikipedia.org/wiki/Pair_programming)," encourages
+- **Encouraging learners to learn from each other**. Working in pairs, or *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*, encourages
   learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and
   resolved. This can also address challenges of varying background experience: asking more advanced learners to help beginners can
   maximize learning for both. In these cases, make sure the beginner is doing the typing!
@@ -146,7 +146,7 @@ A few ways to invite participation are:
 ### Encourage a Growth Mindset
 
 People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people
-are often praised as "talented" or having "high ability," and may develop an identity around being a certain "type of
+are often praised as "talented" or having "high ability", and may develop an identity around being a certain "type of
 person" who has inherent strengths or weaknesses.
 
 The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
@@ -261,7 +261,7 @@ serious hazards in the classroom! Here are a few **things you should not do in y
   or "You've never heard of Y?" signals to the learner that they do not have
   some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
   and it may prevent them from asking questions in
-  the future. (For more on this see the Recurse Center's [Social Rules][recurse-social-rules]).
+  the future. For more on this see the Recurse Center's [Social Rules][recurse-social-rules].
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to
 complaining about certain tools

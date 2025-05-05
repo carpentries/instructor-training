@@ -34,17 +34,10 @@ This section addresses topics related to equity, inclusion, and accessibility. T
 and may be familiar to you, but not everyone understands or interprets them in the same way. So, we will start
 with a few working definitions, adapted from the [University of Pittsburgh DEI Glossary][glossary]:
 
-**Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality,
-equity refers to outcomes while equality connotes equal treatment.
-
-**Inclusion:**  Actively engaging traditionally excluded individuals and/or groups in processes, activities
-and decisions in a way that shares power. Inclusion promotes broad engagement, shared participation,
-and advances authentic sense of belonging through safe, positive, and nurturing environments.
-
-**Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few)
-that increase one's ability to use, access, and obtain the respective item. Each person is afforded the opportunity to acquire
-the same information, engage in the same interactions, and enjoy the same services in an equally effective and equally
-integrated manner, with substantially equivalent ease of use.
+- **Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, equity refers to outcomes while equality connotes equal treatment.
+- **Inclusion:**  Actively engaging traditionally excluded individuals and/or groups in processes, activities and decisions in a way that shares power. Inclusion promotes broad engagement, shared participation, and advances authentic sense of belonging through safe, positive, and nurturing environments.
+- **Accessibility:** Refers to the intentional design or redesign of technology, policies, products, and services (to name a few) that increase one's ability to use, access, and obtain the respective item. Each person is afforded the opportunity to acquire
+the same information, engage in the same interactions, and enjoy the same services in an equally effective and equally integrated manner, with substantially equivalent ease of use.
 
 ### The Carpentries Core Values
 
@@ -55,7 +48,7 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 ## Discuss The Carpentries Core Values
 
-1. Take a moment to read through [The Carpentries Core Values][core-values] [https://carpentries.org/about-us/#our-values][core-values]
+1. Take a moment to read through [The Carpentries Core Values][core-values] at [https://carpentries.org/about-us/#our-values][core-values].
 2. Choose one core value that resonates with you. What is a decision you might make in a workshop
   that could look different if you were actively considering the core value you chose?
 
@@ -121,13 +114,12 @@ A good example of universal design is curb cuts
 and sidewalk ramps. While they were originally created to make it easier for
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts.
 
-![](fig/sketchplanations-the-curb-cut-effect.png){alt='People using different wheeled devices utilising the curb cut. The picture is titled The Curb-Cut Effect and states "when we design for disabilities, we make things better for everyone."' width="600px" }
-Image: [Sketchplanations][sketchplanations-curb-cuts]
+![Image: [Sketchplanations][sketchplanations-curb-cuts]](fig/sketchplanations-the-curb-cut-effect.png){alt='People using different wheeled devices utilising the curb cut. The picture is titled The Curb-Cut Effect and states "when we design for disabilities, we make things better for everyone."' width="600px" }
 
 ### Universal Design in Learning (UDL)
 
 In the 1990s, the Center for Applied Special Technology (CAST) brought Universal Design
-into Education with the [Universal Design in Learning (UDL) Framework][CAST].
+into Education with the [Universal Design for Learning (UDL) Framework][CAST].
 UDL places responsibility for accessibility on the course designer rather than on the learner.
 It states that the most inclusive approach to education is to design instruction with diverse learners in mind from the beginning.
 

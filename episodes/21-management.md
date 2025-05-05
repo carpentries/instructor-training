@@ -99,7 +99,7 @@ are expected in all Carpentries workshops. These include:
 
 #### Starting with the Code of Conduct
 
-Looking for language to introduce the Code of Conduct during your workshop? The [summary view in The Carpentries Handbook][CoC-summary] is a great template.
+Looking for language to introduce the Code of Conduct during your workshop? The [summary view][CoC-summary] in The Carpentries Handbook is a great template.
 
 #### Participatory Instruction \& Hands-off Help
 
@@ -266,14 +266,21 @@ We encourage you to **discuss an approach to managing Code of Conduct violations
 
 ## Know Your Resources
 
-1) Take 5 minutes to read through the Code of Conduct Incident Response Guidelines: [https://docs.carpentries.org/policies/coc/incident-response.html](https://docs.carpentries.org/policies/coc/incident-response.html)
-2) Discuss what you have read in small groups. As questions arise, you may wish to refer to our complete Code of Conduct section in The Carpentries Handbook:
-  [https://docs.carpentries.org/policies/coc/](https://docs.carpentries.org/policies/coc/) or to the Transparency Reports released by The Carpentries Code of Conduct Committee: [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
+1. Take 5 minutes to read through the Code of Conduct [Incident Response Guidelines](https://docs.carpentries.org/policies/coc/incident-response.html) at [https://docs.carpentries.org/policies/coc/incident-response.html](https://docs.carpentries.org/policies/coc/incident-response.html).
 
-- What kinds of things could your instructional team agree upon in advance of your workshop?
-- What questions do you have about CoC enforcement?
+2. Discuss what you have read in small groups. 
 
-3) Write some notes in the Etherpad.
+As questions arise, you may wish to refer to the  resources below:
+
+- [Complete Code of Conduct](https://docs.carpentries.org/policies/coc/) at [https://docs.carpentries.org/policies/coc/](https://docs.carpentries.org/policies/coc/)
+- [Code of Conduct Committee Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) at [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
+
+Some questions to consider are:
+
+- **What kinds of things could your instructional team agree upon in advance of your workshop?**
+- **What questions do you have about CoC enforcement?**
+
+3. Write some notes in the Etherpad.
 
 This discussion should take about 10 minutes.
 
@@ -322,54 +329,15 @@ Record some notes, and share your thoughts with the group. This exercise should 
 
 ## Co-Instruction Suggestions
 
-- Coordinate who is teaching what, sufficiently in advance that
-  both instructors are confident in their preparation.
-
-- Coordinate with your instructional team. Hosts will need information
-  from you to advertise the workshop. Helpers will need to know what you
-  expect from them. More communication is better, but it is also
-  important to respect people's time.
-
-- If you have time to do some
-  advance preparation together, try drawing a concept map together or
-  teaching a short snippet of the lessons for each other.
-
-- Discuss in advance if you will provide feedback to each other
-  and how to do so (see notes above).
-
-- If it will not cause cognitive overload for you (the instructors),
-  work out a couple of hand signals to communicate.  "You are
-  going too fast", "speak up", "that learner needs help", and, "It is
-  time for a bathroom break" are all useful.
-
-- The person who is not teaching should not interrupt, offer
-  corrections, elaborations, or amusing personal anecdotes, or do
-  anything else to distract from what the person teaching at the time
-  is doing or saying.  The one exception is that it is sometimes
-  helpful to ask leading questions, particularly if the learners seem
-  unsure of themselves.
-
-- For Carpentries workshops, a single instructor usually teaches for a
-  half-day stretch (2-3 hours).  You can alternate more frequently, but
-  each person should teach for at least 10-15 minutes at a stretch,
-  since learners may be distracted by more frequent interleaving.
-
-- Each person should take a couple of minutes before they start
-  teaching to see what their partner is going to teach after they are
-  done.  This allows each instructor to set up their partner's material
-  without covering it themselves.
-
-- Whenever possible, the person who is not teaching should stay engaged
-  with the class.  Monitor the shared notes, keep an eye
-  on the learners to see who is struggling, jot down some feedback to
-  give your teaching partner at the next break - anything that
-  contributes to the lesson is better than anything that does not.  It is
-  easier for the other instructor to take a break to catch up on outside
-  work (like email) if there are at least
-  three instructors or sufficient helpers to make sure that the main
-  instructor is supported.
-  
-  
+- Coordinate who is teaching what, sufficiently in advance that both instructors are confident in their preparation.
+- Coordinate with your instructional team. Hosts will need information from you to advertise the workshop. Helpers will need to know what you expect from them. More communication is better, but it is also important to respect people's time.
+- If you have time to do some advance preparation together, try drawing a concept map together or teaching a short snippet of the lessons for each other.
+- Discuss in advance if you will provide feedback to each other and how to do so (see notes above).
+- If it will not cause cognitive overload for you (the instructors), work out a couple of hand signals to communicate. "You are going too fast", "speak up", "that learner needs help", and, "It is time for a bathroom break" are all useful.
+- The person who is not teaching should not interrupt, offer corrections, elaborations, or amusing personal anecdotes, or do anything else to distract from what the person teaching at the time is doing or saying.  The one exception is that it is sometimes helpful to ask leading questions, particularly if the learners seem unsure of themselves.
+- For Carpentries workshops, a single instructor usually teaches for a half-day stretch (2-3 hours).  You can alternate more frequently, but each person should teach for at least 10-15 minutes at a stretch, since learners may be distracted by more frequent interleaving.
+- Each person should take a couple of minutes before they start teaching to see what their partner is going to teach after they are done. This allows each instructor to set up their partner's material without covering it themselves.
+- Whenever possible, the person who is not teaching should stay engaged with the class.  Monitor the shared notes, keep an eye on the learners to see who is struggling, jot down some feedback to give your teaching partner at the next break - anything that contributes to the lesson is better than anything that does not. It is easier for the other instructor to take a break to catch up on outside work (like email) if there are at least three instructors or sufficient helpers to make sure that the main instructor is supported.
 
 :::::::::::::::::::::::::
 
@@ -400,24 +368,18 @@ instructions for setting them up.
 For this activity, your Trainer will put you in groups, but you may choose whether to work together or independently.
 If you work independently, you can still use your group as a resource to ask questions as they emerge.
 
-Go to the workshop template repository: [https://github.com/carpentries/workshop-template](https://github.com/carpentries/workshop-template)
+Go to the [workshop template repository](https://github.com/carpentries/workshop-template) at [https://github.com/carpentries/workshop-template](https://github.com/carpentries/workshop-template).
 
-- If you have a GitHub account (or don't mind creating one) and are comfortable doing so,
-  follow the directions to begin creating a workshop website using your local location and today's date.
+- If you have a GitHub account (or don't mind creating one) and are comfortable doing so, follow the directions to begin creating a workshop website using your local location and today's date.
+- Alternatively, have a look at the video tutorial linked on the instructions page. 
 
-- Alternatively, have a look at the video tutorial linked on the instructions page. With any time
-  remaining, have a look at the websites for upcoming Carpentries workshops on our website: [https://carpentries.org/upcoming\_workshops/](https://carpentries.org/upcoming_workshops/)
+With any time remaining, have a look at the websites for [upcoming workshops](https://carpentries.org/upcoming_workshops/) at [https://carpentries.org/upcoming\_workshops/](https://carpentries.org/upcoming_workshops/).
 
-- Add your questions and thoughts on this process to the Etherpad. If you created a workshop website,
-  add the link there as well.
+- Add your questions and thoughts on this process to the Etherpad. If you created a workshop website, add the link there as well.
 
 This exercise should take about 15 minutes.
 
-Note: Sometimes web browsers will cache the workshop webpage, so when
-you make changes in GitHub, they do not show up on the workshop webpage
-immediately.  Two ways to avoid this are to use a "private" or
-"incognito" mode in your web browser or by following these
-instructions to bypass your browser cache: [https://en.wikipedia.org/wiki/Wikipedia:Bypass\_your\_cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
+*Note: Sometimes web browsers will cache the workshop webpage, so when you make changes in GitHub, they do not show up on the workshop webpage immediately.  Two ways to avoid this are to use a "private" or "incognito" mode in your web browser or by following these instructions to bypass your browser cache: [https://en.wikipedia.org/wiki/Wikipedia:Bypass\_your\_cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

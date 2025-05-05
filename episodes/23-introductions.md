@@ -62,7 +62,7 @@ Did you come up with something that is not listed below?
 2. Introduce yourself effectively (and have other workshop leaders do the same)
 3. Clarify learning objectives and expectations
 4. Help learners learn about each other
-5. Set the tone for the workshop
+5. Set the tone for the workshop (including Code of Conduct)
 6. Collect baseline data on learners' knowledge and motivation
 7. Whet learners' appetite for workshop content
 8. Inform Learners of Logistics
@@ -192,12 +192,14 @@ be worthwhile. This is a great chance to get them excited about the prospect of 
 
 Imagine you have completed instructor training and you are about to teach a full lesson around the material you have been practicing teaching during this training.
 
-1. Write out some notes, covering a few of the topics described above:
-2. Introduce yourself effectively
-3. Clarify learning objectives and expectations
-4. Set the tone for the workshop
-5. Return to your groups of 2 or 3 and each give 2 minutes of your introduction. (5-6 min)
-6. After each introduction, briefly share feedback, reserving extensive discussion for after all have had a turn to present.
+1. Write out some notes, covering a few of the topics described above (3-4 minutes):
+   a. Introduce yourself effectively
+   b. Clarify learning objectives and expectations
+   c. Set the tone for the workshop
+2. Return to your groups of 2 or 3 and do the following for each participant (6-8 minutes):
+   a. each give 2 minutes of your introduction
+   b. briefly shared feedback after each introduction
+3. After all have had a turn to present, use any remaining time for more extended discussion.
 
 This exercise will take about 15 minutes.
 
@@ -250,7 +252,7 @@ This exercise will take about 5 minutes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Introduction materials are adapted from [Carnegie Mellon Eberly
-Center Teaching Excellence \& Educational Innovation][credits]
+Center Teaching Excellence \& Educational Innovation][credits].
 
 [icebreakers]: ../instructors/icebreakers.md
 [credits]: https://www.cmu.edu/teaching/designteach/teach/firstday.html

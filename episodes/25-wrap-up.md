@@ -58,7 +58,7 @@ You will need to get the post-training survey link yourself and provide it in th
 ## Post Workshop Surveys
 
 Assessment is very important to us! Please take the remaining time to complete
-the \~5 minute post-training survey (your trainers will provide the link).
+this about 5-minute post-training survey (your trainers will provide the link).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
