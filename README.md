@@ -15,8 +15,8 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 
 - [Sarah Brown][brown_sarah]: @brownsarahm
 - [Nathaniel Porter][porter-nathaniel]: @ndporter
-- [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
-- [Karen Word][word_karen]: @karenword
+- [Karen Cranston][cranston-karen]: @kcranston
+- [John Wheeler][wheeler_jon]: @jonathanwheeler01
 
 [swc-site]: https://software-carpentry.org
 [dc-site]: https://datacarpentry.org
@@ -27,6 +27,6 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 [porter-nathaniel]: https://carpentries.org/instructors/#ndporter
 [wheeler_jon]: https://carpentries.org/instructors/#jonathanwheeler01
 [word_karen]: https://carpentries.org/team/
-
+[cranston-karen]: https://carpentries.org/community/instructors/
 
 
