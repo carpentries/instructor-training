@@ -16,7 +16,7 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 - [Sarah Brown][brown_sarah]: @brownsarahm
 - [Nathaniel Porter][porter-nathaniel]: @ndporter
 - [Karen Cranston][cranston-karen]: @kcranston
-- [John Wheeler][wheeler_jon]: @jonathanwheeler01
+- [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
 
 [swc-site]: https://software-carpentry.org
 [dc-site]: https://datacarpentry.org
