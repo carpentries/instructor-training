@@ -22,11 +22,9 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 [dc-site]: https://datacarpentry.org
 [lc-site]: https://librarycarpentry.org
 [lesson-doc]: https://carpentries.github.io/sandpaper-docs
-[brown_sarah]: https://carpentries.org/instructors/#brownsarahm
-[perez-suarez_david]: https://carpentries.org/instructors/#dpshelio
-[porter-nathaniel]: https://carpentries.org/instructors/#ndporter
-[wheeler_jon]: https://carpentries.org/instructors/#jonathanwheeler01
-[word_karen]: https://carpentries.org/team/
-[cranston-karen]: https://carpentries.org/community/instructors/
+[brown_sarah]: https://github.com/brownsarahm
+[porter-nathaniel]: https://github.com/ndporter
+[wheeler_jon]: https://github.com/konathanwheeler01
+[cranston-karen]: https://github.com/kcranston
 
 
