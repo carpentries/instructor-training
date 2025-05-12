@@ -24,7 +24,7 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 [lesson-doc]: https://carpentries.github.io/sandpaper-docs
 [brown_sarah]: https://github.com/brownsarahm
 [porter-nathaniel]: https://github.com/ndporter
-[wheeler_jon]: https://github.com/konathanwheeler01
+[wheeler_jon]: https://github.com/jonathanwheeler01
 [cranston-karen]: https://github.com/kcranston
 
 
