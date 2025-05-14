@@ -1,5 +1,5 @@
 ---
-title: Information for Member Organizations
+title: Information for Member Organisations
 survey_link: ~
 ---
 
@@ -21,7 +21,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 - You can view available training dates for the current quarter on our [training calendar](https://carpentries.github.io/instructor-training/training_calendar).
 
-- Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organize a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training.
+- Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organise a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training.
 
 - We recommend that your team attends Instructor Training during the first six months of your membership year. This ensures they have time to complete the training requirements and start teaching workshops during your membership year.
 
@@ -46,6 +46,6 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 - Ongoing support and mentorship for trained Instructors is also available through The Carpentries community sessions
   as well as through partcipation in other roles in The Carpentries community.
 
-We're excited to have you and your staff taking this important step to build a strong community of Instructors at your organization. We look forward to welcoming your Instructors into our community!
+We're excited to have you and your staff taking this important step to build a strong community of Instructors at your organisation. We look forward to welcoming your Instructors into our community!
 
 
