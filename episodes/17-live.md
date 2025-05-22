@@ -103,7 +103,7 @@ Many error messages are obscure and not written with novices in mind. Continue t
 - **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
 ::: instructor
 
-For the next exercise, please turn on closed captions using the "CC"" button for the videos, both for accessibility and because sound quality is poor in places.
+For the next exercise, please turn on closed captions using the "CC" button for the videos, both for accessibility and because sound quality is poor in places.
 
 :::
 
