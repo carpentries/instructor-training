@@ -166,14 +166,14 @@ This should take about 5 minutes.
 ::::::::::::::::::::::: solution
 
 ### Links to definitions
-These terms are defined in our Community Glossary.
+These terms are defined in our [Community Glossary](https://docs.carpentries.org/resources/general/glossary.html).
 
-- [Lesson](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson)
-- [Episode](https://github.com/carpentries/community-development/blob/main/glossary.md#episode-lesson-episode)
-- [Workshop](https://github.com/carpentries/community-development/blob/main/glossary.md#workshop)
-- [Lesson Program](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson-program)
-- [Instructor](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor)
-- [(Instructor) Trainer](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor-trainer)
+- [Lesson](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson)
+- [Episode](https://docs.carpentries.org/resources/general/glossary.html#term-Episode-Lesson-Episode)
+- [Workshop](https://docs.carpentries.org/resources/general/glossary.html#term-Workshop)
+- [Lesson Program](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson-Program)
+- [Instructor](https://docs.carpentries.org/resources/general/glossary.html#term-Instructors)
+- [(Instructor) Trainer](https://docs.carpentries.org/resources/general/glossary.html#term-Instructor-Trainer)
 
 ::::::::::::::::::::::::::::::::
 
