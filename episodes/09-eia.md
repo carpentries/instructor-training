@@ -16,7 +16,7 @@ exercises: 20
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - Why are equity, inclusion, and accessibility important?
-- What can I do enhance equity, inclusion, and accessibility in my workshop?
+- What can I do to enhance equity, inclusion, and accessibility in my workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
