@@ -75,7 +75,7 @@ Some challenges are:
 
 - It requires instructors to be able to improvise when things go wrong or when learners
   have questions not directly addressed in the text of the lesson.
-- It can be hard for learners to listen and type at the same time, due to the  
+- It can be hard for learners to listen and type at the same time, due to the 
   *split-attention effect* we
   [discussed earlier](05-memory.md#why-guided-practice-is-important).
   This is why it is
