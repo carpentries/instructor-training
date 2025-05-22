@@ -255,7 +255,7 @@ experiences getting started in programming. Trips down memory lane can be produc
 you take care not to generalize from your experience to that of your novice learners.
 
 We will talk more about knowing your audience in a later episode. For now, here are
-two points to keep in mind when contemplating the learner experience
+two points to keep in mind when contemplating the learner experience:
 
 - In most cases a researcher's **primary goal is not to learn programming**, but to do better and more efficient research.
   They may not wish to take the time to learn how fundamental syntax or data structures work, or
