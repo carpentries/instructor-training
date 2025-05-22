@@ -300,7 +300,7 @@ path toward developing that skill.
 How can you make sure that expert awareness gaps are not negatively affecting your workshop?
 Keep in touch with your learners through frequent formative assessment! If you stumble
 into an expert awareness gap, create confusion by using interchangeable terms, or
-accidentally discourage rather than inviting questions, formative assessment has the power
+accidentally discourage rather than invite questions, formative assessment has the power
 to bring these problems to the surface. As you develop teaching skill, you may be able
 to avoid these pitfalls. Until then, becoming aware of when they occur will help you to
 keep their impact under control.
