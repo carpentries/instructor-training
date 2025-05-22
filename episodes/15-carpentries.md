@@ -297,7 +297,7 @@ This exercise should take about 5 minutes.
 
 ### Keeping In Touch
 
-There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favorite
+There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favourite
 ways to keep in touch, and we do our best to make that possible.
 
 Want to **listen**?

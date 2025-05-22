@@ -165,7 +165,7 @@ Finally, be kind to yourself. If you are a self-critical person,
 it is OK to remind yourself:
 
 - The feedback is not personal. In many cases, feedback says more about the person giving it than the person receiving it.
-- There are always positives along with the negatives. Save your favorites to review regularly!
+- There are always positives along with the negatives. Save your favourites to review regularly!
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 

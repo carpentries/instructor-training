@@ -27,7 +27,7 @@ these principles are put into practice in Carpentries workshops.
 ## The Carpentries Pedagogical Model
 
 The Carpentries aims to teach computational competence to learners. We
-take an applied approach, avoiding the theoretical and general in favor
+take an applied approach, avoiding the theoretical and general in favour
 of the practical and specific. By showing learners how to solve specific
 problems with specific tools and providing hands-on practice, we develop
 learners' confidence and lay the foundation for future learning.
@@ -138,7 +138,7 @@ to generate misconceptions that may interfere with learning.
 ::: challenge
 ## Analogy Brainstorm
 
-1.  Think of an analogy to explore. Perhaps you have a favorite that
+1.  Think of an analogy to explore. Perhaps you have a favourite that
     relates to your area of professional interest, or a hobby. If you
     prefer to work with an example, consider this analogy from
     education: "teaching is like gardening."
