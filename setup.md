@@ -7,7 +7,7 @@ training_site: https://carpentries.github.io/instructor-training
 
 1. Please fill out our pre-workshop survey. Please refer to your pre-workshop email
   for a custom link for your event. Your responses will help your Trainers understand
-  your background and customize the training appropriately. They also assist The Carpentries
+  your background and customise the training appropriately. They also assist The Carpentries
   in understanding and reporting on our impact.
 2. Please go to the [Software Carpentry lessons page](https://software-carpentry.org/lessons/),
   the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the

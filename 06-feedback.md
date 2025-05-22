@@ -62,7 +62,7 @@ you will receive all the survey results from your workshop participants.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customized survey links'}
+![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customised survey links'}
 
 ### Timing Matters
 
@@ -78,12 +78,12 @@ opportunity to reflect), yourself (you will get more useful feedback), and The C
 
 Before each long break, for example lunch or between days, we
 have learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
-paper sticky notes double as minute cards, with the two different colors used for positive and
+paper sticky notes double as minute cards, with the two different colours used for positive and
 constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview)
 on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and
 anonymous. A public-facing sticky note board will receive different (and less useful) feedback.
 
-Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break.
+Whatever method you use, you may wish to customise the prompt to elicit different types of feedback at each break.
 
 **Example positive prompts:**
 
