@@ -41,7 +41,7 @@ our instructions for setting up a workshop website.
 
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
 
-- A **Host** who organizes the workshop logistics
+- A **Host** who organises the workshop logistics
 - Two or more **Instructors** who plan and execute workshop instruction
 - **Helpers** who support learners during the workshop
 

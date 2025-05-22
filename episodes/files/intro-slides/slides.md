@@ -75,7 +75,7 @@ To meet these objectives an introduction should have 8 components
   'Welcome!' or 'Yay, data' or even a question for people to think about.
 
 - **Your use of the few minutes before class.**  
-Greeting the learners as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganization, and so on.
+Greeting the learners as they enter the classroom communicates approachability. Frantically arriving right on time or even late communicates disorganisation, and so on.
 
 ---
 

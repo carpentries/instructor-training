@@ -125,7 +125,7 @@ no assumptions about thermostats in an unfamiliar classroom!)
 If you're teaching a typical Carpentries workshop, then you are
 probably not teaching alone!  Make
 sure that everyone involved in the workshop - instructors,
-helpers, organizers - has a chance to introduce themselves at some point.
+helpers, organisers - has a chance to introduce themselves at some point.
 If you spread out introductions across sections or have people coming and going,
 it helps to build in a reminder to create time later on.
 

@@ -139,7 +139,7 @@ in the Etherpad below to write a short response to the last question.
 
 1. Yes, I have taken a workshop.
 2. Yes, I have been a workshop helper.
-3. Yes, I organized a workshop.
+3. Yes, I organised a workshop.
 4. No, but I am familiar with what is taught at a workshop.
 5. No, and I am not familiar with what is taught at a workshop.
 
@@ -162,7 +162,7 @@ This exercise should take about 5 minutes for responses, with an optional 10 for
 
 To make sure everyone has the
 same context, we will give a brief overview of The Carpentries
-organization before starting the training.
+organisation before starting the training.
 
 ## A Brief Overview of The Carpentries
 

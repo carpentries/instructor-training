@@ -62,7 +62,7 @@ you will receive all the survey results from your workshop participants.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customized survey links'}
+![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customised survey links'}
 
 ### Timing Matters
 
@@ -83,7 +83,7 @@ constructive feedback. At an online workshop, this may be done by making a copy 
 on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and
 anonymous. A public-facing sticky note board will receive different (and less useful) feedback.
 
-Whatever method you use, you may wish to customize the prompt to elicit different types of feedback at each break.
+Whatever method you use, you may wish to customise the prompt to elicit different types of feedback at each break.
 
 **Example positive prompts:**
 
