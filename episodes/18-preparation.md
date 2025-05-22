@@ -287,7 +287,7 @@ as discussed [in part 1](06-feedback.md#minute-cards).
 
 - To teach effectively, you have to know *who* you are teaching.
 - Good learning objectives identify specific events that can be evaluated through formative assessment.
-- A good exercise informs Learners and Instructors when an objective is achieved.
+- A good exercise informs learners and Instructors when an objective is achieved.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
