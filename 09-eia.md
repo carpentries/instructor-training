@@ -290,11 +290,11 @@ an environment that is explicitly inclusive and supports safe focus
 on learning.
 
 We will discuss the Code of Conduct in greater detail in Part 4 of this training during
-our discussion of Working with your team.
+our discussion of [Working with your team](21-management.md).
 
 ### Listening with Assessment and Feedback
 
-Motivating practices like those discussed in the previous episode to invite participation and encourage a growth mindset can also
+Motivating practices like those discussed in the [previous episode](08-motivation.md) to invite participation and encourage a growth mindset can also
 contribute to making a classroom more inclusive for diverse learners.
 However, we cannot assume that any instructional approach has succeeded at fostering inclusion if we do not listen to our audience.
 Explicitly seeking to learn from and attend to the concerns of your learners is key. If you find yourself feeling
