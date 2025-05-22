@@ -88,7 +88,7 @@ best self and provide an inclusive environment for everyone.
 ### Remember Your Pre-Workshop Surveys
 
 The Carpentries strives to create useful assessment instruments that can help you plan and understand your workshop. Pre-survey data will likely accumulate
-right up to the start of your workshop. Be sure to check the links sent by The Carpentries Workshop Administration Team for the most up-to-date information
+right up to the start of your workshop. Be sure to check the links sent by The Carpentries Workshops and Instruction Team for the most up-to-date information
 about your trainees. If you think our surveys could benefit from new or different questions, please let us know!
 
 ## Examine Learning Objectives
