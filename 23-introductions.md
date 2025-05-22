@@ -167,7 +167,7 @@ instructions specific to your workshop. Demonstrating a commitment to accessibil
 additional requests as needed.
 
 **Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g.
-"notetaker" vs "roaming helper", be sure to introduce them, too.
+"notetaker" vs "roaming helper"), be sure to introduce them, too.
 
 **Communicate your expectations** for learners, including:
 
