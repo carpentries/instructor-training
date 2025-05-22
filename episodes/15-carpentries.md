@@ -273,7 +273,7 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 
 ## Community Roles
 
-Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page] at [https://carpentries.org/community/](https://carpentries.org/community/).
+Select one role from the list below that interests you. Using the descriptions on [The Carpentries community website][community-page] at [https://carpentries.org/community/](https://carpentries.org/community/).
 
 Write:
 
