@@ -132,7 +132,7 @@ about how you are responding to learner feedback.
 
 ## Give Us Feedback
 
-Write one thing you learned this so far in this training that you found useful on
+Write one thing you learned so far in this training that you found useful on
 your blue sticky note, and one question you have about the material
 on the yellow.  Do *not* put your name on the notes: this is meant to
 be anonymous feedback.  Add your notes to the pile by the door as
