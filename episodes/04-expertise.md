@@ -62,7 +62,7 @@ So, what makes an expert? The answer is that
 experts have **more connections among pieces of knowledge** that help them think and problem-solve quickly;
 more "short-cuts", if you will.
 
-![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.'}
+![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densely connected, with eight connecting arrows.'}
 
 This brings us back to our mental model diagrams,
 where facts are nodes and relationships are arcs.
