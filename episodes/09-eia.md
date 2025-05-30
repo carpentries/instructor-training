@@ -8,7 +8,7 @@ exercises: 20
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify instructional strategies that are consistent with universal design.
-- Recognize systemic factors that can distract and demotivate learners.
+- Recognise systemic factors that can distract and demotivate learners.
 - Understand the role of The Carpentries Code of Conduct in maintaining an explicitly inclusive environment.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -302,7 +302,7 @@ uncertain about whether you are successfully including all learners, this is a g
 to listen.
 
 When you are actively providing avenues for feedback, there are two signs of trouble to watch out for: negative feedback, and a **lack of feedback**.
-If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognize it
+If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognise it
 themselves. It can be difficult to notice the people you are *not* hearing from in a room! When in doubt, communicate with your team and
 work together to identify and (gently) check in with anyone you haven't heard from. In addition, examine your feedback processes to be sure you are
 including opportunities for **anonymous feedback**.

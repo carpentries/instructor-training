@@ -2,12 +2,12 @@
 title: From the Learners
 ---
 
-On Day 2 of the Instructor Training workshop, Learners are asked to summarize what they have learned.
+On Day 2 of the Instructor Training workshop, Learners are asked to summarise what they have learned.
 Here are some visual summaries that learners have shared on Twitter.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I attended the <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> workshop training these last two days and here are my major insights! Great teaching training, happy to be part of it :) <a href="https://t.co/gZ2edaQnN8">pic.twitter.com/gZ2edaQnN8</a></p>&mdash; Daniela C. Soto (@dcsoto_cl) <a href="https://twitter.com/dcsoto_cl/status/1111447971550228480?ref_src=twsrc%5Etfw">March 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Followed <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> awesome instructor training yesterday 😍 <br>Part of the learning process is reflective practice and improving one&#39;s mental models, so today I tried to summarize some of the topics and concepts we talked about.🖌️🖍️ <a href="https://t.co/dC7QhTqyAf">pic.twitter.com/dC7QhTqyAf</a></p>&mdash; LittleSquirrel (@noccaea) <a href="https://twitter.com/noccaea/status/1121116063977082881?ref_src=twsrc%5Etfw">April 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Followed <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> awesome instructor training yesterday 😍 <br>Part of the learning process is reflective practice and improving one&#39;s mental models, so today I tried to summarise some of the topics and concepts we talked about.🖌️🖍️ <a href="https://t.co/dC7QhTqyAf">pic.twitter.com/dC7QhTqyAf</a></p>&mdash; LittleSquirrel (@noccaea) <a href="https://twitter.com/noccaea/status/1121116063977082881?ref_src=twsrc%5Etfw">April 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s my second day of <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> instructor training today. I did my concept map homework last night 🧠🗺️ <a href="https://t.co/OZGAB4YUPr">pic.twitter.com/OZGAB4YUPr</a></p>&mdash; Natalie Thurlby (@StatalieT) <a href="https://twitter.com/StatalieT/status/1128209011814424576?ref_src=twsrc%5Etfw">May 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

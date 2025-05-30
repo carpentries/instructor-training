@@ -34,7 +34,7 @@ After your training, we ask you to complete three follow-up tasks to become a ce
 
 ## If you Need to Reschedule or Cancel
 
-Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honor the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline.
+Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honour the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline.
 
 After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event.
 

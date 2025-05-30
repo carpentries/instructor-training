@@ -41,7 +41,7 @@ our instructions for setting up a workshop website.
 
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
 
-- A **Host** who organizes the workshop logistics
+- A **Host** who organises the workshop logistics
 - Two or more **Instructors** who plan and execute workshop instruction
 - **Helpers** who support learners during the workshop
 
@@ -133,7 +133,7 @@ like keyboard shortcuts.
 
 #### Sticky Notes
 
-At in-person workshops, two different colors of paper sticky notes are given to each learner. These act as 'flags' that may be placed
+At in-person workshops, two different colours of paper sticky notes are given to each learner. These act as 'flags' that may be placed
 on a laptop screen to indicate when a learner needs help or when they have completed a task and are ready to move on.
 This is better than having people raise their hands because:
 
@@ -150,8 +150,8 @@ This is better than having people raise their hands because:
 
 Once upon a time, Carpentries workshops commonly used red and green sticky notes
 because of their common symbolism for "stop" and "go." However, we have learned
-and grown! We strongly encourage you to get sticky notes in colors other than red and green (e.g. blue and yellow),
-because learners, helpers, and Instructors with colorblindness may have difficulty
+and grown! We strongly encourage you to get sticky notes in colours other than red and green (e.g. blue and yellow),
+because learners, helpers, and Instructors with colourblindness may have difficulty
 distinguishing red from green.
 Some Instructors have also had great fun with differently-shaped sticky notes (stars and squares,
 thumbs up that can be turned into thumbs down stickies etc.).

@@ -25,7 +25,7 @@ In this training we have discussed many cognitive principles and teaching practi
 implementation of Carpentries Workshops.
 We hope you are feeling excited and optimistic about putting
 those concepts to work!
-One thing we have emphasized is that **teaching is a skill** - and a complex one at that.
+One thing we have emphasised is that **teaching is a skill** - and a complex one at that.
 Whether you are new to teaching or skilled in certain methods, adding new features takes time, effort, and deliberate practice. In this episode,
 we will walk through some suggestions about how to prepare yourself for success in the classroom.
 
@@ -79,7 +79,7 @@ This exercise should take about 2 minutes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 As you strive to anticipate and understand your audience, it is
-useful to recognize that you will never know everything about the individuals who come into your classroom. You will not
+useful to recognise that you will never know everything about the individuals who come into your classroom. You will not
 be informed about their hopes and fears beyond what they choose to present. You will never know the full spectrum of neurodiversity represented in your
 workshop. You will not know who is going through a rough break-up, who struggles with an abusive work environment, who has a sick baby at home, or who skipped
 breakfast to save money that morning. What challenges might affect your imaginary person? Thinking deeply about learners as people can help you prepare to bring your
@@ -100,7 +100,7 @@ This is helpful in both designing extra formative assessments and in evaluating 
 appropriateness.
 
 Carpentries learning objectives should target novice learners. This typically means that the actions specified by the learning objective should be
-basic and uncomplicated. These might include words like "recognize," "distinguish," or "use." They typically do not include words like "design," "evaluate," or "break down"
+basic and uncomplicated. These might include words like "recognise," "distinguish," or "use." They typically do not include words like "design," "evaluate," or "break down"
 because these imply more complex cognitive actions even where the focal content is the same.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -257,7 +257,7 @@ practice is doing similar but subtly different things,
 getting feedback,
 and then changing behavior in response to that feedback to get cumulatively better.
 Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
+This is why we emphasise practice and feedback for learners at our workshops and for trainees in our
 Instructor Training program.
 
 

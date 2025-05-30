@@ -260,7 +260,7 @@ and comment on existing PRs. We will not cover the details here, but there is [a
 community-contributed guide on how to create a PR][github-guide] that can help.
 
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The [guidelines for this repository
-are here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
+are here][contributing]. Maintainers for each repository may choose to customise their own guidelines.
 
 #### Alternatives to GitHub
 
@@ -276,7 +276,7 @@ If you do not use GitHub, you may submit your contribution via [this form](https
 
 At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress.
 That is why we exist! So we appreciate the irony when participation in our community demands tools or technical
-procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
+procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognised as an obstacle;
 this is something our community has [discussed extensively][git-blog].
 
 We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our
