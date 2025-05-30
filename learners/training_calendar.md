@@ -42,16 +42,6 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 
 <hr>
 
-#### [June 3-6 2025](https://www.eventbrite.com/e/online-instructor-training-june-3-6-2025-tickets-1264437188669)
-**Four 4-hour days:** 9 am to 1 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250603T09&p1=195&ah=4)
-
-<hr>
-
-#### [June 3-6 2025](https://www.eventbrite.com/e/online-instructor-training-june-3-6-2025-tickets-1264438101399)
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250603T09&p1=137&ah=4)
-
-<hr>
-
 #### [June 16-17 2025](https://www.eventbrite.com/e/online-instructor-training-june-16-17-2025-tickets-1264439706199)
 **Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250616T09&p1=179&ah=8)
 
