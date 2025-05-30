@@ -53,38 +53,38 @@ New trainings are added to this calendar on a quarterly basis (generally in earl
 <hr>
 
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [29 July to 1 August 2025](https://www.eventbrite.com/e/online-instructor-training-29-july-1-august-2025-tickets-1389754576349)
+**Four 4-hour days:** 9 am to 1 pm British Summer Time / 1:30 pm to 5:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250729T09&p1=136&ah=4)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [12-13 August 2025](https://www.eventbrite.com/e/online-instructor-training-12-13-august-2025-tickets-1389758698679)
+**Two 8-hour days:** 9 am to 5pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250812T09&p1=179&ah=8)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [25-28 August 2025](https://www.eventbrite.com/e/online-instructor-training-25-28-august-2025-tickets-1389784365449?aff=oddtdtcreator)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250825T09&p1=240&ah=4)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [2-5 September 2025](https://www.eventbrite.com/e/online-instructor-training-2-5-september-2025-tickets-1389787765619)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250902T09&p1=137&ah=4)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [8-9 September 2025](https://www.eventbrite.com/e/online-instructor-training-8-9-september-2025-tickets-1389797675259)
+**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250908T09&p1=137&ah=8)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [16-17 September 2025](https://www.eventbrite.com/e/online-instructor-training-16-17-september-2025-tickets-1389800604019)
+**Two 8-hour days:** 9 am to 5 pm Central European Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250916T09&p1=195&ah=8)
 
 <hr>
 
-#### []()
-**-hour days:** 9 am to  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250624T09&p1=47&ah=4)
+#### [23-26 September 2025](https://www.eventbrite.com/e/online-instructor-training-23-26-september-2025-tickets-1389808387299?aff=oddtdtcreator)
+**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm British Summer Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250923T09&p1=179&ah=4)
 
 <hr>
 
