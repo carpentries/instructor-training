@@ -20,7 +20,7 @@ Details about the Instructor Trainer role including the application process, dut
 
 - Contact your co-Trainer(s) to plan how you will co-teach.  Suggested discussion questions include:
   - Are all Trainers able to be present throughout the event? If someone needs to step away, you can request a backup co-Trainer during that time if you wish.
-  - What are some useful tips and tricks to organize yourself, pace yourself, share resources, etc. while teaching?
+  - What are some useful tips and tricks to organise yourself, pace yourself, share resources, etc. while teaching?
   - How do you ensure that all trainees stay engaged and participate?
   - How can Trainers help each other (at times when we are not the active Trainer)? How should we communicate with each other during the training?
   - How can we address trainee challenges? These may include internet connectivity problems, distractions caused by working from home, etc.
@@ -35,14 +35,14 @@ Details about the Instructor Trainer role including the application process, dut
 - Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 - For online events:
   - Test videoconferencing set up using login credentials provided.
-  - Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.
-  - Plan how you will have trainees watch videos. If you plan to play them on zoom, familiarize yourself with audio settings and consider an ad management strategy.
+  - Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalise for your event.
+  - Plan how you will have trainees watch videos. If you plan to play them on zoom, familiarise yourself with audio settings and consider an ad management strategy.
 - For in-person events:
   - Confirm that breakout rooms are available or make an alternate plan
   - Determine who will bring paper (if needed for concept mapping) and sticky notes (for minute cards & demonstration).
   - Make sure you are prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
   - Check on availability/timing of breaks, lunch, etc.
-  - Familiarize yourself with the room, building, and accessibility resources as possible.
+  - Familiarise yourself with the room, building, and accessibility resources as possible.
 
 ### During the event
 
@@ -54,7 +54,7 @@ Details about the Instructor Trainer role including the application process, dut
 
 ### Immediately after the event
 
-- Double check that your attendance sheet is complete. For self-organized events, email instructor.training@carpentries.org to be sure we have your attendance record.
+- Double check that your attendance sheet is complete. For self-organised events, email instructor.training@carpentries.org to be sure we have your attendance record.
 - If you wish, you can an email to trainees thanking them for participating. 
 - Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].
 - File any relevant issues or PRs to the [instructor training repo][training-repo].
@@ -302,7 +302,7 @@ Different ways of managing feedback:
   (like some Trainers) do not have the content expertise to be able to fully evaluate that category for all lessons.
 - If there is time (4 people or less) you can do feedback entirely verbally, or have them issue verbal feedback after writing
   notes in the Etherpad. If you do this, suggest having presenter give their own feedback, then other learners, then Trainer can
-  summarize/disagree/add/emphasize as needed.
+  summarise/disagree/add/emphasise as needed.
 - I take notes on physical paper during each demo with points I think need to be made, then mark things off as others
   mention them in their feedback. Usually, the trainees catch most of the things I wanted to mention, and I can choose just
   one or two things to comment on. (EB)

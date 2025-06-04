@@ -43,9 +43,9 @@ In particular,
 do you think you would have enough time to prepare and teach lessons
 the ways you have been shown?
 
-### Favorite Food
+### Favourite Food
 
-What is your favorite food?
+What is your favourite food?
 It may be a meal or snack, something you eat often, or only on special occassions.
 
 ### Teaching Passion
@@ -53,9 +53,9 @@ It may be a meal or snack, something you eat often, or only on special occassion
 What aspect of teaching are you passionate about or do you really enjoy?
 Is it seeing a lightbulb moment in a student's eye, or learning something new when you teach?
 
-### Favorite Emoji
+### Favourite Emoji
 
-What is your favorite emoji. If you do not have a favorite or do not use emoiji's, that is an okay answer.
+What is your favourite emoji. If you do not have a favourite or do not use emoiji's, that is an okay answer.
 
 ### Mythical creature
 
@@ -63,7 +63,7 @@ What is a mythical creature from where you grew up?
 
 ### Something you might have in common
 
-What is something you might have in common with someone else? Maybe this is a hobby, a pet, a favorite tool, anything.
+What is something you might have in common with someone else? Maybe this is a hobby, a pet, a favourite tool, anything.
 
 ### Joy
 

@@ -28,7 +28,7 @@ you to be a certified Carpentries Instructor, which includes the following:
   creating such an environment; and be able to
   identify and implement The Carpentries policies and general practices to accomplish this.
 - practice and develop skills in the teaching methods used in Carpentries workshops
-- learn enough about The Carpentries organization to know where to go for help,
+- learn enough about The Carpentries organisation to know where to go for help,
   how to start organizing a workshop, and how to get involved with community activities.
 
 So far we have focused on general aspects of educational psychology and pedagogy and

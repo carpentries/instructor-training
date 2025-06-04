@@ -49,7 +49,7 @@ title: Glossary
   <br>
 
 - **Effort-based Praise**:
-  Providing positive feedback to learners that recognizes and rewards their hard work.
+  Providing positive feedback to learners that recognises and rewards their hard work.
   <br>
   See also *improvement-based praise* and *performance-based praise*.
 
@@ -57,13 +57,13 @@ title: Glossary
 
 - **Expert**:
   Someone who can diagnose and handle unusual situations, knows when the
-  usual rules do not apply, and tends to recognize solutions rather than
+  usual rules do not apply, and tends to recognise solutions rather than
   reasoning to them.
   <br>
   See also *competent practitioner* and *novice*.
 
 - **Expert Awareness Gap**:
-  The inability of experts to empathize with novices who are
+  The inability of experts to empathise with novices who are
   encountering concepts or practices for the first time.
   Often referred to as expert blind spot in the literature.
 
@@ -98,7 +98,7 @@ title: Glossary
   a fear of being exposed as a fraud.
 
 - **Improvement-based Praise**:
-  Providing positive feedback to learners that recognizes and rewards improvements they have made.
+  Providing positive feedback to learners that recognises and rewards improvements they have made.
   <br>
   See also *effort-based praise* and *performance-based praise*.
 

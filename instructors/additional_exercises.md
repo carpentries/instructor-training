@@ -51,7 +51,7 @@ This discussion should take about 5 minutes.
 ## Solution
 
 This will depend on the event they are attending. Most attendees will guess low.
-The purpose of this exercise is to emphasize the importance of frequent formative
+The purpose of this exercise is to emphasise the importance of frequent formative
 assessments and that an individual assessment does not have to take a lot of time.
 
 
