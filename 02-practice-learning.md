@@ -192,7 +192,7 @@ Returning to our example levels of skill development:
     difficulty explaining how they are thinking in ways that do not rely
     on other features unique to their own mental model.
 
-![](fig/mental_models.svg){alt="Three collections of six circles. The first collection is labelled \"Novice\" and has only two arrows connecting some of the circles. The second collection, labelled \"Competent Practitioner\" has six connecting arrows. The third collection, labelled \"Expert\", is densly connected, with eight connecting arrows."}
+![](fig/mental_models.svg){alt="Three collections of six circles. The first collection is labelled \"Novice\" and has only two arrows connecting some of the circles. The second collection, labelled \"Competent Practitioner\" has six connecting arrows. The third collection, labelled \"Expert\", is densely connected, with eight connecting arrows."}
 
 ### Mapping a Mental Model
 
