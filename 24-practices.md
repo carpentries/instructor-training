@@ -7,7 +7,7 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Organize your knowledge of teaching practices and create a plan for using these practices in a Carpentries workshop.
+- Organise your knowledge of teaching practices and create a plan for using these practices in a Carpentries workshop.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -26,7 +26,7 @@ educational research. We have talked about some of these techniques explicitly
 (e.g. participatory live coding and formative assessment), and others we have been modeling throughout
 the training, without necessarily calling attention to what we were doing. Some of
 these teaching techniques are implemented at particular points in a workshop, while
-others are used throughout. Let us put together everything we have learned and organize
+others are used throughout. Let us put together everything we have learned and organise
 these practices in terms of what parts of a workshop we need to be conscious of each
 of these strategies. In other words, let us put down on paper some of our mental model
 about teaching and learning, specifically in the Carpentries context.
@@ -84,7 +84,7 @@ Here is a non-exhaustive list of topics:
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Organize Your Knowledge
+## Organise Your Knowledge
 
 Use a concept map or other visual organiser of your choice to connect some of
 the concepts above. You don't have to use them all! How are the terms you have

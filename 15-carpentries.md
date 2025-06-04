@@ -45,7 +45,7 @@ you are also becoming part of a community of like-minded volunteers. Our most
 active members draw upon this community for support and mentorship, pursuing goals that
 matter to them and creating relationships across the globe.
 This section provides some background on
-[The Carpentries](https://carpentries.org/) organization, how we are structured, and a few
+[The Carpentries](https://carpentries.org/) organisation, how we are structured, and a few
 ways you might wish to participate (including by teaching workshops!).
 
 ## A Brief History
@@ -136,7 +136,7 @@ that the workshop [requirements][workshopsreq-page] are in effect. Other worksho
 
 ### Reporting a 'Mix and Match' Workshop
 
-If you do decide to self-organise a workshop of any length that does not fit the requirements of a lesson program but does draw from our officially recognized Data Carpentry,
+If you do decide to self-organise a workshop of any length that does not fit the requirements of a lesson program but does draw from our officially recognised Data Carpentry,
 Library Carpentry, or Software Carpentry lessons, we would still like to know about it! This helps us
 to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your "mix-and-match" workshop to us
 (and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
@@ -226,7 +226,7 @@ you will need to set aside some time to help them understand how best to support
 
 ## Explain to a partner
 
-With a partner, take turns asking and answering the question: "I want to organize a workshop! What will I need to do?" One partner should ask about a
+With a partner, take turns asking and answering the question: "I want to organise a workshop! What will I need to do?" One partner should ask about a
 self-organised workshop, and the other can ask about a centrally-organised workshop. If you have a third person, they can help out with follow-up questions
 or answers as needed.
 
@@ -297,7 +297,7 @@ This exercise should take about 5 minutes.
 
 ### Keeping In Touch
 
-There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favorite
+There are a dizzying number of ways to listen and communicate with The Carpentries communities. It is not necessary to follow all of them! Everyone has their favourite
 ways to keep in touch, and we do our best to make that possible.
 
 Want to **listen**?
