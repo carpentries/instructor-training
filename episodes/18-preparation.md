@@ -94,7 +94,7 @@ about your trainees. If you think our surveys could benefit from new or differen
 ## Examine Learning Objectives
 
 All Carpentries lessons should have learning objectives listed at the top of each episode. Did you notice these
-in your lesson? In the most
+in your lesson? In most
 cases they are quite specific about **what a learner should be able to do** by the end of the episode.
 This is helpful in both designing extra formative assessments and in evaluating possible additions or digressions for
 appropriateness.
@@ -287,7 +287,7 @@ as discussed [in part 1](06-feedback.md#minute-cards).
 
 - To teach effectively, you have to know *who* you are teaching.
 - Good learning objectives identify specific events that can be evaluated through formative assessment.
-- A good exercise informs Learners and Instructors when an objective is achieved.
+- A good exercise informs learners and Instructors when an objective is achieved.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

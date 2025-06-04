@@ -75,7 +75,7 @@ Some challenges are:
 
 - It requires instructors to be able to improvise when things go wrong or when learners
   have questions not directly addressed in the text of the lesson.
-- It can be hard for learners to listen and type at the same time, due to the  
+- It can be hard for learners to listen and type at the same time, due to the 
   *split-attention effect* we
   [discussed earlier](05-memory.md#why-guided-practice-is-important).
   This is why it is
@@ -101,11 +101,9 @@ Many error messages are obscure and not written with novices in mind. Continue t
 - Learning to parse error messages is an important step in developing debugging skills.
 
 - **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
-::: instructor
 
-For the next exercise, please turn on closed captions using the "CC"" button for the videos, both for accessibility and because sound quality is poor in places.
+For the next exercise, please turn on closed captions using the "CC" button for the videos, both for accessibility and because sound quality is poor in places.
 
-:::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 

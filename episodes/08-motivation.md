@@ -234,7 +234,7 @@ This exercise should take about 5 minutes.
 
 ### First, Do No Harm!
 
-When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes base a professional identity
+When learning a skill, we develop more than expert awareness gaps -- we also develop opinions about tools and methods, and sometimes base a professional identity
 around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present
 serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
 

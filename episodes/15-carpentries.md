@@ -94,7 +94,7 @@ Similarities between Data Carpentry, Library Carpentry, and Software Carpentry w
 The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
 are their content and intended audience. Their similarities and differences are depicted in this diagram:
 
-![](fig/carpentries-venn-diagram_20200904.svg){alt='Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have modular a curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
+![](fig/carpentries-venn-diagram_20200904.svg){alt='Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
 
 ## What is a Carpentries Workshop? The Rules.
 
@@ -166,14 +166,14 @@ This should take about 5 minutes.
 ::::::::::::::::::::::: solution
 
 ### Links to definitions
-These terms are defined in our Community Glossary.
+These terms are defined in our [Community Glossary](https://docs.carpentries.org/resources/general/glossary.html).
 
-- [Lesson](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson)
-- [Episode](https://github.com/carpentries/community-development/blob/main/glossary.md#episode-lesson-episode)
-- [Workshop](https://github.com/carpentries/community-development/blob/main/glossary.md#workshop)
-- [Lesson Program](https://github.com/carpentries/community-development/blob/main/glossary.md#lesson-program)
-- [Instructor](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor)
-- [(Instructor) Trainer](https://github.com/carpentries/community-development/blob/main/glossary.md#instructor-trainer)
+- [Lesson](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson)
+- [Episode](https://docs.carpentries.org/resources/general/glossary.html#term-Episode-Lesson-Episode)
+- [Workshop](https://docs.carpentries.org/resources/general/glossary.html#term-Workshop)
+- [Lesson Program](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson-Program)
+- [Instructor](https://docs.carpentries.org/resources/general/glossary.html#term-Instructors)
+- [(Instructor) Trainer](https://docs.carpentries.org/resources/general/glossary.html#term-Instructor-Trainer)
 
 ::::::::::::::::::::::::::::::::
 
@@ -273,7 +273,7 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 
 ## Community Roles
 
-Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page] at [https://carpentries.org/community/](https://carpentries.org/community/).
+Select one role from the list below that interests you. Using the descriptions on [The Carpentries community website][community-page] at [https://carpentries.org/community/](https://carpentries.org/community/).
 
 Write:
 

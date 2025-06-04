@@ -280,7 +280,7 @@ A few more that you may wish to consider are:
 - [Parson's Problems][wikipedia-parsons]: out-of-order code selection \& sorting challenges
 - Labelling diagrams or flow charts (may also be organised as a fill-in-the-blank)
 
-Beware assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
+Beware of assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
 some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novice learners. Questions
 that ask learners to both remember and synthesise or reason with new information are also risky. If you try out
 a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach... or you may only need a more narrowly focused question.
