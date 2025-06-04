@@ -61,7 +61,7 @@ things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
 
-![](fig/what-to-teach.png){alt='A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
+![](fig/what-to-teach.png){alt='A stylized graph with y-axis labeled "usefulness once mastered" and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
 
 Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
@@ -234,7 +234,7 @@ This exercise should take about 5 minutes.
 
 ### First, Do No Harm!
 
-When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes base a professional identity
+When learning a skill, we develop more than expert awareness gaps -- we also develop opinions about tools and methods, and sometimes base a professional identity
 around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present
 serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
 
