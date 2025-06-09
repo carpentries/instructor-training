@@ -204,7 +204,7 @@ That counts!
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these
 sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community
 programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the
-[Community Sessions Etherpad][discussion] to look for sessions that will work for you!
+[Community Calendar](https://carpentries.org/community/events/) to look for sessions that will work for you!
 
 ### Contribute to the construction or maintenance of Carpentries materials
 The Carpentries' lessons are built, sustained, and improved only through the collaborative effort of our community members.
