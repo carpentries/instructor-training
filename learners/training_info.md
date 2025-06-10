@@ -98,4 +98,4 @@ Use the left sidebar to browse the content, and visit [the landing page in Instr
 Most Instructor Training events take place over four half-days, and the majority of others span two full days.
 
 ### Collaborative Notes
-Trainers will share the link to an [_Etherpad_](https://github.com/carpentries/community-engagement/blob/main/glossary.md#etherpad) that can be used for chatting, collaborating on notes, and sharing URLs and bits of code during the training.
+Trainers will share the link to an [_Etherpad_](https://docs.carpentries.org/resources/general/glossary.html#term-Etherpad) that can be used for chatting, collaborating on notes, and sharing URLs and bits of code during the training.
