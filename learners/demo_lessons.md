@@ -40,7 +40,7 @@ before your teaching demonstration begins.**
 
 ## Ineligible Episodes for Teaching Demos {#ineligible}
 
-Some lessons include episodes that **cannot be used for a teaching demonstrations**,
+Some lessons include episodes that **cannot be used for a teaching demonstration**,
 usually because they contain little or no opportunity for teaching by live demonstration.
 These episodes are listed in the _Not Eligible for Demos_ column of the tables below.
 
