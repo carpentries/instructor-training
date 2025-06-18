@@ -44,7 +44,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 - Consider encouraging your Instructors to volunteer with The Carpentries. This will give them opportunities to teach and share knowledge with experienced Carpentries Instructors around the world, enriching their practice and your community.
 
 - Ongoing support and mentorship for trained Instructors is also available through The Carpentries community sessions
-  as well as through partcipation in other roles in The Carpentries community.
+  as well as through participation in other roles in The Carpentries community.
 
 We're excited to have you and your staff taking this important step to build a strong community of Instructors at your organisation. We look forward to welcoming your Instructors into our community!
 
