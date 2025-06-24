@@ -125,7 +125,7 @@ no assumptions about thermostats in an unfamiliar classroom!)
 If you're teaching a typical Carpentries workshop, then you are
 probably not teaching alone!  Make
 sure that everyone involved in the workshop - instructors,
-helpers, organizers - has a chance to introduce themselves at some point.
+helpers, organisers - has a chance to introduce themselves at some point.
 If you spread out introductions across sections or have people coming and going,
 it helps to build in a reminder to create time later on.
 
@@ -167,7 +167,7 @@ instructions specific to your workshop. Demonstrating a commitment to accessibil
 additional requests as needed.
 
 **Communicate the workshop structure**, including learning objectives and hands-on approach. If your instructional team has distinct roles in the workshop (e.g.
-"notetaker" vs "roaming helper", be sure to introduce them, too.
+"notetaker" vs "roaming helper"), be sure to introduce them, too.
 
 **Communicate your expectations** for learners, including:
 

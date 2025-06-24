@@ -60,7 +60,7 @@ Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-session
 Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
 
 If you would like to attend another community session for your 'Get Involved' step, visit the 
-Community Sessions Etherpad: <https://pad.carpentries.org/community-sessions-2025>
+Community Calendar: <https://carpentries.org/community/events>
 
 This exercise should take 5 minutes.
 

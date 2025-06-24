@@ -27,7 +27,7 @@ these principles are put into practice in Carpentries workshops.
 ## The Carpentries Pedagogical Model
 
 The Carpentries aims to teach computational competence to learners. We
-take an applied approach, avoiding the theoretical and general in favor
+take an applied approach, avoiding the theoretical and general in favour
 of the practical and specific. By showing learners how to solve specific
 problems with specific tools and providing hands-on practice, we develop
 learners' confidence and lay the foundation for future learning.
@@ -127,7 +127,7 @@ seize up or break down entirely as new concepts are added.
 
 ### The power (and limitations) of analogies
 
-Some mental models can be succinctly summarized by comparison to
+Some mental models can be succinctly summarised by comparison to
 something else that is more universally understood. Good analogies can
 be extraordinarily useful when teaching, because they draw upon an
 existing mental model to fill in another, speeding learning and making a
@@ -138,7 +138,7 @@ to generate misconceptions that may interfere with learning.
 ::: challenge
 ## Analogy Brainstorm
 
-1.  Think of an analogy to explore. Perhaps you have a favorite that
+1.  Think of an analogy to explore. Perhaps you have a favourite that
     relates to your area of professional interest, or a hobby. If you
     prefer to work with an example, consider this analogy from
     education: "teaching is like gardening."
@@ -162,7 +162,7 @@ drywall."
 
 The word "carpentry" acts as a metaphor -- a type of analogy --
 inspiring a comparison with something concrete, hands on, practical, and
-useful. This clearly conveys the purpose of our organization: to support
+useful. This clearly conveys the purpose of our organisation: to support
 computational skill development among working practitioners who need the
 right tools and practices to be effective day to day.
 :::
@@ -192,7 +192,7 @@ Returning to our example levels of skill development:
     difficulty explaining how they are thinking in ways that do not rely
     on other features unique to their own mental model.
 
-![](fig/mental_models.svg){alt="Three collections of six circles. The first collection is labelled \"Novice\" and has only two arrows connecting some of the circles. The second collection, labelled \"Competent Practitioner\" has six connecting arrows. The third collection, labelled \"Expert\", is densly connected, with eight connecting arrows."}
+![](fig/mental_models.svg){alt="Three collections of six circles. The first collection is labelled \"Novice\" and has only two arrows connecting some of the circles. The second collection, labelled \"Competent Practitioner\" has six connecting arrows. The third collection, labelled \"Expert\", is densely connected, with eight connecting arrows."}
 
 ### Mapping a Mental Model
 
@@ -213,18 +213,18 @@ activity. It can be helpful to make a larger map and then narrow down to
 a smaller one.
 :::
 
-Most people do not naturally visualize a mental model as a diagram of
+Most people do not naturally visualise a mental model as a diagram of
 concepts and relationships. Mental models are complicated! Yet, visual
 representation of concepts and relationships can be a useful way to
 explore and understand hidden features of a mental model.
 
-There are certain ways in which you may routinely use visual organizers,
+There are certain ways in which you may routinely use visual organisers,
 such as flow charts or biochemical pathway diagrams. A more general tool
 that is useful for exploring any network of concepts and relationships
 is a **concept map**. Pioneered for classroom use by John Novak in the
 1970s, a concept map asks you to identify which concepts are most
 relevant to a topic at hand and -- critically -- to identify how they
-are connected. It can be quite difficult to identify and organize these
+are connected. It can be quite difficult to identify and organise these
 connections! However, the process of forcing abstract knowledge into a
 visual format can force you to name connections that you might otherwise
 have quietly assumed, or illuminate gaps that you may not have been

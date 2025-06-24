@@ -72,7 +72,7 @@ This exercise should take about 5 minutes.
 
 ## Test Your Working Memory - Analog version (5 min)
 
-Read the following list and try to memorize the items in it:
+Read the following list and try to memorise the items in it:
 
 cat, apple, ball, tree, square, head, house, door, box, car, king,
 hammer, milk, fish, book, tape, arrow, flower, key, shoe
@@ -128,7 +128,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](fig/chunking2.png){alt='A list of words: cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe.Underneath, the same words are organized into boxes with related terms e.g. cat fish milk ball and apple flower tree"'}
+![](fig/chunking2.png){alt='A list of words: cat, apple, ball, tree, square, head, house, door, box, car, king, hammer, milk, fish, book, tape, arrow, flower, key, shoe.Underneath, the same words are organised into boxes with related terms e.g. cat fish milk ball and apple flower tree"'}
 
 Associating concepts
 reduces the number of effective
@@ -265,7 +265,7 @@ which are intended to be completed together, through participatory live coding (
 later in this training).
 
 The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation
-can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimize
+can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimise
 cognitive load by choosing formative assessments that are
 narrowly focused and by considering potential distractions in what you display during instruction.
 
@@ -278,11 +278,11 @@ A few more that you may wish to consider are:
 
 - [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
 - [Parson's Problems][wikipedia-parsons]: out-of-order code selection \& sorting challenges
-- Labelling diagrams or flow charts (may also be organized as a fill-in-the-blank)
+- Labelling diagrams or flow charts (may also be organised as a fill-in-the-blank)
 
-Beware assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
+Beware of assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
 some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novice learners. Questions
-that ask learners to both remember and synthesize or reason with new information are also risky. If you try out
+that ask learners to both remember and synthesise or reason with new information are also risky. If you try out
 a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach... or you may only need a more narrowly focused question.
 
 ### What to Display
@@ -318,10 +318,10 @@ increasing connectivity (chunking) among new concepts can improve
 outcomes for subsequent memory-intensive exercises. Formative assessments, when performed
 frequently, help learners by prompting them to apply new content before it has been
 overwritten. Faded examples or other types of guided practice
-both minimize demands on short-term memory and offer context that
+both minimise demands on short-term memory and offer context that
 helps improve connectivity for future work, in which the "scaffolding" of contextual support
 can be gradually removed.
-Anything you can do to a) recognize and b) support learners in working with the
+Anything you can do to a) recognise and b) support learners in working with the
 limitations of short-term memory will improve the effectiveness of your teaching.
 
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two

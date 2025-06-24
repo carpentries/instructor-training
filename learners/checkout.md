@@ -204,7 +204,7 @@ That counts!
 The Carpentries offers a wide array of programming to meet the needs and interests of our community-members. Attending or hosting any of these
 sessions can be used to fulfill your Get Involved step for Instructor checkout. For more on the different types of Carpentries community
 programming, [see this blog post](https://carpentries.org/blog/2023/04/new-community-programming/) or go directly to the
-[Community Sessions Etherpad][discussion] to look for sessions that will work for you!
+[Community Calendar](https://carpentries.org/community/events/) to look for sessions that will work for you!
 
 ### Contribute to the construction or maintenance of Carpentries materials
 The Carpentries' lessons are built, sustained, and improved only through the collaborative effort of our community members.
@@ -215,7 +215,7 @@ If you would like help making a lesson contribution consider making a post in th
 #### Why Contribute to Carpentries Lessons?
 If you are interested in getting involved in The Carpentries, you may also be interested in becoming more involved in the
 open source tools we teach and the communities that revolve around them. The Carpentries community is a safe and friendly space to
-learn to how to participate in open collaboration on GitHub. You can apply what you have learned here to engage elsewhere, with the tools you
+learn how to participate in open collaboration on GitHub. You can apply what you have learned here to engage elsewhere, with the tools you
 love and the people who develop them!
 
 In addition, because The Carpentries curricula are collaboratively developed and maintained, all direct contributors become authors on
@@ -237,7 +237,7 @@ To get there, try looking for a link that says "Edit this page". In this curricu
 
 Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
 
-![](fig/Instructor_Training_Repo_0.png){alt='Screen shot of Sofware Carpentries Lessons list in a browser with Links to Lessons Repositories circled' width="800px" }
+![](fig/Instructor_Training_Repo_0.png){alt='Screen shot of Software Carpentries Lessons list in a browser with Links to Lessons Repositories circled' width="800px" }
 
 The browser view of the GitHub repository for this workshop looks like this:
 
@@ -260,7 +260,7 @@ and comment on existing PRs. We will not cover the details here, but there is [a
 community-contributed guide on how to create a PR][github-guide] that can help.
 
 Each lesson repository has a document, named `CONTRIBUTING.md`, that outlines contribution guidelines. The [guidelines for this repository
-are here][contributing]. Maintainers for each repository may choose to customize their own guidelines.
+are here][contributing]. Maintainers for each repository may choose to customise their own guidelines.
 
 #### Alternatives to GitHub
 
@@ -276,12 +276,12 @@ If you do not use GitHub, you may submit your contribution via [this form](https
 
 At The Carpentries, we know all too well that tools and technical procedures can present a serious barrier to progress.
 That is why we exist! So we appreciate the irony when participation in our community demands tools or technical
-procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognized as an obstacle;
+procedures that may not be familiar or accessible to all who wish to contribute. GitHub, in particular is often recognised as an obstacle;
 this is something our community has [discussed extensively][git-blog].
 
 We are actively invested in making our processes as friendly and inclusive as possible, and that includes supporting our
 community in surmounting the barriers presented by our own technologies of choice. Watch our channels for
-opportunities to develop your skills as a contributor! In the mean time, if you
+opportunities to develop your skills as a contributor! In the meantime, if you
 have any ideas about how we can make our resources more contributor-friendly,
 please [let us know][contact-page].
 

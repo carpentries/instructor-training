@@ -7,7 +7,7 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe overnight preparation.
-- Produce a paragraph, drawing, or diagram that summarizes what was taught to this point.
+- Produce a paragraph, drawing, or diagram that summarises what was taught to this point.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -26,7 +26,7 @@ look in some depth at how The Carpentries operates to prepare you for the logist
 
 To prepare for our next session, please:
 
-1. Read about [centrally-organized and self-organized workshops](https://carpentries.org/workshops/#workshop-organising) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/resources/workshops/) -- be sure to click through to some of the associated checklists. These summarize commonly asked questions about organizing and running workshops.
+1. Read about [centrally-organised and self-organised workshops](https://carpentries.org/workshops/#workshop-organising) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/resources/workshops/) -- be sure to click through to some of the associated checklists. These summarise commonly asked questions about organizing and running workshops.
   When you arrive for the next part, we will ask you to add one question about our operations to a list.
   We will then do our best to answer all of those questions during the day.
 
@@ -39,11 +39,11 @@ To prepare for our next session, please:
   If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
   
   - Data Carpentry   
-    - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
-    - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
-    - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
-    - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
-    - [Exploring and Understanding Data in R](https://datacarpentry.org/R-ecology-lesson/how-r-thinks-about-data.html)
+    - [Exploring Data with OpenRefine](https://datacarpentry.github.io/OpenRefine-ecology-lesson/03-exploring-data.html)
+    - [Basic Queries in SQL](https://datacarpentry.github.io/sql-ecology-lesson/01-sql-basic-queries.html)
+    - [Starting with Data in Python](https://datacarpentry.github.io/python-ecology-lesson/02-starting-with-data.html)
+    - [Dates as Data in Excel](https://datacarpentry.github.io/spreadsheet-ecology-lesson/03-dates-as-data.html)
+    - [Exploring and Understanding Data in R](https://datacarpentry.github.io/R-ecology-lesson/how-r-thinks-about-data.html)
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)

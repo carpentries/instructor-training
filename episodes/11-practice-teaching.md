@@ -165,7 +165,7 @@ Finally, be kind to yourself. If you are a self-critical person,
 it is OK to remind yourself:
 
 - The feedback is not personal. In many cases, feedback says more about the person giving it than the person receiving it.
-- There are always positives along with the negatives. Save your favorites to review regularly!
+- There are always positives along with the negatives. Save your favourites to review regularly!
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -179,7 +179,7 @@ and then give feedback on it: [https://www.youtube.com/watch?v=jxgMVwQamO0][bad-
 English and Spanish captions are available by clicking the settings icon in the video.
 
 Put your feedback in the Etherpad.
-Organize your feedback along two axes:
+Organise your feedback along two axes:
 - positive vs. opportunities for growth (sometimes called "negative") and
 - content (what was said) vs. presentation (how it was said).
 
@@ -212,7 +212,7 @@ give you more to work with!
   should start by offering feedback on themselves. The timekeeper should help to keep
   feedback to about 5 minutes per person to ensure everyone has time to perform and discuss.
 5. Rotate roles and repeat steps 3 \& 4
-6. Return to the main group and briefly summarize the feedback you received in the Etherpad.
+6. Return to the main group and briefly summarise the feedback you received in the Etherpad.
 
 **Trainings where trainees are co-located:**
 

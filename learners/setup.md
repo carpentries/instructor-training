@@ -7,7 +7,7 @@ training_site: https://carpentries.github.io/instructor-training
 
 1. Please fill out our pre-workshop survey. Please refer to your pre-workshop email
   for a custom link for your event. Your responses will help your Trainers understand
-  your background and customize the training appropriately. They also assist The Carpentries
+  your background and customise the training appropriately. They also assist The Carpentries
   in understanding and reporting on our impact.
 2. Please go to the [Software Carpentry lessons page](https://software-carpentry.org/lessons/),
   the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the
@@ -46,11 +46,11 @@ If you have any questions about the workshop, the reading material, or anything 
 If you are having trouble choosing an episode, we recommend choosing one of the following:
 
  - Data Carpentry   
-    - [Exploring Data with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/03-exploring-data.html)
-    - [Basic Queries in SQL](https://datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries.html)
-    - [Starting with Data in Python](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
-    - [Dates as Data in Excel](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
-    - [Exploring and Understanding Data in R](https://datacarpentry.org/R-ecology-lesson/how-r-thinks-about-data.html)
+    - [Exploring Data with OpenRefine](https://datacarpentry.github.io/OpenRefine-ecology-lesson/03-exploring-data.html)
+    - [Basic Queries in SQL](https://datacarpentry.github.io/sql-ecology-lesson/01-sql-basic-queries.html)
+    - [Starting with Data in Python](https://datacarpentry.github.io/python-ecology-lesson/02-starting-with-data.html)
+    - [Dates as Data in Excel](https://datacarpentry.github.io/spreadsheet-ecology-lesson/03-dates-as-data.html)
+    - [Exploring and Understanding Data in R](https://datacarpentry.github.io/R-ecology-lesson/how-r-thinks-about-data.html)
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)

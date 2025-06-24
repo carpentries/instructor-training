@@ -37,14 +37,14 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 ## What to expect after the event:
 
-- Participants will have three months (90 days) to complete [post-training steps](https://carpentries.github.io/instructor-training/checkout.html) in order to become certified Instructors. We recognize that life happens, and extensions to this deadline will be granted upon request for up to 1 year.
+- Participants will have three months (90 days) to complete [post-training steps](https://carpentries.github.io/instructor-training/checkout.html) in order to become certified Instructors. We recognise that life happens, and extensions to this deadline will be granted upon request for up to 1 year.
 
 - After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
 - Consider encouraging your Instructors to volunteer with The Carpentries. This will give them opportunities to teach and share knowledge with experienced Carpentries Instructors around the world, enriching their practice and your community.
 
 - Ongoing support and mentorship for trained Instructors is also available through The Carpentries community sessions
-  as well as through partcipation in other roles in The Carpentries community.
+  as well as through participation in other roles in The Carpentries community.
 
 We're excited to have you and your staff taking this important step to build a strong community of Instructors at your organisation. We look forward to welcoming your Instructors into our community!
 

@@ -8,7 +8,7 @@ exercises: 45
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain the advantages and limitations of participatory live coding.
-- Summarize the key dos and do nots of participatory live coding.
+- Summarise the key dos and do nots of participatory live coding.
 - Demonstrate participatory live coding.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -61,7 +61,7 @@ Some advantages are:
 - It enables instructors to be more responsive to "what if?" questions.
   Where a slide deck is like a railway track,
   participatory live coding allows instructors to go off-road and follow their learners' interests.
-- Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](https://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realized we were
+- Lateral knowledge transfer: participatory live coding facilitates the transfer of [tacit knowledge](https://jonudell.net/udell/2006-09-19-screencasting-of-tacit-knowledge.html) -- people learn more than we realised we were
   teaching by watching *how* instructors do things.
 - It slows the instructor down:
   if she has to type in the program as she goes along,
@@ -75,7 +75,7 @@ Some challenges are:
 
 - It requires instructors to be able to improvise when things go wrong or when learners
   have questions not directly addressed in the text of the lesson.
-- It can be hard for learners to listen and type at the same time, due to the  
+- It can be hard for learners to listen and type at the same time, due to the 
   *split-attention effect* we
   [discussed earlier](05-memory.md#why-guided-practice-is-important).
   This is why it is
@@ -101,11 +101,9 @@ Many error messages are obscure and not written with novices in mind. Continue t
 - Learning to parse error messages is an important step in developing debugging skills.
 
 - **Intentional vs accidental errors** - It can be useful to intentionally demonstrate common mistakes and error messages. Alternatively, mistakes made by the Instructor or learners can offer useful opportunities to learn about and positively frame errors.
-::: instructor
 
-For the next exercise, please turn on closed captions using the "CC"" button for the videos, both for accessibility and because sound quality is poor in places.
+For the next exercise, please turn on closed captions using the "CC" button for the videos, both for accessibility and because sound quality is poor in places.
 
-:::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -116,7 +114,7 @@ Watch the following two participatory live coding demo videos as a group:
 - [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
 - [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
 
-After watching, summarize your feedback on both in the Etherpad.
+After watching, summarise your feedback on both in the Etherpad.
 Use the 2x2 rubric for feedback we discussed earlier.
 
 In the videos, the bash shell `for` loop is taught,
@@ -142,8 +140,8 @@ making sure that the points of the Top Ten Tips below have been made.
 1. **Stand up and move around the room if possible.** This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.
 2. **Go slowly.** For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it.  Then point to the command and its output on the screen and go through it a second time.  This slows you down and allows learners to copy what you do, or to catch up.  Do not copy-paste code.
 3. **Mirror your learners' environment.** Try to create an environment that is as similar as possible to what your learners have to reduce cognitive load. Avoid using keyboard shortcuts.
-4. **Use your screen wisely.** Use a big font, and maximize the window.  A black font on a white background works better than a light font on a dark background.  When the bottom of the projector screen is at the same height, or below, the heads of the learners, people in the back will not be able to see the lower parts.  Draw up the bottom of your window(s) to compensate. Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, re-position the tables so all learners can see the screen, and helpers can easily reach all learners.
-5. **Use illustrations** to help learners understand and organize the material. You can also generate the illustrations on the board as you progress through the material.  This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching.  It helps learners understand the material, makes for a more lively workshop and gathers the learners' attention to you as well.
+4. **Use your screen wisely.** Use a big font, and maximise the window.  A black font on a white background works better than a light font on a dark background.  When the bottom of the projector screen is at the same height, or below, the heads of the learners, people in the back will not be able to see the lower parts.  Draw up the bottom of your window(s) to compensate. Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, re-position the tables so all learners can see the screen, and helpers can easily reach all learners.
+5. **Use illustrations** to help learners understand and organise the material. You can also generate the illustrations on the board as you progress through the material.  This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching.  It helps learners understand the material, makes for a more lively workshop and gathers the learners' attention to you as well.
 6. **Turn off notifications** on your laptop and phone.
 7. **Stick to the lesson material.** The core Carpentries lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Do not do this, since there is a fair chance you will run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
   Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.

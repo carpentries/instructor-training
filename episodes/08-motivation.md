@@ -61,7 +61,7 @@ things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
 
-![](fig/what-to-teach.png){alt='A stylized graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
+![](fig/what-to-teach.png){alt='A stylised graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
 
 Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
@@ -105,7 +105,7 @@ If you are new to teaching, try to ask an experienced instructor for feedback be
 While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
 workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical
 problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-**be mindful of times when your content is not motivating**, and to strategize ways to re-engage learners (and yourself) using some of the other techniques in this section.
+**be mindful of times when your content is not motivating**, and to strategise ways to re-engage learners (and yourself) using some of the other techniques in this section.
 
 ## How Can You Affect Motivation?
 
@@ -139,7 +139,7 @@ A few ways to invite participation are:
 - **Encouraging learners to learn from each other**. Working in pairs, or *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*, encourages
   learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and
   resolved. This can also address challenges of varying background experience: asking more advanced learners to help beginners can
-  maximize learning for both. In these cases, make sure the beginner is doing the typing!
+  maximise learning for both. In these cases, make sure the beginner is doing the typing!
 - **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also
   helps you examine your expert awareness gaps! Formative assessments can pinpoint misunderstandings. When learners see  that others are confused, they are more likely to share their own uncertainties.
 
@@ -229,12 +229,12 @@ This exercise should take about 5 minutes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Leveraging the power of "yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
-  these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasize that being a novice is
+  these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasise that being a novice is
   a temporary state, and encourages a growth mindset towards progress.
 
 ### First, Do No Harm!
 
-When learning a skill, we develop more than expert awareness gaps -- we also develop Opinions about tools and methods, and sometimes base a professional identity
+When learning a skill, we develop more than expert awareness gaps -- we also develop opinions about tools and methods, and sometimes base a professional identity
 around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present
 serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
 
@@ -265,7 +265,7 @@ serious hazards in the classroom! Here are a few **things you should not do in y
 
 It can be difficult to avoid these demotivators entirely. Some people are so used to
 complaining about certain tools
-that they initially fail to realize they're doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself -- and your helpers! --
+that they initially fail to realise they're doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself -- and your helpers! --
 to avoid these types of comments takes practice, but is well worth the effort.
 
 ## Not Just Learners

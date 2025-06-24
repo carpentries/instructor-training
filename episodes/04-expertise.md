@@ -56,13 +56,13 @@ This discussion should take about 5 minutes.
 
 In reviewing the answers to the question above you will find that the expert
 experience amounts to much more than just knowing more facts.
-Competent practitioners can memorize a lot of information
+Competent practitioners can memorise a lot of information
 without any noticeable improvement to their performance.
 So, what makes an expert? The answer is that
 experts have **more connections among pieces of knowledge** that help them think and problem-solve quickly;
 more "short-cuts", if you will.
 
-![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densly connected, with eight connecting arrows.'}
+![](fig/mental_models.svg){alt='Three collections of six circles. The first collection is labelled "Novice" and has only two arrows connecting some of the circles. The second collection, labelled "Competent Practitioner" has six connecting arrows. The third collection, labelled "Expert", is densely connected, with eight connecting arrows.'}
 
 This brings us back to our mental model diagrams,
 where facts are nodes and relationships are arcs.
@@ -200,7 +200,7 @@ This discussion should take about 5 minutes. (Optionally, this may be discussed 
 ## "Just" and Other Dismissive Language
 
 Instructors want to motivate learners! We will talk more about motivation in a later episode. But here,
-we will take a moment to recognize one *ineffective* strategy often deployed by experts who
+we will take a moment to recognise one *ineffective* strategy often deployed by experts who
 want learners to *believe that a task is as easy as they think it is.* This often manifests
 in using the word "just" in explanations,
 as in, "Look, it is easy, you just... (*wave magic wand with undecipherable incantations*)"
@@ -252,7 +252,7 @@ people will, indeed, have questions, and should challenge themselves to formulat
 
 As you seek to re-acquaint yourself with the novice experience, it can be tempting to think back to your own
 experiences getting started in programming. Trips down memory lane can be productive! However, it is important that
-you take care not to generalize from your experience to that of your novice learners.
+you take care not to generalise from your experience to that of your novice learners.
 
 We will talk more about knowing your audience in a later episode. For now, here are
 two points to keep in mind when contemplating the learner experience:
