@@ -5,20 +5,24 @@ teaching: 30
 exercises: 30
 ---
 
-::: objectives
+::::::::::::::::::::::::::::::::::::::: objectives
+
 -   Compare and contrast the three stages of skill acquisition.
 -   Identify a mental model and an analogy that can help to explain it.
 -   Apply a concept map to explore a simple mental model.
 -   Understand the limitations of knowledge in the absence of a
     functional mental model.
 -   Create a formative assessment to diagnose a broken mental model.
-:::
 
-::: questions
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
 -   How do people learn?
 -   Who is a typical Carpentries learner?
 -   How can we help novices become competent practitioners?
-:::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 We will now get started with a discussion of how learning works. We will
 begin with some key concepts from educational research and identify how
@@ -553,7 +557,8 @@ attention to!) feedback from learners. We will be talking in more depth
 about each of these strategies as we go forward in our workshop.
 :::
 
-::: keypoints
+:::::::::::::::::::::::::::::::::::::: keypoints
+
 -   Our goal when teaching novices is to help them construct useful
     mental models.
 -   Exploring our own mental models can help us prepare to convey them.
@@ -561,4 +566,5 @@ about each of these strategies as we go forward in our workshop.
     feedback.
 -   Formative assessments provide practice for learners and feedback to
     learners and instructors.
-:::
+
+::::::::::::::::::::::::::::::::::::::::::::::::
