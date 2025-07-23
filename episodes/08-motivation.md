@@ -125,6 +125,13 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: instructor
+
+After trainees write in the etherpad, if you do a large group discussion, it can be good to make note of which items in either list suggest practices that trainees can employ in their teaching and in particular to review things discussed already (going slowly, expert awareness gaps, formative assessment, memory management, etc) 
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ### Invite Participation
 
 Motivation is supported by active engagement. Participation allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building
