@@ -73,7 +73,7 @@ This exercise should take 5 minutes.
 Before we wrap up for the day, take 5 minutes to think over
 everything we have covered so far.  On a piece of paper, write
 down something that captures what you want to remember about
-the day.  The Trainers will not look at this - it is just for you.
+the first half of the training.  The Trainers will not look at this - it is just for you.
 
 If you do not know where to start, consider
 the following list for a starting point:
