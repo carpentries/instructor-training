@@ -38,7 +38,7 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 ### Upcoming Instructor Training
 
-New trainings are added to this calendar on a quarterly basis (generally in early March, June, September, and December).
+Registration closes one week prior to the training event. New trainings are added to this calendar on a quarterly basis (generally in early March, June, September, and December).
 
 <hr>
 
