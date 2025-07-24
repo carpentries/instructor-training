@@ -32,7 +32,7 @@ that others do not means we cannot take a one size fits all approach to creating
 
 This section addresses topics related to equity, inclusion, and accessibility. These terms are increasingly common
 and may be familiar to you, but not everyone understands or interprets them in the same way. So, we will start
-with a few working definitions, adapted from the [University of Pittsburgh DEI Glossary][glossary]:
+with a few working definitions, adapted from the (former) [University of Pittsburgh DEI Glossary][glossary]:
 
 - **Equity:** The proportional distribution of desirable outcomes across groups. Sometimes confused with equality, equity refers to outcomes while equality connotes equal treatment.
 - **Inclusion:**  Actively engaging traditionally excluded individuals and/or groups in processes, activities and decisions in a way that shares power. Inclusion promotes broad engagement, shared participation, and advances authentic sense of belonging through safe, positive, and nurturing environments.
@@ -325,7 +325,7 @@ The Carpentries is actively working on improving our content and practices with 
 being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "Edit this page" link
 at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
-[glossary]: https://www.diversity.pitt.edu/education/glossary-terms
+[glossary]: https://web.archive.org/web/20250612203302/https://www.diversity.pitt.edu/education/glossary-terms
 [core-values]:  https://carpentries.org/about-us/#our-values
 [handbook-host-template]: https://docs.carpentries.org/resources/workshops/email_templates.html
 [sketchplanations-curb-cuts]: https://sketchplanations.com/the-curb-cut-effect
