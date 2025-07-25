@@ -141,7 +141,8 @@ Library Carpentry, or Software Carpentry lessons, we would still like to know ab
 to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your "mix-and-match" workshop to us
 (and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
 
-At this time we are not seeking registration for lessons taught from The Carpentries Incubator or Carpentries Labs.
+We also want to know when you teach a lesson from The Carpentries Incubator or The Carpentries Lab.
+To register a workshop teaching one of these community-owned lessons, please complete the form available on [The Carpentries Incubator homepage](https://carpentries-incubator.org/) or [The Carpentries Lab homepage](https://carpentries-lab.org/) respectively.
 
 ### Carpentries Jargon Review
 
