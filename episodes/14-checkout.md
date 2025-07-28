@@ -62,6 +62,9 @@ Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teachin
 If you would like to attend another community session for your 'Get Involved' step, visit the 
 Community Calendar: <https://carpentries.org/community/events>
 
+**There are not automatic reminders for any events you sign up for on an Etherpad.**
+It might also be a good idea to put the event on your calendar and use that to set reminders if you will need them. 
+
 This exercise should take 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
