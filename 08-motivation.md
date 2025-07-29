@@ -125,6 +125,12 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: instructor
+
+After trainees write in the etherpad, one way to discuss/review comments is to note which items in either list suggest practices that trainees can employ in their teaching and in particular to review how topics discussed already  in the training (going slowly, expert awareness gaps, formative assessment, memory management, etc) can help mitigate the demotivating or are present in the motivating examples. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ### Invite Participation
 
 Motivation is supported by active engagement. Participation allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building
