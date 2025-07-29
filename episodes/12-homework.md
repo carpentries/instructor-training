@@ -35,7 +35,7 @@ To prepare for our next session, please:
   Data Carpentry, or Library Carpentry lesson and
   read through it carefully.
   In the next two parts, you will use this to practice live coding/participatory instruction for 3 minutes.
-  These future exercises to not have built in prep time like the short 90second teaching practice already covered did, your preparation **before** we start tomorrow is all of your preparation time. 
+  These future exercises do not have built in prep time like the short 90 second teaching practice we did earlier. Your preparation **before** we start tomorrow is all of your preparation time. 
   Remember, imperfect presentations can generate useful feedback!
   If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
   
