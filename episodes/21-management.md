@@ -274,7 +274,7 @@ We encourage you to **discuss an approach to managing Code of Conduct violations
 As questions arise, you may wish to refer to the  resources below:
 
 - [Complete Code of Conduct](https://docs.carpentries.org/policies/coc/) at [https://docs.carpentries.org/policies/coc/](https://docs.carpentries.org/policies/coc/)
-- [Code of Conduct Committee Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) at [https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports)
+- [Code of Conduct Committee Transparency Reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) at [https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports)
 
 Some questions to consider are:
 
