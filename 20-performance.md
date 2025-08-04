@@ -17,7 +17,15 @@ exercises: 25
 - How did you change your teaching in response to feedback?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-  
+
+
+
+:::::::::::::::::::::::::::::::::::::::instructor
+In an online training, ensure that captions are turned on and that one trainer claims host. 
+The host key is in the email to trainers from the core team prior to the training. 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 Continuing our theme of developing practical Carpentries teaching skills,
 this section provides another chance to practice live coding, to go through the
 process of observing and giving feedback, and to make changes to how we teach based on the feedback of others.

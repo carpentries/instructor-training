@@ -20,6 +20,12 @@ exercises: 30
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+:::::::::::::::::::::::::::::::::::::::instructor
+In an online training, ensure that captions are turned on and that one trainer claims host. 
+The host key is in the email to trainers from the core team prior to the training. 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
