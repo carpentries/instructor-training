@@ -132,11 +132,16 @@ about how you are responding to learner feedback.
 
 ## Give Us Feedback
 
+
+**If in person**
 Write one thing you learned so far in this training that you found useful on
 your blue sticky note, and one question you have about the material
 on the yellow.  Do *not* put your name on the notes: this is meant to
 be anonymous feedback.  Add your notes to the pile by the door as
 you leave for lunch.
+
+**If online**
+Complete the virtual minute card form as provided by your trainers, *not using the template and creating your own form, but completing the version your trainers provide*
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
