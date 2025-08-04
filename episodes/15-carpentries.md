@@ -285,7 +285,7 @@ Are there roles you would like to see that are not listed? Note that, too!
 
 **Roles**
 
-1. Governance
+1. Board of Directors
 2. Instructor Trainers
 3. Lesson developers
 4. Curriculum advisors
