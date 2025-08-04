@@ -316,7 +316,7 @@ Points to make during wrap-up:
 [demos]: https://docs.carpentries.org/handbooks/instructor_trainers.html#teaching-demonstrations
 [etherpad-template]: https://pad.carpentries.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
-[minute-cards-template]: https://docs.google.com/forms/d/1lEdF1PuJB4FWhH8xLBDeQ9rwJRP304oBnkLv6DisM9o/edit
+[minute-cards-template]: https://docs.google.com/forms/d/1rsGrY-COjGt-paQQjmTyr7Ic4iw7aNYQkBcMLHrQU0k/template/preview?pli=1
 [trainer-pad]: https://pad.carpentries.org/trainers
 [training-repo]: https://carpentries.github.io/instructor-training/
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680

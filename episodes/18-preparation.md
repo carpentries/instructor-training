@@ -273,7 +273,7 @@ we will talk about how to prepare with your team to create a cohesive classroom 
 
 ## Minute Cards Revisited
 
-Use your sticky notes to write minute cards
+Use your sticky notes or the form provided by your trainers to write minute cards
 as discussed [in part 1](06-feedback.md#minute-cards).
 
 
