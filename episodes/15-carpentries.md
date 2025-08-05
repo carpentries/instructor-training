@@ -104,7 +104,7 @@ The names "Data Carpentry", "Library Carpentry", and "Software Carpentry"
 and their respective logos
 are all trademarked.
 You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if it meets the requirements outlined on
-[The Carpentries website](https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops).
+[The Carpentries website](workshopsreq-page).
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
@@ -342,7 +342,7 @@ This exercise should take about 5 minutes.
 [IJDC]: https://ijdc.net/index.php/ijdc/article/view/10.1.135
 [LIBERQ]: https://doi.org/10.18352/lq.10176
 [values-page]: https://carpentries.org/values/
-[workshopsreq-page]: https://carpentries.org/workshops/#workshop-core
+[workshopsreq-page]: [https://carpentries.org/workshops/#workshop-core](https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops)
 [docs-workshop-checklists]: https://docs.carpentries.org/resources/workshops/checklists.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
