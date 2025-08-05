@@ -7,6 +7,9 @@ _Please briefly summarise the changes made in the pull request, and the reason(s
 _If any relevant discussions have taken place elsewhere, please provide links to these._
 
 
+_If this pull request changes text in an exercise (challenge) leave the following, otherwise delete_
+This change should be propagated to the etherpad template: https://pad.carpentries.org/ttt-template
+
 <details>
 
 For more guidance on how to contribute changes to a Carpentries project, please review [the Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](https://docs.carpentries.org/policies/coc/).
