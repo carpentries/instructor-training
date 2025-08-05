@@ -104,7 +104,7 @@ The names "Data Carpentry", "Library Carpentry", and "Software Carpentry"
 and their respective logos
 are all trademarked.
 You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if it meets the requirements outlined on
-[The Carpentries website](workshopsreq-page).
+[The Carpentries website][workshopsreq-page].
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
