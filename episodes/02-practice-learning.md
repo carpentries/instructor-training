@@ -49,7 +49,7 @@ for feedback on sticky notes during lunch breaks and at the end of each
 day.
 
 One reason why practice and feedback are so important is because a
-Carpentries workshop is not simply a source of information; it is the
+Carpentries workshop is not simply a source of information: It is the
 starting point for development of a new skill. To understand what this
 means, we will start by exploring what research tells us about skill
 acquisition and development of a "mental model."
