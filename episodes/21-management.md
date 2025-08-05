@@ -364,7 +364,7 @@ instructions for setting them up.
 
 :::::::::::::::::::: instructor
 
-An alternative for this activity is to direct trainees who need help learning this to sign up for a skillup session on the [Community Sessions Etherpad](https://pad.carpentries.org/community-sessions-2025). Search for `Creating a workshop website`.  
+An alternative for this activity is to direct trainees who need help learning this to sign up for a skillup session on the [Community Sessions Etherpad](https://pad.carpentries.org/community-sessions-2025). Search for `workshop website`.  
 
 ::::::::::::::::::::::::::::::::::::::
 
