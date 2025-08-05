@@ -362,6 +362,14 @@ to credit everyone on your team.
 The Carpentries maintains a template repository for these websites with step-by-step
 instructions for setting them up.
 
+:::::::::::::::::::: instructor
+
+An alternative for this activity is to direct trainees who need help learning this to sign up for a skillup session on the [Community Sessions Etherpad](https://pad.carpentries.org/community-sessions-2025). Search for `workshop website`.  
+
+::::::::::::::::::::::::::::::::::::::
+
+
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Practice With The Carpentries Infrastructure
