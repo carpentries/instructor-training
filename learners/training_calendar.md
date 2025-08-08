@@ -42,12 +42,6 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [12-13 August 2025](https://www.eventbrite.com/e/online-instructor-training-12-13-august-2025-tickets-1389758698679)
-**Two 8-hour days:** 9 am to 5pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250812T09&p1=179&ah=8)
-
-<hr>
-
-
 #### [18-19 August 2025](https://www.eventbrite.com/e/online-instructor-training-august-18-19-2025-tickets-1393241987289)
 **Two 8-hour days:** 9 am to 5pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20250818T09&p1=179&ah=8)
 
