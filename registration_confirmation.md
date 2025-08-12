@@ -7,6 +7,10 @@ exclude: yes
 
 Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.
 
+## Complete your Registration 
+
+In addition to registering via Eventbrite, you **must** complete the [Instructor Training application form](https://amy.carpentries.org/forms/request_training/) before attending Instructor Training. This creates an entry in our database and allows us to record attendance and track your progress through the Instructor certification process. Please use the same registration code that was provided for Eventbrite.
+
 ## How to Connect to the Training
 
 This event will be conducted online using the Zoom video conferencing platform.  You will *not* receive connection information through Eventbrite.
