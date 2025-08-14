@@ -343,7 +343,7 @@ This exercise should take about 5 minutes.
 [IJDC]: https://ijdc.net/index.php/ijdc/article/view/10.1.135
 [LIBERQ]: https://doi.org/10.18352/lq.10176
 [values-page]: https://carpentries.org/values/
-[workshopsreq-page]: [https://carpentries.org/workshops/#workshop-core](https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops)
+[workshopsreq-page]: https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops
 [docs-workshop-checklists]: https://docs.carpentries.org/resources/workshops/checklists.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
