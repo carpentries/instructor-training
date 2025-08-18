@@ -246,6 +246,16 @@ This exercise should take about 25 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: instructor
+
+On Zoom, Remember to send broadcast messages to remind trainees to switch roles, sample language is below:
+
+- at 5 min in (20 left): `Prep time is completed, the first person should start teaching now`
+- at 11 min in (14 left): `The second person should start teaching now`
+- at 17 min in (7 left): `The third person should start teaching now`
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Using Feedback
