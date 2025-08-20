@@ -103,8 +103,8 @@ Looking for language to introduce the Code of Conduct during your workshop? The 
 
 #### Participatory Instruction \& Hands-off Help
 
-Whether you are live coding, as we will discuss in more detail soon, or teaching other content, your learners should be actively
-working along with you wherever possible. Similarly, when receiving assistance, learners should be doing the typing whenever possible.
+Whether you are teaching via live coding or live demonstration, your learners should be actively working along with you wherever possible. 
+Similarly, when receiving assistance, learners should be doing the typing whenever possible.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
