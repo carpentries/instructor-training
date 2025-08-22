@@ -61,7 +61,7 @@ On January 1, 2018, Software Carpentry and Data Carpentry merged to form a new p
 under the fiscal sponsorship of
 [Community Initiatives][CI].
 Within this new organisation structure, Software Carpentry and Data Carpentry retained their identities as Lesson Programs of The Carpentries.
-On November 1, 2018, The Carpentries governance (formerly known as the Executive Council)
+On November 1, 2018, The Carpentries Executive Council (succeeded by Board of Directors in 2025)
 approved [Library Carpentry](https://librarycarpentry.org/)
 as the third official Lesson Program of The Carpentries.
 
@@ -286,7 +286,7 @@ Are there roles you would like to see that are not listed? Note that, too!
 
 **Roles**
 
-1. Governance
+1. Board of Directors
 2. Instructor Trainers
 3. Lesson developers
 4. Curriculum advisors
