@@ -118,7 +118,7 @@ certified instructors.
 
 The handbook includes several helpful [Workshop Checklists and Suggestions][docs-workshop-checklists]: [https://docs.carpentries.org/resources/workshops/checklists.html](https://docs.carpentries.org/resources/workshops/checklists.html) 
 
-The Helper checklist recommends at least a 1:10
+The helper checklist recommends at least a 1:10
 helper-to-learner ratio for in-person workshops (not counting instructors) and more if teaching online.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -191,16 +191,16 @@ independently, or to host workshops beyond the areas of expertise you may have l
 
 If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. If you need support with AWS instances for a Genomics 
 workshop, there may be an associated fee. You can learn more about Genomic workshops in the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html).
-If you would like to recruit additional Instructors or Helpers, [this blog post][SO-recruiting-blog] has guidelines for using Carpentries communications channels. Registering
+If you would like to recruit additional Instructors or helpers, [this blog post][SO-recruiting-blog] has guidelines for using Carpentries communications channels. Registering
 your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures
-that all Instructors and Helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
+that all Instructors and helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
 on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
 
 Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
 The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all
 Carpentries-related activities. A few examples of useful content include:
 
-- [template emails and checklists][docs-teach-host] for Hosts, Instructors, and Helpers
+- [template emails and checklists][docs-teach-host] for hosts, Instructors, and helpers
 - the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
 
 As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
