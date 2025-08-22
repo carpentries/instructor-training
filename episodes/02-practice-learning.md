@@ -461,7 +461,7 @@ This discussion should take about 5 minutes.
     have a widespread misconception and can stop to examine and correct
     that misconception.
 2.  If most of the class votes for the right answer, it is ok to explain
-    the answer and move on. helpers can make themselves available to
+    the answer and move on. Helpers can make themselves available to
     assist anyone who still feels uncertain.
 3.  If answers are pretty evenly split between options, learners may be
     guessing randomly, reflecting an absent mental model rather than a
