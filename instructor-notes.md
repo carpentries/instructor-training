@@ -100,7 +100,7 @@ what pads can be used for, and how long pads stick around. You may also want to 
 - Most people like or enjoy this training.
 - There is no such thing as "too much coffee" or "too many donuts"
 
-### Using Helpers/Co-Instructors
+### Using helpers/Co-Instructors
 
 If you have a helper for the training, or want to involve your co-instructor more,
 here are some ways where it is easy to do so without much prep:

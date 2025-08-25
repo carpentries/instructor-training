@@ -53,7 +53,7 @@ their Instructor Training event.
 
 ## Using this page as a resource
 
-Your trainers may not cover everything here during Instructor Training because the material is designed to be a valuable ongoing reference. We encourage you to keep this episode handy as a resource when preparing for a workshop.
+Your Trainers may not cover everything here during Instructor Training because the material is designed to be a valuable ongoing reference. We encourage you to keep this episode handy as a resource when preparing for a workshop.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -273,7 +273,7 @@ we will talk about how to prepare with your team to create a cohesive classroom 
 
 ## Minute Cards Revisited
 
-Use your sticky notes or the form provided by your trainers to write minute cards
+Use your sticky notes or the form provided by your Trainers to write minute cards
 as discussed [in part 1](06-feedback.md#minute-cards).
 
 

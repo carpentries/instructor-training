@@ -188,16 +188,16 @@ The purpose of this step is to encourage you to take a first step towards furthe
 The Carpentries, choosing a path that works well for you. Any participation in Carpentries activities
 or processes may be submitted to satisfy this requirement! We have a few suggestions to get you started:
 
-- Serve as an Instructor or a Helper at a workshop
+- Serve as an Instructor or a helper at a workshop
 - Attend a regional call, skill-up session, or other community programming
 - Submit a contribution to a Lesson, Glosario, or other Carpentries repository
 
-### Serve as an Instructor or Helper at a Carpentries Workshop
+### Serve as an Instructor or helper at a Carpentries Workshop
 If you attended Instructor Training because you want to get started participating in workshops as soon
 as possible, this step is for you! When you submit this step, you will be asked to share the date and
 workshop website link.
 
-Did you serve as a Helper or un-certified co-Instructor before you attended Instructor Training?
+Did you serve as a helper or un-certified co-Instructor before you attended Instructor Training?
 That counts!
 
 ### Attend a Regional Call, Skill-Up Session, or Other Community Programming
