@@ -27,7 +27,7 @@ exercises: 40
 
 One of the greatest strengths of Carpentries workshops compared with many other instructional settings is that workshops are prepared and executed
 by more than one person. We ask that at least two Instructors teach in every workshop, and some workshops may have many more! During the workshop,
-you should also have a crew of Helpers to answer questions individually, elevate common problems for general discussion, and make sure the pacing
+you should also have a crew of helpers to answer questions individually, elevate common problems for general discussion, and make sure the pacing
 works for everyone.
 
 The people who are planning and executing your workshop with you can really lighten the load! They are also there to
@@ -41,20 +41,20 @@ our instructions for setting up a workshop website.
 
 A typical Carpentries workshop includes 3 roles; sometimes individuals may choose to play more than one role. Each workshop should have:
 
-- A **Host** who organises the workshop logistics
+- A **host** who organises the workshop logistics
 - Two or more **Instructors** who plan and execute workshop instruction
-- **Helpers** who support learners during the workshop
+- **helpers** who support learners during the workshop
 
 ### Hosting
 
 We will not spend a lot of time talking about the host role, because most of what they do is not directly related to teaching. However, this is
 a significant role in any workshop. A suggested checklist for this role is in [The Carpentries Handbook][host-checklist].
 
-When Instructors self-organise a workshop, they sometimes find themselves playing the role of Host as well as Instructor.
+When Instructors self-organise a workshop, they sometimes find themselves playing the role of host as well as Instructor.
 We recommend avoiding this if possible, because hosting responsibilities will subtract from the time you have
 to prepare and teach.
 
-If you cannot find someone else to bear full responsibility for the Host role, consider recruiting help for specific tasks. This may include
+If you cannot find someone else to bear full responsibility for the host role, consider recruiting help for specific tasks. This may include
 involving helpers in advance of the workshop, or exploring institutional support for event logistics like registration, snack delivery,
 helper coordination, and emergency contact.
 
@@ -77,7 +77,7 @@ considering for self-organised workshops if a co-Instructor has not yet been cer
 
 ### Helpers
 
-[Helpers][helpers] are usually recruited from a local community by the Host of a workshop. Helpers may be
+[Helpers][helpers] are usually recruited from a local community by the host of a workshop. Helpers may be
 involved prior to the day of the workshop, but often they simply show up. In most cases, helpers are expected to
 attend for the full workshop, but in some communities they may come and go during different segments.
 
@@ -318,10 +318,10 @@ there is work to do when planning a workshop! But there is much to be gained in 
 ## Teaching Together - Nuts and Bolts
 
 With a partner, imagine that you are planning a workshop together. For this exercise, you may assume
-that your workshop has a separate, designated Host.
+that your workshop has a separate, designated host.
 
 - How would you prepare to teach a workshop together?
-- How would you coordinate with other members of your instructional team (e.g. Host, Helpers)?
+- How would you coordinate with other members of your instructional team (e.g. host, helpers)?
 - What kinds of things will you do to support each other during the workshop? What won't you do?
 
 Record some notes, and share your thoughts with the group. This exercise should take about 10 minutes.
