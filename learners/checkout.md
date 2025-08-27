@@ -329,9 +329,9 @@ For this checkout task, please:
 4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
 
 If you have difficulty logging in to AMY, please:
-1. Verify that you have completed the [Instructor Training Profile Creation Form][application], and that you have included a GitHub username in your application. Both the form and the GitHub username are necessary for us to create a profile that you can login to use.
+1. Verify that you have completed the [Instructor Training Profile Creation Form][application] and that you have included a GitHub username when you complete the form. Both the form and the GitHub username are necessary for us to create a profile that you can login to use.
 2. Email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). In this email, let us know when you have
-completed the application, and share your GitHub username if you did not previously include it. You may also share your selection for the Get Involved step so that a member of our Core Team can enter it for you.
+completed the form, and share your GitHub username if you did not previously include it. You may also share your selection for the Get Involved step so that a member of our Core Team can enter it for you.
 
 
 ## 4\. Tracking Your Progress
