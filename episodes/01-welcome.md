@@ -23,8 +23,8 @@ exercises: 15
 
 
 :::::::::::::::::::::::::::::::::::::::instructor
-In an online training, ensure that captions are turned on.
-
+In an online training, ensure that captions are turned on and that one trainer claims host. 
+The host key is in the email to trainers from the core team prior to the training. 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
