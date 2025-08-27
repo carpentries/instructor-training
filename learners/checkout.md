@@ -336,7 +336,7 @@ completed the application, and share your GitHub username if you did not previou
 
 ## 4\. Tracking Your Progress
 
-Once your profile has been set up, you can record your 'Get Involved' step and track your progress towards certification by [logging into AMY here](https://amy.carpentries.org). More information on getting started with and using AMY is available in the [Carpentries Handbook][handbook-amy].
+Once your profile has been set up, you can record your 'Get Involved' step and track your progress towards certification by [logging into AMY](https://amy.carpentries.org). More information on getting started with and using AMY is available in the [Carpentries Handbook][handbook-amy].
 
 Keeping [your profile][trainee-profile] up to date with a current email address and local airport helps us to keep in touch about teaching
 opportunities. You may also adjust your preferences to select whether you want to have your profile shared on our
