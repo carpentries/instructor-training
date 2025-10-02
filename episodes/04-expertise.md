@@ -57,8 +57,8 @@ This discussion should take about 5 minutes.
 ::::::::::::::::::::::::::::::::::::::: instructor
 
 Some points to touch on in discussion:
-- the feeling of expertise as an instructor vs pracitioner
-- noting the different between expert level knowledge in the topic and expertise in communicating about the topic
+- the feeling of expertise as an instructor vs practitioner
+- the difference between expert knowledge in the topic and expertise in communicating about the topic
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
