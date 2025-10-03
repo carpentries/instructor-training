@@ -54,6 +54,14 @@ This discussion should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: instructor
+
+Some points to touch on in discussion:
+- the feeling of expertise as an instructor vs practitioner
+- the difference between expert knowledge in the topic and expertise in communicating about the topic
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 In reviewing the answers to the question above you will find that the expert
 experience amounts to much more than just knowing more facts.
 Competent practitioners can memorise a lot of information
@@ -130,6 +138,8 @@ be more likely to meet novice learners where they are.
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Awareness Gaps
+
+Choose one of the following two prompts to write about in the etherpad:
 
 1. Is there anything you are learning how to do right now?  Can you identify
   something that you still need to think about, but your teacher can do without
