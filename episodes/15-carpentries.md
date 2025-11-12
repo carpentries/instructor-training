@@ -151,100 +151,6 @@ to better evaluate our impact, and also to understand what the community wants a
 We also want to know when you teach a lesson from The Carpentries Incubator or The Carpentries Lab.
 To register a workshop teaching one of these community-owned lessons, please complete the form available on [The Carpentries Incubator homepage](https://carpentries-incubator.org/) or [The Carpentries Lab homepage](https://carpentries-lab.org/) respectively.
 
-### Carpentries Jargon Review
-
-As our community has evolved and its work has emerged, a vocabulary has built up around it. Many of the words we use have common meanings that are
-interchangeable elsewhere, but have come to mean very specific things in our community.
-
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Test yourself!
-
-As a class or in groups, see how many of the following terms you can define.
-
-- Lesson
-- Episode
-- Workshop
-- Lesson Program
-- Instructor
-- (Instructor) Trainer
-
-This should take about 5 minutes.
-
-::::::::::::::::::::::: solution
-
-### Links to definitions
-These terms are defined in our [Community Glossary](https://docs.carpentries.org/resources/general/glossary.html).
-
-- [Lesson](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson)
-- [Episode](https://docs.carpentries.org/resources/general/glossary.html#term-Episode-Lesson-Episode)
-- [Workshop](https://docs.carpentries.org/resources/general/glossary.html#term-Workshop)
-- [Lesson Program](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson-Program)
-- [Instructor](https://docs.carpentries.org/resources/general/glossary.html#term-Instructors)
-- [(Instructor) Trainer](https://docs.carpentries.org/resources/general/glossary.html#term-Instructor-Trainer)
-
-::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## How to Organise a Carpentries Workshop Locally
-
-Briefly, there are two types of Carpentries workshops: **centrally-organised** and
-**self-organised**. You can read (and hopefully have already read) about these on our [website][workshops-page].
-
-Centrally organised workshops are included in institutional [membership][membership-page] packages and can also be requested separately for a fee. Since The Carpentries
-will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
-independently, or to host workshops beyond the areas of expertise you may have locally.
-
-If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. If you need support with AWS instances for a Genomics 
-workshop, there may be an associated fee. You can learn more about Genomic workshops in the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html).
-If you would like to recruit additional Instructors or helpers, [this blog post][SO-recruiting-blog] has guidelines for using Carpentries communications channels. Registering
-your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures
-that all Instructors and helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
-on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
-
-Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
-The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all
-Carpentries-related activities. A few examples of useful content include:
-
-- [template emails and checklists][docs-teach-host] for hosts, Instructors, and helpers
-- the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
-
-As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
-back for policy changes, and keep in touch on our [communications channels][connect-page] to stay abreast of the latest updates!
-
-:::::::::::::::::::::::::::::::::::::::::  callout
-
-## Teaching Opportunities: Local and Global
-
-Many Instructors aim to teach within a local community and do not want to travel. In that case,
-you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
-
-If you want to be presented with opportunities to teach outside your community -- locally or far from home, be sure to join our [Instructors
-mailing list][instructors-list]. This is how we recruit Instructors to teach in centrally-organised workshops around the world.
-
-The Carpentries can not guarantee
-that all Instructors who respond to recruitment calls will be selected, and depending on your area these opportunities may be scarce.
-If you want to get started right away, consider organizing
-your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
-you will need to set aside some time to help them understand how best to support your efforts.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Explain to a partner
-
-With a partner, take turns asking and answering the question: "I want to organise a workshop! What will I need to do?" One partner should ask about a
-self-organised workshop, and the other can ask about a centrally-organised workshop. If you have a third person, they can help out with follow-up questions
-or answers as needed.
-
-When you encounter new questions during this process, be sure to write them in the Etherpad.
-
-Leave about 10 minutes for this discussion.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Setting Out On Your Own... Together: Lesson Incubation
 
 Maybe this instructor training has inspired you to go home and write your
@@ -324,17 +230,8 @@ Want to **join meetings** (to meet new people or listen in)?
 - Sign up for Community Sessions (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Get Connected
-
-Take a couple of minutes to sign up for [The Carpentries communication channels][connect-page] you want to stay involved with at [https://carpentries.org/connect/][connect-page].
-
-When you are done, share a channel you find interesting or useful on the Etherpad.
-
-This exercise should take about 5 minutes.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+Read more about these communication channels and sign up on the [Get Connected page](https://carpentries.org/community/get-connected/).
+You will also have a chance to sign-up in the Welcome session.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
