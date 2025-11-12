@@ -62,6 +62,14 @@ This exercise should take about 5 minutes.
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely.
 What barriers might be present in your workshop, and what can you do to remove them?
 
+::::::::::::::::::: callout 
+## Inclusive language in practice 
+
+The term “accommodations” can have different translations across regions (e.g., accommodation referring to a hotel room). 
+To promote clarity and inclusivity, the Carpentries has decided to change all references from “accommodations” to “accessibility support.” 
+We have kept text noting that that what we refer to as "accessibility support" is also referred to as "accommodations" to make sure that people who come to the materials and search for "accommodations" can find the right information. 
+:::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::: instructor
 
 In your discussion of accessibility, it is helpful to point out that accessibility may not always affect only individual learners,
