@@ -299,6 +299,7 @@ Are there roles you would like to see that are not listed? Note that, too!
 4. Curriculum advisors
 5. Lesson maintainers
 6. Code of Conduct Committee
+7. Lesson Program Governors 
 
 This exercise should take about 5 minutes.
 
