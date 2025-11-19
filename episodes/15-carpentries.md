@@ -205,10 +205,7 @@ on our global impact is vital to our future funding opportunities, allowing us t
 
 Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
 The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all
-Carpentries-related activities. A few examples of useful content include:
-
-- [template emails and checklists][docs-teach-host] for hosts, Instructors, and helpers
-- the [instructor no-show policy][docs-noshow] which is important to read before signing up for your first workshop
+Carpentries-related activities. Useful content includes [template emails and checklists][docs-teach-host] for hosts, Instructors, and helpers and step-by-step [workshop guides](https://docs.carpentries.org/handbooks/instructors.html#step-by-step-guides).
 
 As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
 back for policy changes, and keep in touch on our [communications channels][connect-page] to stay abreast of the latest updates!
