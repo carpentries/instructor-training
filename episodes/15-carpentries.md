@@ -151,6 +151,42 @@ to better evaluate our impact, and also to understand what the community wants a
 We also want to know when you teach a lesson from The Carpentries Incubator or The Carpentries Lab.
 To register a workshop teaching one of these community-owned lessons, please complete the form available on [The Carpentries Incubator homepage](https://carpentries-incubator.org/) or [The Carpentries Lab homepage](https://carpentries-lab.org/) respectively.
 
+### Carpentries Jargon Review
+
+As our community has evolved and its work has emerged, a vocabulary has built up around it. Many of the words we use have common meanings that are
+interchangeable elsewhere, but have come to mean very specific things in our community.
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Test yourself!
+
+As a class or in groups, see how many of the following terms you can define.
+
+- Lesson
+- Episode
+- Workshop
+- Lesson Program
+- Instructor
+- (Instructor) Trainer
+
+This should take about 5 minutes.
+
+::::::::::::::::::::::: solution
+
+### Links to definitions
+These terms are defined in our [Community Glossary](https://docs.carpentries.org/resources/general/glossary.html).
+
+- [Lesson](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson)
+- [Episode](https://docs.carpentries.org/resources/general/glossary.html#term-Episode-Lesson-Episode)
+- [Workshop](https://docs.carpentries.org/resources/general/glossary.html#term-Workshop)
+- [Lesson Program](https://docs.carpentries.org/resources/general/glossary.html#term-Lesson-Program)
+- [Instructor](https://docs.carpentries.org/resources/general/glossary.html#term-Instructors)
+- [(Instructor) Trainer](https://docs.carpentries.org/resources/general/glossary.html#term-Instructor-Trainer)
+
+::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Setting Out On Your Own... Together: Lesson Incubation
 
 Maybe this instructor training has inspired you to go home and write your
