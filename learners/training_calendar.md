@@ -45,7 +45,7 @@ Registration closes one week prior to the training event. New trainings are adde
 <hr>
 
 #### [14-15 January 2026](https://www.eventbrite.com/e/online-instructor-training-january-14-15-2026-tickets-1976643526999)
-**Two 8-hour days:** 9 am to 1 pm N. America Eastern Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260114T09&p1=179&ah=8)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260114T09&p1=179&ah=8)
 
 <hr>
 
