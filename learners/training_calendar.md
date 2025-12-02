@@ -44,6 +44,40 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
+#### [14-15 January 2026](https://www.eventbrite.com/e/online-instructor-training-january-14-15-2026-tickets-1976643526999)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260114T09&p1=179&ah=8)
+
+<hr>
+
+#### [27-30 January 2026](https://www.eventbrite.com/e/online-instructor-training-january-27-30-2026-tickets-1976644498906)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Daylight Time / 11 am to 3 pm New Zealand Daylight Time / 2 pm to 6 pm **PREVIOUS DAY** N. America Pacific Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260127T09&p1=240&ah=4)
+
+<hr>
+
+#### [3-6 February 2026](https://www.eventbrite.com/e/online-instructor-training-february-3-6-2026-tickets-1976645579137)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260203T09&p1=137&ah=4)
+
+<hr>
+
+#### [9-12 February 2026](https://www.eventbrite.com/e/online-instructor-training-february-9-12-2026-tickets-1976652124715)
+**Four 4-hour days:** 9 am to 1 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260209T09&p1=195&ah=4)
+
+<hr>
+
+#### [9-12 February 2026](https://www.eventbrite.com/e/online-instructor-training-february-9-12-2026-tickets-1976648005394)
+**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm UTC  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260209T09&p1=179&ah=4)
+
+<hr>
+
+#### [16-17 March 2026](https://www.eventbrite.com/e/online-instructor-training-march-16-17-2026-tickets-1976652575062)
+**Two 8-hour days:** 9 am to 5 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260316T09&p1=1440&ah=8)
+
+<hr>
+
+#### [17-20 March 2026](https://www.eventbrite.com/e/online-instructor-training-march-17-20-2026-tickets-1976652993313)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260317T09&p1=137&ah=4)
+
+<hr>
 
 ### Accessibility Support
 
