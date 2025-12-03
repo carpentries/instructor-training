@@ -67,12 +67,43 @@ things in the opposite corner
 that are time-consuming to learn and have little near-term application
 should be avoided in our workshops.
 
-![](fig/what-to-teach.png){alt='A stylised graph with y-axis labeled "usefulness once mastered" and and x-axis labeled "mean time to master". The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother".'}
+```mermaid
+%%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
+%%accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
+quadrantChart
+    title When to teach
+    x-axis quick to master --> slow to master
+    y-axis used rarely --> used frequently
+    quadrant-2 Teach this first
+    quadrant-4 Do not bother
+
+```
 
 Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
 by someone doing their work. If you can identify authentic tasks from your
 own work that could be useful to others, these examples will be highly
 motivating.
+
+This 2x2 grid can be useful for longer term lesson planning and development as well as for considering how to answer questions. To make the ideas more concrete, here is an example in the context of driving: 
+
+```mermaid
+%%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
+quadrantChart
+    title When to teach
+    x-axis quick to master --> slow to master
+    y-axis used rarely --> used frequently
+    quadrant-2 Teach this first
+    quadrant-4 Do not bother
+    quadrant-1 Teach later
+    quadrant-3 Offer if needed
+    A -Driving around an empty carpark.: [0.2, 0.8] 
+    B - Drive at speed on a Formula 1 racing track : [0.85, 0.25]
+    C - Driving on suburban roads: [0.8, 0.8]
+    D - Driving with snow chains.: [0.2, 0.15]
+%%accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
+```
+
+An empty carpark is a great place to start for any new driver, but most people will never drive at speed in a race track.  In contrast, suburbans road are a realistic motivating example that any driver will encounter. That will be on the agenda for a driving school. Driving with snow chains is important if you live in a place that gets extreme snow events, but not for most people.  That is something that someone can learn later if they need it, or an individual who lives or frequently visits a place where they are common may even know to ask about, but most people will not need. We would not want a lesson to go from an empty carpark to snow chains because we would probably lose a lot of people.   
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -82,11 +113,27 @@ motivating.
 (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
 and explain how you would use it (or a simplified version of it) as an exercise or example in class.
 **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
-In the class Etherpad, **share** the task and where it fits on the graph.
+In the class Etherpad, **share** the task and where it fits on the graph,  using the lettered points in the diagram below.
 As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 
 This exercise should take about 10 minutes.
 
+```mermaid
+%%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
+quadrantChart
+    title When to teach
+    x-axis quick to master --> slow to master
+    y-axis used rarely --> used frequently
+    quadrant-2 Teach this first
+    quadrant-4 Do not bother
+    quadrant-1 Teach later
+    quadrant-3 Offer if needed
+    topic A: [0.2, 0.8]
+    topic B : [0.85, 0.25]
+    topic C: [0.8, 0.8]
+    topic D: [0.2, 0.15]
+accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
+```
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
