@@ -55,7 +55,7 @@ This exercise should take about 10 minutes.
 
 Take a moment to review your calendar and sign up for one or more sessions to get your checkout process rolling!
 
-Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-sessions-2025>
+Welcome Session: <https://pretix.carpentries.org/instructor-trainer-meetings/instructor-trainer-meetings/>
 
 Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
 
