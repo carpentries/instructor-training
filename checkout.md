@@ -42,10 +42,7 @@ Welcome sessions are a specific type of Community Session. While you can attend 
 for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved), 
 but not the Welcome Session step.
 
-Sign up on the [Community Welcome Sessions Etherpad][welcome]. 
-**Take care to double check
-the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
-of that Etherpad.
+Register for your Welcome Session via [Pretix](https://pretix.carpentries.org/community-events/welcome-sessions/). You will receive reminder emails that include all the details you’ll need to join the call.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
