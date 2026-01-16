@@ -64,7 +64,7 @@ To teach effectively, you have to know *who* you are teaching. You may have a br
 also important to consider them in a broader context and in a way that you are not able to fully explore in your classroom. It can be helpful
 to reserve time to think through ways in which learners' experiences and needs may be similar to or different from your own, or from each others.
 
-![](fig/instructor-training-program.svg){alt='A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners' width="67%"}
+![](fig/instructor-training-program.png){alt='A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners' width="80%"}
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
