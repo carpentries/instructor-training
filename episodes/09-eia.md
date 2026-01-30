@@ -62,6 +62,14 @@ This exercise should take about 5 minutes.
 Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely.
 What barriers might be present in your workshop, and what can you do to remove them?
 
+::::::::::::::::::: callout 
+## Inclusive language in practice 
+
+The term “accommodations” can have different translations across regions (e.g., accommodation referring to a hotel room). 
+To promote clarity and inclusivity, the Carpentries has decided to change all references from “accommodations” to “accessibility support.” 
+We have kept text noting that that what we refer to as "accessibility support" is also referred to as "accommodations" to make sure that people who come to the materials and search for "accommodations" can find the right information. 
+:::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::: instructor
 
 In your discussion of accessibility, it is helpful to point out that accessibility may not always affect only individual learners,
@@ -90,22 +98,22 @@ This exercise should take about 5 minutes.
 While it may not be possible to anticipate all needs,
 it *is* possible to get a good working structure in place
 without any knowledge of what specific disabilities people might have.
-Having some accommodations prepared also demonstrates care, helping
+Having some accessibility support prepared also demonstrates care, helping
 learners to trust that additional requests are likely to be well received.
 
 If you are playing the host role (or part of it), note that our [host template][handbook-host-template]
 includes an inquiry regarding accessibility needs. However, be aware that **many
-people will not feel comfortable requesting accommodations in advance**, or at all if it can be avoided.
+people will not feel comfortable requesting accessibility support in advance**, or at all if it can be avoided.
 For example, a participant who is hard of hearing may simply hope that
 instructors will speak loudly enough for them to hear. Taking steps to make
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
-### From Accommodation to Universal Design
+### From Accessibility Support to Universal Design
 
-Accommodation means changing things to serve an individual with a demonstrated need.
-However, **accommodation puts the onus on the individual with the need** to
-have to disclose their disability and ask for accommodations. Reluctance to
-do so is understandable: requests for accommodation are often met with negative
+Accessibility support means changing things to serve an individual with a demonstrated need (also known as accommodations).
+However, **accessibility support puts the onus on the individual with the need** to
+have to disclose their disability and ask for accessibility support. Reluctance to
+do so is understandable: requests for accessibility support are often met with negative
 emotions such as uncertainty, confusion, annoyance or anger by those receiving the requests.
 
 By contrast, "universal design" means creating something to be maximally usable by all people
