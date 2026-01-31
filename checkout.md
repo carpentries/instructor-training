@@ -164,6 +164,14 @@ You will be asked to give feedback on yourself as well as on others;
 your Trainer will likely recommend a feedback structure using two axes of positive vs. constructive
 and content vs. presentation, just as you have done during this training.
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+## How much do I need to cover?
+
+The short answer is however much you cover.
+
+There is no set expectation of the amount of the episode you need to cover during a demo - the goal is to teach for five minutes, including at least some live coding or live demonstration. As long as you don't start at the beginning of a long explanatory section with no coding, five minutes is long enough for trainers to and fellow trainees to provide useful feedback. Rushing through material to try to reach a certain point in an episode is a common reason to be asked to repeat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Languages Other than English
 
