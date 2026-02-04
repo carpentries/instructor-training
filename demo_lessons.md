@@ -139,7 +139,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 | [Library Carpentry: Introduction to Data for Archivists](https://librarycarpentry.github.io/lc-data-intro-archives/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
 | [Library Carpentry: Introduction to R](https://librarycarpentry.github.io/lc-r/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
 | [Library Carpentry: Introduction to MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
-| [Library Carpentry: Introduction to AI for GLAM](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
+| [Library Carpentry: Introduction to AI for GLAM](https://librarycarpentry.github.io/lc-machine-learning/) | none | all episodes | This lesson is not yet stable and cannot be used for teaching demonstrations. |
 
 
 ### Software Carpentry {#swc}
