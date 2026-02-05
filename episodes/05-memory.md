@@ -58,6 +58,7 @@ For a semi-anonymous alternative to having learners write their score in the eth
 
 *Example:*
 
+```markdown
 - 0
 - 1
 - 2
@@ -71,6 +72,7 @@ For a semi-anonymous alternative to having learners write their score in the eth
 - 10
 - 11
 - 12+
+```
 
 :::::::::::::::::::::::::::::::::::::::
 
