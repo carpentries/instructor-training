@@ -144,7 +144,7 @@ You can also [reach us by email][contact].
 [issues]: https://github.com/carpentries/instructor-training/issues/
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
-[how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
+[how-contribute]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 [repo]: https://github.com/carpentries/instructor-training/
 [github-flow]: https://guides.github.com/introduction/flow/
 [discuss-list]: https://lists.software-carpentry.org/listinfo/discuss
