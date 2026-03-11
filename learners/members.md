@@ -1,11 +1,11 @@
 ---
-title: Information for Member Organisations
+title: Information for Member/Partner Organisations
 survey_link: ~
 ---
 
-Welcome to The Carpentries community. We are excited to welcome you as a member organisation. Our Instructor Training process is a vital component of how we spread the teaching culture of the Carpentries to new organisations. We're looking forward to meeting your team and helping them develop their teaching skills so you can have the best impact on the learners at your institution.
+Welcome to The Carpentries community. We are excited to welcome you as a Member/Partner organisation. Our Instructor Training process is a vital component of how we spread the teaching culture of the Carpentries to new organisations. We're looking forward to meeting your team and helping them develop their teaching skills so you can have the best impact on the learners at your institution.
 
-Your annual membership gives you a number of slots in our Instructor Training program. This training is for people who want to become certified Instructors with The Carpentries and is based on our constantly updated open-source [curriculum](https://carpentries.github.io/instructor-training/).
+Your annual Membership/Partnership gives you a number of slots in our Instructor Training program. This training is for people who want to become certified Instructors with The Carpentries and is based on our constantly updated open-source [curriculum](https://carpentries.github.io/instructor-training/).
 
 This two-day online workshop is a mix of lecture and hands-on practice and is highly interactive. Your trainees will learn evidence-based best-practices for teaching and strategies for creating a positive learning environment. They will have opportunities to practice these techniques and get feedback. This training will also help your team become integrated into the global Carpentries community.
 
@@ -23,7 +23,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 - Trainees can register by clicking the registration link on the calendar page above and entering the code provided for your team. Your trainees may sign up individually for different events, or you may register all of your trainees for the same event. If your trainees will be attending separate events, we recommend that you organise a social event for your trainees and other Carpentry-affiliated people at your institution to get to know each other. Being familiar with other members of this group will help individuals at your organisation organise events and remain active long after training.
 
-- We recommend that your team attends Instructor Training during the first six months of your membership year. This ensures they have time to complete the training requirements and start teaching workshops during your membership year.
+- We recommend that your team attends Instructor Training during the first six months of your Membership/Partnership year. This ensures they have time to complete the training requirements and start teaching workshops during your Membership/Partnership year.
 
 - If a trainee misses more than one hour of the training, they will not pass the training requirement and their spot will be forfeited. Because we are training people to deliver Carpentries training and be ambassadors of the Carpentries program, we need to ensure they get the full training experience.
 
