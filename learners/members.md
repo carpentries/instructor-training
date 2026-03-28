@@ -41,7 +41,7 @@ This two-day online workshop is a mix of lecture and hands-on practice and is hi
 
 - After successfully completing the post-training exercises, participants will receive a PDF certificate attesting they are certified Carpentries Instructors and will have the opportunity to be listed on our [Instructor webpage](https://carpentries.org/instructors/).
 
-- Consider encouraging your Instructors to volunteer with The Carpentries. This will give them opportunities to teach and share knowledge with experienced Carpentries Instructors around the world, enriching their practice and your community. *There are [Service Discounts](INSERT LINK) available towards Partnership packages when Instructors teach Centrally-Organised Workshops*
+- Consider encouraging your Instructors to volunteer with The Carpentries. This will give them opportunities to teach and share knowledge with experienced Carpentries Instructors around the world, enriching their practice and your community. *There are [Service Discounts](https://carpentries.org/support/pricing/#membership-pricing) available towards Partnership packages when Instructors teach Centrally-Organised Workshops*
 
 - Ongoing support and mentorship for trained Instructors is also available through The Carpentries community sessions
   as well as through participation in other roles in The Carpentries community.
