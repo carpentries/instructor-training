@@ -192,7 +192,7 @@ These terms are defined in our [Community Glossary](https://docs.carpentries.org
 Briefly, there are two types of Carpentries workshops: **centrally-organised** and
 **self-organised**. You can read (and hopefully have already read) about these on our [website][workshops-page].
 
-Centrally organised workshops are included in institutional [membership][membership-page] packages and can also be requested separately for a fee. Since The Carpentries
+Centrally organised workshops are included in institutional [Partnership][membership-page] packages and can also be requested separately for a fee. Since The Carpentries
 will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
 independently, or to host workshops beyond the areas of expertise you may have locally.
 
@@ -217,13 +217,10 @@ back for policy changes, and keep in touch on our [communications channels][conn
 Many Instructors aim to teach within a local community and do not want to travel. In that case,
 you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
 
-If you want to be presented with opportunities to teach outside your community -- locally or far from home, be sure to join our [Instructors
-mailing list][instructors-list]. This is how we recruit Instructors to teach in centrally-organised workshops around the world.
+The Carpentries relies on contributions from individual community members. To recognise the impact of community members, we offer discounts on Partnerships for organisations with members who actively contribute to The Carpentries mission in a range of roles. As an Instructor when you teach Centrally-Organised workshops, your organisation may qualify for a 5% discount on their Partnership. For more information, visit our [pricing page](https://carpentries.org/support/pricing/). 
 
-The Carpentries can not guarantee
-that all Instructors who respond to recruitment calls will be selected, and depending on your area these opportunities may be scarce.
-If you want to get started right away, consider organizing
-your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
+The Carpentries can not guarantee that all Instructors who respond to recruitment calls will be selected, and depending on your geographic area these opportunities may be scarce.
+If you want to get started right away, consider organising your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
 you will need to set aside some time to help them understand how best to support your efforts.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
