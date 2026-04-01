@@ -44,11 +44,6 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [7-8 April 2026](https://www.eventbrite.com/e/online-instructor-training-april-7-8-2026-tickets-1984326604290)
-**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260407T09&p1=137)
-
-<hr>
-
 #### [9-10 April 2026](https://www.eventbrite.com/e/online-instructor-training-april-9-10-2026-tickets-1984329153916)
 **Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260409T09&p1=179)
 
