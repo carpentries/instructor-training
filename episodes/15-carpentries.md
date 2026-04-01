@@ -217,9 +217,9 @@ back for policy changes, and keep in touch on our [communications channels][conn
 Many Instructors aim to teach within a local community and do not want to travel. In that case,
 you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
 
-The Carpentries relies on contributions from individual community members. To recognise the impact of community members, we offer discounts on Partnerships for organisations with members who actively contribute to The Carpentries mission in a range of roles. As an Instructor when you teach Centrally-Organised workshops, your organisation may qualify for a 5% discount on their Partnership. For more information, visit our [pricing page](https://carpentries.org/support/pricing/#membership-pricing). 
+The Carpentries relies on contributions from individual community members. To recognise the impact of community members, we offer discounts on Partnerships for organisations with members who actively contribute to The Carpentries mission in a range of roles. As an Instructor when you teach Centrally-Organised workshops, your organisation may qualify for a 5% discount on their Partnership. For more information, visit our [pricing page](https://carpentries.org/support/pricing/). 
 
-The Carpentries can not guarantee that all Instructors who respond to recruitment calls will be selected, and depending on your area these opportunities may be scarce.
+The Carpentries can not guarantee that all Instructors who respond to recruitment calls will be selected, and depending on your geographic area these opportunities may be scarce.
 If you want to get started right away, consider organising your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
 you will need to set aside some time to help them understand how best to support your efforts.
 
