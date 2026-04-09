@@ -45,7 +45,7 @@ Registration closes one week prior to the training event. New trainings are adde
 <hr>
 
 #### [4-7 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-4-7-2026-tickets-1984333354480)
-**Four 4-hour days:** 9 am to 1 pm New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260504T11&p1=22&ah=4)
+**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260504T11&p1=22&ah=4)
 
 <hr>
 
