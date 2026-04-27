@@ -44,16 +44,6 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [4-7 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-4-7-2026-tickets-1984333354480)
-**Four 4-hour days:** 9 am to 1 pm Australia Eastern Standard Time / 11 am to 3 pm New Zealand Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260504T11&p1=22&ah=4)
-
-<hr>
-
-#### [4-7 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-4-7-2026-tickets-1984329558125)
-**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm British Summer Time /  [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260504T09&p1=179)
-
-<hr>
-
 #### [11-14 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-11-14-2026-tickets-1984382195565?aff=oddtdtcreator&keep_tld=true)
 **Four 4-hour days:** 9 am to 1 pm British Summer Time / 1:30 pm to 5:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260511T09&p1=136)
 
