@@ -319,17 +319,8 @@ Want to **join meetings** (to meet new people or listen in)?
 - Sign up for Community Sessions (or just drop in if there is space!) or other events when announced
 - Explore taking on one of the Roles identified above
 
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Get Connected
-
-Take a couple of minutes to sign up for [The Carpentries communication channels][connect-page] you want to stay involved with at [https://carpentries.org/connect/][connect-page].
-
-When you are done, share a channel you find interesting or useful on the Etherpad.
-
-This exercise should take about 5 minutes.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+Read more about these communication channels and sign up on the [Get Connected page](https://carpentries.org/community/get-connected/).
+You will also have a chance to sign-up in the Welcome session.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
