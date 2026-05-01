@@ -42,10 +42,7 @@ Welcome sessions are a specific type of Community Session. While you can attend 
 for this step. If you see another session you would like to attend, you may choose to apply that to fulfil your [Get Involved step](#getinvolved), 
 but not the Welcome Session step.
 
-Sign up on the [Community Welcome Sessions Etherpad][welcome]. 
-**Take care to double check
-the time zone**, and mark your calendar after signing up! At the time of the event, the Zoom link may be found at the top
-of that Etherpad.
+Register for your Welcome Session via [Pretix](https://pretix.carpentries.org/community-events/welcome-sessions/). You will receive reminder emails that include all the details you’ll need to join the call.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -167,6 +164,14 @@ You will be asked to give feedback on yourself as well as on others;
 your Trainer will likely recommend a feedback structure using two axes of positive vs. constructive
 and content vs. presentation, just as you have done during this training.
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+## How much do I need to cover?
+
+The short answer is however much you cover.
+
+There is no set expectation of the amount of the episode you need to cover during a demo - the goal is to teach for five minutes, including at least some live coding or live demonstration. As long as you don't start at the beginning of a long explanatory section with no coding, five minutes is long enough for trainers to and fellow trainees to provide useful feedback. Rushing through material to try to reach a certain point in an episode is a common reason to be asked to repeat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Languages Other than English
 

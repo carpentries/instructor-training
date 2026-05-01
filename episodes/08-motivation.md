@@ -164,7 +164,7 @@ person" who has inherent strengths or weaknesses.
 The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
 continuing topic of research and debate in education communities. In the specific context of Carpentries workshops, we frequently encounter learners who believe that they are not
 "computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We
-therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through
+therefore recommend four types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through
 effort -- a **growth mindset**.
 
 - **Positive error framing**. Errors are inevitable when learning a new skill. However, learners will often interpret errors as indicators of

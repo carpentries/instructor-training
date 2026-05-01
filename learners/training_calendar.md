@@ -44,16 +44,35 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [19-20 November 2025](https://www.eventbrite.com/e/online-instructor-training-november-19-20-2025-tickets-1657344645449)
-**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20251119T09&p1=179&ah=8)
+#### [11-14 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-11-14-2026-tickets-1984382195565?aff=oddtdtcreator&keep_tld=true)
+**Four 4-hour days:** 9 am to 1 pm British Summer Time / 1:30 pm to 5:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260511T09&p1=136)
 
 <hr>
 
-#### [2-5 December 2025](https://www.eventbrite.com/e/online-instructor-training-december-2-5-2025-tickets-1657347945319)
-**Four 4-hour days:** / 9 am to 1 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training+&iso=20251202T09&p1=137&ah=4)
+#### [18-21 May 2026](https://www.eventbrite.com/e/online-instructor-training-may-18-21-2026-tickets-1984329768755)
+**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260518T09&p1=137)
 
 <hr>
 
+#### [1-2 June 2026](https://www.eventbrite.com/e/online-instructor-training-june-1-2-2026-tickets-1984330648386)
+**Two 8-hour days:** 9 am to 5 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260601T09&p1=137)
+
+<hr>
+
+#### [2-5 June 2026](https://www.eventbrite.com/e/online-instructor-training-june-2-5-2026-tickets-1984331170949)
+**Four 4-hour days:** 9 am to 1 pm Central European Time / 12:30 pm to 4:30 pm India Standard Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260602T09&p1=195)
+
+<hr>
+
+#### [3-4 June 2026](https://www.eventbrite.com/e/online-instructor-training-june-3-4-2026-tickets-1984331781776)
+**Two 8-hour days:** 9 am to 5 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260603T09&p1=179)
+
+<hr>
+
+#### [9-10 June 2026](https://www.eventbrite.com/e/online-instructor-training-june-9-10-2026-tickets-1984332385582)
+**Two 8-hour days:** 9 am to 5 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260609T09&p1=195)
+
+<hr>
 
 ### Accessibility Support
 

@@ -1,198 +1,260 @@
-# Carpentries Workflows
+# Workflow Documentation
 
-This directory contains workflows to be used for Lessons using the {sandpaper}
-lesson infrastructure. Two of these workflows require R (`sandpaper-main.yaml`
-and `pr-receive.yaml`) and the rest are bots to handle pull request management.
+## Managing Workflow Updates
 
-These workflows will likely change as {sandpaper} evolves, so it is important to
-keep them up-to-date. To do this in your lesson you can do the following in your
-R console:
+By using prebuilt Docker containers that are managed by the Carpentries core Workbench maintainers, these workflows are designed to be rarely updated.
+
+However, is important to be able to keep them up-to-date when appropriate.
+You can do this locally using your own R and Workbench installation, or via the "04 Maintain: Update Workflow Files" (`update-workflows.yaml`) GitHub Action.
+
+### Updating locally
+
+In a terminal/git bash, navigate to the lesson folder where you want to update the workflows.
+
+Then, start an R session and:
 
 ```r
 # Install/Update sandpaper
-options(repos = c(carpentries = "https://carpentries.r-universe.dev/", 
-  CRAN = "https://cloud.r-project.org"))
+options(repos = c(carpentries = "https://carpentries.r-universe.dev/", CRAN = "https://cloud.r-project.org"))
 install.packages("sandpaper")
 
 # update the workflows in your lesson
 library("sandpaper")
-update_github_workflows()
+sandpaper::update_github_workflows()
+quit()
 ```
 
-Inside this folder, you will find a file called `sandpaper-version.txt`, which
-will contain a version number for sandpaper. This will be used in the future to
-alert you if a workflow update is needed.
+And then in a bash prompt/git bash terminal:
 
-What follows are the descriptions of the workflow files:
+```bash
+$ git add .github/workflows
+$ git commit -m "Manual update to docker workflows"
+$ git push origin main
+```
 
-## Deployment
+> [!NOTE]
+> For non-renv lessons, this is all the setup you need!
+> 
+> For renv-enabled lessons:
+> - Cancel any "01 Maintain: Build and Deploy Site" workflow currently running
+> - Run the "02 Maintain: Check for Updated Packages" workflow and merge any PR opened to update the renv lockfile
+> - This should automatically run the "03 Maintain: Apply Package Cache" workflow to install packages and build the cache
+> - A successful cache buid should then trigger the "01 Maintain: Build and Deploy Site" workflow
 
-### 01 Build and Deploy (sandpaper-main.yaml)
+### Updating using GitHub
 
-This is the main driver that will only act on the main branch of the repository.
-This workflow does the following:
+#### Official lessons
 
- 1. checks out the lesson
- 2. provisions the following resources
-   - R
-   - pandoc
-   - lesson infrastructure (stored in a cache)
-   - lesson dependencies if needed (stored in a cache)
- 3. builds the lesson via `sandpaper:::ci_deploy()`
+"Official" lessons are those in the lesson program repositories, Incubator, or Lab.
+They need no extra setup as this is all managed for you as part of the Carpentries GitHub organisations.
 
-#### Caching
+To update the workflows, either:
+- wait for the scheduled run of the "04 Maintain: Update Workflow Files" at approximately midnight every Tuesday
+- go to the Actions tab on GitHub, click "04 Maintain: Update Workflow Files" on the left, then "Run Workflow" on the right
 
-This workflow has two caches; one cache is for the lesson infrastructure and 
-the other is for the lesson dependencies if the lesson contains rendered
-content. These caches are invalidated by new versions of the infrastructure and
-the `renv.lock` file, respectively. If there is a problem with the cache, 
-manual invaliation is necessary. You will need maintain access to the repository
-and you can either go to the actions tab and [click on the caches button to find
-and invalidate the failing cache](https://github.blog/changelog/2022-10-20-manage-caches-in-your-actions-workflows-from-web-interface/) 
-or by setting the `CACHE_VERSION` secret to the current date (which will
-invalidate all of the caches).
+Once complete, this will raise a PR with any changes to the workflows that are needed.
+If you are happy with the changes made, you can merge the PR into your lesson repository.
 
-## Updates
+#### Your own lessons
 
-### Setup Information
+This presumes you:
+  - already have a lesson repository available on GitHub
+  - have enabled workflows in the lesson repo
+  - have set up a SANDPAPER_WORKFLOW personal access token (PAT) in the lesson repo
 
-These workflows run on a schedule and at the maintainer's request. Because they
-create pull requests that update workflows/require the downstream actions to run,
-they need a special repository/organization secret token called 
-`SANDPAPER_WORKFLOW` and it must have the `public_repo` and `workflow` scope. 
+To go through these steps, please follow the [Forking a Workbench Lesson](https://docs.carpentries.org/resources/curriculum/lesson-forks.html#forking-a-workbench-lesson-repository)
+documentation.
 
-This can be an individual user token, OR it can be a trusted bot account. If you
-have a repository in one of the official Carpentries accounts, then you do not
-need to worry about this token being present because the Carpentries Core Team
-will take care of supplying this token.
+Once set up, run the "04 Maintain: Update Workflow Files" (`update-workflows.yaml`) action.
 
-If you want to use your personal account: you can go to 
-<https://github.com/settings/tokens/new?scopes=public_repo,workflow&description=Sandpaper%20Token>
-to create a token. Once you have created your token, you should copy it to your
-clipboard and then go to your repository's settings > secrets > actions and
-create or edit the `SANDPAPER_WORKFLOW` secret, pasting in the generated token.
+This will raise a PR with any changes to the workflows that are needed.
+If you are happy with the changes made, you can merge the PR into your lesson repository.
 
-If you do not specify your token correctly, the runs will not fail and they will
-give you instructions to provide the token for your repository. 
 
-### 02 Maintain: Update Workflow Files (update-workflow.yaml)
+## Package Caches for RMarkdown Lessons
 
-The {sandpaper} repository was designed to do as much as possible to separate 
-the tools from the content. For local builds, this is absolutely true, but 
-there is a minor issue when it comes to workflow files: they must live inside 
-the repository. 
+In summary, generating a reusable package cache is achieved by running the "02 Maintain: Check for Updated Packages" workflow, and then the "03 Maintain: Apply Package Cache" workflow.
 
-This workflow ensures that the workflow files are up-to-date. The way it work is
-to download the update-workflows.sh script from GitHub and run it. The script 
-will do the following:
+> [!NOTE]
+> Caching is only relevant for lessons that use Rmd files and renv to manage R packages.
+> If you are building basic markdown documents, caching will not apply to you, and the only
+> workflow that needs to be run is "01 Maintain: Build and Deploy Site".
 
-1. check the recorded version of sandpaper against the current version on github
-2. update the files if there is a difference in versions
+### Caching
 
-After the files are updated, if there are any changes, they are pushed to a
-branch called `update/workflows` and a pull request is created. Maintainers are
-encouraged to review the changes and accept the pull request if the outputs
-are okay.
+The two cache management workflows are separated to ensure that once you have a successful build with a working renv cache, this cache is stored and will be reused by the Workbench Docker container.
+This means that lesson builds will be faster once an renv cache is created and reused by the Docker container.
 
-This update is run weekly or on demand.
+Another major bonus of this setup is that you can keep using this cache indefinitely to build your lesson.
+This is important if you need very specific versions of R packages ("pinning").
 
-### 03 Maintain: Update Package Cache (update-cache.yaml)
+If and when you want to perform an update to the cache, you can re-run the "02 Maintain: Check for Updated Packages" and verify that your lesson still builds with the new packages.
+If all looks good, re-run the "03 Maintain: Apply Package Cache" workflow, and this will write a new renv cache file to GitHub.
 
-For lessons that have generated content, we use {renv} to ensure that the output
-is stable. This is controlled by a single lockfile which documents the packages
-needed for the lesson and the version numbers. This workflow is skipped in 
-lessons that do not have generated content.
+In any case, the renv cache is invalidated by new versions of the `renv.lock` file.
+This happens:
+  - if you update your lockfile locally by using the `sandpaper::update_cache()` function, and then push it to the lesson repository
+  - when you run the "02 Maintain: Check for Updated Packages" and there are new packages to install
 
-Because the lessons need to remain current with the package ecosystem, it's a
-good idea to make sure these packages can be updated periodically. The 
-update cache workflow will do this by checking for updates, applying them in a
-branch called `updates/packages` and creating a pull request with _only the
-lockfile changed_. 
+More information on managing local renv caches for lessons can be found in the [Sandpaper packages vignettes](https://carpentries.github.io/sandpaper/articles/building-with-renv.html).
 
-From here, the markdown documents will be rebuilt and you can inspect what has
-changed based on how the packages have updated. 
+#### Using different package cache versions
+
+There are times when you may want to go back to a previous renv package cache file:
+  - if you run "02 Maintain: Check for Updated Packages" and "03 Maintain: Apply Package Cache" and the cache generation fails for some reason
+  - if there is a new R package that produces incorrect or broken lesson output
+
+Cache files will have the following name format, where IMAGE is the workbench-docker image version, and HASHSUM is the `renv.lock` lockfile MD5 hash:
+
+```
+IMAGE                                HASHSUM
+[ |  ]      [                           |                                  ]
+v0.2.4_renv-2e499eb706112971b2cffceb49b55a6efe49f3ed75cd6579b10ff224489daca4
+```
+
+Copy the hashsum part of the desired cache file you want to use, e.g. `2e499eb706112971b2cffceb49b55a6efe49f3ed75cd6579b10ff224489daca4`.
+
+Then either:
+ 1. Add a repository variable called CACHE_VERSION, and paste in the hash
+    - Go to ...
+ 2. Run the "01 Maintain: Build and Deploy Site" manually, supplying the CACHE_VERSION input
+    - Go to ...
+
+If you have no caches listed, make sure to run the "02 Maintain: Check for Updated Packages" and "03 Maintain: Apply Package Cache" to create a new renv cache file.
+
+> [!NOTE]
+> If you are maintaining an official lesson, caches are saved in an AWS S3 bucket owned by the Carpentries.
+> Once a successful cache has been saved, these will be listed in the outputs of the "01 Maintain: Build and Deploy Site" workflow.
+> 
+> If you are developing a lesson in your own repository, caches are saved on GitHub.
+> You can see available caches by going to the Actions tab, and clicking Caches on the left hand side.
+
+
+## User Settings
+
+Input level variables are documented in the `carpentries/actions` repository READMEs for each composite action.
+
+Specific repository level variables can be set that will force particular options across all workflow runs.
+
+### 01 Maintain: Build and Deploy Site (docker_build_deploy.yaml)
+
+Repository-level variables for this workflow are:
+- WORKBENCH_TAG
+  - The workbench-docker release version to use for a given build
+  - This can be set to a specific version number to force all builds to use a given container version
+  - Default is unset or `latest`
+- BUILD_RESET
+  - Force a reset of previously build markdown files
+  - Setting this variable value to `true` will force sandpaper to delete any previously build markdown files
+  - Default is unset or `false`
+- AUTO_MERGE_WORKBENCH_VERSION_UPDATE
+  - Control merge behaviour of the workbench-docker version update PR
+  - When a new workbench Docker image version is detected, usually after a sandpaper, varnish, or pegboard update, its version number will be incremented
+  - If a newer version is available, a PR will be auto-generated that updates the `.github/workbench-docker-version.txt` file, and this PR will be auto-merged
+  - To not auto-merge this PR and to choose when to update the Docker version used, set this to `false`.
+  - Default is unset or `true`
+- LANG_CODE
+  - Two-letter language code that triggers the use of Joel Nitta's {dovetail} package for lesson translation
+  - This is used in the internationalisation repos of the main Carpentry lesson programs
+  - Default is unset or `''`
+
+### 02 Maintain: Check for Updated Packages (update-cache.yaml)
+
+Repository-level variables for this workflow are:
+- LOCKFILE_CACHE_GEN
+  - Passed to the `generate-cache` input of the [update-lockfile](https://github.com/carpentries/actions/tree/main/update-lockfile) action
+  - A temporary renv cache is generated when this workflow runs
+  - If this option is set to `false`, no temporary cache will be generated
+  - Default is `true`
+- FORCE_RENV_INIT
+  - Passed to the `force-renv-init` input of the [update-lockfile](https://github.com/carpentries/actions/tree/main/update-lockfile) action
+  - renv initialises a cache based on a given lockfile
+  - If this lockfile is particularly old or packages have broken/unresolvable dependencies, then builds will fail
+  - If this option is set to `true`, a full renv reinitialisation will occur, "wiping the slate clean"
+  - This option is useful if you're using Bioconductor packages which often break when new Bioconductor releases happen
+  - Default is `false`
+- UPDATE_PACKAGES
+  - Passed to the `update` input of the [update-lockfile](https://github.com/carpentries/actions/tree/main/update-lockfile) action
+  - If set to `false` only package hydration will happen and no package update checks will occur
+  - Default is `true`
+
+### 03 Maintain: Apply Package Cache (docker_apply_cache.yaml)
+
+Repository-level variables for this workflow are:
+- WORKBENCH_TAG
+  - The workbench-docker release version to use for a given build
+  - This can be set to a specific version number to force all builds to use a given container version
+  - Default is unset or `latest`
+
+
+### 04 Maintain: Update Workflow Files (update-workflows.yaml)
+
+There are no repository variables for this workflow.
+
 
 ## Pull Request and Review Management
 
-Because our lessons execute code, pull requests are a secruity risk for any
-lesson and thus have security measures associted with them. **Do not merge any
-pull requests that do not pass checks and do not have bots commented on them.**
+Because our lessons execute code, pull requests are a security risk for any lesson and thus have security measures associted with them.
+**Do not merge any pull requests that do not pass checks and do not have bots commented on them.**
 
-This series of workflows all go together and are described in the following 
-diagram and the below sections:
+This series of workflows all go together and are described in the following diagram and the below sections:
 
 ![Graph representation of a pull request](https://carpentries.github.io/sandpaper/articles/img/pr-flow.dot.svg)
 
 ### Pre Flight Pull Request Validation (pr-preflight.yaml)
 
-This workflow runs every time a pull request is created and its purpose is to
-validate that the pull request is okay to run. This means the following things:
+This workflow runs every time a pull request is created and its purpose is to validate that the pull request is okay to run.
+This means the following things:
 
 1. The pull request does not contain modified workflow files
-2. If the pull request contains modified workflow files, it does not contain 
-   modified content files (such as a situation where @carpentries-bot will
-   make an automated pull request)
-3. The pull request does not contain an invalid commit hash (e.g. from a fork
-   that was made before a lesson was transitioned from styles to use the
-   workbench).
+2. If the pull request contains modified workflow files, it does not contain modified content files
+   (such as a situation where @carpentries-bot will make an automated pull request)
+3. The pull request does not contain an invalid commit hash
+   (e.g. from a fork that was made before a lesson was transitioned from styles to use the Workbench).
 
-Once the checks are finished, a comment is issued to the pull request, which 
-will allow maintainers to determine if it is safe to run the 
-"Receive Pull Request" workflow from new contributors.
+Once the checks are finished, a comment is issued to the pull request, which will allow maintainers to determine if it is safe to run the "Receive Pull Request" workflow from new contributors.
 
-### Receive Pull Request (pr-receive.yaml)
+### Receive Pull Request (docker_pr_receive.yaml)
 
-**Note of caution:** This workflow runs arbitrary code by anyone who creates a
-pull request. GitHub has safeguarded the token used in this workflow to have no
-priviledges in the repository, but we have taken precautions to protect against
-spoofing.
+**Note of caution:** This workflow runs arbitrary code by anyone who creates a pull request.
+GitHub has safeguarded the token used in this workflow to have no privileges in the repository, but we have taken precautions to protect against spoofing.
 
-This workflow is triggered with every push to a pull request. If this workflow
-is already running and a new push is sent to the pull request, the workflow
-running from the previous push will be cancelled and a new workflow run will be
-started.
+This workflow is triggered with every push to a pull request.
+If this workflow is already running and a new push is sent to the pull request, the workflow running from the previous push will be cancelled and a new workflow run will be started.
 
-The first step of this workflow is to check if it is valid (e.g. that no
-workflow files have been modified). If there are workflow files that have been
-modified, a comment is made that indicates that the workflow is not run. If 
-both a workflow file and lesson content is modified, an error will occurr.
+The first step of this workflow is to check if it is valid (e.g. that no workflow files have been modified):
+- If there are workflow files that have been modified, a comment is made that indicates that the workflow will not continue.
+- If both a workflow file and lesson content is modified, an error will occur and the workflow will not continue.
 
-The second step (if valid) is to build the generated content from the pull
-request. This builds the content and uploads three artifacts:
+The second step (if valid) is to build the generated content from the pull request.
+This builds the content and uploads three artifacts:
 
 1. The pull request number (pr)
 2. A summary of changes after the rendering process (diff)
 3. The rendered files (build)
 
-Because this workflow builds generated content, it follows the same general 
-process as the `sandpaper-main` workflow with the same caching mechanisms.
-
-The artifacts produced are used by the next workflow.
+The artifacts produced are used by the "Comment on Pull Request" workflow.
 
 ### Comment on Pull Request (pr-comment.yaml)
 
-This workflow is triggered if the `pr-receive.yaml` workflow is successful.
+This workflow is triggered if the `docker_pr_receive.yaml` workflow is successful.
 The steps in this workflow are:
 
-1. Test if the workflow is valid and comment the validity of the workflow to the
-   pull request.
-2. If it is valid: create an orphan branch with two commits: the current state
-   of the repository and the proposed changes.
+1. Test if the workflow is valid and comment the validity of the workflow to the pull request.
+2. If it is valid: create an orphan branch with two commits: the current state of the repository and the proposed changes.
 3. If it is valid: update the pull request comment with the summary of changes
 
-Importantly: if the pull request is invalid, the branch is not created so any
-malicious code is not published.
+Importantly: if the pull request is invalid, the branch is not created so any malicious code is not published.
 
-From here, the maintainer can request changes from the author and eventually 
-either merge or reject the PR. When this happens, if the PR was valid, the 
-preview branch needs to be deleted. 
+From here, the maintainer can request changes from the author and eventually either merge or reject the PR.
+When this happens, if the PR was valid, the preview branch needs to be deleted. 
 
 ### Send Close PR Signal (pr-close-signal.yaml)
 
-Triggered any time a pull request is closed. This emits an artifact that is the
-pull request number for the next action
+Triggered any time a pull request is closed.
+This emits an artifact that is the pull request number for the next action.
 
 ### Remove Pull Request Branch (pr-post-remove-branch.yaml)
 
-Tiggered by `pr-close-signal.yaml`. This removes the temporary branch associated with
-the pull request (if it was created).
+Tiggered by `pr-close-signal.yaml`.
+This removes the temporary branch associated with the pull request (if it was created).

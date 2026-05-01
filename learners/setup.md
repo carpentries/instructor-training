@@ -54,7 +54,7 @@ If you are having trouble choosing an episode, we recommend choosing one of the 
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
-    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops.html)
+    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/for-loops.html)
   - Software Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
     - [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)

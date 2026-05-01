@@ -76,7 +76,7 @@ On February 1, 2025, The Carpentries became an independent 501(c)(3) non-profit 
 
 The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
-The **global Carpentries community** consists of [Instructors](https://carpentries.org/community/instructors/), [Instructor Trainers](https://carpentries.org/community/instructor-trainers/), [Maintainers](https://carpentries.org/community/maintainers/), [Lesson Developers](https://carpentries.org/community/lesson_developers/), [Institutional Partners](https://carpentries.org/support/membership/member-list/), members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
+The **global Carpentries community** consists of [Instructors](https://carpentries.org/community/instructors/), [Instructor Trainers](https://carpentries.org/community/instructor-trainers/), [Maintainers](https://carpentries.org/community/maintainers/), [Lesson Developers](https://carpentries.org/community/lesson_developers/), [Institutional Partners](https://carpentries.org/support/partnership/partner-list/), members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
 Carpentries communities may include many participants who are not necessarily connected with or even aware of our global activities, including helpers, learners, faculty sponsors, and others who contribute to keep communities thriving and growing 'on the ground.'
 
 ![](fig/The-Carpentries-History-Timeline.png){alt='A graphic depicting the development of The Carpentries. It is titled “A Brief History of The Carpentries” with The Carpentries logo to the left of the title. The graphic is a snaking timeline chart summarising significant transitions in The Carpentries\' history from 1998 to 2025. Not all years are represented. Under each year is a brief summary of the key developments in that year, with logos of the funder organisations that supported that phase of the organisation\'s projects. The dates and accompanying text are as follows: 1998: Software Carpentry is founded by Greg Wilson and Brent Gorda. 2001: Lesson materials are made open source with support from the Python Software Foundation. 2003: Software Carpentry efforts scaled with support from Alfred P. Sloan Foundation & Mozilla Science Lab. 2013: First Software Carpentry for Librarians workshops in US & Canada. 2014: Data Carpentry founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from NSF. 2014: James Baker receives support from Software Sustainability Institute to develop and implement Library Carpentry. 2014: Software Carpentry Foundation is founded under NumFOCUS. 2015: Data Carpentry efforts scaled with support from the Gordon and Betty Moore Foundation. 2018: Software Carpentry & Data Carpentry merge to form The Carpentries as a fiscally sponsored project of Community Initiatives. Library Carpentry later joins as a new lesson program. 2019: CZI supports The Carpentries to scale its programs, and build capacity with local communities. 2020: Online Workshops begin. 2025: On 1 February The Carpentries transitions out of fiscal sponsor-ship into an independent 501(c)(3) non-profit organisation.'}
@@ -103,7 +103,7 @@ are their content and intended audience. Their similarities and differences are 
 
 ![](fig/carpentries-venn-diagram_20200904.svg){alt='Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
 
-## What is a Carpentries Workshop? The Rules.
+## What is a Carpentries Workshop? The Rules
 
 ### Using the Names and Logos
 
@@ -187,6 +187,58 @@ These terms are defined in our [Community Glossary](https://docs.carpentries.org
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## How to Organise a Carpentries Workshop Locally
+
+Briefly, there are two types of Carpentries workshops: **centrally-organised** and
+**self-organised**. You can read (and hopefully have already read) about these on our [website][workshops-page].
+
+Centrally organised workshops are included in institutional [Partnership][partnership-page] packages and can also be requested separately for a fee. Since The Carpentries
+will recruit Instructors to teach, this is a great way to host workshops before your local Instructor team feels fully prepared to run a complete workshop
+independently, or to host workshops beyond the areas of expertise you may have locally.
+
+If you have enough local Instructors available to organise your own workshop, you can run a self-organised workshop at any time at no cost. If you need support with AWS instances for a Genomics 
+workshop, there may be an associated fee. You can learn more about Genomic workshops in the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html).
+If you would like to recruit additional Instructors or helpers, [this blog post][SO-recruiting-blog] has guidelines for using Carpentries communications channels. Registering
+your workshop with us allows you to use The Carpentries branding, includes our pre- and post- workshop surveys and results for your workshop, and ensures
+that all Instructors and helpers in our database have the experience recorded in their profile. Registering your workshop also helps us: reporting
+on our global impact is vital to our future funding opportunities, allowing us to continue to provide and develop materials and opportunities for you.
+
+Once you have selected your workshop type, consult [**The Carpentries Handbook**][docs] for more resources to support your organising effort.
+The Carpentries Handbook is the definitive source for policies and information, including tips, checklists, and points of contact for nearly all
+Carpentries-related activities. Useful content includes [template emails and checklists][docs-teach-host] for hosts, Instructors, and helpers and step-by-step [workshop guides](https://docs.carpentries.org/handbooks/instructors.html#step-by-step-guides).
+
+As The Carpentries grows and changes in response to a complex global legal landscape, our policies and procedures are likely to change. Be sure to check
+back for policy changes, and keep in touch on our [communications channels][connect-page] to stay abreast of the latest updates!
+
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Teaching Opportunities: Local and Global
+
+Many Instructors aim to teach within a local community and do not want to travel. In that case,
+you will coordinate with your community to gain access to teaching opportunities through locally organised workshops.
+
+The Carpentries relies on contributions from individual community members. To recognise the impact of community members, we offer discounts on Partnerships for organisations with members who actively contribute to The Carpentries mission in a range of roles. As an Instructor when you teach Centrally-Organised workshops, your organisation may qualify for a 5% discount on their Partnership. For more information, visit our [pricing page](https://carpentries.org/support/pricing/). 
+
+The Carpentries can not guarantee that all Instructors who respond to recruitment calls will be selected, and depending on your geographic area these opportunities may be scarce.
+If you want to get started right away, consider organising your own workshop or even teaching a single lesson with a few friends. If your friends have not been through Instructor Training,
+you will need to set aside some time to help them understand how best to support your efforts.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Explain to a partner
+
+With a partner, take turns asking and answering the question: "I want to organise a workshop! What will I need to do?" One partner should ask about a
+self-organised workshop, and the other can ask about a centrally-organised workshop. If you have a third person, they can help out with follow-up questions
+or answers as needed.
+
+When you encounter new questions during this process, be sure to write them in the Etherpad.
+
+Leave about 10 minutes for this discussion.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Setting Out On Your Own... Together: Lesson Incubation
 
 Maybe this instructor training has inspired you to go home and write your
@@ -241,6 +293,7 @@ Are there roles you would like to see that are not listed? Note that, too!
 4. Curriculum advisors
 5. Lesson maintainers
 6. Code of Conduct Committee
+7. Lesson Program Governors 
 
 This exercise should take about 5 minutes.
 
@@ -287,7 +340,7 @@ You will also have a chance to sign-up in the Welcome session.
 [docs-workshop-checklists]: https://docs.carpentries.org/resources/workshops/checklists.html
 [workshops-form]: https://amy.carpentries.org/forms/workshop/
 [workshops-page]: https://carpentries.org/workshops/#workshop-organising
-[membership-page]: https://carpentries.org/membership/
+[partnership-page]: https://carpentries.org/partnership/
 [SO-recruiting-blog]: https://carpentries.org/blog/2021/06/recruiting-instructors-for-self-organised-workshops/
 [docs]: https://docs.carpentries.org/
 [docs-teach-host]: https://docs.carpentries.org/resources/workshops/

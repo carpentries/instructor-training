@@ -26,7 +26,7 @@ look in some depth at how The Carpentries operates to prepare you for the logist
 
 To prepare for our next session, please:
 
-1. Read about [centrally-organised and self-organised workshops](https://carpentries.org/workshops/#workshop-organising) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/resources/workshops/) -- be sure to click through to some of the associated checklists. These summarise commonly asked questions about organizing and running workshops.
+1. Read about [centrally-organised and self-organised workshops](https://carpentries.org/workshops/host-workshop/#host-a-workshop) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/resources/workshops/) -- be sure to click through to some of the associated checklists. These summarise commonly asked questions about organizing and running workshops.
   When you arrive for the next part, we will ask you to add one question about our operations to a list.
   We will then do our best to answer all of those questions during the day.
 
@@ -48,7 +48,7 @@ To prepare for our next session, please:
   - Library Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
     - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
-    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/12-for-loops.html)
+    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/for-loops.html)
   - Software Carpentry    
     - [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
     - [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)

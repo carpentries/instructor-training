@@ -37,7 +37,7 @@ Extensions may be granted for any reason up to 1 year from your training date.
 
 ## Be The Expert: Checkout Q \& A
 
-In small groups, read and discuss one of [the three checkout steps](checkout.md) at [https://carpentries.github.io/instructor-training/checkout/index.html](checkout.md).
+In small groups, read and discuss one of [the three checkout steps](checkout.md) at [https://carpentries.github.io/instructor-training/checkout.html](checkout.md).
 
 Make notes in the Etherpad:
 
@@ -55,7 +55,7 @@ This exercise should take about 10 minutes.
 
 Take a moment to review your calendar and sign up for one or more sessions to get your checkout process rolling!
 
-Visit the Welcome Session Etherpad: <https://pad.carpentries.org/welcome-sessions-2025>
+Visit the Welcome Session Pretix sign up page: <https://pretix.carpentries.org/community-events/welcome-sessions/>
 
 Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
 
