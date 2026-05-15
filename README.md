@@ -16,7 +16,7 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 - [Sarah Brown][brown_sarah]: @brownsarahm
 - [Nathaniel Porter][porter-nathaniel]: @ndporter
 - [Karen Cranston][cranston-karen]: @kcranston
-- [Jon Wheeler][wheeler_jon]: @jonathanwheeler01
+- [SherAaron Hurt](hurt-sheraaron): @sheraaronhurt 
 
 [swc-site]: https://software-carpentry.org
 [dc-site]: https://datacarpentry.org
@@ -24,7 +24,7 @@ If you want to preview this lesson locally, you will need the [{sandpaper} R pac
 [lesson-doc]: https://carpentries.github.io/sandpaper-docs
 [brown_sarah]: https://github.com/brownsarahm
 [porter-nathaniel]: https://github.com/ndporter
-[wheeler_jon]: https://github.com/jonathanwheeler01
 [cranston-karen]: https://github.com/kcranston
+[hurt-sheraaron]: https://github.com/sheraaronhurt
 
 
