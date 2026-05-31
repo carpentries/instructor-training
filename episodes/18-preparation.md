@@ -127,10 +127,11 @@ consider how they may be improved by making them specific to an outcome that is 
 
 When experts teach, they are often eager to advance their learners to higher cognitive levels where challenges seem more interesting or valuable.
 If the learning objectives in your lesson seem a bit dull, you can understand the appeal! And the goal is laudable. However, teaching is an incremental process,
-and giving in to this urge can result in skipping steps (see "expert awareness gap" in previous episodes), leaving novice learners in a state of cognitive overload.  
+and giving in to this urge can result in skipping steps (see "expert awareness gap" in previous episodes), leaving novice learners in a state of cognitive overload.
+
 'Higher order' tasks like synthesis or creation rely on more fundamental levels of understanding, and are therefore prone to failure when applied too soon.
-Awareness of exactly what underlying knowledge is required at each step will help you to avoid asking too much. For more guidance on identifying the "level" of
-a particular task, we recommend having a look at one of many excellent references on Bloom's Taxonomy.
+Awareness of exactly what underlying knowledge is required at each step will help you to avoid asking too much.
+For more guidance on identifying the "level" of a particular task, we recommend having a look at one of many excellent references on Bloom's Taxonomy.
 
 ## Prepare to Use Formative Assessments
 
@@ -226,15 +227,15 @@ to avoid making mistakes when you start cutting things 'on the fly.'
 
 ## Review the Instructor Notes
 
-Many of The Carpentries lessons have
-instructor's notes, with information
-from instructors who have already taught the material. This can be a valuable
-resource when preparing to teach, especially when teaching a lesson for the first time.  
+Many of The Carpentries lessons have instructor's notes, with information from instructors who have already taught the material.
+This can be a valuable resource when preparing to teach, especially when teaching a lesson for the first time.
 The instructor notes are linked on each lesson page under the "Extras" pull down menu.
-In addition, configuration problems and other
-technical hurdles common across multiple lessons are detailed [in this community-developed page][Config]
-along with suggested solutions. This link is built into each workshop website as well for easy access by learners and
-during workshops. When you find new problems or solutions, please contribute!
+
+In addition,
+configuration problems and other technical hurdles common across multiple lessons are detailed
+[in this community-developed page][Config] along with suggested solutions.
+This link is built into each workshop website as well for easy access by learners and during workshops.
+When you find new problems or solutions, please contribute!
 
 ## Review Prior Feedback
 
