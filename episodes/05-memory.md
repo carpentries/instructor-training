@@ -59,19 +59,19 @@ For a semi-anonymous alternative to having learners write their score in the eth
 *Example:*
 
 ```markdown
-- 0
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
-- 10
-- 11
-- 12+
+- 0  
+- 1  
+- 2  
+- 3  
+- 4  
+- 5  
+- 6  
+- 7  
+- 8  
+- 9  
+- 10  
+- 11  
+- 12+  
 ```
 
 :::::::::::::::::::::::::::::::::::::::
@@ -144,8 +144,7 @@ rather than as five separate pieces of information.
 Repeat the memory exercise you did earlier, but this time,
 try to form short stories or phrases, or a visual image, from the words you see.
 
-Write the number of words you remembered in the Etherpad.
-How does this compare with your first attempt?
+How does this compare with your first attempt? Did your score increase, stay the same, or decrease? If you employed a strategy which one did you try? 
 
 This exercise should take about 5 minutes.
 
