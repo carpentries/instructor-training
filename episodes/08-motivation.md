@@ -96,14 +96,14 @@ quadrantChart
     quadrant-4 Do not bother
     quadrant-1 Teach later
     quadrant-3 Offer if needed
-    A -Driving around an empty carpark.: [0.2, 0.8] 
-    B - Drive at speed on a Formula 1 racing track : [0.85, 0.25]
-    C - Driving on suburban roads: [0.8, 0.8]
-    D - Driving with snow chains.: [0.2, 0.15]
+    A - empty carpark : [0.2, 0.8] 
+    B - at speed on a race track : [0.85, 0.25]
+    C - suburban roads: [0.8, 0.8]
+    D - with snow chains.: [0.2, 0.15]
 %%accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
 ```
 
-An empty carpark is a great place to start for any new driver, but most people will never drive at speed in a race track.  In contrast, suburbans road are a realistic motivating example that any driver will encounter. That will be on the agenda for a driving school. Driving with snow chains is important if you live in a place that gets extreme snow events, but not for most people.  That is something that someone can learn later if they need it, or an individual who lives or frequently visits a place where they are common may even know to ask about, but most people will not need. We would not want a lesson to go from an empty carpark to snow chains because we would probably lose a lot of people.   
+An empty carpark (A) is a great place to start for any new driver, but most people will never drive at speed in a race track(B).  In contrast, suburbans road (C) are a realistic motivating example that any driver will encounter. That will be on the agenda for a driving school. Driving with snow chains (D)  is important if you live in a place that gets extreme snow events, but not for most people.  That is something that someone can learn later if they need it, or an individual who lives or frequently visits a place where they are common may even know to ask about, but most people will not need. We would not want a lesson to go from an empty carpark to snow chains because we would probably lose a lot of people.   
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
