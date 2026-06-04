@@ -56,6 +56,19 @@ This exercise should take about 10 minutes for rubric discussion, 25 minutes for
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+::::::::::::::::::::::::::::::::::::::: instructor
+
+On Zoom, Remember to send broadcast messages to remind trainees to switch roles, sample language is below:
+
+
+- at 9 min in (16 left): `The second person should start teaching now`
+- at 17 min in (8 left): `The third person should start teaching now`
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - (Reflective) Practice makes progress.
