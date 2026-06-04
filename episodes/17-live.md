@@ -166,6 +166,17 @@ This exercise should take about 25 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: instructor
+
+On Zoom, Remember to send broadcast messages to remind trainees to switch roles, sample language is below:
+
+
+- at 9 min in (16 left): `The second person should start teaching now`
+- at 17 min in (8 left): `The third person should start teaching now`
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [live-coding-tips-paper]: https://doi.org/10.1371/journal.pcbi.1008090
