@@ -131,6 +131,20 @@ does not mean you need to be an expert in the content you are teaching or that y
 to have a certain kind of personality -- ANYONE can learn, practice and improve their
 teaching, as with any skill.
 
+:::::::::::::::::::::::::::::::::::::::::: callout
+
+### Generative AI in Workshops
+Instructors have been reporting the growing use of generative AI (genAI) chatbot tools (e.g. ChatGPT and Claude) among learners in workshops. 
+The use of these tools has profound implications for learning, especially among the novices that form our target audience.
+
+In response, The Carpentries has developed [a "bonus module" to this Instructor Training](https://carpentries.org/instructor-training/#genai-in-workshops-bonus-module), in which Instructors explore what widespread genAI use means for the way they teach their workshops. 
+[The bonus module curriculum](https://carpentries.github.io/instructor-training-genai/) explores the potential impacts of genAI chatbot use on opportunities for guided practice in a workshop, how expertise affects an individual's ability to make successful use of genAI tools, how considerations of cognitive load should change in this new context, and how to maintain a positive learning environment in a workshop.
+
+Having participated in this Instructor Training, you are now eligible to participate in this bonus module.
+Please [contact the Core Team](mailto:team@carpentries.org) to ask questions and register for the additional training.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Having a plan makes it easier for you to remember to implement the important teaching practices you have learned.
