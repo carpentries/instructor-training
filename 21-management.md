@@ -231,6 +231,13 @@ Instructors have generated to deal with this issue:
   to put up sticky notes for "ok" or "I'm stuck" will support your
   team in targeting problems in time.
 
+:::::::::::: callout
+This is a good reason to review the resources at your institution for self organized workshops or make sure the host is aware for self-organized when you teach.  
+
+For someone looking for more advanced ideas you can point them to other trainings or consulting resources at the host institution. 
+
+::::::::::::::::::::::::::::::::::::
+
 No class can possibly meet all individual training needs.
 However, it is entirely possible for total beginners and advanced learners
 to come away happy from the same workshop. Beginners may not yet feel competent,
