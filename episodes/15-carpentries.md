@@ -103,7 +103,7 @@ Similarities between Data Carpentry, HPC Carpentry, Library Carpentry, and Softw
 The major differences between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry workshops are their content and intended audience. 
 Their similarities and differences are depicted in this diagram:
 
-![](fig/carpentries-venn-diagram_20200904.svg){alt='Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
+![](fig/lesson-program-comparison.svg){alt='A table summarising similarities and differences between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry. Data Carpentry, HPC Carpentry and Software Carpentry all focus on research focused computational skills. Data Carpentry and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All four Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
 
 ## What is a Carpentries Workshop? The Rules
 
