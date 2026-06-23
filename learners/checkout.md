@@ -240,7 +240,7 @@ To get there, try looking for a link that says "Edit this page". In this curricu
 
 ![](fig/Edit_this_page.svg){alt='Screen shot of the header for this page with Edit this page circled' width="800px" }
 
-Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
+Alternatively, you can find links to the GitHub repositories for each lesson next to the links to the lessons sites on the websites listing [Data Carpentry](https://datacarpentry.org/lessons/), [HPC Carpentry](https://hpc-carpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lessons:
 
 ![](fig/Instructor_Training_Repo_0.png){alt='Screen shot of Software Carpentries Lessons list in a browser with Links to Lessons Repositories circled' width="800px" }
 
@@ -298,8 +298,8 @@ please [let us know][contact-page].
 
 The only eligibility rule for contributions is that they must be made to a repository that is managed by The Carpentries. That includes:
 
-- any [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lesson
-- the Carpentries Instructor Curriculum (this site)
+- any [Data Carpentry](https://datacarpentry.org/lessons/), [HPC Carpentry](https://hpc-carpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/) lesson
+- the Carpentries Instructor Training Curriculum (this site)
 - any [community developed lesson][carpentries-incubator] in The Carpentries Incubator
 - our open source, multilingual glossary of data science terms, [Glosario][glosario-github]
 

@@ -56,6 +56,8 @@ To prepare for our next session, please:
     - [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)
     - [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html)
 
+(No episodes from HPC Carpentry lessons are included in the list above as these require a connection to a remote cluster environment.)
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Feedback

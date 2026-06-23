@@ -74,6 +74,8 @@ as the third official Lesson Program of The Carpentries.
 
 On February 1, 2025, The Carpentries became an independent 501(c)(3) non-profit organisation, now called The Carpentries, Inc. (The Carpentries), governed by a [Board of Directors](https://carpentries.org/about-us/governance/). Non-profit status provides a stable foundation for long-term planning and sustainability. As an independent organisation, The Carpentries has more flexibility in decision-making, program development, and organisational structure, allowing the opportunity to adapt more easily to the changing needs of the community. 
 
+[HPC Carpentry](https://hpc-carpentry.org) joined The Carpentries on 1 September 2026, becoming the fourth official lesson program after an incubation and adoption process that had lasted approximately two years.
+
 The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
 The **global Carpentries community** consists of [Instructors](https://carpentries.org/community/instructors/), [Instructor Trainers](https://carpentries.org/community/instructor-trainers/), [Maintainers](https://carpentries.org/community/maintainers/), [Lesson Developers](https://carpentries.org/community/lesson_developers/), [Institutional Partners](https://carpentries.org/support/partnership/partner-list/), members of various committees, a [governance structure](https://carpentries.org/governance/), and other supporters who participate, synchronously or asynchronously, in building our programs for all to share. At the **local level**, individual
@@ -92,14 +94,14 @@ You can learn more about the history and goals of each Lesson Program by reading
 All lesson programs under The Carpentries share the same [core values][values-page].
 Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
 
-Similarities between Data Carpentry, Library Carpentry, and Software Carpentry workshops include:
+Similarities between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry workshops include:
 
 - a focus on technical skills,
 - a two full day or four half day format taught by volunteer instructors, and
 - a focus on filling gaps in current training for learners.
 
-The major differences between Data Carpentry, Library Carpentry, and Software Carpentry workshops
-are their content and intended audience. Their similarities and differences are depicted in this diagram:
+The major differences between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry workshops are their content and intended audience. 
+Their similarities and differences are depicted in this diagram:
 
 ![](fig/carpentries-venn-diagram_20200904.svg){alt='Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
 
@@ -107,11 +109,8 @@ are their content and intended audience. Their similarities and differences are 
 
 ### Using the Names and Logos
 
-The names "Data Carpentry", "Library Carpentry", and "Software Carpentry"
-and their respective logos
-are all trademarked.
-You may only call a workshop a Data Carpentry, Library Carpentry, or Software Carpentry workshop if it meets the requirements outlined on
-[The Carpentries website][workshopsreq-page].
+The names "Data Carpentry", "HPC Carpentry", "Library Carpentry", and "Software Carpentry" and their respective logos are all trademarked.
+You may only call a workshop a Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry workshop if it meets the requirements outlined on [The Carpentries website][workshopsreq-page].
 
 Note that as long as you have at least one certified Instructor, the other
 instructors and helpers at a branded workshop do not have to be certified. We
@@ -143,10 +142,9 @@ that the workshop [requirements][workshopsreq-page] are in effect. Other worksho
 
 ### Reporting a 'Mix and Match' Workshop
 
-If you do decide to self-organise a workshop of any length that does not fit the requirements of a lesson program but does draw from our officially recognised Data Carpentry,
-Library Carpentry, or Software Carpentry lessons, we would still like to know about it! This helps us
-to better evaluate our impact, and also to understand what the community wants and needs from our materials. You can report your "mix-and-match" workshop to us
-(and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
+If you do decide to self-organise a workshop of any length that does not fit the requirements of a lesson program but does draw from our officially recognised Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry lessons, we would still like to know about it! 
+This helps us to better evaluate our impact, and also to understand what the community wants and needs from our materials. 
+You can report your "mix-and-match" workshop to us (and take advantage of our pre- and post- assessment surveys!) by selecting "Register a self-organised workshop" on our [workshop request page][workshops-form].
 
 We also want to know when you teach a lesson from The Carpentries Incubator or The Carpentries Lab.
 To register a workshop teaching one of these community-owned lessons, please complete the form available on [The Carpentries Incubator homepage](https://carpentries-incubator.org/) or [The Carpentries Lab homepage](https://carpentries-lab.org/) respectively.
@@ -241,9 +239,8 @@ Leave about 10 minutes for this discussion.
 
 ## Setting Out On Your Own... Together: Lesson Incubation
 
-Maybe this instructor training has inspired you to go home and write your
-own fantastic lesson!  If you would like to model it after the Software, Data and
-Library Carpentry lesson format, you can find two Workbench lesson templates available:
+Maybe this instructor training has inspired you to go home and write your own fantastic lesson!  
+If you would like to model it after The Carpentries lesson format, you can find two Workbench lesson templates available:
 
 - [Markdown][template-md]: this template is suitable for lessons that serve static content
 - [RMarkdown][template-rmd]: this template is suitable for lessons that include executable R code
