@@ -63,6 +63,8 @@ ways you might wish to participate (including by teaching workshops!).
 
 Also in 2014, [Library Carpentry](https://librarycarpentry.org/) was founded with the mission of teaching data skills to people working in library- and information-related roles.
 
+In 2017, the first conference session connecting the [HPC Carpentry](https://hpc-carpentry.org) community took place.
+
 On January 1, 2018, Software Carpentry and Data Carpentry merged to form a new project called
 [The Carpentries](https://carpentries.org/)
 under the fiscal sponsorship of
@@ -71,6 +73,8 @@ Within this new organisation structure, Software Carpentry and Data Carpentry re
 On November 1, 2018, The Carpentries Executive Council (succeeded by Board of Directors in 2025)
 approved [Library Carpentry](https://librarycarpentry.org/)
 as the third official Lesson Program of The Carpentries.
+
+In July 2024, HPC Carpentry entered Lesson Program Incubation, beginning the official process that leads to adoption into The Carpentries.
 
 On February 1, 2025, The Carpentries became an independent 501(c)(3) non-profit organisation, now called The Carpentries, Inc. (The Carpentries), governed by a [Board of Directors](https://carpentries.org/about-us/governance/). Non-profit status provides a stable foundation for long-term planning and sustainability. As an independent organisation, The Carpentries has more flexibility in decision-making, program development, and organisational structure, allowing the opportunity to adapt more easily to the changing needs of the community. 
 
