@@ -87,6 +87,7 @@ You can learn more about the history and goals of each Lesson Program by reading
 
 - [Software Carpentry: Lessons Learned][F1000]
 - [Data Carpentry: Workshops to Increase Data Literacy for Researchers][IJDC]
+- [Expanding user communities with HPC Carpentry][JOSCE]
 - [Library Carpentry: software skills training for library professionals][LIBERQ]
 
 ## Similarities and Differences between The Carpentries Lesson Programs
@@ -332,6 +333,7 @@ You will also have a chance to sign-up in the Welcome session.
 [F1000]: https://f1000research.com/articles/3-62/v2
 [IJDC]: https://ijdc.net/index.php/ijdc/article/view/10.1.135
 [LIBERQ]: https://doi.org/10.18352/lq.10176
+[JOSCE]: https://jocse.org/articles/11/1/4/
 [values-page]: https://carpentries.org/values/
 [workshopsreq-page]: https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops
 [docs-workshop-checklists]: https://docs.carpentries.org/resources/workshops/checklists.html
