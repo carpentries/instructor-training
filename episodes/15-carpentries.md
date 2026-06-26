@@ -108,7 +108,22 @@ Similarities between Data Carpentry, HPC Carpentry, Library Carpentry, and Softw
 The major differences between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry workshops are their content and intended audience. 
 Their similarities and differences are depicted in the following table:
 
-![](fig/lesson-program-comparison.svg){alt='A table summarising similarities and differences between Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry. Data Carpentry, HPC Carpentry and Software Carpentry all focus on research focused computational skills. Data Carpentry and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All four Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices.'}
+|                                                               | Data Carpentry     | HPC Carpentry      | Library Carpentry  | Software Carpentry |
+|:------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ |
+| novice-level training                                         | ✅ | ✅ | ✅ | ✅ |
+| volunteer instructors applying Carpentries teaching practices | ✅ | ✅ | ✅ | ✅ |
+| two-day workshops (flexible scheduling)                       | ✅ | ✅ | ✅ | ✅ |
+| address gaps in computational skills                          | ✅ | ✅ | ✅ | ✅ |
+| modular curriculum                                            | no | no | ✅ | ✅ |
+| teaches research-focused computational skills                 | ✅ | ✅ | no | ✅ |
+| domain-targeted                                               | ✅ | no | ✅ | no |
+
+::::::::::::::::::::::::::::::::::::::: instructor
+
+### Image of this table
+An image displaying the information in this table, for use in slide decks etc, is available at `episodes/fig/lesson-program-comparison.png`.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## What is a Carpentries Workshop? The Rules
 
