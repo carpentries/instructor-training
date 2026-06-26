@@ -174,7 +174,7 @@ improving basic computing and data skills for
 researchers through intensive, short-format workshops.
 
 - Data Carpentry focuses on helping researchers work effectively with their data through its lifecycle
-- HPC Carpentry focuses on preparing researchers to work on a shared, distributed remote compute environment
+- HPC (High-Performance Computing) Carpentry focuses on preparing researchers to work on a shared, distributed remote compute environment
 - Library Carpentry focuses on teaching data skills to people working in library- and information-related roles
 - Software Carpentry focuses on helping researchers develop foundational computational skills.
 

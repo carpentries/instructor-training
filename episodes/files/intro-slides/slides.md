@@ -94,7 +94,7 @@ You want to convey
 ### Clarify learning objectives and expectations
 
 - let people know what the prerequisites are
-For Data Carpentry and Library Carpentry, no prior computational experience is required and for
+For Library Carpentry and most Data Carpentry curricula, no prior computational experience is required and for
 Software Carpentry it can vary.
 The Software Carpentry UNIX Shell lesson is a prerequisite for an HPC Carpentry workshop.
 - highlight the main aspects of the schedule

@@ -131,7 +131,7 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 |  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Using High-Performance Computing Systems](https://carpentries-incubator.github.io/hpc-intro/) | \* [Connecting to a Remote HPC System](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html)  | All other episdoes  | If using [Connecting to a Remote HPC System](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html), start from [Better Security with SSH Keys](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html#better-security-with-ssh-keys).<br/>All other episodes require connection to a remote cluster system and should not be used for demos. |
-| [HPC Workflow Management with Snakemake ](https://carpentries-incubator.github.io/hpc-workflows/) | none  | all episdoes  | This lesson requires connection to a remote cluster system and should not be used for demos. |
+| [HPC Workflow Management with Snakemake ](https://carpentries-incubator.github.io/hpc-workflows/) | none  | all episodes  | This lesson requires connection to a remote cluster system and should not be used for demos. |
 
 
 ### Library Carpentry {#lc}
