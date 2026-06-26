@@ -1,0 +1,93 @@
+---
+title: Wrapping Up
+teaching: 0
+exercises: 10
+---
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Reflect on the course.
+- Articulate constructive feedback.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- What can we improve in this training?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+  
+Just as in our technical workshops, we collect feedback at the end of Instructor Training.
+This will help your Trainers continue to develop *their* skills and to participate in continually improving our curriculum. The Carpentries Surveys also
+provide vital information to The Carpentries Core Team and help us to report to our funders.
+
+## One Up, One Down
+
+Provide one up, one down feedback on the entire Instructor Training course. Remember:
+
+- Say only one thing, and try not to duplicate. This gets harder for those who come later!
+- Trainers should try not to respond, only record responses (e.g. in the Etherpad). This is also hard, but important!
+
+This exercise should take about 10 minutes.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Minute Cards (optional alternative)
+
+Please use your minute
+cards (sticky notes or virtual) to give your Trainers anonymous feedback directly.
+
+This exercise should take 5 minutes.
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+::: instructor
+
+You will need to get the post-training survey link yourself and provide it in the activity below. It should follow the form `https://carpentries.typeform.com/to/cjJ9UP#slug=...../` and can be found in an email Trainers receive from the Carpentries Core Team before the training.
+
+:::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Post Workshop Surveys
+
+Assessment is very important to us! Please take the remaining time to complete
+this about 5-minute post-training survey (your Trainers will provide the link).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Thank You!
+
+Thank you for sharing your time with us! The Carpentries Instructor Training is, like so many things we do, a community-created experience.
+Your contributions and efforts in participating in this course have made a difference already!
+We hope it has been valuable and enjoyable for you,
+and we look forward to having you as Carpentries Instructors!
+
+
+:::::::::::::::: instructor
+
+It can be helpful to show trainees how can download the etherpad to save it and that while there are no plans to take it down, it is also not guaranteed to stay up forever. 
+
+The button to download is two arrows pointing opposite directions and is toward the top right, unless the etherpad window is narrow, when it moves to bottom left. 
+
+If you use another tool for shared notes, remind them of relevant practices related to that platform (e.g. if a Google Doc is managed by an institution, etc).
+::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- Feedback applies to all kinds of learning, including learning how to teach.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
