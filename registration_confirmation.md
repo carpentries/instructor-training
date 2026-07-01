@@ -48,7 +48,8 @@ More details on our [cancellation and makeup policy](https://docs.carpentries.or
 
 ## Learn More and Get Connected
 
-You can read more about [The Carpentries](https://carpentries.org/) and its lesson programs, [Data Carpentry](https://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/), and [Software Carpentry](https://software-carpentry.org/) on our websites. Read about all the ways to get involved in The Carpentries, including signing up for mailing lists and newsletters.
+You can read more about [The Carpentries](https://carpentries.org/) and its lesson programs, [Data Carpentry](https://datacarpentry.org/), [HPC Carpentry](https://hpc-carpentry.org), [Library Carpentry](https://librarycarpentry.org/), and [Software Carpentry](https://software-carpentry.org/) on our websites. 
+Read about all the ways to get involved in The Carpentries, including signing up for mailing lists and newsletters.
 
 Please contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) with any other questions.
 
