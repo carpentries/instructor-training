@@ -248,7 +248,7 @@ Library Carpentry lesson format, you can find two Workbench lesson templates ava
 - [Markdown][template-md]: this template is suitable for lessons that serve static content
 - [RMarkdown][template-rmd]: this template is suitable for lessons that include executable R code
 
-Any lesson that uses The Carpentries lesson templates follows our [Code of Conduct][coc], 
+Any lesson that uses The Carpentries lesson templates, follows our [Code of Conduct][coc], 
 and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator][carpentries-incubator].
 
 The [Collaborative Lesson Development Training][cld] curriculum provides a guide to
