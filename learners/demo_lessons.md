@@ -56,6 +56,7 @@ Use the links below to jump to the starting points information for a particular 
 - [Data Carpentry: Geospatial](#dc-geospatial)
 - [Data Carpentry: Astronomy](#dc-astro)
 - [Data Carpentry: Image Processing](#dc-image)
+- [HPC Carpentry](#hpcc)
 - [Library Carpentry](#lc)
 - [Software Carpentry](#swc)
 - [Lecciones en español](#espanol)
@@ -123,6 +124,14 @@ If you are an instructor in training and wish to use lessons from Data Carpentry
 |  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
 |---------- |--------------- |--------------- |------------------------- |
 | [Image Processing with Python](https://datacarpentry.github.io/image-processing/index.html) | \* [Working with skimage](https://datacarpentry.github.io/image-processing/03-skimage-images.html) <br/> \* [Drawing and Bitwise Operations](https://datacarpentry.github.io/image-processing/04-drawing.html) <br/> \* [Creating Histograms](https://datacarpentry.github.io/image-processing/05-creating-histograms.html)<br/> \* [Thresholding](https://datacarpentry.github.io/image-processing/07-thresholding.html) | \* [Introduction](https://datacarpentry.github.io/image-processing/instructor/01-introduction.html)<br/> \* [Blurring Images](https://datacarpentry.github.io/image-processing/instructor/06-blurring.html)<br/> \* [Capstone Challenge](https://datacarpentry.github.io/image-processing/instructor/09-challenges.html)  | If using [Image Basics](https://datacarpentry.github.io/image-processing/instructor/02-image-basics.html), start from [Working with Pixels](https://datacarpentry.github.io/image-processing/instructor/02-image-basics.html#working-with-pixels). <br/>If using [Connected Component Analysis](https://datacarpentry.github.io/image-processing/instructor/08-connected-components.html), start from [the Connected Component Analysis section](https://datacarpentry.github.io/image-processing/instructor/08-connected-components.html#connected-component-analysis). <br/>This lesson is designed to be taught with a [JupyterLab](https://jupyter.org/) environment - check [the lesson's Instructor Notes](https://datacarpentry.github.io/image-processing/instructor/instructor-notes.html#working-with-jupyter-notebooks) for further guidance. |
+
+
+### HPC Carpentry {#hpcc}
+
+|  Lesson   | Recommended Episodes | [**Not Eligible for Demos**](#ineligible) | Notes
+|---------- |--------------- |--------------- |------------------------- |
+| [Using High-Performance Computing Systems](https://carpentries-incubator.github.io/hpc-intro/) | \* [Connecting to a Remote HPC System](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html)  | All other episdoes  | If using [Connecting to a Remote HPC System](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html), start from [Better Security with SSH Keys](https://carpentries-incubator.github.io/hpc-intro/11-connecting.html#better-security-with-ssh-keys).<br/>All other episodes require connection to a remote cluster system and should not be used for demos. |
+| [HPC Workflow Management with Snakemake ](https://carpentries-incubator.github.io/hpc-workflows/) | none  | all episodes  | This lesson requires connection to a remote cluster system and should not be used for demos. |
 
 
 ### Library Carpentry {#lc}
