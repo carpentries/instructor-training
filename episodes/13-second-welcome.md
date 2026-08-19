@@ -36,7 +36,7 @@ how to create a positive classroom environment, addressing the first two goals.
 We started to address the third goal by discussing the importance of lesson study
 and observation, and by providing an opportunity to teach and
 receive feedback. We will continue that skill development process in Part 3 and 4, as we
-focus on the specifics of teaching Software Carpentry, Data Carpentry, and Library Carpentry workshops.
+focus on the specifics of teaching Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry workshops.
 We will review specific
 teaching practices we follow at our workshops and practice using some of them. One of the most important practices
 in The Carpentries is participatory live coding.  We will spend some time practicing this skill for multiple reasons:

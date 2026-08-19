@@ -19,7 +19,7 @@ be teaching or you had no idea what the course was supposed to be about?
 ## Why is the environment important
 
 
-- In Software, Data, and Library Carpentry we are teaching not only a set of skills,
+- In a Carpentries workshop we are teaching not only a set of skills,
 but at least as importantly we are trying to empower learners and give them the confidence to use
 these tools and learn more on their own.
 
@@ -94,8 +94,9 @@ You want to convey
 ### Clarify learning objectives and expectations
 
 - let people know what the prerequisites are
-For Data and Library Carpentry, no prior computational experience is required and for
+For Library Carpentry and most Data Carpentry curricula, no prior computational experience is required and for
 Software Carpentry it can vary.
+The Software Carpentry UNIX Shell lesson is a prerequisite for an HPC Carpentry workshop.
 - highlight the main aspects of the schedule
 - highlight the learning objectives
 - highlight the approach we are using - hands on! - and that all materials

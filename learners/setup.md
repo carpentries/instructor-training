@@ -62,4 +62,5 @@ If you are having trouble choosing an episode, we recommend choosing one of the 
     - [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)
     - [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html)
 
-
+No episodes from HPC Carpentry lessons are included in the list above as these require a connection to a remote cluster environment. 
+If you are keen to teach something related to HPC Carpentry, we recommend [Software Carpentry's The Unix Shell](https://swcarpentry.github.io/shell-novice/).
