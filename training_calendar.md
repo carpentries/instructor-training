@@ -44,8 +44,7 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [8-11 September 2026](https://www.eventbrite.com/e/online-instructor-training-september-8-11-2026-tickets-1990816337256)
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon - 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Training&iso=20260908T09&p1=137&ah=4)
+**New events will be added soon. Please check back by Monday, 7 September.**
 
 <hr>
 
