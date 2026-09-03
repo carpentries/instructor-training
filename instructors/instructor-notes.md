@@ -320,7 +320,7 @@ Points to make during wrap-up:
 [trainer-pad]: https://pad.carpentries.org/trainers
 [training-repo]: https://carpentries.github.io/instructor-training/
 [great-slide-issue]: https://github.com/carpentries/instructor-training/issues/680
-[slides-folder]: https://drive.google.com/drive/folders/10ncHtw4ZtNZD0ozW0rG5C-Q4yFetRY1t
+[slides-folder]: https://drive.google.com/drive/u/1/folders/152pCo6OMTxybo00rIIIvsR1M_i-nBE_f
 [zoom-home]: https://www.zoom.us/
 [zoom-host-key]: https://support.zoom.us/hc/en-us/articles/115001315866-Host-Key-Control-For-Zoom-Rooms
 
