@@ -327,11 +327,11 @@ Whatever path you choose, **you must submit this step** to have it counted towar
 requirement for checkout. This is true even if you attend an event where attendance is taken.
 
 For this checkout task, please:
-1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
-2. Once you have logged in, select "Training progress" at the top of the screen.
-3. Select the checkbox that best describes your step to Get Involved with The Carpentries.
-3. Enter the information requested with your checkbox.
-4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
+1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.  
+2. Once you have logged in, select "Training progress" at the top of the screen.  
+3. Select the checkbox that best describes your step to Get Involved with The Carpentries.  
+3. Enter the information requested with your checkbox.  
+4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.  
 
 If you have difficulty logging in to AMY, please:
 1. Verify that you have completed the [Instructor Training Profile Creation Form][application] and that you have included a GitHub username when you complete the form. Both the form and the GitHub username are necessary for us to create a profile that you can login to use.
