@@ -12,15 +12,9 @@ In addition to Instructor Training, certification as a Carpentries Instructor in
 
 ### How to Register for an Instructor Training
 
-Invited trainees can register for events listed in [Pretix](https://pretix.carpentries.org/training/instructor-training/). Registration is listed at full price. If you were invited through a partner organisation or other group, contact the person who invited you for a registration voucher code to remove the registration fee.
+Invited trainees can register for events listed in [Pretix](https://pretix.carpentries.org/training/instructor-training/). Registration is listed at full price. If you were invited through a Partner Organisation or other group, contact the person who invited you for a registration voucher code to remove the registration fee.
 
 In addition to registering via Preitx, you **must** complete the [Instructor Training Profile Creation Form](https://amy.carpentries.org/forms/request_training/) before attending Instructor Training. This creates an entry in our database and allows us to record attendance and track your progress through the Instructor certification process. Please use the same registration code that was provided for Pretix.
-
-### When to Register
-
-#### Partner organizations and other groups
-
-Registration codes provided to Carpentries partner organizations and other groups are active immediately and may be used for any event until one week prior to its start date.
 
 ### Cancellation Policies
 
