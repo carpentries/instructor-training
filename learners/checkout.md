@@ -78,10 +78,9 @@ access or in association with larger events like conferences or extended worksho
 
 ### Getting Credit
 
-After each Welcome Session, hosts submit a form that includes the names of attendees who identified themselves as
-fulfilling their Instructor checkout requirement. This is indicated by writing "checkout" next to your name when you register in the Etherpad.
-As long as you
-indicate that you are completing checkout and attend the event you are signed up for, it is not necessary to email us after attending a Welcome Session.
+You must indicate that you are attending as part of Instructor Training checkout during the [registration 
+process in Pretix](https://pretix.carpentries.org/community-events/welcome-sessions/).  Once you do so,
+our team will record your participation within a week after the session.  There is nothing else you need to do.
 
 
 ## 2\. Teaching Demonstration {#demonstration}
@@ -145,14 +144,8 @@ you can now view a [recording of this session](https://youtu.be/3NCpPk8jvQo?si=h
 
 ### Sign-up and Set-up
 
-To sign up, select a session that works for you on [the Instructor Training Demonstration Sessions Etherpad](https://pad.carpentries.org/teaching-demos), and add
-your name and a link to your chosen episode to that Etherpad. Be sure to **double check the time in your local time zone** by clicking on the converter link posted.
-Also, examine the demo description to ensure that it is not a special session targeting a specific sub-community or
-language (unless you are part of that target group).
+To sign up, [register for an event as listed in Pretix](https://pretix.carpentries.org/training/teaching-demos/).
 
-The link to connect to the video conference is at the top of the Teaching Demos Etherpad.
-Your Trainer may send an email with confirmation and/or additional instructions prior to your demo.
-If possible, plan to use a headset with built-in microphone for the best audio experience.
 
 ### During the Demo
 
