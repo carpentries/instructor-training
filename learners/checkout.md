@@ -321,11 +321,11 @@ requirement for checkout. This is true even if you attend an event where attenda
 
 For this checkout task, please:
 
-1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.
-2. Once you have logged in, select "Training progress" at the top of the screen.
-3. Select the checkbox that best describes your step to Get Involved with The Carpentries.
-3. Enter the information requested with your checkbox.
-4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.
+1. log in to your [AMY profile][handbook-amy]. If you are unable to login to AMY, please see below.  
+2. Once you have logged in, select "Training progress" at the top of the screen.  
+3. Select the checkbox that best describes your step to Get Involved with The Carpentries.  
+3. Enter the information requested with your checkbox.  
+4. Your contribution should be evaluated in 7-10 days. We suggest checking back to ensure that your contribution was accepted.  
 
 If you have difficulty logging in to AMY, please:
 
