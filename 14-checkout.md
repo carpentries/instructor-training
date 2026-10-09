@@ -53,16 +53,11 @@ This exercise should take about 10 minutes.
 
 ## Schedule a Checkout Step
 
-Take a moment to review your calendar and sign up for one or more sessions to get your checkout process rolling!
-
-Visit the Welcome Session Pretix sign up page: <https://pretix.carpentries.org/community-events/welcome-sessions/>
-
-Visit the Teaching Demonstrations Etherpad: <https://pad.carpentries.org/teaching-demos>
-
-If you would like to attend another community session for your 'Get Involved' step, visit the 
+Dates and sign-ups for Welcome Sessions, Teaching Demos, and other Community Sessions (if you choose one for your 'Get involved' step) can all be found at the 
 Community Calendar: <https://carpentries.org/community/events>
 
-**There are not automatic reminders for any events you sign up for on an Etherpad.**
+Please make sure to visit the Pretix sign-up link in the event description to ensure space is reserved and you receive notifications about the event.
+
 It might also be a good idea to put the event on your calendar and use that to set reminders if you will need them. 
 
 This exercise should take 5 minutes.
