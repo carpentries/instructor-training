@@ -78,7 +78,7 @@ In July 2024, HPC Carpentry entered Lesson Program Incubation, beginning the off
 
 On February 1, 2025, The Carpentries became an independent 501(c)(3) non-profit organisation, now called The Carpentries, Inc. (The Carpentries), governed by a [Board of Directors](https://carpentries.org/about-us/governance/). Non-profit status provides a stable foundation for long-term planning and sustainability. As an independent organisation, The Carpentries has more flexibility in decision-making, program development, and organisational structure, allowing the opportunity to adapt more easily to the changing needs of the community. 
 
-[HPC Carpentry](https://hpc-carpentry.org) joined The Carpentries on 1 September 2026, becoming the fourth official lesson program after an incubation and adoption process that had lasted approximately two years.
+[HPC Carpentry](https://hpc-carpentry.org) joined The Carpentries on 1 November 2026, becoming the fourth official lesson program after an incubation and adoption process that had lasted approximately two years.
 
 The Carpentries administration and other essential operations are managed by the [Core Team][coreteam-page],
 but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities.
