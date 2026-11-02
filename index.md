@@ -33,7 +33,7 @@ Carpentries Instructor Training has the following goals:
 
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 
-- How to program in R or Python, use the Unix shell, Git or SQL, or any of the other topics taught in Data Carpentry, Library Carpentry, or Software Carpentry workshops.
+- How to program in R or Python, use the Unix shell, Git or SQL, or any of the other topics taught in Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry workshops.
 - How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more, for example in our [lesson development training][cldt-curriculum]).
 
 If you would like to attend Instructor Training, please visit the [Become an Instructor page](https://carpentries.org/become-instructor/) on
@@ -42,11 +42,11 @@ The Carpentries website for details on admission.
 Instructor Training events are hands-on throughout: short lessons alternate with individual
 and group practical exercises, including practice teaching sessions. Those who attend the
 full training and all three checkout steps will be certified as a Carpentries Instructor
-and will be eligible to teach [Data Carpentry](https://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/),
-and [Software Carpentry](https://software-carpentry.org/) workshops throughout our global community.
+and will be eligible to teach [Data Carpentry](https://datacarpentry.org/), [HPC Carpentry](https://hpc-carpentry.org)
+[Library Carpentry](https://librarycarpentry.org/), and [Software Carpentry](https://software-carpentry.org/) workshops throughout our global community.
 
 - All participants are required to abide by our [Code of Conduct][conduct].
-- There are no specific prerequisites for this training, but participants will benefit from having attended a Data Carpentry, Software Carpentry, or Library Carpentry workshop either as learner or helper so that they are familiar with our teaching techniques and the style of our workshops.
+- There are no specific prerequisites for this training, but participants will benefit from having attended a Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry workshop either as learner or helper so that they are familiar with our teaching techniques and the style of our workshops.
 - Participants are not required to have any specific programming skills (though they should know enough about the subjects of one or more of our lessons to be able to teach them).
   An Instructor Training event is the first step towards certification as a Carpentries Instructor. For more details on the other 3 steps, see the [Checkout Instructions page](learners/checkout.md) on this site.
 

@@ -19,7 +19,7 @@ Carpentries Instructor Training has the following goals:
 Because we have only limited time, some things are beyond the scope of this training. 
 We will not be learning:
 
-* How to program in R or Python, use Git or SQL, or any of the other topics taught in [Data Carpentry](https://datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/), or [Software Carpentry](https://software-carpentry.org/) workshops.
+* How to program in R or Python, use Git or SQL, or any of the other topics taught in [Data Carpentry](https://datacarpentry.org/), [HPC Carpentry](https://hpc-carpentry.org/), [Library Carpentry](https://librarycarpentry.org/), or [Software Carpentry](https://software-carpentry.org/) workshops.
 * How to create your own lessons from scratch. However, this Instructor Training serves as a good precursor to [The Carpentries Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/).
 
 Instructor Training events are hands-on throughout: short lessons alternate with individual and group practical exercises, including practice teaching sessions.

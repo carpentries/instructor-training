@@ -135,7 +135,7 @@ Now, we would like to get to know all of you.
 For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
 in the Etherpad below to write a short response to the last question.
 
-**Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?**
+**Have you ever participated in a Data Carpentry, HPC Carpentry, Library Carpentry or Software Carpentry Workshop?**
 
 1. Yes, I have taken a workshop.
 2. Yes, I have been a workshop helper.
@@ -168,15 +168,15 @@ organisation before starting the training.
 
 ![](fig/Scene_1_blue_stickies_labeled.jpeg){alt='Image of action figures in a workshop with Instructor, Co-Instructor, helper, and Sticky Notes labeled' width="900px" }
 
-Software Carpentry, Data Carpentry, and Library Carpentry
-are official Lesson Programs of The Carpentries.
+Data Carpentry, HPC Carpentry, Library Carpentry, and Software Carpentry are official Lesson Programs of The Carpentries.
 The Carpentries is a **global community of volunteer researchers, educators, and others** oriented around
 improving basic computing and data skills for
 researchers through intensive, short-format workshops.
 
-- Software Carpentry focuses on helping researchers develop foundational computational skills
 - Data Carpentry focuses on helping researchers work effectively with their data through its lifecycle
-- Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
+- HPC (High-Performance Computing) Carpentry focuses on preparing researchers to work on a shared, distributed remote compute environment
+- Library Carpentry focuses on teaching data skills to people working in library- and information-related roles
+- Software Carpentry focuses on helping researchers develop foundational computational skills.
 
 The main goal of The Carpentries is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
@@ -227,8 +227,7 @@ Instructor Trainers at this event is your first step into The Carpentries commun
 
 ## What We Leave Out
 
-We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
-familiarity with some of the content through the exercises),
+We will **not** be going over Data Carpentry, HPC Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain familiarity with some of the content through the exercises).
 This training is a significant requirement for becoming a certified Carpentries Instructor.
 The additional steps for certification, called *Checkout*, will require that you dig into the workshop content yourself. We will talk about checkout requirements more in part 3 of this training.
 
