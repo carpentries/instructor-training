@@ -627,7 +627,7 @@
         
 <section id="aio-01-welcome"><p>Content from <a href="01-welcome.html">Welcome</a></p>
 <hr>
-<p>Last updated on 2025-11-13 |
+<p>Last updated on 2026-11-02 |
 
         <a href="https://github.com/carpentries/instructor-training/edit/main/episodes/01-welcome.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 30 minutes</p>
@@ -670,7 +670,7 @@ an incident.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>In an online training, ensure that captions are turned on, that one
 trainer claims host, and that the host adds other trainers as co-hosts.
@@ -706,7 +706,7 @@ listed when participants provide them.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Further reading on pronouns </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>The resources below can provide additional guidance on respectful
 pronoun usage:</p>
@@ -738,7 +738,7 @@ Grand-Duc, Wikipedia, <a href="https://en.wikipedia.org/wiki/User:Grand-Duc" cla
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Getting to know each other </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>There are multiple ways to build a sense of community early in an
 instructor training event and help ensure participants engage fully with
@@ -828,8 +828,9 @@ Goals</h3>
 <p>For the multiple choice questions below, please place an “X” next to
 the response(s) that best apply to you. Then find yourself a spot in the
 Etherpad below to write a short response to the last question.</p>
-<p><strong>Have you ever participated in a Software Carpentry, Data
-Carpentry, or Library Carpentry Workshop?</strong></p>
+<p><strong>Have you ever participated in a Data Carpentry, HPC
+Carpentry, Library Carpentry or Software Carpentry
+Workshop?</strong></p>
 <ol style="list-style-type: decimal">
 <li>Yes, I have taken a workshop.</li>
 <li>Yes, I have been a workshop helper.</li>
@@ -864,18 +865,22 @@ training.</p>
 </section><section><h2 class="section-heading" id="a-brief-overview-of-the-carpentries">A Brief Overview of The Carpentries<a class="anchor" aria-label="anchor" href="#a-brief-overview-of-the-carpentries"></a>
 </h2>
 <hr class="half-width">
-<figure><img src="../fig/Scene_1_blue_stickies_labeled.jpeg" alt="Image of action figures in a workshop with Instructor, Co-Instructor, helper, and Sticky Notes labeled" width="900" class="figure mx-auto d-block"></figure><p>Software Carpentry, Data Carpentry, and Library Carpentry are
-official Lesson Programs of The Carpentries. The Carpentries is a
-<strong>global community of volunteer researchers, educators, and
-others</strong> oriented around improving basic computing and data
-skills for researchers through intensive, short-format workshops.</p>
+<figure><img src="../fig/Scene_1_blue_stickies_labeled.jpeg" alt="Image of action figures in a workshop with Instructor, Co-Instructor, helper, and Sticky Notes labeled" width="900" class="figure mx-auto d-block"></figure><p>Data Carpentry, HPC Carpentry, Library Carpentry, and Software
+Carpentry are official Lesson Programs of The Carpentries. The
+Carpentries is a <strong>global community of volunteer researchers,
+educators, and others</strong> oriented around improving basic computing
+and data skills for researchers through intensive, short-format
+workshops.</p>
 <ul>
-<li>Software Carpentry focuses on helping researchers develop
-foundational computational skills</li>
 <li>Data Carpentry focuses on helping researchers work effectively with
 their data through its lifecycle</li>
+<li>HPC (High-Performance Computing) Carpentry focuses on preparing
+researchers to work on a shared, distributed remote compute
+environment</li>
 <li>Library Carpentry focuses on teaching data skills to people working
-in library- and information-related roles.</li>
+in library- and information-related roles</li>
+<li>Software Carpentry focuses on helping researchers develop
+foundational computational skills.</li>
 </ul>
 <p>The main goal of The Carpentries is not to teach specific skills, per
 se - although those are covered - but rather, to convey best practices
@@ -945,11 +950,11 @@ step into The Carpentries community.</p>
 </section><section><h2 class="section-heading" id="what-we-leave-out">What We Leave Out<a class="anchor" aria-label="anchor" href="#what-we-leave-out"></a>
 </h2>
 <hr class="half-width">
-<p>We will <strong>not</strong> be going over Data Carpentry, Library
-Carpentry, or Software Carpentry workshop content in detail (although
-you will gain familiarity with some of the content through the
-exercises), This training is a significant requirement for becoming a
-certified Carpentries Instructor. The additional steps for
+<p>We will <strong>not</strong> be going over Data Carpentry, HPC
+Carpentry, Library Carpentry, or Software Carpentry workshop content in
+detail (although you will gain familiarity with some of the content
+through the exercises). This training is a significant requirement for
+becoming a certified Carpentries Instructor. The additional steps for
 certification, called <em>Checkout</em>, will require that you dig into
 the workshop content yourself. We will talk about checkout requirements
 more in part 3 of this training.</p>
@@ -1770,7 +1775,7 @@ expert?</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Some points to touch on in discussion: - the feeling of expertise as
 an instructor vs practitioner - the difference between expert knowledge
@@ -1989,7 +1994,7 @@ unclear?</li>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>It is hard to break the habit of trying to convince learners that a
 task is “easy”! A few alternatives might include statements like:</p>
@@ -3429,7 +3434,7 @@ information.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>In your discussion of accessibility, it is helpful to point out that
 accessibility may not always affect only individual learners, such as
@@ -4140,7 +4145,7 @@ and expectations.</li>
 </div>
 </section></section><section id="aio-12-homework"><p>Content from <a href="12-homework.html">End Part 2 and Preparation for the Next Part</a></p>
 <hr>
-<p>Last updated on 2026-03-24 |
+<p>Last updated on 2026-11-02 |
 
         <a href="https://github.com/carpentries/instructor-training/edit/main/episodes/12-homework.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 20 minutes</p>
@@ -4248,6 +4253,9 @@ Data Frames in R</a></li>
 </ul>
 </li>
 </ul>
+<p>(No episodes from HPC Carpentry lessons are included in the list
+above as these require a connection to a remote cluster
+environment.)</p>
 <div id="feedback" class="callout challenge">
 <div class="callout-square">
 <i class="callout-icon" data-feather="zap"></i>
@@ -4306,7 +4314,7 @@ and teaching practices.</li>
 </div>
 </div></section><section id="aio-13-second-welcome"><p>Content from <a href="13-second-welcome.html">Welcome Back</a></p>
 <hr>
-<p>Last updated on 2025-06-04 |
+<p>Last updated on 2026-11-02 |
 
         <a href="https://github.com/carpentries/instructor-training/edit/main/episodes/13-second-welcome.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 10 minutes</p>
@@ -4362,19 +4370,19 @@ addressing the first two goals. We started to address the third goal by
 discussing the importance of lesson study and observation, and by
 providing an opportunity to teach and receive feedback. We will continue
 that skill development process in Part 3 and 4, as we focus on the
-specifics of teaching Software Carpentry, Data Carpentry, and Library
-Carpentry workshops. We will review specific teaching practices we
-follow at our workshops and practice using some of them. One of the most
-important practices in The Carpentries is participatory live coding. We
-will spend some time practicing this skill for multiple reasons: one,
-you rarely find this approach in a current university setting so it is
-good to try it out, but also, this will give us a chance to continue
-developing skills we discussed so far that help improve our teaching:
-reflective practice and providing (and receiving!) constructive
-feedback. In the final sections of the training, we will conclude our
-training with a discussion about workshop logistics that will help you
-in preparing to teach your first workshop and become involved in The
-Carpentries community.</p>
+specifics of teaching Data Carpentry, HPC Carpentry, Library Carpentry,
+and Software Carpentry workshops. We will review specific teaching
+practices we follow at our workshops and practice using some of them.
+One of the most important practices in The Carpentries is participatory
+live coding. We will spend some time practicing this skill for multiple
+reasons: one, you rarely find this approach in a current university
+setting so it is good to try it out, but also, this will give us a
+chance to continue developing skills we discussed so far that help
+improve our teaching: reflective practice and providing (and receiving!)
+constructive feedback. In the final sections of the training, we will
+conclude our training with a discussion about workshop logistics that
+will help you in preparing to teach your first workshop and become
+involved in The Carpentries community.</p>
 <div id="questions" class="callout challenge">
 <div class="callout-square">
 <i class="callout-icon" data-feather="zap"></i>
@@ -4417,7 +4425,7 @@ they can immediately put to use and be enthusiastic about it.</li>
 </div>
 </div></section><section id="aio-14-checkout"><p>Content from <a href="14-checkout.html">Getting Started on Instructor Certification</a></p>
 <hr>
-<p>Last updated on 2026-10-12 |
+<p>Last updated on 2026-11-02 |
 
         <a href="https://github.com/carpentries/instructor-training/edit/main/episodes/14-checkout.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 30 minutes</p>
@@ -4520,13 +4528,13 @@ use that to set reminders if you will need them.</p>
 <ul>
 <li>
 <strong>You can teach any Carpentries workshops!</strong>
-Carpentries Instructor badges are valid to teach any Software Carpentry,
-Data Carpentry, or Library Carpentry lesson. You can teach branded
-workshops locally, or network with experienced co-Instructors as a
-volunteer with our global community. While local co-Instructors need not
-be badged or experienced, every Carpentries branded workshop must have
-at least one badged Instructor to lead the way. (More on branding in the
-next episode!)</li>
+Carpentries Instructor badges are valid to teach any Data Carpentry, HPC
+Carpentry, Library Carpentry, or Software Carpentry lesson. You can
+teach branded workshops locally, or network with experienced
+co-Instructors as a volunteer with our global community. While local
+co-Instructors need not be badged or experienced, every Carpentries
+branded workshop must have at least one badged Instructor to lead the
+way. (More on branding in the next episode!)</li>
 <li>
 <strong>You get to vote!</strong> Badged Instructors are eligible to
 vote in Carpentries Board of Directors elections for their first year,
@@ -4557,7 +4565,7 @@ event.</li>
 </div>
 </section></section><section id="aio-15-carpentries"><p>Content from <a href="15-carpentries.html">The Carpentries: How We Operate</a></p>
 <hr>
-<p>Last updated on 2026-08-05 |
+<p>Last updated on 2026-11-02 |
 
         <a href="https://github.com/carpentries/instructor-training/edit/main/episodes/15-carpentries.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 45 minutes</p>
@@ -4658,6 +4666,8 @@ literacy.</p>
 <p>Also in 2014, <a href="https://librarycarpentry.org/" class="external-link">Library
 Carpentry</a> was founded with the mission of teaching data skills to
 people working in library- and information-related roles.</p>
+<p>In 2017, the first conference session connecting the <a href="https://hpc-carpentry.org" class="external-link">HPC Carpentry</a> community took
+place.</p>
 <p>On January 1, 2018, Software Carpentry and Data Carpentry merged to
 form a new project called <a href="https://carpentries.org/" class="external-link">The
 Carpentries</a> under the fiscal sponsorship of <a href="https://communityin.org/" class="external-link">Community Initiatives</a>. Within this
@@ -4666,6 +4676,9 @@ retained their identities as Lesson Programs of The Carpentries. On
 November 1, 2018, The Carpentries Executive Council (succeeded by Board
 of Directors in 2025) approved <a href="https://librarycarpentry.org/" class="external-link">Library Carpentry</a> as the third
 official Lesson Program of The Carpentries.</p>
+<p>In July 2024, HPC Carpentry entered Lesson Program Incubation,
+beginning the official process that leads to adoption into The
+Carpentries.</p>
 <p>On February 1, 2025, The Carpentries became an independent 501(c)(3)
 non-profit organisation, now called The Carpentries, Inc. (The
 Carpentries), governed by a <a href="https://carpentries.org/about-us/governance/" class="external-link">Board of
@@ -4674,6 +4687,10 @@ long-term planning and sustainability. As an independent organisation,
 The Carpentries has more flexibility in decision-making, program
 development, and organisational structure, allowing the opportunity to
 adapt more easily to the changing needs of the community.</p>
+<p><a href="https://hpc-carpentry.org" class="external-link">HPC Carpentry</a> joined The
+Carpentries on 1 November 2026, becoming the fourth official lesson
+program after an incubation and adoption process that had lasted
+approximately two years.</p>
 <p>The Carpentries administration and other essential operations are
 managed by the <a href="https://carpentries.org/team/" class="external-link">Core Team</a>,
 but the majority of our impact is achieved through the efforts of
@@ -4691,13 +4708,15 @@ participants who are not necessarily connected with or even aware of our
 global activities, including helpers, learners, faculty sponsors, and
 others who contribute to keep communities thriving and growing ‘on the
 ground.’</p>
-<figure><img src="../fig/The-Carpentries-History-Timeline.png" alt="A graphic depicting the development of The Carpentries. It is titled “A Brief History of The Carpentries” with The Carpentries logo to the left of the title. The graphic is a snaking timeline chart summarising significant transitions in The Carpentries' history from 1998 to 2025. Not all years are represented. Under each year is a brief summary of the key developments in that year, with logos of the funder organisations that supported that phase of the organisation's projects. The dates and accompanying text are as follows: 1998: Software Carpentry is founded by Greg Wilson and Brent Gorda. 2001: Lesson materials are made open source with support from the Python Software Foundation. 2003: Software Carpentry efforts scaled with support from Alfred P. Sloan Foundation &amp; Mozilla Science Lab. 2013: First Software Carpentry for Librarians workshops in US &amp; Canada. 2014: Data Carpentry founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from NSF. 2014: James Baker receives support from Software Sustainability Institute to develop and implement Library Carpentry. 2014: Software Carpentry Foundation is founded under NumFOCUS. 2015: Data Carpentry efforts scaled with support from the Gordon and Betty Moore Foundation. 2018: Software Carpentry &amp; Data Carpentry merge to form The Carpentries as a fiscally sponsored project of Community Initiatives. Library Carpentry later joins as a new lesson program. 2019: CZI supports The Carpentries to scale its programs, and build capacity with local communities. 2020: Online Workshops begin. 2025: On 1 February The Carpentries transitions out of fiscal sponsor-ship into an independent 501(c)(3) non-profit organisation." class="figure mx-auto d-block"></figure><p>You can learn more about the history and goals of each Lesson Program
+<figure><img src="../fig/The-Carpentries-History-Timeline.png" alt="A graphic depicting the development of The Carpentries. It is titled “A Brief History of The Carpentries” with The Carpentries logo to the left of the title. The graphic is a snaking timeline chart summarising significant transitions in The Carpentries' history from 1998 to 2025. Not all years are represented. Under each year is a brief summary of the key developments in that year, with logos of the funder organisations that supported that phase of the organisation's projects. The dates and accompanying text are as follows: 1998: Software Carpentry is founded by Greg Wilson and Brent Gorda. 2001: Lesson materials are made open source with support from the Python Software Foundation. 2003: Software Carpentry efforts scaled with support from Alfred P. Sloan Foundation &amp; Mozilla Science Lab. 2013: First Software Carpentry for Librarians workshops in US &amp; Canada. 2014: Data Carpentry founded by Karen Cranston, Hilmar Lapp, Tracy Teal, and Ethan White with support from NSF. 2014: James Baker receives support from Software Sustainability Institute to develop and implement Library Carpentry. 2014: Software Carpentry Foundation is founded under NumFOCUS. 2015: Data Carpentry efforts scaled with support from the Gordon and Betty Moore Foundation. 2018: Software Carpentry &amp; Data Carpentry merge to form The Carpentries as a fiscally sponsored project of Community Initiatives. Library Carpentry later joins as a new lesson program. 2019: CZI supports The Carpentries to scale its programs, and build capacity with local communities. 2020: Online Workshops begin. 2025: On 1 February The Carpentries transitions out of fiscal sponsor-ship into an independent 501(c)(3) non-profit organisation. 2026: High Performance Computing (HPC) Carpentry, founded in 2018, joins as the fourth lesson program." class="figure mx-auto d-block"></figure><p>You can learn more about the history and goals of each Lesson Program
 by reading:</p>
 <ul>
 <li><a href="https://f1000research.com/articles/3-62/v2" class="external-link">Software
 Carpentry: Lessons Learned</a></li>
 <li><a href="https://ijdc.net/index.php/ijdc/article/view/10.1.135" class="external-link">Data
 Carpentry: Workshops to Increase Data Literacy for Researchers</a></li>
+<li><a href="https://jocse.org/articles/11/1/4/" class="external-link">Expanding user
+communities with HPC Carpentry</a></li>
 <li><a href="https://doi.org/10.18352/lq.10176" class="external-link">Library Carpentry:
 software skills training for library professionals</a></li>
 </ul></section><section><h2 class="section-heading" id="similarities-and-differences-between-the-carpentries-lesson-programs">Similarities and Differences between The Carpentries Lesson
@@ -4710,27 +4729,111 @@ workshops; teaching openly available, high-quality, community-developed
 lessons; and fostering an active, inclusive, diverse instructor
 community that promotes and models reproducible research as a community
 norm.</p>
-<p>Similarities between Data Carpentry, Library Carpentry, and Software
-Carpentry workshops include:</p>
+<p>Similarities between Data Carpentry, HPC Carpentry, Library
+Carpentry, and Software Carpentry workshops include:</p>
 <ul>
 <li>a focus on technical skills,</li>
 <li>a two full day or four half day format taught by volunteer
 instructors, and</li>
 <li>a focus on filling gaps in current training for learners.</li>
 </ul>
-<p>The major differences between Data Carpentry, Library Carpentry, and
-Software Carpentry workshops are their content and intended audience.
-Their similarities and differences are depicted in this diagram:</p>
-<figure><img src="../fig/carpentries-venn-diagram_20200904.svg" alt="Three intersecting circles labelled Software Carpentry, Data Carpentry, and Library Carpentry. Software and Data Carpentry both focus on research focused computational skills. Data and Library Carpentry are both domain targeted. Software and Library Carpentry both have a modular curriculum. All three Lesson Programs provide novice-level training, two-day workshops to address gaps in computational skills, taught by volunteer instructors applying Carpentries teaching practices." class="figure mx-auto d-block"></figure></section><section><h2 class="section-heading" id="what-is-a-carpentries-workshop-the-rules">What is a Carpentries Workshop? The Rules<a class="anchor" aria-label="anchor" href="#what-is-a-carpentries-workshop-the-rules"></a>
+<p>The major differences between Data Carpentry, HPC Carpentry, Library
+Carpentry, and Software Carpentry workshops are their content and
+intended audience. Their similarities and differences are depicted in
+the following table:</p>
+<table style="width:100%;" class="table">
+<colgroup>
+<col width="46%">
+<col width="13%">
+<col width="13%">
+<col width="13%">
+<col width="13%">
+</colgroup>
+<thead><tr>
+<th align="left"></th>
+<th>Data Carpentry</th>
+<th>HPC Carpentry</th>
+<th>Library Carpentry</th>
+<th>Software Carpentry</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="left">novice-level training</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">volunteer instructors applying Carpentries teaching
+practices</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">two-day workshops (flexible scheduling)</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">address gaps in computational skills</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">modular curriculum</td>
+<td>no</td>
+<td>no</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">teaches research-focused computational skills</td>
+<td>✅</td>
+<td>✅</td>
+<td>no</td>
+<td>✅</td>
+</tr>
+<tr>
+<td align="left">domain-targeted</td>
+<td>✅</td>
+<td>no</td>
+<td>✅</td>
+<td>no</td>
+</tr>
+</tbody>
+</table>
+<div id="accordionInstructor3" class="accordion instructor-note accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor3" aria-expanded="false" aria-controls="collapseInstructor3">
+  <h3 class="accordion-header" id="headingInstructor3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Image of this table </h3>
+</button>
+<div id="collapseInstructor3" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor3" aria-labelledby="headingInstructor3">
+<div class="accordion-body">
+<p>An image displaying the information in this table, for use in slide
+decks etc, is available at
+<code>episodes/fig/lesson-program-comparison.png</code>.</p>
+</div>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="what-is-a-carpentries-workshop-the-rules">What is a Carpentries Workshop? The Rules<a class="anchor" aria-label="anchor" href="#what-is-a-carpentries-workshop-the-rules"></a>
 </h2>
 <hr class="half-width">
 <div class="section level3">
 <h3 id="using-the-names-and-logos">Using the Names and Logos<a class="anchor" aria-label="anchor" href="#using-the-names-and-logos"></a>
 </h3>
-<p>The names “Data Carpentry”, “Library Carpentry”, and “Software
-Carpentry” and their respective logos are all trademarked. You may only
-call a workshop a Data Carpentry, Library Carpentry, or Software
-Carpentry workshop if it meets the requirements outlined on <a href="https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops" class="external-link">The
+<p>The names “Data Carpentry”, “HPC Carpentry”, “Library Carpentry”, and
+“Software Carpentry” and their respective logos are all trademarked. You
+may only call a workshop a Data Carpentry, HPC Carpentry, Library
+Carpentry, or Software Carpentry workshop if it meets the requirements
+outlined on <a href="https://carpentries.org/workshops/host-workshop/#curriculum-requirements-for-standard-carpentries-workshops" class="external-link">The
 Carpentries website</a>.</p>
 <p>Note that as long as you have at least one certified Instructor, the
 other instructors and helpers at a branded workshop do not have to be
@@ -4775,13 +4878,14 @@ are in effect. Other workshops may be described as being
 </h3>
 <p>If you do decide to self-organise a workshop of any length that does
 not fit the requirements of a lesson program but does draw from our
-officially recognised Data Carpentry, Library Carpentry, or Software
-Carpentry lessons, we would still like to know about it! This helps us
-to better evaluate our impact, and also to understand what the community
-wants and needs from our materials. You can report your “mix-and-match”
-workshop to us (and take advantage of our pre- and post- assessment
-surveys!) by selecting “Register a self-organised workshop” on our <a href="https://amy.carpentries.org/forms/workshop/" class="external-link">workshop request
-page</a>.</p>
+officially recognised Data Carpentry, HPC Carpentry, Library Carpentry,
+or Software Carpentry lessons, we would still like to know about it!
+This helps us to better evaluate our impact, and also to understand what
+the community wants and needs from our materials. You can report your
+“mix-and-match” workshop to us (and take advantage of our pre- and post-
+assessment surveys!) by selecting “Register a self-organised workshop”
+on our <a href="https://amy.carpentries.org/forms/workshop/" class="external-link">workshop
+request page</a>.</p>
 <p>We also want to know when you teach a lesson from The Carpentries
 Incubator or The Carpentries Lab. To register a workshop teaching one of
 these community-owned lessons, please complete the form available on <a href="https://carpentries-incubator.org/" class="external-link">The Carpentries Incubator
@@ -4933,9 +5037,9 @@ write them in the Etherpad.</p>
 </h2>
 <hr class="half-width">
 <p>Maybe this instructor training has inspired you to go home and write
-your own fantastic lesson! If you would like to model it after the
-Software, Data and Library Carpentry lesson format, you can find two
-Workbench lesson templates available:</p>
+your own fantastic lesson!<br>
+If you would like to model it after The Carpentries lesson format, you
+can find two Workbench lesson templates available:</p>
 <ul>
 <li>
 <a href="https://github.com/carpentries/workbench-template-md/" class="external-link">Markdown</a>:
@@ -5138,7 +5242,7 @@ both a learner’s and an instructor’s point of view in the Etherpad.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>Some advantages are:</p>
 <ul>
@@ -5231,7 +5335,7 @@ is assumed learners are familiar with how to use a variable, the
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <p>The instructor will lead a discussion about the videos and your
 feedback on them, making sure that the points of the Top Ten Tips below
@@ -5348,7 +5452,7 @@ note-taker should record feedback in the Etherpad.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>On Zoom, Remember to send broadcast messages to remind trainees to
 switch roles, sample language is below:</p>
@@ -5861,7 +5965,7 @@ your screen to give your eyes a rest.</p></section><section id="aio-20-performan
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>In an online training, ensure that captions are turned on, that one
 trainer claims host, and that the host adds other trainers as co-hosts.
@@ -5920,7 +6024,7 @@ minutes for teaching, and 10 minutes for de-brief.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
 <div class="accordion-body">
 <p>On Zoom, Remember to send broadcast messages to remind trainees to
 switch roles, sample language is below:</p>
@@ -6685,7 +6789,7 @@ below?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <ol style="list-style-type: decimal">
 <li>Set positive first impressions</li>
@@ -6934,7 +7038,7 @@ add it to the list.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <ul>
 <li>Close and save files. Where can those files be found, and how can
@@ -7069,7 +7173,7 @@ minutes.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>Compare your list of topics with the list below. What is missing,
 either in your list or the one below?</p>
@@ -7129,7 +7233,7 @@ exercise.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Excalidraw </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
 <div class="accordion-body">
 <p>The online tool we used in the mental models exercise is <a href="https://excalidraw.com/" class="external-link">Excalidraw</a>, in case you’d like to use
 it here.</p>
@@ -7290,7 +7394,7 @@ Trainers anonymous feedback directly.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>You will need to get the post-training survey link yourself and
 provide it in the activity below. It should follow the form
@@ -7328,7 +7432,7 @@ you, and we look forward to having you as Carpentries Instructors!</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor2" aria-expanded="false" aria-controls="collapseInstructor2">
   <h3 class="accordion-header" id="headingInstructor2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor2" class="accordion-collapse collapse" aria-labelledby="headingInstructor2" data-bs-parent="#accordionInstructor2">
+<div id="collapseInstructor2" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor2" aria-labelledby="headingInstructor2">
 <div class="accordion-body">
 <p>It can be helpful to show trainees how can download the etherpad to
 save it and that while there are no plans to take it down, it is also
@@ -7407,8 +7511,8 @@ teach.</li>
   "url": "https://carpentries.github.io/instructor-training/instructor/aio.html",
   "identifier": "https://carpentries.github.io/instructor-training/instructor/aio.html",
   "dateCreated": "2014-11-16",
-  "dateModified": "2026-10-27",
-  "datePublished": "2026-10-27"
+  "dateModified": "2026-11-02",
+  "datePublished": "2026-11-02"
 }
 
   </script><script>
