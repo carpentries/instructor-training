@@ -108,6 +108,10 @@ For example, a participant who is hard of hearing may simply hope that
 instructors will speak loudly enough for them to hear. Taking steps to make
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
+The Carpentries [accessibility statement][carpentries-accessibility-statement] explains how
+barriers to participation are removed across our community.
+You can also [request accessibility support][carpentries-accessibility-form] for an event.
+
 ### From Accessibility Support to Universal Design
 
 Accessibility support means changing things to serve an individual with a demonstrated need (also known as accommodations).
@@ -344,6 +348,8 @@ at the top), though our [\#accessibility channel][slack-accessibility] on [The C
 [coc]: https://docs.carpentries.org/policies/coc/
 [slack-accessibility]: https://carpentries.slack.com/archives/CBDTKM30Q
 [slack-join]: https://slack-invite.carpentries.org
+[carpentries-accessibility-statement]: https://carpentries.org/about-us/#accessibility-statement
+[carpentries-accessibility-form]: https://carpentries.typeform.com/to/B2OSYaD0
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
